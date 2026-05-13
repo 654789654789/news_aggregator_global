@@ -1,0 +1,28 @@
+name: Every 15 Min News Push
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Instructs GitHub to run this every 15 minutes
+  workflow_dispatch:       # Gives you a manual "Run workflow" button in the GitHub UI
+
+jobs:
+  run-aggregator:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # CRITICAL: Allows the script to save last_headlines.txt back to the repo
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: pip install requests
+      
+      - name: Run News Aggregator
+        run: python main.py
+      
+      - name: Save Cache History
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update headline cache"
