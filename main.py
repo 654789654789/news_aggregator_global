@@ -63,9 +63,23 @@ def get_cached_headlines():
             return set(line.strip() for line in f.readlines())
     return set()
 
-def save_cached_headlines(headlines_set):
+def save_cached_headlines(new_headlines_set):
+    history = []
+    # Read existing history to maintain order
+    if os.path.exists(CACHE_FILE):
+        with open(CACHE_FILE, "r", encoding="utf-8") as f:
+            history = [line.strip() for line in f.readlines()]
+    
+    # Add new headlines that aren't already in history
+    for headline in new_headlines_set:
+        if headline not in history:
+            history.append(headline)
+            
+    # Keep only the last 1000 to prevent the file from growing forever
+    history = history[-1000:]
+    
     with open(CACHE_FILE, "w", encoding="utf-8") as f:
-        for headline in headlines_set:
+        for headline in history:
             f.write(f"{headline}\n")
 
 def parse_date(date_str):
