@@ -187,9 +187,9 @@ def fetch_recent_headlines(feed_url, minutes=15):
                 if title.lower().startswith(QUESTION_WORDS):
                     continue
 
-                # Rule 3: Word Count Filter (5 to 22 words)
+                # Rule 3: Word Count Filter (6 to 22 words)
                 word_count = len(title.split())
-                if word_count < 5 or word_count > 22:
+                if word_count < 6 or word_count > 22:
                     continue
 
                 # Rule 4: Skip truncated titles or extremely short junk
