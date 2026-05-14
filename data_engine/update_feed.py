@@ -9,6 +9,47 @@ from email.utils import parsedate_to_datetime
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
+# --- PulseMesh Intelligence Configuration ---
+SOURCE_MAP = {
+    "nytimes.com": "NYT",
+    "bbc.co": "BBC",
+    "techcrunch.com": "TechCrunch",
+    "thehill.com": "The Hill",
+    "wired.com": "Wired",
+    "theverge.com": "Verge",
+    "venturebeat.com": "VentureBeat",
+    "theguardian.com": "Guardian",
+    "npr.org": "NPR",
+    "pbs.org": "PBS",
+    "arstechnica.com": "Ars",
+    "technologyreview.com": "MIT Tech",
+    "economist.com": "Economist",
+    "ft.com": "FT",
+    "nature.com": "Nature",
+    "sciencedaily.com": "SciDaily",
+    "phys.org": "Phys.org",
+    "scientificamerican.com": "SciAm",
+    "newscientist.com": "New Scientist",
+    "espn.com": "ESPN",
+    "si.com": "Sports Illus",
+    "theathletic.com": "Athletic",
+    "rollingstone.com": "Rolling Stone",
+    "variety.com": "Variety",
+    "hollywoodreporter.com": "THR",
+    "billboard.com": "Billboard",
+    "cnbc.com": "CNBC",
+    "marketwatch.com": "MarketWatch",
+    "reuters.com": "Reuters",
+    "apnews.com": "AP"
+}
+
+# Domains to block entirely (Propaganda, low-credibility, or heavy bias)
+PROPAGANDA_BLOCKLIST = [
+    "rt.com", "sputniknews.com", "breitbart.com", "infowars.com", 
+    "dailymail.co.uk", "nypost.com", "almasdarnews.com", "tass.com",
+    "presstv.ir", "globaltimes.cn", "chinadaily.com.cn"
+]
+
 FEEDS = {
     "Politics": [
         "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZ4ZERBU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en",
@@ -247,50 +288,33 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                 if score < 8:
                     continue
 
-                    # Advanced Source Detection
-                    source_name = "Pulse"
-                    domain = link.lower().split('//')[-1].split('/')[0]
-                    
-                    SOURCE_MAP = {
-                        "nytimes.com": "NYT",
-                        "bbc.co": "BBC",
-                        "techcrunch.com": "TC",
-                        "thehill.com": "The Hill",
-                        "wired.com": "Wired",
-                        "google.com": "Google",
-                        "theguardian.com": "Guardian",
-                        "aljazeera.com": "Al Jazeera",
-                        "verge.com": "The Verge",
-                        "npr.org": "NPR",
-                        "pbs.org": "PBS",
-                        "arstechnica.com": "Ars",
-                        "venturebeat.com": "VB",
-                        "bloomberg.com": "Bloomberg",
-                        "reuters.com": "Reuters",
-                        "apnews.com": "AP",
-                        "espn.com": "ESPN",
-                        "bleacherreport.com": "B/R",
-                        "cnn.com": "CNN",
-                        "foxnews.com": "Fox",
-                        "wsj.com": "WSJ",
-                        "forbes.com": "Forbes",
-                        "reuters.com": "Reuters",
-                        "cnbc.com": "CNBC"
-                    }
-                    
-                    for key, val in SOURCE_MAP.items():
-                        if key in domain:
-                            source_name = val
-                            break
-                    
-                    seen_titles.add(normalized)
-                    articles.append({
-                        "title": title,
-                        "link": link,
-                        "source": source_name,
-                        "timestamp": pub_date.isoformat(),
-                        "score": score
-                    })
+                # 7. SOURCE & PROPAGANDA INTELLIGENCE
+                domain = link.lower().split('//')[-1].split('/')[0]
+                
+                # Filter propaganda/bias
+                is_blocked = False
+                for blocked in PROPAGANDA_BLOCKLIST:
+                    if blocked in domain:
+                        is_blocked = True
+                        break
+                if is_blocked:
+                    continue
+
+                # Identify Source
+                source_name = "Pulse"
+                for key, val in SOURCE_MAP.items():
+                    if key in domain:
+                        source_name = val
+                        break
+                
+                seen_titles.add(normalized)
+                articles.append({
+                    "title": title,
+                    "link": link,
+                    "source": source_name,
+                    "timestamp": pub_date.isoformat(),
+                    "score": score
+                })
     except Exception as e:
         pass
     return articles
