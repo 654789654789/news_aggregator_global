@@ -1,6 +1,8 @@
 import os
 import json
 import requests
+import re
+import html
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
@@ -100,7 +102,7 @@ def parse_date(date_str):
         pass
     return None
 
-def fetch_recent_headlines(feed_url, minutes=15):
+def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
     articles = []
     cutoff_time = datetime.now(timezone.utc) - timedelta(minutes=minutes)
     try:
@@ -146,16 +148,16 @@ def fetch_recent_headlines(feed_url, minutes=15):
                     link = link_el.attrib['href']
 
             if title_el is not None and title_el.text:
-                import html
-                import re
-                
-                # 1. Unescape HTML entities (converts &quot; to ", &#39; to ', etc.)
+                # 1. Unescape HTML entities
                 title = html.unescape(title_el.text.strip())
                 
-                # 2. Strip Emojis from the start (removes things like 🚨 or ⚽)
+                # 2. Strip Emojis from start
                 title = re.sub(r'^[\W\s]*[\u2600-\u27BF\u1F300-\u1F9FF\u1F600-\u1F64F]+[\W\s]*', '', title)
                 
-                # PRE-CLEANING: Strip junk prefixes
+                # 3. Initial Score & Sanitization
+                score = 10
+                
+                # Strip junk prefixes
                 PREFIXES_TO_STRIP = [
                     "Live Updates:", "Live Update:", "Live updates:", "Live update:",
                     "BREAKING:", "Breaking:", "Breaking News:", "WATCH:", "Watch:", 
@@ -166,41 +168,79 @@ def fetch_recent_headlines(feed_url, minutes=15):
                     if title.lower().startswith(prefix.lower()):
                         title = title[len(prefix):].strip()
                 
-                # Rule 0: Strip branding and junk suffixes
-                # This handles "Headline - Source", "Headline | Editorial", "Headline — Watch"
+                # Strip branding and junk suffixes
                 for separator in [" - ", " | ", " — "]:
                     if separator in title:
                         parts = title.rsplit(separator, 1)
                         main_title = parts[0].strip()
                         suffix = parts[1].lower().strip()
-                        # If the suffix is a known junk word or short branding, chop it
                         JUNK_SUFFIXES = ["watch", "live", "gallery", "video", "editorial", "opinion", "photos", "update"]
                         if suffix in JUNK_SUFFIXES or len(suffix) < 15:
                             title = main_title
+
+                # 4. CRITICAL FILTERS (Immediate Rejection)
                 
-                # Rule 1: No clickbait questions
-                if title.endswith("?") or "?" in title:
+                # Rule: Duplicate Detection
+                normalized = re.sub(r'[^a-z0-9]', '', title.lower())
+                if normalized in seen_titles:
+                    continue
+                
+                # Rule: Vague Pronoun Starts
+                VAGUE_STARTS = ("this ", "that ", "these ", "those ", "it ", "they ", "he ", "she ")
+                if title.lower().startswith(VAGUE_STARTS):
                     continue
 
-                # Rule 2: No headlines starting with question words
-                QUESTION_WORDS = ("what ", "which ", "where ", "who ", "why ", "when ", "how ", "is ", "are ", "was ", "were ", "did ", "do ", "does ", "can ", "could ", "should ", "would ", "will ")
-                if title.lower().startswith(QUESTION_WORDS):
+                # Rule: Clickbait Questions
+                if title.endswith("?") or title.lower().startswith(("what ", "which ", "how ", "why ", "when ", "is ", "are ", "do ", "does ")):
                     continue
 
-                # Rule 3: Word Count Filter (6 to 22 words)
+                # Rule: Length & Word Count
                 word_count = len(title.split())
-                if word_count < 6 or word_count > 22:
+                if word_count < 6 or word_count > 25 or len(title) < 30:
                     continue
 
-                # Rule 4: Skip truncated titles or extremely short junk
-                if title.endswith("...") or title.endswith("…") or len(title) < 25:
+                # 5. QUALITY SCORING (Penalty & Boost)
+                
+                # Penalty: Clickbait Phrases
+                CLICKBAIT_PHRASES = ["you won't believe", "this is why", "shocking", "goes viral", "internet reacts", "fans react", "breaks silence", "what happens next", "slammed for", "destroys", "meltdown", "sparks outrage"]
+                if any(phrase in title.lower() for phrase in CLICKBAIT_PHRASES):
+                    score -= 5
+                
+                # Penalty: Uppercase SHOUTING
+                upper_ratio = sum(1 for c in title if c.isupper()) / len(title)
+                if upper_ratio > 0.4:
+                    score -= 4
+                
+                # Penalty: Excessive Punctuation
+                punc_count = sum(title.count(p) for p in ["!", "?", ":"])
+                if punc_count > 3:
+                    score -= 3
+                
+                # Boost: Data & Numbers
+                if re.search(r'\d', title):
+                    score += 3
+                
+                # Boost: Proper Nouns (Capitalized words in the middle)
+                middle_words = title.split()[1:]
+                if any(w[0].isupper() for w in middle_words if w):
+                    score += 2
+                
+                # Boost: Intelligence Keywords
+                INTEL_KEYWORDS = ["economy", "policy", "treaty", "market", "election", "ai", "tech", "summit", "deal", "inflation", "stock", "agreement"]
+                if any(word in title.lower() for word in INTEL_KEYWORDS):
+                    score += 2
+
+                # 6. FINAL QUALITY BAR
+                if score < 8:
                     continue
 
                 if title and link:
+                    seen_titles.add(normalized)
                     articles.append({
                         "title": title,
                         "link": link,
                         "timestamp": pub_date.isoformat(),
+                        "score": score
                     })
     except Exception as e:
         pass
@@ -219,6 +259,14 @@ def main():
     else:
         db = {k: [] for k in FEEDS.keys()}
 
+    # Initialize seen_titles for global deduplication
+    seen_titles = set()
+    for category_articles in db.values():
+        for article in category_articles:
+            # Normalize for comparison
+            normalized = re.sub(r'[^a-z0-9]', '', article["title"].lower())
+            seen_titles.add(normalized)
+
     # Fetch new articles
     for category, feed_urls in FEEDS.items():
         if category not in db:
@@ -226,18 +274,12 @@ def main():
             
         new_articles = []
         for feed_url in feed_urls:
-            articles = fetch_recent_headlines(feed_url, minutes=15)
+            articles = fetch_recent_headlines(feed_url, seen_titles, minutes=15)
             new_articles.extend(articles)
             
-        # Deduplicate and append
-        existing_links = {item["link"] for item in db[category]}
-        existing_titles = {item["title"] for item in db[category]}
-        
+        # Append new articles (Scoring filter already handled deduplication)
         for article in new_articles:
-            if article["link"] not in existing_links and article["title"] not in existing_titles:
-                db[category].insert(0, article)
-                existing_links.add(article["link"])
-                existing_titles.add(article["title"])
+            db[category].insert(0, article)
                 
         # Keep only last 7 days. Approximate 7 days max 150 items per category to save space
         cutoff_7_days = datetime.now(timezone.utc) - timedelta(days=7)
