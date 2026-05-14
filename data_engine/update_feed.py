@@ -147,24 +147,39 @@ def fetch_recent_headlines(feed_url, minutes=15):
 
             if title_el is not None and title_el.text:
                 title = title_el.text.strip()
-                if " - " in title:
-                    title = title.rsplit(" - ", 1)[0].strip()
+                
+                # PRE-CLEANING: Strip junk prefixes to get to the core news
+                PREFIXES_TO_STRIP = [
+                    "Live Updates:", "Live Update:", "Live updates:", "Live update:",
+                    "BREAKING:", "Breaking:", "Breaking News:", "WATCH:", "Watch:", 
+                    "VIDEO:", "Video:", "Source:", "Opinion:", "JUST IN:", "Just In:",
+                    "EXCLUSIVE:", "Exclusive:", "REPORT:", "Report:"
+                ]
+                for prefix in PREFIXES_TO_STRIP:
+                    if title.lower().startswith(prefix.lower()):
+                        title = title[len(prefix):].strip()
+                
+                # Rule 0: Strip branding suffixes (e.g. " - The Guardian" or " | CNN")
+                for separator in [" - ", " | ", " — "]:
+                    if separator in title:
+                        title = title.rsplit(separator, 1)[0].strip()
                 
                 # Rule 1: No clickbait questions (ends with ?)
-                if "?" in title:
+                if title.endswith("?") or "?" in title:
                     continue
 
-                # Rule 2: No headlines starting with question words
+                # Rule 2: No headlines starting with question words (often clickbait/guides)
                 QUESTION_WORDS = ("what ", "which ", "where ", "who ", "why ", "when ", "how ", "is ", "are ", "was ", "were ", "did ", "do ", "does ", "can ", "could ", "should ", "would ", "will ")
                 if title.lower().startswith(QUESTION_WORDS):
                     continue
 
-                # Rule 3: At least 6 words
-                if len(title.split()) < 6:
+                # Rule 3: Word Count Filter (Sweet spot: 5 to 20 words)
+                word_count = len(title.split())
+                if word_count < 5 or word_count > 22:
                     continue
 
-                # Rule 4: Skip truncated titles from RSS feeds (e.g. "QB carousel, Geo...")
-                if title.endswith("...") or title.endswith("…"):
+                # Rule 4: Skip truncated titles or junk (e.g. "...")
+                if title.endswith("...") or title.endswith("…") or len(title) < 20:
                     continue
 
                 if title and link:

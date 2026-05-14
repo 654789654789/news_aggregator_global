@@ -108,7 +108,7 @@ export default function CategoryPage({ params }) {
 
   const handleCopy = (e, article) => {
     e.preventDefault();
-    const textToCopy = `${article.title}\n\nRead more: ${article.link}`;
+    const textToCopy = article.title;
     
     navigator.clipboard.writeText(textToCopy).then(() => {
       setCopiedLink(article.link);
