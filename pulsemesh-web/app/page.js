@@ -26,18 +26,22 @@ export default function Home() {
       
       fetch(bustedUrl)
         .then((res) => {
-          if (!res.ok) return fetch("/fallback_data.json").then(r => r.json());
+          if (!res.ok) throw new Error("GitHub fetch failed");
           return res.json();
         })
-        .then((json) => setData(json))
-        .catch((err) => {
-          // Only show error on first load if we have no data
-          if (!data) {
-            fetch("/fallback_data.json")
-              .then(res => res.json())
-              .then(json => setData(json))
-              .catch(() => setError(true));
+        .then((json) => {
+          // If GitHub returns empty object (e.g. wiped/cached), use local fallback
+          if (!json || Object.keys(json).length === 0) {
+            return fetch("/fallback_data.json").then(r => r.json());
           }
+          return json;
+        })
+        .then((json) => setData(json))
+        .catch(() => {
+          fetch("/fallback_data.json")
+            .then(res => res.json())
+            .then(json => setData(json))
+            .catch(() => setError(true));
         });
     };
 
