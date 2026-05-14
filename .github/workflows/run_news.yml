@@ -1,13 +1,13 @@
-name: Every 15 Min PulseMesh Update
+name: Every 15 Min News Push
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:       # Allows the cron-job.org timer to trigger the script remotely
 
 jobs:
   run-aggregator:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write      # CRITICAL: Allows the script to save last_headlines.txt back to the repo
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -17,10 +17,10 @@ jobs:
       - name: Install dependencies
         run: pip install requests
       
-      - name: Run Data Engine
-        run: python data_engine/update_feed.py
+      - name: Run News Aggregator
+        run: python main.py
       
-      - name: Save JSON Database
+      - name: Save Cache History
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update PulseMesh JSON database"
+          commit_message: "Auto-update headline cache"
