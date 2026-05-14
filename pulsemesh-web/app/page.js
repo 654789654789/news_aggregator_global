@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import { Gavel, Cpu, Globe, TrendingUp } from "lucide-react";
 import "./globals.css";
 
 const DATA_URL = "https://raw.githubusercontent.com/654789654789/news_aggregator_global/main/data_engine/pulsemesh_data.json";
@@ -116,6 +117,16 @@ export default function Home() {
     });
   };
 
+  const getCategoryIcon = (category) => {
+    const props = { size: 20, className: "category-icon" };
+    switch(category) {
+      case 'Politics': return <Gavel {...props} color="#3b82f6" />;
+      case 'Tech': return <Cpu {...props} color="#22d3ee" />;
+      case 'World': return <Globe {...props} color="#10b981" />;
+      default: return <TrendingUp {...props} color="#a855f7" />;
+    }
+  };
+
   if (!data && !error) return (
     <div className="mesh-bg">
       <div className="loading">Syncing PulseMesh Network...</div>
@@ -157,12 +168,11 @@ export default function Home() {
             <h1 className="brand-title">PulseMesh</h1>
             <div className="brand-subtitle">
               <span className="live-indicator"></span>
-              Live Global
+              Intelligence Engine
             </div>
           </div>
 
           <div style={{display:'flex', alignItems:'center', gap:'0.75rem'}}>
-            {/* Funnel Filter Dropdown */}
             <div className="funnel-wrapper">
               <button
                 className={`funnel-btn ${timeFilter !== 'all' ? 'funnel-active' : ''}`}
@@ -217,7 +227,6 @@ export default function Home() {
                   {article.title} <span className="ticker-dot">•</span>
                 </a>
               ))}
-              {/* Duplicate for seamless infinite scroll */}
               {tickerArticles.map((article, idx) => (
                 <a key={`dup-${idx}`} href={article.link} target="_blank" rel="noreferrer" className="ticker-item">
                   <span className="ticker-category">{article.category}</span>
@@ -238,15 +247,18 @@ export default function Home() {
               const displayArticles = filteredCatArticles.slice(0, 3);
               
               return (
-                <div key={cat} className="category-section">
+                <div key={cat} className={`category-section section-${cat}`}>
                   <div className="category-header">
-                    <h2 className="category-title">{cat}</h2>
+                    <div className="category-title-wrap">
+                      {getCategoryIcon(cat)}
+                      <h2 className="category-title">{cat}</h2>
+                    </div>
                     <span className="category-count">{filteredCatArticles.length} total</span>
                   </div>
                   
                   <div className="news-list">
                     {displayArticles.map((article, idx) => (
-                      <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="news-item">
+                      <a key={idx} href={article.link} target="_blank" rel="noreferrer" className={`news-item ${idx === 0 ? 'featured' : ''}`}>
                         <div className="item-header">
                           <span className="item-time">{formatTimeAgo(article.timestamp)}</span>
                           <button 
@@ -261,7 +273,10 @@ export default function Home() {
                             )}
                           </button>
                         </div>
-                        <h3 className="item-title">{article.title}</h3>
+                        <h3 className="item-title">
+                          <span className="source-tag">{article.source || 'News'}</span>
+                          {article.title}
+                        </h3>
                       </a>
                     ))}
                   </div>

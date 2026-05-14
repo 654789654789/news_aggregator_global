@@ -563,3 +563,69 @@ body {
     display: none;
   }
 }
+
+/* --- PulseMesh Variety and Intelligence Overhaul --- */
+
+:root {
+  --politics-glow: rgba(59, 130, 246, 0.15);
+  --tech-glow: rgba(34, 211, 238, 0.15);
+  --world-glow: rgba(16, 185, 129, 0.15);
+  --default-glow: rgba(168, 85, 247, 0.15);
+}
+
+.section-Politics { --accent-glow: var(--politics-glow); }
+.section-Tech { --accent-glow: var(--tech-glow); }
+.section-World { --accent-glow: var(--world-glow); }
+
+.category-section {
+  position: relative;
+  box-shadow: 0 0 60px -25px var(--accent-glow, var(--default-glow));
+  transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.category-section:hover {
+  transform: translateY(-5px);
+}
+
+.category-title-wrap {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.source-tag {
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: 900;
+  background: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.5);
+  padding: 1px 5px;
+  border-radius: 3px;
+  margin-right: 10px;
+  text-transform: uppercase;
+  user-select: none;
+  pointer-events: none;
+  vertical-align: middle;
+  letter-spacing: 0.05em;
+  border: 1px solid rgba(255,255,255,0.05);
+}
+
+.news-item.featured {
+  padding: 1.5rem !important;
+  background: linear-gradient(145deg, rgba(255,255,255,0.04) 0%, rgba(255,255,255,0.01) 100%) !important;
+  border-left: 3px solid var(--accent-glow, var(--default-glow)) !important;
+}
+
+.news-item.featured .item-title {
+  font-size: 1.2rem !important;
+  font-weight: 800 !important;
+  line-height: 1.25 !important;
+  color: #fff !important;
+}
+
+.category-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.8;
+}

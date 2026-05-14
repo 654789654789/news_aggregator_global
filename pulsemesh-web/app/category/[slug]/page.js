@@ -2,6 +2,7 @@
 
 import { useState, useEffect, use } from "react";
 import Link from "next/link";
+import { Gavel, Cpu, Globe, TrendingUp } from "lucide-react";
 import "../../globals.css";
 
 const DATA_URL = "https://raw.githubusercontent.com/654789654789/news_aggregator_global/main/data_engine/pulsemesh_data.json";
@@ -119,6 +120,16 @@ export default function CategoryPage({ params }) {
     });
   };
 
+  const getCategoryIcon = (category) => {
+    const props = { size: 28, className: "category-icon" };
+    switch(category) {
+      case 'Politics': return <Gavel {...props} color="#3b82f6" />;
+      case 'Tech': return <Cpu {...props} color="#22d3ee" />;
+      case 'World': return <Globe {...props} color="#10b981" />;
+      default: return <TrendingUp {...props} color="#a855f7" />;
+    }
+  };
+
   if (!data && !error) return (
     <div className="mesh-bg">
       <div className="loading">Syncing PulseMesh Network...</div>
@@ -162,9 +173,12 @@ export default function CategoryPage({ params }) {
         </header>
 
         <div className="container" style={{maxWidth: '800px'}}>
-          <div className="category-section">
+          <div className={`category-section section-${categoryName}`}>
             <div className="category-header">
-              <h2 className="category-title" style={{fontSize: '2rem'}}>{categoryName || "Category Not Found"}</h2>
+              <div className="category-title-wrap">
+                {getCategoryIcon(categoryName)}
+                <h2 className="category-title" style={{fontSize: '2rem'}}>{categoryName || "Category Not Found"}</h2>
+              </div>
               <div style={{display:'flex', alignItems:'center', gap:'0.75rem'}}>
                 <span className="category-count">{filteredArticles.length} updates</span>
                 {/* Funnel Filter Dropdown */}
@@ -209,7 +223,7 @@ export default function CategoryPage({ params }) {
             ) : (
               <div className="news-list">
                 {filteredArticles.map((article, idx) => (
-                  <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="news-item" style={{padding: '1.5rem'}}>
+                  <a key={idx} href={article.link} target="_blank" rel="noreferrer" className={`news-item ${idx === 0 ? 'featured' : ''}`} style={{padding: '1.5rem'}}>
                     <div className="item-header">
                       <span className="item-time" style={{fontSize: '0.85rem'}}>{formatTimeAgo(article.timestamp)}</span>
                       <button 
@@ -224,7 +238,10 @@ export default function CategoryPage({ params }) {
                         )}
                       </button>
                     </div>
-                    <h3 className="item-title" style={{fontSize: '1.25rem', marginTop: '0.5rem'}}>{article.title}</h3>
+                    <h3 className="item-title" style={{fontSize: '1.25rem', marginTop: '0.5rem'}}>
+                      <span className="source-tag">{article.source || 'News'}</span>
+                      {article.title}
+                    </h3>
                   </a>
                 ))}
               </div>
