@@ -226,8 +226,19 @@ def main():
         # Hard limit 200 per category to prevent massive file
         db[category] = valid_items[:200]
 
+    # Save to main data file
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(db, f, indent=2)
+        
+    # Also save to public fallback file in the web folder
+    # This keeps the local dev environment and future builds updated
+    fallback_path = "pulsemesh-web/public/fallback_data.json"
+    try:
+        with open(fallback_path, "w", encoding="utf-8") as f:
+            json.dump(db, f, indent=2)
+        print(f"Successfully updated both {DATA_FILE} and {fallback_path}")
+    except Exception as e:
+        print(f"Note: Could not update fallback file at {fallback_path}: {e}")
 
 if __name__ == "__main__":
     main()
