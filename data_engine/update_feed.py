@@ -190,22 +190,21 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                     link = link_el.attrib['href']
 
             if title_el is not None and title_el.text:
-                # 1. Unescape HTML entities
+                # 1. Unescape HTML and Basic Clean
                 title = html.unescape(title_el.text.strip())
+                title = title.replace('\xa0', ' ').replace('\u200b', '')
                 
-                # 2. Skip Vague Pronouns (Skip Entirely, don't trim)
+                # 2. Surgical Emoji Removal (Removes ONLY the emoji, leaves the words)
+                # We use a non-destructive regex that preserves all alphanumeric text
+                title = re.sub(r'[\u2600-\u27BF\u1F300-\u1F9FF\u1F600-\u1F64F]', '', title).strip()
+                
+                # 3. Initial Score
+                score = 10
+                
+                # 4. Skip Vague Titles (Entirely)
                 VAGUE_STARTS = ("this ", "that ", "these ", "those ", "it ", "they ", "he ", "she ")
                 if title.lower().startswith(VAGUE_STARTS):
                     continue
-
-                # 3. Strip Emojis from start (Only if an emoji is actually there)
-                # This regex ensures we only strip if we find a character in the emoji range
-                if re.search(r'[\u2600-\u27BF\u1F300-\u1F9FF\u1F600-\u1F64F]', title[:5]):
-                    title = re.sub(r'^[\W\s]*[\u2600-\u27BF\u1F300-\u1F9FF\u1F600-\u1F64F]+[\W\s]*', '', title)
-                
-                # 4. Initial Score & Sanitization
-                score = 10
-                # RULE DROPPED: Prefix stripping disabled to ensure headline integrity.
                 
                 # Strip branding and junk suffixes (Only if it's actually junk)
                 for separator in [" - ", " | ", " — "]:
