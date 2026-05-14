@@ -1,9 +1,7 @@
 name: Every 15 Min News Push
 
 on:
-  schedule:
-    - cron: '*/15 * * * *' # Instructs GitHub to run this every 15 minutes
-  workflow_dispatch:       # Gives you a manual "Run workflow" button in the GitHub UI
+  workflow_dispatch:       # Allows the cron-job.org timer to trigger the script remotely
 
 jobs:
   run-aggregator:
