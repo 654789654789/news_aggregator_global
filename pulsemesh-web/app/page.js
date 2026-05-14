@@ -73,10 +73,10 @@ export default function Home() {
     };
 
     fetchData(); 
-    const interval = setInterval(fetchData, 180000); 
+    const interval = setInterval(fetchData, 180000); // 3-minute heartbeat
 
     return () => clearInterval(interval);
-  }, [data]);
+  }, []);
 
   const toggleTheme = () => {
     if (theme === "dark") {

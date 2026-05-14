@@ -23,31 +23,24 @@ SOURCE_MAP = {
     "pbs.org": "PBS",
     "arstechnica.com": "Ars",
     "technologyreview.com": "MIT Tech",
-    "economist.com": "Economist",
-    "ft.com": "FT",
-    "nature.com": "Nature",
-    "sciencedaily.com": "SciDaily",
-    "phys.org": "Phys.org",
-    "scientificamerican.com": "SciAm",
-    "newscientist.com": "New Scientist",
-    "espn.com": "ESPN",
-    "si.com": "Sports Illus",
-    "theathletic.com": "Athletic",
-    "rollingstone.com": "Rolling Stone",
-    "variety.com": "Variety",
-    "hollywoodreporter.com": "THR",
-    "billboard.com": "Billboard",
     "cnbc.com": "CNBC",
     "marketwatch.com": "MarketWatch",
     "reuters.com": "Reuters",
-    "apnews.com": "AP"
+    "apnews.com": "AP",
+    "dw.com": "DW",
+    "espn.com": "ESPN",
+    "skysports.com": "Sky Sports",
+    "hollywoodreporter.com": "THR",
+    "variety.com": "Variety",
+    "rollingstone.com": "Rolling Stone",
+    "deadline.com": "Deadline"
 }
 
 # Domains to block entirely (Propaganda, low-credibility, or heavy bias)
 PROPAGANDA_BLOCKLIST = [
     "rt.com", "sputniknews.com", "breitbart.com", "infowars.com", 
     "dailymail.co.uk", "nypost.com", "almasdarnews.com", "tass.com",
-    "presstv.ir", "globaltimes.cn", "chinadaily.com.cn"
+    "presstv.ir", "globaltimes.cn", "chinadaily.com.cn", "aljazeera.com"
 ]
 
 FEEDS = {
@@ -58,8 +51,7 @@ FEEDS = {
         "https://feeds.npr.org/1014/rss.xml",
         "https://www.pbs.org/newshour/feeds/rss/headlines",
         "https://thehill.com/feed/",
-        "https://www.theguardian.com/politics/rss",          # The Guardian (UK)
-        "https://www.aljazeera.com/xml/rss/all.xml",         # Al Jazeera (Qatar)
+        "https://www.theguardian.com/politics/rss",
     ],
     "Tech": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
@@ -67,8 +59,8 @@ FEEDS = {
         "https://feeds.arstechnica.com/arstechnica/index",
         "https://www.wired.com/feed/rss",
         "https://www.technologyreview.com/feed/",
-        "https://www.theverge.com/rss/index.xml",             # The Verge
-        "https://feeds.feedburner.com/venturebeat/SZYF",     # VentureBeat
+        "https://www.theverge.com/rss/index.xml",
+        "https://feeds.feedburner.com/venturebeat/SZYF",
     ],
     "World": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
@@ -77,7 +69,6 @@ FEEDS = {
         "https://feeds.npr.org/1004/rss.xml",
         "https://www.pbs.org/newshour/feeds/rss/world",
         "https://www.theguardian.com/world/rss",
-        "https://www.aljazeera.com/xml/rss/all.xml",           # Al Jazeera added
         "https://www.dw.com/rss/rss.xml",
     ],
     "Business": [
@@ -86,8 +77,6 @@ FEEDS = {
         "https://feeds.bbci.co.uk/news/business/rss.xml",
         "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
         "https://feeds.marketwatch.com/marketwatch/topstories/",
-        "https://www.ft.com/?format=rss",                    # Financial Times (UK)
-        "https://www.economist.com/finance-and-economics/rss.xml", # The Economist
     ],
     "Science": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
@@ -96,8 +85,6 @@ FEEDS = {
         "https://phys.org/rss-feed/",
         "https://www.nature.com/nature.rss",
         "https://feeds.npr.org/1007/rss.xml",
-        "https://www.newscientist.com/feed/home",            # New Scientist (UK)
-        "https://www.scientificamerican.com/platform/syndication/rss/", # Scientific American
     ],
     "Sports": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
@@ -105,8 +92,8 @@ FEEDS = {
         "https://feeds.bbci.co.uk/sport/rss.xml",
         "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
         "https://sports.yahoo.com/rss/",
-        "https://www.skysports.com/rss/12040",               # Sky Sports (UK)
-        "https://www.theguardian.com/sport/rss",            # The Guardian Sport
+        "https://www.skysports.com/rss/12040",
+        "https://www.theguardian.com/sport/rss",
     ],
     "Entertainment": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
@@ -114,8 +101,8 @@ FEEDS = {
         "https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml",
         "https://variety.com/feed/",
         "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
-        "https://deadline.com/feed/",                        # Deadline Hollywood
-        "https://www.rollingstone.com/music/music-news/feed/", # Rolling Stone
+        "https://deadline.com/feed/",
+        "https://www.rollingstone.com/music/music-news/feed/",
     ],
     "Lifestyle": [
         "https://rss.nytimes.com/services/xml/rss/nyt/Lifestyle.xml",
@@ -123,8 +110,8 @@ FEEDS = {
         "https://www.gq.com/feed/rss",
         "https://nypost.com/living/feed/",
         "https://feeds.npr.org/1138/rss.xml",
-        "https://www.bbc.co.uk/food/articles/rss.xml",       # BBC Food
-        "https://www.theguardian.com/lifeandstyle/rss",     # The Guardian Life
+        "https://www.bbc.co.uk/food/articles/rss.xml",
+        "https://www.theguardian.com/lifeandstyle/rss",
     ],
 }
 
@@ -189,14 +176,17 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                 elif 'href' in link_el.attrib:
                     link = link_el.attrib['href']
 
-            if title_el is not None and title_el.text:
+            title = ""
+            if title_el is not None:
+                title = (title_el.text or "").strip()
+            
+            if title:
                 # 1. Unescape HTML and Basic Clean
-                title = html.unescape(title_el.text.strip())
+                title = html.unescape(title)
                 title = title.replace('\xa0', ' ').replace('\u200b', '')
                 
-                # 2. Surgical Emoji Removal (Removes ONLY the emoji, leaves the words)
-                # We use a non-destructive regex that preserves all alphanumeric text
-                title = re.sub(r'[\u2600-\u27BF\u1F300-\u1F9FF\u1F600-\u1F64F]', '', title).strip()
+                # 2. Surgical Emoji Removal (Hex-based)
+                title = re.sub(r'[\U0001f300-\U0001f9ff\U0001f600-\U0001f64f\u2600-\u27bf]', '', title).strip()
                 
                 # 3. Initial Score
                 score = 10
@@ -210,13 +200,12 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                 for separator in [" - ", " | ", " — "]:
                     if separator in title:
                         parts = title.rsplit(separator, 1)
-                        main_title = parts[0].strip()
-                        suffix = parts[1].lower().strip()
-                        
-                        # JUNK LIST: Only strip if the suffix is one of these or very short
-                        JUNK_SUFFIXES = ["watch", "live", "gallery", "video", "editorial", "opinion", "photos", "update", "breaking"]
-                        if suffix in JUNK_SUFFIXES or (len(suffix) < 10 and not any(char.isdigit() for char in suffix)):
-                            title = main_title
+                        if len(parts) > 1:
+                            main_content = parts[0].strip()
+                            suffix = parts[1].lower().strip()
+                            JUNK_SUFFIXES = ["watch", "live", "gallery", "video", "editorial", "opinion", "photos", "update", "breaking"]
+                            if suffix in JUNK_SUFFIXES or (len(suffix) < 10 and not any(char.isdigit() for char in suffix)):
+                                title = main_content
 
                 # 4. CRITICAL FILTERS (Immediate Rejection)
                 
@@ -225,15 +214,6 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                 if normalized in seen_titles:
                     continue
                 
-                # Rule: Vague Pronoun Starts
-                VAGUE_STARTS = ("this ", "that ", "these ", "those ", "it ", "they ", "he ", "she ")
-                if title.lower().startswith(VAGUE_STARTS):
-                    continue
-
-                # Rule: Clickbait Questions
-                if title.endswith("?") or title.lower().startswith(("what ", "which ", "how ", "why ", "when ", "is ", "are ", "do ", "does ")):
-                    continue
-
                 # Rule: Length & Word Count
                 word_count = len(title.split())
                 if word_count < 6 or word_count > 25 or len(title) < 30:
@@ -301,7 +281,7 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                     "timestamp": pub_date.isoformat(),
                     "score": score
                 })
-    except Exception as e:
+    except Exception:
         pass
     return articles
 
@@ -322,7 +302,6 @@ def main():
     seen_titles = set()
     for category_articles in db.values():
         for article in category_articles:
-            # Normalize for comparison
             normalized = re.sub(r'[^a-z0-9]', '', article["title"].lower())
             seen_titles.add(normalized)
 
@@ -333,14 +312,14 @@ def main():
             
         new_articles = []
         for feed_url in feed_urls:
-            articles = fetch_recent_headlines(feed_url, seen_titles, minutes=15)
+            articles = fetch_recent_headlines(feed_url, seen_titles, minutes=360)
             new_articles.extend(articles)
             
-        # Append new articles (Scoring filter already handled deduplication)
+        # Append new articles
         for article in new_articles:
             db[category].insert(0, article)
                 
-        # Keep only last 7 days. Approximate 7 days max 150 items per category to save space
+        # Keep only last 7 days. Hard limit 200 per category
         cutoff_7_days = datetime.now(timezone.utc) - timedelta(days=7)
         valid_items = []
         for item in db[category]:
@@ -351,24 +330,18 @@ def main():
             except:
                 pass
         
-        # Sort by timestamp descending
         valid_items.sort(key=lambda x: datetime.fromisoformat(x["timestamp"]), reverse=True)
-        # Hard limit 200 per category to prevent massive file
         db[category] = valid_items[:200]
 
-    # Save to main data file
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(db, f, indent=2)
         
-    # Also save to public fallback file in the web folder
-    # This keeps the local dev environment and future builds updated
     fallback_path = "pulsemesh-web/public/fallback_data.json"
     try:
         with open(fallback_path, "w", encoding="utf-8") as f:
             json.dump(db, f, indent=2)
-        print(f"Successfully updated both {DATA_FILE} and {fallback_path}")
-    except Exception as e:
-        print(f"Note: Could not update fallback file at {fallback_path}: {e}")
+    except Exception:
+        pass
 
 if __name__ == "__main__":
     main()
