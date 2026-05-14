@@ -76,8 +76,9 @@ FEEDS = {
         "https://feeds.bbci.co.uk/news/world/rss.xml",
         "https://feeds.npr.org/1004/rss.xml",
         "https://www.pbs.org/newshour/feeds/rss/world",
-        "https://www.theguardian.com/world/rss",             # The Guardian World
-        "https://www.dw.com/rss/rss.xml",                    # Deutsche Welle (Germany)
+        "https://www.theguardian.com/world/rss",
+        "https://www.aljazeera.com/xml/rss/all.xml",           # Al Jazeera added
+        "https://www.dw.com/rss/rss.xml",
     ],
     "Business": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
@@ -202,23 +203,16 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                 if re.search(r'[\u2600-\u27BF\u1F300-\u1F9FF\u1F600-\u1F64F]', title[:5]):
                     title = re.sub(r'^[\W\s]*[\u2600-\u27BF\u1F300-\u1F9FF\u1F600-\u1F64F]+[\W\s]*', '', title)
                 
-                # 4. Initial Score & Sanitization
+                # 4. Surgical Prefix Stripping (Only if followed by colon or space)
+                # This ensures we don't accidentally eat legitimate first words
                 score = 10
+                JUNK_WORDS = "Live Updates|Live Update|Breaking News|Breaking|WATCH|VIDEO|Source|Opinion|JUST IN|Exclusive|Report|Official"
                 
-                # Strip junk prefixes (Safe matching - One prefix max)
-                PREFIXES_TO_STRIP = [
-                    "Live Updates", "Live Update", "Live updates", "Live update",
-                    "BREAKING", "Breaking", "Breaking News", "WATCH", "Watch", 
-                    "VIDEO", "Video", "Source", "Opinion", "JUST IN", "Just In",
-                    "EXCLUSIVE", "Exclusive", "REPORT", "Report", "Official"
-                ]
-                for p in PREFIXES_TO_STRIP:
-                    if title.lower().startswith(p.lower() + ":"):
-                        title = title[len(p)+1:].strip()
-                        break 
-                    elif title.lower().startswith(p.lower() + " "):
-                        title = title[len(p):].strip()
-                        break
+                # Pattern 1: Junk words followed by colon (e.g. "Breaking: News")
+                title = re.sub(rf'^({JUNK_WORDS}):\s*', '', title, flags=re.IGNORECASE)
+                
+                # Pattern 2: Junk words followed by space at very start (only if exact match)
+                title = re.sub(rf'^\b({JUNK_WORDS})\b\s+', '', title, flags=re.IGNORECASE)
                 
                 # Strip branding and junk suffixes (Only if it's actually junk)
                 for separator in [" - ", " | ", " — "]:

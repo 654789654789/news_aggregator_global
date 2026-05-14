@@ -655,3 +655,24 @@ body {
 .category-icon {
   opacity: 0.9 !important;
 }
+
+/* --- PulseMesh Final Layout Fixes --- */
+
+.news-item {
+  height: auto !important;
+  min-height: 120px !important;
+  overflow: visible !important;
+}
+
+.item-title {
+  display: block !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+  white-space: normal !important;
+  -webkit-line-clamp: unset !important;
+  line-clamp: unset !important;
+}
+
+.news-item.featured .item-title {
+  font-size: 1.4rem !important; /* Slightly larger for emphasis */
+}
