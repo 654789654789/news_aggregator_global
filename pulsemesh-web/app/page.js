@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import "./globals.css";
 
-const DATA_URL = "https://raw.githubusercontent.com/654789654789/x-news-aggregator/main/data_engine/pulsemesh_data.json";
+const DATA_URL = "https://raw.githubusercontent.com/654789654789/news_aggregator_global/main/data_engine/pulsemesh_data.json";
 
 export default function Home() {
   const [data, setData] = useState(null);
