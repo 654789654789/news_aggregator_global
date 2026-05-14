@@ -15,6 +15,8 @@ FEEDS = {
         "https://feeds.npr.org/1014/rss.xml",
         "https://www.pbs.org/newshour/feeds/rss/headlines",
         "https://thehill.com/feed/",
+        "https://www.theguardian.com/politics/rss",          # The Guardian (UK)
+        "https://www.aljazeera.com/xml/rss/all.xml",         # Al Jazeera (Qatar)
     ],
     "Tech": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
@@ -22,6 +24,8 @@ FEEDS = {
         "https://feeds.arstechnica.com/arstechnica/index",
         "https://www.wired.com/feed/rss",
         "https://www.technologyreview.com/feed/",
+        "https://www.theverge.com/rss/index.xml",             # The Verge
+        "https://feeds.feedburner.com/venturebeat/SZYF",     # VentureBeat
     ],
     "World": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
@@ -29,6 +33,8 @@ FEEDS = {
         "https://feeds.bbci.co.uk/news/world/rss.xml",
         "https://feeds.npr.org/1004/rss.xml",
         "https://www.pbs.org/newshour/feeds/rss/world",
+        "https://www.theguardian.com/world/rss",             # The Guardian World
+        "https://www.dw.com/rss/rss.xml",                    # Deutsche Welle (Germany)
     ],
     "Business": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
@@ -36,6 +42,8 @@ FEEDS = {
         "https://feeds.bbci.co.uk/news/business/rss.xml",
         "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
         "https://feeds.marketwatch.com/marketwatch/topstories/",
+        "https://www.ft.com/?format=rss",                    # Financial Times (UK)
+        "https://www.economist.com/finance-and-economics/rss.xml", # The Economist
     ],
     "Science": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
@@ -44,6 +52,8 @@ FEEDS = {
         "https://phys.org/rss-feed/",
         "https://www.nature.com/nature.rss",
         "https://feeds.npr.org/1007/rss.xml",
+        "https://www.newscientist.com/feed/home",            # New Scientist (UK)
+        "https://www.scientificamerican.com/platform/syndication/rss/", # Scientific American
     ],
     "Sports": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
@@ -51,6 +61,8 @@ FEEDS = {
         "https://feeds.bbci.co.uk/sport/rss.xml",
         "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
         "https://sports.yahoo.com/rss/",
+        "https://www.skysports.com/rss/12040",               # Sky Sports (UK)
+        "https://www.theguardian.com/sport/rss",            # The Guardian Sport
     ],
     "Entertainment": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
@@ -58,6 +70,8 @@ FEEDS = {
         "https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml",
         "https://variety.com/feed/",
         "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+        "https://deadline.com/feed/",                        # Deadline Hollywood
+        "https://www.rollingstone.com/music/music-news/feed/", # Rolling Stone
     ],
     "Lifestyle": [
         "https://rss.nytimes.com/services/xml/rss/nyt/Lifestyle.xml",
@@ -65,6 +79,8 @@ FEEDS = {
         "https://www.gq.com/feed/rss",
         "https://nypost.com/living/feed/",
         "https://feeds.npr.org/1138/rss.xml",
+        "https://www.bbc.co.uk/food/articles/rss.xml",       # BBC Food
+        "https://www.theguardian.com/lifeandstyle/rss",     # The Guardian Life
     ],
 }
 
@@ -134,11 +150,16 @@ def fetch_recent_headlines(feed_url, minutes=15):
                 if " - " in title:
                     title = title.rsplit(" - ", 1)[0].strip()
                 
-                # Rule 1: No clickbait questions
+                # Rule 1: No clickbait questions (ends with ?)
                 if "?" in title:
                     continue
-                
-                # Rule 2: At least 6 words
+
+                # Rule 2: No headlines starting with question words
+                QUESTION_WORDS = ("what ", "which ", "where ", "who ", "why ", "when ", "how ", "is ", "are ", "was ", "were ", "did ", "do ", "does ", "can ", "could ", "should ", "would ", "will ")
+                if title.lower().startswith(QUESTION_WORDS):
+                    continue
+
+                # Rule 3: At least 6 words
                 if len(title.split()) < 6:
                     continue
 
