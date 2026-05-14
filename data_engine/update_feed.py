@@ -180,7 +180,8 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
 
             title = ""
             if title_el is not None:
-                title = (title_el.text or "").strip()
+                # SURGICAL FIX: Use itertext() to prevent the "Word-Eater" bug
+                title = "".join(title_el.itertext()).strip()
             
             if title:
                 # 1. Unescape HTML and Basic Clean
@@ -235,6 +236,9 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                 
                 # Penalty: Excessive Punctuation
                 punc_count = sum(title.count(p) for p in ["!", "?", ":"])
+                # STRICT QUESTION FILTER: Reject any title with a question mark
+                if "?" in title:
+                    continue
                 if punc_count > 3:
                     score -= 3
                 
@@ -313,24 +317,56 @@ def main():
             db[category] = []
             
         new_articles = []
+        source_counts = {}
         for feed_url in feed_urls:
             articles = fetch_recent_headlines(feed_url, seen_titles, minutes=15)
-            new_articles.extend(articles)
+            for art in articles:
+                title = art["title"]
+                
+                # UNIVERSAL QUALITY: Reject truncated snippets ending in ...
+                if title.endswith("...") or title.endswith("\u2026"):
+                    continue
+
+                # SPECIAL SPORTS RULES
+                if category == "Sports":
+                    if "?" in title: continue
+                    if len(title.split()) < 7: continue
+                    src = art["source"]
+                    source_counts[src] = source_counts.get(src, 0) + 1
+                    if source_counts[src] > 3: continue
+                
+                new_articles.append(art)
+                
+        # Limit updates per category run (Top 4)
+        if len(new_articles) > 4:
+            new_articles.sort(key=lambda x: x.get("score", 0), reverse=True)
+            new_articles = new_articles[:4]
             
         # Append new articles
         for article in new_articles:
             db[category].insert(0, article)
                 
-        # Keep only last 7 days. Hard limit 200 per category
+        # Final Cleanup & Persistence
         cutoff_7_days = datetime.now(timezone.utc) - timedelta(days=7)
         valid_items = []
         for item in db[category]:
+            title = item.get("title", "").strip()
+            # Universal: No ellipses
+            if title.endswith("...") or title.endswith("\u2026"): continue
+            
+            # Sports specific
+            if category == "Sports":
+                if "?" in title: continue
+                if len(title.split()) < 7: continue
+            
             try:
                 dt = datetime.fromisoformat(item["timestamp"])
+                # Handle Z/offset correctly
+                if dt.tzinfo is None: dt = dt.replace(tzinfo=timezone.utc)
                 if dt >= cutoff_7_days:
                     valid_items.append(item)
             except:
-                pass
+                continue
         
         valid_items.sort(key=lambda x: datetime.fromisoformat(x["timestamp"]), reverse=True)
         db[category] = valid_items[:200]

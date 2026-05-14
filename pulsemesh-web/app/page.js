@@ -1,18 +1,17 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import Link from "next/link";
-import { 
-  Globe, 
-  Landmark, 
-  TrendingUp, 
-  Cpu, 
-  FlaskConical, 
-  Trophy, 
-  Clapperboard, 
-  Sparkles 
-} from "lucide-react";
-import "./globals.css";
+import { useState, useEffect, useMemo } from "react";
+
+const Icons = {
+  World: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10b981" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>,
+  Politics: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="3" y1="21" x2="21" y2="21"></line><path d="M3 7l9-4 9 4v2H3V7z"></path><path d="M5 21V11h3v10"></path><path d="M10 21V11h4v10"></path><path d="M16 21V11h3v10"></path></svg>,
+  Business: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#c471ed" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline><polyline points="17 6 23 6 23 12"></polyline></svg>,
+  Tech: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#00f2fe" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="15" x2="23" y2="15"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="15" x2="4" y2="15"></line></svg>,
+  Science: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#f093fb" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M9 2l.45 2.11L10 12l1 5h2l1-5 .55-7.89L15 2"></path><path d="M8 22h8"></path><path d="M7 11h10"></path></svg>,
+  Sports: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#f6ad55" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"></path><path d="M12 15V22"></path><path d="M10 22H14"></path></svg>,
+  Entertainment: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#f56565" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="2.18" ry="2.18"></rect><line x1="7" y1="2" x2="7" y2="22"></line><line x1="17" y1="2" x2="17" y2="22"></line><line x1="2" y1="12" x2="22" y2="12"></line><line x1="2" y1="7" x2="7" y2="7"></line><line x1="2" y1="17" x2="7" y2="17"></line><line x1="17" y1="17" x2="22" y2="17"></line><line x1="17" y1="7" x2="22" y2="7"></line></svg>,
+  Lifestyle: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#9f7aea" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"></path><path d="M5 3L4 4"></path><path d="M19 3l1 1"></path><path d="M5 21l-1-1"></path><path d="M19 21l1-1"></path></svg>
+};
 
 const DATA_URL = "https://raw.githubusercontent.com/654789654789/news_aggregator_global/main/data_engine/pulsemesh_data.json";
 
@@ -24,6 +23,7 @@ export default function Home() {
   const [theme, setTheme] = useState("dark");
   const [timeFilter, setTimeFilter] = useState("all");
   const [showFilter, setShowFilter] = useState(false);
+  const [viewCategory, setViewCategory] = useState(null);
 
   const TIME_FILTERS = [
     { label: "All Time", value: "all" },
@@ -72,8 +72,8 @@ export default function Home() {
         });
     };
 
-    fetchData(); 
-    const interval = setInterval(fetchData, 180000); // 3-minute heartbeat
+    fetchData();
+    const interval = setInterval(fetchData, 180000);
 
     return () => clearInterval(interval);
   }, []);
@@ -113,7 +113,7 @@ export default function Home() {
 
   const handleCopy = (e, article) => {
     e.preventDefault();
-    const textToCopy = article.title;
+    const textToCopy = `${article.title}\n\nRead more: ${article.link}`;
     
     navigator.clipboard.writeText(textToCopy).then(() => {
       setCopiedLink(article.link);
@@ -124,20 +124,29 @@ export default function Home() {
     });
   };
 
-  const getCategoryIcon = (category) => {
-    const props = { size: 22, className: "category-icon" };
-    switch(category) {
-      case 'World': return <Globe {...props} color="#10b981" />;
-      case 'Politics': return <Landmark {...props} color="#3b82f6" />;
-      case 'Business': return <TrendingUp {...props} color="#a855f7" />;
-      case 'Tech': return <Cpu {...props} color="#22d3ee" />;
-      case 'Science': return <FlaskConical {...props} color="#ec4899" />;
-      case 'Sports': return <Trophy {...props} color="#f59e0b" />;
-      case 'Entertainment': return <Clapperboard {...props} color="#ef4444" />;
-      case 'Lifestyle': return <Sparkles {...props} color="#6366f1" />;
-      default: return <TrendingUp {...props} color="#ffffff" />;
-    }
-  };
+  const desiredOrder = ["World", "Politics", "Business", "Tech", "Science", "Sports", "Entertainment", "Lifestyle"];
+  
+  const categories = useMemo(() => {
+    if (!data) return [];
+    return Object.keys(data).sort((a, b) => {
+      let indexA = desiredOrder.indexOf(a);
+      let indexB = desiredOrder.indexOf(b);
+      if (indexA === -1) indexA = 999;
+      if (indexB === -1) indexB = 999;
+      return indexA - indexB;
+    });
+  }, [data]);
+
+  const tickerArticles = useMemo(() => {
+    if (!data) return [];
+    return categories
+      .map(cat => {
+        const articles = data[cat];
+        if (!articles || articles.length === 0) return null;
+        return { ...articles[0], category: cat };
+      })
+      .filter(Boolean);
+  }, [data, categories]);
 
   if (!data && !error) return (
     <div className="mesh-bg">
@@ -151,71 +160,155 @@ export default function Home() {
     </div>
   );
 
-  const desiredOrder = ["World", "Politics", "Business", "Tech", "Science", "Sports", "Entertainment", "Lifestyle"];
-  const categories = Object.keys(data).sort((a, b) => {
-    let indexA = desiredOrder.indexOf(a);
-    let indexB = desiredOrder.indexOf(b);
-    if (indexA === -1) indexA = 999;
-    if (indexB === -1) indexB = 999;
-    return indexA - indexB;
-  });
+  const FilterComponent = () => (
+    <div className="funnel-wrapper">
+      <button
+        className={`funnel-btn ${timeFilter !== 'all' ? 'funnel-active' : ''}`}
+        onClick={() => setShowFilter(v => !v)}
+        title="Filter by time"
+      >
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
+        </svg>
+        {timeFilter !== 'all' && (
+          <span className="funnel-badge">
+            {TIME_FILTERS.find(f => f.value === timeFilter)?.label.replace('Last ', '').replace(' Hours','H').replace(' Hour','H').replace(' Days','D').replace(' Day','D')}
+          </span>
+        )}
+      </button>
+      {showFilter && (
+        <div className="funnel-dropdown">
+          <div className="funnel-dropdown-title">Filter by Time Range</div>
+          {TIME_FILTERS.map(f => (
+            <button
+              key={f.value}
+              className={`funnel-option ${timeFilter === f.value ? 'selected' : ''}`}
+              onClick={() => { setTimeFilter(f.value); setShowFilter(false); }}
+            >
+              {f.label}
+              {timeFilter === f.value && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3"><polyline points="20 6 9 17 4 12"></polyline></svg>}
+            </button>
+          ))}
+        </div>
+      )}
+    </div>
+  );
 
-  // Extract the single newest article from each category for the Live Ticker
-  const tickerArticles = categories
-    .map(cat => {
-      const articles = data[cat];
-      if (!articles || articles.length === 0) return null;
-      // Articles are already sorted newest first
-      return { ...articles[0], category: cat };
-    })
-    .filter(Boolean);
-
-  return (
+  const MainView = () => (
     <>
-      <div className="mesh-bg"></div>
-      
-      <main>
-        <header className="header">
-          <div className="brand-container">
-            <h1 className="brand-title">PulseMesh</h1>
-            <div className="brand-subtitle">
-              <span className="live-indicator"></span>
-              Intelligence Engine
-            </div>
+      <header className="header">
+        <div className="brand-container">
+          <h1 className="brand-title">PulseMesh</h1>
+          <div className="brand-subtitle">
+            <span className="live-indicator"></span>
+            Live Global
           </div>
+        </div>
 
-          <div style={{display:'flex', alignItems:'center', gap:'0.75rem'}}>
-            <div className="funnel-wrapper">
-              <button
-                className={`funnel-btn ${timeFilter !== 'all' ? 'funnel-active' : ''}`}
-                onClick={() => setShowFilter(v => !v)}
-                title="Filter by time"
-              >
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
-                </svg>
-                {timeFilter !== 'all' && (
-                  <span className="funnel-badge">
-                    {TIME_FILTERS.find(f => f.value === timeFilter)?.label.replace('Last ', '').replace(' Hours','H').replace(' Hour','H').replace(' Days','D').replace(' Day','D')}
-                  </span>
-                )}
-              </button>
-              {showFilter && (
-                <div className="funnel-dropdown">
-                  <div className="funnel-dropdown-title">Filter by Time Range</div>
-                  {TIME_FILTERS.map(f => (
-                    <button
-                      key={f.value}
-                      className={`funnel-option ${timeFilter === f.value ? 'selected' : ''}`}
-                      onClick={() => { setTimeFilter(f.value); setShowFilter(false); }}
-                    >
-                      {f.label}
-                      {timeFilter === f.value && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3"><polyline points="20 6 9 17 4 12"></polyline></svg>}
-                    </button>
+        <div style={{display:'flex', alignItems:'center', gap:'0.75rem'}}>
+          <FilterComponent />
+          <button className="theme-btn" onClick={toggleTheme} title="Toggle Theme">
+            {theme === "dark" ? (
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+            ) : (
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+            )}
+          </button>
+        </div>
+      </header>
+
+      {tickerArticles.length > 0 && (
+        <div className="ticker-container">
+          <div className="ticker-label">
+            <span className="live-indicator" style={{marginRight: '8px'}}></span>
+            LIVE
+          </div>
+          <div className="ticker-wrap">
+            {tickerArticles.map((article, idx) => (
+              <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="ticker-item">
+                <span className="ticker-category">{article.category}</span>
+                {article.title} <span className="ticker-dot">•</span>
+              </a>
+            ))}
+            {tickerArticles.map((article, idx) => (
+              <a key={`dup-${idx}`} href={article.link} target="_blank" rel="noreferrer" className="ticker-item">
+                <span className="ticker-category">{article.category}</span>
+                {article.title} <span className="ticker-dot">•</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <div className="container">
+        <div className="dashboard-grid">
+          {categories.map((cat) => {
+            const articles = data[cat] || [];
+            const filteredCatArticles = filterArticlesByTime(articles, timeFilter);
+            if (filteredCatArticles.length === 0) return null;
+            
+            const displayArticles = filteredCatArticles.slice(0, 3);
+            const Icon = Icons[cat] || Icons.World;
+            
+            return (
+              <div key={cat} className="category-section">
+                <div className="category-header">
+                  <div className="category-title" style={{display:'flex', alignItems:'center', gap:'10px'}}><Icon /> {cat}</div>
+                  <span className="category-count">{filteredCatArticles.length} total</span>
+                </div>
+                
+                <div className="news-list">
+                  {displayArticles.map((article, idx) => (
+                    <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="news-item">
+                      <div className="item-header">
+                        <div style={{display:'flex', alignItems:'center', gap:'8px'}}>
+                          <span className="ticker-category" style={{margin:0, fontSize:'0.6rem'}}>{article.source}</span>
+                          <span className="item-time">{formatTimeAgo(article.timestamp)}</span>
+                        </div>
+                        <button 
+                          className={`copy-btn ${copiedLink === article.link ? 'copied' : ''}`}
+                          onClick={(e) => handleCopy(e, article)}
+                          title="Copy Headline"
+                        >
+                          {copiedLink === article.link ? (
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                          ) : (
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                          )}
+                        </button>
+                      </div>
+                      <h3 className="item-title">{article.title}</h3>
+                    </a>
                   ))}
                 </div>
-              )}
-            </div>
+                
+                {filteredCatArticles.length > 3 && (
+                  <button className="view-more-btn" onClick={() => setViewCategory(cat)}>
+                    View All {filteredCatArticles.length} Updates
+                  </button>
+                )}
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    </>
+  );
+
+  const SubView = () => {
+    const articles = filterArticlesByTime(data[viewCategory] || [], timeFilter);
+    const Icon = Icons[viewCategory] || Icons.World;
+    return (
+      <div className="sub-view">
+        <header className="header">
+          <div className="brand-container">
+            <button className="theme-btn" onClick={() => setViewCategory(null)} style={{marginRight:'1rem'}}>
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+            </button>
+            <h1 className="brand-title" style={{display:'flex', alignItems:'center', gap:'10px'}}><Icon /> {viewCategory} Updates</h1>
+          </div>
+          <div style={{display:'flex', alignItems:'center', gap:'0.75rem'}}>
+            <FilterComponent />
             <button className="theme-btn" onClick={toggleTheme} title="Toggle Theme">
               {theme === "dark" ? (
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
@@ -225,91 +318,43 @@ export default function Home() {
             </button>
           </div>
         </header>
-
-        {tickerArticles.length > 0 && (
-          <div className="ticker-container">
-            <div className="ticker-label">
-              <span className="live-indicator" style={{marginRight: '8px'}}></span>
-              LIVE
-            </div>
-            <div className="ticker-wrap">
-              {tickerArticles.map((article, idx) => (
-                <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="ticker-item">
-                  <span className="ticker-category">{article.category}</span>
-                  {article.title} <span className="ticker-dot">•</span>
-                </a>
-              ))}
-              {tickerArticles.map((article, idx) => (
-                <a key={`dup-${idx}`} href={article.link} target="_blank" rel="noreferrer" className="ticker-item">
-                  <span className="ticker-category">{article.category}</span>
-                  {article.title} <span className="ticker-dot">•</span>
-                </a>
-              ))}
-            </div>
-          </div>
-        )}
-
         <div className="container">
           <div className="dashboard-grid">
-            {categories.map((cat) => {
-              const articles = data[cat] || [];
-              const filteredCatArticles = filterArticlesByTime(articles, timeFilter);
-              if (filteredCatArticles.length === 0) return null;
-              
-              const displayArticles = filteredCatArticles.slice(0, 3);
-              
-              return (
-                <div key={cat} className={`category-section section-${cat}`}>
-                  <div className="category-header">
-                    <div className="category-title-wrap">
-                      {getCategoryIcon(cat)}
-                      <h2 className="category-title">{cat}</h2>
-                    </div>
-                    <span className="category-count">{filteredCatArticles.length} total</span>
+            {articles.map((article, idx) => (
+              <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="news-item">
+                <div className="item-header">
+                  <div style={{display:'flex', alignItems:'center', gap:'8px'}}>
+                    <span className="ticker-category" style={{margin:0, fontSize:'0.6rem'}}>{article.source}</span>
+                    <span className="item-time">{formatTimeAgo(article.timestamp)}</span>
                   </div>
-                  
-                  <div className="news-list">
-                    {displayArticles.map((article, idx) => (
-                      <a key={idx} href={article.link} target="_blank" rel="noreferrer" className={`news-item ${idx === 0 ? 'featured' : ''}`}>
-                        <div className="item-header">
-                          <span className="item-time">{formatTimeAgo(article.timestamp)}</span>
-                          <button 
-                            className={`copy-btn ${copiedLink === article.link ? 'copied' : ''}`}
-                            onClick={(e) => handleCopy(e, article)}
-                            title="Copy Headline"
-                          >
-                            {copiedLink === article.link ? (
-                              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
-                            ) : (
-                              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
-                            )}
-                          </button>
-                        </div>
-                        <h3 className="item-title">
-                          <span className="source-tag">{article.source || 'News'}</span>
-                          {article.title}
-                        </h3>
-                      </a>
-                    ))}
-                  </div>
-                  
-                  {filteredCatArticles.length > 3 && (
-                    <Link href={`/category/${cat.toLowerCase()}`} style={{textDecoration: 'none'}}>
-                      <button className="view-more-btn">
-                        View All {filteredCatArticles.length} Updates
-                      </button>
-                    </Link>
-                  )}
+                  <button 
+                    className={`copy-btn ${copiedLink === article.link ? 'copied' : ''}`}
+                    onClick={(e) => handleCopy(e, article)}
+                    title="Copy Headline"
+                  >
+                    {copiedLink === article.link ? (
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                    ) : (
+                      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                    )}
+                  </button>
                 </div>
-              );
-            })}
+                <h3 className="item-title">{article.title}</h3>
+              </a>
+            ))}
           </div>
         </div>
+      </div>
+    );
+  };
 
-        <div className={`toast ${toastMessage ? 'show' : ''}`}>
-          {toastMessage}
-        </div>
-      </main>
+  return (
+    <>
+      <div className="mesh-bg"></div>
+      {viewCategory ? <SubView /> : <MainView />}
+      <div className={`toast ${toastMessage ? 'show' : ''}`}>
+        {toastMessage}
+      </div>
     </>
   );
 }
