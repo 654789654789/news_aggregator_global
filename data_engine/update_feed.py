@@ -146,40 +146,54 @@ def fetch_recent_headlines(feed_url, minutes=15):
                     link = link_el.attrib['href']
 
             if title_el is not None and title_el.text:
-                title = title_el.text.strip()
+                import html
+                import re
                 
-                # PRE-CLEANING: Strip junk prefixes to get to the core news
+                # 1. Unescape HTML entities (converts &quot; to ", &#39; to ', etc.)
+                title = html.unescape(title_el.text.strip())
+                
+                # 2. Strip Emojis from the start (removes things like 🚨 or ⚽)
+                title = re.sub(r'^[\W\s]*[\u2600-\u27BF\u1F300-\u1F9FF\u1F600-\u1F64F]+[\W\s]*', '', title)
+                
+                # PRE-CLEANING: Strip junk prefixes
                 PREFIXES_TO_STRIP = [
                     "Live Updates:", "Live Update:", "Live updates:", "Live update:",
                     "BREAKING:", "Breaking:", "Breaking News:", "WATCH:", "Watch:", 
                     "VIDEO:", "Video:", "Source:", "Opinion:", "JUST IN:", "Just In:",
-                    "EXCLUSIVE:", "Exclusive:", "REPORT:", "Report:"
+                    "EXCLUSIVE:", "Exclusive:", "REPORT:", "Report:", "Official:"
                 ]
                 for prefix in PREFIXES_TO_STRIP:
                     if title.lower().startswith(prefix.lower()):
                         title = title[len(prefix):].strip()
                 
-                # Rule 0: Strip branding suffixes (e.g. " - The Guardian" or " | CNN")
+                # Rule 0: Strip branding and junk suffixes
+                # This handles "Headline - Source", "Headline | Editorial", "Headline — Watch"
                 for separator in [" - ", " | ", " — "]:
                     if separator in title:
-                        title = title.rsplit(separator, 1)[0].strip()
+                        parts = title.rsplit(separator, 1)
+                        main_title = parts[0].strip()
+                        suffix = parts[1].lower().strip()
+                        # If the suffix is a known junk word or short branding, chop it
+                        JUNK_SUFFIXES = ["watch", "live", "gallery", "video", "editorial", "opinion", "photos", "update"]
+                        if suffix in JUNK_SUFFIXES or len(suffix) < 15:
+                            title = main_title
                 
-                # Rule 1: No clickbait questions (ends with ?)
+                # Rule 1: No clickbait questions
                 if title.endswith("?") or "?" in title:
                     continue
 
-                # Rule 2: No headlines starting with question words (often clickbait/guides)
+                # Rule 2: No headlines starting with question words
                 QUESTION_WORDS = ("what ", "which ", "where ", "who ", "why ", "when ", "how ", "is ", "are ", "was ", "were ", "did ", "do ", "does ", "can ", "could ", "should ", "would ", "will ")
                 if title.lower().startswith(QUESTION_WORDS):
                     continue
 
-                # Rule 3: Word Count Filter (Sweet spot: 5 to 20 words)
+                # Rule 3: Word Count Filter (5 to 22 words)
                 word_count = len(title.split())
                 if word_count < 5 or word_count > 22:
                     continue
 
-                # Rule 4: Skip truncated titles or junk (e.g. "...")
-                if title.endswith("...") or title.endswith("…") or len(title) < 20:
+                # Rule 4: Skip truncated titles or extremely short junk
+                if title.endswith("...") or title.endswith("…") or len(title) < 25:
                     continue
 
                 if title and link:
