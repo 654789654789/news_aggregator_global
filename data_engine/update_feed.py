@@ -157,25 +157,31 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                 # 3. Initial Score & Sanitization
                 score = 10
                 
-                # Strip junk prefixes
+                # Strip junk prefixes (Safe matching)
                 PREFIXES_TO_STRIP = [
-                    "Live Updates:", "Live Update:", "Live updates:", "Live update:",
-                    "BREAKING:", "Breaking:", "Breaking News:", "WATCH:", "Watch:", 
-                    "VIDEO:", "Video:", "Source:", "Opinion:", "JUST IN:", "Just In:",
-                    "EXCLUSIVE:", "Exclusive:", "REPORT:", "Report:", "Official:"
+                    "Live Updates", "Live Update", "Live updates", "Live update",
+                    "BREAKING", "Breaking", "Breaking News", "WATCH", "Watch", 
+                    "VIDEO", "Video", "Source", "Opinion", "JUST IN", "Just In",
+                    "EXCLUSIVE", "Exclusive", "REPORT", "Report", "Official"
                 ]
-                for prefix in PREFIXES_TO_STRIP:
-                    if title.lower().startswith(prefix.lower()):
-                        title = title[len(prefix):].strip()
+                for p in PREFIXES_TO_STRIP:
+                    # Match prefix followed by colon or space
+                    if title.lower().startswith(p.lower() + ":"):
+                        title = title[len(p)+1:].strip()
+                    elif title.lower().startswith(p.lower() + " "):
+                        # Only strip if it's a known junk prefix, not a news word
+                        title = title[len(p):].strip()
                 
-                # Strip branding and junk suffixes
+                # Strip branding and junk suffixes (Only if it's actually junk)
                 for separator in [" - ", " | ", " — "]:
                     if separator in title:
                         parts = title.rsplit(separator, 1)
                         main_title = parts[0].strip()
                         suffix = parts[1].lower().strip()
-                        JUNK_SUFFIXES = ["watch", "live", "gallery", "video", "editorial", "opinion", "photos", "update"]
-                        if suffix in JUNK_SUFFIXES or len(suffix) < 15:
+                        
+                        # JUNK LIST: Only strip if the suffix is one of these or very short
+                        JUNK_SUFFIXES = ["watch", "live", "gallery", "video", "editorial", "opinion", "photos", "update", "breaking"]
+                        if suffix in JUNK_SUFFIXES or (len(suffix) < 10 and not any(char.isdigit() for char in suffix)):
                             title = main_title
 
                 # 4. CRITICAL FILTERS (Immediate Rejection)
