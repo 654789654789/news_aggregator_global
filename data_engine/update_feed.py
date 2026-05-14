@@ -163,6 +163,10 @@ def fetch_recent_headlines(feed_url, minutes=15):
                 if len(title.split()) < 6:
                     continue
 
+                # Rule 4: Skip truncated titles from RSS feeds (e.g. "QB carousel, Geo...")
+                if title.endswith("...") or title.endswith("…"):
+                    continue
+
                 if title and link:
                     articles.append({
                         "title": title,
