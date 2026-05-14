@@ -629,3 +629,29 @@ body {
   justify-content: center;
   opacity: 0.8;
 }
+
+/* --- PulseMesh Final Polish Styles --- */
+
+.source-tag {
+  display: block !important;
+  margin-bottom: 10px !important;
+  margin-right: 0 !important;
+  background: rgba(255, 255, 255, 0.05) !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  width: fit-content !important;
+}
+
+.news-item.featured {
+  border: 1px solid var(--accent-glow, var(--default-glow)) !important;
+  border-left: 4px solid var(--accent-glow, var(--default-glow)) !important;
+  box-shadow: 0 0 30px -10px var(--accent-glow, var(--default-glow)) !important;
+}
+
+.category-section {
+  box-shadow: none !important; /* Remove the section-wide heavy glow */
+  border: 1px solid rgba(255, 255, 255, 0.03);
+}
+
+.category-icon {
+  opacity: 0.9 !important;
+}

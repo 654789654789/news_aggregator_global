@@ -2,7 +2,16 @@
 
 import { useState, useEffect, use } from "react";
 import Link from "next/link";
-import { Gavel, Cpu, Globe, TrendingUp } from "lucide-react";
+import { 
+  Globe, 
+  Landmark, 
+  TrendingUp, 
+  Cpu, 
+  FlaskConical, 
+  Trophy, 
+  Clapperboard, 
+  Sparkles 
+} from "lucide-react";
 import "../../globals.css";
 
 const DATA_URL = "https://raw.githubusercontent.com/654789654789/news_aggregator_global/main/data_engine/pulsemesh_data.json";
@@ -44,7 +53,6 @@ export default function CategoryPage({ params }) {
     }
 
     const fetchData = () => {
-      // Cache-Buster: Append random timestamp to force GitHub to send freshest data
       const bustedUrl = `${DATA_URL}?t=${new Date().getTime()}`;
       
       fetch(bustedUrl)
@@ -53,7 +61,6 @@ export default function CategoryPage({ params }) {
           return res.json();
         })
         .then((json) => {
-          // If GitHub returns empty object (e.g. wiped/cached), use local fallback
           if (!json || Object.keys(json).length === 0) {
             return fetch("/fallback_data.json").then(r => r.json());
           }
@@ -68,8 +75,8 @@ export default function CategoryPage({ params }) {
         });
     };
 
-    fetchData(); // Initial load
-    const interval = setInterval(fetchData, 180000); // Silent background polling every 3 minutes
+    fetchData(); 
+    const interval = setInterval(fetchData, 180000); 
 
     return () => clearInterval(interval);
   }, [data]);
@@ -123,10 +130,15 @@ export default function CategoryPage({ params }) {
   const getCategoryIcon = (category) => {
     const props = { size: 28, className: "category-icon" };
     switch(category) {
-      case 'Politics': return <Gavel {...props} color="#3b82f6" />;
-      case 'Tech': return <Cpu {...props} color="#22d3ee" />;
       case 'World': return <Globe {...props} color="#10b981" />;
-      default: return <TrendingUp {...props} color="#a855f7" />;
+      case 'Politics': return <Landmark {...props} color="#3b82f6" />;
+      case 'Business': return <TrendingUp {...props} color="#a855f7" />;
+      case 'Tech': return <Cpu {...props} color="#22d3ee" />;
+      case 'Science': return <FlaskConical {...props} color="#ec4899" />;
+      case 'Sports': return <Trophy {...props} color="#f59e0b" />;
+      case 'Entertainment': return <Clapperboard {...props} color="#ef4444" />;
+      case 'Lifestyle': return <Sparkles {...props} color="#6366f1" />;
+      default: return <TrendingUp {...props} color="#ffffff" />;
     }
   };
 

@@ -247,26 +247,41 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                 if score < 8:
                     continue
 
-                if title and link:
-                    # Detect Source Name
-                    source_name = "News"
-                    domain = link.split('//')[-1].split('/')[0]
-                    if "nytimes.com" in domain: source_name = "NYT"
-                    elif "bbc.co" in domain: source_name = "BBC"
-                    elif "techcrunch.com" in domain: source_name = "TC"
-                    elif "thehill.com" in domain: source_name = "The Hill"
-                    elif "wired.com" in domain: source_name = "Wired"
-                    elif "google.com" in domain: source_name = "Google"
-                    elif "theguardian.com" in domain: source_name = "Guardian"
-                    elif "aljazeera.com" in domain: source_name = "Al Jazeera"
-                    elif "verge.com" in domain: source_name = "The Verge"
-                    elif "npr.org" in domain: source_name = "NPR"
-                    elif "pbs.org" in domain: source_name = "PBS"
-                    elif "arstechnica.com" in domain: source_name = "Ars"
-                    elif "venturebeat.com" in domain: source_name = "VB"
-                    elif "bloomberg.com" in domain: source_name = "Bloomberg"
-                    elif "reuters.com" in domain: source_name = "Reuters"
-                    elif "apnews.com" in domain: source_name = "AP"
+                    # Advanced Source Detection
+                    source_name = "Pulse"
+                    domain = link.lower().split('//')[-1].split('/')[0]
+                    
+                    SOURCE_MAP = {
+                        "nytimes.com": "NYT",
+                        "bbc.co": "BBC",
+                        "techcrunch.com": "TC",
+                        "thehill.com": "The Hill",
+                        "wired.com": "Wired",
+                        "google.com": "Google",
+                        "theguardian.com": "Guardian",
+                        "aljazeera.com": "Al Jazeera",
+                        "verge.com": "The Verge",
+                        "npr.org": "NPR",
+                        "pbs.org": "PBS",
+                        "arstechnica.com": "Ars",
+                        "venturebeat.com": "VB",
+                        "bloomberg.com": "Bloomberg",
+                        "reuters.com": "Reuters",
+                        "apnews.com": "AP",
+                        "espn.com": "ESPN",
+                        "bleacherreport.com": "B/R",
+                        "cnn.com": "CNN",
+                        "foxnews.com": "Fox",
+                        "wsj.com": "WSJ",
+                        "forbes.com": "Forbes",
+                        "reuters.com": "Reuters",
+                        "cnbc.com": "CNBC"
+                    }
+                    
+                    for key, val in SOURCE_MAP.items():
+                        if key in domain:
+                            source_name = val
+                            break
                     
                     seen_titles.add(normalized)
                     articles.append({
