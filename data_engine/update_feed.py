@@ -151,13 +151,20 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                 # 1. Unescape HTML entities
                 title = html.unescape(title_el.text.strip())
                 
-                # 2. Strip Emojis from start
-                title = re.sub(r'^[\W\s]*[\u2600-\u27BF\u1F300-\u1F9FF\u1F600-\u1F64F]+[\W\s]*', '', title)
+                # 2. Skip Vague Pronouns (Skip Entirely, don't trim)
+                VAGUE_STARTS = ("this ", "that ", "these ", "those ", "it ", "they ", "he ", "she ")
+                if title.lower().startswith(VAGUE_STARTS):
+                    continue
+
+                # 3. Strip Emojis from start (Only if an emoji is actually there)
+                # This regex ensures we only strip if we find a character in the emoji range
+                if re.search(r'[\u2600-\u27BF\u1F300-\u1F9FF\u1F600-\u1F64F]', title[:5]):
+                    title = re.sub(r'^[\W\s]*[\u2600-\u27BF\u1F300-\u1F9FF\u1F600-\u1F64F]+[\W\s]*', '', title)
                 
-                # 3. Initial Score & Sanitization
+                # 4. Initial Score & Sanitization
                 score = 10
                 
-                # Strip junk prefixes (Safe matching)
+                # Strip junk prefixes (Safe matching - One prefix max)
                 PREFIXES_TO_STRIP = [
                     "Live Updates", "Live Update", "Live updates", "Live update",
                     "BREAKING", "Breaking", "Breaking News", "WATCH", "Watch", 
@@ -165,12 +172,12 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                     "EXCLUSIVE", "Exclusive", "REPORT", "Report", "Official"
                 ]
                 for p in PREFIXES_TO_STRIP:
-                    # Match prefix followed by colon or space
                     if title.lower().startswith(p.lower() + ":"):
                         title = title[len(p)+1:].strip()
+                        break 
                     elif title.lower().startswith(p.lower() + " "):
-                        # Only strip if it's a known junk prefix, not a news word
                         title = title[len(p):].strip()
+                        break
                 
                 # Strip branding and junk suffixes (Only if it's actually junk)
                 for separator in [" - ", " | ", " — "]:
