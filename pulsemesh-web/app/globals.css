@@ -209,6 +209,19 @@ body {
   line-height: 0;
 }
 
+.ticker-category {
+  background: rgba(0, 242, 254, 0.15);
+  color: var(--accent-cyan);
+  font-size: 0.65rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  padding: 0.1rem 0.45rem;
+  border-radius: 4px;
+  margin-right: 0.5rem;
+  white-space: nowrap;
+}
+
 @keyframes ticker {
   0% { transform: translateX(0%); }
   100% { transform: translateX(-50%); }

@@ -137,13 +137,15 @@ export default function Home() {
     return indexA - indexB;
   });
 
-  // Extract top 5 newest articles across all categories for the Live Ticker
-  const allArticles = [];
-  Object.values(data).forEach(catArticles => {
-    allArticles.push(...catArticles);
-  });
-  allArticles.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-  const tickerArticles = allArticles.slice(0, 5);
+  // Extract the single newest article from each category for the Live Ticker
+  const tickerArticles = categories
+    .map(cat => {
+      const articles = data[cat];
+      if (!articles || articles.length === 0) return null;
+      // Articles are already sorted newest first
+      return { ...articles[0], category: cat };
+    })
+    .filter(Boolean);
 
   return (
     <>
@@ -211,12 +213,14 @@ export default function Home() {
             <div className="ticker-wrap">
               {tickerArticles.map((article, idx) => (
                 <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="ticker-item">
+                  <span className="ticker-category">{article.category}</span>
                   {article.title} <span className="ticker-dot">•</span>
                 </a>
               ))}
               {/* Duplicate for seamless infinite scroll */}
               {tickerArticles.map((article, idx) => (
                 <a key={`dup-${idx}`} href={article.link} target="_blank" rel="noreferrer" className="ticker-item">
+                  <span className="ticker-category">{article.category}</span>
                   {article.title} <span className="ticker-dot">•</span>
                 </a>
               ))}
