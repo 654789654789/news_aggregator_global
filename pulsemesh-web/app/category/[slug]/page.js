@@ -13,6 +13,24 @@ export default function CategoryPage({ params }) {
   const [toastMessage, setToastMessage] = useState("");
   const [theme, setTheme] = useState("dark");
   const [timeFilter, setTimeFilter] = useState("all");
+  const [showFilter, setShowFilter] = useState(false);
+
+  const TIME_FILTERS = [
+    { label: "All Time", value: "all" },
+    { label: "Last 6 Days", value: "6d" },
+    { label: "Last 5 Days", value: "5d" },
+    { label: "Last 4 Days", value: "4d" },
+    { label: "Last 3 Days", value: "3d" },
+    { label: "Last 2 Days", value: "2d" },
+    { label: "Last 24 Hours", value: "24h" },
+    { label: "Last 12 Hours", value: "12h" },
+    { label: "Last 9 Hours", value: "9h" },
+    { label: "Last 6 Hours", value: "6h" },
+    { label: "Last 3 Hours", value: "3h" },
+    { label: "Last 1 Hour", value: "1h" },
+  ];
+
+  const FILTER_MINUTES = { all: Infinity, "6d": 8640, "5d": 7200, "4d": 5760, "3d": 4320, "2d": 2880, "24h": 1440, "12h": 720, "9h": 540, "6h": 360, "3h": 180, "1h": 60 };
 
   const unwrappedParams = use(params);
   const slug = unwrappedParams.slug; // e.g., "tech"
@@ -82,14 +100,10 @@ export default function CategoryPage({ params }) {
   };
 
   const filterArticlesByTime = (articles, filter) => {
-    if (filter === "all") return articles;
+    const minutes = FILTER_MINUTES[filter] ?? Infinity;
+    if (minutes === Infinity) return articles;
     const now = new Date();
-    const cutoffs = { "1h": 60, "24h": 1440, "7d": 10080 };
-    const minutes = cutoffs[filter];
-    return articles.filter(a => {
-      const diff = (now - new Date(a.timestamp)) / 60000;
-      return diff <= minutes;
-    });
+    return articles.filter(a => (now - new Date(a.timestamp)) / 60000 <= minutes);
   };
 
   const handleCopy = (e, article) => {
@@ -151,20 +165,41 @@ export default function CategoryPage({ params }) {
           <div className="category-section">
             <div className="category-header">
               <h2 className="category-title" style={{fontSize: '2rem'}}>{categoryName || "Category Not Found"}</h2>
-              <span className="category-count">{filteredArticles.length} updates</span>
-            </div>
-
-            {/* Time Filter Buttons */}
-            <div className="time-filter-bar">
-              {["all", "1h", "24h", "7d"].map((f) => (
-                <button
-                  key={f}
-                  className={`time-filter-btn ${timeFilter === f ? "active" : ""}`}
-                  onClick={() => setTimeFilter(f)}
-                >
-                  {f === "all" ? "All" : f === "1h" ? "Last 1H" : f === "24h" ? "Last 24H" : "Last 7D"}
-                </button>
-              ))}
+              <div style={{display:'flex', alignItems:'center', gap:'0.75rem'}}>
+                <span className="category-count">{filteredArticles.length} updates</span>
+                {/* Funnel Filter Dropdown */}
+                <div className="funnel-wrapper">
+                  <button
+                    className={`funnel-btn ${timeFilter !== 'all' ? 'funnel-active' : ''}`}
+                    onClick={() => setShowFilter(v => !v)}
+                    title="Filter by time"
+                  >
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                      <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
+                    </svg>
+                    {timeFilter !== 'all' && (
+                      <span className="funnel-badge">
+                        {TIME_FILTERS.find(f => f.value === timeFilter)?.label.replace('Last ', '').replace(' Hours','H').replace(' Hour','H').replace(' Days','D').replace(' Day','D')}
+                      </span>
+                    )}
+                  </button>
+                  {showFilter && (
+                    <div className="funnel-dropdown">
+                      <div className="funnel-dropdown-title">Filter by Time Range</div>
+                      {TIME_FILTERS.map(f => (
+                        <button
+                          key={f.value}
+                          className={`funnel-option ${timeFilter === f.value ? 'selected' : ''}`}
+                          onClick={() => { setTimeFilter(f.value); setShowFilter(false); }}
+                        >
+                          {f.label}
+                          {timeFilter === f.value && <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3"><polyline points="20 6 9 17 4 12"></polyline></svg>}
+                        </button>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              </div>
             </div>
             
             {filteredArticles.length === 0 ? (

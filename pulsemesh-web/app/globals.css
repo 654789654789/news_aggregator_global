@@ -332,35 +332,107 @@ body {
   font-weight: 600;
 }
 
-/* Time Filter Bar */
-.time-filter-bar {
-  display: flex;
-  gap: 0.4rem;
-  margin-bottom: 1rem;
+/* Funnel Filter */
+.funnel-wrapper {
+  position: relative;
 }
 
-.time-filter-btn {
-  background: transparent;
+.funnel-btn {
+  background: var(--card-bg);
   border: 1px solid var(--border-color);
   color: var(--text-secondary);
-  padding: 0.3rem 0.75rem;
-  border-radius: 20px;
-  font-size: 0.75rem;
-  font-weight: 600;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   cursor: pointer;
   transition: all 0.2s ease;
-  font-family: 'Inter', sans-serif;
+  position: relative;
+  gap: 0.3rem;
 }
 
-.time-filter-btn:hover {
+.funnel-btn:hover {
   border-color: var(--accent-cyan);
   color: var(--accent-cyan);
 }
 
-.time-filter-btn.active {
-  background: var(--accent-cyan);
+.funnel-btn.funnel-active {
   border-color: var(--accent-cyan);
-  color: var(--bg-primary);
+  color: var(--accent-cyan);
+  background: rgba(0, 242, 254, 0.1);
+  box-shadow: 0 0 12px rgba(0, 242, 254, 0.25);
+  width: auto;
+  padding: 0 0.75rem;
+  border-radius: 20px;
+  gap: 0.4rem;
+}
+
+.funnel-badge {
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: var(--accent-cyan);
+  white-space: nowrap;
+}
+
+.funnel-dropdown {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 0.5rem;
+  min-width: 180px;
+  z-index: 200;
+  backdrop-filter: blur(20px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  animation: dropdownFadeIn 0.15s ease;
+}
+
+@keyframes dropdownFadeIn {
+  from { opacity: 0; transform: translateY(-6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.funnel-dropdown-title {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-secondary);
+  padding: 0.25rem 0.5rem 0.5rem;
+  border-bottom: 1px solid var(--border-color);
+  margin-bottom: 0.25rem;
+}
+
+.funnel-option {
+  width: 100%;
+  background: transparent;
+  border: none;
+  color: var(--text-primary);
+  padding: 0.5rem 0.75rem;
+  border-radius: 8px;
+  text-align: left;
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  transition: all 0.15s ease;
+  font-family: 'Inter', sans-serif;
+}
+
+.funnel-option:hover {
+  background: rgba(0, 242, 254, 0.08);
+  color: var(--accent-cyan);
+}
+
+.funnel-option.selected {
+  color: var(--accent-cyan);
+  font-weight: 700;
 }
 
 .view-more-btn {
