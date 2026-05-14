@@ -33,7 +33,9 @@ SOURCE_MAP = {
     "hollywoodreporter.com": "THR",
     "variety.com": "Variety",
     "rollingstone.com": "Rolling Stone",
-    "deadline.com": "Deadline"
+    "deadline.com": "Deadline",
+    "phys.org": "Phys.org",
+    "sciencedaily.com": "SciDaily"
 }
 
 # Domains to block entirely (Propaganda, low-credibility, or heavy bias)
@@ -312,7 +314,7 @@ def main():
             
         new_articles = []
         for feed_url in feed_urls:
-            articles = fetch_recent_headlines(feed_url, seen_titles, minutes=360)
+            articles = fetch_recent_headlines(feed_url, seen_titles, minutes=15)
             new_articles.extend(articles)
             
         # Append new articles
