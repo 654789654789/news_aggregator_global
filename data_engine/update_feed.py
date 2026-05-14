@@ -203,16 +203,9 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                 if re.search(r'[\u2600-\u27BF\u1F300-\u1F9FF\u1F600-\u1F64F]', title[:5]):
                     title = re.sub(r'^[\W\s]*[\u2600-\u27BF\u1F300-\u1F9FF\u1F600-\u1F64F]+[\W\s]*', '', title)
                 
-                # 4. Surgical Prefix Stripping (Only if followed by colon or space)
-                # This ensures we don't accidentally eat legitimate first words
+                # 4. Initial Score & Sanitization
                 score = 10
-                JUNK_WORDS = "Live Updates|Live Update|Breaking News|Breaking|WATCH|VIDEO|Source|Opinion|JUST IN|Exclusive|Report|Official"
-                
-                # Pattern 1: Junk words followed by colon (e.g. "Breaking: News")
-                title = re.sub(rf'^({JUNK_WORDS}):\s*', '', title, flags=re.IGNORECASE)
-                
-                # Pattern 2: Junk words followed by space at very start (only if exact match)
-                title = re.sub(rf'^\b({JUNK_WORDS})\b\s+', '', title, flags=re.IGNORECASE)
+                # RULE DROPPED: Prefix stripping disabled to ensure headline integrity.
                 
                 # Strip branding and junk suffixes (Only if it's actually junk)
                 for separator in [" - ", " | ", " — "]:
