@@ -12,6 +12,7 @@ export default function CategoryPage({ params }) {
   const [copiedLink, setCopiedLink] = useState(null);
   const [toastMessage, setToastMessage] = useState("");
   const [theme, setTheme] = useState("dark");
+  const [timeFilter, setTimeFilter] = useState("all");
 
   const unwrappedParams = use(params);
   const slug = unwrappedParams.slug; // e.g., "tech"
@@ -80,6 +81,17 @@ export default function CategoryPage({ params }) {
     return `${diffInDays}d ago`;
   };
 
+  const filterArticlesByTime = (articles, filter) => {
+    if (filter === "all") return articles;
+    const now = new Date();
+    const cutoffs = { "1h": 60, "24h": 1440, "7d": 10080 };
+    const minutes = cutoffs[filter];
+    return articles.filter(a => {
+      const diff = (now - new Date(a.timestamp)) / 60000;
+      return diff <= minutes;
+    });
+  };
+
   const handleCopy = (e, article) => {
     e.preventDefault();
     const textToCopy = `${article.title}\n\nRead more: ${article.link}`;
@@ -111,6 +123,7 @@ export default function CategoryPage({ params }) {
   );
 
   const articles = categoryName ? data[categoryName] : [];
+  const filteredArticles = filterArticlesByTime(articles, timeFilter);
 
   return (
     <>
@@ -138,14 +151,29 @@ export default function CategoryPage({ params }) {
           <div className="category-section">
             <div className="category-header">
               <h2 className="category-title" style={{fontSize: '2rem'}}>{categoryName || "Category Not Found"}</h2>
-              <span className="category-count">{articles.length} total updates</span>
+              <span className="category-count">{filteredArticles.length} updates</span>
+            </div>
+
+            {/* Time Filter Buttons */}
+            <div className="time-filter-bar">
+              {["all", "1h", "24h", "7d"].map((f) => (
+                <button
+                  key={f}
+                  className={`time-filter-btn ${timeFilter === f ? "active" : ""}`}
+                  onClick={() => setTimeFilter(f)}
+                >
+                  {f === "all" ? "All" : f === "1h" ? "Last 1H" : f === "24h" ? "Last 24H" : "Last 7D"}
+                </button>
+              ))}
             </div>
             
-            {articles.length === 0 ? (
-              <p style={{color: 'var(--text-secondary)'}}>No news found for this category.</p>
+            {filteredArticles.length === 0 ? (
+              <p style={{color: 'var(--text-secondary)', padding: '2rem 0', textAlign: 'center'}}>
+                No headlines found for this time range. Try a wider filter.
+              </p>
             ) : (
               <div className="news-list">
-                {articles.map((article, idx) => (
+                {filteredArticles.map((article, idx) => (
                   <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="news-item" style={{padding: '1.5rem'}}>
                     <div className="item-header">
                       <span className="item-time" style={{fontSize: '0.85rem'}}>{formatTimeAgo(article.timestamp)}</span>
