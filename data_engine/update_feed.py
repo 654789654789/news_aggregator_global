@@ -35,7 +35,14 @@ SOURCE_MAP = {
     "rollingstone.com": "Rolling Stone",
     "deadline.com": "Deadline",
     "phys.org": "Phys.org",
-    "sciencedaily.com": "SciDaily"
+    "sciencedaily.com": "SciDaily",
+    "vogue.com": "Vogue",
+    "gq.com": "GQ",
+    "yahoo.com": "Yahoo",
+    "nature.com": "Nature",
+    "eonline.com": "E! News",
+    "google.com": "Google News",
+    "nypost.com": "NY Post"
 }
 
 # Domains to block entirely (Propaganda, low-credibility, or heavy bias)

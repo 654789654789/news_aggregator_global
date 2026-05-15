@@ -50,26 +50,35 @@ export default function Home() {
     }
 
     const fetchData = () => {
-      const bustedUrl = `${DATA_URL}?t=${new Date().getTime()}`;
-
-      fetch(bustedUrl)
-        .then((res) => {
-          if (!res.ok) throw new Error("GitHub fetch failed");
-          return res.json();
-        })
-        .then((json) => {
-          if (!json || Object.keys(json).length === 0) {
-            return fetch("/fallback_data.json").then(r => r.json());
-          }
-          return json;
-        })
-        .then((json) => setData(json))
-        .catch(() => {
-          fetch("/fallback_data.json")
-            .then(res => res.json())
-            .then(json => setData(json))
-            .catch(() => setError(true));
-        });
+      // FORCE LOCAL DATA on Localhost to bypass GitHub CDN Cache
+      const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
+      
+      if (isLocal) {
+        fetch("/fallback_data.json?t=" + new Date().getTime())
+          .then(res => res.json())
+          .then(json => setData(json))
+          .catch(() => setError(true));
+      } else {
+        const bustedUrl = `${DATA_URL}?t=${new Date().getTime()}`;
+        fetch(bustedUrl)
+          .then((res) => {
+            if (!res.ok) throw new Error("GitHub fetch failed");
+            return res.json();
+          })
+          .then((json) => {
+            if (!json || Object.keys(json).length === 0) {
+              return fetch("/fallback_data.json").then(r => r.json());
+            }
+            return json;
+          })
+          .then((json) => setData(json))
+          .catch(() => {
+            fetch("/fallback_data.json")
+              .then(res => res.json())
+              .then(json => setData(json))
+              .catch(() => setError(true));
+          });
+      }
     };
 
     fetchData();
@@ -94,7 +103,7 @@ export default function Home() {
     const date = new Date(isoString);
     const now = new Date();
     const diffInSeconds = Math.floor((now - date) / 1000);
-
+    
     if (diffInSeconds < 60) return "Just now";
     const diffInMinutes = Math.floor(diffInSeconds / 60);
     if (diffInMinutes < 60) return `${diffInMinutes}m ago`;
@@ -114,18 +123,18 @@ export default function Home() {
   const handleCopy = (e, article) => {
     e.preventDefault();
     const textToCopy = `${article.title}\n\nRead more: ${article.link}`;
-
+    
     navigator.clipboard.writeText(textToCopy).then(() => {
       setCopiedLink(article.link);
       setToastMessage("Headline Copied to Clipboard!");
-
+      
       setTimeout(() => setCopiedLink(null), 2000);
       setTimeout(() => setToastMessage(""), 3000);
     });
   };
 
   const desiredOrder = ["World", "Politics", "Business", "Tech", "Science", "Sports", "Entertainment", "Lifestyle"];
-
+  
   const categories = useMemo(() => {
     if (!data) return [];
     return Object.keys(data).sort((a, b) => {
@@ -172,7 +181,7 @@ export default function Home() {
         </svg>
         {timeFilter !== 'all' && (
           <span className="funnel-badge">
-            {TIME_FILTERS.find(f => f.value === timeFilter)?.label.replace('Last ', '').replace(' Hours', 'H').replace(' Hour', 'H').replace(' Days', 'D').replace(' Day', 'D')}
+            {TIME_FILTERS.find(f => f.value === timeFilter)?.label.replace('Last ', '').replace(' Hours','H').replace(' Hour','H').replace(' Days','D').replace(' Day','D')}
           </span>
         )}
       </button>
@@ -205,7 +214,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+        <div style={{display:'flex', alignItems:'center', gap:'0.75rem'}}>
           <FilterComponent />
           <button className="theme-btn" onClick={toggleTheme} title="Toggle Theme">
             {theme === "dark" ? (
@@ -220,7 +229,7 @@ export default function Home() {
       {tickerArticles.length > 0 && (
         <div className="ticker-container">
           <div className="ticker-label">
-            <span className="live-indicator" style={{ marginRight: '8px' }}></span>
+            <span className="live-indicator" style={{marginRight: '8px'}}></span>
             LIVE
           </div>
           <div className="ticker-wrap">
@@ -246,26 +255,26 @@ export default function Home() {
             const articles = data[cat] || [];
             const filteredCatArticles = filterArticlesByTime(articles, timeFilter);
             if (filteredCatArticles.length === 0) return null;
-
+            
             const displayArticles = filteredCatArticles.slice(0, 3);
             const Icon = Icons[cat] || Icons.World;
-
+            
             return (
               <div key={cat} className="category-section">
                 <div className="category-header">
-                  <div className="category-title" style={{ display: 'flex', alignItems: 'center', gap: '10px' }}><Icon /> {cat}</div>
+                  <div className="category-title" style={{display:'flex', alignItems:'center', gap:'10px'}}><Icon /> {cat}</div>
                   <span className="category-count">{filteredCatArticles.length} total</span>
                 </div>
-
+                
                 <div className="news-list">
                   {displayArticles.map((article, idx) => (
                     <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="news-item">
                       <div className="item-header">
-                        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                          <span className="ticker-category" style={{ margin: 0, fontSize: '0.6rem' }}>{article.source}</span>
+                        <div style={{display:'flex', alignItems:'center', gap:'8px'}}>
+                          <span className="ticker-category" style={{margin:0, fontSize:'0.6rem'}}>{article.source}</span>
                           <span className="item-time">{formatTimeAgo(article.timestamp)}</span>
                         </div>
-                        <button
+                        <button 
                           className={`copy-btn ${copiedLink === article.link ? 'copied' : ''}`}
                           onClick={(e) => handleCopy(e, article)}
                           title="Copy Headline"
@@ -281,7 +290,7 @@ export default function Home() {
                     </a>
                   ))}
                 </div>
-
+                
                 {filteredCatArticles.length > 3 && (
                   <button className="view-more-btn" onClick={() => setViewCategory(cat)}>
                     View All {filteredCatArticles.length} Updates
@@ -302,12 +311,12 @@ export default function Home() {
       <div className="sub-view">
         <header className="header">
           <div className="brand-container">
-            <button className="theme-btn" onClick={() => setViewCategory(null)} style={{ marginRight: '1rem' }}>
+            <button className="theme-btn" onClick={() => setViewCategory(null)} style={{marginRight:'1rem'}}>
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
             </button>
-            <h1 className="brand-title" style={{ display: 'flex', alignItems: 'center', gap: '10px' }}><Icon /> {viewCategory} Updates</h1>
+            <h1 className="brand-title" style={{display:'flex', alignItems:'center', gap:'10px'}}><Icon /> {viewCategory} Updates</h1>
           </div>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+          <div style={{display:'flex', alignItems:'center', gap:'0.75rem'}}>
             <FilterComponent />
             <button className="theme-btn" onClick={toggleTheme} title="Toggle Theme">
               {theme === "dark" ? (
@@ -323,11 +332,11 @@ export default function Home() {
             {articles.map((article, idx) => (
               <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="news-item">
                 <div className="item-header">
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                    <span className="ticker-category" style={{ margin: 0, fontSize: '0.6rem' }}>{article.source}</span>
+                  <div style={{display:'flex', alignItems:'center', gap:'8px'}}>
+                    <span className="ticker-category" style={{margin:0, fontSize:'0.6rem'}}>{article.source}</span>
                     <span className="item-time">{formatTimeAgo(article.timestamp)}</span>
                   </div>
-                  <button
+                  <button 
                     className={`copy-btn ${copiedLink === article.link ? 'copied' : ''}`}
                     onClick={(e) => handleCopy(e, article)}
                     title="Copy Headline"
