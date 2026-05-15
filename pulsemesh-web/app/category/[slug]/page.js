@@ -2,15 +2,15 @@
 
 import { useState, useEffect, use } from "react";
 import Link from "next/link";
-import { 
-  Globe, 
-  Landmark, 
-  TrendingUp, 
-  Cpu, 
-  FlaskConical, 
-  Trophy, 
-  Clapperboard, 
-  Sparkles 
+import {
+  Globe,
+  Landmark,
+  TrendingUp,
+  Cpu,
+  FlaskConical,
+  Trophy,
+  Clapperboard,
+  Sparkles
 } from "lucide-react";
 import "../../globals.css";
 
@@ -38,9 +38,10 @@ export default function CategoryPage({ params }) {
     { label: "Last 6 Hours", value: "6h" },
     { label: "Last 3 Hours", value: "3h" },
     { label: "Last 1 Hour", value: "1h" },
+    { label: "Last 30 Minutes", value: "30m" },
   ];
 
-  const FILTER_MINUTES = { all: Infinity, "6d": 8640, "5d": 7200, "4d": 5760, "3d": 4320, "2d": 2880, "24h": 1440, "12h": 720, "9h": 540, "6h": 360, "3h": 180, "1h": 60 };
+  const FILTER_MINUTES = { all: Infinity, "6d": 8640, "5d": 7200, "4d": 5760, "3d": 4320, "2d": 2880, "24h": 1440, "12h": 720, "9h": 540, "6h": 360, "3h": 180, "1h": 60, "30m": 30 };
 
   const unwrappedParams = use(params);
   const slug = unwrappedParams.slug; // e.g., "tech"
@@ -54,7 +55,7 @@ export default function CategoryPage({ params }) {
 
     const fetchData = () => {
       const bustedUrl = `${DATA_URL}?t=${new Date().getTime()}`;
-      
+
       fetch(bustedUrl)
         .then((res) => {
           if (!res.ok) throw new Error("GitHub fetch failed");
@@ -75,11 +76,26 @@ export default function CategoryPage({ params }) {
         });
     };
 
-    fetchData(); 
-    const interval = setInterval(fetchData, 180000); 
+    fetchData();
+    const interval = setInterval(fetchData, 180000);
 
-    return () => clearInterval(interval);
-  }, [data]);
+    const handleClickOutside = (event) => {
+      if (!event.target.closest(".funnel-wrapper")) {
+        setShowFilter(false);
+      }
+    };
+
+    if (showFilter) {
+      document.addEventListener("mousedown", handleClickOutside);
+    } else {
+      document.removeEventListener("mousedown", handleClickOutside);
+    }
+
+    return () => {
+      clearInterval(interval);
+      document.removeEventListener("mousedown", handleClickOutside);
+    };
+  }, [data, showFilter]);
 
   const toggleTheme = () => {
     if (theme === "dark") {
@@ -97,7 +113,7 @@ export default function CategoryPage({ params }) {
     const date = new Date(isoString);
     const now = new Date();
     const diffInSeconds = Math.floor((now - date) / 1000);
-    
+
     if (diffInSeconds < 60) return "Just now";
     const diffInMinutes = Math.floor(diffInSeconds / 60);
     if (diffInMinutes < 60) return `${diffInMinutes}m ago`;
@@ -117,11 +133,11 @@ export default function CategoryPage({ params }) {
   const handleCopy = (e, article) => {
     e.preventDefault();
     const textToCopy = article.title;
-    
+
     navigator.clipboard.writeText(textToCopy).then(() => {
       setCopiedLink(article.link);
       setToastMessage("Headline Copied to Clipboard!");
-      
+
       setTimeout(() => setCopiedLink(null), 2000);
       setTimeout(() => setToastMessage(""), 3000);
     });
@@ -129,7 +145,7 @@ export default function CategoryPage({ params }) {
 
   const getCategoryIcon = (category) => {
     const props = { size: 28, className: "category-icon" };
-    switch(category) {
+    switch (category) {
       case 'World': return <Globe {...props} color="#10b981" />;
       case 'Politics': return <Landmark {...props} color="#3b82f6" />;
       case 'Business': return <TrendingUp {...props} color="#a855f7" />;
@@ -144,13 +160,19 @@ export default function CategoryPage({ params }) {
 
   if (!data && !error) return (
     <div className="mesh-bg">
-      <div className="loading">Syncing PulseMesh Network...</div>
+      <div className="loading-container">
+        <div className="neural-pulse"></div>
+        <div className="loading-text">Syncing PulseMesh Network...</div>
+      </div>
     </div>
   );
 
   if (error) return (
     <div className="mesh-bg">
-      <div className="loading">Waiting for first data synchronization...</div>
+      <div className="loading-container">
+        <div className="neural-pulse" style={{ borderColor: '#ff4e50' }}></div>
+        <div className="loading-text" style={{ background: '#ff4e50', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>Waiting for data synchronization...</div>
+      </div>
     </div>
   );
 
@@ -165,16 +187,16 @@ export default function CategoryPage({ params }) {
   return (
     <>
       <div className="mesh-bg"></div>
-      
-      <main>
+
+      <div>
         <header className="header">
           <div className="brand-container">
             <Link href="/" style={{ textDecoration: 'none', color: 'inherit', display: 'flex', alignItems: 'center' }}>
-              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{marginRight: '1rem', color: 'var(--accent-cyan)'}}><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ marginRight: '1rem', color: 'var(--accent-cyan)' }}><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
               <h1 className="brand-title">PulseMesh</h1>
             </Link>
           </div>
-          
+
           <button className="theme-btn" onClick={toggleTheme} title="Toggle Theme">
             {theme === "dark" ? (
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
@@ -184,14 +206,14 @@ export default function CategoryPage({ params }) {
           </button>
         </header>
 
-        <div className="container" style={{maxWidth: '800px'}}>
+        <div className="container" style={{ maxWidth: '800px' }}>
           <div className={`category-section section-${categoryName}`}>
             <div className="category-header">
               <div className="category-title-wrap">
                 {getCategoryIcon(categoryName)}
-                <h2 className="category-title" style={{fontSize: '2rem'}}>{categoryName || "Category Not Found"}</h2>
+                <h2 className="category-title">{categoryName ? `${categoryName} Updates` : "Category Not Found"}</h2>
               </div>
-              <div style={{display:'flex', alignItems:'center', gap:'0.75rem'}}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
                 <span className="category-count">{filteredArticles.length} updates</span>
                 {/* Funnel Filter Dropdown */}
                 <div className="funnel-wrapper">
@@ -205,7 +227,7 @@ export default function CategoryPage({ params }) {
                     </svg>
                     {timeFilter !== 'all' && (
                       <span className="funnel-badge">
-                        {TIME_FILTERS.find(f => f.value === timeFilter)?.label.replace('Last ', '').replace(' Hours','H').replace(' Hour','H').replace(' Days','D').replace(' Day','D')}
+                        {TIME_FILTERS.find(f => f.value === timeFilter)?.label.replace('Last ', '').replace(' Hours', 'H').replace(' Hour', 'H').replace(' Days', 'D').replace(' Day', 'D')}
                       </span>
                     )}
                   </button>
@@ -227,18 +249,18 @@ export default function CategoryPage({ params }) {
                 </div>
               </div>
             </div>
-            
+
             {filteredArticles.length === 0 ? (
-              <p style={{color: 'var(--text-secondary)', padding: '2rem 0', textAlign: 'center'}}>
+              <p style={{ color: 'var(--text-secondary)', padding: '2rem 0', textAlign: 'center' }}>
                 No headlines found for this time range. Try a wider filter.
               </p>
             ) : (
               <div className="news-list">
                 {filteredArticles.map((article, idx) => (
-                  <a key={idx} href={article.link} target="_blank" rel="noreferrer" className={`news-item ${idx === 0 ? 'featured' : ''}`} style={{padding: '1.5rem'}}>
+                  <a key={idx} href={article.link} target="_blank" rel="noreferrer" className={`news-item ${idx === 0 ? 'featured' : ''}`} style={{ padding: '1.5rem' }}>
                     <div className="item-header">
-                      <span className="item-time" style={{fontSize: '0.85rem'}}>{formatTimeAgo(article.timestamp)}</span>
-                      <button 
+                      <span className="item-time" style={{ fontSize: '0.85rem' }}>{formatTimeAgo(article.timestamp)}</span>
+                      <button
                         className={`copy-btn ${copiedLink === article.link ? 'copied' : ''}`}
                         onClick={(e) => handleCopy(e, article)}
                         title="Copy Headline"
@@ -250,7 +272,7 @@ export default function CategoryPage({ params }) {
                         )}
                       </button>
                     </div>
-                    <h3 className="item-title" style={{fontSize: '1.25rem', marginTop: '0.5rem'}}>
+                    <h3 className="item-title" style={{ fontSize: '1.25rem', marginTop: '0.5rem' }}>
                       <span className="source-tag">{article.source || 'News'}</span>
                       {article.title}
                     </h3>
@@ -264,7 +286,12 @@ export default function CategoryPage({ params }) {
         <div className={`toast ${toastMessage ? 'show' : ''}`}>
           {toastMessage}
         </div>
-      </main>
+        <footer className="global-footer">
+          <p className="footer-text">
+            PulseMesh Intelligence Network &copy; {new Date().getFullYear()} | Curated by <a href="https://x.com/urban_cipher" target="_blank" rel="noreferrer" className="footer-link">@urban_cipher</a>
+          </p>
+        </footer>
+      </div>
     </>
   );
 }

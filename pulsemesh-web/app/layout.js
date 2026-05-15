@@ -14,18 +14,41 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "PulseMesh | Live News Aggregator",
   description: "Live global intelligence network delivering premium news.",
+  icons: {
+    icon: "/icon.png",
+    apple: "/icon.png",
+  },
 };
+
+function OfflineDetector() {
+  return (
+    <script
+      dangerouslySetInnerHTML={{
+        __html: `
+          if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+              navigator.serviceWorker.register('/sw.js');
+            });
+          }
+          window.addEventListener('offline', () => {
+            window.location.href = '/offline';
+          });
+        `,
+      }}
+    />
+  );
+}
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${geistSans.variable} ${geistMono.variable}`}>
+      <head>
+        <OfflineDetector />
+      </head>
       <body>
-        {children}
-        <footer className="global-footer">
-          <p className="footer-text">
-            PulseMesh Intelligence Network &copy; {new Date().getFullYear()} | Curated by <a href="https://x.com/urban_cipher" target="_blank" rel="noreferrer" className="footer-link">@urban_cipher</a>
-          </p>
-        </footer>
+        <main>
+          {children}
+        </main>
       </body>
     </html>
   );
