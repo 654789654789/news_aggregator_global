@@ -225,9 +225,16 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                     continue
                 
                 # Rule: Length & Word Count
-                word_count = len(title.split())
-                if word_count < 6 or word_count > 25 or len(title) < 30:
+                words = title.split()
+                word_count = len(words)
+                if word_count < 5 or word_count > 25 or len(title) < 30:
                     continue
+                
+                # Rule: Strict-5 (Substance Check)
+                # If only 5 words, all must be more than 2 chars (Filters "Earth in a new light")
+                if word_count == 5:
+                    if any(len(w) < 3 for w in words):
+                        continue
 
                 # 5. QUALITY SCORING (Penalty & Boost)
                 
@@ -243,8 +250,9 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                 
                 # Penalty: Excessive Punctuation
                 punc_count = sum(title.count(p) for p in ["!", "?", ":"])
-                # STRICT QUESTION FILTER: Reject any title with a question mark
-                if "?" in title:
+                # STRICT QUESTION FILTER: Reject any title with a question mark or starting with question words (Rule 22)
+                QUESTION_WORDS = ("how ", "why ", "what ", "who ", "where ", "when ")
+                if "?" in title or title.lower().startswith(QUESTION_WORDS):
                     continue
                 if punc_count > 3:
                     score -= 3

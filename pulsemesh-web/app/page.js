@@ -2,15 +2,79 @@
 
 import { useState, useEffect, useMemo } from "react";
 
-const Icons = {
-  World: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10b981" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>,
-  Politics: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#3b82f6" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="3" y1="21" x2="21" y2="21"></line><path d="M3 7l9-4 9 4v2H3V7z"></path><path d="M5 21V11h3v10"></path><path d="M10 21V11h4v10"></path><path d="M16 21V11h3v10"></path></svg>,
-  Business: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#c471ed" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline><polyline points="17 6 23 6 23 12"></polyline></svg>,
-  Tech: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#00f2fe" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line><line x1="20" y1="9" x2="23" y2="9"></line><line x1="20" y1="15" x2="23" y2="15"></line><line x1="1" y1="9" x2="4" y2="9"></line><line x1="1" y1="15" x2="4" y2="15"></line></svg>,
-  Science: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#f093fb" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M6 3v12a4 4 0 1 0 8 0V3"></path><path d="M3 3h10"></path><path d="M8.5 2h3"></path></svg>,
-  Sports: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#f6ad55" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"></path><path d="M12 15V22"></path><path d="M10 22H14"></path></svg>,
-  Entertainment: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#f56565" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="2.18" ry="2.18"></rect><line x1="7" y1="2" x2="7" y2="22"></line><line x1="17" y1="2" x2="17" y2="22"></line><line x1="2" y1="12" x2="22" y2="12"></line><line x1="2" y1="7" x2="7" y2="7"></line><line x1="2" y1="17" x2="7" y2="17"></line><line x1="17" y1="17" x2="22" y2="17"></line><line x1="17" y1="7" x2="22" y2="7"></line></svg>,
-  Lifestyle: () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#9f7aea" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"></path><path d="M5 3L4 4"></path><path d="M19 3l1 1"></path><path d="M5 21l-1-1"></path><path d="M19 21l1-1"></path></svg>
+const CATEGORY_STYLES = {
+  World: { color: "#00f2fe", icon: (color) => (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={color} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <circle cx="12" cy="12" r="10"></circle>
+      <line x1="2" y1="12" x2="22" y2="12"></line>
+      <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+    </svg>
+  )},
+  Politics: { color: "#3b82f6", icon: (color) => (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={color} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M3 21h18"></path>
+      <path d="M3 7l9-4 9 4v2H3V7z"></path>
+      <path d="M5 21V11h3v10"></path>
+      <path d="M10 21V11h4v10"></path>
+      <path d="M16 21V11h3v10"></path>
+    </svg>
+  )},
+  Business: { color: "#10b981", icon: (color) => (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={color} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline>
+      <polyline points="17 6 23 6 23 12"></polyline>
+    </svg>
+  )},
+  Tech: { color: "#00d2ff", icon: (color) => (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={color} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect>
+      <rect x="9" y="9" width="6" height="6"></rect>
+      <line x1="9" y1="1" x2="9" y2="4"></line>
+      <line x1="15" y1="1" x2="15" y2="4"></line>
+      <line x1="9" y1="20" x2="9" y2="23"></line>
+      <line x1="15" y1="20" x2="15" y2="23"></line>
+      <line x1="20" y1="9" x2="23" y2="9"></line>
+      <line x1="20" y1="15" x2="23" y2="15"></line>
+      <line x1="1" y1="9" x2="4" y2="9"></line>
+      <line x1="1" y1="15" x2="4" y2="15"></line>
+    </svg>
+  )},
+  Science: { color: "#8b5cf6", icon: (color) => (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={color} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M16.3 21H7.7c-.5 0-.9-.3-1.1-.8L10 11V5c0-.6.4-1 1-1h2c.6 0 1 .4 1 1v6l3.4 9.2c.2.5-.2.8-.7.8z"></path>
+      <path d="M10 10h4"></path>
+    </svg>
+  )},
+  Sports: { color: "#f59e0b", icon: (color) => (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={color} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path>
+      <path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"></path>
+      <path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"></path>
+      <path d="M12 15V22"></path>
+      <path d="M10 22H14"></path>
+    </svg>
+  )},
+  Entertainment: { color: "#ec4899", icon: (color) => (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={color} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <rect x="2" y="2" width="20" height="20" rx="2" ry="2"></rect>
+      <path d="M7 2v20"></path>
+      <path d="M17 2v20"></path>
+      <path d="M2 12h20"></path>
+      <path d="M2 7h5"></path>
+      <path d="M2 17h5"></path>
+      <path d="M17 17h5"></path>
+      <path d="M17 7h5"></path>
+    </svg>
+  )},
+  Lifestyle: { color: "#fbbf24", icon: (color) => (
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={color} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"></path>
+      <path d="M5 3L4 4"></path>
+      <path d="M19 3l1 1"></path>
+      <path d="M5 21l-1-1"></path>
+      <path d="M19 21l1-1"></path>
+    </svg>
+  )}
 };
 
 const DATA_URL = "https://raw.githubusercontent.com/654789654789/news_aggregator_global/main/data_engine/pulsemesh_data.json";
@@ -50,7 +114,6 @@ export default function Home() {
     }
 
     const fetchData = () => {
-      // FORCE LOCAL DATA on Localhost to bypass GitHub CDN Cache
       const isLocal = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1";
       
       if (isLocal) {
@@ -122,7 +185,7 @@ export default function Home() {
 
   const handleCopy = (e, article) => {
     e.preventDefault();
-    const textToCopy = `${article.title}\n\nRead more: ${article.link}`;
+    const textToCopy = article.title;
     
     navigator.clipboard.writeText(textToCopy).then(() => {
       setCopiedLink(article.link);
@@ -233,18 +296,24 @@ export default function Home() {
             LIVE
           </div>
           <div className="ticker-wrap">
-            {tickerArticles.map((article, idx) => (
-              <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="ticker-item">
-                <span className="ticker-category">{article.category}</span>
-                {article.title} <span className="ticker-dot">•</span>
-              </a>
-            ))}
-            {tickerArticles.map((article, idx) => (
-              <a key={`dup-${idx}`} href={article.link} target="_blank" rel="noreferrer" className="ticker-item">
-                <span className="ticker-category">{article.category}</span>
-                {article.title} <span className="ticker-dot">•</span>
-              </a>
-            ))}
+            {tickerArticles.map((article, idx) => {
+              const style = CATEGORY_STYLES[article.category] || CATEGORY_STYLES.World;
+              return (
+                <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="ticker-item">
+                  <span className="ticker-category" style={{background: `${style.color}22`, color: style.color}}>{article.category}</span>
+                  {article.title} <span className="ticker-dot">•</span>
+                </a>
+              );
+            })}
+            {tickerArticles.map((article, idx) => {
+              const style = CATEGORY_STYLES[article.category] || CATEGORY_STYLES.World;
+              return (
+                <a key={`dup-${idx}`} href={article.link} target="_blank" rel="noreferrer" className="ticker-item">
+                  <span className="ticker-category" style={{background: `${style.color}22`, color: style.color}}>{article.category}</span>
+                  {article.title} <span className="ticker-dot">•</span>
+                </a>
+              );
+            })}
           </div>
         </div>
       )}
@@ -257,13 +326,16 @@ export default function Home() {
             if (filteredCatArticles.length === 0) return null;
             
             const displayArticles = filteredCatArticles.slice(0, 3);
-            const Icon = Icons[cat] || Icons.World;
+            const style = CATEGORY_STYLES[cat] || CATEGORY_STYLES.World;
+            const Icon = style.icon;
             
             return (
               <div key={cat} className="category-section">
                 <div className="category-header">
-                  <div className="category-title" style={{display:'flex', alignItems:'center', gap:'10px'}}><Icon /> {cat}</div>
-                  <span className="category-count">{filteredCatArticles.length} total</span>
+                  <div className="category-title" style={{display:'flex', alignItems:'center', gap:'10px', color: style.color}}>
+                    {Icon(style.color)} {cat}
+                  </div>
+                  <span className="category-count" style={{background: `${style.color}11`, color: style.color}}>{filteredCatArticles.length} total</span>
                 </div>
                 
                 <div className="news-list">
@@ -271,7 +343,7 @@ export default function Home() {
                     <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="news-item">
                       <div className="item-header">
                         <div style={{display:'flex', alignItems:'center', gap:'8px'}}>
-                          <span className="ticker-category" style={{margin:0, fontSize:'0.6rem'}}>{article.source}</span>
+                          <span className="ticker-category" style={{margin:0, fontSize:'0.6rem', background: `${style.color}22`, color: style.color}}>{article.source}</span>
                           <span className="item-time">{formatTimeAgo(article.timestamp)}</span>
                         </div>
                         <button 
@@ -292,7 +364,7 @@ export default function Home() {
                 </div>
                 
                 {filteredCatArticles.length > 3 && (
-                  <button className="view-more-btn" onClick={() => setViewCategory(cat)}>
+                  <button className="view-more-btn" style={{borderColor: `${style.color}44`}} onClick={() => setViewCategory(cat)}>
                     View All {filteredCatArticles.length} Updates
                   </button>
                 )}
@@ -306,7 +378,8 @@ export default function Home() {
 
   const SubView = () => {
     const articles = filterArticlesByTime(data[viewCategory] || [], timeFilter);
-    const Icon = Icons[viewCategory] || Icons.World;
+    const style = CATEGORY_STYLES[viewCategory] || CATEGORY_STYLES.World;
+    const Icon = style.icon;
     return (
       <div className="sub-view">
         <header className="header">
@@ -314,7 +387,7 @@ export default function Home() {
             <button className="theme-btn" onClick={() => setViewCategory(null)} style={{marginRight:'1rem'}}>
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
             </button>
-            <h1 className="brand-title" style={{display:'flex', alignItems:'center', gap:'10px'}}><Icon /> {viewCategory} Updates</h1>
+            <h1 className="brand-title" style={{display:'flex', alignItems:'center', gap:'10px', color: style.color}}>{Icon(style.color)} {viewCategory} Updates</h1>
           </div>
           <div style={{display:'flex', alignItems:'center', gap:'0.75rem'}}>
             <FilterComponent />
@@ -333,7 +406,7 @@ export default function Home() {
               <a key={idx} href={article.link} target="_blank" rel="noreferrer" className="news-item">
                 <div className="item-header">
                   <div style={{display:'flex', alignItems:'center', gap:'8px'}}>
-                    <span className="ticker-category" style={{margin:0, fontSize:'0.6rem'}}>{article.source}</span>
+                    <span className="ticker-category" style={{margin:0, fontSize:'0.6rem', background: `${style.color}22`, color: style.color}}>{article.source}</span>
                     <span className="item-time">{formatTimeAgo(article.timestamp)}</span>
                   </div>
                   <button 
