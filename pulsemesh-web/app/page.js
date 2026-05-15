@@ -273,7 +273,7 @@ export default function Home() {
           <h1 className="brand-title">PulseMesh</h1>
           <div className="brand-subtitle">
             <span className="live-indicator"></span>
-            Live Global
+            Live <span className="hide-mobile">Global</span>
           </div>
         </div>
 
