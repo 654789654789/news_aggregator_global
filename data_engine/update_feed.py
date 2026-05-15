@@ -346,6 +346,16 @@ def main():
                 if category == "Sports":
                     if "?" in title: continue
                     if len(title.split()) < 7: continue
+                    
+                    # NOISE FILTER: No Fantasy, Betting, Predictions, or Consumer Fluff
+                    SPORTS_JUNK = ["fantasy", "betting", "prediction", "lineups", "odds", "picks", "dream11", "tickets", "prices", "cheapest", "deals"]
+                    if any(junk in title.lower() for junk in SPORTS_JUNK):
+                        continue
+                    
+                    # LISTICLE FILTER: No "Top 5", "5 worst", etc.
+                    if re.match(r'^(the\s+)?(top|best|worst|5|10|7)\s+\d+', title.lower()) or "top 5" in title.lower() or "top 10" in title.lower():
+                        continue
+                        
                     src = art["source"]
                     source_counts[src] = source_counts.get(src, 0) + 1
                     if source_counts[src] > 3: continue
