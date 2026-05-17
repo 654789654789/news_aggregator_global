@@ -1,18 +1,37 @@
 "use client";
 
 import { useEffect, useState, useCallback } from "react";
+import { useRouter } from "next/navigation";
 import Link from "next/link";
 
 export default function OfflinePage() {
+  const router = useRouter();
   const [pulses, setPulses] = useState([]);
   const [score, setScore] = useState(0);
   const [highScore, setHighScore] = useState(0);
   const [gameStarted, setGameStarted] = useState(false);
 
   useEffect(() => {
+    // 1. Initial check: If online, go back home immediately
+    if (typeof window !== "undefined" && navigator.onLine) {
+      router.replace("/");
+      return;
+    }
+
+    // 2. Auto-detect recovery: If connection returns, sync back to home
+    const handleOnline = () => {
+      router.replace("/");
+    };
+
+    window.addEventListener('online', handleOnline);
+
     const saved = localStorage.getItem("pm-hs") || 0;
     setHighScore(parseInt(saved));
-  }, []);
+
+    return () => {
+      window.removeEventListener('online', handleOnline);
+    };
+  }, [router]);
 
   const spawnPulse = useCallback(() => {
     const id = Date.now();
@@ -132,9 +151,9 @@ export default function OfflinePage() {
         )}
 
         <div style={{ marginTop: '50px' }}>
-          <Link href="/" style={{ color: '#00f2fe', textDecoration: 'none', fontWeight: '600' }}>
-            &larr; Try Reconnecting
-          </Link>
+          <p style={{ color: 'var(--accent-cyan)', fontSize: '0.9rem', opacity: 0.8 }}>
+            Monitoring network connection...
+          </p>
         </div>
       </div>
 
