@@ -81,6 +81,7 @@ export default function CrisisWatchPage() {
   const [showSearch, setShowSearch] = useState(false);
   const [showFilter, setShowFilter] = useState(false);
   const [theme, setTheme] = useState("dark");
+  const [activeSignal, setActiveSignal] = useState(null);
 
   useEffect(() => {
     const savedTheme = localStorage.getItem("pulsemesh-theme") || "dark";
@@ -139,15 +140,58 @@ export default function CrisisWatchPage() {
     let filtered = allCrisisArticles;
     if (severityFilter !== "all") {
       const level = parseInt(severityFilter);
-      filtered = filtered.filter(a => (a.severity || 1) === level);
+      filtered = filtered.filter(a => {
+        const sev = a.severity_score ? (a.severity_score >= 8 ? 3 : a.severity_score >= 5 ? 2 : 1) : (a.severity || 1);
+        return sev === level;
+      });
     }
+    
     if (searchTerm) {
-      filtered = filtered.filter(a => a.title.toLowerCase().includes(searchTerm.toLowerCase()));
+      const tokens = searchTerm.split(/\s+/);
+      let textQuery = [];
+      let countryQuery = null;
+      let regionQuery = null;
+      let trustQuery = null;
+      let tagQuery = null;
+
+      tokens.forEach(token => {
+        if (token.startsWith("country:")) {
+          countryQuery = token.substring(8).toLowerCase();
+        } else if (token.startsWith("region:")) {
+          regionQuery = token.substring(7).toLowerCase();
+        } else if (token.startsWith("trust:")) {
+          trustQuery = parseInt(token.substring(6));
+        } else if (token.startsWith("tag:")) {
+          tagQuery = token.substring(4).toLowerCase();
+        } else if (token) {
+          textQuery.push(token.toLowerCase());
+        }
+      });
+
+      filtered = filtered.filter(a => {
+        // Text search matching
+        if (textQuery.length > 0) {
+          const matchText = textQuery.every(q => a.title.toLowerCase().includes(q));
+          if (!matchText) return false;
+        }
+        // Country search matching
+        if (countryQuery && (!a.country || !a.country.toLowerCase().includes(countryQuery))) return false;
+        // Region search matching
+        if (regionQuery && (!a.region || !a.region.toLowerCase().includes(regionQuery))) return false;
+        // Trust score matching
+        if (trustQuery && (!a.trust_score || a.trust_score < trustQuery)) return false;
+        // Thematic tags matching
+        if (tagQuery && (!a.topic_tags || !a.topic_tags.some(t => t.toLowerCase().includes(tagQuery)))) return false;
+        return true;
+      });
     }
     return filtered;
   }, [allCrisisArticles, severityFilter, searchTerm]);
 
-  const severeCount = useMemo(() => allCrisisArticles.filter(a => (a.severity || 0) >= 3).length, [allCrisisArticles]);
+  const severeCount = useMemo(() => allCrisisArticles.filter(a => {
+    const sev = a.severity_score ? (a.severity_score >= 8 ? 3 : a.severity_score >= 5 ? 2 : 1) : (a.severity || 0);
+    return sev >= 3;
+  }).length, [allCrisisArticles]);
 
   if (!data && !error) return (
     <div className="tactical-view" style={{ height: '100vh', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', gap: '2rem' }}>
@@ -253,25 +297,27 @@ export default function CrisisWatchPage() {
             ) : (
               <div className="tactical-grid">
                 {crisisArticles.map((article, idx) => {
+                  const severity = article.severity_score ? (article.severity_score >= 8 ? 3 : article.severity_score >= 5 ? 2 : 1) : (article.severity || 1);
                   const Content = (
                     <>
                       <div className="severity-badge">
-                        {article.severity === 3 ? 'LEVEL 3 - SEVERE' : article.severity === 2 ? 'LEVEL 2 - HIGH' : 'LEVEL 1 - STRATEGIC'}
+                        {severity === 3 ? 'LEVEL 3 - SEVERE' : severity === 2 ? 'LEVEL 2 - HIGH' : 'LEVEL 1 - STRATEGIC'}
                       </div>
                       <h3 className="crisis-title">{article.title}</h3>
                       <div className="crisis-meta">
-                        <span style={{ color: article.severity >= 3 ? '#ff4e50' : '#94a3b8' }}>{article.source}</span>
+                        <span style={{ color: severity >= 3 ? '#ff4e50' : '#94a3b8' }}>{article.source}</span>
                         <span>{formatTimeAgo(article.timestamp)}</span>
                       </div>
                     </>
                   );
 
-                  return article.link ? (
-                    <a key={idx} href={article.link} target="_blank" rel="noreferrer" className={`crisis-item severity-${article.severity || 1}`}>
-                      {Content}
-                    </a>
-                  ) : (
-                    <div key={idx} className={`crisis-item severity-${article.severity || 1} static`}>
+                  return (
+                    <div 
+                      key={idx} 
+                      onClick={() => setActiveSignal(article)} 
+                      className={`crisis-item severity-${severity}`}
+                      style={{ cursor: 'pointer' }}
+                    >
                       {Content}
                     </div>
                   );
@@ -297,6 +343,81 @@ export default function CrisisWatchPage() {
           <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
         )}
       </button>
+
+      {activeSignal && (
+        <div className="intel-modal-backdrop" onClick={() => setActiveSignal(null)}>
+          <div className="intel-modal-panel strategic-alert" onClick={(e) => e.stopPropagation()}>
+            <div className="intel-modal-header">
+              <span className="source-badge">
+                <span style={{ display: 'inline-block', width: '8px', height: '8px', background: '#ff2e63', borderRadius: '50%' }}></span>
+                {activeSignal.source || "Pulse Ingestion"}
+              </span>
+              <span style={{ fontSize: '0.65rem', color: '#64748b', fontFamily: 'monospace' }}>
+                TELEMETRY AGE: {formatTimeAgo(activeSignal.timestamp)}
+              </span>
+            </div>
+            <div className="intel-modal-body">
+              <h3 className="intel-title">{activeSignal.title}</h3>
+              
+              <div className="intel-summary-container">
+                <div className="meta-field-label" style={{ marginBottom: '0.5rem', color: '#ff2e63' }}>Operational Abstract</div>
+                <p className="intel-summary">
+                  {activeSignal.summary || "No abstract available for this telemetry packet."}
+                </p>
+              </div>
+              
+              <div className="intel-meta-grid">
+                <div className="meta-field">
+                  <span className="meta-field-label">Trust Index</span>
+                  <span className="meta-field-value glow-red">
+                    {activeSignal.trust_score ? `${activeSignal.trust_score}/10 VERIFIED` : "UNRATED"}
+                  </span>
+                </div>
+                <div className="meta-field">
+                  <span className="meta-field-label">Severity Assessment</span>
+                  <span className="meta-field-value">
+                    {activeSignal.severity_score ? `LEVEL ${activeSignal.severity_score} - ${activeSignal.alert_level?.toUpperCase()}` : "LEVEL 1 - STRATEGIC"}
+                  </span>
+                </div>
+                <div className="meta-field">
+                  <span className="meta-field-label">Operational Origin</span>
+                  <span className="meta-field-value">
+                    {activeSignal.country || "Global"} ({activeSignal.region || "Global"})
+                  </span>
+                </div>
+                <div className="meta-field">
+                  <span className="meta-field-label">Intelligence Tags</span>
+                  <div className="intel-tags-container">
+                    {activeSignal.topic_tags && activeSignal.topic_tags.length > 0 ? (
+                      activeSignal.topic_tags.map((t, tIdx) => (
+                        <span key={tIdx} className="intel-tag">{t}</span>
+                      ))
+                    ) : (
+                      <span className="intel-tag" style={{ opacity: 0.5 }}>General</span>
+                    )}
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="intel-modal-footer">
+              <button className="modal-btn-dismiss" onClick={() => setActiveSignal(null)}>
+                DISMISS HUD
+              </button>
+              {activeSignal.link && (
+                <a 
+                  href={activeSignal.link} 
+                  target="_blank" 
+                  rel="noreferrer" 
+                  className="modal-btn-action"
+                  onClick={() => setActiveSignal(null)}
+                >
+                  OPEN SIGNAL SOURCE →
+                </a>
+              )}
+            </div>
+          </div>
+        </div>
+      )}
 
       <footer style={{ position: 'relative', zIndex: 10, padding: '2rem', textAlign: 'center', opacity: 0.3, fontSize: '0.6rem', letterSpacing: '1px' }}>
         {CONFIG.BRAND.STRATEGIC_FOOTER} &copy; {new Date().getFullYear()}

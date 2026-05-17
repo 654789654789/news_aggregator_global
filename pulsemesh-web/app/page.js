@@ -26,6 +26,7 @@ export default function Home() {
   const [showSearch, setShowSearch] = useState(false);
   const [showFilter, setShowFilter] = useState(false);
   const [viewCategory, setViewCategory] = useState(null);
+  const [activeSignal, setActiveSignal] = useState(null);
 
   useEffect(() => {
     const savedTheme = localStorage.getItem("pulsemesh-theme");
@@ -91,6 +92,42 @@ export default function Home() {
       setToastMessage("Headline Copied to Clipboard!");
       setTimeout(() => setCopiedLink(null), 2000);
       setTimeout(() => setToastMessage(""), 3000);
+    });
+  }, []);
+
+  const filterBySearch = useCallback((articles, query) => {
+    if (!query) return articles;
+    const tokens = query.split(/\s+/);
+    let textQuery = [];
+    let countryQuery = null;
+    let regionQuery = null;
+    let trustQuery = null;
+    let tagQuery = null;
+
+    tokens.forEach(token => {
+      if (token.startsWith("country:")) {
+        countryQuery = token.substring(8).toLowerCase();
+      } else if (token.startsWith("region:")) {
+        regionQuery = token.substring(7).toLowerCase();
+      } else if (token.startsWith("trust:")) {
+        trustQuery = parseInt(token.substring(6));
+      } else if (token.startsWith("tag:")) {
+        tagQuery = token.substring(4).toLowerCase();
+      } else if (token) {
+        textQuery.push(token.toLowerCase());
+      }
+    });
+
+    return articles.filter(a => {
+      if (textQuery.length > 0) {
+        const matchText = textQuery.every(q => a.title.toLowerCase().includes(q));
+        if (!matchText) return false;
+      }
+      if (countryQuery && (!a.country || !a.country.toLowerCase().includes(countryQuery))) return false;
+      if (regionQuery && (!a.region || !a.region.toLowerCase().includes(regionQuery))) return false;
+      if (trustQuery && (!a.trust_score || a.trust_score < trustQuery)) return false;
+      if (tagQuery && (!a.topic_tags || !a.topic_tags.some(t => t.toLowerCase().includes(tagQuery)))) return false;
+      return true;
     });
   }, []);
 
@@ -184,13 +221,13 @@ export default function Home() {
                <h2 className="section-title" style={{margin: 0}}>{viewCategory} Intelligence</h2>
             </div>
             <div className="dashboard-grid">
-              {filterArticlesByTime(data[viewCategory] || [], timeFilter)
-                .filter(a => a.title.toLowerCase().includes(searchTerm.toLowerCase()))
+              {filterBySearch(filterArticlesByTime(data[viewCategory] || [], timeFilter), searchTerm)
                 .map((article, idx) => (
                 <NewsCard 
                   key={idx} article={article} 
                   style={CATEGORY_STYLES[viewCategory] || CATEGORY_STYLES.World}
                   handleCopy={handleCopy} copiedLink={copiedLink}
+                  onSelect={setActiveSignal}
                 />
               ))}
             </div>
@@ -203,8 +240,7 @@ export default function Home() {
           <div className="container">
             <div className="dashboard-grid" style={{marginTop: '2rem'}}>
               {categories.map((cat) => {
-                const filtered = filterArticlesByTime(data[cat] || [], timeFilter)
-                  .filter(a => a.title.toLowerCase().includes(searchTerm.toLowerCase()));
+                const filtered = filterBySearch(filterArticlesByTime(data[cat] || [], timeFilter), searchTerm);
                 if (filtered.length === 0) return null;
                 const style = CATEGORY_STYLES[cat] || CATEGORY_STYLES.World;
                 const Icon = style.icon;
@@ -219,7 +255,11 @@ export default function Home() {
                     </div>
                     <div className="news-list">
                       {filtered.slice(0, 3).map((article, idx) => (
-                        <NewsCard key={idx} article={article} style={style} handleCopy={handleCopy} copiedLink={copiedLink} />
+                        <NewsCard 
+                          key={idx} article={article} style={style} 
+                          handleCopy={handleCopy} copiedLink={copiedLink} 
+                          onSelect={setActiveSignal}
+                        />
                       ))}
                     </div>
                     {filtered.length > 3 && (
@@ -244,6 +284,82 @@ export default function Home() {
       </button>
 
       <div className={`toast ${toastMessage ? 'show' : ''}`}>{toastMessage}</div>
+
+      {activeSignal && (
+        <div className="intel-modal-backdrop" onClick={() => setActiveSignal(null)}>
+          <div className="intel-modal-panel" onClick={(e) => e.stopPropagation()}>
+            <div className="intel-modal-header">
+              <span className="source-badge">
+                <span style={{ display: 'inline-block', width: '8px', height: '8px', background: '#00f2fe', borderRadius: '50%' }}></span>
+                {activeSignal.source || "Pulse Ingestion"}
+              </span>
+              <span style={{ fontSize: '0.65rem', color: '#64748b', fontFamily: 'monospace' }}>
+                INGESTED: {formatTimeAgo(activeSignal.timestamp)}
+              </span>
+            </div>
+            <div className="intel-modal-body">
+              <h3 className="intel-title">{activeSignal.title}</h3>
+              
+              <div className="intel-summary-container">
+                <div className="meta-field-label" style={{ marginBottom: '0.5rem', color: '#00f2fe' }}>Intelligence Abstract</div>
+                <p className="intel-summary">
+                  {activeSignal.summary || "No abstract available for this intelligence packet."}
+                </p>
+              </div>
+              
+              <div className="intel-meta-grid">
+                <div className="meta-field">
+                  <span className="meta-field-label">Trust Score</span>
+                  <span className="meta-field-value glow-blue">
+                    {activeSignal.trust_score ? `${activeSignal.trust_score}/10 VERIFIED` : "UNRATED"}
+                  </span>
+                </div>
+                <div className="meta-field">
+                  <span className="meta-field-label">Signal Quality Index</span>
+                  <span className="meta-field-value">
+                    {activeSignal.headline_quality ? `${activeSignal.headline_quality.toFixed(1)}/10` : "7.0/10"}
+                  </span>
+                </div>
+                <div className="meta-field">
+                  <span className="meta-field-label">Geopolitical Origin</span>
+                  <span className="meta-field-value">
+                    {activeSignal.country || "Global"} ({activeSignal.region || "Global"})
+                  </span>
+                </div>
+                <div className="meta-field">
+                  <span className="meta-field-label">Thematic Taxonomy</span>
+                  <div className="intel-tags-container">
+                    {activeSignal.topic_tags && activeSignal.topic_tags.length > 0 ? (
+                      activeSignal.topic_tags.map((t, tIdx) => (
+                        <span key={tIdx} className="intel-tag">{t}</span>
+                      ))
+                    ) : (
+                      <span className="intel-tag" style={{ opacity: 0.5 }}>General</span>
+                    )}
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="intel-modal-footer">
+              <button className="modal-btn-dismiss" onClick={() => setActiveSignal(null)}>
+                DISMISS HUD
+              </button>
+              {activeSignal.link && (
+                <a 
+                  href={activeSignal.link} 
+                  target="_blank" 
+                  rel="noreferrer" 
+                  className="modal-btn-action"
+                  onClick={() => setActiveSignal(null)}
+                >
+                  OPEN OFFICIAL SOURCE →
+                </a>
+              )}
+            </div>
+          </div>
+        </div>
+      )}
+
       <Footer />
     </>
   );

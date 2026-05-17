@@ -3,7 +3,7 @@
 import React from 'react';
 import { formatTimeAgo } from '../lib/utils';
 
-export default function NewsCard({ article, style, handleCopy, copiedLink, featured = false, showSource = true }) {
+export default function NewsCard({ article, style, handleCopy, copiedLink, featured = false, showSource = true, onSelect }) {
   return (
     <a 
       href={article.link} 
@@ -11,6 +11,12 @@ export default function NewsCard({ article, style, handleCopy, copiedLink, featu
       rel="noreferrer" 
       className={`news-item ${featured ? 'featured' : ''}`}
       style={featured ? { padding: '1.5rem' } : {}}
+      onClick={(e) => {
+        if (onSelect) {
+          e.preventDefault();
+          onSelect(article);
+        }
+      }}
     >
       <div className="item-header">
         <div style={{display:'flex', alignItems:'center', gap:'8px'}}>

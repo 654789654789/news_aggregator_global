@@ -1437,4 +1437,255 @@ html, body {
 .mesh-bg {
     overflow: hidden;
 }
+
+/* ==========================================
+   V3 INTELLIGENCE MODAL OVERLAY STYLES
+   ========================================== */
+
+.intel-modal-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(4, 7, 16, 0.75);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+    animation: modalFadeIn 0.25s ease-out forwards;
+}
+
+.intel-modal-panel {
+    background: rgba(10, 16, 32, 0.95);
+    border: 1px solid rgba(0, 242, 254, 0.2);
+    box-shadow: 0 0 40px rgba(0, 242, 254, 0.15), inset 0 0 20px rgba(0, 242, 254, 0.05);
+    border-radius: 12px;
+    width: 100%;
+    max-width: 650px;
+    overflow: hidden;
+    position: relative;
+    font-family: 'Outfit', 'Inter', sans-serif;
+    transform: scale(0.95);
+    opacity: 0;
+    animation: panelSlideIn 0.3s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    animation-delay: 0.05s;
+}
+
+/* Strategic Red Styling override when in Crisis mode */
+.intel-modal-panel.strategic-alert {
+    border: 1px solid rgba(255, 46, 99, 0.25);
+    box-shadow: 0 0 40px rgba(255, 46, 99, 0.15), inset 0 0 20px rgba(255, 46, 99, 0.05);
+}
+
+.intel-modal-header {
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.08);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.intel-modal-header .source-badge {
+    font-size: 0.75rem;
+    letter-spacing: 2px;
+    font-weight: 700;
+    color: #00f2fe;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.strategic-alert .intel-modal-header .source-badge {
+    color: #ff2e63;
+}
+
+.intel-modal-body {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.intel-title {
+    font-size: 1.35rem;
+    font-weight: 700;
+    line-height: 1.4;
+    color: #ffffff;
+    margin: 0;
+}
+
+.intel-summary-container {
+    background: rgba(255, 255, 255, 0.03);
+    border-left: 3px solid #00f2fe;
+    padding: 1rem;
+    border-radius: 4px;
+}
+
+.strategic-alert .intel-summary-container {
+    border-left-color: #ff2e63;
+}
+
+.intel-summary {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: #b3c5ef;
+    margin: 0;
+}
+
+.intel-meta-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    border-top: 1px dashed rgba(255, 255, 255, 0.08);
+    padding-top: 1.25rem;
+}
+
+.meta-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+}
+
+.meta-field-label {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #64748b;
+    font-weight: 600;
+}
+
+.meta-field-value {
+    font-size: 0.9rem;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.meta-field-value.glow-blue {
+    color: #00f2fe;
+    text-shadow: 0 0 8px rgba(0, 242, 254, 0.3);
+}
+
+.meta-field-value.glow-red {
+    color: #ff2e63;
+    text-shadow: 0 0 8px rgba(255, 46, 99, 0.3);
+}
+
+.intel-tags-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 0.25rem;
+}
+
+.intel-tag {
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 0.2rem 0.5rem;
+    background: rgba(0, 242, 254, 0.08);
+    border: 1px solid rgba(0, 242, 254, 0.15);
+    border-radius: 4px;
+    color: #00f2fe;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.strategic-alert .intel-tag {
+    background: rgba(255, 46, 99, 0.08);
+    border: 1px solid rgba(255, 46, 99, 0.15);
+    color: #ff2e63;
+}
+
+.intel-modal-footer {
+    padding: 1.25rem 1.5rem;
+    border-top: 1px dashed rgba(255, 255, 255, 0.08);
+    background: rgba(6, 10, 22, 0.98);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 1rem;
+}
+
+.modal-btn-dismiss {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    color: #94a3b8;
+    padding: 0.6rem 1.25rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.modal-btn-dismiss:hover {
+    background: rgba(255, 255, 255, 0.05);
+    color: #ffffff;
+    border-color: rgba(255, 255, 255, 0.3);
+}
+
+.modal-btn-action {
+    background: linear-gradient(135deg, #00f2fe 0%, #4facfe 100%);
+    border: none;
+    color: #040710;
+    padding: 0.6rem 1.25rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 0 15px rgba(0, 242, 254, 0.25);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.modal-btn-action:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 0 20px rgba(0, 242, 254, 0.45);
+}
+
+.strategic-alert .modal-btn-action {
+    background: linear-gradient(135deg, #ff2e63 0%, #ff6b6b 100%);
+    box-shadow: 0 0 15px rgba(255, 46, 99, 0.25);
+    color: #ffffff;
+}
+
+.strategic-alert .modal-btn-action:hover {
+    box-shadow: 0 0 20px rgba(255, 46, 99, 0.45);
+}
+
+@keyframes modalFadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes panelSlideIn {
+    from {
+        opacity: 0;
+        transform: scale(0.95) translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+    }
+}
+
+@media (max-width: 600px) {
+    .intel-modal-panel {
+        max-height: 90vh;
+        display: flex;
+        flex-direction: column;
+    }
+    .intel-modal-body {
+        overflow-y: auto;
+    }
+    .intel-meta-grid {
+        grid-template-columns: 1fr;
+    }
+}
 

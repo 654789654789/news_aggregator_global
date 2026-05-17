@@ -11,12 +11,12 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 # --- PulseMesh Intelligence Configuration ---
 try:
-    from config import SOURCE_MAP, FEEDS, PROPAGANDA_BLOCKLIST
+    from config import SOURCE_META, THEMATIC_TAGS, FEEDS, PROPAGANDA_BLOCKLIST
 except ImportError:
     # Fallback for different execution contexts
     import sys
     sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-    from config import SOURCE_MAP, FEEDS, PROPAGANDA_BLOCKLIST
+    from config import SOURCE_META, THEMATIC_TAGS, FEEDS, PROPAGANDA_BLOCKLIST
 
 DATA_FILE = "data_engine/pulsemesh_data.json"
 
@@ -34,7 +34,7 @@ def parse_date(date_str):
         pass
     return None
 
-def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
+def fetch_recent_headlines(feed_url, seen_titles, category, minutes=15):
     articles = []
     cutoff_time = datetime.now(timezone.utc) - timedelta(minutes=minutes)
     try:
@@ -185,11 +185,22 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                 if is_blocked:
                     continue
 
-                # Identify Source
+                # Identify Source Attributes from SOURCE_META
                 source_name = "Pulse"
-                for key, val in SOURCE_MAP.items():
+                country = "Global"
+                region = "Global"
+                source_type = "Signal"
+                trust_score = 7
+                source_bias = "Low"
+                
+                for key, meta in SOURCE_META.items():
                     if key in domain:
-                        source_name = val
+                        source_name = meta["label"]
+                        country = meta.get("country", "Global")
+                        region = meta.get("region", "Global")
+                        source_type = meta.get("type", "Signal")
+                        trust_score = meta.get("trust", 7)
+                        source_bias = meta.get("bias", "Low")
                         break
                 
                 # Smart fallback: Auto-extract and capitalize domain for custom feeds in the future
@@ -197,6 +208,97 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                     parts = domain.replace("www.", "").split('.')
                     if len(parts) > 0 and parts[0]:
                         source_name = parts[0].capitalize()
+                        country = "Global"
+                        region = "Global"
+                        source_type = "Custom Feed"
+                        trust_score = 7
+                        source_bias = "Low"
+
+                # 8. SAFE DESCRIPTION & SUMMARY EXTRACTION
+                summary_el = item.find('description')
+                if summary_el is None:
+                    atom_ns = {'atom': 'http://www.w3.org/2005/Atom'}
+                    summary_el = item.find('atom:summary', atom_ns)
+                if summary_el is None:
+                    atom_ns = {'atom': 'http://www.w3.org/2005/Atom'}
+                    summary_el = item.find('atom:content', atom_ns)
+                
+                summary = ""
+                if summary_el is not None:
+                    raw_summary = "".join(summary_el.itertext()).strip()
+                    summary = re.sub(r'<[^>]+>', '', raw_summary)
+                    summary = html.unescape(summary)
+                    summary = re.sub(r'\s+', ' ', summary).strip()
+                    if len(summary) > 280:
+                        summary = summary[:277] + "..."
+
+                # 9. THEMATIC TAGS EXTRACTION
+                topic_tags = []
+                title_lower = title.lower()
+                for tag_name, keywords in THEMATIC_TAGS.items():
+                    if any(kw in title_lower for kw in keywords):
+                        topic_tags.append(tag_name)
+                
+                # Extract proper entities
+                entities = []
+                words_in_title = title.split()
+                if len(words_in_title) > 1:
+                    for w in words_in_title[1:]:
+                        cleaned_w = re.sub(r'[^a-zA-Z]', '', w)
+                        if cleaned_w and cleaned_w[0].isupper() and len(cleaned_w) > 2:
+                            if cleaned_w not in entities and cleaned_w not in ["The", "And", "For", "With", "From", "L1-Strategic", "Strategic"]:
+                                entities.append(cleaned_w)
+
+                # 10. CRITICAL SEVERITY & ALERT LEVELS (CRISIS WATCH)
+                severity_score = 0
+                alert_level = "low"
+                mode = "normal"
+                
+                if category == "CrisisWatch":
+                    mode = "strategic"
+                    severity_score = 5
+                    alert_level = "elevated"
+                    
+                    # Earthquake Magnitude Parsing
+                    mag_match = re.search(r'(?:M|Magnitude)\s*(\d+\.\d+)', title)
+                    if mag_match:
+                        try:
+                            mag = float(mag_match.group(1))
+                            if mag >= 7.0:
+                                severity_score = 9
+                                alert_level = "critical"
+                            elif mag >= 5.0:
+                                severity_score = 7
+                                alert_level = "high"
+                            elif mag >= 3.0:
+                                severity_score = 5
+                                alert_level = "elevated"
+                            else:
+                                severity_score = 3
+                                alert_level = "low"
+                        except:
+                            pass
+                    
+                    # GDACS alert colors
+                    elif "Red" in title or "Red Alert" in title:
+                        severity_score = 9
+                        alert_level = "critical"
+                    elif "Orange" in title or "Orange Alert" in title:
+                        severity_score = 7
+                        alert_level = "high"
+                    elif "Green" in title or "Green Alert" in title:
+                        severity_score = 4
+                        alert_level = "elevated"
+                    
+                    # Geopolitical war / military alerts
+                    elif any(kw in title_lower for kw in ["war", "strike", "escalation", "military drills", "combat", "missile"]):
+                        severity_score = 8
+                        alert_level = "high"
+                        if "taiwan" in title_lower or "israel" in title_lower or "ukraine" in title_lower:
+                            severity_score = 9
+                            alert_level = "critical"
+
+                headline_quality = float(max(1.0, min(10.0, score)))
                 
                 seen_titles.add(normalized)
                 articles.append({
@@ -204,7 +306,20 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                     "link": link,
                     "source": source_name,
                     "timestamp": pub_date.isoformat(),
-                    "score": score
+                    "score": score,
+                    "summary": summary if summary else f"Strategic intelligence signal ingested from {source_name}.",
+                    "country": country,
+                    "region": region,
+                    "source_type": source_type,
+                    "trust_score": trust_score,
+                    "source_bias": source_bias,
+                    "headline_quality": headline_quality,
+                    "topic_tags": topic_tags,
+                    "entities": entities,
+                    "severity_score": severity_score,
+                    "alert_level": alert_level,
+                    "mode": mode,
+                    "language": "en"
                 })
     except Exception:
         pass
@@ -238,7 +353,7 @@ def main():
         new_articles = []
         source_counts = {}
         for feed_url in feed_urls:
-            articles = fetch_recent_headlines(feed_url, seen_titles, minutes=15)
+            articles = fetch_recent_headlines(feed_url, seen_titles, category, minutes=15)
             for art in articles:
                 title = art["title"]
                 
