@@ -10,119 +10,13 @@ from email.utils import parsedate_to_datetime
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
 # --- PulseMesh Intelligence Configuration ---
-SOURCE_MAP = {
-    "nytimes.com": "NYT",
-    "bbc.co": "BBC",
-    "techcrunch.com": "TechCrunch",
-    "thehill.com": "The Hill",
-    "wired.com": "Wired",
-    "theverge.com": "Verge",
-    "venturebeat.com": "VentureBeat",
-    "theguardian.com": "Guardian",
-    "npr.org": "NPR",
-    "pbs.org": "PBS",
-    "arstechnica.com": "Ars",
-    "technologyreview.com": "MIT Tech",
-    "cnbc.com": "CNBC",
-    "marketwatch.com": "MarketWatch",
-    "reuters.com": "Reuters",
-    "apnews.com": "AP",
-    "dw.com": "DW",
-    "espn.com": "ESPN",
-    "skysports.com": "Sky Sports",
-    "hollywoodreporter.com": "THR",
-    "variety.com": "Variety",
-    "rollingstone.com": "Rolling Stone",
-    "deadline.com": "Deadline",
-    "phys.org": "Phys.org",
-    "sciencedaily.com": "SciDaily",
-    "vogue.com": "Vogue",
-    "gq.com": "GQ",
-    "yahoo.com": "Yahoo",
-    "nature.com": "Nature",
-    "eonline.com": "E! News",
-    "google.com": "Google News",
-    "nypost.com": "NY Post"
-}
-
-# Domains to block entirely (Propaganda, low-credibility, or heavy bias)
-PROPAGANDA_BLOCKLIST = [
-    "rt.com", "sputniknews.com", "breitbart.com", "infowars.com", 
-    "dailymail.co.uk", "nypost.com", "almasdarnews.com", "tass.com",
-    "presstv.ir", "globaltimes.cn", "chinadaily.com.cn", "aljazeera.com"
-]
-
-FEEDS = {
-    "Politics": [
-        "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZ4ZERBU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en",
-        "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
-        "https://feeds.bbci.co.uk/news/politics/rss.xml",
-        "https://feeds.npr.org/1014/rss.xml",
-        "https://www.pbs.org/newshour/feeds/rss/headlines",
-        "https://thehill.com/feed/",
-        "https://www.theguardian.com/politics/rss",
-    ],
-    "Tech": [
-        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
-        "https://techcrunch.com/feed/",
-        "https://feeds.arstechnica.com/arstechnica/index",
-        "https://www.wired.com/feed/rss",
-        "https://www.technologyreview.com/feed/",
-        "https://www.theverge.com/rss/index.xml",
-        "https://feeds.feedburner.com/venturebeat/SZYF",
-    ],
-    "World": [
-        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
-        "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-        "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "https://feeds.npr.org/1004/rss.xml",
-        "https://www.pbs.org/newshour/feeds/rss/world",
-        "https://www.theguardian.com/world/rss",
-        "https://www.dw.com/rss/rss.xml",
-    ],
-    "Business": [
-        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
-        "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-        "https://feeds.bbci.co.uk/news/business/rss.xml",
-        "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114",
-        "https://feeds.marketwatch.com/marketwatch/topstories/",
-    ],
-    "Science": [
-        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
-        "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-        "https://www.sciencedaily.com/rss/all.xml",
-        "https://phys.org/rss-feed/",
-        "https://www.nature.com/nature.rss",
-        "https://feeds.npr.org/1007/rss.xml",
-    ],
-    "Sports": [
-        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
-        "https://www.espn.com/espn/rss/news",
-        "https://feeds.bbci.co.uk/sport/rss.xml",
-        "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
-        "https://sports.yahoo.com/rss/",
-        "https://www.skysports.com/rss/12040",
-        "https://www.theguardian.com/sport/rss",
-    ],
-    "Entertainment": [
-        "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
-        "https://www.hollywoodreporter.com/feed/",
-        "https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml",
-        "https://variety.com/feed/",
-        "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
-        "https://deadline.com/feed/",
-        "https://www.rollingstone.com/music/music-news/feed/",
-    ],
-    "Lifestyle": [
-        "https://rss.nytimes.com/services/xml/rss/nyt/Lifestyle.xml",
-        "https://www.vogue.com/feed/rss",
-        "https://www.gq.com/feed/rss",
-        "https://nypost.com/living/feed/",
-        "https://feeds.npr.org/1138/rss.xml",
-        "https://www.bbc.co.uk/food/articles/rss.xml",
-        "https://www.theguardian.com/lifeandstyle/rss",
-    ],
-}
+try:
+    from config import SOURCE_MAP, FEEDS, PROPAGANDA_BLOCKLIST
+except ImportError:
+    # Fallback for different execution contexts
+    import sys
+    sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+    from config import SOURCE_MAP, FEEDS, PROPAGANDA_BLOCKLIST
 
 DATA_FILE = "data_engine/pulsemesh_data.json"
 

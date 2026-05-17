@@ -141,3 +141,10 @@ FEEDS = {
         "https://news.google.com/rss/search?q=site:imd.gov.in+OR+site:ndma.gov.in+emergency+OR+disaster&hl=en-IN&gl=IN&ceid=IN:en",
     ],
 }
+
+# Domains to block entirely (Propaganda, low-credibility, or heavy bias)
+PROPAGANDA_BLOCKLIST = [
+    "rt.com", "sputniknews.com", "breitbart.com", "infowars.com", 
+    "dailymail.co.uk", "nypost.com", "almasdarnews.com", "tass.com",
+    "presstv.ir", "globaltimes.cn", "chinadaily.com.cn", "aljazeera.com"
+]
