@@ -185,20 +185,27 @@ export default function CrisisWatchPage() {
       />
 
       {showSearch && (
-        <div className="search-overlay">
-          <div className="search-container">
-            <div className="search-input-wrapper">
-              <input 
-                type="text" 
-                placeholder="Filter strategic signals..." 
-                value={searchTerm}
-                onChange={(e) => setSearchTerm(e.target.value)}
-                autoFocus
-              />
-              <button className="close-search" onClick={() => setShowSearch(false)}>
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
-              </button>
-            </div>
+        <div className="search-overlay" onClick={() => setShowSearch(false)}>
+          <div className="search-container" onClick={(e) => e.stopPropagation()}>
+            <form onSubmit={(e) => { e.preventDefault(); setShowSearch(false); }}>
+              <div className="search-input-wrapper">
+                <input 
+                  type="text" 
+                  placeholder="Filter strategic signals..." 
+                  value={searchTerm}
+                  onChange={(e) => setSearchTerm(e.target.value)}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Escape') {
+                      setShowSearch(false);
+                    }
+                  }}
+                  autoFocus
+                />
+                <button type="button" className="close-search" onClick={() => setShowSearch(false)} title="Dismiss Search">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                </button>
+              </div>
+            </form>
           </div>
         </div>
       )}

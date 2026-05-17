@@ -1330,7 +1330,13 @@ body.is-offline main {
     .brand-info {
         flex-direction: column;
         align-items: flex-start;
-        gap: 0.15rem;
+        gap: 0px; /* Pull it slightly closer to logo */
+    }
+
+    .brand-subtitle {
+        font-size: 0.65rem !important;
+        letter-spacing: 3px !important;
+        margin-top: 2px;
     }
 
     .header-actions {
