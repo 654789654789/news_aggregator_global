@@ -72,6 +72,10 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                 title_el = item.find('atom:title', atom_ns)
             
             link_el = item.find('link')
+            if link_el is None:
+                atom_ns = {'atom': 'http://www.w3.org/2005/Atom'}
+                link_el = item.find('atom:link', atom_ns)
+            
             link = ""
             if link_el is not None:
                 if link_el.text:

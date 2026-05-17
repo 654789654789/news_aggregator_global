@@ -1278,7 +1278,7 @@ body.is-offline main {
     background: rgba(30, 41, 59, 0.5);
     border: 2px solid rgba(0, 242, 254, 0.3);
     border-radius: 12px;
-    padding: 1.25rem 3rem 1.25rem 1.5rem;
+    padding: 1.25rem 6.5rem 1.25rem 1.5rem;
     color: #fff !important;
     font-size: 1.2rem;
     font-family: 'Outfit', sans-serif;
@@ -1308,6 +1308,26 @@ body.is-offline main {
 }
 
 .close-search:hover {
+    color: #fff;
+}
+
+.clear-search-btn {
+    position: absolute;
+    right: 4rem;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: #64748b;
+    cursor: pointer;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: color 0.2s ease;
+}
+
+.clear-search-btn:hover {
     color: #fff;
 }
 
