@@ -192,6 +192,12 @@ def fetch_recent_headlines(feed_url, seen_titles, minutes=15):
                         source_name = val
                         break
                 
+                # Smart fallback: Auto-extract and capitalize domain for custom feeds in the future
+                if source_name == "Pulse" and domain:
+                    parts = domain.replace("www.", "").split('.')
+                    if len(parts) > 0 and parts[0]:
+                        source_name = parts[0].capitalize()
+                
                 seen_titles.add(normalized)
                 articles.append({
                     "title": title,
