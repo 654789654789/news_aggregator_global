@@ -231,7 +231,7 @@ export default function CrisisWatchPage() {
           <div className="main-feed">
             {crisisArticles.length === 0 ? (
               <div style={{ padding: '4rem 2rem', textAlign: 'center', border: '1px dashed rgba(30,41,59,0.5)', borderRadius: '12px', background: 'rgba(30,41,59,0.2)' }}>
-                <div style={{ fontSize: '1rem', color: '#64748b' }}>No signals matching tactical parameters.</div>
+                <div style={{ fontSize: '1rem', color: '#64748b' }}>No signals matching strategic parameters.</div>
               </div>
             ) : (
               <div className="tactical-grid">

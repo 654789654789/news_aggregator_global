@@ -37,19 +37,21 @@ export default function Header({
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
           </button>
         )}
-        <h1 className={`brand-title ${isSubView ? 'category-title' : ''}`}>
-          {CONFIG.BRAND.NAME}
-        </h1>
-        <div className="brand-subtitle">
-          <span className={`live-indicator ${isTactical ? 'pulse-red' : ''}`}></span>
-          <span style={{color: isTactical ? '#ff4e50' : '#00ff88', fontWeight: '700'}}>
-            {isTactical ? CONFIG.BRAND.CRISIS_LABEL : CONFIG.BRAND.LIVE_LABEL}
-          </span> 
-          <span className="hide-mobile" style={{marginLeft: '4px', opacity: 0.6}}>{CONFIG.BRAND.GLOBAL_LABEL}</span>
+        <div className="brand-info">
+          <h1 className={`brand-title ${isSubView ? 'category-title' : ''}`}>
+            {CONFIG.BRAND.NAME}
+          </h1>
+          <div className="brand-subtitle">
+            <span className={`live-indicator ${isTactical ? 'pulse-red' : ''}`}></span>
+            <span style={{color: isTactical ? '#ff4e50' : '#00ff88', fontWeight: '700'}}>
+              {isTactical ? CONFIG.BRAND.CRISIS_LABEL : CONFIG.BRAND.LIVE_LABEL}
+            </span> 
+            <span className="hide-mobile" style={{marginLeft: '4px', opacity: 0.6}}>{CONFIG.BRAND.GLOBAL_LABEL}</span>
+          </div>
         </div>
       </div>
 
-      <div style={{display:'flex', alignItems:'center', gap:'1.25rem'}}>
+      <div className="header-actions">
         <div className="tactical-switch-container" onClick={toggleTactical} title={isTactical ? "Switch to Normal View" : "Switch to Strategic Crisis Watch"}>
           <span className="switch-label hide-mobile">{isTactical ? 'STRATEGIC' : 'NORMAL'}</span>
           <div className={`tactical-switch ${isTactical ? 'active' : ''}`}>
