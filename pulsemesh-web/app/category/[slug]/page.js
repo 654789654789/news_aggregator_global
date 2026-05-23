@@ -161,6 +161,7 @@ export default function CategoryPage({ params }) {
                     key={idx} article={article} style={style} 
                     handleCopy={handleCopy} copiedLink={copiedLink} 
                     featured={idx === 0} 
+                    forceNormal={categoryName !== "Trending"}
                   />
                 ))}
               </div>

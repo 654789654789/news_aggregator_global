@@ -42,6 +42,13 @@ SOURCE_META = {
     "tsunami.gov": {"label": "NOAA", "country": "US", "region": "Americas", "type": "Government Agency", "trust": 10, "bias": "None"},
     "nhc.noaa.gov": {"label": "NHC", "country": "US", "region": "Americas", "type": "Government Agency", "trust": 10, "bias": "None"},
     "cdc.gov": {"label": "CDC", "country": "US", "region": "Americas", "type": "Government Agency", "trust": 10, "bias": "None"},
+    "gov.uk": {"label": "UK Gov", "country": "UK", "region": "Europe", "type": "Government Agency", "trust": 10, "bias": "None"},
+    "bom.gov.au": {"label": "BoM Australia", "country": "Australia", "region": "Oceania", "type": "Government Agency", "trust": 10, "bias": "None"},
+    "ga.gov.au": {"label": "Geoscience AU", "country": "Australia", "region": "Oceania", "type": "Government Agency", "trust": 10, "bias": "None"},
+    "disasterassist.gov.au": {"label": "DisasterAssist AU", "country": "Australia", "region": "Oceania", "type": "Government Agency", "trust": 10, "bias": "None"},
+    "publicsafety.gc.ca": {"label": "Public Safety CA", "country": "Canada", "region": "Americas", "type": "Government Agency", "trust": 10, "bias": "None"},
+    "weather.gc.ca": {"label": "Environment CA", "country": "Canada", "region": "Americas", "type": "Government Agency", "trust": 10, "bias": "None"},
+    "jma.go.jp": {"label": "JMA Japan", "country": "Japan", "region": "East Asia", "type": "Government Agency", "trust": 10, "bias": "None"},
     "thehindu.com": {"label": "The Hindu", "country": "India", "region": "South Asia", "type": "Newspaper", "trust": 8, "bias": "Moderate"},
     "economictimes.indiatimes.com": {"label": "Economic Times", "country": "India", "region": "South Asia", "type": "Newspaper", "trust": 8, "bias": "Moderate"},
     "gadgets360.com": {"label": "Gadgets 360", "country": "India", "region": "South Asia", "type": "Tech Publication", "trust": 8, "bias": "Low"},
@@ -49,11 +56,27 @@ SOURCE_META = {
     "hindustantimes.com": {"label": "HT", "country": "India", "region": "South Asia", "type": "Newspaper", "trust": 8, "bias": "Moderate"},
     "livemint.com": {"label": "Livemint", "country": "India", "region": "South Asia", "type": "Newspaper", "trust": 8, "bias": "Moderate"},
     "prasarbharati.gov.in": {"label": "PB News", "country": "India", "region": "South Asia", "type": "Broadcaster", "trust": 8, "bias": "Moderate"},
+    "aljazeera.com": {"label": "Al Jazeera", "country": "Qatar", "region": "Middle East", "type": "Newswire", "trust": 8, "bias": "Moderate"},
+    "france24.com": {"label": "France24", "country": "France", "region": "Europe", "type": "Broadcaster", "trust": 9, "bias": "Low"},
+    "nhk.or.jp": {"label": "NHK World", "country": "Japan", "region": "East Asia", "type": "Broadcaster", "trust": 9, "bias": "Low"},
+    "scmp.com": {"label": "SCMP", "country": "China", "region": "East Asia", "type": "Newspaper", "trust": 8, "bias": "Moderate"},
+    "timesofindia.indiatimes.com": {"label": "Times of India", "country": "India", "region": "South Asia", "type": "Newspaper", "trust": 7, "bias": "Moderate"},
+    "smh.com.au": {"label": "SMH", "country": "Australia", "region": "Oceania", "type": "Newspaper", "trust": 8, "bias": "Low"},
+    "sbs.com.au": {"label": "SBS Australia", "country": "Australia", "region": "Oceania", "type": "Broadcaster", "trust": 9, "bias": "Low"},
+    "lemonde.fr": {"label": "Le Monde", "country": "France", "region": "Europe", "type": "Newspaper", "trust": 9, "bias": "Moderate"},
+    "asahi.com": {"label": "Asahi Shimbun", "country": "Japan", "region": "East Asia", "type": "Newspaper", "trust": 9, "bias": "Moderate"},
+    "bloomberg.com": {"label": "Bloomberg", "country": "US", "region": "Americas", "type": "Financial Publication", "trust": 9, "bias": "Low"},
+    "wsj.com": {"label": "WSJ", "country": "US", "region": "Americas", "type": "Newspaper", "trust": 9, "bias": "Low"},
+    "ft.com": {"label": "FT", "country": "UK", "region": "Europe", "type": "Newspaper", "trust": 9, "bias": "Low"},
+    "cnn.com": {"label": "CNN", "country": "US", "region": "Americas", "type": "Broadcaster", "trust": 8, "bias": "Moderate"},
+    "cbc.ca": {"label": "CBC News", "country": "Canada", "region": "Americas", "type": "Broadcaster", "trust": 9, "bias": "Low"},
+    "abc.net.au": {"label": "ABC Australia", "country": "Australia", "region": "Oceania", "type": "Broadcaster", "trust": 9, "bias": "Low"},
 }
 
 FEEDS = {
     "Politics": [
         "https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZ4ZERBU0FtVnVLQUFQAQ?hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=site:reuters.com+politics&hl=en-US&gl=US&ceid=US:en",
         "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
         "https://feeds.bbci.co.uk/news/politics/rss.xml",
         "https://feeds.npr.org/1014/rss.xml",
@@ -75,6 +98,7 @@ FEEDS = {
     ],
     "World": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=site:reuters.com+world&hl=en-US&gl=US&ceid=US:en",
         "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
         "https://feeds.bbci.co.uk/news/world/rss.xml",
         "https://feeds.npr.org/1004/rss.xml",
@@ -82,6 +106,16 @@ FEEDS = {
         "https://www.theguardian.com/world/rss",
         "https://www.dw.com/rss/rss.xml",
         "https://www.thehindu.com/news/international/feeder/default.rss",
+        "https://www.aljazeera.com/xml/rss/all.xml",
+        "https://www.france24.com/en/rss",
+        "https://www3.nhk.or.jp/nhkworld/nhknewsline/federated/rss.xml",
+        "https://www.scmp.com/rss/91/feed.xml",
+        "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+        "https://www.sbs.com.au/news/bitesize-rss",
+        "https://www.ft.com/?format=rss",
+        "http://rss.cnn.com/rss/edition_world.rss",
+        "https://rss.cbc.ca/lineup/world.xml",
+        "https://www.abc.net.au/news/feed/51120/rss.xml",
     ],
     "Business": [
         "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",
@@ -129,6 +163,7 @@ FEEDS = {
         "https://www.thehindu.com/life-and-style/feeder/default.rss",
     ],
     "CrisisWatch": [
+        "https://news.google.com/rss/search?q=site:reuters.com+emergency+OR+disaster+OR+crisis+OR+clash+OR+conflict+OR+war&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=site:reuters.com+OR+site:apnews.com+OR+site:bbc.com+(conflict+OR+military+OR+war+OR+escalation+OR+strike+OR+clash+OR+defense)&hl=en-US&gl=US&ceid=US:en",
         "https://www.gdacs.org/xml/rss.xml",
         "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.atom",
@@ -140,6 +175,10 @@ FEEDS = {
         "https://www.nhc.noaa.gov/index-at.xml",
         "https://tools.cdc.gov/api/v2/resources/media/132608.rss",
         "https://news.google.com/rss/search?q=site:imd.gov.in+OR+site:ndma.gov.in+emergency+OR+disaster&hl=en-IN&gl=IN&ceid=IN:en",
+        "https://news.google.com/rss/search?q=site:gov.uk+emergency+OR+disaster+OR+alert+OR+%22severe+weather%22+OR+flood&hl=en-GB&gl=GB&ceid=GB:en",
+        "https://news.google.com/rss/search?q=site:bom.gov.au+OR+site:ga.gov.au+OR+site:disasterassist.gov.au+emergency+OR+disaster+OR+alert+OR+earthquake+OR+flood&hl=en-AU&gl=AU&ceid=AU:en",
+        "https://news.google.com/rss/search?q=site:publicsafety.gc.ca+OR+site:weather.gc.ca+emergency+OR+alert+OR+flood+OR+disaster&hl=en-CA&gl=CA&ceid=CA:en",
+        "https://news.google.com/rss/search?q=site:jma.go.jp+emergency+OR+disaster+OR+alert+OR+earthquake+OR+typhoon&hl=en-JP&gl=JP&ceid=JP:en",
     ],
 }
 
@@ -147,7 +186,7 @@ FEEDS = {
 PROPAGANDA_BLOCKLIST = [
     "rt.com", "sputniknews.com", "breitbart.com", "infowars.com", 
     "dailymail.co.uk", "nypost.com", "almasdarnews.com", "tass.com",
-    "presstv.ir", "globaltimes.cn", "chinadaily.com.cn", "aljazeera.com"
+    "presstv.ir", "globaltimes.cn", "chinadaily.com.cn"
 ]
 
 # Thematic dictionary for extracting topics dynamically
@@ -157,4 +196,80 @@ THEMATIC_TAGS = {
     "Seismic": ["earthquake", "tsunami", "magnitude", "richter", "seismic", "quake", "tremor"],
     "Climatic": ["hurricane", "cyclone", "wildfire", "flood", "typhoon", "storm", "landslide", "monsoon", "tornado", "avalanche"],
     "Bio-Security": ["outbreak", "virus", "pandemic", "who", "cdc", "influenza", "hantavirus", "infection", "epidemic", "cholera"]
+}
+
+# --- V3.1 Geopolitical Intelligence Engine Constants ---
+MAX_ARTICLES_PER_SOURCE = 3
+SIMILARITY_THRESHOLD = 0.55
+TREND_CALCULATION_WEIGHTS = {
+    "source_count": 0.4,
+    "recency": 0.3,
+    "similarity": 0.2,
+    "social": 0.1
+}
+
+# Geopolitical keyword matches for dynamic headline metadata tags
+GEOPOLITICAL_KEYWORDS = {
+    "US": {"keywords": ["us", "usa", "america", "united states", "washington", "biden", "pentagon", "white house"], "region": "Americas"},
+    "UK": {"keywords": ["uk", "britain", "united kingdom", "london", "downing street", "parliament"], "region": "Europe"},
+    "Germany": {"keywords": ["germany", "berlin", "german", "scholz"], "region": "Europe"},
+    "India": {"keywords": ["india", "delhi", "modi", "indian", "mumbai", "kashmir"], "region": "South Asia"},
+    "France": {"keywords": ["france", "paris", "french", "macron"], "region": "Europe"},
+    "Japan": {"keywords": ["japan", "tokyo", "japanese", "kishida"], "region": "East Asia"},
+    "China": {"keywords": ["china", "beijing", "chinese", "xi jinping", "pla", "shanghai"], "region": "East Asia"},
+    "Australia": {"keywords": ["australia", "canberra", "australian", "sydney", "melbourne"], "region": "Oceania"},
+    "Qatar": {"keywords": ["qatar", "doha", "qatari"], "region": "Middle East"},
+    "Taiwan": {"keywords": ["taiwan", "taipei", "taiwanese"], "region": "East Asia"},
+    "Israel": {"keywords": ["israel", "tel aviv", "netanyahu", "gaza", "palestinian", "idf", "west bank", "jerusalem"], "region": "Middle East"},
+    "Ukraine": {"keywords": ["ukraine", "kyiv", "zelensky", "donbas", "ukrainian"], "region": "Europe"},
+    "Russia": {"keywords": ["russia", "moscow", "putin", "kremlin", "russian", "siberia"], "region": "Europe"},
+    "South Korea": {"keywords": ["south korea", "seoul", "korean"], "region": "East Asia"},
+    "North Korea": {"keywords": ["north korea", "pyongyang", "kim jong un", "icbm"], "region": "East Asia"},
+    "Iran": {"keywords": ["iran", "tehran", "iranian", "khamenei"], "region": "Middle East"},
+    "Canada": {"keywords": ["canada", "ottawa", "canadian", "trudeau"], "region": "Americas"},
+    "Pakistan": {"keywords": ["pakistan", "islamabad", "pakistani", "lahore"], "region": "South Asia"},
+    # Expanded global geopolitical coverage (35 total countries)
+    "Brazil": {"keywords": ["brazil", "brasil", "brasilia", "lula", "rio de janeiro", "sao paulo"], "region": "Americas"},
+    "Italy": {"keywords": ["italy", "italian", "rome", "meloni", "milan"], "region": "Europe"},
+    "Saudi Arabia": {"keywords": ["saudi arabia", "riyadh", "saudi", "bin salman"], "region": "Middle East"},
+    "Turkey": {"keywords": ["turkey", "ankara", "erdogan", "turkish", "istanbul"], "region": "Middle East"},
+    "Mexico": {"keywords": ["mexico", "mexican", "mexico city", "obrador"], "region": "Americas"},
+    "Indonesia": {"keywords": ["indonesia", "jakarta", "indonesian", "widodo"], "region": "Southeast Asia"},
+    "South Africa": {"keywords": ["south africa", "pretoria", "cape town", "johannesburg", "ramaphosa", "south african"], "region": "Africa"},
+    "Spain": {"keywords": ["spain", "madrid", "spanish", "sanchez"], "region": "Europe"},
+    "Netherlands": {"keywords": ["netherlands", "dutch", "amsterdam", "hague"], "region": "Europe"},
+    "Switzerland": {"keywords": ["switzerland", "swiss", "geneva", "zurich"], "region": "Europe"},
+    "Poland": {"keywords": ["poland", "polish", "warsaw", "tusk"], "region": "Europe"},
+    "Sweden": {"keywords": ["sweden", "swedish", "stockholm"], "region": "Europe"},
+    "Belgium": {"keywords": ["belgium", "belgian", "brussels"], "region": "Europe"},
+    "Egypt": {"keywords": ["egypt", "cairo", "egyptian", "al-sisi"], "region": "Africa"},
+    "Singapore": {"keywords": ["singapore", "singaporean"], "region": "Southeast Asia"},
+    "Vietnam": {"keywords": ["vietnam", "vietnamese", "hanoi"], "region": "Southeast Asia"},
+    "UAE": {"keywords": ["uae", "emirates", "dubai", "abu dhabi", "emirati"], "region": "Middle East"},
+    # Global Geopolitical Phase 3 Coverage (60 total countries)
+    "New Zealand": {"keywords": ["new zealand", "wellington", "auckland", "kiwi"], "region": "Oceania"},
+    "Ireland": {"keywords": ["ireland", "irish", "dublin"], "region": "Europe"},
+    "Norway": {"keywords": ["norway", "norwegian", "oslo"], "region": "Europe"},
+    "Denmark": {"keywords": ["denmark", "danish", "copenhagen"], "region": "Europe"},
+    "Finland": {"keywords": ["finland", "finnish", "helsinki"], "region": "Europe"},
+    "Austria": {"keywords": ["austria", "austrian", "vienna"], "region": "Europe"},
+    "Greece": {"keywords": ["greece", "greek", "athens"], "region": "Europe"},
+    "Portugal": {"keywords": ["portugal", "portuguese", "lisbon"], "region": "Europe"},
+    "Czech Republic": {"keywords": ["czech", "prague"], "region": "Europe"},
+    "Hungary": {"keywords": ["hungary", "hungarian", "budapest", "orban"], "region": "Europe"},
+    "Argentina": {"keywords": ["argentina", "argentine", "buenos aires", "milei"], "region": "Americas"},
+    "Colombia": {"keywords": ["colombia", "colombian", "bogota"], "region": "Americas"},
+    "Chile": {"keywords": ["chile", "chilean", "santiago"], "region": "Americas"},
+    "Peru": {"keywords": ["peru", "peruvian", "lima"], "region": "Americas"},
+    "Venezuela": {"keywords": ["venezuela", "venezuelan", "caracas", "maduro"], "region": "Americas"},
+    "Nigeria": {"keywords": ["nigeria", "nigerian", "abuja", "lagos", "tinubu"], "region": "Africa"},
+    "Kenya": {"keywords": ["kenya", "kenyan", "nairobi"], "region": "Africa"},
+    "Ethiopia": {"keywords": ["ethiopia", "ethiopian", "addis ababa"], "region": "Africa"},
+    "Morocco": {"keywords": ["morocco", "moroccan", "rabat", "casablanca"], "region": "Africa"},
+    "Philippines": {"keywords": ["philippines", "filipino", "manila", "marcos"], "region": "Southeast Asia"},
+    "Malaysia": {"keywords": ["malaysia", "malaysian", "kuala lumpur"], "region": "Southeast Asia"},
+    "Thailand": {"keywords": ["thailand", "thai", "bangkok"], "region": "Southeast Asia"},
+    "Bangladesh": {"keywords": ["bangladesh", "bangladeshi", "dhaka"], "region": "South Asia"},
+    "Iraq": {"keywords": ["iraq", "iraqi", "baghdad"], "region": "Middle East"},
+    "Afghanistan": {"keywords": ["afghanistan", "afghan", "kabul", "taliban"], "region": "South Asia"},
 }

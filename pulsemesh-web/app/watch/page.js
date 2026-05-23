@@ -1,10 +1,11 @@
 "use client";
 
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect, useMemo, useCallback } from "react";
 import Link from "next/link";
 import { DATA_URL, filterCrisisArticles, formatTimeAgo, EMERGENCY_PROTOCOLS } from "../lib/utils";
 import Header from "../components/Header";
 import TacticalBackground from "../components/TacticalBackground";
+import TacticalGlobe from "../components/TacticalGlobe";
 import { CONFIG } from '../lib/config';
 
 function TacticalHUD({ articles, severeCount }) {
@@ -27,7 +28,7 @@ function TacticalHUD({ articles, severeCount }) {
       </div>
       <div className="hud-stat">
         <div className="hud-label">System Status</div>
-        <div className="hud-value" style={{ color: severeCount > 5 ? '#ff4e50' : '#00ff88' }}>{systemStatus}</div>
+        <div className="hud-value" style={{ color: severeCount > 5 ? '#ff2e63' : '#00ff88' }}>{systemStatus}</div>
       </div>
     </div>
   );
@@ -40,7 +41,7 @@ function ProtocolSidebar({ articles }) {
     
     if (titles.some(t => t.includes('earthquake') || t.includes('magnitude'))) protocols.push(EMERGENCY_PROTOCOLS.Earthquake);
     if (titles.some(t => t.includes('flood') || t.includes('tsunami') || t.includes('cyclone'))) protocols.push(EMERGENCY_PROTOCOLS.Flood);
-    if (titles.some(t => t.includes('war') || t.includes('conflict') || t.includes('missile'))) protocols.push(EMERGENCY_PROTOCOLS.Conflict);
+    if (titles.some(t => t.includes('war') || t.includes('conflict') || t.includes('missile') || t.includes('drills') || t.includes('military'))) protocols.push(EMERGENCY_PROTOCOLS.Conflict);
     if (titles.some(t => t.includes('outbreak') || t.includes('virus') || t.includes('pandemic'))) protocols.push(EMERGENCY_PROTOCOLS.Health);
     if (titles.some(t => t.includes('cyber') || t.includes('attack') || t.includes('hack'))) protocols.push(EMERGENCY_PROTOCOLS.Cyber);
     
@@ -83,6 +84,14 @@ export default function CrisisWatchPage() {
   const [theme, setTheme] = useState("dark");
   const [activeSignal, setActiveSignal] = useState(null);
 
+  // V3.1 Geopolitical Filters state
+  const [activeCountry, setActiveCountry] = useState("ALL");
+  const [activeRegion, setActiveRegion] = useState("ALL");
+
+  // V3.1 Groq AI strategic briefs states
+  const [intelBrief, setIntelBrief] = useState("");
+  const [briefLoading, setBriefLoading] = useState(false);
+
   useEffect(() => {
     const savedTheme = localStorage.getItem("pulsemesh-theme") || "dark";
     setTheme(savedTheme);
@@ -106,7 +115,7 @@ export default function CrisisWatchPage() {
         });
     };
     fetchData();
-    const interval = setInterval(fetchData, 60000);
+    const interval = setInterval(fetchData, CONFIG.UI.REFRESH_INTERVAL);
 
     const handleClickOutside = (event) => {
       if (!event.target.closest(".funnel-wrapper")) {
@@ -126,6 +135,47 @@ export default function CrisisWatchPage() {
     };
   }, [showFilter]);
 
+  // V3.1 Fetch custom Groq strategic brief whenever activeSignal changes
+  useEffect(() => {
+    if (!activeSignal) {
+      setIntelBrief("");
+      return;
+    }
+
+    setBriefLoading(true);
+    fetch("/api/intelligence", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        title: activeSignal.title,
+        source: activeSignal.source,
+        country: activeSignal.country
+      })
+    })
+      .then(res => res.json())
+      .then(data => {
+        setIntelBrief(data.brief);
+      })
+      .catch(() => {
+        setIntelBrief("Operational error: Secure tactical coprocessor link offline.");
+      })
+      .finally(() => {
+        setBriefLoading(false);
+      });
+  }, [activeSignal]);
+
+  // Global keydown listeners for Escape dismissals
+  useEffect(() => {
+    const handleGlobalKeyDown = (e) => {
+      if (e.key === "Escape") {
+        setActiveSignal(null);
+        setShowSearch(false);
+      }
+    };
+    window.addEventListener("keydown", handleGlobalKeyDown);
+    return () => window.removeEventListener("keydown", handleGlobalKeyDown);
+  }, []);
+
   const toggleTheme = () => {
     const newTheme = theme === "dark" ? "light" : "dark";
     setTheme(newTheme);
@@ -135,9 +185,29 @@ export default function CrisisWatchPage() {
   };
 
   const allCrisisArticles = useMemo(() => filterCrisisArticles(data, timeFilter), [data, timeFilter]);
+
+  // Extract unique countries dynamically
+  const countryList = useMemo(() => {
+    const countries = new Set();
+    allCrisisArticles.forEach(a => {
+      if (a.country && a.country !== "Global") countries.add(a.country);
+    });
+    return ["ALL", ...Array.from(countries).sort()];
+  }, [allCrisisArticles]);
+
+  // Extract unique regions dynamically
+  const regionList = useMemo(() => {
+    const regions = new Set();
+    allCrisisArticles.forEach(a => {
+      if (a.region && a.region !== "Global") regions.add(a.region);
+    });
+    return ["ALL", ...Array.from(regions).sort()];
+  }, [allCrisisArticles]);
   
   const crisisArticles = useMemo(() => {
     let filtered = allCrisisArticles;
+
+    // Apply severity filter
     if (severityFilter !== "all") {
       const level = parseInt(severityFilter);
       filtered = filtered.filter(a => {
@@ -145,7 +215,16 @@ export default function CrisisWatchPage() {
         return sev === level;
       });
     }
+
+    // Apply country/region filters
+    if (activeCountry !== "ALL") {
+      filtered = filtered.filter(a => a.country === activeCountry);
+    }
+    if (activeRegion !== "ALL") {
+      filtered = filtered.filter(a => a.region === activeRegion);
+    }
     
+    // Apply search overlay
     if (searchTerm) {
       const tokens = searchTerm.split(/\s+/);
       let textQuery = [];
@@ -169,24 +248,19 @@ export default function CrisisWatchPage() {
       });
 
       filtered = filtered.filter(a => {
-        // Text search matching
         if (textQuery.length > 0) {
           const matchText = textQuery.every(q => a.title.toLowerCase().includes(q));
           if (!matchText) return false;
         }
-        // Country search matching
         if (countryQuery && (!a.country || !a.country.toLowerCase().includes(countryQuery))) return false;
-        // Region search matching
         if (regionQuery && (!a.region || !a.region.toLowerCase().includes(regionQuery))) return false;
-        // Trust score matching
         if (trustQuery && (!a.trust_score || a.trust_score < trustQuery)) return false;
-        // Thematic tags matching
         if (tagQuery && (!a.topic_tags || !a.topic_tags.some(t => t.toLowerCase().includes(tagQuery)))) return false;
         return true;
       });
     }
     return filtered;
-  }, [allCrisisArticles, severityFilter, searchTerm]);
+  }, [allCrisisArticles, severityFilter, activeCountry, activeRegion, searchTerm]);
 
   const severeCount = useMemo(() => allCrisisArticles.filter(a => {
     const sev = a.severity_score ? (a.severity_score >= 8 ? 3 : a.severity_score >= 5 ? 2 : 1) : (a.severity || 0);
@@ -199,7 +273,7 @@ export default function CrisisWatchPage() {
       <div className="neural-pulse pulse-red"></div>
       <div style={{ 
         fontFamily: 'Outfit', 
-        color: '#ff4e50', 
+        color: '#ff2e63', 
         letterSpacing: '2px', 
         fontWeight: '800', 
         fontSize: '0.75rem', 
@@ -212,7 +286,7 @@ export default function CrisisWatchPage() {
   );
 
   return (
-    <div className="tactical-view">
+    <div className="tactical-view strategic-watch">
       <TacticalBackground theme={theme} />
       <Header 
         theme={theme} 
@@ -232,7 +306,7 @@ export default function CrisisWatchPage() {
         <div className="search-overlay" onClick={() => setShowSearch(false)}>
           <div className="search-container" onClick={(e) => e.stopPropagation()}>
             <form onSubmit={(e) => { e.preventDefault(); setShowSearch(false); }}>
-              <div className="search-input-wrapper">
+              <div className="search-input-wrapper" style={{ borderColor: 'rgba(255, 46, 99, 0.4)' }}>
                 <input 
                   type="text" 
                   placeholder="Filter strategic signals..." 
@@ -259,15 +333,32 @@ export default function CrisisWatchPage() {
                   <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
                 </button>
               </div>
+
+              {/* V3.1 Search Guide Cheatsheet */}
+              <div className="search-cheatsheet" style={{ borderStyle: 'dashed', borderColor: 'rgba(255,46,99,0.3)' }}>
+                <div className="cheatsheet-title" style={{ color: '#ff2e63' }}>Operational Query Cheatsheet (Click to auto-fill)</div>
+                <div className="cheatsheet-tags">
+                  {CONFIG.SEARCH_HELPERS.map((helper, idx) => (
+                    <button 
+                      key={idx} 
+                      type="button"
+                      className="cheatsheet-tag"
+                      onClick={() => setSearchTerm(helper.query)}
+                    >
+                      {helper.label} ({helper.query})
+                    </button>
+                  ))}
+                </div>
+              </div>
             </form>
           </div>
         </div>
       )}
 
       <div className="container" style={{ paddingTop: '1.5rem' }}>
-        <div style={{ marginBottom: '1.5rem', borderBottom: '1px solid rgba(148, 163, 184, 0.2)', paddingBottom: '0.75rem', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', flexWrap: 'wrap', gap: '1rem' }}>
+        <div style={{ marginBottom: '1.5rem', borderBottom: '1px solid rgba(255, 46, 99, 0.2)', paddingBottom: '0.75rem', display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', flexWrap: 'wrap', gap: '1rem' }}>
           <div>
-            <div style={{ fontSize: '0.65rem', color: '#64748b', textTransform: 'uppercase', letterSpacing: '0.3em', marginBottom: '4px' }}>Strategic Operations Center</div>
+            <div style={{ fontSize: '0.65rem', color: '#ff2e63', textTransform: 'uppercase', letterSpacing: '0.3em', marginBottom: '4px' }}>Strategic Operations Center</div>
             <div className="section-title" style={{ fontSize: '1.75rem', fontWeight: '800', color: 'inherit', fontFamily: 'Outfit' }}>Crisis Watch Dashboard</div>
           </div>
 
@@ -284,15 +375,44 @@ export default function CrisisWatchPage() {
               ))}
             </div>
           </div>
-        </div>
+        </div>        <TacticalHUD articles={allCrisisArticles} severeCount={severeCount} />
 
-        <TacticalHUD articles={allCrisisArticles} severeCount={severeCount} />
+        {/* Dynamic Country / Region Filtering Dropdowns (Moved to Top) */}
+        <div className="filter-dropdown-group" style={{ marginTop: '1.5rem', marginBottom: '2rem' }}>
+          <div className="filter-select-wrapper">
+            <label htmlFor="watch-country-select">Country:</label>
+            <select 
+              id="watch-country-select"
+              value={activeCountry} 
+              onChange={(e) => setActiveCountry(e.target.value)}
+              className="tactical-select keyboard-focus-ring"
+            >
+              {countryList.map(c => (
+                <option key={c} value={c}>{c === "ALL" ? "ALL COUNTRIES" : c.toUpperCase()}</option>
+              ))}
+            </select>
+          </div>
+
+          <div className="filter-select-wrapper">
+            <label htmlFor="watch-region-select">Region:</label>
+            <select 
+              id="watch-region-select"
+              value={activeRegion} 
+              onChange={(e) => setActiveRegion(e.target.value)}
+              className="tactical-select keyboard-focus-ring"
+            >
+              {regionList.map(r => (
+                <option key={r} value={r}>{r === "ALL" ? "ALL REGIONS" : r.toUpperCase()}</option>
+              ))}
+            </select>
+          </div>
+        </div>
 
         <div className="watch-layout">
           <div className="main-feed">
             {crisisArticles.length === 0 ? (
-              <div style={{ padding: '4rem 2rem', textAlign: 'center', border: '1px dashed rgba(30,41,59,0.5)', borderRadius: '12px', background: 'rgba(30,41,59,0.2)' }}>
-                <div style={{ fontSize: '1rem', color: '#64748b' }}>No signals matching strategic parameters.</div>
+              <div style={{ padding: '4rem 2rem', textAlign: 'center', border: '1px dashed rgba(255, 46, 99, 0.3)', borderRadius: '12px', background: 'rgba(255, 46, 99, 0.04)' }}>
+                <div style={{ fontSize: '1rem', color: '#ff2e63' }}>No signals matching strategic parameters.</div>
               </div>
             ) : (
               <div className="tactical-grid">
@@ -300,12 +420,13 @@ export default function CrisisWatchPage() {
                   const severity = article.severity_score ? (article.severity_score >= 8 ? 3 : article.severity_score >= 5 ? 2 : 1) : (article.severity || 1);
                   const Content = (
                     <>
-                      <div className="severity-badge">
-                        {severity === 3 ? 'LEVEL 3 - SEVERE' : severity === 2 ? 'LEVEL 2 - HIGH' : 'LEVEL 1 - STRATEGIC'}
+                      <div className="severity-badge" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                        <span>{severity === 3 ? 'LEVEL 3 - SEVERE' : severity === 2 ? 'LEVEL 2 - HIGH' : 'LEVEL 1 - STRATEGIC'}</span>
+                        {article.country && <span className="country-tag-badge" style={{ borderColor: 'rgba(255,255,255,0.2)', color: '#ffffff' }}>{article.country}</span>}
                       </div>
                       <h3 className="crisis-title">{article.title}</h3>
                       <div className="crisis-meta">
-                        <span style={{ color: severity >= 3 ? '#ff4e50' : '#94a3b8' }}>{article.source}</span>
+                        <span style={{ color: severity >= 3 ? '#ff2e63' : '#94a3b8' }}>{article.source}</span>
                         <span>{formatTimeAgo(article.timestamp)}</span>
                       </div>
                     </>
@@ -314,8 +435,15 @@ export default function CrisisWatchPage() {
                   return (
                     <div 
                       key={idx} 
+                      tabIndex={0}
                       onClick={() => setActiveSignal(article)} 
-                      className={`crisis-item severity-${severity}`}
+                      onKeyDown={(e) => {
+                        if (e.key === "Enter" || e.key === " ") {
+                          e.preventDefault();
+                          setActiveSignal(article);
+                        }
+                      }}
+                      className={`crisis-item severity-${severity} keyboard-focus-ring`}
                       style={{ cursor: 'pointer' }}
                     >
                       {Content}
@@ -334,6 +462,15 @@ export default function CrisisWatchPage() {
             </div>
           </div>
         </div>
+
+        {/* V3.3 Dynamic 3D Rotating Geopolitical Tactical Globe HUD (Shifted to Bottom) */}
+        <TacticalGlobe 
+          activeCountry={activeCountry}
+          setActiveCountry={setActiveCountry}
+          activeRegion={activeRegion}
+          setActiveRegion={setActiveRegion}
+          allCrisisArticles={allCrisisArticles}
+        />
       </div>
       
       <button className="floating-theme-btn" onClick={toggleTheme} title="Toggle Theme">
@@ -347,6 +484,9 @@ export default function CrisisWatchPage() {
       {activeSignal && (
         <div className="intel-modal-backdrop" onClick={() => setActiveSignal(null)}>
           <div className="intel-modal-panel strategic-alert" onClick={(e) => e.stopPropagation()}>
+            {/* V3.1 Close Floating Cross Button */}
+            <button className="hud-modal-close keyboard-focus-ring" onClick={() => setActiveSignal(null)} title="CLOSE HUD OVERLAY">×</button>
+
             <div className="intel-modal-header">
               <span className="source-badge">
                 <span style={{ display: 'inline-block', width: '8px', height: '8px', background: '#ff2e63', borderRadius: '50%' }}></span>
@@ -359,11 +499,28 @@ export default function CrisisWatchPage() {
             <div className="intel-modal-body">
               <h3 className="intel-title">{activeSignal.title}</h3>
               
-              <div className="intel-summary-container">
+              <div className="intel-summary-container" style={{ marginBottom: '1.25rem' }}>
                 <div className="meta-field-label" style={{ marginBottom: '0.5rem', color: '#ff2e63' }}>Operational Abstract</div>
-                <p className="intel-summary">
+                <p className="intel-summary" style={{ fontSize: '0.8rem', opacity: 0.85 }}>
                   {activeSignal.summary || "No abstract available for this telemetry packet."}
                 </p>
+              </div>
+
+              {/* V3.1 Dynamic Groq AI Brief Coprocessor Segment */}
+              <div className="intel-summary-container" style={{ background: 'rgba(255, 46, 99, 0.04)', border: '1px solid rgba(255, 46, 99, 0.15)', borderRadius: '6px', padding: '0.75rem 1rem', marginBottom: '1.5rem' }}>
+                <div className="meta-field-label" style={{ marginBottom: '0.5rem', color: '#ff2e63', display: 'flex', alignItems: 'center', gap: '6px' }}>
+                  <span className="radar-icon-spin" style={{ display: 'inline-block', width: '6px', height: '6px', background: '#ff2e63', borderRadius: '50%', animation: 'badgePulse 1.2s infinite alternate' }}></span>
+                  Tactical Geopolitical Briefing (Groq AI)
+                </div>
+                {briefLoading ? (
+                  <p className="intel-summary" style={{ fontFamily: 'monospace', fontSize: '0.8rem', color: '#ff2e63', animation: 'badgePulse 1.5s infinite alternate' }}>
+                    ESTABLISHING ENCRYPTED COPROCESSOR TUNNEL... DECRYPTING TELEMETRY OVERLAY...
+                  </p>
+                ) : (
+                  <p className="intel-summary" style={{ fontSize: '0.82rem', lineHeight: '1.5', fontStyle: 'italic', color: '#cbd5e1' }}>
+                    {intelBrief}
+                  </p>
+                )}
               </div>
               
               <div className="intel-meta-grid">
@@ -400,15 +557,12 @@ export default function CrisisWatchPage() {
               </div>
             </div>
             <div className="intel-modal-footer">
-              <button className="modal-btn-dismiss" onClick={() => setActiveSignal(null)}>
-                DISMISS HUD
-              </button>
               {activeSignal.link && (
                 <a 
                   href={activeSignal.link} 
                   target="_blank" 
                   rel="noreferrer" 
-                  className="modal-btn-action"
+                  className="modal-btn-action keyboard-focus-ring"
                   onClick={() => setActiveSignal(null)}
                 >
                   OPEN SIGNAL SOURCE →

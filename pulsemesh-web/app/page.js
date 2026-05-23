@@ -1,19 +1,26 @@
 "use client";
 
 import { useState, useEffect, useMemo, useCallback } from "react";
-import { 
-  DATA_URL, 
-  CATEGORY_STYLES, 
-  desiredOrder, 
-  formatTimeAgo, 
-  filterArticlesByTime 
+import {
+  DATA_URL,
+  CATEGORY_STYLES,
+  desiredOrder,
+  formatTimeAgo,
+  filterArticlesByTime
 } from "./lib/utils";
+import { CONFIG } from "./lib/config";
 
 // Components
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Ticker from "./components/Ticker";
 import NewsCard from "./components/NewsCard";
+
+const TrendingIcon = (color) => (
+  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={color} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+    <path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"></path>
+  </svg>
+);
 
 export default function Home() {
   const [data, setData] = useState(null);
@@ -28,6 +35,14 @@ export default function Home() {
   const [viewCategory, setViewCategory] = useState(null);
   const [activeSignal, setActiveSignal] = useState(null);
 
+  // V3.1 Geopolitical Filters State
+  const [activeCountry, setActiveCountry] = useState("ALL");
+  const [activeRegion, setActiveRegion] = useState("ALL");
+
+  // V3.1 Groq AI coprocessor states
+  const [intelBrief, setIntelBrief] = useState("");
+  const [briefLoading, setBriefLoading] = useState(false);
+
   useEffect(() => {
     const savedTheme = localStorage.getItem("pulsemesh-theme");
     if (savedTheme) {
@@ -38,7 +53,7 @@ export default function Home() {
     const fetchData = () => {
       const isLocal = typeof window !== 'undefined' && (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1");
       const bustedUrl = `${DATA_URL}?t=${new Date().getTime()}`;
-      
+
       fetch(isLocal ? "/fallback_data.json" : bustedUrl)
         .then(res => res.json())
         .then(json => {
@@ -54,7 +69,7 @@ export default function Home() {
     };
 
     fetchData();
-    const interval = setInterval(fetchData, 60000);
+    const interval = setInterval(fetchData, CONFIG.UI.REFRESH_INTERVAL);
 
     const handleClickOutside = (event) => {
       if (!event.target.closest(".funnel-wrapper")) {
@@ -74,6 +89,47 @@ export default function Home() {
     };
   }, [showFilter]);
 
+  // Dynamic AI fetching trigger
+  useEffect(() => {
+    if (!activeSignal) {
+      setIntelBrief("");
+      return;
+    }
+
+    setBriefLoading(true);
+    fetch("/api/intelligence", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        title: activeSignal.title,
+        source: activeSignal.source,
+        country: activeSignal.country
+      })
+    })
+      .then(res => res.json())
+      .then(data => {
+        setIntelBrief(data.brief);
+      })
+      .catch(() => {
+        setIntelBrief("Operational error: Secure terminal coprocessor link failed. Fallback bypassed.");
+      })
+      .finally(() => {
+        setBriefLoading(false);
+      });
+  }, [activeSignal]);
+
+  // Global keydown listeners for Escape dismissals
+  useEffect(() => {
+    const handleGlobalKeyDown = (e) => {
+      if (e.key === "Escape") {
+        setActiveSignal(null);
+        setShowSearch(false);
+      }
+    };
+    window.addEventListener("keydown", handleGlobalKeyDown);
+    return () => window.removeEventListener("keydown", handleGlobalKeyDown);
+  }, []);
+
   const toggleTheme = useCallback(() => {
     const newTheme = theme === "dark" ? "light" : "dark";
     setTheme(newTheme);
@@ -91,7 +147,7 @@ export default function Home() {
       setCopiedLink(article.link);
       setToastMessage("Headline Copied to Clipboard!");
       setTimeout(() => setCopiedLink(null), 2000);
-      setTimeout(() => setToastMessage(""), 3000);
+      setTimeout(() => setToastMessage(""), CONFIG.UI.TOAST_DURATION);
     });
   }, []);
 
@@ -131,6 +187,15 @@ export default function Home() {
     });
   }, []);
 
+  // V3.1 Geopolitical Filters pipeline
+  const filterByGeopolitics = useCallback((articles) => {
+    return articles.filter(a => {
+      if (activeCountry !== "ALL" && a.country !== activeCountry) return false;
+      if (activeRegion !== "ALL" && a.region !== activeRegion) return false;
+      return true;
+    });
+  }, [activeCountry, activeRegion]);
+
   const categories = useMemo(() => {
     if (!data) return [];
     return Object.keys(data)
@@ -145,8 +210,129 @@ export default function Home() {
   const hasCrisis = useMemo(() => {
     if (!data) return false;
     const allArticles = Object.values(data).flat();
-    return allArticles.some(a => a.severity && a.severity >= 3);
+    return allArticles.some(a => a.severity_score && a.severity_score >= 5);
   }, [data]);
+
+  // Extract unique countries dynamically
+  const countryList = useMemo(() => {
+    if (!data) return ["ALL"];
+    const countries = new Set();
+    Object.values(data).flat().forEach(a => {
+      if (a.country && a.country !== "Global") countries.add(a.country);
+    });
+    return ["ALL", ...Array.from(countries).sort()];
+  }, [data]);
+
+  // Extract unique regions dynamically
+  const regionList = useMemo(() => {
+    if (!data) return ["ALL"];
+    const regions = new Set();
+    Object.values(data).flat().forEach(a => {
+      if (a.region && a.region !== "Global") regions.add(a.region);
+    });
+    return ["ALL", ...Array.from(regions).sort()];
+  }, [data]);
+
+  // V3.2 Calculate trending articles sorted by trend_score with strict source diversity
+  const trendingArticles = useMemo(() => {
+    if (!data) return [];
+    const all = Object.keys(data)
+      .filter(cat => cat !== "CrisisWatch")
+      .flatMap(cat => data[cat] || []);
+
+    // First de-duplicate by URL link to avoid exact same stories
+    const unique = [];
+    const seen = new Set();
+    for (const a of all) {
+      if (!seen.has(a.link)) {
+        seen.add(a.link);
+        unique.push(a);
+      }
+    }
+
+    // Sort all unique articles by trend score descending
+    const sorted = unique.sort((a, b) => (b.trend_score || 0) - (a.trend_score || 0));
+
+    // Filter to enforce strict publisher source diversity (max 1 article per unique outlet)
+    const diverse = [];
+    const seenSources = new Set();
+    for (const a of sorted) {
+      if (!seenSources.has(a.source)) {
+        seenSources.add(a.source);
+        diverse.push(a);
+      }
+    }
+    return diverse;
+  }, [data]);
+
+  const filteredTrending = useMemo(() => {
+    return filterBySearch(filterByGeopolitics(filterArticlesByTime(trendingArticles, timeFilter)), searchTerm);
+  }, [trendingArticles, timeFilter, searchTerm, filterBySearch, filterByGeopolitics]);
+
+  const renderCategorySection = useCallback((cat) => {
+    if (!data) return null;
+
+    if (cat === "Trending") {
+      if (filteredTrending.length === 0) return null;
+      return (
+        <div key="Trending" className="category-section trending">
+          <div className="category-header">
+            <div className="category-title" style={{ display: 'flex', alignItems: 'center', gap: '10px', color: '#ff9f1c' }}>
+              {TrendingIcon('#ff9f1c')} Trending Intel
+              <span className="pulse-dot breathing"></span>
+            </div>
+            <span className="category-count" style={{ background: 'rgba(255, 159, 28, 0.11)', color: '#ff9f1c' }}>{filteredTrending.length} active trends</span>
+          </div>
+          <div className="news-list">
+            {filteredTrending.slice(0, CONFIG.UI_LIMITS.MAX_DISPLAY_CARDS).map((article, idx) => (
+              <NewsCard
+                key={idx} article={article} style={{ color: '#ff9f1c' }}
+                handleCopy={handleCopy} copiedLink={copiedLink}
+                onSelect={setActiveSignal}
+                featured={idx === 0}
+              />
+            ))}
+          </div>
+          {filteredTrending.length > CONFIG.UI_LIMITS.MAX_DISPLAY_CARDS && (
+            <button className="view-more-btn" style={{ borderColor: 'rgba(255, 159, 28, 0.35)', color: '#ff9f1c' }} onClick={() => setViewCategory("Trending")}>
+              View All {filteredTrending.length} Active Trends
+            </button>
+          )}
+        </div>
+      );
+    }
+
+    const filtered = filterBySearch(filterByGeopolitics(filterArticlesByTime(data[cat] || [], timeFilter)), searchTerm);
+    if (filtered.length === 0) return null;
+    const style = CATEGORY_STYLES[cat] || CATEGORY_STYLES.World;
+    const Icon = style.icon;
+
+    return (
+      <div key={cat} className={`category-section ${cat.toLowerCase()}`}>
+        <div className="category-header">
+          <div className="category-title" style={{ display: 'flex', alignItems: 'center', gap: '10px', color: style.color }}>
+            {Icon(style.color)} {cat}
+          </div>
+          <span className="category-count" style={{ background: `${style.color}11`, color: style.color }}>{filtered.length} total</span>
+        </div>
+        <div className="news-list">
+          {filtered.slice(0, CONFIG.UI_LIMITS.MAX_DISPLAY_CARDS).map((article, idx) => (
+            <NewsCard
+              key={idx} article={article} style={style}
+              handleCopy={handleCopy} copiedLink={copiedLink}
+              onSelect={setActiveSignal}
+              forceNormal={true}
+            />
+          ))}
+        </div>
+        {filtered.length > CONFIG.UI_LIMITS.MAX_DISPLAY_CARDS && (
+          <button className="view-more-btn" style={{ borderColor: `${style.color}44` }} onClick={() => setViewCategory(cat)}>
+            View All {filtered.length} Updates
+          </button>
+        )}
+      </div>
+    );
+  }, [data, filteredTrending, timeFilter, searchTerm, filterBySearch, filterByGeopolitics, handleCopy, copiedLink, setActiveSignal]);
 
   const tickerArticles = useMemo(() => {
     if (!data) return [];
@@ -176,60 +362,137 @@ export default function Home() {
   return (
     <>
       <div className="mesh-bg"></div>
-      
-      <Header 
-        theme={theme} 
-        toggleTheme={toggleTheme} 
-        timeFilter={timeFilter} 
+
+      <Header
+        theme={theme}
+        toggleTheme={toggleTheme}
+        timeFilter={timeFilter}
         setTimeFilter={setTimeFilter}
-        showFilter={showFilter} 
+        showFilter={showFilter}
         setShowFilter={setShowFilter}
         showSearch={showSearch}
         setShowSearch={setShowSearch}
-        viewCategory={viewCategory} 
+        viewCategory={viewCategory}
         setViewCategory={setViewCategory}
         isSubView={!!viewCategory}
         hasCrisis={hasCrisis}
       />
 
       {showSearch && (
-        <div className="search-overlay">
-          <div className="search-container">
-            <div className="search-input-wrapper">
-              <input 
-                type="text" 
-                placeholder={viewCategory ? `Search in ${viewCategory}...` : "Search across all intelligence categories..."}
-                value={searchTerm}
-                onChange={(e) => setSearchTerm(e.target.value)}
-                autoFocus
-              />
-              <button className="close-search" onClick={() => setShowSearch(false)}>
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
-              </button>
-            </div>
-            <div style={{marginTop: '1rem', fontSize: '0.8rem', color: 'rgba(255,255,255,0.4)', textAlign: 'center'}}>
-              Press ESC or click X to return to dashboard
-            </div>
+        <div className="search-overlay" onClick={() => setShowSearch(false)}>
+          <div className="search-container" onClick={(e) => e.stopPropagation()}>
+            <form onSubmit={(e) => { e.preventDefault(); setShowSearch(false); }}>
+              <div className="search-input-wrapper" style={{ borderColor: 'rgba(0, 242, 254, 0.4)' }}>
+                <input
+                  type="text"
+                  placeholder={viewCategory ? `Search in ${viewCategory}...` : "Search across all intelligence categories..."}
+                  value={searchTerm}
+                  onChange={(e) => setSearchTerm(e.target.value)}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Escape') {
+                      setShowSearch(false);
+                    }
+                  }}
+                  autoFocus
+                />
+                {searchTerm && (
+                  <button
+                    type="button"
+                    className="clear-search-btn"
+                    onClick={(e) => { e.stopPropagation(); setSearchTerm(''); }}
+                    title="Clear Search"
+                  >
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                  </button>
+                )}
+                <button type="button" className="close-search" onClick={() => setShowSearch(false)} title="Dismiss Search">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                </button>
+              </div>
+
+              {/* V3.1 Search Guide Cheatsheet */}
+              <div className="search-cheatsheet">
+                <div className="cheatsheet-title">Tactical Query Cheatsheet (Click to auto-fill)</div>
+                <div className="cheatsheet-tags">
+                  {CONFIG.SEARCH_HELPERS.map((helper, idx) => (
+                    <button
+                      key={idx}
+                      type="button"
+                      className="cheatsheet-tag"
+                      onClick={() => setSearchTerm(helper.query)}
+                    >
+                      {helper.label} ({helper.query})
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <div style={{ marginTop: '1rem', fontSize: '0.8rem', color: 'rgba(255,255,255,0.4)', textAlign: 'center' }}>
+                Press ENTER to submit query, ESC or click backdrop to close
+              </div>
+            </form>
           </div>
         </div>
       )}
 
       {viewCategory ? (
         <div className="sub-view">
-          <div className="container" style={{marginTop: '1.5rem'}}>
-            <div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '2rem'}}>
-               <h2 className="section-title" style={{margin: 0}}>{viewCategory} Intelligence</h2>
+          <div className="container" style={{ marginTop: '1.5rem' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem' }}>
+              <h2 className="section-title" style={{ margin: 0 }}>{viewCategory} Intelligence</h2>
             </div>
+
+            {/* Subview Geopolitical Origin Dropdowns */}
+            <div className="filter-dropdown-group">
+              <div className="filter-select-wrapper">
+                <label htmlFor="subview-country-select">Country:</label>
+                <select
+                  id="subview-country-select"
+                  value={activeCountry}
+                  onChange={(e) => setActiveCountry(e.target.value)}
+                  className="tactical-select keyboard-focus-ring"
+                >
+                  {countryList.map(c => (
+                    <option key={c} value={c}>{c === "ALL" ? "ALL COUNTRIES" : c.toUpperCase()}</option>
+                  ))}
+                </select>
+              </div>
+
+              <div className="filter-select-wrapper">
+                <label htmlFor="subview-region-select">Region:</label>
+                <select
+                  id="subview-region-select"
+                  value={activeRegion}
+                  onChange={(e) => setActiveRegion(e.target.value)}
+                  className="tactical-select keyboard-focus-ring"
+                >
+                  {regionList.map(r => (
+                    <option key={r} value={r}>{r === "ALL" ? "ALL REGIONS" : r.toUpperCase()}</option>
+                  ))}
+                </select>
+              </div>
+            </div>
+
             <div className="dashboard-grid">
-              {filterBySearch(filterArticlesByTime(data[viewCategory] || [], timeFilter), searchTerm)
+              {filterBySearch(
+                filterByGeopolitics(
+                  filterArticlesByTime(
+                    viewCategory === "Trending" ? trendingArticles : (data[viewCategory] || []),
+                    timeFilter
+                  )
+                ),
+                searchTerm
+              )
                 .map((article, idx) => (
-                <NewsCard 
-                  key={idx} article={article} 
-                  style={CATEGORY_STYLES[viewCategory] || CATEGORY_STYLES.World}
-                  handleCopy={handleCopy} copiedLink={copiedLink}
-                  onSelect={setActiveSignal}
-                />
-              ))}
+                  <NewsCard
+                    key={idx} article={article}
+                    style={viewCategory === "Trending" ? { color: '#ff9f1c' } : (CATEGORY_STYLES[viewCategory] || CATEGORY_STYLES.World)}
+                    handleCopy={handleCopy} copiedLink={copiedLink}
+                    onSelect={setActiveSignal}
+                    featured={viewCategory === "Trending" && idx === 0}
+                    forceNormal={viewCategory !== "Trending"}
+                  />
+                ))}
             </div>
           </div>
         </div>
@@ -238,38 +501,58 @@ export default function Home() {
           <Ticker articles={tickerArticles} />
 
           <div className="container">
-            <div className="dashboard-grid" style={{marginTop: '2rem'}}>
-              {categories.map((cat) => {
-                const filtered = filterBySearch(filterArticlesByTime(data[cat] || [], timeFilter), searchTerm);
-                if (filtered.length === 0) return null;
-                const style = CATEGORY_STYLES[cat] || CATEGORY_STYLES.World;
-                const Icon = style.icon;
-                
-                return (
-                  <div key={cat} className="category-section">
-                    <div className="category-header">
-                      <div className="category-title" style={{display:'flex', alignItems:'center', gap:'10px', color: style.color}}>
-                        {Icon(style.color)} {cat}
-                      </div>
-                      <span className="category-count" style={{background: `${style.color}11`, color: style.color}}>{filtered.length} total</span>
-                    </div>
-                    <div className="news-list">
-                      {filtered.slice(0, 3).map((article, idx) => (
-                        <NewsCard 
-                          key={idx} article={article} style={style} 
-                          handleCopy={handleCopy} copiedLink={copiedLink} 
-                          onSelect={setActiveSignal}
-                        />
-                      ))}
-                    </div>
-                    {filtered.length > 3 && (
-                      <button className="view-more-btn" style={{borderColor: `${style.color}44`}} onClick={() => setViewCategory(cat)}>
-                        View All {filtered.length} Updates
-                      </button>
-                    )}
-                  </div>
-                );
-              })}
+            {/* Dynamic Geopolitical Dropdowns on Landing */}
+            <div className="filter-dropdown-group" style={{ marginTop: '1.5rem' }}>
+              <div className="filter-select-wrapper">
+                <label htmlFor="landing-country-select">Country:</label>
+                <select
+                  id="landing-country-select"
+                  value={activeCountry}
+                  onChange={(e) => setActiveCountry(e.target.value)}
+                  className="tactical-select keyboard-focus-ring"
+                >
+                  {countryList.map(c => (
+                    <option key={c} value={c}>{c === "ALL" ? "ALL COUNTRIES" : c.toUpperCase()}</option>
+                  ))}
+                </select>
+              </div>
+
+              <div className="filter-select-wrapper">
+                <label htmlFor="landing-region-select">Region:</label>
+                <select
+                  id="landing-region-select"
+                  value={activeRegion}
+                  onChange={(e) => setActiveRegion(e.target.value)}
+                  className="tactical-select keyboard-focus-ring"
+                >
+                  {regionList.map(r => (
+                    <option key={r} value={r}>{r === "ALL" ? "ALL REGIONS" : r.toUpperCase()}</option>
+                  ))}
+                </select>
+              </div>
+            </div>
+
+            <div className="dashboard-grid category-grid" style={{ marginTop: '1.5rem' }}>
+              {/* Column 1: Trending, Business, Sports */}
+              <div className="masonry-column">
+                {renderCategorySection("Trending")}
+                {renderCategorySection("Business")}
+                {renderCategorySection("Sports")}
+              </div>
+
+              {/* Column 2: World, Tech, Entertainment */}
+              <div className="masonry-column">
+                {renderCategorySection("World")}
+                {renderCategorySection("Tech")}
+                {renderCategorySection("Entertainment")}
+              </div>
+
+              {/* Column 3: Politics, Science, Lifestyle */}
+              <div className="masonry-column">
+                {renderCategorySection("Politics")}
+                {renderCategorySection("Science")}
+                {renderCategorySection("Lifestyle")}
+              </div>
             </div>
           </div>
         </>
@@ -288,6 +571,9 @@ export default function Home() {
       {activeSignal && (
         <div className="intel-modal-backdrop" onClick={() => setActiveSignal(null)}>
           <div className="intel-modal-panel" onClick={(e) => e.stopPropagation()}>
+            {/* V3.1 Close Floating Cross Button */}
+            <button className="hud-modal-close keyboard-focus-ring" onClick={() => setActiveSignal(null)} title="CLOSE HUD OVERLAY">×</button>
+
             <div className="intel-modal-header">
               <span className="source-badge">
                 <span style={{ display: 'inline-block', width: '8px', height: '8px', background: '#00f2fe', borderRadius: '50%' }}></span>
@@ -299,14 +585,31 @@ export default function Home() {
             </div>
             <div className="intel-modal-body">
               <h3 className="intel-title">{activeSignal.title}</h3>
-              
-              <div className="intel-summary-container">
-                <div className="meta-field-label" style={{ marginBottom: '0.5rem', color: '#00f2fe' }}>Intelligence Abstract</div>
-                <p className="intel-summary">
-                  {activeSignal.summary || "No abstract available for this intelligence packet."}
+
+              <div className="intel-summary-container" style={{ marginBottom: '1.25rem' }}>
+                <div className="meta-field-label" style={{ marginBottom: '0.5rem', color: '#00f2fe' }}>Ingested Abstract</div>
+                <p className="intel-summary" style={{ fontSize: '0.8rem', opacity: 0.85 }}>
+                  {activeSignal.summary || "No operational abstract is currently available for this signal."}
                 </p>
               </div>
-              
+
+              {/* V3.1 Dynamic Groq AI Brief Coprocessor Segment */}
+              <div className="intel-summary-container" style={{ background: 'rgba(0, 242, 254, 0.04)', border: '1px solid rgba(0, 242, 254, 0.15)', borderRadius: '6px', padding: '0.75rem 1rem', marginBottom: '1.5rem' }}>
+                <div className="meta-field-label" style={{ marginBottom: '0.5rem', color: '#00f2fe', display: 'flex', alignItems: 'center', gap: '6px' }}>
+                  <span className="radar-icon-spin" style={{ display: 'inline-block', width: '6px', height: '6px', background: '#00f2fe', borderRadius: '50%', animation: 'badgePulse 1.2s infinite alternate' }}></span>
+                  Tactical Geopolitical Briefing (Groq AI)
+                </div>
+                {briefLoading ? (
+                  <p className="intel-summary" style={{ fontFamily: 'monospace', fontSize: '0.8rem', color: '#00f2fe', animation: 'badgePulse 1.5s infinite alternate' }}>
+                    ESTABLISHING ENCRYPTED COPROCESSOR TUNNEL... DECRYPTING TELEMETRY OVERLAY...
+                  </p>
+                ) : (
+                  <p className="intel-summary" style={{ fontSize: '0.82rem', lineHeight: '1.5', fontStyle: 'italic', color: '#e2e8f0' }}>
+                    {intelBrief}
+                  </p>
+                )}
+              </div>
+
               <div className="intel-meta-grid">
                 <div className="meta-field">
                   <span className="meta-field-label">Trust Score</span>
@@ -341,15 +644,12 @@ export default function Home() {
               </div>
             </div>
             <div className="intel-modal-footer">
-              <button className="modal-btn-dismiss" onClick={() => setActiveSignal(null)}>
-                DISMISS HUD
-              </button>
               {activeSignal.link && (
-                <a 
-                  href={activeSignal.link} 
-                  target="_blank" 
-                  rel="noreferrer" 
-                  className="modal-btn-action"
+                <a
+                  href={activeSignal.link}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="modal-btn-action keyboard-focus-ring"
                   onClick={() => setActiveSignal(null)}
                 >
                   OPEN OFFICIAL SOURCE →
