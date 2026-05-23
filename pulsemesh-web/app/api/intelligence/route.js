@@ -31,8 +31,8 @@ function generateFallbackBrief(title, source, country) {
     return `Athletic competitive signal received from ${publisher} in ${location} regarding major tournament developments. Regional public interest vectors remain elevated as teams finalize tactical campaigns. Analysts note zero immediate sovereign risks associated with the event.`;
   }
 
-  // Standard geopolitical briefing fallback
-  return `Strategic threat assessment monitored from ${publisher} regarding current developments in ${location}. Territorial security forces have adjusted sovereign posture vectors in response to the emerging intelligence update. Analytical branches continue tracking signal propagation for preemptive threat detection.`;
+  // Standard geopolitical briefing fallback (Neutral catch-all)
+  return `Strategic intelligence signal ingested from ${publisher} regarding recent developments in ${location}. Localized information streams are being processed as analytical branches continue tracking signal propagation for real-time telemetry updates.`;
 }
 
 export async function POST(req) {
