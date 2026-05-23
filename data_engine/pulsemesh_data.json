@@ -1,6 +1,45 @@
 {
   "Politics": [
     {
+      "title": "Gunshots Reported Near White House, F.B.I. Says",
+      "link": "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html",
+      "source": "NYT",
+      "timestamp": "2026-05-23T23:32:48+00:00",
+      "score": 12,
+      "summary": "A witness reported hearing dozens of shots. It was not immediately clear what had led up to the shooting or whether anyone had been injured.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Reported",
+        "Near",
+        "White",
+        "House",
+        "FBI",
+        "Says"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 7.8,
+      "source_count": 17,
+      "sources_reporting": [
+        "Guardian",
+        "NPR",
+        "NYT",
+        "Reuters"
+      ],
+      "trend_accel": "+65%",
+      "heat_level": "SURGING"
+    },
+    {
       "title": "Gunfire Reported Near the White House, F.B.I. Says",
       "link": "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html",
       "source": "NYT",
@@ -27,14 +66,17 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 7.7,
+      "source_count": 17,
       "sources_reporting": [
-        "NYT"
+        "Bloomberg",
+        "NYT",
+        "PBS",
+        "Reuters"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
+      "trend_accel": "+71%",
+      "heat_level": "HOT"
     },
     {
       "title": "Iran's soccer federation says its World Cup base camp has been moved to Mexico from the United States",
@@ -62,8 +104,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -357,8 +399,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -442,6 +484,75 @@
     }
   ],
   "World": [
+    {
+      "title": "Endangered turtle found to have survived record-breaking flood",
+      "link": "https://www.abc.net.au/news/2026-05-24/endangered-maning-river-turtles-back-to-preflood-numbers/106711504",
+      "source": "ABC Australia",
+      "timestamp": "2026-05-23T23:33:17+00:00",
+      "score": 10,
+      "summary": "Experts are relieved to see the number of endangered Manning River turtles holding steady, a year after devastating flooding in northern New South Wales.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Iran War Live Updates: Trump Says Peace Deal Is Near",
+      "link": "https://www.nytimes.com/live/2026/05/23/world/us-iran-war-trump",
+      "source": "NYT",
+      "timestamp": "2026-05-23T23:32:31+00:00",
+      "score": 14,
+      "summary": "President Trump said Iran and the United States had \u201clargely negotiated\u201d an agreement \u201cpertaining to PEACE.\u201d Three senior Iranian officials said Tehran had agreed to a memorandum of understanding, but there was no public statement from Iran\u2019s government.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "War",
+        "Live",
+        "Updates",
+        "Trump",
+        "Says",
+        "Peace",
+        "Deal",
+        "Near"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "White House gunfire scare: Footage shows journalists running for shelter",
       "link": "https://timesofindia.indiatimes.com/world/us/white-house-gunfire-scare-footage-shows-journalists-running-for-shelter/articleshow/131287497.cms",
@@ -1167,7 +1278,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.2,
+      "trend_score": 11.1,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -1178,7 +1289,7 @@
         "Reuters",
         "The Hindu"
       ],
-      "trend_accel": "+81%",
+      "trend_accel": "+80%",
       "heat_level": "CRITICAL"
     },
     {
@@ -1963,6 +2074,42 @@
   ],
   "Business": [
     {
+      "title": "Secret Service shoots person near the White House, bystander also shot, law enforcement official says",
+      "link": "https://www.cnbc.com/2026/05/23/reports-of-shots-fired-near-white-house.html",
+      "source": "CNBC",
+      "timestamp": "2026-05-23T23:38:41+00:00",
+      "score": 12,
+      "summary": "Secret Service said it was \"aware of reports of shots fired near 17th Street and Pennsylvania Avenue NW\" \u2014 one block from the White House.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Service",
+        "White",
+        "House"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 6.7,
+      "source_count": 9,
+      "sources_reporting": [
+        "BBC",
+        "CNBC",
+        "NHK",
+        "PBS"
+      ],
+      "trend_accel": "+66%",
+      "heat_level": "HOT"
+    },
+    {
       "title": "Law enforcement authorities are responding to reports of shots fired near the White House",
       "link": "https://www.cnbc.com/2026/05/23/reports-of-shots-fired-near-white-house.html",
       "source": "CNBC",
@@ -1985,8 +2132,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -2859,6 +3006,44 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Stephen Colbert Returns to TV One Day After Ending Late-Night Show",
+      "link": "https://www.eonline.com/news/1432305/stephen-colbert-returns-to-tv-one-day-after-the-late-show-finale?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-05-23T23:41:53+00:00",
+      "score": 12,
+      "summary": "Stephen Colbert didn't stay away from TV very long\u2014or even a full day. Less than 24 hours after the Late Show host said goodbye to his long-running CBS talk show on May 21, he returned to...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Colbert",
+        "Returns",
+        "One",
+        "Day",
+        "After",
+        "Ending",
+        "LateNight",
+        "Show"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "White House On Lockdown As Dozens Of Gunshots Fired; Journalists Ushered To Press Briefing Room",
       "link": "https://deadline.com/2026/05/white-house-lockdown-gunshots-fired-1236920091/",
@@ -3953,6 +4138,106 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.4 - 86 km NNW of Karluk, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026kecoce",
+      "source": "USGS",
+      "timestamp": "2026-05-23T23:44:12.797000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-23 23:42:28 UTC2026-05-23 23:42:28 UTC at epicenterLocation58.277\u00b0N 155.074\u00b0WDepth12.60 km (7.83 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Karluk",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 11 km SSW of San Lucas, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75367822",
+      "source": "USGS",
+      "timestamp": "2026-05-23T23:44:05.166000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-23 23:42:29 UTC2026-05-23 23:42:29 UTC at epicenterLocation36.035\u00b0N 121.047\u00b0WDepth7.93 km (4.93 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "San",
+        "Lucas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 3.7 - 56 km SE of Boca de Yuma, Dominican Republic",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026143001",
+      "source": "USGS",
+      "timestamp": "2026-05-23T23:40:59.455000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-23 23:00:24 UTC2026-05-23 23:00:24 UTC at epicenterLocation18.042\u00b0N 68.209\u00b0WDepth78.00 km (48.47 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Boca",
+        "Yuma",
+        "Dominican",
+        "Republic"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
     {
