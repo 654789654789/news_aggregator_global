@@ -43,6 +43,31 @@ export default function Home() {
   const [intelBrief, setIntelBrief] = useState("");
   const [briefLoading, setBriefLoading] = useState(false);
 
+  // Scroll to Top state & logic
+  const [showScrollTop, setShowScrollTop] = useState(false);
+
+  useEffect(() => {
+    let lastScrollY = window.scrollY;
+    const handleScroll = () => {
+      const currentScrollY = window.scrollY;
+      if (currentScrollY < lastScrollY && currentScrollY > 300) {
+        setShowScrollTop(true);
+      } else {
+        setShowScrollTop(false);
+      }
+      lastScrollY = currentScrollY;
+    };
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    });
+  };
+
   useEffect(() => {
     const savedTheme = localStorage.getItem("pulsemesh-theme");
     if (savedTheme) {
@@ -659,6 +684,17 @@ export default function Home() {
           </div>
         </div>
       )}
+
+      <button 
+        className={`floating-scroll-top-btn offset ${showScrollTop ? 'show' : ''}`} 
+        onClick={scrollToTop} 
+        title="Scroll to Top"
+      >
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+          <line x1="12" y1="19" x2="12" y2="5"></line>
+          <polyline points="5 12 12 5 19 12"></polyline>
+        </svg>
+      </button>
 
       <Footer />
     </>

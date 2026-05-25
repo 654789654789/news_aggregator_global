@@ -52,8 +52,8 @@ export default function Header({
       </div>
 
       <div className="header-actions">
-        <div className="tactical-switch-container" onClick={toggleTactical} title={isTactical ? "Switch to Normal View" : "Switch to Strategic Crisis Watch"}>
-          <span className="switch-label hide-mobile">{isTactical ? 'STRATEGIC' : 'NORMAL'}</span>
+        <div className="tactical-switch-container" onClick={toggleTactical} title={isTactical ? "Switch to Strategic View" : "Switch to Tactical Crisis Watch"}>
+          <span className="switch-label hide-mobile">{isTactical ? 'TACTICAL' : 'STRATEGIC'}</span>
           <div className={`tactical-switch ${isTactical ? 'active' : ''}`}>
             <div className="switch-handle"></div>
           </div>

@@ -2334,4 +2334,94 @@ html, body {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+
+/* ========================================================
+   V3.6 USER SPECIFIC FIXES & PREMIUM INTERFACE UPDATES 🚀
+   ======================================================== */
+
+/* 1. Mobile Filter Alignment: Keep Country and Region dropdowns on the same row, at the same level */
+@media (max-width: 600px) {
+    .filter-dropdown-group {
+        display: flex !important;
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+        gap: 0.75rem !important;
+        width: 100% !important;
+    }
+    .filter-select-wrapper {
+        flex: 1 !important;
+        min-width: 0 !important;
+    }
+    .tactical-select {
+        min-width: 0 !important;
+        width: 100% !important;
+        font-size: 0.7rem !important;
+        padding: 0.45rem 1.5rem 0.45rem 0.5rem !important;
+        background-position: right 0.4rem center !important;
+        background-size: 0.75rem !important;
+    }
+}
+
+/* 2. Scroll to Top button with sleek micro-animations & glassmorphic aesthetics */
+.floating-scroll-top-btn {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    z-index: 1000;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    color: var(--text-primary);
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(20px) scale(0.9);
+}
+
+.floating-scroll-top-btn.offset {
+    bottom: 6rem;
+}
+
+.floating-scroll-top-btn.show {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateY(0) scale(1);
+}
+
+.floating-scroll-top-btn:hover {
+    transform: translateY(-4px) scale(1.1);
+    border-color: var(--accent-cyan);
+    color: var(--accent-cyan);
+    box-shadow: 0 0 20px rgba(0, 242, 254, 0.25);
+}
+
+.strategic-watch .floating-scroll-top-btn:hover {
+    border-color: #ff2e63;
+    color: #ff2e63;
+    box-shadow: 0 0 20px rgba(255, 46, 99, 0.25);
+}
+
+.light-mode .floating-scroll-top-btn {
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 600px) {
+    .floating-scroll-top-btn {
+        right: 1.5rem;
+        width: 44px;
+        height: 44px;
+    }
+    .floating-scroll-top-btn.offset {
+        bottom: 5rem;
+    }
+}
 

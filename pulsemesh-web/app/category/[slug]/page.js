@@ -23,6 +23,31 @@ export default function CategoryPage({ params }) {
   const [timeFilter, setTimeFilter] = useState("all");
   const [showFilter, setShowFilter] = useState(false);
 
+  // Scroll to Top state & logic
+  const [showScrollTop, setShowScrollTop] = useState(false);
+
+  useEffect(() => {
+    let lastScrollY = window.scrollY;
+    const handleScroll = () => {
+      const currentScrollY = window.scrollY;
+      if (currentScrollY < lastScrollY && currentScrollY > 300) {
+        setShowScrollTop(true);
+      } else {
+        setShowScrollTop(false);
+      }
+      lastScrollY = currentScrollY;
+    };
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    });
+  };
+
   const unwrappedParams = use(params);
   const slug = unwrappedParams.slug;
 
@@ -168,6 +193,17 @@ export default function CategoryPage({ params }) {
             )}
           </div>
         </div>
+
+        <button 
+          className={`floating-scroll-top-btn ${showScrollTop ? 'show' : ''}`} 
+          onClick={scrollToTop} 
+          title="Scroll to Top"
+        >
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+            <line x1="12" y1="19" x2="12" y2="5"></line>
+            <polyline points="5 12 12 5 19 12"></polyline>
+          </svg>
+        </button>
 
         <div className={`toast ${toastMessage ? 'show' : ''}`}>{toastMessage}</div>
         <Footer />

@@ -65,6 +65,12 @@ export default function NewsCard({ article, style, handleCopy, copiedLink, featu
             <span style={{verticalAlign: 'middle'}}>{sourceCount} reports</span>
           </div>
 
+          {article.breaking && (
+            <span className="breaking-pulse-badge" style={{ verticalAlign: 'middle' }}>
+              BREAKING
+            </span>
+          )}
+
           <div style={{marginLeft: 'auto', display: 'flex', alignItems: 'center', gap: '8px'}}>
             {onSelect && (
               <button 
@@ -141,11 +147,6 @@ export default function NewsCard({ article, style, handleCopy, copiedLink, featu
           {article.country && (
             <span className="country-tag-badge" title={`Geopolitical Origin: ${article.country}`}>
               {article.country}
-            </span>
-          )}
-          {article.breaking && (
-            <span className="breaking-pulse-badge">
-              BREAKING
             </span>
           )}
         </div>
