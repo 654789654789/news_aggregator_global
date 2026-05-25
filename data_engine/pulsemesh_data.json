@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "The origins of Memorial Day and how it has evolved",
+      "link": "https://www.pbs.org/newshour/nation/the-origins-of-memorial-day-and-how-it-has-evolved",
+      "source": "PBS",
+      "timestamp": "2026-05-25T14:19:02-04:00",
+      "score": 12,
+      "summary": "Memorial Day is a U.S. holiday that is officially about mourning the nation's fallen service members, but it has come to signal the unofficial start of summer and a long weekend of travel, as well as discounts on anything from mattresses to lawn mowers.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Memorial",
+        "Day"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "BJP alleges \u2018procurement conspiracy\u2019, says farmers forced to sell below MSP",
       "link": "https://www.thehindu.com/news/national/telangana/bjp-alleges-procurement-conspiracy-says-farmers-forced-to-sell-below-msp/article71021141.ece",
       "source": "The Hindu",
@@ -6457,23 +6489,25 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Conservationists push for national framework to protect India\u2019s rivers and mountains",
-      "link": "https://www.thehindu.com/news/national/karnataka/conservationists-push-for-national-framework-to-protect-indias-rivers-and-mountains/article71018220.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-05-24T21:03:28+05:30",
-      "score": 14,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Cox Media fined after bragging it spied on users through their phones",
+      "link": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
+      "source": "Verge",
+      "timestamp": "2026-05-25T14:28:30-04:00",
+      "score": 12,
+      "summary": "An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little evidence they actually could. On Thursday the Federal Trade Commission announced...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Indias"
+        "Media"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6484,13 +6518,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "A Swimmer Broke a World Record at the Enhanced Games",
       "link": "https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/",
@@ -17150,7 +17182,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 10.8,
+      "trend_score": 10.7,
       "source_count": 19,
       "sources_reporting": [
         "BBC",
@@ -17160,7 +17192,7 @@
         "NPR",
         "Reuters"
       ],
-      "trend_accel": "+87%",
+      "trend_accel": "+86%",
       "heat_level": "CRITICAL"
     },
     {
@@ -18360,6 +18392,71 @@
   ],
   "Science": [
     {
+      "title": "Heat dome over Europe scorches UK, France, Spain",
+      "link": "https://phys.org/news/2026-05-dome-europe-uk-france-spain.html",
+      "source": "Phys.org",
+      "timestamp": "2026-05-25T14:20:03-04:00",
+      "score": 14,
+      "summary": "Temperatures hit record highs for May in the United Kingdom and France on Monday, as forecasters warned of a prolonged period of extreme heat across Europe throughout the week.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Europe",
+        "France",
+        "Spain"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 6.5,
+      "source_count": 11,
+      "sources_reporting": [
+        "Bloomberg",
+        "Guardian",
+        "Phys.org",
+        "Reuters"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "'Butterfly' molecule spotted at last, completing a 20-year quantum zoo hunt",
+      "link": "https://phys.org/news/2026-05-butterfly-molecule-year-quantum-zoo.html",
+      "source": "Phys.org",
+      "timestamp": "2026-05-25T14:20:02-04:00",
+      "score": 13,
+      "summary": "For two decades, physicists have predicted the existence of a remarkable family of exotic molecules: giant atoms bound to ordinary atoms, with an electron so distant from its nucleus that it sculpts the pair into bizarre and diverse shapes. Reported in Physical Review Letters,...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Supercharging solar cells: Quantum dot-molecule hybrid states enable near-maximum efficiency",
       "link": "https://phys.org/news/2026-05-supercharging-solar-cells-quantum-dot.html",
       "source": "Phys.org",
@@ -18471,8 +18568,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "Bloomberg",
@@ -22271,6 +22368,52 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Wendell Pierce Challenged Himself to an Annual Acting Trifecta. Now He\u2019s Starring in a \u2018Jack Ryan\u2019 Movie, \u2018Elsbeth\u2019 and \u2018Othello\u2019 All at Once",
+      "link": "https://variety.com/2026/film/features/wendell-pierce-jack-ryan-movie-elsbeth-othello-power-raising-kanan-1236755962/",
+      "source": "Variety",
+      "timestamp": "2026-05-25T18:18:59+00:00",
+      "score": 12,
+      "summary": "In 2019, Wendell Pierce was walking through London\u2019s Piccadilly Circus to make it to that night\u2019s performance of \u201cDeath of a Salesman,\u201d when he stumbled upon a massive billboard. The ad was for the latest season of \u201cJack Ryan,\u201d the Prime Video series in which he also stars. As...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pierce",
+        "Challenged",
+        "Himself",
+        "Annual",
+        "Acting",
+        "Trifecta",
+        "Now",
+        "Hes",
+        "Starring",
+        "Jack",
+        "Ryan",
+        "Movie",
+        "Elsbeth",
+        "Othello",
+        "All",
+        "Once"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Coca-Cola 600 Winner Daniel Suarez Honors Kyle Busch After Death",
       "link": "https://www.eonline.com/news/1432317/coca-cola-600-winner-daniel-suarez-honors-kyle-busch-after-death?cmpid=rss-syndicate-genericrss-us-top_stories",
@@ -28419,6 +28562,104 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 0.3 - 21 km ESE of Little Lake, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41474552",
+      "source": "USGS",
+      "timestamp": "2026-05-25T18:28:14.799000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-25 18:24:47 UTC2026-05-25 18:24:47 UTC at epicenterLocation35.863\u00b0N 117.686\u00b0WDepth9.19 km (5.71 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Little",
+        "Lake"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+62%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.8 - 41 km NW of Toyah, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026kftagl",
+      "source": "USGS",
+      "timestamp": "2026-05-25T18:23:37.823000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-25 18:19:47 UTC2026-05-25 18:19:47 UTC at epicenterLocation31.528\u00b0N 104.154\u00b0WDepth4.28 km (2.66 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Toyah",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.6 - 21 km ESE of Little Lake, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41474544",
+      "source": "USGS",
+      "timestamp": "2026-05-25T18:23:18.750000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-25 18:19:47 UTC2026-05-25 18:19:47 UTC at epicenterLocation35.865\u00b0N 117.688\u00b0WDepth8.30 km (5.16 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Little",
+        "Lake"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.4 - 16 km ENE of San Martin, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368767",
@@ -34869,107 +35110,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 75 km WNW of Ninilchik, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026kfdjge",
-      "source": "USGS",
-      "timestamp": "2026-05-24T13:09:31.999000+00:00",
-      "score": 15,
-      "summary": "Time2026-05-24 13:06:33 UTC2026-05-24 13:06:33 UTC at epicenterLocation60.379\u00b0N 152.869\u00b0WDepth134.30 km (83.45 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Ninilchik",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.2 - 6 km SW of Liborio Negron Torres, Puerto Rico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71517703",
-      "source": "USGS",
-      "timestamp": "2026-05-24T12:55:46.450000+00:00",
-      "score": 15,
-      "summary": "Time2026-05-24 12:41:58 UTC2026-05-24 12:41:58 UTC at epicenterLocation18.003\u00b0N 66.981\u00b0WDepth9.96 km (6.19 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Liborio",
-        "Negron",
-        "Torres",
-        "Puerto",
-        "Rico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.4 - 11 km S of Funny River, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026kfcruo",
-      "source": "USGS",
-      "timestamp": "2026-05-24T12:48:23.184000+00:00",
-      "score": 15,
-      "summary": "Time2026-05-24 12:46:24 UTC2026-05-24 12:46:24 UTC at epicenterLocation60.403\u00b0N 150.761\u00b0WDepth52.40 km (32.56 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Funny",
-        "River",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
