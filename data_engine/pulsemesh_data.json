@@ -1,6 +1,40 @@
 {
   "Politics": [
     {
+      "title": "Live results: Polls close in Texas as Paxton, Cornyn duke it out",
+      "link": "https://thehill.com/homenews/campaign/5888259-live-results-paxton-cornyn-texas-republican-senate-runoff/",
+      "source": "The Hill",
+      "timestamp": "2026-05-27T00:00:05+00:00",
+      "score": 12,
+      "summary": "The polls are now closed in Texas, where Sen. John Cornyn (R) and state Attorney General Ken Paxton (R) are duking it out for the GOP nod in the Lone Star State\u2019s marquee Senate race. The winner in Tuesday\u2019s election will face off against Democrat James Talarico, a state lawma...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Polls",
+        "Texas",
+        "Paxton",
+        "Cornyn"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump Administration Wants Employees to Sign NDAs",
       "link": "https://www.nytimes.com/2026/05/26/us/politics/trump-administration-nondisclosure-agreements.html",
       "source": "NYT",
@@ -6637,24 +6671,26 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Andy Burnham\u2019s (third) bid for the Labour leadership \u2013 podcast",
-      "link": "https://www.theguardian.com/news/audio/2026/may/26/andy-burnhams-third-bid-for-the-labour-leadership-podcast",
-      "source": "Guardian",
-      "timestamp": "2026-05-26T02:00:41+00:00",
+      "title": "UK Visa Portal spilled thousands of applicants\u2019 passports and selfies online \u2014 and hasn\u2019t fixed the leak",
+      "link": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+      "source": "TechCrunch",
+      "timestamp": "2026-05-26T23:49:05+00:00",
       "score": 12,
-      "summary": "Josh Halliday on why Manchester mayor Andy Burnham is tipped to be the future Labour leader \u2026 if he wins the Makerfield byelectionThe mayor of Greater Manchester, Andy Burnham, is running in the Makerfield byelection in June. Winning a seat as an MP would open up his chance to...",
+      "summary": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.",
       "country": "UK",
       "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Burnhams",
-        "Labour"
+        "Visa",
+        "Portal"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6663,15 +6699,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "Guardian"
+        "TechCrunch"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+43%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Pope Leo Schooled the Tech Bros on Tolkien",
       "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
@@ -15936,6 +15970,44 @@
   ],
   "Business": [
     {
+      "title": "Donald E. Newhouse, Low-Profile Heir to a Media Empire, Dies at 96",
+      "link": "https://www.nytimes.com/2026/05/26/business/media/donald-e-newhouse-dead.html",
+      "source": "NYT",
+      "timestamp": "2026-05-26T23:50:51+00:00",
+      "score": 15,
+      "summary": "He ran the newspaper division of Advance Publications, while his older brother, Si, ran the Cond\u00e9 Nast magazine operation.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Newhouse",
+        "LowProfile",
+        "Heir",
+        "Media",
+        "Empire",
+        "Dies"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Instagram betting ads featuring Kane and Haaland banned",
       "link": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -18695,7 +18767,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -19301,7 +19373,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -22566,30 +22638,25 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Tata Motors PV, BHEL shares on 25 May",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-tata-motors-pv-bhel-shares-on-25-may-11779681901865.html",
-      "source": "Livemint",
-      "timestamp": "2026-05-25T09:56:46+05:30",
-      "score": 17,
-      "summary": "Domestic benchmark indices opened higher on May 25, buoyed by Brent crude prices dropping below $100 per barrel and optimism over a potential Iran peace deal. Nifty 50 rose 0.94% and BSE Sensex gained 1.02%. Analysts recommend buying Tata Motors and BHEL shares.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Canadian Rockies study shows that spruce trees adapt to rugged peaks and boreal flatlands in a similar way",
+      "link": "https://phys.org/news/2026-05-canadian-rockies-spruce-trees-rugged.html",
+      "source": "Phys.org",
+      "timestamp": "2026-05-26T20:00:02-04:00",
+      "score": 12,
+      "summary": "If you look at the trees as you're driving on the Trans-Canada Highway toward Banff National Park, you will see Englemann spruce on the cooler, wetter northeast-facing slopes of the Three Sisters. Across the valley\u2014on the warmer, drier, southwest-facing slopes of Grotto Mounta...",
+      "country": "Canada",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Dharmesh",
-        "Shah",
-        "ICICI",
-        "Sec",
-        "Tata",
-        "Motors",
-        "BHEL",
-        "May"
+        "Rockies"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -22598,15 +22665,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Entanglement injuries cause prolonged suffering for whales and dolphins\u2014early intervention is crucial",
       "link": "https://phys.org/news/2026-05-entanglement-injuries-prolonged-whales-dolphins.html",
@@ -40213,6 +40278,71 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.6 - 8 km NNW of Odessa, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026khzswd",
+      "source": "USGS",
+      "timestamp": "2026-05-26T23:58:26.512000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-26 23:54:31 UTC2026-05-26 23:54:31 UTC at epicenterLocation31.914\u00b0N 102.414\u00b0WDepth2.86 km (1.77 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Odessa",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.8 - 98 km W of Akhiok, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026kjqura",
+      "source": "USGS",
+      "timestamp": "2026-05-26T23:50:22.293000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-26 23:48:06 UTC2026-05-26 23:48:06 UTC at epicenterLocation56.999\u00b0N 155.792\u00b0WDepth57.40 km (35.67 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Akhiok",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 0.9 - 44 km NW of Toyah, Texas",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026khzjnc",
       "source": "USGS",
@@ -46627,74 +46757,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Oil and LNG tankers exit Hormuz, heading for Pakistan and China",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVVSQnVDcHd0cUZHRnpsSjdXUUhHT0Q0eDVUNElUVTdhNml5WGVQWFBIVnBsVTM4RUZ1WWVhVHROVk9uaFNzbS1keFZWdW9jSDFXc0g3OWl1bmFVNUZZMW9kd2tHRDN1alFxWUM2RnBVZzM2Sk9fNTNtZXdrQ0lUblEySXBUVHpUa1lKbkNIemVJclh3dmEwdXNkTjRFR3NxQ0pkaUVDSTBjbHp0WHgxUUVnanVqaHkyRUJ6MQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-05-25T12:18:57+00:00",
-      "score": 12,
-      "summary": "Oil and LNG tankers exit Hormuz, heading for Pakistan and China Reuters",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "LNG",
-        "Hormuz",
-        "Pakistan",
-        "China"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 92 km NW of Yakutat, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026kgxshv",
-      "source": "USGS",
-      "timestamp": "2026-05-25T12:18:17.427000+00:00",
-      "score": 15,
-      "summary": "Time2026-05-25 12:16:19 UTC2026-05-25 12:16:19 UTC at epicenterLocation60.207\u00b0N 140.729\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Yakutat",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ]
