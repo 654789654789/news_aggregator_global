@@ -1,6 +1,70 @@
 {
   "Politics": [
     {
+      "title": "Key inflation gauge worsens as Americans' income and spending power erodes",
+      "link": "https://www.pbs.org/newshour/economy/key-inflation-gauge-worsens-as-americans-income-and-spending-power-erodes",
+      "source": "PBS",
+      "timestamp": "2026-05-28T12:56:19-04:00",
+      "score": 14,
+      "summary": "A key inflation gauge accelerated in April to the highest level in three years, squeezing Americans' finances and creating political challenges for President Trump and congressional Republicans with midterm elections just five months away.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Americans"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Session to focus on the rise of the TVK at The Hindu Huddle",
+      "link": "https://www.thehindu.com/news/national/session-to-focus-on-the-rise-of-the-tvk-at-the-hindu-huddle/article71034133.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-05-28T22:19:02+05:30",
+      "score": 12,
+      "summary": "The Huddle will be held at Taj West End, Bengaluru on June 5 and 6",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "TVK",
+        "Hindu",
+        "Huddle"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Live updates: US, Iran agree to tentative framework to extend ceasefire",
       "link": "https://thehill.com/homenews/administration/5897673-live-updates-trump-iran-bessent-briefing/",
       "source": "The Hill",
@@ -6638,25 +6702,25 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "In a purple California district, Democrats vie for a chance to flip a House seat",
-      "link": "https://www.npr.org/2026/05/27/nx-s1-5831519/in-a-purple-california-district-democrats-vie-for-a-chance-to-flip-a-house-seat",
-      "source": "NPR",
-      "timestamp": "2026-05-27T16:16:13-04:00",
-      "score": 12,
-      "summary": "Next week's primary in California includes a closely watched race between two Democrats in the state's Central Valley competing to unseat GOP Rep. David Valadao.",
+      "title": "Anthropic releases Opus 4.8 with new \u2018dynamic workflow\u2019 tool",
+      "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "source": "TechCrunch",
+      "timestamp": "2026-05-28T17:00:09+00:00",
+      "score": 15,
+      "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "California",
-        "Democrats",
-        "House"
+        "Opus"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6667,36 +6731,26 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "NPR"
+        "TechCrunch"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+43%",
       "heat_level": "LOW"
     },
     {
-      "title": "In Cornyn\u2019s Enormous Loss, Proof of Trump\u2019s Hold Over G.O.P. Base",
-      "link": "https://www.nytimes.com/2026/05/27/us/politics/paxton-cornyn-texas-republican-primary.html",
-      "source": "NYT",
-      "timestamp": "2026-05-27T20:13:04+00:00",
-      "score": 12,
-      "summary": "Senator John Cornyn lost to his MAGA-aligned challenger, Ken Paxton, by 28 percentage points. It was a historically poor showing.",
+      "title": "Claude\u2019s new model is more \u2018honest\u2019 when it messes up",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "source": "Verge",
+      "timestamp": "2026-05-28T13:00:00-04:00",
+      "score": 10,
+      "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Cornyns",
-        "Enormous",
-        "Loss",
-        "Proof",
-        "Trumps",
-        "Hold",
-        "Over",
-        "GOP",
-        "Base"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6706,13 +6760,42 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "NYT"
+        "Verge"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "Waymo\u2019s newest robotaxi is Chinese-made, built to make money, and now accepting riders",
+      "link": "https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/",
+      "source": "TechCrunch",
+      "timestamp": "2026-05-28T16:52:48+00:00",
+      "score": 12,
+      "summary": "The launch of the Ojai minivan robotaxi comes after years of development and testing, but arrives amid a challenging time for Waymo.",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Chinesemade"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Here\u2019s where you can preorder the new Oura Ring 5",
       "link": "https://www.theverge.com/gadgets/938380/oura-ring-5-preorder-price-release-date-availability",
@@ -11969,6 +12052,135 @@
     }
   ],
   "World": [
+    {
+      "title": "U.S.-Iran agreed on 60-day ceasefire extension, but Trump must approve: reports",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-28-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71031841.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-05-28T22:25:50+05:30",
+      "score": 15,
+      "summary": "The tentative agreement worked out by the two sides comes at a moment when the fragile ceasefire between the U.S. and Iran appeared to be wavering, U.S. media reported on May 28, 2026.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "African Union's health agency vows Ebola Bundibugyo vaccine by end of 2026",
+      "link": "https://www.thehindu.com/news/international/african-unions-health-agency-vows-ebola-bundibugyo-vaccine-by-end-of-2026/article71034628.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-05-28T22:24:06+05:30",
+      "score": 15,
+      "summary": "Head of Africa CDC said he had received a message from the Russian Health Ministry claiming to have already developed a vaccine against the strain; Uganda\u2019s confirmed Ebola cases rise to eight",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Unions",
+        "Ebola",
+        "Bundibugyo"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll",
+      "link": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-05-28T16:50:33+00:00",
+      "score": 12,
+      "summary": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump",
+        "Jean",
+        "Carroll"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 6,
+      "sources_reporting": [
+        "BBC",
+        "Guardian"
+      ],
+      "trend_accel": "+67%",
+      "heat_level": "SURGING"
+    },
+    {
+      "title": "US and Iranian negotiators reach tentative deal to extend ceasefire and launch nuclear talks",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkpNTFpBTDhFTFczZnNxSVpaSDRnYnZiX2pKSmFIWTFJZVh0ZG5Ka2o1SmxjVHl0MzVoTEVIZUMySGRmYWdPbGcyNVEwRWJCdGdHQTNIbXNadWJCMV9IeVB3TVh2S21NUEZoXzhTNWxjdTdmSFdTSUFwQ2w4UWQ4aVBqMHdwQ24yQ0xIS05rNUc?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-05-28T16:47:00+00:00",
+      "score": 14,
+      "summary": "US and Iranian negotiators reach tentative deal to extend ceasefire and launch nuclear talks AP NewsScoop: U.S. and Iran reach deal but need Trump's final approval, officials say AxiosUS and Iran reach ceasefire extension deal pending Trump's final approval Fox NewsIran war li...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Iranian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Mark Carney Says Canada\u2019s Distancing from the U.S. is Good for Both Nations",
       "link": "https://www.nytimes.com/2026/05/28/world/canada/carney-united-states-canada-trump.html",
@@ -18506,86 +18718,26 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Wettest May weather in decades as El Ni\u00f1o takes a rain check",
-      "link": "https://www.abc.net.au/news/2026-05-28/wettest-may-rainy-weather-in-decades-el-nino/106729706",
-      "source": "ABC Australia",
-      "timestamp": "2026-05-27T20:24:24+00:00",
-      "score": 14,
-      "summary": "A series of low-pressure systems are drenching Australia this week, quickly turning this May into one of the wettest on record for parts of the country's east.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "May",
-        "Nio"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Australia politics live: Rishworth says jobseeker changes to address \u2018varying quality\u2019 of for-profit job providers",
-      "link": "https://www.theguardian.com/australia-news/live/2026/may/28/australia-politics-live-rishworth-jobseeker-capital-gains-tax-jim-chalmers-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-05-27T20:20:03+00:00",
+      "title": "The true cost of the Iran war is billions more than the Pentagon says \u2014 and we\u2019re paying for it",
+      "link": "https://www.marketwatch.com/story/the-true-cost-of-the-iran-war-is-billions-more-than-the-pentagon-says-and-were-paying-for-it-7bf90988?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-05-28T16:59:00+00:00",
       "score": 12,
-      "summary": "Social services minister \u2018concerned\u2019 by some providers meant to help welfare recipients find workGet our breaking news email, free app or daily news podcastGood morning and welcome to our live politics blog. I\u2019m Martin Farrer with the top overnight stories and then it will be ...",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "summary": "Washington\u2019s \u2018fuzzy math\u2019 impacts inflation and your wallet.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Rishworth"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Norway becomes ninth country to come under French nuclear umbrella",
-      "link": "https://www.france24.com/en/europe/20260527-norway-becomes-ninth-country-to-come-under-french-nuclear-umbrella",
-      "source": "France24",
-      "timestamp": "2026-05-27T20:12:09+00:00",
-      "score": 12,
-      "summary": "Norway on Wednesday became the ninth country to join the France-led nuclear deterrence scheme, the leaders of both countries said. President Emmanuel Macron announced in March that France \u2013 the only nuclear-armed country in the EU \u2013 would extend its nuclear umbrella to willing...",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "French"
+        "Iran",
+        "Pentagon"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -18594,30 +18746,35 @@
       "breaking": true,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "France24"
+        "MarketWatch"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
     },
     {
-      "title": "Florida\u2019s \u2018Alligator Alcatraz\u2019 migrant detention centre to close",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/floridas-alligator-alcatraz-migrant-detention-centre-to-close?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-05-27T20:03:35+00:00",
-      "score": 12,
-      "summary": "The US is set to shut down the federal migrant detention centre known as \u2018Alligator Alcatraz\u2019.",
-      "country": "Qatar",
-      "region": "Middle East",
-      "source_type": "Newswire",
-      "trust_score": 8,
+      "title": "Trump Refiles $10 Billion Lawsuit Against The Wall Street Journal",
+      "link": "https://www.nytimes.com/2026/05/28/business/media/trump-wsj-defamation-suit-10-billion.html",
+      "source": "NYT",
+      "timestamp": "2026-05-28T16:47:06+00:00",
+      "score": 17,
+      "summary": "An earlier version of the defamation suit, which focused on an article about a birthday note to Jeffrey Epstein, was dismissed by a judge.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Alligator",
-        "Alcatraz"
+        "Refiles",
+        "Billion",
+        "Lawsuit",
+        "Against",
+        "Wall",
+        "Street",
+        "Journal"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -18626,15 +18783,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Al Jazeera"
+        "NYT"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Reality star's long shot L.A. mayoral candidacy becomes surprise test for Democrats",
       "link": "https://www.cnbc.com/2026/05/28/spencer-pratt-los-angeles-mayor-race-karen-bass-primary-democrats.html",
@@ -25112,25 +25267,24 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "U.S. oil falls below $89 on report Iran agreement would restore Hormuz traffic in one month",
-      "link": "https://www.cnbc.com/2026/05/27/oil-price-today-iran-war-strait-hormuz.html",
-      "source": "CNBC",
-      "timestamp": "2026-05-27T12:53:53+00:00",
-      "score": 17,
-      "summary": "U.S. crude oil prices fell about 6% Wednesday on a report Iran would restore traffic through the Strait of Hormuz as part of a framework deal with the U.S.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Mitochondria reveal built-in speed control for protein production",
+      "link": "https://phys.org/news/2026-05-mitochondria-reveal-built-protein-production.html",
+      "source": "Phys.org",
+      "timestamp": "2026-05-28T13:00:06-04:00",
+      "score": 10,
+      "summary": "Researchers at the University Medical Center G\u00f6ttingen (UMG) and the Max Planck Institute (MPI) for Multidisciplinary Sciences have elucidated how the production of certain proteins and their insertion into the inner membrane of mitochondria are coordinated.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Iran",
-        "Hormuz"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -25140,30 +25294,26 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
-      "title": "S&P 500, Nasdaq futures jump as oil falls, Micron continues epic run: Live updates",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02ZDVZMHVLNnpmV190a0tCTzhHOEs5aFBSM1dlbTFXZWI0NThpV2lhY0FQMDFoanFBSDJXYmtRTVBZUGpuWVlzYXBkek9kZS1adWxrNWhvZW5raFVaelVqcXRuN3BqelVuZEw0ZjEta0xQamg1TVVj0gF8QVVfeXFMTzN3UzUtNlhncGZ0MXc4cV8xRWJSZmg5QjRzd2F1alI2SWhWcFgzVExKMFV1NVZEaTlyZzlYcGpGQ3V0QXA2NkpiSVhURHJDd3FXQ3c2MDFvSGR2UU5OTmdOQ3BiRHJZWTFkVmZGWi1kMjYtcjh6TTZfOUhmdw?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-05-27T12:49:00+00:00",
-      "score": 15,
-      "summary": "S&P 500, Nasdaq futures jump as oil falls, Micron continues epic run: Live updates CNBCStock market today: S&P 500, Nasdaq futures rise as tech rally continues, oil falls amid US-Iran talks Yahoo FinanceStock Market Today: Dow Futures Rise, Chip Rally Continues in Asia \u2014 Live ...",
+      "title": "Framework could deliver fairer insurance deals for customers",
+      "link": "https://phys.org/news/2026-05-framework-fairer-customers.html",
+      "source": "Phys.org",
+      "timestamp": "2026-05-28T13:00:03-04:00",
+      "score": 12,
+      "summary": "Insurance companies could use a new research-based tool to reduce \"proxy discrimination\" in the pricing models that shape premiums in the sector.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Nasdaq",
-        "Micron",
-        "Live"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -25171,19 +25321,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 13,
+      "source_count": 4,
       "sources_reporting": [
-        "BBC",
-        "Bloomberg",
-        "CNBC",
-        "Google News",
-        "Guardian"
+        "Phys.org"
       ],
-      "trend_accel": "+73%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Science": [
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "One in six kids could be experiencing online sexual exploitation and abuse",
       "link": "https://phys.org/news/2026-05-kids-experiencing-online-sexual-exploitation.html",
@@ -31247,67 +31391,42 @@
       ],
       "trend_accel": "+60%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "New three\u2011dimensional magnetic structure discovered with laser light",
-      "link": "https://phys.org/news/2026-05-threedimensional-magnetic-laser.html",
-      "source": "Phys.org",
-      "timestamp": "2026-05-25T17:00:01-04:00",
-      "score": 10,
-      "summary": "Flashes of femtosecond laser light, lasting just a few trillionths of a second, have made it possible to observe new magnetic structures for the first time. By using light as a remote control, researchers were able to switch magnetism into previously unseen three-dimensional s...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The network watching the world's oceans is under pressure\u2014just when it's needed most",
-      "link": "https://phys.org/news/2026-05-network-world-oceans-pressure.html",
-      "source": "Phys.org",
-      "timestamp": "2026-05-25T16:40:01-04:00",
-      "score": 10,
-      "summary": "Increasingly, the world's oceans are telling us our climate system may be changing faster and more dramatically than expected.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
+    {
+      "title": "Sources: USMNT coach Poch met Milan over job",
+      "link": "https://www.espn.com/soccer/story/_/id/48901406/usa-coach-mauricio-pochettino-ac-milan-talks-world-cup-job",
+      "source": "ESPN",
+      "timestamp": "2026-05-28T12:48:30-05:00",
+      "score": 12,
+      "summary": "USMNT coach Mauricio Pochettino has spoken with Italian Serie A giants AC Milan about its vacant head coaching job, sources confirmed to ESPN.",
+      "country": "Italy",
+      "region": "Europe",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "USMNT",
+        "Poch",
+        "Milan"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ESPN"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Copy of Sinner, one game from win, wilts in French exit",
       "link": "https://www.espn.com/tennis/story/_/id/48899642/no-1-jannik-sinner-wilts-heat-eliminated-french-open",
@@ -35749,6 +35868,162 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "UTA Signs Outdoor Lifestyle Influencer Steven Rinella and His Company MeatEater",
+      "link": "https://variety.com/2026/digital/news/uta-signs-steven-rinella-meateater-1236759858/",
+      "source": "Variety",
+      "timestamp": "2026-05-28T17:00:00+00:00",
+      "score": 12,
+      "summary": "UTA is hunting for cash in the great outdoors: The agency has signed Steven Rinella, an influential creator in the outdoor-lifestyle space, and his multiplatform media company, MeatEater, for representation. Rinella\u2019s MeatEater, founded in 1999, has grown into a diversified co...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Signs",
+        "Outdoor",
+        "Lifestyle",
+        "Influencer",
+        "Steven",
+        "Rinella",
+        "His",
+        "Company",
+        "MeatEater"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018All American\u2019 Trailer: First Final-Season Look Has Everyone At A Crossroads",
+      "link": "https://deadline.com/2026/05/all-american-season-8-trailer-first-look-1236928819/",
+      "source": "Deadline",
+      "timestamp": "2026-05-28T17:00:00+00:00",
+      "score": 14,
+      "summary": "EXCLUSIVE: The first trailer for the final season of All American has arrived. Deadline can exclusively reveal the footage, which sees many of the characters at major crossroads as the series approaches its conclusion. That\u2019s not surprising, considering the events in the Seaso...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "American",
+        "Trailer",
+        "First",
+        "FinalSeason",
+        "Look",
+        "Has",
+        "Everyone",
+        "Crossroads"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Andie MacDowell And Kevin Bacon Join 20th Century\u2019s \u2018Beach Read\u2019 Adaptation",
+      "link": "https://deadline.com/2026/05/kevin-bacon-beach-read-movie-andie-macdowell-1236928809/",
+      "source": "Deadline",
+      "timestamp": "2026-05-28T17:00:00+00:00",
+      "score": 15,
+      "summary": "EXCLUSIVE: Andie MacDowell and Kevin Bacon have joined the cast of Beach Read, 20th Century Studios\u2018 adaptation of the New York Times bestselling novel from Emily Henry. Phoebe Dynevor and Patrick Schwarzenegger currently star with production set to start next month. Published...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "MacDowell",
+        "Kevin",
+        "Bacon",
+        "Join",
+        "Centurys",
+        "Beach",
+        "Read",
+        "Adaptation"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "CBS News Vs. Sharyn Alfonsi Could End Up In Court As Bari Weiss Fires Ex-\u201960 Minutes\u2019 Correspondent",
+      "link": "https://deadline.com/2026/05/cbs-news-shakeup-sharyn-alfonsi-fired-1236929204/",
+      "source": "Deadline",
+      "timestamp": "2026-05-28T16:47:20+00:00",
+      "score": 15,
+      "summary": "EXCLUSIVE: The courthouse or the boardroom could be the next venue for Sharyn Alfonsi and CBS News now that the seasoned journalist has been pink slipped not just from 60 Minutes, but the Bari Weiss-led division too. One day after going public with the end of her decade long r...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "News",
+        "Sharyn",
+        "Alfonsi",
+        "Could",
+        "End",
+        "Court",
+        "Bari",
+        "Weiss",
+        "Fires",
+        "Minutes",
+        "Correspondent"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018A Matter Of Life & Death\u2019 Trailer: Front Row Sets June Release For Saudi Rom-Com After Postponing Theatrical Launch Due To Iran War",
       "link": "https://deadline.com/2026/05/matter-life-death-trailer-front-row-june-saudi-1236928965/",
@@ -43642,163 +43917,41 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Vincent Bollor\u00e9\u2019s Son Slams \u2018Neo-Fascist\u2019 Accusations Amid Growing Backlash Against Canal+",
-      "link": "https://variety.com/2026/film/global/bollore-heir-neo-fascist-accusations-backlash-canal-1236759848/",
-      "source": "Variety",
-      "timestamp": "2026-05-27T15:40:20+00:00",
-      "score": 14,
-      "summary": "Cyrille Bollor\u00e9, who took over from his father Vincent at the helm of the Bollor\u00e9 Group in 2019, has rejected accusations that his family or Canal+ are pursuing any political agenda, telling shareholders at the group\u2019s annual general meeting in Paris on Wednesday that there is...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bollors",
-        "Son",
-        "Slams",
-        "NeoFascist",
-        "Accusations",
-        "Amid",
-        "Growing",
-        "Backlash",
-        "Against",
-        "Canal"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Pierre Deny, \u2019Emily in Paris\u2019 Star, Dies at 69 After ALS Battle",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/pierre-deny-dead-emily-in-paris-1236606561/",
-      "source": "THR",
-      "timestamp": "2026-05-27T15:34:25+00:00",
-      "score": 15,
-      "summary": "The French actor passed away on May 25 after being diagnosed with amyotrophic lateral sclerosis.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Deny",
-        "Emily",
-        "Paris",
-        "Star",
-        "Dies",
-        "After",
-        "ALS",
-        "Battle"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 7,
-      "sources_reporting": [
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+63%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Love Is Blind's Kyle Abrams Is Married, Expecting First Baby",
-      "link": "https://www.eonline.com/news/1432379/love-is-blinds-kyle-abrams-marries-pregnant-ashleigh-abrams?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-05-27T15:31:08+00:00",
-      "score": 12,
-      "summary": "Life can change in the blink of an eye. And for Love is Blind alum Kyle Abrams and his wife Ashleigh Abrams, that is especially true. After all, the couple recently tied the knot within a week of...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Blinds",
-        "Kyle",
-        "Abrams",
-        "Married",
-        "Expecting",
-        "First",
-        "Baby"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Bollor\u00e9 Pushes Universal Music Group to Reject Ackman\u2019s $64B Acquisition Proposal",
-      "link": "https://www.hollywoodreporter.com/music/music-industry-news/bollore-umg-reject-ackman-acquisition-proposal-1236606551/",
-      "source": "THR",
-      "timestamp": "2026-05-27T15:30:07+00:00",
-      "score": 15,
-      "summary": "\"He is not making an offer with \u200bhis own money, it is our money, the company's money,\" Cyrille Bollor\u00e9 said on Wednesday of Ackman's proposal.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pushes",
-        "Universal",
-        "Music",
-        "Group",
-        "Reject",
-        "Ackmans",
-        "Acquisition",
-        "Proposal"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
+    {
+      "title": "The best bath towels of 2026 in the US, from fluffy to quick drying \u2013 tested",
+      "link": "https://www.theguardian.com/thefilter-us/2025/oct/01/best-best-bath-towels-us",
+      "source": "Guardian",
+      "timestamp": "2026-05-28T16:47:38+00:00",
+      "score": 15,
+      "summary": "We tested top-rated bath towels from Parachute, Brooklinen, Quince and more to find the softest, most absorbent towels \u2013 at every price pointHave I been drying myself all wrong? My investigation into absolutely massive \u2018bath sheets\u2019Sign up for the Filter US newsletter, your we...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 6.8,
+      "source_count": 13,
+      "sources_reporting": [
+        "AP",
+        "Guardian",
+        "NHK",
+        "PBS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Vans Sneakers, Dodgers Logos: How Spencer Pratt Is Leveraging LA Iconography for His Mayoral Campaign",
       "link": "https://www.vogue.com/article/spencer-pratt-mayor-race-fashion",
@@ -43831,8 +43984,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "Bloomberg",
@@ -46213,6 +46366,40 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 2.0 - 2 km NNE of Yauco, Puerto Rico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71518003",
+      "source": "USGS",
+      "timestamp": "2026-05-28T16:48:34.160000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-28 16:35:31 UTC2026-05-28 16:35:31 UTC at epicenterLocation18.053\u00b0N 66.845\u00b0WDepth7.66 km (4.76 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Yauco",
+        "Puerto",
+        "Rico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.9 - 57 km S of Whites City, New Mexico",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026klbuui",
@@ -52704,38 +52891,6 @@
         "GDACS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 6.0 - western Indian-Antarctic Ridge",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snvr",
-      "source": "USGS",
-      "timestamp": "2026-05-27T15:11:45.176000+00:00",
-      "score": 15,
-      "summary": "PAGER - GREEN ShakeMap - ITime2026-05-27 14:51:04 UTC2026-05-27 14:51:04 UTC at epicenterLocation50.517\u00b0S 139.368\u00b0EDepth10.00 km (6.21 mi)",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "IndianAntarctic",
-        "Ridge"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ]
