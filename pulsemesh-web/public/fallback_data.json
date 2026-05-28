@@ -10971,6 +10971,37 @@
   ],
   "World": [
     {
+      "title": "Bushfire outlook shows increased risk in parts of NSW and WA",
+      "link": "https://www.abc.net.au/news/2026-05-28/national-bushfire-outlook-puts-areas-of-nsw-wa-heightened-risk/106730896",
+      "source": "ABC Australia",
+      "timestamp": "2026-05-28T04:59:10+00:00",
+      "score": 12,
+      "summary": "A dry winter in some parts of Australia is expected to make bushfire conditions \"tricky\" by spring.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NSW"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "U.S. Conducts New Strikes on Southern Iran",
       "link": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal",
       "source": "NYT",
@@ -17668,38 +17699,48 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Cuts of meat that can save you money and how to cook with them",
-      "link": "https://www.abc.net.au/news/2026-05-27/cuts-of-meat-that-can-save-you-money-how-to-cook-with-them/106726446",
-      "source": "ABC Australia",
-      "timestamp": "2026-05-27T05:03:04+00:00",
-      "score": 10,
-      "summary": "If you are looking to trim your household food budget, lower-cost cuts of meat could be a good place to start. Here are some tips on what to look for and how to cook them.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "US Gas Buyers Cancel Cargoes as Iran War Sends Freight Soaring",
+      "link": "https://www.livemint.com/market/us-gas-buyers-cancel-cargoes-as-iran-war-sends-freight-soaring-11779943893414.html",
+      "source": "Livemint",
+      "timestamp": "2026-05-28T10:21:33+05:30",
+      "score": 12,
+      "summary": "Some buyers of US liquefied petroleum gas canceled shipments that would typically be bound for Asia following a surge in freight rates sparked by the conflict in the Middle East.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Gas",
+        "Buyers",
+        "Cancel",
+        "Cargoes",
+        "Iran",
+        "War",
+        "Sends",
+        "Freight",
+        "Soaring"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "ABC Australia"
+        "Livemint"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "S&P 500 futures decline as Wall Street awaits key April inflation reading: Live updates",
       "link": "https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html",
@@ -24196,47 +24237,6 @@
         "Livemint"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "You Can\u2019t Stop This Data Center, a Mom Was Told. She Won\u2019t Quit.",
-      "link": "https://www.nytimes.com/2026/05/26/us/data-centers-kassi-solberg.html",
-      "source": "NYT",
-      "timestamp": "2026-05-26T19:50:54+00:00",
-      "score": 12,
-      "summary": "Kassi Solberg has concerns about a proposed complex the size of 3,800 football fields near her home. Trust us, the developer says.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Cant",
-        "Stop",
-        "This",
-        "Data",
-        "Center",
-        "Mom",
-        "Was",
-        "Told",
-        "She",
-        "Wont",
-        "Quit"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -42856,7 +42856,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.6,
+      "trend_score": 6.5,
       "source_count": 10,
       "sources_reporting": [
         "Bloomberg",
