@@ -10925,6 +10925,52 @@
   ],
   "World": [
     {
+      "title": "Iran War Live Updates: U.S. Again Strikes Military Site and Drones in Iran",
+      "link": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal",
+      "source": "NYT",
+      "timestamp": "2026-05-28T00:39:36+00:00",
+      "score": 14,
+      "summary": "A U.S. official said the attacks had been in self-defense and targeted attack drones and a drone ground-control station. They were the latest attacks to threaten a fragile cease-fire.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "War",
+        "Live",
+        "Updates",
+        "Again",
+        "Strikes",
+        "Military",
+        "Site",
+        "Drones",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": true,
+      "trend_score": 11.6,
+      "source_count": 18,
+      "sources_reporting": [
+        "AP",
+        "Google News",
+        "Guardian",
+        "NHK",
+        "NYT",
+        "The Hindu"
+      ],
+      "trend_accel": "+91%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
       "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -10948,8 +10994,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "Al Jazeera",
@@ -17615,22 +17661,30 @@
       ],
       "trend_accel": "+54%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Outback school finally set to be rebuilt after mould forced demolition",
-      "link": "https://www.abc.net.au/news/2026-05-27/willyama-high-school-rebuild-mould-demolition-broken-hill/106722202",
-      "source": "ABC Australia",
-      "timestamp": "2026-05-26T23:12:18+00:00",
-      "score": 10,
-      "summary": "More than two years since a health hazard led to Broken Hill's Willyama High School being knocked down, work on the \"world-class\" facility planned to replace is expected to begin.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Oil jumps after fresh U.S. strikes in Iran revive Strait of Hormuz disruption fears",
+      "link": "https://www.cnbc.com/2026/05/28/oil-prices-us-strikes-in-iran-revive-strait-of-hormuz-turmoil-fears.html",
+      "source": "CNBC",
+      "timestamp": "2026-05-28T00:37:31+00:00",
+      "score": 14,
+      "summary": "Oil prices rose on Thursday after fresh U.S. strikes in Iran renewed concerns over disruptions to commercial shipping through the Strait of Hormuz.",
+      "country": "Iran",
+      "region": "Middle East",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran",
+        "Strait",
+        "Hormuz"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -17640,13 +17694,49 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "S&P 500 futures are little changed as Wall Street awaits key April inflation reading: Live updates",
+      "link": "https://www.cnbc.com/2026/05/27/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-05-28T00:37:24+00:00",
+      "score": 17,
+      "summary": "April's reading of the personal consumption expenditure price index, the Fed's preferred inflation gauge, is due out at 8:30 a.m. on Thursday.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Wall",
+        "Street",
+        "April",
+        "Live"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 9.4,
+      "source_count": 10,
+      "sources_reporting": [
+        "BBC",
+        "CNBC",
+        "Google News",
+        "NPR",
+        "PBS"
+      ],
+      "trend_accel": "+80%",
+      "heat_level": "CRITICAL"
+    },
     {
       "title": "Marvell\u2019s stock falls despite \u2018exceptional\u2019 AI demand driving a stronger growth outlook",
       "link": "https://www.marketwatch.com/story/marvells-stock-seesaws-as-exceptional-ai-demand-drives-a-stronger-growth-outlook-05324935?mod=mw_rss_topstories",
@@ -20399,8 +20489,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -24106,73 +24196,6 @@
         "Livemint"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Micron Technology, AutoZone, Qualcomm, Oklo & more",
-      "link": "https://www.cnbc.com/2026/05/26/stocks-making-the-biggest-moves-midday-mu-azo-qcom-oklo.html",
-      "source": "CNBC",
-      "timestamp": "2026-05-26T17:02:31+00:00",
-      "score": 14,
-      "summary": "Here are the companies making headlines in midday trading.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Micron",
-        "Technology",
-        "AutoZone",
-        "Qualcomm",
-        "Oklo"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Wall Street giant Nvidia's m-cap is bigger than six of world\u2019s top 10 stock markets amid AI frenzy",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-major-nvidias-m-cap-is-bigger-than-six-of-world-s-top-10-stock-markets-amid-ai-frenzy-11779797726758.html",
-      "source": "Livemint",
-      "timestamp": "2026-05-26T22:20:10+05:30",
-      "score": 17,
-      "summary": "Nvidia's shares have surged, making it the world's most valuable company with a market cap of over $5 trillion, surpassing several major stock markets. The AI boom has driven demand for its chips, with significant revenue growth and strong earnings reported for the current fis...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Street",
-        "Nvidias"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
@@ -34467,6 +34490,41 @@
   ],
   "Entertainment": [
     {
+      "title": "Everything We Know About \u2018The Pitt\u2019 Season 3 So Far",
+      "link": "https://deadline.com/feature/the-pitt-season-3-news-updates-everything-we-know-1236928731/",
+      "source": "Deadline",
+      "timestamp": "2026-05-28T00:33:16+00:00",
+      "score": 15,
+      "summary": "The Pitt will be back for more medical mysteries and emergencies to solve. HBO renewed the drama series for a third season ahead of the premiere of season 2, which ran from January to April over 15 episodes. Season 3 has a rough production timeline in place as well as the sett...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Know",
+        "About",
+        "Pitt",
+        "Season",
+        "Far"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "As Trump Dismantles the White House, U.S. to Celebrate 250th Birthday With Concert at National Mall",
       "link": "https://www.rollingstone.com/music/music-news/national-mall-great-american-state-fair-music-lineup-1235569309/",
       "source": "Rolling Stone",
@@ -42488,48 +42546,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Mark Duplass Defends \u2018Backrooms\u2019 Director Kane Parsons Amid Speculation About 20-Year-Old Filmmaker\u2019s Role",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/backrooms-mark-duplass-defends-kane-parsons-age-1236606103/",
-      "source": "THR",
-      "timestamp": "2026-05-26T20:29:48+00:00",
-      "score": 15,
-      "summary": "Chiwetel Ejiofor and Renate Reinsve also star in the A24 horror feature hitting theaters Friday.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Duplass",
-        "Defends",
-        "Backrooms",
-        "Director",
-        "Kane",
-        "Parsons",
-        "Amid",
-        "Speculation",
-        "About",
-        "YearOld",
-        "Filmmakers",
-        "Role"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -44635,6 +44651,104 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 5.2 - 49 km ESE of Adak, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snz9",
+      "source": "USGS",
+      "timestamp": "2026-05-28T00:45:35.056000+00:00",
+      "score": 15,
+      "summary": "ShakeMap - IVTime2026-05-28 00:25:21 UTC2026-05-28 00:25:21 UTC at epicenterLocation51.785\u00b0N 175.933\u00b0WDepth58.27 km (36.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Adak",
+        "Alaska"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.3 - 9 km NNE of Delta, B.C., MX",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41475776",
+      "source": "USGS",
+      "timestamp": "2026-05-28T00:45:07.767000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-28 00:43:01 UTC2026-05-28 00:43:01 UTC at epicenterLocation32.424\u00b0N 115.146\u00b0WDepth24.58 km (15.27 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Delta"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "US military conducts another defensive strike against Iran",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEZJdk12ek92NkdMSktFN3VpdUJwZzJvaUVnX2pybnIwNHR6bjJjUnZjNVlhRUplV01UVXRmQ3pkRFF1MU1uaWtweGhEWDBxbGluT3dQbkhta09xX3FQUnpsejRKZTdWNnk5SjhDbTR6RmZFMjlzVUNaS1czeE11TmhZYWkyVC1Bcy1rU2pxTWdHZXpGTEo4SFBB?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-05-28T00:41:00+00:00",
+      "score": 14,
+      "summary": "US military conducts another defensive strike against Iran AP News",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran"
+      ],
+      "severity_score": 8,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.6 - 14 km NNE of California City, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41475768",
@@ -51078,101 +51192,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 44 km NW of Toyah, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026khzjnc",
-      "source": "USGS",
-      "timestamp": "2026-05-26T23:43:54.130000+00:00",
-      "score": 15,
-      "summary": "Time2026-05-26 23:40:24 UTC2026-05-26 23:40:24 UTC at epicenterLocation31.619\u00b0N 104.095\u00b0WDepth3.93 km (2.44 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Toyah",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.4 - 17 km WSW of Johannesburg, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41475256",
-      "source": "USGS",
-      "timestamp": "2026-05-26T23:43:53.470000+00:00",
-      "score": 15,
-      "summary": "Time2026-05-26 23:40:25 UTC2026-05-26 23:40:25 UTC at epicenterLocation35.317\u00b0N 117.808\u00b0WDepth7.39 km (4.59 mi)",
-      "country": "South Africa",
-      "region": "Africa",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Johannesburg"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.2 - 16 km SE of Whitehawk, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369437",
-      "source": "USGS",
-      "timestamp": "2026-05-26T23:22:24.616000+00:00",
-      "score": 15,
-      "summary": "Time2026-05-26 23:00:11 UTC2026-05-26 23:00:11 UTC at epicenterLocation39.610\u00b0N 120.440\u00b0WDepth-0.77 km (-0.48 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Whitehawk"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
