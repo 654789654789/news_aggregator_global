@@ -739,7 +739,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.8,
+      "trend_score": 10.7,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -749,7 +749,7 @@
         "PBS",
         "Reuters"
       ],
-      "trend_accel": "+81%",
+      "trend_accel": "+80%",
       "heat_level": "CRITICAL"
     },
     {
@@ -6613,6 +6613,39 @@
     }
   ],
   "Tech": [
+    {
+      "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
+      "link": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "timestamp": "2026-05-29T22:21:38+00:00",
+      "score": 15,
+      "summary": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Space",
+        "Force",
+        "IPO"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Coders are refusing to work without AI \u2014 and that could come back to bite them",
       "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
@@ -13104,31 +13137,29 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Huawei Wants to Surpass Moore\u2019s Law Constraints With Its New Scaling System",
-      "link": "https://www.gadgets360.com/laptops/news/huawei-tau-scaling-law-moores-law-alternative-logicfolding-new-system-details-11545019",
-      "source": "Gadgets 360",
-      "timestamp": "2026-05-25T17:23:46+05:30",
-      "score": 14,
-      "summary": "The semiconductor industry is quickly reaching an inflection point. Last year, Samsung began mass production of the initial 2nm node for the Exynos 2600 chipsets. Other players, including TSMC, Qualcomm, MediaTek, and Intel, have also reached significant milestones when it com...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Canadian Man Pleads Guilty to Aiding 14 Suicides",
+      "link": "https://www.nytimes.com/2026/05/29/world/canada/kenneth-law-canada-poison.html",
+      "source": "NYT",
+      "timestamp": "2026-05-29T22:20:51+00:00",
+      "score": 17,
+      "summary": "Kenneth Law, who ran an online business that shipped toxic salt to customers in 40 countries, also admitted to causing the deaths of 79 people in Britain, prosecutors said.",
+      "country": "Canada",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Wants",
-        "Surpass",
-        "Moores",
-        "Law",
-        "Constraints",
-        "Its",
-        "New",
-        "Scaling",
-        "System"
+        "Man",
+        "Pleads",
+        "Guilty",
+        "Aiding",
+        "Suicides"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13137,15 +13168,108 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "Gadgets 360"
+        "NYT"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "'Like I'd been ripped off': Life after a Parkinson's diagnosis at 41",
+      "link": "https://www.abc.net.au/news/2026-05-30/parkinsons-disease-blood-samples-tasmania-university-study/106622662",
+      "source": "ABC Australia",
+      "timestamp": "2026-05-29T22:18:33+00:00",
+      "score": 15,
+      "summary": "Experts are predicting Parkinson's disease to double in the next 20 years, but little is known about what causes the condition and how to cure it. Tasmania has been chosen to contribute blood samples to a global study aimed at improving understanding of the genetics behind Par...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Life",
+        "Parkinsons"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump says he has \u2018no interest\u2019 in Kennedy Center after judge orders his name removed from memorial \u2013 live",
+      "link": "https://www.theguardian.com/us-news/live/2026/may/29/donald-trump-pam-bondi-jeffrey-epstein-iran-redistricting-latest-news-updates",
+      "source": "Guardian",
+      "timestamp": "2026-05-29T22:17:21+00:00",
+      "score": 12,
+      "summary": "President attacks judge\u2019s decision online, hours after announcing he was entering White House Situation Room to make \u2018final determination\u2019 on IranSign up for the Breaking News US emailZohran Mamdani, New York City\u2019s mayor, said he won\u2019t be marching in this year\u2019s Israel Day Pa...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kennedy",
+        "Center"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump concludes meeting on potential Iran deal without announcing decision",
+      "link": "https://www.abc.net.au/news/2026-05-30/trump-concludes-meeting-on-iran-without-announcing-a-decision/106740394",
+      "source": "ABC Australia",
+      "timestamp": "2026-05-29T22:17:06+00:00",
+      "score": 14,
+      "summary": "The US president has been weighing a tentative agreement that would open the Strait of Hormuz and begin talks on Tehran's nuclear program.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "The Pacific is full of diversity but some people want to make themselves whiter",
       "link": "https://www.abc.net.au/news/2026-05-30/colourism-in-the-pacific-linked-to-colonialism/106730874",
@@ -14089,7 +14213,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -14100,7 +14224,7 @@
         "NYT",
         "The Hindu"
       ],
-      "trend_accel": "+86%",
+      "trend_accel": "+85%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19658,130 +19782,6 @@
       "source_count": 2,
       "sources_reporting": [
         "Guardian"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Italy restores lucky testicles on bull mosaic worn down by tourists",
-      "link": "https://www.bbc.com/news/articles/c1m215npjp2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-05-29T02:01:44+00:00",
-      "score": 12,
-      "summary": "The artwork is the centre of a tradition that involves visitors performing three spins on it for good fortune.",
-      "country": "Italy",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Firefighters look to restart PFAS case against manufacturer 3M",
-      "link": "https://www.abc.net.au/news/2026-05-29/frv-pfas-case-3m-firefighters-victoria/106736150",
-      "source": "ABC Australia",
-      "timestamp": "2026-05-29T01:36:13+00:00",
-      "score": 17,
-      "summary": "The federal government's $2 billion lawsuit against \"forever chemicals\" manufacturer 3M has Fire Rescue Victoria considering whether it should relaunch its own legal proceedings.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "PFAS"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'They walk among us': White House launches 'alien'-themed website",
-      "link": "https://www.abc.net.au/news/2026-05-29/white-house-launches-alien-themed-ice-immgration-arrest-website/106736520",
-      "source": "ABC Australia",
-      "timestamp": "2026-05-29T01:34:07+00:00",
-      "score": 12,
-      "summary": "The website features a space-inspired background but its real purpose is to highlight the work of ICE.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "White",
-        "House"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Icons to perform at John Farnham tribute concert",
-      "link": "https://www.abc.net.au/news/2026-05-29/icons-to-perform-at-john-farnham-tribute-concert/106736426",
-      "source": "ABC Australia",
-      "timestamp": "2026-05-29T01:25:07+00:00",
-      "score": 12,
-      "summary": "Music stars including Celine Dion, Hugh Jackman and Keith Urban will take the stage to honour Australian legend John Farnham at a tribute concert later this year.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "John",
-        "Farnham"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
@@ -32596,6 +32596,40 @@
       "heat_level": "LOW"
     },
     {
+      "title": "Steelers dismiss assistant special teams coach Derius Swinton II months into the job - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUxZNVhmWEx5dnZ5d3E2UmhQUTdrU1JsUlBuUHF3RDRmSWh3VjNLZHZENnNKTDJzUEhTVDA4Y0prYTByb1JJRDNDa0hqQVctakNUSGJ0MWllVnlDYTV3dVd5VEJqYmJReUlkTy15UjlPM3NVd0FVVFFhUE42ZElyTjk5MGFOeGRvR0JlVDU4WDJwdEJRaFhuZXJWeDdobHQydTRGYnNSUDJhbWJlSloyM21ncXRkdFNza1U2SDNB?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-05-29T22:17:26+00:00",
+      "score": 12,
+      "summary": "Steelers dismiss assistant special teams coach Derius Swinton II months into the job Pittsburgh Post-GazetteSources: Steelers fire assistant Swinton after months on job ESPNReport: Steelers part ways with special teams assistant Derius Swinton II due to violation of club polic...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Derius",
+        "Swinton",
+        "Pittsburgh",
+        "PostGazette"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Atl\u00e9tico slam Bar\u00e7a over \u00c1lvarez 'smear campaign'",
       "link": "https://www.espn.com/soccer/story/_/id/48910978/atletico-madrid-troll-barcelona-social-media-posts-amid-julian-alvarez-interest",
       "source": "ESPN",
@@ -34172,7 +34206,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.6,
+      "trend_score": 7.5,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -34181,7 +34215,7 @@
         "NHK",
         "PBS"
       ],
-      "trend_accel": "+71%",
+      "trend_accel": "+70%",
       "heat_level": "HOT"
     },
     {
@@ -38099,6 +38133,77 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Pete Davidson Raves About Ex Kim Kardashian as \"Superhuman\"",
+      "link": "https://www.eonline.com/news/1432489/pete-davidson-praises-kim-kardashian-on-netflix-show-as-superhuman?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-05-29T22:27:02+00:00",
+      "score": 12,
+      "summary": "Pete Davidson is keeping up with one particular ex. The Saturday Night Live alum got candid about his feelings for Kim Kardashian\u2014whom he split from in 2022 after nine months of dating\u2014while...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Davidson",
+        "Raves",
+        "About",
+        "Kim",
+        "Kardashian",
+        "Superhuman"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Sound of Falling\u2019 Sweeps German Film Awards",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/sound-of-falling-sweeps-german-film-awards-1236608855/",
+      "source": "THR",
+      "timestamp": "2026-05-29T22:17:31+00:00",
+      "score": 12,
+      "summary": "Mascha Schilinski's period drama, following four young women across four eras of German history, won 10 Lolas, including best film, best director and best screenplay.",
+      "country": "Germany",
+      "region": "Europe",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Falling",
+        "Sweeps",
+        "German",
+        "Film",
+        "Awards"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Donald Trump Rails Against Judge\u2019s Decision On Kennedy Center, Says He Will Work With Congress To Transfer \u201cThis Failing Institution Back To Them\u201d",
       "link": "https://deadline.com/2026/05/trump-kennedy-center-judge-decision-1236930731/",
@@ -46085,73 +46190,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Streaming Ratings: \u2018The Boys\u2019 Rises to No. 1",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-april-27-may-3-2026-1236608003/",
-      "source": "THR",
-      "timestamp": "2026-05-28T20:18:03+00:00",
-      "score": 15,
-      "summary": "Former NBC series 'La Brea' is the latest recipient of the Netflix effect.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ratings",
-        "Boys",
-        "Rises"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Euphoria,\u2019 \u2018The End\u2019 to Bookend Balinale\u2019s 19th Edition",
-      "link": "https://variety.com/2026/film/festivals/euphoria-the-end-balinale-19th-edition-1236761515/",
-      "source": "Variety",
-      "timestamp": "2026-05-28T20:04:39+00:00",
-      "score": 15,
-      "summary": "Julian Rosefeldt\u2019s \u201cEuphoria\u201d will open Balinale\u2019s 19th edition, with Joshua Oppenheimer\u2019s \u201cThe End\u201d closing the program. The festival is adding a new competitive category: Best Indonesian Short Tapestry of Indonesia, dedicated to local short-form storytelling. Indonesia\u2019s onl...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "End",
-        "Bookend",
-        "Balinales",
-        "Edition"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49840,6 +49878,69 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.8 - 2 km N of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368146",
+      "source": "USGS",
+      "timestamp": "2026-05-29T22:26:47.606000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-29 22:25:13 UTC2026-05-29 22:25:13 UTC at epicenterLocation38.794\u00b0N 122.757\u00b0WDepth4.22 km (2.62 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.2 - 19 km SSW of Willits, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368141",
+      "source": "USGS",
+      "timestamp": "2026-05-29T22:16:02.718000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-29 22:14:27 UTC2026-05-29 22:14:27 UTC at epicenterLocation39.254\u00b0N 123.438\u00b0WDepth4.96 km (3.08 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Willits"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
       "heat_level": "LOW"
     },
     {
@@ -56272,70 +56373,6 @@
       "source_count": 4,
       "sources_reporting": [
         "Google News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 45 km NW of Toyah, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026klgwrm",
-      "source": "USGS",
-      "timestamp": "2026-05-28T18:45:06.206000+00:00",
-      "score": 15,
-      "summary": "Time2026-05-28 18:40:11 UTC2026-05-28 18:40:11 UTC at epicenterLocation31.619\u00b0N 104.119\u00b0WDepth4.37 km (2.71 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Toyah",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.1 - 97 km NW of Yakutat, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026kmyphu",
-      "source": "USGS",
-      "timestamp": "2026-05-28T18:42:42.234000+00:00",
-      "score": 15,
-      "summary": "Time2026-05-28 18:40:45 UTC2026-05-28 18:40:45 UTC at epicenterLocation60.132\u00b0N 141.024\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Yakutat",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
