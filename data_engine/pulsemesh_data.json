@@ -13065,6 +13065,38 @@
   ],
   "World": [
     {
+      "title": "Alarm as nursing cuts leave High Country town without after-hours care",
+      "link": "https://www.abc.net.au/news/2026-06-01/swifts-creek-bush-nursing-shortfall/106725776",
+      "source": "ABC Australia",
+      "timestamp": "2026-05-31T22:01:11+00:00",
+      "score": 12,
+      "summary": "Swifts Creek is an hour-and-a-half drive from the nearest hospital and residents are worried cuts to after-hours care at its Bush Nursing Centre might leave the community at risk.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "High",
+        "Country"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Nicaraguan indigenous leader dies after three years in prison",
       "link": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -19593,30 +19625,26 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Middle East on Edge as Trump Mulls Decision About Iran Deal",
-      "link": "https://www.nytimes.com/2026/05/30/world/middleeast/trump-deal-middle-east-iran.html",
-      "source": "NYT",
-      "timestamp": "2026-05-30T12:28:56+00:00",
+      "title": "Stock futures are flat in overnight trading as June trading begins near record highs: Live updates",
+      "link": "https://www.cnbc.com/2026/05/31/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-05-31T22:09:54+00:00",
       "score": 14,
-      "summary": "The president has wavered on whether to move ahead with an agreement with Iran to end the war. On Friday, he vowed to make a \u201cfinal determination\u201d soon.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "summary": "Stocks wrapped up a strong May, with all three major indexes posting solid gains.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "East",
-        "Edge",
-        "Trump",
-        "Mulls",
-        "Decision",
-        "About",
-        "Iran",
-        "Deal"
+        "June",
+        "Live"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19625,15 +19653,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "NYT"
+        "CNBC"
       ],
-      "trend_accel": "+54%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Berkshire Hathaway to buy Taylor Morrison for $8.5 billion in housing push",
       "link": "https://www.cnbc.com/2026/05/31/berkshire-hathaway-to-buy-us-homebuilder-taylor-morrison-for-8point5-billion.html",
@@ -20387,15 +20413,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
+      "trending": true,
+      "trend_score": 8.9,
       "source_count": 10,
       "sources_reporting": [
         "Google News",
-        "NYT"
+        "Guardian",
+        "NPR",
+        "NYT",
+        "Reuters"
       ],
-      "trend_accel": "+68%",
-      "heat_level": "HOT"
+      "trend_accel": "+76%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Mcap of 7 of top-10 valued firms erodes by  \u20b91,54 lakh crore; Reliance biggest laggard",
@@ -22355,14 +22384,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 8.9,
+      "source_count": 18,
       "sources_reporting": [
-        "MarketWatch"
+        "BBC",
+        "Google News",
+        "Guardian",
+        "MarketWatch",
+        "NHK"
       ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
+      "trend_accel": "+73%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Oil Sinks to 6-Week Low as Traders Bet on Possible US-Iran Truce",
@@ -23375,8 +23408,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
+      "trending": true,
+      "trend_score": 9.7,
       "source_count": 19,
       "sources_reporting": [
         "BBC",
@@ -23386,7 +23419,7 @@
         "NYT",
         "Reuters"
       ],
-      "trend_accel": "+82%",
+      "trend_accel": "+78%",
       "heat_level": "CRITICAL"
     },
     {
@@ -23805,8 +23838,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "BBC",
@@ -24166,8 +24199,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "CNBC",
@@ -26155,44 +26188,6 @@
       ],
       "trend_accel": "+55%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Blue Origin's New Glenn rocket explodes in testing",
-      "link": "https://www.cnbc.com/2026/05/29/blue-origins-new-glenn-rocket-explodes-in-testing.html",
-      "source": "CNBC",
-      "timestamp": "2026-05-29T02:16:11+00:00",
-      "score": 12,
-      "summary": "Jeff Bezos' space firm Blue Origin said on Thursday it experienced an anomalous hot-fire test, as visuals on social media showed its New Glenn rocket explode.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Origins",
-        "New",
-        "Glenn"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 9.9,
-      "source_count": 11,
-      "sources_reporting": [
-        "BBC",
-        "Bloomberg",
-        "CNBC",
-        "Google News",
-        "MarketWatch",
-        "NHK"
-      ],
-      "trend_accel": "+75%",
-      "heat_level": "CRITICAL"
     }
   ],
   "Science": [
@@ -38174,71 +38169,6 @@
       ],
       "trend_accel": "+56%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Judge halts homer drought with walk-off vs. Rays",
-      "link": "https://www.espn.com/mlb/story/_/id/48864718/yankees-aaron-judge-ends-homerless-drought-walk-vs-rays",
-      "source": "ESPN",
-      "timestamp": "2026-05-24T17:14:26-05:00",
-      "score": 12,
-      "summary": "The Yankees' Aaron Judge ended a career-worst 11-game streak with no RBIs by hitting a game-ending, two-run homer in the ninth inning vs. the Rays.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Sports Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rays"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ESPN"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Fabregas guides Como to UCL; Milan, Pulisic out",
-      "link": "https://www.espn.com/soccer/story/_/id/48864945/fabregas-guides-como-first-ucl-milan-pulisic-out",
-      "source": "ESPN",
-      "timestamp": "2026-05-24T17:14:26-05:00",
-      "score": 12,
-      "summary": "An improbable end to the Serie A season unfolded on Sunday as Cesc Fabregas and Como won to book a spot in the Champions League next season, while AC Milan were beaten at home to fall out of the top four and finish in the Europa League places.",
-      "country": "Italy",
-      "region": "Europe",
-      "source_type": "Sports Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Como",
-        "UCL",
-        "Milan",
-        "Pulisic"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ESPN"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Entertainment": [
@@ -49887,6 +49817,104 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.6 - 18 km WSW of Johannesburg, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41477640",
+      "source": "USGS",
+      "timestamp": "2026-05-31T22:14:52.842000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-31 22:12:47 UTC2026-05-31 22:12:47 UTC at epicenterLocation35.295\u00b0N 117.807\u00b0WDepth7.42 km (4.61 mi)",
+      "country": "South Africa",
+      "region": "Africa",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Johannesburg"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.8 - 30 km NNW of Valpara\u00edso, Chile",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spqh",
+      "source": "USGS",
+      "timestamp": "2026-05-31T22:10:24.101000+00:00",
+      "score": 15,
+      "summary": "DYFI? - IIITime2026-05-31 21:52:12 UTC2026-05-31 21:52:12 UTC at epicenterLocation32.789\u00b0S 71.776\u00b0WDepth29.69 km (18.45 mi)",
+      "country": "Chile",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Valparaso",
+        "Chile"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.9 - 42 km NNW of Valpara\u00edso, Chile",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spqg",
+      "source": "USGS",
+      "timestamp": "2026-05-31T22:06:52.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-05-31 21:46:54 UTC2026-05-31 21:46:54 UTC at epicenterLocation32.683\u00b0S 71.807\u00b0WDepth10.00 km (6.21 mi)",
+      "country": "Chile",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Valparaso",
+        "Chile"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.4 - 18 km WSW of Johannesburg, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41477632",
       "source": "USGS",
@@ -56278,102 +56306,6 @@
         "USGS"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.6 - 63 km W of Catuday, Philippines",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spj5",
-      "source": "USGS",
-      "timestamp": "2026-05-30T14:41:49.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-05-30 14:21:09 UTC2026-05-30 14:21:09 UTC at epicenterLocation16.388\u00b0N 119.221\u00b0EDepth10.00 km (6.21 mi)",
-      "country": "Philippines",
-      "region": "Southeast Asia",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Catuday",
-        "Philippines"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 18 km WSW of Johannesburg, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41477032",
-      "source": "USGS",
-      "timestamp": "2026-05-30T14:26:52.027000+00:00",
-      "score": 15,
-      "summary": "Time2026-05-30 14:22:33 UTC2026-05-30 14:22:33 UTC at epicenterLocation35.295\u00b0N 117.811\u00b0WDepth8.02 km (4.98 mi)",
-      "country": "South Africa",
-      "region": "Africa",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Johannesburg"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+63%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 29 km N of Sutcliffe, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00919429",
-      "source": "USGS",
-      "timestamp": "2026-05-30T14:26:37+00:00",
-      "score": 15,
-      "summary": "Time2026-05-30 14:23:56 UTC2026-05-30 14:23:56 UTC at epicenterLocation40.215\u00b0N 119.647\u00b0WDepth11.84 km (7.36 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sutcliffe",
-        "Nevada"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
