@@ -87,7 +87,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.6,
+      "trend_score": 8.5,
       "source_count": 15,
       "sources_reporting": [
         "NHK",
@@ -96,7 +96,7 @@
         "PBS",
         "Reuters"
       ],
-      "trend_accel": "+72%",
+      "trend_accel": "+71%",
       "heat_level": "SURGING"
     },
     {
@@ -13065,6 +13065,37 @@
   ],
   "World": [
     {
+      "title": "Child killed in house fire in south-west Melbourne home",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/01/child-killed-in-house-fire-in-south-west-melbourne-home",
+      "source": "Guardian",
+      "timestamp": "2026-05-31T22:17:18+00:00",
+      "score": 12,
+      "summary": "Crews extinguished blaze before finding child deceased inside Werribee home, Victoria police saidA child has died and a man has been left seriously injured following an early morning house fire.Emergency services were called to Newbury Street in Werribee, in Melbourne\u2019s southw...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Melbourne"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Alarm as nursing cuts leave High Country town without after-hours care",
       "link": "https://www.abc.net.au/news/2026-06-01/swifts-creek-bush-nursing-shortfall/106725776",
       "source": "ABC Australia",
@@ -19590,27 +19621,26 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Festive atmosphere in Budapest as PSG and Arsenal eye Champions League title",
-      "link": "https://www.france24.com/en/festive-atmosphere-in-budapest-as-psg-and-arsenal-eye-champions-league-title",
-      "source": "France24",
-      "timestamp": "2026-05-30T12:33:09+00:00",
-      "score": 12,
-      "summary": "It's the pinnacle of football. Kick off at the Champions League final in Budapest is just a few hours away. Arsenal are trying to win it for the first time, while Paris Saint-Germain wants to become only the second team to win it twice in a row. The atmosphere in Budapest is f...",
-      "country": "Hungary",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "Oil rises, U.S. stock futures dip as Wall Street looks to extend its winning streak",
+      "link": "https://www.marketwatch.com/story/oil-rises-u-s-stock-futures-dip-as-wall-street-looks-to-extend-its-winning-streak-2490f216?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-05-31T22:17:00+00:00",
+      "score": 14,
+      "summary": "U.S. stock-index futures were little changed on Sunday, as Wall Street looks to stretch the market\u2019s record-setting rally into June.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Budapest",
-        "PSG",
-        "Arsenal",
-        "Champions",
-        "League"
+        "Wall",
+        "Street"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19619,15 +19649,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "France24"
+        "MarketWatch"
       ],
-      "trend_accel": "+53%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Stock futures are flat in overnight trading as June trading begins near record highs: Live updates",
       "link": "https://www.cnbc.com/2026/05/31/stock-market-today-live-updates.html",
@@ -26153,28 +26181,24 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Buy or sell: Gift Nifty saignals gap-down start, Vaishali Parekh recommends three stocks to buy today \u2014 29 May 2026",
-      "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-saignals-gap-down-start-vaishali-parekh-recommends-three-stocks-to-buy-today-29-may-2026-11780019026209.html",
-      "source": "Livemint",
-      "timestamp": "2026-05-29T07:49:05+05:30",
-      "score": 17,
-      "summary": "Buy or sell: Vaishali Parekh recommends three stocks to buy today \u2014 GMR Power, Pine Labs, and BF Utilities",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "A natural chemistry laboratory in protostar shock waves",
+      "link": "https://phys.org/news/2026-05-natural-chemistry-laboratory-protostar.html",
+      "source": "Phys.org",
+      "timestamp": "2026-05-31T18:30:01-04:00",
+      "score": 10,
+      "summary": "Life exists because elements combine to form complex organic molecules. Astrochemistry studies this process, trying to understand how nature creates carbon-based molecules critical for life. One source for these types of molecules is the outflows emitted by protostars.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Gift",
-        "Nifty",
-        "Vaishali",
-        "Parekh",
-        "May"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26182,15 +26206,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+55%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Bacteria uncover distinct strategy to import rare sugar polymers, crystal structures show",
       "link": "https://phys.org/news/2026-05-bacteria-uncover-distinct-strategy-import.html",
@@ -29129,7 +29151,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.1,
+      "trend_score": 10.0,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -32338,37 +32360,6 @@
         "Phys.org"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Expanded susceptibility and transmission in circulating avian influenza viruses reshape wild bird mortality",
-      "link": "https://phys.org/news/2026-05-susceptibility-transmission-circulating-avian-influenza.html",
-      "source": "Phys.org",
-      "timestamp": "2026-05-27T19:20:04-04:00",
-      "score": 10,
-      "summary": "Johanna Harvey, an assistant professor of wildlife disease ecology at the University of Rhode Island, has described bird flu in public presentations as a quiet virus with loud consequences. Now, she's published a new paper in Wildlife Monographs, describing how circulating avi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -47072,7 +47063,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.7,
+      "trend_score": 7.6,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
