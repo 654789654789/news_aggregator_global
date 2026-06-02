@@ -1,6 +1,140 @@
 {
   "Politics": [
     {
+      "title": "Trump: Reports US, Iran stopped speaking \u2018false and erroneous\u2019",
+      "link": "https://thehill.com/homenews/administration/5906018-trump-denies-iran-talks-breakdown/",
+      "source": "The Hill",
+      "timestamp": "2026-06-02T17:54:48+00:00",
+      "score": 12,
+      "summary": "President Trump on Tuesday denied reports that negotiations between the U.S. and Iran to end the war have broken down. The president called reports that the two sides broke off contact recently \u201cfalse and erroneous\u201d on Truth Social. \u201cThe conversations between us have been goin...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Reports",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "White House Correspondents Dinner Rescheduled for July",
+      "link": "https://www.nytimes.com/2026/06/02/business/media/white-house-correspondents-dinner.html",
+      "source": "NYT",
+      "timestamp": "2026-06-02T17:54:42+00:00",
+      "score": 12,
+      "summary": "The dinner was abruptly cut short in April when a gunman disrupted the proceedings.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "House",
+        "Correspondents",
+        "Dinner",
+        "Rescheduled",
+        "July"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 9.1,
+      "source_count": 15,
+      "sources_reporting": [
+        "Bloomberg",
+        "NHK",
+        "NYT",
+        "PBS",
+        "The Hill"
+      ],
+      "trend_accel": "+78%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "WATCH LIVE: Senate GOP leaders hold news conference as Trump weighs dropping weaponization fund",
+      "link": "https://www.pbs.org/newshour/politics/watch-live-senate-gop-leaders-hold-news-conference-as-trump-weighs-dropping-weaponization-fund",
+      "source": "PBS",
+      "timestamp": "2026-06-02T13:51:49-04:00",
+      "score": 12,
+      "summary": "Senate Republicans will meet Tuesday to discuss next steps after the Justice Department said it would comply with a court order pausing the implementation of a $1.776 billion settlement fund designed to compensate President Donald Trump's political allies.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "LIVE",
+        "Senate",
+        "GOP",
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Starmer uses disappearing messages on his phone, No 10 confirms",
+      "link": "https://www.bbc.com/news/articles/cp8pgg0108qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-06-02T17:51:26+00:00",
+      "score": 15,
+      "summary": "A batch of messages between ministers and Lord Mandelson were published on Monday - but there were only a few from the prime minister.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Watch live: Mullin testifies before Senate on DHS budget amid GOP reconciliation battle",
       "link": "https://thehill.com/video-clips/5905942-watch-live-markwayne-mullin-senate-hearing-dhs-budget-gop-reconciliation/",
       "source": "The Hill",
@@ -1057,8 +1191,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 8.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -6525,58 +6659,83 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
+    }
+  ],
+  "Tech": [
+    {
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-02T18:00:00+00:00",
+      "score": 14,
+      "summary": "The specification lets developer, compliance and security teams define their own policies for agents to follow in portable policy files.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
     },
     {
-      "title": "Hungarian Prime Minister Magyar to amend constitution to remove President Sulyok",
-      "link": "https://www.pbs.org/newshour/world/hungarian-prime-minister-magyar-to-amend-constitution-to-remove-president-sulyok",
-      "source": "PBS",
-      "timestamp": "2026-06-01T14:52:39-04:00",
-      "score": 12,
-      "summary": "Hungary's government will amend the constitution to remove the country's president, part of a push by the new Prime Minister P\u00e9ter Magyar to eliminate officials appointed under former populist Prime Minister Viktor Orb\u00e1n.",
-      "country": "Hungary",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+      "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-02T18:00:00+00:00",
+      "score": 14,
+      "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
+      "link": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-02T18:00:00+00:00",
+      "score": 17,
+      "summary": "Layup Parts co-founder Zack Eakin has drawn on a motorsports background, and his experience working for Palmer Luckey and Elon Musk, to tackle making faster, cheaper, and better composites.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Prime",
-        "Minister",
-        "Magyar",
-        "President",
-        "Sulyok"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "PBS"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tina Peters doubles down on debunked election claims hours after release",
-      "link": "https://thehill.com/homenews/state-watch/5904308-peters-prison-release-2020-election/",
-      "source": "The Hill",
-      "timestamp": "2026-06-01T18:49:16+00:00",
-      "score": 14,
-      "summary": "Former Mesa County, Colo., elections clerk Tina Peters, hours after she was released from prison on Monday, doubled down on her debunked claims about the outcome of the 2020 presidential election. Peters told Steve Bannon, a former first Trump administration adviser, on his po...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Peters"
+        "Amazon"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6587,27 +6746,27 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "The Hill"
+        "TechCrunch"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
-      "title": "Moderna gets $50M investment for Ebola vaccine candidate",
-      "link": "https://thehill.com/policy/healthcare/5904431-ebola-vaccine-moderna-cepi/",
-      "source": "The Hill",
-      "timestamp": "2026-06-01T18:48:28+00:00",
+      "title": "I tested a bunch of Switch 2 screen protectors, and these are the best",
+      "link": "https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte",
+      "source": "Verge",
+      "timestamp": "2026-06-02T13:48:33-04:00",
       "score": 15,
-      "summary": "Global health foundation Coalition for Epidemic Preparedness Innovations (CEPI) will invest $50 million to support development and initial clinical testing of Moderna\u2019s investigational vaccine against the Bundibugyo strain of Ebola, the deadly virus ripping through parts of th...",
+      "summary": "A glass screen protector is one of a few essential accessories that I strongly recommend to every Switch 2 owner. In fact, it should be a priority to stick one onto the console\u2019s screen as soon as possible to avoid accidental scratches. To test the candidates below, I installe...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Ebola"
+        "Switch"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6618,51 +6777,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "The Hill"
+        "Verge"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Oil Prices Jump as Middle East Tensions Build",
-      "link": "https://www.nytimes.com/2026/06/01/business/energy-environment/iran-war-oil-prices.html",
-      "source": "NYT",
-      "timestamp": "2026-06-01T18:38:41+00:00",
-      "score": 12,
-      "summary": "Some analysts said the main international oil price, which was up 6 percent on Monday, could climb much higher in the coming weeks if the Strait of Hormuz doesn\u2019t reopen.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Prices",
-        "Jump",
-        "Middle",
-        "East",
-        "Tensions",
-        "Build"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
     {
       "title": "Microsoft\u2019s Project Solara is an OS for AI agent gadgets",
       "link": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
@@ -7169,7 +7288,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.3,
+      "trend_score": 8.2,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -13072,23 +13191,30 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Visa invests in Replit to power agentic payments for developers",
-      "link": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-      "source": "TechCrunch",
-      "timestamp": "2026-05-28T14:00:00+00:00",
-      "score": 12,
-      "summary": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
+      "title": "Israel kills 8 in southern Lebanon, a day after Trump said Israel and Hezbollah to de-escalate",
+      "link": "https://www.thehindu.com/news/international/israel-kills-8-in-southern-lebanon-a-day-after-trump-said-israel-and-hezbollah-to-de-escalate/article71054347.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-02T23:20:16+05:30",
+      "score": 17,
+      "summary": "Israel threatened on June 1 to strike Beirut's southern suburbs, causing panic in the Lebanese capital as thousands fled to safer areas and Hezbollah fired rockets at northern Israel",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Replit"
+        "Lebanon",
+        "Trump",
+        "Israel",
+        "Hezbollah"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13099,110 +13225,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "The Hindu"
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
     },
-    {
-      "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "timestamp": "2026-05-28T14:00:00+00:00",
-      "score": 17,
-      "summary": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lock",
-        "TechCrunch",
-        "Disrupt"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Xiaomi 17T Pro arrives with the company\u2019s biggest battery yet",
-      "link": "https://www.theverge.com/tech/938795/xiaomi-17t-pro-launch-specs-battery-price",
-      "source": "Verge",
-      "timestamp": "2026-05-28T09:00:00-04:00",
-      "score": 15,
-      "summary": "Xiaomi has announced the 17T and 17T Pro, two cheaper spins on its 17 series flagships. As is usual for the T-series, the focus is more on performance than photography, with the biggest batteries Xiaomi has included on any of its phones outside China yet. The 17T includes a 6,...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pro"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Official: Intel\u2019s first handheld gaming chip is the Arc G3 and this Acer is using it",
-      "link": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
-      "source": "Verge",
-      "timestamp": "2026-05-28T09:00:00-04:00",
-      "score": 15,
-      "summary": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today, it's formally an...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Intels",
-        "Arc",
-        "Acer"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    }
-  ],
-  "World": [
     {
       "title": "Mysteriously missing New Jersey congressman receives Trump endorsement",
       "link": "https://www.bbc.com/news/articles/c5y7nnjlrd5o?at_medium=RSS&at_campaign=rss",
@@ -19858,19 +19885,54 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
+    }
+  ],
+  "Business": [
+    {
+      "title": "Trump, Rubio say talks with Iran ongoing despite Tehran media claims otherwise",
+      "link": "https://www.cnbc.com/2026/06/02/rubio-iran-nuclear-talks-trump-war-strategy-hormuz.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-02T18:00:49+00:00",
+      "score": 14,
+      "summary": "President Trump on Monday had said that \"I really don't care. I couldn't care less\" when asked about the prospect of Iran ending talks with the United States.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Rubio",
+        "Iran",
+        "Tehran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
     },
     {
-      "title": "Outback councils look to US oil state to advise on renewables success",
-      "link": "https://www.abc.net.au/news/2026-06-02/texan-energy-lawyers-visit-outback/106745210",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-01T22:32:22+00:00",
+      "title": "A technical breakout is forming in this crypto-turned-AI play",
+      "link": "https://www.cnbc.com/2026/06/02/a-technical-breakout-is-forming-in-this-crypto-turned-ai-play.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-02T17:50:13+00:00",
       "score": 12,
-      "summary": "Texas was once defined by its fossil fuel industry, but its renewables boom has outback Queensland councils paying attention.",
+      "summary": "Todd Gordon takes a look at the technicals in this name with murky fundamentals.",
       "country": "US",
       "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -19883,13 +19945,40 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "The last time the S&P 500 rose this rapidly \u2014 outside of recession periods \u2014 was before the 1987 crash",
+      "link": "https://www.cnbc.com/2026/06/02/the-last-time-the-sp-500-rose-this-rapidly-outside-of-recession-periods-was-before-the-1987-crash.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-02T17:50:01+00:00",
+      "score": 15,
+      "summary": "There are some big dislocations in the stock market that are worrying investors.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Goldman Sachs CEO David Solomon says markets are in 'greed' mode as AI companies seek billions",
       "link": "https://www.cnbc.com/2026/06/02/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
@@ -22154,7 +22243,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 18,
       "sources_reporting": [
         "BBC",
@@ -26268,111 +26357,40 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Oil Prices Spike as U.S. and Iran Exchange Fire",
-      "link": "https://www.nytimes.com/2026/06/01/business/oil-gas-price-iran.html",
-      "source": "NYT",
-      "timestamp": "2026-06-01T14:22:47+00:00",
-      "score": 12,
-      "summary": "Oil prices climbed as investors weighed a renewed exchange of military strikes between the United States and Iran against signs that both sides remain engaged in negotiations.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Prices",
-        "Spike",
-        "Iran",
-        "Exchange",
-        "Fire"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 12,
-      "sources_reporting": [
-        "Bloomberg",
-        "CNBC",
-        "Guardian",
-        "Livemint",
-        "MarketWatch",
-        "NYT",
-        "Reuters"
-      ],
-      "trend_accel": "+85%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Silicon Valley was built on public money \u2014 now it\u2019s fighting California\u2019s billionaire tax",
-      "link": "https://www.marketwatch.com/story/big-tech-hates-californias-billionaire-tax-but-loves-taxpayers-money-c143ecac?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-06-01T14:20:00+00:00",
-      "score": 14,
-      "summary": "\u201cCyberselfish\u201d author says tech elite believe that taxes are for \u201clittle people.\u201d",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Valley",
-        "Californias"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Strategy shares fall after selling $2.5 million in bitcoin, its first sale since 2022",
-      "link": "https://www.cnbc.com/2026/06/01/strategy-shares-fall-after-selling-2point5-million-in-bitcoin-its-first-sale-since-2022.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-01T14:10:52+00:00",
-      "score": 13,
-      "summary": "Michael Saylor's Strategy sold bitcoin for the second time ever as geopolitical uncertainty continues to weigh on the cryptocurrency's price.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Animals were sharpening their senses long before the Cambrian explosion, ancient tracks reveal",
+      "link": "https://phys.org/news/2026-06-animals-sharpening-cambrian-explosion-ancient.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-02T14:00:03-04:00",
+      "score": 12,
+      "summary": "Tracks left by some of the earliest complex animals are giving new insights into how they experienced the world. New research reveals how these creatures started to understand their surroundings, paving the way for animal life to spread across the planet.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cambrian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Ancient altercations between musk turtles and alligator gar recorded in Florida's fossil record",
       "link": "https://phys.org/news/2026-06-ancient-altercations-musk-turtles-alligator.html",
@@ -27211,7 +27229,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.3,
+      "trend_score": 7.2,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -32433,41 +32451,6 @@
         "Phys.org"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Three astronauts from China return to Earth after nearly 7 months in space, a record for a Chinese crew",
-      "link": "https://phys.org/news/2026-05-astronauts-china-earth-months-space.html",
-      "source": "Phys.org",
-      "timestamp": "2026-05-29T11:58:03-04:00",
-      "score": 15,
-      "summary": "Three Chinese astronauts returned to Earth on Friday after spending nearly seven months in space, setting a record for the longest on-orbit stay by a Chinese crew.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "China",
-        "Earth",
-        "Chinese"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -38093,45 +38076,171 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "3 men wanted in connection with burglaries of US professional athletes' homes arrested in Argentina - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2dRcnJQdHdRTEc0VnJzbFZLSWJsdkRXWkhUZF9iVDRZWGpVZS1mazlISWwwYlA2bm8zOFl2OVRaYUEzd1RzYmpVb0dQM3FkSGNNR3RMUXBnOUhBT2dVRW9BWUhWVnlUb09JWTNRX04yRmNxLXlSQXh0Ymo4ajdxT2hGOG9HV3AyOHZySmVfTU5vSERLQjV2aUhiaDVOeWkxMEI00gGoAUFVX3lxTFAwc1VGc1lsdmd1dFNxSXVsZGZ0LVBLenZ5Yzc2MmFNamhvSkRhaXp0MVdqX2xydVVNTWJNNnVGOTIxdk4ybTFaTnBDUEFuaDc4ekhKbnZyRVZBTnVlY1lLLXFzTHN0TWd5dEFqTW5NMXREOWVBT1VWV0owODdiZlNmZEgyYlBocmVQTmE4b294WHhWejlXazlkYS1OUENLYnJael8wQVlsaw?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-05-26T17:56:27+00:00",
-      "score": 15,
-      "summary": "3 men wanted in connection with burglaries of US professional athletes' homes arrested in Argentina ABC News - Breaking News, Latest News and VideosPolice Arrest 3 in Connection with Robberies at Travis Kelce's and Other High-Profile Athletes' Homes People.com3 men accused in ...",
+      "title": "White House Correspondents\u2019 Association Reschedules Dinner, Trump Says He\u2019ll Attend",
+      "link": "https://deadline.com/2026/06/white-house-correspondents-dinner-rescheduled-trump-1236938789/",
+      "source": "Deadline",
+      "timestamp": "2026-06-02T18:00:00+00:00",
+      "score": 12,
+      "summary": "UPDATED: The White House Correspondents\u2019 Association is rescheduling its annual dinner for July 24 in what will be a more intimate event with \u201cenhanced safety measures.\u201d The event was postponed following a shooting at the April fete in which a gunman was charged with trying to...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Aggregator",
+      "source_type": "Entertainment",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Argentina",
-        "ABC",
-        "News",
-        "Breaking",
-        "Latest",
-        "Videos"
+        "House",
+        "Correspondents",
+        "Association",
+        "Reschedules",
+        "Dinner",
+        "Trump",
+        "Says",
+        "Hell",
+        "Attend"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Summer House\u2019 Season 10 Reunion Continues: How to Watch the First Two Parts Online",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-summer-house-reunion-season-10-free-online-streaming-1236605915/",
+      "source": "THR",
+      "timestamp": "2026-06-02T17:59:49+00:00",
+      "score": 15,
+      "summary": "Andy Cohen calls the three-part cast gathering \"one of the most emotional\" Bravo reunions they've ever shot.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "House",
+        "Season",
+        "Reunion",
+        "Continues",
+        "How",
+        "Watch",
+        "First",
+        "Two",
+        "Parts",
+        "Online"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Martin Scorsese Backs AI Company and Says He\u2019s Using It to Storyboard Movies: \u2018We Have to Be Open to How\u2019 Cinema Can \u2018Evolve\u2019",
+      "link": "https://variety.com/2026/film/news/martin-scorsese-supports-ai-company-storyboard-movies-1236765037/",
+      "source": "Variety",
+      "timestamp": "2026-06-02T17:57:43+00:00",
+      "score": 14,
+      "summary": "Martin Scorsese is the latest Oscar-winning director to hop on the AI wagon, joining the AI firm Black Forest Labs as an adviser in a bid to \u201cpush the bounds of creativity to create deeper and richer experiences for audiences.\u201d \u201cCinema is a young medium, only around 125 years ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Scorsese",
+        "Backs",
+        "Company",
+        "Says",
+        "Hes",
+        "Using",
+        "Storyboard",
+        "Movies",
+        "Have",
+        "Open",
+        "How",
+        "Cinema",
+        "Can",
+        "Evolve"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Google News"
+        "Variety"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+43%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
+    {
+      "title": "Paul McCartney\u2019s \u2018The Boys of Dungeon Lane\u2019 Gets Exclusive White Vinyl Release",
+      "link": "https://variety.com/2026/shopping/news/paul-mccartney-boys-of-dungeon-lane-vinyl-buy-online-1236765079/",
+      "source": "Variety",
+      "timestamp": "2026-06-02T17:48:05+00:00",
+      "score": 12,
+      "summary": "Paul McCartney\u2019s latest trip down memory lane is getting a collector-friendly vinyl release. \u201cThe Boys of Dungeon Lane,\u201d the Beatles legend\u2019s new solo album, is available to order on Amazon following its May 29 release. The exclusive edition is pressed on white vinyl and inclu...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "McCartneys",
+        "Boys",
+        "Dungeon",
+        "Lane",
+        "Gets",
+        "Exclusive",
+        "White",
+        "Vinyl",
+        "Release"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "BET Forms Board of Advisors as It Plots New Future Under David Ellison\u2019s Regime",
       "link": "https://www.hollywoodreporter.com/business/business-news/bet-establishes-first-ever-board-of-advisors-1236611725/",
@@ -45973,152 +46082,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Serena Williams Confirms Tennis Return 4 Years After Retiring",
-      "link": "https://www.eonline.com/news/1432519/serena-williams-returns-to-tennis-after-retirement-for-queens-club?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-06-01T15:25:00+00:00",
-      "score": 15,
-      "summary": "Serena Williams is so back. Four years after the 23-time Grand Slam title winner announced her retirement from the professional tennis circuit, she confirmed June 1 she will return to play...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Williams",
-        "Confirms",
-        "Tennis",
-        "Return",
-        "Years",
-        "After",
-        "Retiring"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "John Oliver Swipes at Byron Allen While Considering Sex With His Own Animated Characters",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/john-oliver-rips-byron-allen-last-week-tonight-1236610389/",
-      "source": "THR",
-      "timestamp": "2026-06-01T15:05:22+00:00",
-      "score": 12,
-      "summary": "Vanity Smurf and Zazu might want to consider restraining orders.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Oliver",
-        "Swipes",
-        "Byron",
-        "Allen",
-        "While",
-        "Considering",
-        "Sex",
-        "His",
-        "Own",
-        "Animated",
-        "Characters"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "NYC Pride Events 2026: Where to Celebrate",
-      "link": "https://www.nytimes.com/2026/05/29/arts/pride-events-nyc.html",
-      "source": "NYT",
-      "timestamp": "2026-06-01T15:04:10+00:00",
-      "score": 15,
-      "summary": "Get ready for drag shows, marches, musicals, parades and a \u201cHeated Rivalry\u201d parody.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pride",
-        "Events",
-        "Where",
-        "Celebrate"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Fox Weather Gains Distribution on SiriusXM",
-      "link": "https://variety.com/2026/tv/news/fox-weather-siriusxm-1236763923/",
-      "source": "Variety",
-      "timestamp": "2026-06-01T15:00:00+00:00",
-      "score": 14,
-      "summary": "SiriusXM will begin distributing Fox Weather across its satellite-radio service starting June 3, a move aimed at making more weather news available as hurricane season starts along the Atlantic coast. The channel will be offered to listeners across North America via the Sirius...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Weather",
-        "Gains",
-        "Distribution",
-        "SiriusXM"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -46596,7 +46559,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.4,
+      "trend_score": 8.3,
       "source_count": 12,
       "sources_reporting": [
         "Bloomberg",
@@ -46605,7 +46568,7 @@
         "NPR",
         "Vogue"
       ],
-      "trend_accel": "+72%",
+      "trend_accel": "+71%",
       "heat_level": "SURGING"
     },
     {
@@ -49854,6 +49817,102 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.8 - 2 km ESE of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369836",
+      "source": "USGS",
+      "timestamp": "2026-06-02T17:59:31.290000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-02 17:56:15 UTC2026-06-02 17:56:15 UTC at epicenterLocation38.774\u00b0N 122.733\u00b0WDepth2.01 km (1.25 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.7 - 53 km WNW of Nanwalek, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026kwdcwi",
+      "source": "USGS",
+      "timestamp": "2026-06-02T17:54:41.994000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-02 17:53:07 UTC2026-06-02 17:53:07 UTC at epicenterLocation59.585\u00b0N 152.753\u00b0WDepth94.10 km (58.47 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Nanwalek",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Rubio is optimistic on eventual Iran nuclear talks despite congressional skepticism",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMU1lV21PYU54OEVHeklzWElSQUtLdEJCQWU1RU1zZGNrc0tIRlhQWXJXTW5XNlJGN2ZnMnVrdTYtWDdOMUtzaGE5ZlVVZUZSY2NDa3VmLUEtSGZ1TTRpRF9OVEhMWTB1ckxxMVhzb1RLSGxrbVpRWWhoenA0MEdMQUxtQ085LVdiWTV0RGkxbndWM3hCMjFqRQ?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-06-02T17:47:00+00:00",
+      "score": 12,
+      "summary": "Rubio is optimistic on eventual Iran nuclear talks despite congressional skepticism AP News",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Iran"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 2.0 Explosion - 4 km SSE of Princeton, Canada",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62254662",
@@ -56266,103 +56325,6 @@
         "USGS"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 7 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75369246",
-      "source": "USGS",
-      "timestamp": "2026-06-01T11:48:22.402000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-01 11:46:45 UTC2026-06-01 11:46:45 UTC at epicenterLocation38.826\u00b0N 122.815\u00b0WDepth2.23 km (1.39 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 59 km S of Whites City, New Mexico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ksbwku",
-      "source": "USGS",
-      "timestamp": "2026-06-01T11:43:31.607000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-01 11:40:29 UTC2026-06-01 11:40:29 UTC at epicenterLocation31.636\u00b0N 104.338\u00b0WDepth0.00 km (0.00 mi)",
-      "country": "Mexico",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Whites",
-        "City",
-        "New",
-        "Mexico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 17 km WSW of Johannesburg, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41477872",
-      "source": "USGS",
-      "timestamp": "2026-06-01T11:39:03.226000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-01 11:35:30 UTC2026-06-01 11:35:30 UTC at epicenterLocation35.306\u00b0N 117.803\u00b0WDepth6.79 km (4.22 mi)",
-      "country": "South Africa",
-      "region": "Africa",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Johannesburg"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
       "heat_level": "LOW"
     }
   ]
