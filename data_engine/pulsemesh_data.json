@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "California holds crowded primary with dozens of candidates to replace Newsom",
+      "link": "https://www.pbs.org/newshour/politics/california-holds-crowded-primary-with-dozens-of-candidates-to-replace-newsom",
+      "source": "PBS",
+      "timestamp": "2026-06-02T18:24:56-04:00",
+      "score": 12,
+      "summary": "A main campaign theme was lowering the cost of living in the state.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Newsom"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Order Shielding Trump Family From Audits Will Remain, Blanche Says",
       "link": "https://www.nytimes.com/2026/06/02/us/politics/trump-irs-settlement.html",
       "source": "NYT",
@@ -237,7 +268,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.6,
+      "trend_score": 10.5,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -247,7 +278,7 @@
         "NYT",
         "The Hill"
       ],
-      "trend_accel": "+80%",
+      "trend_accel": "+79%",
       "heat_level": "CRITICAL"
     },
     {
@@ -6657,41 +6688,41 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Five new Supreme Court judges sworn in",
-      "link": "https://www.thehindu.com/news/national/chief-justice-of-india-surya-kant-new-judges-to-supreme-court/article71050982.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-02T11:32:56+05:30",
-      "score": 12,
-      "summary": "The appointments come shortly after the Union government increased the court\u2019s sanctioned strength from 33 to 37 judges, excluding the CJI. The latest round of elevations is also expected to balance regional representation and enhance gender diversity on the Bench",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "God of War Laufey is coming to the PS5",
+      "link": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
+      "source": "Verge",
+      "timestamp": "2026-06-02T18:16:08-04:00",
+      "score": 15,
+      "summary": "Sony ended its big State of Play showcase with a major reveal: the next God of War. The new title is called God of War Laufey, and is once again developed by Sony's Santa Monica studio. Currently, the game doesn't have a date, but it's coming to the PS5 whenever it does launch...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Supreme",
-        "Court"
+        "War",
+        "Laufey"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Remedy\u2019s Control sequel launches in September",
       "link": "https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer",
@@ -13186,24 +13217,31 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "A $2,000 AI-generated film will make its debut at Tribeca",
-      "link": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-      "source": "Verge",
-      "timestamp": "2026-05-28T12:08:45-04:00",
-      "score": 17,
-      "summary": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protestors in January, with the people and images fully created by AI, as reported ea...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "U.S. Treasury Imposes Sanctions on Iran\u2019s Biggest Crypto Exchange",
+      "link": "https://www.nytimes.com/2026/06/02/world/middleeast/sanctions-iranian-crypto-exchange.html",
+      "source": "NYT",
+      "timestamp": "2026-06-02T22:18:01+00:00",
+      "score": 12,
+      "summary": "The action against Nobitex and several of its executives accused it of helping the government evade sanctions and finance militants.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "AIgenerated",
-        "Tribeca"
+        "Treasury",
+        "Imposes",
+        "Sanctions",
+        "Irans",
+        "Biggest",
+        "Crypto",
+        "Exchange"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13212,15 +13250,46 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "NYT"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "May be arrested but still returning to protest: CJP's Abhijeet Dipke",
+      "link": "https://timesofindia.indiatimes.com/india/may-be-arrested-but-still-returning-to-protest-cjps-dipke/articleshow/131472929.cms",
+      "source": "Times of India",
+      "timestamp": "2026-06-03T03:47:29+05:30",
+      "score": 12,
+      "summary": "Cockroach Janta Party founder Abhijeet Dipke plans to return from the US on June 6 to lead a peaceful protest demanding the education minister's resignation over examination failures. Dipke anticipates arrest upon arrival but remains optimistic about support for his non-violen...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "CJPs",
+        "Abhijeet",
+        "Dipke"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Times of India"
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Midterm primaries 2026 live: results and reaction after six states including California and Iowa cast ballots",
       "link": "https://www.theguardian.com/us-news/live/2026/jun/02/midterm-primary-election-results-california-iowa-montana-new-jersey-south-dakota-new-mexico-latest-updates",
@@ -19843,27 +19912,25 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Deadly air raids across Ukraine after warnings of Russian strike wave",
-      "link": "https://www.theguardian.com/world/2026/jun/02/ukraine-war-russia-air-raids-strike-kyiv-dnipro-kharkiv",
-      "source": "Guardian",
-      "timestamp": "2026-06-02T03:24:16+00:00",
+      "title": "Victoria\u2019s Secret\u2019s stock just had its best day ever. It came down to better bras.",
+      "link": "https://www.marketwatch.com/story/victorias-secrets-stock-is-on-track-for-its-best-day-ever-it-came-down-to-better-bras-fb82f017?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-06-02T22:27:00+00:00",
       "score": 14,
-      "summary": "Kyiv, Dnipro and Kharkiv hit, with apartment buildings among the targets according to officials, after president said intelligence predicted \u2018massive strike\u2019 Russian air raids on major Ukrainian centres including Kyiv, Dnipro and Kharkiv killed at least five people and wounded...",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "summary": "Lingerie retailer\u2019s shares were up 47% on Tuesday.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Ukraine",
-        "Russian"
+        "Secrets"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19872,57 +19939,42 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "Guardian"
+        "MarketWatch"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+59%",
       "heat_level": "LOW"
     },
     {
-      "title": "Trump Wants Arab States to Recognize Israel. The War Has Made That Harder.",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTdBN0lEaEN0Q1dJQktlTmk1QVd2Uzk2ejJ4OGdjVkRRSXlIU1FnZ1c0YXJNREdfSEctSS1GSG1ZZ25GaS1FOWFGQURpb2pOSVhjbDFsSXlZRnRKTVZIR0RRZzdwdG45dXR1eUZCZ2JEU2dPS1RTQ0pCYk5XT3dOS29tRmpDdm44YWNoMktJY0tIejJMVUVyakNDQXI4QnJCYkNmdVhReVR1MUhheDV2a2YxaUdSOHEyRmZv?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-02T03:21:37+00:00",
-      "score": 12,
-      "summary": "Trump Wants Arab States to Recognize Israel. The War Has Made That Harder. WSJA ruse, a brave gamble or a fantasy? Why Trump\u2019s most puzzling Iran move yet is unlikely to work CNNThe Abraham Accords: Obstacles to Peace in the Middle East PassBlueThe Mideast Is Baffled by Trump\u2019...",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Aggregator",
+      "title": "GameStop wants to buy back $2 billion of its own stock after an eBay-fueled selloff",
+      "link": "https://www.marketwatch.com/story/gamestop-wants-to-buy-back-2-billion-of-its-own-stock-after-an-ebay-fueled-selloff-621d14fa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-06-02T22:17:00+00:00",
+      "score": 15,
+      "summary": "The videogame retailer also said that collectibles helped drive a 14% sales gain in the first quarter.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Wants",
-        "Arab",
-        "States",
-        "Recognize",
-        "Israel",
-        "War",
-        "Has",
-        "Made",
-        "That",
-        "Harder"
-      ],
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "Google News"
+        "MarketWatch"
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Palo Alto Networks\u2019 stock is rising as earnings show AI is a friend, not a foe",
       "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-is-rising-as-earnings-show-ai-is-a-friend-not-a-foe-0f6b289a?mod=mw_rss_topstories",
@@ -26308,56 +26360,24 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Wall Street keeps its AI stock-picking secrets \u2014 here\u2019s what robo advisers actually do",
-      "link": "https://www.marketwatch.com/story/wall-street-keeps-its-ai-stock-picking-secrets-heres-what-robo-advisers-actually-do-93871e31?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-06-01T17:24:00+00:00",
-      "score": 14,
-      "summary": "AI financial advisers aren\u2019t the brilliant investors you\u2019d expect.",
-      "country": "US",
+      "title": "Canadian forest fires are losing their climate cooling power, says study",
+      "link": "https://phys.org/news/2026-06-canadian-forest-climate-cooling-power.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-02T18:20:03-04:00",
+      "score": 10,
+      "summary": "Diminishing periods of snow cover in northern forests, shortened by climate change, are poised to disrupt a delicate balance in some of the planet's most climate-sensitive regions\u2014according to new research from McMaster University, VU Amsterdam, and the Woodwell Climate Resear...",
+      "country": "Canada",
       "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Street"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump tells CNBC: 'I don't care' if Iran negotiations are over",
-      "link": "https://www.cnbc.com/2026/06/01/trump-iran-war-negotiations-oil-israel-interview.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-01T17:22:34+00:00",
-      "score": 12,
-      "summary": "President Trump spoke with CNBC's Eamon Javers about the latest with the Iran war in an interview Monday.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "CNBC",
-        "Iran"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26367,13 +26387,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+56%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Ceres' surface is much more complex than previously thought",
       "link": "https://phys.org/news/2026-06-ceres-surface-complex-previously-thought.html",
@@ -32428,35 +32446,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Rainfall near 700 mm marks turning point in ecosystem nitrogen retention",
-      "link": "https://phys.org/news/2026-05-rainfall-mm-ecosystem-nitrogen-retention.html",
-      "source": "Phys.org",
-      "timestamp": "2026-05-30T15:00:02-04:00",
-      "score": 15,
-      "summary": "In a study published in Nature Geoscience, a research team led by Prof. Liu Lingli from the Institute of Botany of the Chinese Academy of Sciences (IBCAS) has identified a mean annual precipitation (MAP) threshold of approximately 700 mm, beyond which the dominant controls on ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -37949,6 +37938,90 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Wolverine\u2019 Game Developers Break Down New Footage, X-Men Cameos, \u2018Low-Gore\u2019 Option, Claw Combat and How Logan Can Die",
+      "link": "https://variety.com/2026/digital/news/wolverine-video-game-trailer-x-men-cameos-gameplay-1236764406/",
+      "source": "Variety",
+      "timestamp": "2026-06-02T22:30:00+00:00",
+      "score": 12,
+      "summary": "If there\u2019s one key thing that PlayStation\u2019s Insomniac Games wants you to take away from the new gameplay footage for its upcoming \u201cMarvel\u2019s Wolverine,\u201d it\u2019s that this video game will be as bloody as promised. \u201cIt\u2019s planting our flag that this is a mature game,\u201d Insomniac Games...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Game",
+        "Developers",
+        "Break",
+        "Down",
+        "New",
+        "Footage",
+        "XMen",
+        "Cameos",
+        "LowGore",
+        "Option",
+        "Claw",
+        "Combat",
+        "How",
+        "Logan",
+        "Can",
+        "Die"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Imposters\u2019 Filmmaker Caleb Phillips Signs with Underground (Exclusive)",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/imposters-filmmaker-caleb-phillips-signs-underground-1236553976/",
+      "source": "THR",
+      "timestamp": "2026-06-02T22:17:10+00:00",
+      "score": 12,
+      "summary": "He first landed attention with the viral horror short 'Other Side of the Box,' which amassed more than 30 million views, and recently premiered his debut feature at SXSW.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Filmmaker",
+        "Caleb",
+        "Phillips",
+        "Signs",
+        "Underground",
+        "Exclusive"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Tom Holland Called Sony Boss to Delay \u2018Spider-Man: Brand New Day\u2019 for Christopher Nolan\u2019s \u2018The Odyssey\u2019",
       "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-holland-delayed-spider-man-the-odyssey-called-sony-1236611855/",
@@ -45933,37 +46006,32 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "Authentic Brands Chief Jamie Salter on the New \u2018Blueprint\u2019 for Managing Celebrity Estates: \u2018It\u2019s No Longer About Simply Licensing an Image\u2019",
-      "link": "https://variety.com/2026/biz/features/authentic-brands-jamie-salter-marilyn-monroe-100-1236763419/",
-      "source": "Variety",
-      "timestamp": "2026-06-01T19:01:00+00:00",
+      "title": "Kate Middleton Wears an Unexpected Designer to Celebrate a Meaningful Charity Milestone",
+      "link": "https://www.vogue.com/article/kate-middleton-rodarte-cancer-research-uk-king-charles",
+      "source": "Vogue",
+      "timestamp": "2026-06-02T22:16:52+00:00",
       "score": 12,
-      "summary": "The business of managing celebrity estates has changed exponentially in the 15 years since Authentic Brands Group became the caretakers of Marilyn Monroe. The emergence of a global content marketplace has greatly expanded opportunity to create TV shows, movies, documentaries, ...",
+      "summary": "The Princess of Wales appeared alongside King Charles in support of cancer research wearing Rodarte.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Entertainment",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Brands",
-        "Chief",
-        "Jamie",
-        "Salter",
-        "New",
-        "Blueprint",
-        "Managing",
-        "Celebrity",
-        "Estates",
-        "Its",
-        "Longer",
-        "About",
-        "Simply",
-        "Licensing",
-        "Image"
+        "Middleton",
+        "Wears",
+        "Unexpected",
+        "Designer",
+        "Celebrate",
+        "Meaningful",
+        "Charity",
+        "Milestone"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -45974,51 +46042,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Variety"
+        "Vogue"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
     },
-    {
-      "title": "The Monroe Doctrine: How Marilyn Set the Standard for Incandescent Stardom",
-      "link": "https://variety.com/lists/marilyn-monroe-basinger-kardashian-lady-gaga-sydney-sweeney/",
-      "source": "Variety",
-      "timestamp": "2026-06-01T19:00:00+00:00",
-      "score": 12,
-      "summary": "Marilyn Monroe still casts a long shadow across Hollywood. The highs and lows of her life and work are a constant source of comparison for fast-rising female stars. Especially if they happen to be young, talented and blonde. Monroe\u2019s indelible image defines what it means for a...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Monroe",
-        "Doctrine",
-        "How",
-        "Marilyn",
-        "Set",
-        "Standard",
-        "Incandescent",
-        "Stardom"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
     {
       "title": "The Best J.Crew New Arrivals to Shop for Spring 2026",
       "link": "https://www.vogue.com/article/best-jcrew-finds",
@@ -47382,7 +47410,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.9,
+      "trend_score": 7.8,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -49771,6 +49799,104 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 3.4 - 105 km ESE of Akutan, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026kwmcpp",
+      "source": "USGS",
+      "timestamp": "2026-06-02T22:30:57.612000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-02 22:22:43 UTC2026-06-02 22:22:43 UTC at epicenterLocation53.764\u00b0N 164.290\u00b0WDepth19.30 km (11.99 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Akutan",
+        "Alaska"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.0 - 84 km SW of Adak, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026kwmady",
+      "source": "USGS",
+      "timestamp": "2026-06-02T22:28:50.743000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-02 22:19:59 UTC2026-06-02 22:19:59 UTC at epicenterLocation51.383\u00b0N 177.560\u00b0WDepth32.70 km (20.32 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Adak",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 3.6 - 84 km W of Lake Minchumina, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026kwlwxf",
+      "source": "USGS",
+      "timestamp": "2026-06-02T22:25:19.040000+00:00",
+      "score": 15,
+      "summary": "ShakeMap - IVTime2026-06-02 22:15:51 UTC2026-06-02 22:15:51 UTC at epicenterLocation64.014\u00b0N 154.012\u00b0WDepth1.30 km (0.81 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lake",
+        "Minchumina",
+        "Alaska"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.8 - 10 km SSE of Toledo, Washington",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw62254782",
@@ -56181,107 +56307,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Lebanon Health Sector Emergency Situation Report Issue #13 - June 01, 2026",
-      "link": "https://reliefweb.int/report/lebanon/lebanon-health-sector-emergency-situation-report-issue-13-june-01-2026",
-      "source": "ReliefWeb",
-      "timestamp": "2026-06-01T15:56:03+00:00",
-      "score": 15,
-      "summary": "Country: Lebanon Sources: Health Cluster, World Health Organization Please refer to the attached file.",
-      "country": "UN",
-      "region": "Global",
-      "source_type": "International Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Health",
-        "Sector",
-        "Emergency",
-        "Situation",
-        "Report",
-        "Issue",
-        "June"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ReliefWeb"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Wall St hovers near record highs as Nvidia, tech gains eclipse Iran war anxiety",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcUNQekF0VTVYU1pWSkxuYnE4cklIRTliQzVsN2NLUlItQ0Jvd1Q5My1lQlZJTUZMQmZpaWxDN1YtY3RGY1h0R1BIeHlrbm1qcFhpU1dxZjhfTmFwVERDd0VsOUFxTHRBZzNfNFdCYkFqVDE1ODVXVGNxaEpTdTd3SjlGZGMwRDdtUFBWQ3RtOVZoOGtGZmZWRGtnOUotbmxYejNobloxaGFqV1dSUWJRek5VYw?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-01T15:51:00+00:00",
-      "score": 14,
-      "summary": "Wall St hovers near record highs as Nvidia, tech gains eclipse Iran war anxiety Reuters",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nvidia",
-        "Iran"
-      ],
-      "severity_score": 8,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 17 km WSW of Johannesburg, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41477984",
-      "source": "USGS",
-      "timestamp": "2026-06-01T15:40:55.277000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-01 15:37:29 UTC2026-06-01 15:37:29 UTC at epicenterLocation35.302\u00b0N 117.804\u00b0WDepth7.26 km (4.51 mi)",
-      "country": "South Africa",
-      "region": "Africa",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Johannesburg"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
       "heat_level": "LOW"
     }
   ]
