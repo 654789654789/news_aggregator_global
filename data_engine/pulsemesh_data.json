@@ -13106,6 +13106,37 @@
   ],
   "World": [
     {
+      "title": "The Pentagon designates its press office 'classified space' \u2014 making it off limits to journalists",
+      "link": "https://www.cbc.ca/news/world/pentagon-press-classified-space-press-room-9.7219926?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-06-01T19:49:21-04:00",
+      "score": 12,
+      "summary": "In another of a series of moves restricting media access at the Pentagon, the U.S. Defence Department has declared that its press office is now a classified space \u2014 and therefore inaccessible to journalists.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pentagon"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CBC News"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Australia politics live: Chalmers says economic woes driving voters to One Nation; Australian population surpasses 28 million",
       "link": "https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
       "source": "Guardian",
@@ -19800,42 +19831,42 @@
       ],
       "trend_accel": "+54%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Iran and US report new wave of strikes in Gulf",
-      "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-06-01T06:17:47+00:00",
-      "score": 12,
-      "summary": "Iran and the US say they have carried out fresh attacks around the Strait of Hormuz, the third known escalation in a week.",
+      "title": "Blue Origin launchpad damaged in rocket explosion may not be restored until 2028, NASA's Isaacman says",
+      "link": "https://www.cnbc.com/2026/06/01/blue-origin-launchpad-may-not-be-restored-until-2028-nasas-isaacman.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-01T23:48:05+00:00",
+      "score": 15,
+      "summary": "NASA has tapped Jeff Bezos' Blue Origin for several contracts in the agency's Artemis return-to-the-moon program.",
       "country": "US",
       "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Gulf"
+        "Origin",
+        "NASAs",
+        "Isaacman"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "BBC"
+        "CNBC"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Stock futures slip after all three major indexes close at new records: Live updates",
       "link": "https://www.cnbc.com/2026/06/01/stock-market-today-live-updates.html",
@@ -26354,19 +26385,21 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "It\u2019s not just tech stocks: The broad-based strength of the market right now gives investors reason to stay the course",
-      "link": "https://www.marketwatch.com/story/its-not-just-tech-stocks-the-broad-based-strength-of-the-market-right-now-gives-investors-reason-to-stay-the-course-4ef65de3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-05-31T16:00:00+00:00",
-      "score": 14,
-      "summary": "While tech is still leading the party, more parts of the market are starting to join in.",
+      "title": "Rovers, regolith, robots: The blueprint for the moon",
+      "link": "https://phys.org/news/2026-06-rovers-regolith-robots-blueprint-moon.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-01T20:00:04-04:00",
+      "score": 12,
+      "summary": "The \"soil\" blanketing the moon's surface isn't actually soil. It's a fine, lethal, abrasive powder of shattered rock and jagged glass that shreds gaskets, chews through seals, and hangs in an airless environment blasted by unfiltered radiation and temperature swings that can w...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26377,15 +26410,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "MarketWatch"
+        "Phys.org"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Textile wastewater treatment generates alarmingly high levels of toxic compounds, study reveals",
       "link": "https://phys.org/news/2026-06-textile-wastewater-treatment-generates-alarmingly.html",
@@ -32477,35 +32508,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "No single path makes youth champions, review of 60 sports analyses shows",
-      "link": "https://phys.org/news/2026-05-path-youth-champions-sports-analyses.html",
-      "source": "Phys.org",
-      "timestamp": "2026-05-28T18:00:04-04:00",
-      "score": 13,
-      "summary": "How do you create the top athletes of the future? A large-scale study by researchers from the VUB's SPLISS research group shows that there is no ready-made recipe. The road to the podium is non-linear and requires a holistic approach in which fun, health and the environment ar...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -38082,23 +38084,36 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Miami confirms Messi subbed after muscle fatigue",
-      "link": "https://www.espn.com/soccer/story/_/id/48875562/inter-miami-lionel-messi-subbed-muscle-fatigue",
-      "source": "ESPN",
-      "timestamp": "2026-05-25T19:01:04-05:00",
+      "title": "The Academy Launches Global Award Recognizing Exceptional Movie Theaters Worldwide \u2013 Film News in Brief",
+      "link": "https://variety.com/2026/film/news/film-news-in-brief-june-1-2026-1236763966/",
+      "source": "Variety",
+      "timestamp": "2026-06-01T23:51:42+00:00",
       "score": 12,
-      "summary": "Inter Miami CF said Monday that Lionel Messi suffered from muscle fatigue in his left hamstring during Sunday's win over the Philadelphia Union, forcing him to leave the game in the 73rd minute.",
+      "summary": "The Academy of Motion Picture Arts and Sciences has announced a new global award to celebrate moviegoing and the traditional theatrical experience. The Academy Marquee Theater List is designed to recognize the most remarkable movie theaters around the world and honor the best ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Sports Publication",
+      "source_type": "Entertainment",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Messi"
+        "Academy",
+        "Launches",
+        "Global",
+        "Award",
+        "Recognizing",
+        "Exceptional",
+        "Movie",
+        "Theaters",
+        "Worldwide",
+        "Film",
+        "News",
+        "Brief"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -38107,44 +38122,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "ESPN"
+        "Variety"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Cubs match dubious mark with 9th straight loss",
-      "link": "https://www.espn.com/mlb/story/_/id/48875255/cubs-ninth-straight-loss-matches-2017-dodgers-dubious-mark",
-      "source": "ESPN",
-      "timestamp": "2026-05-25T19:01:04-05:00",
-      "score": 15,
-      "summary": "Chicago's 2-1 loss to the Pirates on Monday marked its ninth straight defeat, joining the 2017 Dodgers as the only two teams in the expansion era to have multiple 10-game winning streaks and a nine-game skid in the same season.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Sports Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ESPN"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
     {
       "title": "Sabrina Carpenter Gets Restraining Order After \u2018Deeply Alarming\u2019 Incident With Alleged Stalker",
       "link": "https://www.rollingstone.com/music/music-news/sabrina-carpenter-alleged-stalker-restraining-order-1235570948/",
@@ -46025,45 +46009,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Backrooms\u2019 $118M WW Bonanza; \u2018Obsession\u2019 Obsessed With $148M WW; \u2018Michael\u2019 Nearing $900M WW \u2013 Global Box Office Update",
-      "link": "https://deadline.com/2026/05/box-office-global-backrooms-obsession-star-wars-michael-1236931328/",
-      "source": "Deadline",
-      "timestamp": "2026-05-31T15:56:30+00:00",
-      "score": 15,
-      "summary": "REFRESH FOR UPDATES\u2026Backrooms wasn\u2019t just a stateside sensation, rather the top A24 opening in over 30 countries across Latin America, the UK, Australia/New Zealand, South Korea, Middle East, Scandinavia, Taiwan, Israel, and Turkey. As we told you global came in at $118M for t...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bonanza",
-        "Obsession",
-        "Obsessed",
-        "Michael",
-        "Nearing",
-        "Global",
-        "Box",
-        "Office",
-        "Update"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -50005,6 +49950,102 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 17 km WSW of Johannesburg, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41478328",
+      "source": "USGS",
+      "timestamp": "2026-06-01T23:56:28.025000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-01 23:53:01 UTC2026-06-01 23:53:01 UTC at epicenterLocation35.304\u00b0N 117.805\u00b0WDepth7.19 km (4.47 mi)",
+      "country": "South Africa",
+      "region": "Africa",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Johannesburg"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 6 km SW of Volcano, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74973787",
+      "source": "USGS",
+      "timestamp": "2026-06-01T23:56:19.040000+00:00",
+      "score": 17,
+      "summary": "Time2026-06-01 23:39:52 UTC2026-06-01 23:39:52 UTC at epicenterLocation19.394\u00b0N 155.272\u00b0WDepth0.28 km (0.17 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Volcano",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.9 - 6 km SW of Volcano, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74973782",
+      "source": "USGS",
+      "timestamp": "2026-06-01T23:47:47.140000+00:00",
+      "score": 17,
+      "summary": "Time2026-06-01 23:33:29 UTC2026-06-01 23:33:29 UTC at epicenterLocation19.398\u00b0N 155.273\u00b0WDepth0.29 km (0.18 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Volcano",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
       "heat_level": "LOW"
     },
     {
@@ -56372,101 +56413,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 8 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75368756",
-      "source": "USGS",
-      "timestamp": "2026-05-31T17:07:21.564000+00:00",
-      "score": 15,
-      "summary": "Time2026-05-31 16:25:53 UTC2026-05-31 16:25:53 UTC at epicenterLocation38.831\u00b0N 122.816\u00b0WDepth2.02 km (1.26 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 83 km SE of Kokhanok, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ksjjff",
-      "source": "USGS",
-      "timestamp": "2026-05-31T17:04:39.727000+00:00",
-      "score": 15,
-      "summary": "Time2026-05-31 17:01:54 UTC2026-05-31 17:01:54 UTC at epicenterLocation58.869\u00b0N 153.835\u00b0WDepth21.80 km (13.55 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kokhanok",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 5 km SW of Volcano, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74972687",
-      "source": "USGS",
-      "timestamp": "2026-05-31T16:57:07.330000+00:00",
-      "score": 17,
-      "summary": "Time2026-05-31 16:53:39 UTC2026-05-31 16:53:39 UTC at epicenterLocation19.408\u00b0N 155.277\u00b0WDepth0.29 km (0.18 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Volcano",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
