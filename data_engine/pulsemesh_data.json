@@ -1,6 +1,35 @@
 {
   "Politics": [
     {
+      "title": "Energy, water use and pollution of AI and data centers rival most countries",
+      "link": "https://www.pbs.org/newshour/science/energy-water-use-and-pollution-of-ai-and-data-centers-rival-most-countries",
+      "source": "PBS",
+      "timestamp": "2026-06-04T17:16:29-04:00",
+      "score": 14,
+      "summary": "If data centers were a country, the country would be projected to rank sixth-highest in power use in 2030.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "North Korea unveils new facility to produce fuel for nuclear weapons",
       "link": "https://www.pbs.org/newshour/world/north-korea-unveils-new-facility-to-produce-fuel-for-nuclear-weapons",
       "source": "PBS",
@@ -6577,24 +6606,30 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Five-storey under-construction building collapses in Kerala\u2019s Idukki; no casualties",
-      "link": "https://www.thehindu.com/news/national/kerala/five-storey-under-construction-building-collapses-in-keralas-idukki-no-casualties/article71059641.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-04T10:04:08+05:30",
-      "score": 12,
-      "summary": "While the structure was completely destroyed, a family living in a nearby house had a narrow escape",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-04T21:30:00+00:00",
+      "score": 17,
+      "summary": "With just two weeks to go, StrictlyVC Los Angeles is quickly approaching. On Thursday, June 18, at The Aerospace Corporation Campus in El Segundo. Investors, founders, and tech leaders will gather for an evening of conversations exploring some of the most consequential shifts ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Military"
+      ],
       "entities": [
-        "Keralas",
-        "Idukki"
+        "StrictlyVC",
+        "Los",
+        "Angeles",
+        "June"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6603,15 +6638,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Startup Battlefield is returning to Australia \u2014 here\u2019s what happened the last time we came to Sydney",
       "link": "https://techcrunch.com/2026/06/04/startup-battlefield-is-returning-to-australia-heres-what-happened-the-last-time-we-came-to-sydney/",
@@ -13120,25 +13153,27 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Listen to the new Steam Controller buzz to the tune of Doom",
-      "link": "https://www.theverge.com/games/940157/valve-steam-controller-singing-music-doom",
-      "source": "Verge",
-      "timestamp": "2026-05-30T10:02:51-04:00",
-      "score": 12,
-      "summary": "You may have heard that Valve's new Steam Controller can ring like a telephone or do the Wilhelm scream. But did you know it can sing songs, too? Let me show you. Here's the new Steam Controller performing the \"Ground Theme\" from Super Mario Bros. 2: Here is \"Still Alive\" from...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Microsoft to tighten human rights measures after inquiry into Israel\u2019s use of its tech",
+      "link": "https://www.theguardian.com/technology/2026/jun/04/microsoft-to-tighten-human-rights-measures-after-inquiry-into-israels-use-of-its-tech",
+      "source": "Guardian",
+      "timestamp": "2026-06-04T21:23:36+00:00",
+      "score": 14,
+      "summary": "Announcement seeks to close a difficult chapter for the company after the Guardian revealed its platform was used in mass surveillance of PalestiniansMicrosoft has said it will tighten human rights controls when working with national security agencies after an inquiry into how...",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Steam",
-        "Controller",
-        "Doom"
+        "Israels"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13149,13 +13184,106 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Verge"
+        "Guardian"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Qualifier makes French Open history, reaching final against Russian teen star",
+      "link": "https://www.abc.net.au/news/2026-06-05/mirra-andreeva-maja-chwalinska-reach-womens-french-open-final/106762296",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-04T21:23:23+00:00",
+      "score": 14,
+      "summary": "Nineteen-year-old Mirra Andreeva reaches her first grand slam final at the French Open where she will take on Poland's Maja Chwali\u0144ska, the first qualifier to reach the Paris decider in the Open Era.",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "French",
+        "Open",
+        "Russian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "DoJ investigates 15 medical schools over alleged discrimination in admissions",
+      "link": "https://www.theguardian.com/us-news/2026/jun/04/doj-medical-schools",
+      "source": "Guardian",
+      "timestamp": "2026-06-04T21:19:49+00:00",
+      "score": 13,
+      "summary": "Announcement follows DoJ\u2019s recent findings that medical schools at UCLA and Yale illegally used race in admissionsThe US Department of Justice\u2019s civil rights division has launched investigations into 15 medical schools over allegations of potential race discrimination in their...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nauiyu residents return to 'gut-wrenching' scenes of flood devastation",
+      "link": "https://www.abc.net.au/news/2026-06-05/nauiyu-residents-return-to-flood-ravaged-community-nt/106759714",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-04T21:19:36+00:00",
+      "score": 10,
+      "summary": "Residents of the Northern Territory town of Nauiyu / Daly River have started returning home after spending three months in evacuation centres following extensive flooding.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Live: Shadow minister says he wants to see 6pc drop in entry-level house prices",
       "link": "https://www.abc.net.au/news/2026-06-05/federal-politics-live-blog-house-prices/106762216",
@@ -16118,7 +16246,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.6,
+      "trend_score": 11.5,
       "source_count": 18,
       "sources_reporting": [
         "France24",
@@ -16128,7 +16256,7 @@
         "Reuters",
         "The Hindu"
       ],
-      "trend_accel": "+86%",
+      "trend_accel": "+85%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19702,147 +19830,6 @@
         "ABC Australia"
       ],
       "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "ASIO warns Chinese spies using LinkedIn to pry information from applicants",
-      "link": "https://www.abc.net.au/news/2026-06-04/five-eyes-asio-warn-chinese-spies-linkedin-jobs-intelligence/106757646",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-04T02:03:06+00:00",
-      "score": 12,
-      "summary": "Australia and its partners in the Five Eyes intelligence alliance warn that Chinese spies are using job platforms to post fake ads to lure recruits with access to sensitive information.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chinese",
-        "LinkedIn"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Neo-Nazi hecklers found guilty over Anzac Day booing",
-      "link": "https://www.abc.net.au/news/2026-06-04/anzac-day-welcome-to-country-booing-neo-nazis-found-guilty/106757584",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-04T01:50:02+00:00",
-      "score": 12,
-      "summary": "Three white supremacists who loudly booed during a Welcome to Country ceremony at an Anzac Day dawn service in Melbourne have been found guilty of offensive behaviour.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Anzac",
-        "Day"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Israel\u2019s High Court Rejects Ban on Red Cross Visits for Palestinian Prisoners",
-      "link": "https://www.nytimes.com/2026/06/03/world/middleeast/israel-supreme-court-red-cross-palestinian-prisoners.html",
-      "source": "NYT",
-      "timestamp": "2026-06-04T01:48:15+00:00",
-      "score": 12,
-      "summary": "Israel forbade the visits, which allow the Red Cross to monitor prisoners\u2019 conditions, in 2023. Justices said the policy violated Israeli and international law.",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "High",
-        "Court",
-        "Rejects",
-        "Ban",
-        "Red",
-        "Cross",
-        "Visits",
-        "Palestinian",
-        "Prisoners"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "West Asia war LIVE: Israel, Lebanon agree to implement ceasefire",
-      "link": "https://www.thehindu.com/news/international/usa-iran-war-updates-israel-lebanon-ceasefire-hezbollah-june-4-2026/article71059457.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-04T06:57:09+05:30",
-      "score": 12,
-      "summary": "Trump says he wants to separate talks on Lebanon and the war in Iran; Tehran warns that any attack on Beirut would trigger a \"full-scale resumption\" of the war",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Asia",
-        "LIVE",
-        "Israel",
-        "Lebanon"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ],
@@ -26334,6 +26321,38 @@
   ],
   "Science": [
     {
+      "title": "Record ultraviolet quasar wind reaches 30% light speed near supermassive black hole",
+      "link": "https://phys.org/news/2026-06-ultraviolet-quasar-supermassive-black-hole.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-04T17:20:01-04:00",
+      "score": 13,
+      "summary": "A team led by York University researchers has discovered the fastest wind near a supermassive black hole ever found at ultraviolet wavelengths, driven by the disk of matter (quasar) surrounding the black hole.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 6.6,
+      "source_count": 15,
+      "sources_reporting": [
+        "BBC",
+        "Guardian",
+        "NHK",
+        "Phys.org"
+      ],
+      "trend_accel": "+63%",
+      "heat_level": "HOT"
+    },
+    {
       "title": "As Ebola Spreads, Scientists Race to Find Vaccines and Treatments",
       "link": "https://www.nytimes.com/2026/06/01/science/ebola-vaccines-treatments.html",
       "source": "NYT",
@@ -27665,8 +27684,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "Bloomberg",
@@ -32426,39 +32445,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Amazon rainforest emits new stress-defense molecules during El Ni\u00f1o drought",
-      "link": "https://phys.org/news/2026-06-amazon-rainforest-emits-stress-defense.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-02T16:30:02-04:00",
-      "score": 14,
-      "summary": "The Amazon rainforest responded to the most severe drought ever recorded in the basin with an unexpected defense mechanism. Researchers at the Max Planck Institute for Chemistry in Mainz, Germany, found that during and after the intense 2023\u20132024 El Ni\u00f1o cycle, the most intens...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Nio"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33888,7 +33874,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.0,
+      "trend_score": 7.9,
       "source_count": 18,
       "sources_reporting": [
         "Bloomberg",
@@ -33897,7 +33883,7 @@
         "PBS",
         "Reuters"
       ],
-      "trend_accel": "+73%",
+      "trend_accel": "+72%",
       "heat_level": "SURGING"
     },
     {
@@ -38163,6 +38149,124 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018The Daily Show\u2019 Goes to New Orleans as Jordan Klepper Celebrates America 250 With a Drunk Pirate (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/news/daily-show-jordan-klepper-celebrates-america-new-orleans-1236766708/",
+      "source": "Variety",
+      "timestamp": "2026-06-04T21:30:00+00:00",
+      "score": 17,
+      "summary": "\u201cThe Daily Show\u201d host Jordan Klepper went down South to celebrate America\u2019s 250th birthday for a new installment of \u201cJordan Klepper Fingers the Pulse.\u201d Airing during tonight\u2019s episode of \u201cThe Daily Show,\u201d the segment finds the host in New Orleans during Sail250, a traveling ma...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Daily",
+        "Show",
+        "Goes",
+        "New",
+        "Orleans",
+        "Jordan",
+        "Klepper",
+        "Celebrates",
+        "America",
+        "Drunk",
+        "Pirate",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Taylor Swift\u2019s Net Worth Is Now $2 Billion",
+      "link": "https://www.eonline.com/news/1432659/taylor-swifts-net-worth-is-s2-billion-heres-how-much-money-she-has?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-06-04T21:24:09+00:00",
+      "score": 15,
+      "summary": "One for the money, two for the show\u2014Taylor Swift is ready, so watch her go. Less than two years after the \"Champagne Problems\" singer's estimated net worth was revealed to be $1.6 billion,...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Swifts",
+        "Net",
+        "Worth",
+        "Now",
+        "Billion"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 9,
+      "sources_reporting": [
+        "E! News",
+        "Variety"
+      ],
+      "trend_accel": "+64%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Max Kleven, Stuntman, Second-Unit Director on \u2018Rollerball,\u2019 \u2018Batman Returns\u2019 and \u2018The River Wild,\u2019 Dies at 92",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/max-kleven-dead-back-to-future-batman-returns-river-wild-1236614157/",
+      "source": "THR",
+      "timestamp": "2026-06-04T21:18:56+00:00",
+      "score": 15,
+      "summary": "A ski jumper from Norway, he also worked on \u2018Naked City,\u2019 \u2018Silent Movie,\u2019 the \u2018Back to the Future\u2019 trilogy and \u2018Robin Hood: Prince of Thieves.\u2019",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kleven",
+        "Stuntman",
+        "SecondUnit",
+        "Director",
+        "Rollerball",
+        "Batman",
+        "Returns",
+        "River",
+        "Wild",
+        "Dies"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Tonys Roundtable: Six Broadway Standouts on Overcoming Their Fears, Provoking Difficult Conversations and Making Magic Eight Times a Week",
       "link": "https://www.hollywoodreporter.com/lifestyle/arts/tonys-roundtable-2026-broadway-standouts-fears-magic-1236609786/",
@@ -46174,129 +46278,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Lauv Drops Out of Tour With Khalid Citing Mental Health Struggles: \u2018Trying to Be Strong\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/lauv-drops-out-khalid-tour-mental-health-1235571960/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-06-03T20:31:58+00:00",
-      "score": 12,
-      "summary": "\"I have to be honest with myself and with you: I'm deeply struggling right now,\" the singer wrote on Tuesday",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Drops",
-        "Out",
-        "Tour",
-        "Khalid",
-        "Citing",
-        "Mental",
-        "Health",
-        "Struggles",
-        "Trying",
-        "Strong"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Daredevil: Born Again\u2019 Finale\u2019s Hallway Scene Took Three Days of Prep and One Day to Shoot",
-      "link": "https://variety.com/2026/artisans/news/daredevil-born-again-finale-hallway-scene-stunts-1236765172/",
-      "source": "Variety",
-      "timestamp": "2026-06-03T20:30:00+00:00",
-      "score": 14,
-      "summary": "Disney+ series \u201cDaredevil: Born Again\u201d is renowned for its iconic hallway fight sequences, so it\u2019s only fitting that the season concludes with another epic moment. The episode follows Matt Murdock (Charlie Cox) as he gets patched up and is running late to Karen Page\u2019s (Deborah...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Born",
-        "Again",
-        "Finales",
-        "Hallway",
-        "Scene",
-        "Took",
-        "Three",
-        "Days",
-        "Prep",
-        "One",
-        "Day",
-        "Shoot"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Emilia Clarke on Moving Forward After Suffering Two Brain Hemorrhages: \u2018Recovery Is as Important as Survival\u2019",
-      "link": "https://variety.com/2026/tv/news/emilia-clarke-brain-hemorrhages-recovery-1236766096/",
-      "source": "Variety",
-      "timestamp": "2026-06-03T20:25:55+00:00",
-      "score": 14,
-      "summary": "\u201cGame of Thrones\u201d star Emilia Clarke gave a moving speech while being honored at Variety\u2018s Power of Women London about surviving two brain hemorrhages in her 20s. Clarke went in depth about surviving the hemorrhages in her cover story last week, but still maintained a sense of...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Clarke",
-        "Moving",
-        "Forward",
-        "After",
-        "Suffering",
-        "Two",
-        "Brain",
-        "Hemorrhages",
-        "Recovery",
-        "Important",
-        "Survival"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -50520,6 +50501,106 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 3.8 - 11 km NW of Summerlin South, Nevada",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00919749",
+      "source": "USGS",
+      "timestamp": "2026-06-04T21:28:14.196000+00:00",
+      "score": 15,
+      "summary": "PAGER - GREEN ShakeMap - IV DYFI? - IVTime2026-06-04 20:47:58 UTC2026-06-04 20:47:58 UTC at epicenterLocation36.176\u00b0N 115.432\u00b0WDepth7.00 km (4.35 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Summerlin",
+        "South",
+        "Nevada"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.1 - 1 km NNE of Loma Linda, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41480448",
+      "source": "USGS",
+      "timestamp": "2026-06-04T21:27:40.820000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-04 21:16:45 UTC2026-06-04 21:16:45 UTC at epicenterLocation34.056\u00b0N 117.258\u00b0WDepth16.10 km (10.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Loma",
+        "Linda"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 56 km S of Whites City, New Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026kyifgt",
+      "source": "USGS",
+      "timestamp": "2026-06-04T21:21:56.929000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-04 21:18:32 UTC2026-06-04 21:18:32 UTC at epicenterLocation31.665\u00b0N 104.377\u00b0WDepth4.81 km (2.99 mi)",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Whites",
+        "City",
+        "New",
+        "Mexico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 0.8 - 5 km NNW of The Geysers, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75370921",
@@ -56933,106 +57014,6 @@
         "USGS"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 7 km ENE of Big Lake, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026kyctcg",
-      "source": "USGS",
-      "timestamp": "2026-06-03T19:42:35.781000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-03 19:41:10 UTC2026-06-03 19:41:10 UTC at epicenterLocation61.559\u00b0N 149.828\u00b0WDepth35.60 km (22.12 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Big",
-        "Lake",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 6 km SSW of Redlands, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41479568",
-      "source": "USGS",
-      "timestamp": "2026-06-03T19:21:32.585000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-03 19:18:08 UTC2026-06-03 19:18:08 UTC at epicenterLocation34.011\u00b0N 117.210\u00b0WDepth5.62 km (3.49 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Redlands"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.4 - 60 km S of Whites City, New Mexico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026kwiewo",
-      "source": "USGS",
-      "timestamp": "2026-06-03T19:14:42.442000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-03 19:09:06 UTC2026-06-03 19:09:06 UTC at epicenterLocation31.632\u00b0N 104.452\u00b0WDepth2.84 km (1.77 mi)",
-      "country": "Mexico",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Whites",
-        "City",
-        "New",
-        "Mexico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
