@@ -1,6 +1,48 @@
 {
   "Politics": [
     {
+      "title": "Trump Says He Plans to Nominate Blanche for Attorney General",
+      "link": "https://www.nytimes.com/2026/06/04/us/politics/trump-nominate-blanche-attorney-general.html",
+      "source": "NYT",
+      "timestamp": "2026-06-04T12:21:37+00:00",
+      "score": 12,
+      "summary": "Todd Blanche has been serving as the acting attorney general. A formal nomination to the post would be the president\u2019s latest move to place loyalists in top government jobs.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Says",
+        "Plans",
+        "Nominate",
+        "Blanche",
+        "Attorney",
+        "General"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.0,
+      "source_count": 18,
+      "sources_reporting": [
+        "Google News",
+        "Guardian",
+        "NHK",
+        "NPR",
+        "NYT",
+        "Reuters",
+        "The Hill"
+      ],
+      "trend_accel": "+81%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Senate to start debate on ICE funding. And, Israel and Lebanon agree to ceasefire",
       "link": "https://www.npr.org/2026/06/04/g-s1-125937/up-first-newsletter-ice-funding-package-trump-netanyahu-federal-workers-world-cup-weather",
       "source": "NPR",
@@ -2050,14 +2092,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 10.9,
+      "source_count": 11,
       "sources_reporting": [
-        "NPR"
+        "BBC",
+        "Guardian",
+        "NPR",
+        "NYT",
+        "Reuters",
+        "The Hill"
       ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
+      "trend_accel": "+84%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Census fieldwork contradicts government data, enumerators asked to revisit, review data",
@@ -3463,8 +3510,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 10.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "Guardian",
@@ -3640,8 +3687,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 10.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -6623,41 +6670,38 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Thiruvananthapuram airport inducts Kerala\u2019s first HRET crash fire tender",
-      "link": "https://www.thehindu.com/news/national/kerala/thiruvananthapuram-airport-inducts-keralas-first-hret-crash-fire-tender/article71057720.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-03T20:34:42+05:30",
+      "title": "Let us filter AI slop, you cowards",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+      "source": "Verge",
+      "timestamp": "2026-06-04T08:30:00-04:00",
       "score": 14,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last year, with many now automatically applying labels to distinguish AI-generate...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Keralas",
-        "HRET"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "AI leaders call for tougher protections against AI-aided bioweapons",
       "link": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
@@ -13176,19 +13220,86 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Microsoft under fire for threatening security researcher with criminal investigation",
-      "link": "https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/",
-      "source": "TechCrunch",
-      "timestamp": "2026-05-29T17:03:39+00:00",
-      "score": 10,
-      "summary": "A public spat between Microsoft and an independent security researcher reopens a long-running debate over who is responsible for securing software.",
+      "title": "Donald Trump says \u2018four bad Republicans\u2019 joined Democrats to pass \u2018meaningless\u2019 war powers resolution \u2013 US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2026/jun/04/us-politics-latest-news-midterm-elections-california-governor-results",
+      "source": "Guardian",
+      "timestamp": "2026-06-04T12:25:09+00:00",
+      "score": 12,
+      "summary": "President attacks lawmakers as \u2018unpatriotic\u2019 after vote to block him from continuing war in IranSign up for the Breaking News US emailDonald Trump has claimed \u2013 without evidence \u2013 that there is cheating going on in California\u2019s elections as the \u201cvotes are all tied up\u201d, and tha...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump",
+        "Republicans",
+        "Democrats"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Iranian-French cartoonist and filmmaker Marjane Satrapi dies at 56",
+      "link": "https://www.thehindu.com/news/international/persepolis-creator-marjane-satrapi-dies-at-56/article71060865.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-04T17:55:06+05:30",
+      "score": 15,
+      "summary": "President Emmanuel Macron and his wife Brigitte Macron \u201cpay tribute to a remarkable artist who transformed an Iranian childhood into a universal fable,\u201d a statement said.",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Newspaper",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Marjane",
+        "Satrapi"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Amazon expands ultra-fast deliveries in UK and adds same-day fruit and veg",
+      "link": "https://www.theguardian.com/technology/2026/jun/04/amazon-uk-ultra-fast-deliveries-same-day-fruit-veg",
+      "source": "Guardian",
+      "timestamp": "2026-06-04T12:24:48+00:00",
+      "score": 12,
+      "summary": "Deliveries in 30 minutes or less coming to Manchester and Birmingham and fresh groceries service to start in London Amazon is expanding fast-track deliveries in the UK, including adding fresh fruit and vegetables to same-day services, after closing its standalone grocery store...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -13199,15 +13310,45 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "Guardian"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "\u2018I\u2019d rather read a book\u2019: Tarantino criticises \u2018flavourless sausage factory\u2019 Hollywood",
+      "link": "https://www.theguardian.com/film/2026/jun/04/quentin-tarantino-criticises-hollywood-sight-and-sound",
+      "source": "Guardian",
+      "timestamp": "2026-06-04T12:21:29+00:00",
+      "score": 12,
+      "summary": "Pulp Fiction director writes in Sight and Sound that \u2018since the pandemic \u2026 it seems almost impossible for a new movie to come out that I don\u2019t pick to death\u2019Quentin Tarantino has criticised contemporary Hollywood, calling it \u201ca flavourless sausage factory\u201d.Writing in Sight and...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tarantino",
+        "Hollywood"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Starmer to meet Henry Nowak\u2019s family this afternoon, No 10 says \u2013 UK politics live",
       "link": "https://www.theguardian.com/politics/live/2026/jun/04/henry-nowak-death-policing-justice-farage-jenrick-reform-badenoch-burnham-latest-news-updates",
@@ -13991,15 +14132,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 8,
+      "trending": true,
+      "trend_score": 11.5,
+      "source_count": 11,
       "sources_reporting": [
+        "Bloomberg",
         "France24",
-        "NYT"
+        "Guardian",
+        "NYT",
+        "PBS",
+        "The Hindu"
       ],
-      "trend_accel": "+64%",
-      "heat_level": "HOT"
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Heavy rain brings relief in Delhi-NCR; IMD sounds 'red alert' for thunderstorm",
@@ -16989,8 +17134,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 11.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -19759,14 +19904,16 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "\u2018Everyone knew what Iran would do in response,\u2019 Marco Rubio tells House committee \u2013 US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2026/jun/03/us-midterm-primaries-politics-donald-trump-california-governor-latest-news-updates",
-      "source": "Guardian",
-      "timestamp": "2026-06-03T15:50:20+00:00",
+      "title": "Inside SpaceX\u2019s Rockets-to-Riches I.P.O. Plan",
+      "link": "https://www.nytimes.com/2026/06/04/business/dealbook/spacex-ipo-record.html",
+      "source": "NYT",
+      "timestamp": "2026-06-04T12:26:58+00:00",
       "score": 12,
-      "summary": "\u2018President and administration was aware there would be consequences to action,\u2019 says secretary of state as he says consequences of Iran having a nuclear weapon \u2018would be worse\u2019The Democrats to watch after Tuesday\u2019s primariesSign up for the Breaking News US emailIowa voters cas...",
+      "summary": "The latest prospectus by Elon Musk\u2019s company underscores its confidence in its planned market debut. But skeptics see reasons for concern.",
       "country": "US",
       "region": "Americas",
       "source_type": "Newspaper",
@@ -19775,10 +19922,10 @@
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Iran",
-        "Marco",
-        "Rubio",
-        "House"
+        "SpaceXs",
+        "RocketstoRiches",
+        "IPO",
+        "Plan"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19787,113 +19934,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Japan: Modern-day samurais battle new foe: Climate change",
-      "link": "https://www.france24.com/en/video/20260603-japan-modern-day-samurais-battle-new-foe-climate-change",
-      "source": "France24",
-      "timestamp": "2026-06-03T15:49:04+00:00",
-      "score": 14,
-      "summary": "It is a tradition that dates back a thousand years and has survived wars, earthquakes and even a nuclear disaster. But in recent years, Japan\u2019s Soma Nomaoi samurai festival has found itself under threat from a new enemy: extreme heat.",
-      "country": "Japan",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Modernday",
-        "Climate"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "One killed and 63 wounded in  Iranian attack on Kuwait\u2019s international airport",
-      "link": "https://www.theguardian.com/world/2026/jun/03/us-fires-missile-tanker-strait-of-hormuz",
-      "source": "Guardian",
-      "timestamp": "2026-06-03T15:47:26+00:00",
-      "score": 17,
-      "summary": "US and Iran exchange more strikes across Gulf region, jeopardising efforts to secure a new ceasefireMiddle East crisis \u2013 live updatesKuwait\u2019s military said Iranian strikes that hit a terminal at its international airport killed at least one person and wounded 63, as well as ca...",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Iranian",
-        "Kuwaits"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Director Wim Wenders pulls 1975 film featuring then-teenager Nastassja Kinski in nude scene",
-      "link": "https://www.france24.com/en/culture/20260603-director-wim-wenders-pulls-1975-film-featuring-then-teenager-nastassja-kinski-in-nude-scene",
-      "source": "France24",
-      "timestamp": "2026-06-03T15:35:50+00:00",
-      "score": 15,
-      "summary": "German director Wim Wenders announced Wednesday that he would be pulling his 1975 film \u201cWrong Move\u201d from circulation due to a scene in which actress Nastassja Kinski, then a teenager, appeared topless.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Wim",
-        "Wenders",
-        "Nastassja",
-        "Kinski"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "France24"
+        "NYT"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Trump's 'big beautiful bill' has a 'double taxation' trap for top earners, tax lawyers say",
       "link": "https://www.cnbc.com/2026/06/04/trump-tax-bill-double-taxation-trusts.html",
@@ -26377,38 +26424,6 @@
         "CNBC"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Dulux owner Akzo Nobel plummets 19% after takeover talks fall through",
-      "link": "https://www.cnbc.com/2026/06/03/europe-markets-trump-eu-tariffs-zara-inditex.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-03T07:59:28+00:00",
-      "score": 15,
-      "summary": "Investors are also continuing to monitor developments in the U.S.-Iran war after tensions escalated overnight.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Akzo",
-        "Nobel"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -38086,6 +38101,81 @@
   ],
   "Entertainment": [
     {
+      "title": "\u2018Diablo\u2019 Partners Team For Slate Of Colombian Co-Productions Aimed At U.S. & International Markets",
+      "link": "https://deadline.com/2026/06/diablo-producers-slate-colombian-co-productions-us-market-1236940739/",
+      "source": "Deadline",
+      "timestamp": "2026-06-04T12:17:53+00:00",
+      "score": 14,
+      "summary": "EXCLUSIVE: A trio of producers are teaming up on a slate of Colombian co-productions aimed at the U.S. and international market. Producers Alvaro Gutierrez (Agora Films), Jason Gurvitz (Green Dog Films), and Nicolas Troya (Troya Films) are launching WildHouse, a new label to h...",
+      "country": "Colombia",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Partners",
+        "Team",
+        "Slate",
+        "Colombian",
+        "CoProductions",
+        "Aimed",
+        "International",
+        "Markets"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Love Island USA Season 8 Reveals Throuple Twist With Bombshells",
+      "link": "https://www.eonline.com/news/1432638/love-island-usa-introduces-throuples?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-06-04T12:16:17+00:00",
+      "score": 15,
+      "summary": "Apparently, three\u2019s not always a crowd. Love Island USA season eight introduced a new twist in the final moments of its premiere episode: throuples. And here\u2019s how it went down. About 24 hours...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Island",
+        "USA",
+        "Season",
+        "Reveals",
+        "Throuple",
+        "Twist",
+        "Bombshells"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "VFX House DNEG, Spain\u2019s SETT Supercharge Canary Islands\u2019 Anima Kitchent With a Multi-Million Investment",
       "link": "https://variety.com/2026/tv/global/dneg-anima-kitchent-sett-zec-canary-islands-animation-1236766555/",
       "source": "Variety",
@@ -46052,81 +46142,6 @@
         "Variety"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Watch Michael Stipe and Andrew Watt Showcase \u2018I Played the Fool\u2019 on \u2018Kimmel\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/michael-stipe-andrew-watt-i-played-the-fool-kimmel-1235571519/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-06-03T06:33:18+00:00",
-      "score": 12,
-      "summary": "The collaborative song appeared during the opening credits of Steve Carell's recent HBO series Rooster",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Michael",
-        "Stipe",
-        "Andrew",
-        "Watt",
-        "Showcase",
-        "Played",
-        "Fool",
-        "Kimmel"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Late Night Wants Trump to Give Peace Talks a Chance",
-      "link": "https://www.nytimes.com/2026/06/03/arts/television/late-night-trump-iran-war-negotiations.html",
-      "source": "NYT",
-      "timestamp": "2026-06-03T06:26:06+00:00",
-      "score": 12,
-      "summary": "\u201cOh, I\u2019m sorry, is wrapping up the war you started not interesting enough?\u201d Michael Kosta said on Tuesday, after the president called negotiations with Iran \u201cboring.\u201d",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Night",
-        "Wants",
-        "Trump",
-        "Give",
-        "Peace",
-        "Talks",
-        "Chance"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ],
