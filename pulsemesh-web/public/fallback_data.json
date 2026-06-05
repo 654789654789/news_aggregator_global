@@ -1,6 +1,44 @@
 {
   "Politics": [
     {
+      "title": "House Passes Ukraine Aid in Defiance of Republican Leaders",
+      "link": "https://www.nytimes.com/2026/06/04/us/politics/house-ukraine-aid-russia-republicans.html",
+      "source": "NYT",
+      "timestamp": "2026-06-05T00:14:15+00:00",
+      "score": 14,
+      "summary": "Eighteen G.O.P. lawmakers broke with their party and joined Democrats to deliver yet another blow to the president\u2019s foreign policy agenda.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Passes",
+        "Ukraine",
+        "Aid",
+        "Defiance",
+        "Republican",
+        "Leaders"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Homicide convictions reversed for paramedics who injected Elijah McClain with ketamine",
       "link": "https://www.pbs.org/newshour/nation/homicide-convictions-reversed-for-paramedics-who-injected-elijah-mcclain-with-ketamine",
       "source": "PBS",
@@ -6584,25 +6622,29 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "London hit by second day of Tube strike disruption",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/03/london-braces-second-day-rmt-tube-strike-disruption",
-      "source": "Guardian",
-      "timestamp": "2026-06-04T06:24:44+00:00",
-      "score": 12,
-      "summary": "No service expected on Circle or Piccadilly lines with Metropolitan and Central lines also badly affected on ThursdayA London Underground drivers\u2019 strike has brought another day of transport disruption to the capital on Thursday.Transport for London (TfL) had urged the RMT uni...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
+      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
+      "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-05T00:06:47+00:00",
+      "score": 14,
+      "summary": "The debut episode, moderated by Founders Fund Chief Marketing Officer Mike Solana, included a star-studded cast of current tech luminaries.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Tube"
+        "Fund",
+        "Sam",
+        "Altman",
+        "Palmer",
+        "Luckey"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6611,15 +6653,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "Guardian"
+        "TechCrunch"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Valve says it\u2019s ready to launch the Steam Machine this summer",
       "link": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
@@ -13141,22 +13181,33 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Meta is reportedly developing an AI pendant",
-      "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "source": "TechCrunch",
-      "timestamp": "2026-05-30T15:59:58+00:00",
+      "title": "House Passes Ukraine Aid, Opposing Republican Leaders",
+      "link": "https://www.nytimes.com/2026/06/04/us/politics/house-ukraine-aid-russia-republicans.html",
+      "source": "NYT",
+      "timestamp": "2026-06-05T00:11:31+00:00",
       "score": 14,
-      "summary": "Meta seems to be making big bets on AI-powered hardware.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "summary": "Eighteen G.O.P. lawmakers broke with their party and joined Democrats to deliver yet another blow to the president\u2019s foreign policy agenda.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Passes",
+        "Ukraine",
+        "Aid",
+        "Opposing",
+        "Republican",
+        "Leaders"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13164,15 +13215,45 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "TechCrunch"
+        "NYT"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Constitution expert Subhash Kashyap dies at 97",
+      "link": "https://timesofindia.indiatimes.com/india/constitution-expert-subhash-kashyap-dies-at-97/articleshow/131518930.cms",
+      "source": "Times of India",
+      "timestamp": "2026-06-05T05:31:39+05:30",
+      "score": 15,
+      "summary": "Renowned constitutional law and parliamentary affairs expert Subhash C Kashyap passed away at 97. Kashyap, a former Lok Sabha secretary general and Padma Bhushan recipient, was a widely consulted authority on parliamentary procedures. His extensive writings on Parliament made ...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Subhash",
+        "Kashyap"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
       "link": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
@@ -19743,22 +19824,29 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Queensland police finance review referred to coruption watchdog",
-      "link": "https://www.abc.net.au/news/2026-06-04/qld-police-report-finance-management/106758400",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-04T04:47:22+00:00",
-      "score": 10,
-      "summary": "An independent review that found Queensland's police service defied government priorities and allocated money to purposes other than what was intended has been referred to the Crime and Corruption Commission.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "South Korea stocks fall 4% as tech heavyweights follow plunge in Wall Street's AI-linked names",
+      "link": "https://www.cnbc.com/2026/06/05/asia-markets-today-nikkei-225-kospi-hang-seng-index-csi-300-nifty50.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-05T00:14:09+00:00",
+      "score": 17,
+      "summary": "Asia-Pacific markets fell on Friday as investors assessed a rotation out of chip stocks on Wall Street that lifted the Dow Jones Industrial Average to a record close.",
+      "country": "South Korea",
+      "region": "East Asia",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Korea",
+        "Wall",
+        "Streets",
+        "AIlinked"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19768,45 +19856,47 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
     {
-      "title": "Breaking: White Australia's bid to remove hate listing dismissed",
-      "link": "https://www.abc.net.au/news/2026-06-04/white-australia-bid-to-remove-hate-listing-dismissed-high-court/106759788",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-04T04:46:33+00:00",
-      "score": 12,
-      "summary": "The High Court has dismissed an application by the group White Australia which had hoped to lift its listing as a \"hate group\" ahead of a formal High Court hearing later in the year.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "Emerging-Market Stocks Sink as Broadcom Miss Revives AI Concerns",
+      "link": "https://www.livemint.com/market/emergingmarket-stocks-sink-as-broadcom-miss-revives-ai-concerns-11780617909949.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-05T05:35:09+05:30",
+      "score": 14,
+      "summary": "Emerging-market equities notched their worst day in roughly three weeks as Asian technology heavyweights retreated after a disappointing outlook from Broadcom Inc. raised concerns about the scale of the artificial-intelligence rally.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "White",
-        "Australias"
+        "Stocks",
+        "Sink",
+        "Broadcom",
+        "Miss",
+        "Revives",
+        "Concerns"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "Livemint"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Asia-Pacific markets set to open subdued after Wall Street's AI-linked stocks slide",
       "link": "https://www.cnbc.com/2026/06/05/asia-markets-today-nikkei-225-kospi-hang-seng-index-csi-300-nifty50.html",
@@ -22447,7 +22537,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.6,
+      "trend_score": 9.5,
       "source_count": 10,
       "sources_reporting": [
         "CNBC",
@@ -22456,7 +22546,7 @@
         "PBS",
         "Reuters"
       ],
-      "trend_accel": "+77%",
+      "trend_accel": "+76%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26240,71 +26330,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Your Social Security check could be cut by $500 a month in 2032, report finds",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSjRkelJITTkzTUEwWmVjT19WdXdGSTFRZGFEajQ5cW1SN1JnZFFiT0dtbjA1SmNjMWdvZnNrbDlxZHc0dmUzeHJjQklNM0gyU3pXeXhYQ3lHX2cydXhQR242bktFa3ZOYnpuOFVQTnNXUkQwUm9MdlRBaWQtY25tUFdwREk5dDNLc2RZMXViSllWdw?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-03T19:21:05+00:00",
-      "score": 15,
-      "summary": "Your Social Security check could be cut by $500 a month in 2032, report finds CBS NewsNo State Spared: Mapping the Impact of Social Security's Insolvency-Wed, 06/03/2026 - 12:00 Committee for a Responsible Federal BudgetAmerica\u2019s Social Security trust fund is disappearing The ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Social",
-        "Security"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "US yields climb on latest flare in Gulf tensions",
-      "link": "https://www.livemint.com/market/us-yields-climb-on-latest-flare-in-gulf-tensions-11780513403041.html",
-      "source": "Livemint",
-      "timestamp": "2026-06-04T00:33:22+05:30",
-      "score": 12,
-      "summary": "USA-BONDS/ (UPDATE 1, GRAPHICS):TREASURIES-US yields climb on latest flare in Gulf tensions",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Gulf"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -26366,7 +26391,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.7,
+      "trend_score": 6.6,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -26374,7 +26399,7 @@
         "NPR",
         "NYT"
       ],
-      "trend_accel": "+61%",
+      "trend_accel": "+60%",
       "heat_level": "HOT"
     },
     {
@@ -38152,6 +38177,46 @@
   ],
   "Entertainment": [
     {
+      "title": "Olivia Rodrigo Was \u201cEnraged\u201d By ICE Video Using Her Song: \u201cSo Deeply Disturbing\u201d",
+      "link": "https://deadline.com/2026/06/olivia-rodrigo-enraged-ice-using-her-song-1236941565/",
+      "source": "Deadline",
+      "timestamp": "2026-06-05T00:08:59+00:00",
+      "score": 12,
+      "summary": "After calling out the DHS last year for using her song, Olivia Rodrigo recently reflected on the experience. The 3x Grammy winner recalled feeling \u201cenraged\u201d at seeing a \u201cdeeply disturbing\u201d ICE propaganda video in November that featured her 2023 song \u2018All-American Bitch\u2019 withou...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Rodrigo",
+        "Was",
+        "Enraged",
+        "ICE",
+        "Video",
+        "Using",
+        "Her",
+        "Song",
+        "Deeply",
+        "Disturbing"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump Makes It Official: The \u2018Freedom 250\u2019 Concerts Are Canceled \u2014 to Be Replaced With \u2018the Greatest Rally EVER!,\u2019 Starring Him and (Surprise) Lee Greenwood",
       "link": "https://variety.com/2026/music/news/trump-cancels-freedom-250-concerts-rally-lee-greenwood-1236767406/",
       "source": "Variety",
@@ -46220,45 +46285,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Jennifer Aniston Makes Rare Comment About Brad Pitt's Friends Cameo",
-      "link": "https://www.eonline.com/news/1432630/jennifer-aniston-comments-on-ex-brad-pitts-friends-cameo?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-06-03T23:36:58+00:00",
-      "score": 12,
-      "summary": "The one where Jennifer Aniston reminisces. The Friends alum\u2014who played Rachel Green on the beloved NBC sitcom\u2014made a rare comment about her ex-husband Brad Pitt while looking back at the show's...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Aniston",
-        "Makes",
-        "Rare",
-        "Comment",
-        "About",
-        "Brad",
-        "Pitts",
-        "Friends",
-        "Cameo"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -50447,6 +50473,104 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.3 - 48 km WNW of Aleneva, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lahsnm",
+      "source": "USGS",
+      "timestamp": "2026-06-05T00:11:34.122000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-05 00:09:42 UTC2026-06-05 00:09:42 UTC at epicenterLocation58.274\u00b0N 153.626\u00b0WDepth63.80 km (39.64 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Aleneva",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.2 - 3 km S of Redwood Valley, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75370986",
+      "source": "USGS",
+      "timestamp": "2026-06-05T00:10:15.389000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-05 00:08:39 UTC2026-06-05 00:08:39 UTC at epicenterLocation39.234\u00b0N 123.206\u00b0WDepth4.53 km (2.81 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Redwood",
+        "Valley"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.8 - 4 km NNE of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74976462",
+      "source": "USGS",
+      "timestamp": "2026-06-05T00:08:30.570000+00:00",
+      "score": 17,
+      "summary": "Time2026-06-05 00:04:53 UTC2026-06-05 00:04:53 UTC at epicenterLocation19.242\u00b0N 155.460\u00b0WDepth31.48 km (19.56 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.7 - 60 km S of Whites City, New Mexico",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026kynkqd",
@@ -56857,104 +56981,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.9 - 71 km SE of Pangai, Tonga",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqf7",
-      "source": "USGS",
-      "timestamp": "2026-06-03T22:22:25.040000+00:00",
-      "score": 17,
-      "summary": "Time2026-06-03 22:00:03 UTC2026-06-03 22:00:03 UTC at epicenterLocation20.284\u00b0S 173.888\u00b0WDepth10.00 km (6.21 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pangai",
-        "Tonga"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 46 km SE of West Yellowstone, Montana",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80141546",
-      "source": "USGS",
-      "timestamp": "2026-06-03T22:08:19.010000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-03 21:47:26 UTC2026-06-03 21:47:26 UTC at epicenterLocation44.386\u00b0N 110.667\u00b0WDepth2.31 km (1.44 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "West",
-        "Yellowstone",
-        "Montana"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.4 - 58 km WNW of Anderson, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026kyhccs",
-      "source": "USGS",
-      "timestamp": "2026-06-03T21:53:07.975000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-03 21:51:29 UTC2026-06-03 21:51:29 UTC at epicenterLocation64.487\u00b0N 150.352\u00b0WDepth11.00 km (6.84 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Anderson",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ]
