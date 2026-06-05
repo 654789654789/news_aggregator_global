@@ -13230,6 +13230,66 @@
   ],
   "World": [
     {
+      "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+      "link": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-06-05T21:35:55+00:00",
+      "score": 14,
+      "summary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ISS"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Whitsunday home owners in the dark over cable-car project",
+      "link": "https://www.abc.net.au/news/2026-06-06/skyway-advanced-stage-approvals-whitsunday/106763318",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-05T21:31:29+00:00",
+      "score": 10,
+      "summary": "Approvals for the 1.8-kilometre Skyway in Airlie Beach are set to be fast-tracked, but locals say consultation with the developer has been limited.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "SpaceX signs $30bn deal to lease computing capacity to Google",
       "link": "https://www.ft.com/content/77982a06-7d75-45a4-a64f-f8dc89a6a626",
       "source": "FT",
@@ -19717,23 +19777,28 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Police searching for teens after homeless man stabbed in Bendigo overnight",
-      "link": "https://www.abc.net.au/news/2026-06-05/homeless-man-stabbed-bendigo-youth-crime-police-investigate/106762450",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-04T22:27:05+00:00",
-      "score": 12,
-      "summary": "Police say the man stumbled into a sports bar with stab wounds and collapsed.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "US stocks slump as fears over Big Tech shake Wall Street",
+      "link": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-06-05T21:38:13+00:00",
+      "score": 14,
+      "summary": "The Nasdaq saw its biggest daily fall since early 2025.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
       "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Bendigo"
+        "Big",
+        "Tech",
+        "Wall",
+        "Street"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19744,45 +19809,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "BBC"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
     },
-    {
-      "title": "US sanctions Cuban president and Castro relatives in latest pressure campaign",
-      "link": "https://www.france24.com/en/americas/20260604-us-sanctions-cuban-president-and-castro-relatives-in-latest-pressure-campaign",
-      "source": "France24",
-      "timestamp": "2026-06-04T22:26:10+00:00",
-      "score": 14,
-      "summary": "US President Donald Trump has ramped up pressure on the island in recent months and has discussed taking the country over.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Cuban",
-        "Castro"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Marvell gets a spot in the S&P 500 \u2014 along with this data-center play",
       "link": "https://www.marketwatch.com/story/an-s-p-500-shakeup-is-hours-away-these-stocks-could-soon-earn-spots-in-the-index-a9b64d67?mod=mw_rss_topstories",
@@ -26294,38 +26325,6 @@
       ],
       "trend_accel": "+85%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "AVI Polymers board approves issuance of bonus equity shares in 1:10 ratio. Check details",
-      "link": "https://www.livemint.com/market/stock-market-news/avi-polymers-board-approves-issuance-of-bonus-equity-shares-in-1-10-ratio-check-details-11780589939908.html",
-      "source": "Livemint",
-      "timestamp": "2026-06-04T21:55:43+05:30",
-      "score": 17,
-      "summary": "The company is proposing to issue 94.08 lakh bonus equity shares (or approximately 0.94 crore shares) under the 1:10 bonus issue. The bonus shares are expected to be credited or dispatched within two months from the date of board approval.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Polymers",
-        "Check"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -38348,23 +38347,32 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Sorsby bet on IU at least 40 times as Hoosiers QB",
-      "link": "https://www.espn.com/college-football/story/_/id/48909854/sorsby-placed-least-40-bets-indiana-football-hoosiers-qb",
-      "source": "ESPN",
-      "timestamp": "2026-05-29T16:38:07-05:00",
-      "score": 15,
-      "summary": "Brendan Sorsby placed at least 40 bets involving Indiana football as a QB for the Hoosiers and used sportsbook accounts registered to a family member and friends to wager approximately $90,000 over four years, according to court documents filed Friday.",
+      "title": "TV Ratings: NBA, NHL Get Big Starts for Championship Series",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/nba-finals-nhl-stanley-cup-game-1-ratings-abc-1236614985/",
+      "source": "THR",
+      "timestamp": "2026-06-05T21:37:21+00:00",
+      "score": 12,
+      "summary": "The opening games of both matchups hit multi-year highs for ABC.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Sports Publication",
+      "source_type": "Entertainment",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Hoosiers"
+        "Ratings",
+        "NBA",
+        "NHL",
+        "Get",
+        "Big",
+        "Starts",
+        "Championship",
+        "Series"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -38375,27 +38383,77 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "ESPN"
+        "THR"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
     },
     {
-      "title": "Big 12 first P4 conference in full CSC agreement",
-      "link": "https://www.espn.com/college-football/story/_/id/48913026/big-12-first-power-conference-full-csc-participation",
-      "source": "ESPN",
-      "timestamp": "2026-05-29T16:38:07-05:00",
-      "score": 17,
-      "summary": "The Big 12 is becoming the first Power Four conference to have each of its members sign participation agreements with the College Sports Commission.",
+      "title": "\u2018Teenage Mutant Ninja Turtles\u2019 Game \u2018The Last Ronin\u2019 Unveiled by Paramount Games Studio",
+      "link": "https://variety.com/2026/gaming/news/teenage-mutant-ninja-turtles-last-ronin-game-trailer-1236768243/",
+      "source": "Variety",
+      "timestamp": "2026-06-05T21:33:00+00:00",
+      "score": 12,
+      "summary": "Paramount Games Studio brought its turtle power to Summer Game Fest Friday with the reveal of the combined Paramount-Skydance in-house studio\u2019s first project: \u201cTeenage Mutant Ninja Turtles: The Last Ronin.\u201d Developed by Platinum Games and published by Paramount Games Studio, \u201c...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Sports Publication",
+      "source_type": "Entertainment",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "CSC"
+        "Mutant",
+        "Ninja",
+        "Turtles",
+        "Game",
+        "Last",
+        "Ronin",
+        "Unveiled",
+        "Paramount",
+        "Games",
+        "Studio"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018The Pitt\u2019 Makeup Head Unpacks the Show\u2019s Goriest Moments, From a Bloody Head Flap to Tongue Lacerations",
+      "link": "https://variety.com/2026/tv/news/the-pitt-makeup-gore-bloody-head-flap-tongue-lacerations-1236767707/",
+      "source": "Variety",
+      "timestamp": "2026-06-05T21:31:03+00:00",
+      "score": 12,
+      "summary": "\u201cThe Pitt\u2019s\u201d department head makeup artist Myriam Arougheti knew that after the success of the show\u2019s first season, she would have to step things up a notch for season 2. The first season featured heart attacks, third-degree burns and an emergency thoracotomy. For Season 2, th...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pitt",
+        "Makeup",
+        "Head",
+        "Unpacks",
+        "Shows",
+        "Goriest",
+        "Moments",
+        "Bloody",
+        "Flap",
+        "Tongue",
+        "Lacerations"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -38406,13 +38464,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "ESPN"
+        "Variety"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
     {
       "title": "15 Best New Movies to Streaming in June 2026: \u2018Avatar: Fire and Ash,\u2019 \u2018Hoppers,\u2019 \u2018Forbidden Fruits\u2019 and More",
       "link": "https://variety.com/lists/best-movies-streaming-june-2026/",
@@ -46215,129 +46271,46 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Gigi Hadid's Necklace Has Bradley Cooper Written All Over It",
-      "link": "https://www.eonline.com/news/1432666/gigi-hadids-bradley-cooper-gold-dog-tag-necklace-cost-more-details?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-06-04T21:04:08+00:00",
-      "score": 12,
-      "summary": "Gigi Hadid is just that into Bradley Cooper. The supermodel proved her and the American Sniper star\u2019s three-year romance is stronger than ever with a flashy new piece of bling hanging from her...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hadids",
-        "Necklace",
-        "Has",
-        "Bradley",
-        "Cooper",
-        "Written",
-        "All",
-        "Over"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Stop! That! Train!\u2019 Director Calls Claims He Used AI To Make Film \u201cPatently Not True\u201d",
-      "link": "https://deadline.com/2026/06/stop-that-train-director-claims-used-ai-patently-not-true-1236941356/",
-      "source": "Deadline",
-      "timestamp": "2026-06-04T21:01:28+00:00",
-      "score": 14,
-      "summary": "As Stop! That! Train! prepares for its Pride Month arrival, director Adam Shankman is addressing online rumors about the ensemble action comedy. On Tuesday, Shankman called claims that he used generative AI to make the film \u201cpatently not true,\u201d urging fans to \u201cget out there an...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "That",
-        "Train",
-        "Director",
-        "Calls",
-        "Claims",
-        "Used",
-        "Make",
-        "Film",
-        "Patently",
-        "Not",
-        "True"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "New \u201960 Minutes\u2019 EP Nick Bilton Praises Remaining Correspondents and Pledges \u201cJournalistic Independence\u201d in Memo to Staff",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/new-60-minutes-producer-nick-bilton-independence-cbs-1236614117/",
-      "source": "THR",
-      "timestamp": "2026-06-04T20:59:23+00:00",
-      "score": 17,
-      "summary": "Bilton sent the memo amid a tumultuous week for the venerable newsmagazine.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Minutes",
-        "Nick",
-        "Bilton",
-        "Praises",
-        "Remaining",
-        "Correspondents",
-        "Pledges",
-        "Journalistic",
-        "Independence",
-        "Memo",
-        "Staff"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
+    {
+      "title": "The Best Cotton Dresses to Wear All Summer Long",
+      "link": "https://www.vogue.com/article/best-cotton-dresses",
+      "source": "Vogue",
+      "timestamp": "2026-06-05T21:31:44+00:00",
+      "score": 12,
+      "summary": "Our favorite way to beat the heat? With the best cotton dresses. Shop the edit, with pieces from Toteme, J.Crew, Faithfull, and more.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Best",
+        "Cotton",
+        "Dresses",
+        "Wear",
+        "All",
+        "Summer",
+        "Long"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Vogue"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Chanel and Tribeca Celebrated the Power of Storytelling and Another Year of the Through Her Lens Program",
       "link": "https://www.vogue.com/slideshow/chanel-tribeca-through-her-lens-luncheon-2026",
@@ -50417,46 +50390,6 @@
         "The Hindu"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The Night Belonged To New York For Jacques Marie Mage\u2019s SoHo Gallery Opening",
-      "link": "https://www.vogue.com/slideshow/jacques-marie-mage-soho-new-york",
-      "source": "Vogue",
-      "timestamp": "2026-05-29T21:31:32+00:00",
-      "score": 12,
-      "summary": "As the city livens up for summer, there\u2019s no neighborhood buzzier than SoHo. On Thursday, it was particularly jam-packed for the opening of Jacques Marie Mage\u2019s highly anticipated \u2018gallery\u2019 on Wooster Street.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Night",
-        "Belonged",
-        "New",
-        "York",
-        "Jacques",
-        "Marie",
-        "Mages",
-        "SoHo",
-        "Gallery",
-        "Opening"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ],
