@@ -4816,7 +4816,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.5,
+      "trend_score": 9.4,
       "source_count": 15,
       "sources_reporting": [
         "Bloomberg",
@@ -6685,6 +6685,38 @@
     }
   ],
   "Tech": [
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-06T20:32:24+00:00",
+      "score": 14,
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lockdown",
+        "Mode"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "The first Story-Rich showcase was packed with narrative-driven games",
       "link": "https://www.theverge.com/games/944406/fellow-traveller-story-rich-showcase-2026-announcements-trailers",
@@ -13181,26 +13213,25 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Asus gives the ROX Xbox Ally the OLED screen it deserves",
-      "link": "https://arstechnica.com/gaming/2026/06/asus-gives-the-rox-xbox-ally-the-oled-screen-it-deserves/",
-      "source": "Ars",
-      "timestamp": "2026-06-01T16:04:45+00:00",
+      "title": "Senegal's ousted PM Sonko re-elected head of his political party",
+      "link": "https://www.france24.com/en/africa/20260606-senegal-s-ousted-pm-sonko-re-elected-head-of-his-political-party",
+      "source": "France24",
+      "timestamp": "2026-06-06T20:38:23+00:00",
       "score": 12,
-      "summary": "But the hardware refresh is tethered to a bundle with pricey AR glasses.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "Ousmane Sonko, who was sacked as Senegal's prime minister after a falling-out with President Bassirou Diomaye Faye, was re-elected Saturday as head of his Pan-African Pastef party. Sonko was also elected president of the country's National Assembly shortly after his dismissal ...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "ROX",
-        "Xbox",
-        "Ally",
-        "OLED"
+        "Sonko"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13209,19 +13240,47 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 10,
+      "source_count": 4,
       "sources_reporting": [
-        "Ars",
-        "Bloomberg",
-        "NPR",
-        "Reuters",
-        "Verge"
+        "France24"
       ],
-      "trend_accel": "+72%",
-      "heat_level": "SURGING"
-    }
-  ],
-  "World": [
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Screwworm border closure fuels beef boom in Mexico, gloom in Texas",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdE5LM1VqUi0yQjIyc1ZaajRpcV9vak5BWkh6LUMzVHFmRUFtMHNubEJTRkh1OTlOWk5KS3FqNFZvOW90OERycHE5WVN5cXFIbVo5bVp5QkttYU1jRUJkRm1tYXQ4dXVWQkhwLTlQU1MxRHVrSlY3elAxM0VHb3RXOExtNGxIYW44a0xCcUtNMTdhRW9mdGJnQlpvMXpfQkZFdUZyWUdrTUZZQkRNQnNz?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-06-06T20:33:39+00:00",
+      "score": 12,
+      "summary": "Screwworm border closure fuels beef boom in Mexico, gloom in Texas Reuters",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Mexico",
+        "Texas"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Russian teen Andreeva wins French Open to claim first major title",
       "link": "https://www.abc.net.au/news/2026-06-07/mirra-andreeva-maja-chwalinska-french-open-final/106769162",
@@ -15057,7 +15116,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.7,
+      "trend_score": 10.6,
       "source_count": 18,
       "sources_reporting": [
         "ABC Australia",
@@ -19823,75 +19882,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Ukrainian marine drone explodes at Romanian port",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/ukrainian-marine-drone-explodes-at-romanian-port?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-06-05T13:22:40+00:00",
-      "score": 14,
-      "summary": "A malfunctioning Ukrainian naval drone has caused an explosion at a key Black Sea port in Romania.",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Romanian"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Al Jazeera"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Hopes of Lebanon Cease-fire Falter as Israel and Hezbollah Fight On",
-      "link": "https://www.nytimes.com/2026/06/05/world/middleeast/lebanon-cease-fire-israel-hezbollah.html",
-      "source": "NYT",
-      "timestamp": "2026-06-05T13:04:44+00:00",
-      "score": 12,
-      "summary": "The U.S.-brokered agreement requires Hezbollah, which Iran backs, to stop firing first. But the group, not party to the talks, rejected the conditions as a virtual surrender.",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Lebanon",
-        "Ceasefire",
-        "Falter",
-        "Israel",
-        "Hezbollah",
-        "Fight"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -22223,7 +22213,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.5,
+      "trend_score": 10.4,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -51005,6 +50995,38 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.5 - 19 km NW of Westbrook, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026lbyaxc",
+      "source": "USGS",
+      "timestamp": "2026-06-06T20:40:25.827000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-06 20:29:38 UTC2026-06-06 20:29:38 UTC at epicenterLocation32.471\u00b0N 101.176\u00b0WDepth1.68 km (1.04 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Westbrook",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 0.6 - 21 km E of Little Lake, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41481672",
       "source": "USGS",
@@ -57420,37 +57442,6 @@
         "ReliefWeb"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 8 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75371266",
-      "source": "USGS",
-      "timestamp": "2026-06-05T13:57:23.969000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-05 13:26:04 UTC2026-06-05 13:26:04 UTC at epicenterLocation38.830\u00b0N 122.815\u00b0WDepth1.71 km (1.06 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
       "heat_level": "LOW"
     }
   ]
