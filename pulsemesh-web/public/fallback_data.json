@@ -19891,6 +19891,40 @@
   ],
   "Business": [
     {
+      "title": "Sorry, I\u2019m Not Available. Talk to the A.I. Version of Me.",
+      "link": "https://www.nytimes.com/2026/06/06/business/dealbook/ai-digital-twin.html",
+      "source": "NYT",
+      "timestamp": "2026-06-07T00:19:58+00:00",
+      "score": 14,
+      "summary": "The hot new productivity hack for C.E.O.s and Harvard professors? A.I. twins that answer questions and attend meetings.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Not",
+        "Available",
+        "Talk",
+        "Version"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Bouygues-led consortium signs $23.44 billion deal to buy SFR from Altice France",
       "link": "https://www.cnbc.com/2026/06/06/bouygues-led-consortium-signs-23point44-billion-deal-to-buy-sfr-from-altice-france.html",
       "source": "CNBC",
@@ -26426,41 +26460,38 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "A war-weary Treasury market faces a fresh test with Friday\u2019s jobs report",
-      "link": "https://www.marketwatch.com/story/a-war-weary-treasury-market-faces-a-fresh-test-with-fridays-jobs-report-73789d8a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-06-04T21:05:00+00:00",
-      "score": 14,
-      "summary": "The new worry on Wall Street is that investors are simply losing patience and demanding higher compensation to lend money to the U.S. government.",
+      "title": "Black teachers improve outcomes for all students, but the profession remains largely white",
+      "link": "https://phys.org/news/2026-06-black-teachers-outcomes-students-largely.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-06T20:30:03-04:00",
+      "score": 12,
+      "summary": "Having Black teachers and other educators of color improves students' classroom experiences, research shows. They often serve as role models, set high academic expectations and teach material that connects to students' lives outside of schools.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Treasury",
-        "Fridays"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "MarketWatch"
+        "Phys.org"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Medieval pandemic left a hidden legacy in Europe's oldest trees",
       "link": "https://phys.org/news/2026-06-medieval-pandemic-left-hidden-legacy.html",
@@ -28058,7 +28089,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.2,
+      "trend_score": 10.1,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -28068,7 +28099,7 @@
         "PBS",
         "Phys.org"
       ],
-      "trend_accel": "+76%",
+      "trend_accel": "+75%",
       "heat_level": "CRITICAL"
     },
     {
@@ -32654,22 +32685,28 @@
       ],
       "trend_accel": "+62%",
       "heat_level": "HOT"
-    },
+    }
+  ],
+  "Sports": [
     {
-      "title": "Dogs respond to human tone without words, hinting at communication older than language",
-      "link": "https://phys.org/news/2026-06-dogs-human-tone-words-hinting.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-03T16:30:01-04:00",
-      "score": 10,
-      "summary": "Humans can communicate various instructions to dogs without using actual words\u2014simply by modulating the tone of their voice, a new study from ELTE University's Department of Ethology shows. By repeating the nonsense syllable 'b\u00fc' in different intonations, humans successfully s...",
+      "title": "Derby winner Golden Tempo wins at Belmont",
+      "link": "https://www.espn.com/horse-racing/story/_/id/48987082/kentucky-derby-winner-golden-tempo-wins-belmont-stakes",
+      "source": "ESPN",
+      "timestamp": "2026-06-06T20:29:21-05:00",
+      "score": 12,
+      "summary": "Golden Tempo captured the third leg of the Triple Crown five weeks after winning the Kentucky Derby, making more history for trainer Cherie DeVaux.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Golden",
+        "Tempo",
+        "Belmont"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -32679,13 +32716,44 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Phys.org"
+        "ESPN"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Yankees catcher Wells joins Stanton, Judge on IL",
+      "link": "https://www.espn.com/mlb/story/_/id/48987331/yankees-put-austin-wells-il-cervical-headaches",
+      "source": "ESPN",
+      "timestamp": "2026-06-06T20:29:20-05:00",
+      "score": 12,
+      "summary": "Yankees catcher Austin Wells, suffering from cervical headaches while in the midst of a seasonlong slump, joined Aaron Judge and Giancarlo Stanton on the injured list.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Wells",
+        "Stanton",
+        "Judge"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ESPN"
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Sports": [
+    },
     {
       "title": "Inside the strenuous journey of NBA Finals balls",
       "link": "https://www.espn.com/nba/story/_/id/48969516/why-all-30-nba-teams-get-wilson-finals-basketballs",
@@ -33089,7 +33157,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.4,
+      "trend_score": 7.3,
       "source_count": 11,
       "sources_reporting": [
         "Bloomberg",
@@ -33097,7 +33165,7 @@
         "NPR",
         "Reuters"
       ],
-      "trend_accel": "+65%",
+      "trend_accel": "+64%",
       "heat_level": "HOT"
     },
     {
@@ -38651,6 +38719,49 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Benito Skinner Teases \u2018Overcompensating\u2019 Season 2 Has \u201cA Maturity To It\u201d & \u201cFeels More Queer\u201d As Benny Ventures Out Of The Closet",
+      "link": "https://deadline.com/2026/06/benito-skinner-teases-overcompensating-season-2-maturity-1236942890/",
+      "source": "Deadline",
+      "timestamp": "2026-06-07T00:28:29+00:00",
+      "score": 15,
+      "summary": "Benito Skinner is previewing the forthcoming second season of Prime Video\u2019s Overcompensating. The semi-autobiographical dramedy \u2014 centering on his titular character, a closeted jock who becomes fast friends with outsider Carmen (Wally Baram) during their freshman year of colle...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Skinner",
+        "Teases",
+        "Overcompensating",
+        "Season",
+        "Has",
+        "Maturity",
+        "Feels",
+        "More",
+        "Queer",
+        "Benny",
+        "Ventures",
+        "Out",
+        "Closet"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Mineshaft: The Cruising Murders\u2019 Review: An Engrossing if Incohesive Dive Into William Friedkin\u2019s Gay S&M Thriller and Its Surrounding Controversy",
       "link": "https://www.hollywoodreporter.com/movies/movie-reviews/mineshaft-the-cruising-murders-review-william-friedkin-1236612942/",
@@ -46665,46 +46776,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "SDSA TV Awards Nominations: \u2018Euphoria,\u2019 \u2018Stranger Things,\u2019 \u2018Pluribus,\u2019 \u2018Bridgerton,\u2019 \u2018Outlander,\u2019 \u2018SNL\u2019 & More",
-      "link": "https://deadline.com/2026/06/sdsa-tv-awards-nominations-1236940931/",
-      "source": "Deadline",
-      "timestamp": "2026-06-05T13:00:00+00:00",
-      "score": 12,
-      "summary": "The Set Decorators Society of America is out with the nominees for its 2025-26 SDSA Awards for Television, which recognizes a number of series that wrapped in recent months. The list includes such shows as Euphoria, Stranger Things, Hacks, Outlander, The Boys, For All Mankind ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Awards",
-        "Nominations",
-        "Euphoria",
-        "Stranger",
-        "Things",
-        "Pluribus",
-        "Bridgerton",
-        "Outlander",
-        "SNL",
-        "More"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -51102,6 +51173,70 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 11 km N of Meadow Lakes, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026leaatz",
+      "source": "USGS",
+      "timestamp": "2026-06-07T00:19:20.917000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-07 00:17:55 UTC2026-06-07 00:17:55 UTC at epicenterLocation61.729\u00b0N 149.592\u00b0WDepth33.90 km (21.06 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Meadow",
+        "Lakes",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 7 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75372116",
+      "source": "USGS",
+      "timestamp": "2026-06-07T00:16:14.589000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-07 00:14:40 UTC2026-06-07 00:14:40 UTC at epicenterLocation38.826\u00b0N 122.808\u00b0WDepth2.73 km (1.70 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+61%",
       "heat_level": "LOW"
     },
     {
@@ -57487,71 +57622,6 @@
         "USGS"
       ],
       "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.8 - 46 km SSW of Skwentna, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lbnjuz",
-      "source": "USGS",
-      "timestamp": "2026-06-05T16:01:13.009000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-05 15:59:15 UTC2026-06-05 15:59:15 UTC at epicenterLocation61.589\u00b0N 151.626\u00b0WDepth86.40 km (53.69 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Skwentna",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.6 - 187 km SE of Chignik, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lbnajy",
-      "source": "USGS",
-      "timestamp": "2026-06-05T15:52:33.663000+00:00",
-      "score": 15,
-      "summary": "ShakeMap - ITime2026-06-05 15:48:05 UTC2026-06-05 15:48:05 UTC at epicenterLocation55.049\u00b0N 156.391\u00b0WDepth21.20 km (13.17 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chignik",
-        "Alaska"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ]
