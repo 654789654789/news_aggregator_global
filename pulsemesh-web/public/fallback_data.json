@@ -1278,7 +1278,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.6,
+      "trend_score": 9.5,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -1287,7 +1287,7 @@
         "NYT",
         "PBS"
       ],
-      "trend_accel": "+81%",
+      "trend_accel": "+80%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13236,6 +13236,48 @@
   ],
   "World": [
     {
+      "title": "Palestinian baby killed by Israeli gunfire in occupied West Bank, health ministry says",
+      "link": "https://www.abc.net.au/news/2026-06-07/israeli-troops-kill-7-month-old-baby-in-west-bank/106769440",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-07T01:16:15+00:00",
+      "score": 12,
+      "summary": "Israeli troops shot at a car in the occupied West Bank, killing a seven-month-old baby and wounding his parents, the Palestinian health ministry says.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Israeli",
+        "West",
+        "Bank"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 10.8,
+      "source_count": 18,
+      "sources_reporting": [
+        "ABC Australia",
+        "Al Jazeera",
+        "BBC",
+        "NPR",
+        "NYT",
+        "PBS",
+        "Reuters",
+        "The Hindu"
+      ],
+      "trend_accel": "+82%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Australia turns its attention to FIFA World Cup after practice games",
       "link": "https://www.abc.net.au/news/2026-06-07/time-for-australia-s-fifa-world-cup-campaign-to-begin/106769422",
       "source": "ABC Australia",
@@ -14614,8 +14656,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 10.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 19,
       "sources_reporting": [
         "AP",
@@ -14902,8 +14944,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 19,
       "sources_reporting": [
         "Al Jazeera",
@@ -14984,18 +15026,20 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 11,
+      "trending": true,
+      "trend_score": 10.6,
+      "source_count": 13,
       "sources_reporting": [
+        "ABC Australia",
         "Al Jazeera",
+        "BBC",
         "BBC",
         "NPR",
         "NYT",
         "PBS",
         "The Hindu"
       ],
-      "trend_accel": "+82%",
+      "trend_accel": "+83%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19848,43 +19892,6 @@
         "Guardian"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Crown Princess Mette-Marit of Norway Is Placed on Lung Transplant List",
-      "link": "https://www.nytimes.com/2026/06/05/world/europe/norway-princess-lung-transplant.html",
-      "source": "NYT",
-      "timestamp": "2026-06-05T15:48:11+00:00",
-      "score": 12,
-      "summary": "News of Crown Princess Mette-Marit\u2019s worsening condition comes as a number of scandals have plunged the royal family into a deep crisis.",
-      "country": "Norway",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Princess",
-        "MetteMarit",
-        "Norway",
-        "Placed",
-        "Lung",
-        "Transplant",
-        "List"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ],
