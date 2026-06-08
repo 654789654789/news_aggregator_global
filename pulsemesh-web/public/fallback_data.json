@@ -1,6 +1,46 @@
 {
   "Politics": [
     {
+      "title": "Live updates: Trump heading to NBA Finals Game 3 in New York; Israel, Iran pull back on attacks",
+      "link": "https://thehill.com/homenews/administration/5913710-live-updates-donald-trump-iran-israel-nba-finals/",
+      "source": "The Hill",
+      "timestamp": "2026-06-08T21:37:01+00:00",
+      "score": 15,
+      "summary": "President Trump on Monday evening will head into New York City to catch Game 3 of the NBA Finals between the New York Knicks and the San Antonio Spurs. Heightened security caused an abrupt change to the city\u2019s watch party plans, forcing them into Bryant Park from outside Madis...",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Trump",
+        "NBA",
+        "Finals",
+        "Game",
+        "New",
+        "York",
+        "Israel",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump Nominates Blanche for Attorney General, Setting Up Confirmation Fight",
       "link": "https://www.nytimes.com/2026/06/08/us/politics/trump-todd-blanche-attorney-general.html",
       "source": "NYT",
@@ -6545,44 +6585,87 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "BJP announces candidates from Karnataka, Madhya Pradesh for Rajya Sabha polls",
-      "link": "https://www.thehindu.com/news/national/bjp-announces-candidates-from-karnataka-madhya-pradesh-for-rajya-sabha-polls/article71075054.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-08T08:38:46+05:30",
-      "score": 12,
-      "summary": "The Rajya Sabha polls for 24 seats in 10 States, including Arunachal Pradesh, Gujarat, Madhya Pradesh, Rajasthan, Manipur and Karnataka, will be held on June 18",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "OpenAI files for IPO, following Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+      "source": "Verge",
+      "timestamp": "2026-06-08T17:38:29-04:00",
+      "score": 14,
+      "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropi...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Karnataka",
-        "Madhya",
-        "Pradesh",
-        "Rajya",
-        "Sabha"
+        "IPO",
+        "Anthropic"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 11.5,
+      "source_count": 13,
       "sources_reporting": [
-        "The Hindu"
+        "Bloomberg",
+        "Guardian",
+        "NPR",
+        "TechCrunch",
+        "Verge",
+        "Wired"
       ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+      "trend_accel": "+85%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+      "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+      "source": "Wired",
+      "timestamp": "2026-06-08T21:31:58+00:00",
+      "score": 14,
+      "summary": "The ChatGPT maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Confidentially",
+        "Files",
+        "IPO",
+        "Heels",
+        "SpaceX",
+        "Anthropic"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 10.7,
+      "source_count": 14,
+      "sources_reporting": [
+        "BBC",
+        "Bloomberg",
+        "Reuters",
+        "TechCrunch",
+        "Verge",
+        "Wired"
+      ],
+      "trend_accel": "+84%",
+      "heat_level": "CRITICAL"
+    },
     {
       "title": "Following Anthropic, OpenAI files confidentially for IPO",
       "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
@@ -6607,14 +6690,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 11.5,
+      "source_count": 17,
       "sources_reporting": [
-        "TechCrunch"
+        "Guardian",
+        "NPR",
+        "Reuters",
+        "TechCrunch",
+        "Verge",
+        "Wired"
       ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
+      "trend_accel": "+84%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Polymarket and Kalshi Say Influencer Partners Can't Deny Election Results, Actually",
@@ -7088,8 +7176,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "AP",
@@ -7376,8 +7464,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "Guardian",
@@ -7822,8 +7910,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "NHK",
@@ -13103,78 +13191,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Meta\u2019s AI agent for WhatsApp Business is now available globally",
-      "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-      "source": "TechCrunch",
-      "timestamp": "2026-06-03T13:40:00+00:00",
-      "score": 14,
-      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WhatsApp",
-        "Business"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 15,
-      "sources_reporting": [
-        "AP",
-        "Bloomberg",
-        "NPR",
-        "TechCrunch",
-        "Verge"
-      ],
-      "trend_accel": "+68%",
-      "heat_level": "SURGING"
-    },
-    {
-      "title": "A first look at Microsoft\u2019s Surface Laptop Ultra and Surface Dev Box",
-      "link": "https://www.theverge.com/tech/941600/microsoft-surface-laptop-ultra-dev-box-hands-on",
-      "source": "Verge",
-      "timestamp": "2026-06-03T09:22:17-04:00",
-      "score": 12,
-      "summary": "Microsoft has two new Surface devices arriving later this year, both powered by Nvidia's RTX Spark chips. I got a chance to take a closer look at both the Surface Laptop Ultra and Surface RTX Spark Dev Box at Microsoft's Build conference this week, and while both have the same...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Microsofts",
-        "Surface",
-        "Laptop",
-        "Ultra",
-        "Dev",
-        "Box"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "World": [
@@ -17900,7 +17916,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.6,
+      "trend_score": 11.5,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -17912,7 +17928,7 @@
         "PBS",
         "The Hindu"
       ],
-      "trend_accel": "+88%",
+      "trend_accel": "+87%",
       "heat_level": "CRITICAL"
     },
     {
@@ -20044,6 +20060,35 @@
     }
   ],
   "Business": [
+    {
+      "title": "Your tech portfolio could be on the wrong side of the AI boom",
+      "link": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-06-08T21:44:00+00:00",
+      "score": 14,
+      "summary": "Why the coming $1,000 videogame console will squeeze hardware stocks.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "OpenAI confidentially files for IPO, prepping Wall Street for mega AI debut",
       "link": "https://www.cnbc.com/2026/06/08/openai-confidentially-files-for-ipo-prepping-wall-street-for-ai-debut.html",
@@ -26707,26 +26752,26 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "U.S. eyes Iranian assets for Gulf allies' reconstruction, source says",
-      "link": "https://www.cnbc.com/2026/06/06/us-attacks-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-06T22:29:40+00:00",
-      "score": 12,
-      "summary": "U.S. Treasury Secretary Scott Bessent has also directed a team to assess the costs of damage already inflicted on Gulf allies by Iran, Reuters reported.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "'From STEM to earn': High school programs aimed at diversifying the field drive gains in college, salaries",
+      "link": "https://phys.org/news/2026-06-stem-high-school-aimed-diversifying.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-08T17:40:09-04:00",
+      "score": 14,
+      "summary": "High school students participating in pipeline programs aimed at increasing diversity in STEM fields are more likely to enroll in\u2014and graduate from\u2014elite colleges with a related degree. In addition, such improvements raised their predicted earnings by anywhere from 3% to 15%, ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Iranian",
-        "Gulf"
+        "STEM",
+        "High"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26737,13 +26782,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Magnon momentum microscopy: A new window into nanoscale spin-wave physics",
       "link": "https://phys.org/news/2026-06-magnon-momentum-microscopy-window-nanoscale.html",
@@ -30108,7 +30151,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.9,
+      "trend_score": 9.8,
       "source_count": 11,
       "sources_reporting": [
         "BBC",
@@ -32855,23 +32898,26 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Sports": [
     {
-      "title": "Climate vulnerable residents in Nigeria are creating makeshift adaptation systems",
-      "link": "https://phys.org/news/2026-06-climate-vulnerable-residents-nigeria-makeshift.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-04T15:20:02-04:00",
+      "title": "World Cup ref from Somalia denied entry to U.S.",
+      "link": "https://www.espn.com/soccer/story/_/id/49002985/somali-referee-world-cup-denied-entry-united-states",
+      "source": "ESPN",
+      "timestamp": "2026-06-08T17:08:33-05:00",
       "score": 12,
-      "summary": "Residents in informal settlements in Lagos\u2014who are among the most vulnerable to climate change\u2014have developed sophisticated, multi-scale climate adaptation systems and are earning a living from climate action, a new study by Brianna Castro, assistant professor of urban sustain...",
-      "country": "Nigeria",
-      "region": "Africa",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
+      "summary": "Somali referee Omar Artan has been denied entry into the United States after getting selected to officiate in the World Cup.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Nigeria"
+        "Cup",
+        "Somalia"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -32880,15 +32926,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "Phys.org"
+        "ESPN"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Sports": [
+    },
     {
       "title": "QB battles, rookies, more from NFL minicamps",
       "link": "https://www.espn.com/nfl/story/_/id/48988004/2026-nfl-minicamps-otas-teams-rookies-qbs-veterans-watching",
@@ -39248,6 +39292,48 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Mineshaft: The Cruising Murders\u2019 Review: Compelling Documentary Probes the Legacy of William Friedkin\u2019s Infamous Queer Thriller",
+      "link": "https://variety.com/2026/film/reviews/mineshaft-the-cruising-murders-review-1236769648/",
+      "source": "Variety",
+      "timestamp": "2026-06-08T21:40:01+00:00",
+      "score": 12,
+      "summary": "The legacy of William Friedkin\u2019s 1980 erotic thriller \u201cCruising\u201d is a complex one. A film long vehemently denounced by the queer community it purported to represent, and more recently reclaimed as a rare mainstream portrait of a vanished social scene, it is many things to many...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cruising",
+        "Murders",
+        "Review",
+        "Compelling",
+        "Documentary",
+        "Probes",
+        "Legacy",
+        "William",
+        "Friedkins",
+        "Infamous",
+        "Queer",
+        "Thriller"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Former DoJ Antitrust Attorneys Slam Live Nation-Ticketmaster Settlement: \u2018It Is Deeply Troubling That the Antitrust Division Is Engaged in Selective Non-Prosecution of Political Allies\u2019",
       "link": "https://variety.com/2026/music/news/doj-antitrust-attorneys-slam-live-nation-ticketmaster-settlement-1236769787/",
@@ -47135,51 +47221,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Ariana Grande Makes Her Audience Wish \u2018Sunshine\u2019 Really Was Eternal in Bravura Oakland Tour Opener: Concert Review",
-      "link": "https://variety.com/2026/music/news/ariana-grande-concert-review-eternal-sunshine-tour-oakland-1236768845/",
-      "source": "Variety",
-      "timestamp": "2026-06-07T18:51:39+00:00",
-      "score": 12,
-      "summary": "One hates to prioritize one artform over another\u2026 really, one does. But after seeing Ariana Grande\u2019s opening show on her \u201cEternal Sunshine Tour\u201d at the Oakland Arena Saturday night, it is tempting to want to send the multi-hyphenate talent a message, if you had the means to ge...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Grande",
-        "Makes",
-        "Her",
-        "Audience",
-        "Wish",
-        "Sunshine",
-        "Really",
-        "Was",
-        "Eternal",
-        "Bravura",
-        "Oakland",
-        "Tour",
-        "Opener",
-        "Concert",
-        "Review"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52125,6 +52166,101 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.1 - 5 km NNW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75373226",
+      "source": "USGS",
+      "timestamp": "2026-06-08T21:43:46.190000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-08 21:42:09 UTC2026-06-08 21:42:09 UTC at epicenterLocation38.816\u00b0N 122.785\u00b0WDepth1.14 km (0.71 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 1 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75373221",
+      "source": "USGS",
+      "timestamp": "2026-06-08T21:36:01.296000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-08 21:34:24 UTC2026-06-08 21:34:24 UTC at epicenterLocation38.785\u00b0N 122.769\u00b0WDepth0.27 km (0.17 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.9 - 12 km NE of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74978222",
+      "source": "USGS",
+      "timestamp": "2026-06-08T21:35:31.190000+00:00",
+      "score": 17,
+      "summary": "Time2026-06-08 21:31:54 UTC2026-06-08 21:31:54 UTC at epicenterLocation19.277\u00b0N 155.391\u00b0WDepth29.97 km (18.62 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
       "heat_level": "LOW"
     },
     {
@@ -58555,102 +58691,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 2 km NE of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75372541",
-      "source": "USGS",
-      "timestamp": "2026-06-07T18:08:04.179000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-07 18:06:28 UTC2026-06-07 18:06:28 UTC at epicenterLocation38.793\u00b0N 122.739\u00b0WDepth12.58 km (7.82 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.5 - south of the Fiji Islands",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr9l",
-      "source": "USGS",
-      "timestamp": "2026-06-07T18:05:39.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-07 17:47:39 UTC2026-06-07 17:47:39 UTC at epicenterLocation25.118\u00b0S 179.818\u00b0EDepth516.82 km (321.14 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fiji",
-        "Islands"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+63%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.6 - 15 km WNW of Pun\u0101kha, Bhutan",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr9j",
-      "source": "USGS",
-      "timestamp": "2026-06-07T17:59:56.191000+00:00",
-      "score": 15,
-      "summary": "ShakeMap - VI DYFI? - VTime2026-06-07 17:36:39 UTC2026-06-07 17:36:39 UTC at epicenterLocation27.624\u00b0N 89.724\u00b0EDepth10.00 km (6.21 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Punkha",
-        "Bhutan"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
