@@ -448,7 +448,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.7,
+      "trend_score": 8.6,
       "source_count": 12,
       "sources_reporting": [
         "BBC",
@@ -13138,6 +13138,79 @@
   ],
   "World": [
     {
+      "title": "Ukrainian drone kills one in Russia-annexed Crimea, Moscow-installed Governor says",
+      "link": "https://www.thehindu.com/news/international/ukrainian-drone-attack-in-russia-annexed-crimea/article71075006.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-08T08:09:52+05:30",
+      "score": 14,
+      "summary": "Drone raid sirens were sounded in \u2060the early hours of Monday (June 8, 2026) in the Black Sea port \u200cof Novorossiysk, a major export hub for oil and grains in Russia\u2019s Krasnodar region",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Russiaannexed",
+        "Crimea",
+        "Moscowinstalled",
+        "Governor"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "West Asia war LIVE: Israel says it has struck Iran after taking missile fire",
+      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-beirut-strikes-strait-of-hormuz-live-updates-june-8-2026/article71074947.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-08T08:07:42+05:30",
+      "score": 12,
+      "summary": "Oil \u2060prices were up more than $2 a barrel after Israel launched renewed strikes on Lebanon despite a truce between the two countries",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "Asia",
+        "LIVE",
+        "Israel",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Live Updates: Iran and Israel Exchange Strikes for First Time Since April Cease-Fire",
       "link": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles",
       "source": "NYT",
@@ -19822,27 +19895,31 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Palestinian baby killed by Israeli gunfire in occupied West Bank, health ministry says",
-      "link": "https://www.abc.net.au/news/2026-06-07/israeli-troops-kill-7-month-old-baby-in-west-bank/106769440",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-07T01:16:15+00:00",
-      "score": 12,
-      "summary": "Israeli troops shot at a car in the occupied West Bank, killing a seven-month-old baby and wounding his parents, the Palestinian health ministry says.",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "U.S. stock futures mixed as Mideast tensions rise; South Korea's Kospi plunges 7%: Live updates",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTzBaSmd1X1ZiSTF5amRwTE9pZk1jMndoZm5YMXIzSklnQ2E3dDJUUkZSM1JTT2Fsc1Vidk5vRFU1YUlMeWM0WFFLN200Z2ppeHhFV2xURExMVk8yS0s4QUNxeUx1S0FaeHAyTFlzX0JIRy1NVFRF0gF8QVVfeXFMTWxJR2t2ek9hOUJudHplX2NSS2pZVnZFd21zcTEwTEc1QTlCdzRLSDNfam9NazZNNjRFT3J3eHNzazRRbFo1QmZVQmJSaHhoMmx1YWwzMjFhQWpZTGlZSUl2NHFZVDRBbGRaTmxlVmdHNWFiTVlGM2tEVl9Oeg?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-06-08T02:39:00+00:00",
+      "score": 17,
+      "summary": "U.S. stock futures mixed as Mideast tensions rise; South Korea's Kospi plunges 7%: Live updates CNBCOil Surges, Asian Stocks Sink After Iran Strikes Israel The New York TimesUS Stock Futures Drop After Tech Selloff, Oil Up: Markets Wrap Bloomberg.comOil prices rise more than $...",
+      "country": "South Korea",
+      "region": "East Asia",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [
         "Geopolitics"
       ],
       "entities": [
-        "Israeli",
-        "West",
-        "Bank"
+        "Mideast",
+        "South",
+        "Koreas",
+        "Kospi",
+        "Live"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19851,55 +19928,14 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 18,
+      "source_count": 9,
       "sources_reporting": [
-        "ABC Australia",
-        "Al Jazeera",
-        "BBC",
-        "NPR",
-        "NYT",
-        "PBS",
-        "Reuters",
-        "The Hindu"
+        "CNBC",
+        "Google News"
       ],
-      "trend_accel": "+81%",
-      "heat_level": "CRITICAL"
+      "trend_accel": "+68%",
+      "heat_level": "HOT"
     },
-    {
-      "title": "Australia turns its attention to FIFA World Cup after practice games",
-      "link": "https://www.abc.net.au/news/2026-06-07/time-for-australia-s-fifa-world-cup-campaign-to-begin/106769422",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-07T01:10:53+00:00",
-      "score": 12,
-      "summary": "The Socceroos have finished their warm-up games, and now turn their attention to T\u00fcrkiye in their first World Cup match. So, what have we learned from their friendly games against Mexico and Switzerland?",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "FIFA",
-        "World",
-        "Cup"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Iran and Israel exchange strikes, threatening fragile ceasefire",
       "link": "https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html",
@@ -20138,14 +20174,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 11.5,
+      "source_count": 12,
       "sources_reporting": [
-        "CNBC"
+        "BBC",
+        "CNBC",
+        "Google News",
+        "MarketWatch",
+        "NHK",
+        "NPR"
       ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
+      "trend_accel": "+86%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today \u2014 8 June 2026",
@@ -20417,14 +20458,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 11.5,
+      "source_count": 15,
       "sources_reporting": [
-        "CNBC"
+        "CNBC",
+        "Google News",
+        "MarketWatch",
+        "NHK",
+        "NPR",
+        "PBS"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
+      "trend_accel": "+87%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "FPIs will return when global macro conditions stabilise: Franklin Templeton India president",
@@ -25330,8 +25376,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "Bloomberg",
@@ -25802,8 +25848,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 19,
       "sources_reporting": [
         "AP",
@@ -26505,43 +26551,6 @@
         "NYT"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Crowded Airport Lounges Are Rolling Out Grab-and-Go Options",
-      "link": "https://www.nytimes.com/2026/06/05/travel/airport-lounges-grab-and-go.html",
-      "source": "NYT",
-      "timestamp": "2026-06-05T09:01:42+00:00",
-      "score": 14,
-      "summary": "New premium pit stops are giving fliers a place for a quick bite and drink without having to line up for increasingly crowded traditional lounges.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Airport",
-        "Lounges",
-        "Are",
-        "Rolling",
-        "Out",
-        "GrabandGo",
-        "Options"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -38861,6 +38870,84 @@
   ],
   "Entertainment": [
     {
+      "title": "Tony Awards 2026 Live Updates: \u2018Death of a Salesman\u2019 Wins Best Play Revival, Extending Big Night",
+      "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026",
+      "source": "NYT",
+      "timestamp": "2026-06-08T02:41:05+00:00",
+      "score": 15,
+      "summary": "\u201cDeath of a Salesman\u201d is leading with six prizes. \u201cRagtime\u201d won best musical revival, while John Lithgow, Laurie Metcalf and Lesley Manville are among the winners.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Awards",
+        "Live",
+        "Updates",
+        "Death",
+        "Salesman",
+        "Wins",
+        "Best",
+        "Play",
+        "Revival",
+        "Extending",
+        "Big",
+        "Night"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Death of a Salesman\u2019 Wins the Tony for Best Revival of a Play",
+      "link": "https://www.nytimes.com/2026/06/07/theater/death-of-a-salesman-revival-play.html",
+      "source": "NYT",
+      "timestamp": "2026-06-08T02:36:25+00:00",
+      "score": 12,
+      "summary": "Arthur Miller\u2019s classic won the same award in 1984, 1999 and 2012.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Salesman",
+        "Wins",
+        "Tony",
+        "Best",
+        "Revival",
+        "Play"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Aubrey Plaza and Christopher Abbott Make Red Carpet Debut at 2026 Tony Awards After Announcing Pregnancy",
       "link": "https://www.hollywoodreporter.com/lifestyle/arts/aubrey-plaza-christopher-abbott-2026-tony-awards-pregnant-1236616080/",
       "source": "THR",
@@ -46834,89 +46921,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Rhea Seehorn and \u2018Pluribus\u2019 Cast Debate the Hive Mind, Ask Burning Questions and Give Season 2 Update",
-      "link": "https://variety.com/2026/tv/news/rhea-seehorn-pluribus-cast-the-hive-mind-questions-season-2-1236767219/",
-      "source": "Variety",
-      "timestamp": "2026-06-05T21:00:00+00:00",
-      "score": 15,
-      "summary": "To give into the hive mind or not? In \u201cPluribus,\u201d book author Carol (Rhea Seehorn) and 11 other strangers are the only individuals left on Earth after everybody else mysteriously merges into what is called the hive mind \u2013 a collective joining of consciousness. Six months since...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Seehorn",
-        "Pluribus",
-        "Cast",
-        "Debate",
-        "Hive",
-        "Mind",
-        "Ask",
-        "Burning",
-        "Questions",
-        "Give",
-        "Season",
-        "Update"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Mario\u2019 Review: Straightforward Doc Tells Mario Cuomo\u2019s Story in Prose Rather Than Poetry",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/mario-review-mario-cuomo-documentary-1236613801/",
-      "source": "THR",
-      "timestamp": "2026-06-05T20:59:02+00:00",
-      "score": 14,
-      "summary": "Peter Kunhardt, George Kunhardt and Teddy Kunhardt assemble the late New York governor's children, including former governor and failed mayoral candidate Andrew Cuomo, to remember their father.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Review",
-        "Straightforward",
-        "Doc",
-        "Tells",
-        "Mario",
-        "Cuomos",
-        "Story",
-        "Prose",
-        "Rather",
-        "Than",
-        "Poetry"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -51549,6 +51553,70 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 2.3 - 16 km N of Morgan Hill, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75372721",
+      "source": "USGS",
+      "timestamp": "2026-06-08T02:45:31.091000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-08 02:43:37 UTC2026-06-08 02:43:37 UTC at epicenterLocation37.277\u00b0N 121.636\u00b0WDepth5.05 km (3.14 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Morgan",
+        "Hill"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.8 - 3 km NE of Burias, Philippines",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srd3",
+      "source": "USGS",
+      "timestamp": "2026-06-08T02:36:46.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-08 02:12:29 UTC2026-06-08 02:12:29 UTC at epicenterLocation5.746\u00b0N 125.273\u00b0EDepth59.87 km (37.20 mi)",
+      "country": "Philippines",
+      "region": "Southeast Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Burias",
+        "Philippines"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 4.6 - 27 km SE of Sarangani, Philippines",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srcz",
@@ -58003,70 +58071,6 @@
         "USGS"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 4 km S of Redlands, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41481512",
-      "source": "USGS",
-      "timestamp": "2026-06-06T15:28:13.439000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-06 15:24:50 UTC2026-06-06 15:24:50 UTC at epicenterLocation34.016\u00b0N 117.189\u00b0WDepth3.60 km (2.24 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Redlands"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 2 km ESE of Loma Linda, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41481496",
-      "source": "USGS",
-      "timestamp": "2026-06-06T15:22:39.630000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-06 15:19:14 UTC2026-06-06 15:19:14 UTC at epicenterLocation34.040\u00b0N 117.239\u00b0WDepth15.74 km (9.78 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Loma",
-        "Linda"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
