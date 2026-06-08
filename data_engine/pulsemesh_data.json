@@ -1,6 +1,74 @@
 {
   "Politics": [
     {
+      "title": "Trump Nominates Blanche for Attorney General, Setting Up Confirmation Fight",
+      "link": "https://www.nytimes.com/2026/06/08/us/politics/trump-todd-blanche-attorney-general.html",
+      "source": "NYT",
+      "timestamp": "2026-06-08T21:29:49+00:00",
+      "score": 12,
+      "summary": "As acting attorney general, Todd Blanche has shown a willingness to execute the president\u2019s maximalist demands. Whether the Senate will confirm him remains unclear.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nominates",
+        "Blanche",
+        "Attorney",
+        "General",
+        "Setting",
+        "Confirmation",
+        "Fight"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump approval stays near record low as most Americans expect higher gas prices",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZWhGcWotbmVCTUpWTDA3eDFKdFI5WnB5M0JoeGJ6bU9pUjZDWE5ScW55Vkt4OFpiZGZ3bW8xS1cyUHZqb2pHQ2hPRndISXl0dXZQcWJmMG1TY2gwWndfaVJMUXZ6N1dYeU4zb0h6VC1USFZxVnAwa2FvMjJCT3g3aTl5cnAtUDNnTVVBSS11b1JsRXhJay1NQkg1UlFYRWRRanF0Vmw3TVhTZWtUQzZVNWRPdlRBbEtSWE80aG0ySGUwdDRDVHUw?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-06-08T21:21:29+00:00",
+      "score": 12,
+      "summary": "Trump approval stays near record low as most Americans expect higher gas prices Reuters",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Americans"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Capitol agenda: Five days to save FISA",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUE1wRHBtQi14R0d5V19Memo1d0ROVFRFX0l2Qjc2Qm1YX01UcjB2ckNoTzZ0emM1TDU0OEd1TXVfRmxpUFhaMXJ4bWxMYy1lWkdmLUNpQWlLT0IzZGlKU2djSms2WFFqZmNzLUxYZEtPaExyQWcyRDQ1MFpreDhpYmpTTHcySXpxeUtWNnRPUVpaS0FHUHJpZkVBbC1Pa0c4NXM3VjNicw?oc=5",
       "source": "Google News",
@@ -2467,14 +2535,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 8.5,
+      "source_count": 18,
       "sources_reporting": [
+        "Guardian",
+        "NPR",
+        "PBS",
+        "PBS",
         "The Hill"
       ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
+      "trend_accel": "+74%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Revanth Reddy charges Kishan Reddy with influencing Union Ministers against granting approvals to Telangana projects",
@@ -2850,8 +2922,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "Bloomberg",
@@ -3142,8 +3214,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
+      "trending": true,
+      "trend_score": 8.5,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -3152,7 +3224,7 @@
         "NHK",
         "Reuters"
       ],
-      "trend_accel": "+73%",
+      "trend_accel": "+72%",
       "heat_level": "SURGING"
     },
     {
@@ -6508,28 +6580,27 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Indian Envoy Vinay Mohan Kwatra meets senior U.S. counter-terror official",
-      "link": "https://www.thehindu.com/news/national/indian-envoy-vinay-mohan-kwatra-meets-senior-us-counter-terror-official/article71074963.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-08T08:36:05+05:30",
-      "score": 12,
-      "summary": "Prime Minister Narendra Modi and U.S. President Donald Trump, in February 2025, reaffirmed that the global scourge of terrorism must be fought",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Following Anthropic, OpenAI files confidentially for IPO",
+      "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-08T21:29:57+00:00",
+      "score": 14,
+      "summary": "ChatGPT-maker OpenAI has filed confidentially for an initial public offering, the company said Monday in a blog post. The filing comes a little more than week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms. OpenAI, which ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Envoy",
-        "Vinay",
-        "Mohan",
-        "Kwatra"
+        "Anthropic",
+        "OpenAI",
+        "IPO"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6538,50 +6609,52 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
     },
     {
-      "title": "Trump rejects idea that Iran betrays his \"no new wars\" campaign message",
-      "link": "https://www.npr.org/2026/06/07/g-s1-126826/trump-iran-wars-campaign-message",
-      "source": "NPR",
-      "timestamp": "2026-06-07T19:07:44-04:00",
+      "title": "Polymarket and Kalshi Say Influencer Partners Can't Deny Election Results, Actually",
+      "link": "https://www.wired.com/story/kalshi-polymarket-influencer-election-denial-spencer-pratt/",
+      "source": "Wired",
+      "timestamp": "2026-06-08T21:23:27+00:00",
       "score": 14,
-      "summary": "President Trump is dismissing the idea that launching the war with Iran betrayed his refrain of \"No new wars\" as he campaigned for the White House in 2024.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "summary": "Social media posts questioning the integrity of LA\u2019s mayoral election were labeled \u201cpaid partnerships.\u201d Then Kalshi and Polymarket told creators to delete them.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Iran"
+        "Kalshi",
+        "Say",
+        "Influencer",
+        "Partners",
+        "Cant",
+        "Deny",
+        "Election",
+        "Results",
+        "Actually"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.3,
-      "source_count": 17,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
       "sources_reporting": [
-        "AP",
-        "Bloomberg",
-        "NPR",
-        "PBS",
-        "Reuters"
+        "Wired"
       ],
-      "trend_accel": "+76%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Tech": [
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "The Agentic Reckoning: Enterprise AI organizations have a runtime problem, not a model problem \u2014 and most are building the wrong solution",
       "link": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem",
@@ -13102,67 +13175,44 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "source": "TechCrunch",
-      "timestamp": "2026-06-03T13:02:51+00:00",
-      "score": 17,
-      "summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Plex adds new social features ahead of a major price hike for its lifetime pass",
-      "link": "https://techcrunch.com/2026/06/03/plex-launches-new-social-features-amid-a-major-price-hike/",
-      "source": "TechCrunch",
-      "timestamp": "2026-06-03T13:00:00+00:00",
-      "score": 10,
-      "summary": "Plex has come a long way from being just a personal media server. Over the past few years, it has transformed into a streaming hub, today featuring ad-supported content and movie rental options. Now, the company is setting its sights on competing with social networking platfor...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "World": [
+    {
+      "title": "Adam Schiff calls for Senate to \u2018vigorously oppose\u2019 Trump\u2019s effort to make Todd Blanche his permanent attorney general \u2013 live",
+      "link": "https://www.theguardian.com/us-news/live/2026/jun/08/us-politics-latest-news-updates-trump-california-governor-midterm-elections",
+      "source": "Guardian",
+      "timestamp": "2026-06-08T21:16:32+00:00",
+      "score": 12,
+      "summary": "California Democratic senator says Blanche \u2018has been unable to put aside his role as Donald Trump\u2019s criminal defense lawyer and represent the American people instead\u2019Trump nominates his ex-lawyer Todd Blanche to serve as attorney generalSign up for the Breaking News US emailDo...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Schiff",
+        "Senate",
+        "Trumps",
+        "Todd",
+        "Blanche"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Aussie swim star gives world record a shake at national selection trials",
       "link": "https://www.abc.net.au/news/2026-06-09/australian-swimming-trials-sam-short-kaylee-mckeown/106774910",
@@ -19991,45 +20041,6 @@
       ],
       "trend_accel": "+89%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Strong Earthquake in Philippines Topples Buildings and Prompts Tsunami Warnings",
-      "link": "https://www.nytimes.com/2026/06/07/world/asia/hilippines-earthquake-tsunami-warning.html",
-      "source": "NYT",
-      "timestamp": "2026-06-08T02:25:34+00:00",
-      "score": 12,
-      "summary": "The quake struck off the island of Mindanao, raising fears of possible tsunamis in the Philippines, Japan, Malaysia and Indonesia.",
-      "country": "Philippines",
-      "region": "Southeast Asia",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Seismic"
-      ],
-      "entities": [
-        "Earthquake",
-        "Philippines",
-        "Topples",
-        "Buildings",
-        "Prompts",
-        "Tsunami",
-        "Warnings"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -26734,6 +26745,66 @@
   ],
   "Science": [
     {
+      "title": "Magnon momentum microscopy: A new window into nanoscale spin-wave physics",
+      "link": "https://phys.org/news/2026-06-magnon-momentum-microscopy-window-nanoscale.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-08T17:30:01-04:00",
+      "score": 12,
+      "summary": "An international team led by the Max Born Institute has developed a new type of momentum microscopy to image magnons\u2014the quanta of collectively excited spins\u2014directly in two-dimensional reciprocal space using soft X-rays. Owing to its remarkable sensitivity, simplicity, and ac...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Elusive Cozumel dwarf fox reappears in first confirmed photos after two decades",
+      "link": "https://phys.org/news/2026-06-elusive-cozumel-dwarf-fox-reappears.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-08T17:20:07-04:00",
+      "score": 12,
+      "summary": "A publication has revealed the first photographic evidence and confirmed sighting of the Cozumel dwarf fox in more than 20 years. Published in the journal Neotropical Biology and Conservation by researchers Travis D. Bayer, Maggie A. McGreal and A. Rafael Chac\u00f3n D., the short ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cozumel"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "New cryogenic silicon carbide hardware addresses quantum computing bottleneck",
       "link": "https://phys.org/news/2026-06-cryogenic-silicon-carbide-hardware-quantum.html",
       "source": "Phys.org",
@@ -32815,67 +32886,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "AI paired with tiny optical device corrects distorted light for sharper imaging",
-      "link": "https://phys.org/news/2026-06-ai-paired-tiny-optical-device.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-04T15:00:06-04:00",
-      "score": 12,
-      "summary": "Blurry light from lens imperfections is a problem everywhere, from microscopes to telescopes to smartphone cameras. Using a tiny yet carefully engineered optical element and artificial intelligence, University of California San Diego engineers have built a way to spot and corr...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Users trust AI and human fact-checkers equally, but for different reasons",
-      "link": "https://phys.org/news/2026-06-users-ai-human-fact-checkers.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-04T15:00:03-04:00",
-      "score": 14,
-      "summary": "Users tend to trust artificial intelligence (AI)-powered fact-checkers as much as human fact-checkers, but for different reasons, according to a new study led by Penn State researchers. The researchers said there is no definitive \"winner\" when comparing the two fact-checking s...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 17,
-      "sources_reporting": [
-        "AP",
-        "Bloomberg",
-        "NPR",
-        "Phys.org"
-      ],
-      "trend_accel": "+62%",
-      "heat_level": "HOT"
     }
   ],
   "Sports": [
@@ -32968,6 +32978,45 @@
         "ESPN"
       ],
       "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Mariners Place J.P. Crawford On 10-Day IL With Right Hand Contusion - MLB Trade Rumors",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcFBCVGxQM3FHN0pVbzBxcWFLV21LNXo3TTlmUDVxanZPSnFDbWlLYVQyQ2xudU5jYVF3N2VNNFoydkVudDhMZ2lmV2pwZHNaSG95Qmh6R2ZtN2dBNlo3aGxGaDZsR1R4eVZrMEl1RXFicDl1aGpLUEp4eVM2LVNHZk5GdFlQSmt1ZVYtNGt5X280U0xSYnZnVEl5czU4bmV1bThqQ1c2dlhJaENvMjlF?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-06-08T21:24:26+00:00",
+      "score": 15,
+      "summary": "Mariners Place J.P. Crawford On 10-Day IL With Right Hand Contusion MLB Trade RumorsMariners shortstop lands on the injured list The Seattle TimesMariners put SS J.P. Crawford on IL with right hand contusion ESPNCrawford (hand) appears to avoid serious injury after HBP MLB.com...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Place",
+        "Crawford",
+        "Day",
+        "Right",
+        "Hand",
+        "Contusion",
+        "MLB",
+        "Trade",
+        "Rumors"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+45%",
       "heat_level": "LOW"
     },
     {
@@ -39199,6 +39248,174 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Former DoJ Antitrust Attorneys Slam Live Nation-Ticketmaster Settlement: \u2018It Is Deeply Troubling That the Antitrust Division Is Engaged in Selective Non-Prosecution of Political Allies\u2019",
+      "link": "https://variety.com/2026/music/news/doj-antitrust-attorneys-slam-live-nation-ticketmaster-settlement-1236769787/",
+      "source": "Variety",
+      "timestamp": "2026-06-08T21:25:48+00:00",
+      "score": 12,
+      "summary": "Two former top antitrust attorneys at the U.S. Department of Justice who were central to its case against Live Nation and Ticketmaster had strong words for the department following its abrupt settlement with the company just one week after the trial \u2014 which saw the DOJ and ove...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "DoJ",
+        "Antitrust",
+        "Attorneys",
+        "Slam",
+        "Live",
+        "NationTicketmaster",
+        "Settlement",
+        "Deeply",
+        "Troubling",
+        "That",
+        "Division",
+        "Engaged",
+        "Selective",
+        "NonProsecution",
+        "Political",
+        "Allies"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Pod: Mindy Kaling on \u2018Running Point\u2019 and \u2018Not Suitable for Work,\u2019 and Serving \u2014 and Being Scrutinized by \u2014 the Indian-American Community",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/mindy-kaling-interview-running-point-not-suitable-for-work-1236615002/",
+      "source": "THR",
+      "timestamp": "2026-06-08T21:24:22+00:00",
+      "score": 12,
+      "summary": "The trailblazing TV creator, writer, director, producer and actress spoke with THR at the Newport Beach TV Fest, where she was honored with the fest's Artist of Distinction Award.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mindy",
+        "Kaling",
+        "Running",
+        "Point",
+        "Not",
+        "Suitable",
+        "Work",
+        "Serving",
+        "Being",
+        "Scrutinized",
+        "IndianAmerican",
+        "Community"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Lord Miller to Produce High Concept Sci-Fi Comedy \u2018I Promise We\u2019re Cool\u2019 with Rising Comedy Talent for Universal (Exclusive)",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/lord-miller-to-produce-i-promise-were-cool-1236616661/",
+      "source": "THR",
+      "timestamp": "2026-06-08T21:18:15+00:00",
+      "score": 12,
+      "summary": "Charlie Hall, the son of Julia Louis-Dreyfus, is set to write for director Max Tzannes, who previously made meta mockumentary 'Found Footage: The Making of the Patterson Project.'",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Miller",
+        "Produce",
+        "High",
+        "Concept",
+        "SciFi",
+        "Comedy",
+        "Promise",
+        "Were",
+        "Cool",
+        "Rising",
+        "Talent",
+        "Universal",
+        "Exclusive"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Notting Hill\u2019 Sets 4K UHD and Blu-ray Release",
+      "link": "https://variety.com/2026/shopping/news/notting-hill-4k-uhd-blu-ray-release-buy-online-1236769759/",
+      "source": "Variety",
+      "timestamp": "2026-06-08T21:18:02+00:00",
+      "score": 15,
+      "summary": "\u201cNotting Hill,\u201d one of the most enduring romantic comedies of the late \u201990s, is getting the 4K treatment. The Julia Roberts and Hugh Grant classic will be released on 4K UHD, Blu-ray and digital on June 9, with the new edition currently available to pre-order on Amazon. The 4K...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hill",
+        "Sets",
+        "UHD",
+        "Bluray",
+        "Release"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Danny Pino Joins MGM+ Series \u2018The Magnificent Seven\u2019 As Series Regular",
       "link": "https://deadline.com/2026/06/danny-pino-cast-mgm-plus-series-the-magnificent-seven-1236950706/",
@@ -46963,147 +47180,32 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "Taylor Lautner and Pregnant Wife Tay Lautner Reveal Sex of Their Baby",
-      "link": "https://www.eonline.com/news/1432730/taylor-lautner-pregnant-tay-lautner-expecting-baby-girl-sex-reveal?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-06-07T18:31:31+00:00",
-      "score": 12,
-      "summary": "Taylor Lautner and Tay Lautner are one step closer to expanding their pack. The Twilight alum and his wife\u2014who announced they were expecting their first baby together in March\u2014revealed the sex of...",
+      "title": "I Tried Countless Treatments for Damaged Hair\u2014Here\u2019s What Actually Worked",
+      "link": "https://www.vogue.com/article/hair-treatments-for-damaged-hair",
+      "source": "Vogue",
+      "timestamp": "2026-06-08T21:21:50+00:00",
+      "score": 14,
+      "summary": "There are three main causes of damaged hair\u2014here\u2019s how to minimize hair harm and treat existing damage. Plus, an edit of products that actually worked for me.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lautner",
-        "Pregnant",
-        "Wife",
-        "Tay",
-        "Reveal",
-        "Sex",
-        "Their",
-        "Baby"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Ariana Grande Launches \u2018Eternal Sunshine\u2019 Tour: Full Setlist Revealed",
-      "link": "https://www.hollywoodreporter.com/music/music-news/ariana-grande-eternal-sunshine-tour-full-setlist-1236615753/",
-      "source": "THR",
-      "timestamp": "2026-06-07T18:29:34+00:00",
-      "score": 12,
-      "summary": "\"I love you all more than words can ever possibly say. And I missed you,\" the Grammy winner penned in a message to fans Saturday.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Grande",
-        "Launches",
-        "Eternal",
-        "Sunshine",
-        "Tour",
-        "Full",
-        "Setlist",
-        "Revealed"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Matthew\u202fRhys Reveals He and Dave Annable Unsuccessfully Pitched a \u2018Brothers & Sisters\u2019 Holiday Special",
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/matthew-rhys-interview-widows-bay-1236613191/",
-      "source": "THR",
-      "timestamp": "2026-06-07T18:00:00+00:00",
-      "score": 12,
-      "summary": "The actor explains why he still believes the ABC drama could be rebooted as he reflects on swinging bigger with \u2018The Beast in Me\u2019 and trying his hand at comedy in \u2018Widow\u2019s Bay.\u2019",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rhys",
-        "Reveals",
-        "Dave",
-        "Annable",
-        "Unsuccessfully",
-        "Pitched",
-        "Brothers",
-        "Sisters",
-        "Holiday",
-        "Special"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "New \u2018Spyro\u2019 Game, Complete With Franchise\u2019s First Dragon-Flight Feature, Set for Spring 2027",
-      "link": "https://variety.com/2026/gaming/news/new-spyro-game-a-realm-beyond-release-spring-2027-1236768742/",
-      "source": "Variety",
-      "timestamp": "2026-06-07T18:00:00+00:00",
-      "score": 15,
-      "summary": "The first new \u201cSpyro\u201d game in nearly two decades will release next spring from developer Toys for Bob in collaboration with Microsoft\u2019s Activision. Tom Kenny, the original voice of Spyro, will be reprising his role as the iconic purple dragon for the project. Titled \u201cSpyro: A ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Spyro",
-        "Game",
-        "Complete",
-        "Franchises",
-        "First",
-        "DragonFlight",
-        "Feature",
-        "Set",
-        "Spring"
+        "Tried",
+        "Countless",
+        "Treatments",
+        "Damaged",
+        "HairHeres",
+        "What",
+        "Actually",
+        "Worked"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -47114,13 +47216,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Variety"
+        "Vogue"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
+    },
     {
       "title": "A$AP Rocky Has Contracted Knicks Fever, Just Like the Rest of New York",
       "link": "https://www.gq.com/story/asap-rocky-is-a-knick",
@@ -51993,45 +52093,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "40 Items Vogue Editors Happily Shopped, From Summer Dresses to Statement Accessories",
-      "link": "https://www.vogue.com/article/what-vogue-editors-purchased",
-      "source": "Vogue",
-      "timestamp": "2026-06-01T21:19:25+00:00",
-      "score": 15,
-      "summary": "Curious what Vogue editors actually spend their money on? These are the items that you\u2019ll actually find in our closets this spring.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Items",
-        "Vogue",
-        "Editors",
-        "Happily",
-        "Shopped",
-        "Summer",
-        "Dresses",
-        "Statement",
-        "Accessories"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -52064,6 +52125,38 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.9 - 98 km ESE of \u1e28\u0101jj\u012b\u0101b\u0101d, Iran",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srlm",
+      "source": "USGS",
+      "timestamp": "2026-06-08T21:27:58.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-08 21:08:43 UTC2026-06-08 21:08:43 UTC at epicenterLocation28.057\u00b0N 56.864\u00b0EDepth10.00 km (6.21 mi)",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Iran"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
       "heat_level": "LOW"
     },
     {
@@ -58558,38 +58651,6 @@
         "USGS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 2 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75372521",
-      "source": "USGS",
-      "timestamp": "2026-06-07T17:37:34.906000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-07 17:35:59 UTC2026-06-07 17:35:59 UTC at epicenterLocation38.784\u00b0N 122.777\u00b0WDepth-0.01 km (-0.01 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+63%",
       "heat_level": "LOW"
     }
   ]
