@@ -408,7 +408,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.1,
+      "trend_score": 9.0,
       "source_count": 11,
       "sources_reporting": [
         "BBC",
@@ -13138,6 +13138,141 @@
   ],
   "World": [
     {
+      "title": "Breaking: Tsunami threat after magnitude-7.8 earthquake in southern Philippines",
+      "link": "https://www.abc.net.au/news/2026-06-08/tsunami-threat-after-philippines-earthquake/106771808",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-08T00:51:42+00:00",
+      "score": 15,
+      "summary": "A powerful magnitude-7.8 earthquake has shaken the Mindanao region in the southern Philippines, with a tsunami possible on some regional coasts.",
+      "country": "Philippines",
+      "region": "Southeast Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Seismic"
+      ],
+      "entities": [
+        "Tsunami",
+        "Philippines"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Oil prices edge higher after strikes on Israel test ceasefire",
+      "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-06-08T00:49:10+00:00",
+      "score": 12,
+      "summary": "Iran said the attacks, its first since an April ceasefire, are the start of \"a full week\" of strikes",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "Israel"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami forecast for some coasts",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVh5VVRZSGpzVXdrUm9YQzByekhmZVRZZzcwZ3dhLU56RjBPTldPSW5ETEd5QTF6RFR5N2NpZThnX21GV1ZGbV95TVBxSmtRbmVkSV9EUWN5TE1ZRWtSZUgyb0ZSSWhPQ3RYaW5ScHVnWkVxWjAxeVY2LWpqU09Qd1RjcEFHLVVzSzROZTFJSTl3QkhnTnc?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-06-08T00:49:00+00:00",
+      "score": 15,
+      "summary": "7.8 magnitude earthquake shakes part of southern Philippines. Tsunami forecast for some coasts AP NewsTsunami warnings issued after 8.2 magnitude earthquake off Philippines Al JazeeraTsunami threat to Hawaii under evaluation after 8.2-magnitude quake in the Philippines Honolul...",
+      "country": "Philippines",
+      "region": "Southeast Asia",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Seismic"
+      ],
+      "entities": [
+        "Philippines",
+        "Tsunami"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Missing Melbourne teacher allegedly drugged and murdered by brother in India",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/08/missing-melbourne-teacher-sunil-sharma-allegedly-murdered-by-brother-india-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-06-08T00:47:05+00:00",
+      "score": 12,
+      "summary": "Sunil Sharma disappeared in Punjab province on 22 May, with police arresting four people, including his brotherFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAn Australian teacher who went missing in India for t...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Melbourne",
+        "India"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 10,
+      "sources_reporting": [
+        "ABC Australia",
+        "Guardian"
+      ],
+      "trend_accel": "+71%",
+      "heat_level": "SURGING"
+    },
+    {
       "title": "Armenia PM declares 'historic victory' as vote tallying continues in parliamentary vote",
       "link": "https://www.cbc.ca/news/world/armenia-election-nikol-pashinyan-9.7226866?cmp=rss",
       "source": "CBC News",
@@ -19729,130 +19864,6 @@
         "NYT"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Take a look inside Victoria's oldest active timber church turning 170",
-      "link": "https://www.abc.net.au/news/2026-06-07/tarraville-anglican-church-victorias-oldest-170th-anniversary/106725026",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-06T21:59:08+00:00",
-      "score": 15,
-      "summary": "The drop slab design of Victoria's oldest active timber church is a testament to 19th-century engineering.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Victorias"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "At nearly 50%, no. of deaths without medical care up sharply since 2020",
-      "link": "https://timesofindia.indiatimes.com/india/at-nearly-50-no-of-deaths-without-medical-care-up-sharply-since-2020/articleshow/131559001.cms",
-      "source": "Times of India",
-      "timestamp": "2026-06-07T03:16:11+05:30",
-      "score": 13,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Delhi court convicts Bihar BJP MLA in New Year bash firing case",
-      "link": "https://timesofindia.indiatimes.com/india/court-convicts-bihar-bjp-mla-in-new-year-bash-firing-case/articleshow/131558909.cms",
-      "source": "Times of India",
-      "timestamp": "2026-06-07T03:03:46+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bihar",
-        "BJP",
-        "MLA",
-        "New",
-        "Year"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Knitters find key to serenity during 'party, party, party' snow season",
-      "link": "https://www.abc.net.au/news/2026-06-07/knitting-helps-social-interaction-jindabyne-nsw-snowy-mountains/106717816",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-06T21:30:43+00:00",
-      "score": 10,
-      "summary": "As the NSW ski season gets underway, Jindabyne's Snowy Stitchers Social Club finds connection and mindfulness in needles and yarn.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
@@ -33200,7 +33211,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.2,
+      "trend_score": 7.1,
       "source_count": 15,
       "sources_reporting": [
         "Cricinfo",
@@ -33208,7 +33219,7 @@
         "NPR",
         "PBS"
       ],
-      "trend_accel": "+65%",
+      "trend_accel": "+64%",
       "heat_level": "HOT"
     },
     {
@@ -38718,22 +38729,40 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Yanks overwhelm A's with historic 13-run inning",
-      "link": "https://www.espn.com/mlb/story/_/id/48933463/yankees-score-13-runs-inning-1st-21-years",
-      "source": "ESPN",
-      "timestamp": "2026-05-31T19:49:21-05:00",
+      "title": "Pink Kicks Off 2026 Tonys With \u201cLady Marmalade\u201d Parody Boasting Megan Thee Stallion, Neil Patrick Harris and Dylan Mulvaney",
+      "link": "https://www.hollywoodreporter.com/lifestyle/arts/pink-2026-tony-awards-host-best-moments-1236616069/",
+      "source": "THR",
+      "timestamp": "2026-06-08T00:59:44+00:00",
       "score": 15,
-      "summary": "The Yankees scored 13 runs in an inning for the first time in nearly 21 years Sunday as their first 12 batters in the third reached safely against an overwhelmed pitching staff for the Athletics.",
+      "summary": "The opener managed to weave in nearly every nominated musical and play this season and featured cameos from Lea Michele, June Squibb and even Paddington ahead of the bear's much rumored Broadway debut next season.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Sports Publication",
+      "source_type": "Entertainment",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Kicks",
+        "Off",
+        "Tonys",
+        "Lady",
+        "Marmalade",
+        "Parody",
+        "Boasting",
+        "Megan",
+        "Thee",
+        "Stallion",
+        "Neil",
+        "Patrick",
+        "Harris",
+        "Dylan",
+        "Mulvaney"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -38741,15 +38770,126 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "ESPN"
+        "THR"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
+    {
+      "title": "Tony Award Winners 2026: See the Updating List",
+      "link": "https://www.nytimes.com/2026/06/07/theater/tony-award-winners-2026-the-updating-list.html",
+      "source": "NYT",
+      "timestamp": "2026-06-08T00:57:14+00:00",
+      "score": 15,
+      "summary": "The Tony Awards are underway at Radio City Music Hall in New York City.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Award",
+        "Winners",
+        "See",
+        "Updating",
+        "List"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.6,
+      "source_count": 15,
+      "sources_reporting": [
+        "BBC",
+        "Bloomberg",
+        "E! News",
+        "NPR",
+        "NYT",
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+89%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "Tony Awards 2026 Live Updates: \u2018Death of a Salesman\u2019 Leads With 5 Prizes",
+      "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026",
+      "source": "NYT",
+      "timestamp": "2026-06-08T00:56:22+00:00",
+      "score": 15,
+      "summary": "The revival\u2019s awards include best direction of a play, and Laurie Metcalf won for featured actress in a play. John Lithgow won best actor in a play for \u201cGiant.\u201d",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Awards",
+        "Live",
+        "Updates",
+        "Death",
+        "Salesman",
+        "Leads",
+        "Prizes"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Tonys 2026: Complete Winners List (Live Updates)",
+      "link": "https://www.eonline.com/news/1432642/tony-awards-2026-winners-see-the-complete-list?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-06-08T00:46:40+00:00",
+      "score": 15,
+      "summary": "It\u2019s curtain up on the 2026 Tony Awards. And during the June 7 ceremony, hosted by Pink at Radio City Music Hall, Broadway\u2019s best from the last year are being honored for their performances on the...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Complete",
+        "Winners",
+        "List",
+        "Live",
+        "Updates"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Tony Awards 2026 Live Updates: John Lithgow and Laurie Metcalf Win Early Prizes",
       "link": "https://www.nytimes.com/live/2026/06/07/theater/tony-awards-2026",
@@ -39560,8 +39700,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "BBC",
@@ -39637,14 +39777,20 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 11.6,
+      "source_count": 18,
       "sources_reporting": [
-        "NYT"
+        "BBC",
+        "Bloomberg",
+        "E! News",
+        "Guardian",
+        "NYT",
+        "THR",
+        "Variety"
       ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
+      "trend_accel": "+91%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "38 Tony nominees on the strangest skills they\u2019ve picked up for a show.",
@@ -41241,8 +41387,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 19,
       "sources_reporting": [
         "Deadline",
@@ -46665,158 +46811,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Musicians\u2019 Union Sues Major Labels for Artists\u2019 Share of AI Song Generator Settlement Money",
-      "link": "https://www.hollywoodreporter.com/music/music-industry-news/musicians-union-lawsuit-ai-song-generator-settlement-1236614835/",
-      "source": "THR",
-      "timestamp": "2026-06-05T19:54:54+00:00",
-      "score": 14,
-      "summary": "The American Federation of Musicians alleged that UMG and WMG \"have refused to compensate the musicians whose work ... is fed into AI machines for profit.\"",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Union",
-        "Sues",
-        "Major",
-        "Labels",
-        "Artists",
-        "Share",
-        "Song",
-        "Generator",
-        "Settlement",
-        "Money"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Zarna Garg Defends Performing at Riyadh Comedy Festival as \u201cOrdained by Some Higher Power\u201d",
-      "link": "https://www.hollywoodreporter.com/news/general-news/riyadh-comedy-festival-controversy-female-stand-up-zarna-garg-1236614802/",
-      "source": "THR",
-      "timestamp": "2026-06-05T19:43:28+00:00",
-      "score": 14,
-      "summary": "During an appearance on \u2018Mayim Bialik\u2019s Breakdown,\u2019 one of the three female comedians who took the stage at the controversial, Saudi Arabia festival says \u201cmoney was not a motivator\u201d for taking the gig but rather the message: \u201cI went with the sense that I owe those women someth...",
-      "country": "Saudi Arabia",
-      "region": "Middle East",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Garg",
-        "Defends",
-        "Performing",
-        "Riyadh",
-        "Comedy",
-        "Festival",
-        "Ordained",
-        "Some",
-        "Higher",
-        "Power"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Madonna to Release \u2018Confessions II \u2013 The Film\u2019 on YouTube Next Week",
-      "link": "https://variety.com/2026/music/news/madonna-confessions-ii-the-film-release-youtube-1236768171/",
-      "source": "Variety",
-      "timestamp": "2026-06-05T19:39:33+00:00",
-      "score": 12,
-      "summary": "Madonna has announced that she will release \u201cConfessions II \u2013 The Film\u201d on YouTube on June 8 at 11 a.m. ET. The film, directed by David Toro and Solomon Chase (Torso), is set to have its world premiere on Friday night at New York City\u2019s Beacon Theatre as part of the Tribeca Fi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Release",
-        "Confessions",
-        "Film",
-        "YouTube",
-        "Next",
-        "Week"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Paramount Ordered to Release Board Communications on Skydance Megadeal",
-      "link": "https://www.hollywoodreporter.com/business/business-news/paramount-board-communications-skydance-megadeal-1236614789/",
-      "source": "THR",
-      "timestamp": "2026-06-05T19:29:16+00:00",
-      "score": 14,
-      "summary": "A flurry of cases look to answer whether Shari Redstone unfairly steered the sale of National Amusements, the entity through which she controlled Paramount, to Skydance.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ordered",
-        "Release",
-        "Board",
-        "Communications",
-        "Skydance",
-        "Megadeal"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -51409,6 +51403,109 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 4.8 - 1 km SE of Balangonan, Philippines",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srcc",
+      "source": "USGS",
+      "timestamp": "2026-06-08T00:57:25.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-08 00:42:26 UTC2026-06-08 00:42:26 UTC at epicenterLocation5.566\u00b0N 125.360\u00b0EDepth35.00 km (21.75 mi)",
+      "country": "Philippines",
+      "region": "Southeast Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Balangonan",
+        "Philippines"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 45 km SSE of Whites City, New Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026leclwp",
+      "source": "USGS",
+      "timestamp": "2026-06-08T00:56:18.110000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-08 00:52:00 UTC2026-06-08 00:52:00 UTC at epicenterLocation31.811\u00b0N 104.150\u00b0WDepth0.00 km (0.00 mi)",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Whites",
+        "City",
+        "New",
+        "Mexico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green earthquake (Magnitude 6M, Depth:35km) in Philippines 07/06/2026 23:49 UTC, 2.6 million in 100km.",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544726",
+      "source": "GDACS",
+      "timestamp": "2026-06-08T00:50:42+00:00",
+      "score": 15,
+      "summary": "On 6/7/2026 11:49:13 PM, an earthquake occurred in Philippines potentially affecting 2.6 million in 100km. The earthquake had Magnitude 6M, Depth:35km.",
+      "country": "Philippines",
+      "region": "Southeast Asia",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Seismic"
+      ],
+      "entities": [
+        "Magnitude",
+        "Depthkm",
+        "Philippines",
+        "UTC"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 2.3 - 33 km W of Balmorhea, Texas",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026lebxkj",
@@ -57823,105 +57920,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.4 - 10 km W of Tyonek, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lddsnh",
-      "source": "USGS",
-      "timestamp": "2026-06-06T13:10:34.365000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-06 13:08:43 UTC2026-06-06 13:08:43 UTC at epicenterLocation61.054\u00b0N 151.329\u00b0WDepth79.50 km (49.40 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tyonek",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 25 km WNW of Ivanof Bay, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lddjgb",
-      "source": "USGS",
-      "timestamp": "2026-06-06T13:01:34.008000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-06 12:57:57 UTC2026-06-06 12:57:57 UTC at epicenterLocation55.997\u00b0N 159.862\u00b0WDepth5.60 km (3.48 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Ivanof",
-        "Bay",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 19 km N of Meadow Lakes, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lddgrx",
-      "source": "USGS",
-      "timestamp": "2026-06-06T12:57:03.846000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-06 12:55:07 UTC2026-06-06 12:55:07 UTC at epicenterLocation61.801\u00b0N 149.617\u00b0WDepth31.10 km (19.32 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Meadow",
-        "Lakes",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
