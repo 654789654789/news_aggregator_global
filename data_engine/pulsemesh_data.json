@@ -13235,6 +13235,39 @@
   ],
   "World": [
     {
+      "title": "Breaking: Pilots 'fine' after US helicopter goes down near Strait of Hormuz",
+      "link": "https://www.abc.net.au/news/2026-06-09/us-apache-helicopter-goes-down-near-strait-of-hormuz/106776686",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-09T04:51:57+00:00",
+      "score": 14,
+      "summary": "Donald Trump confirms reports of a US Apache helicopter crash near the Strait of Hormuz.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pilots",
+        "Strait",
+        "Hormuz"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "U.S. crew rescued after helicopter goes down near Strait Of Hormuz: report",
       "link": "https://www.thehindu.com/news/international/crew-rescued-after-us-helicopter-goes-down-near-strait-of-hormuz-report/article71079206.ece",
       "source": "The Hindu",
@@ -13257,14 +13290,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 11.8,
+      "source_count": 12,
       "sources_reporting": [
-        "The Hindu"
+        "ABC Australia",
+        "Guardian",
+        "PBS",
+        "Reuters",
+        "The Hindu",
+        "Times of India"
       ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
+      "trend_accel": "+85%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Australia news live: Taylor leaves the door open to working with One Nation; NAB predicts interest rate cut in 2027",
@@ -13392,14 +13430,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 11.8,
+      "source_count": 13,
       "sources_reporting": [
-        "The Hindu"
+        "ABC Australia",
+        "AP",
+        "BBC",
+        "NPR",
+        "The Hindu",
+        "Times of India"
       ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
+      "trend_accel": "+89%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Australia news live: cost-of-living pressures \u2018back with a vengeance\u2019, survey shows; ASX slumps amid tech selloff",
@@ -16429,8 +16472,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 20,
       "sources_reporting": [
         "AP",
@@ -18418,8 +18461,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -19923,14 +19966,16 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Apple WWDC 2026 LIVE | What to expect and where to watch the keynote",
-      "link": "https://www.thehindu.com/sci-tech/technology/apple-wwdc-2026-live-coverage-and-highlights-from-the-keynote/article71075729.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-08T14:09:46+05:30",
+      "title": "Vodafone Idea share price jumps over 3% after Bombay High Court relief on spectrum charges",
+      "link": "https://www.livemint.com/market/stock-market-news/vodafone-idea-share-price-jumps-over-3-after-bombay-high-court-relief-on-spectrum-charges-11780980241952.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-09T10:22:27+05:30",
       "score": 15,
-      "summary": "Apple's WWDC this year runs between June 8 and June 12 and starts today at 22:30 IST",
+      "summary": "Vodafone Idea share price has gained 30% in one month, and has rallied 47% in three months. The telecom stock has surged 36% in six months, while it has jumped 106% in one year.&nbsp;",
       "country": "India",
       "region": "South Asia",
       "source_type": "Newspaper",
@@ -19939,9 +19984,10 @@
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "WWDC",
-        "LIVE",
-        "What"
+        "Idea",
+        "Bombay",
+        "High",
+        "Court"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19950,15 +19996,45 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "Livemint"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Small-cap stock BlueStone Jewellery share price falls 6.5% as investors offload stake worth  \u20b9300 crore via block deal",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-bluestone-jewellery-share-price-falls-6-5-as-investors-offload-stake-worth-rs-300-crore-via-block-deal-11780980113339.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-09T10:21:55+05:30",
+      "score": 17,
+      "summary": "BlueStone Jewellery share price falls 6.5% asinvestors sell stake via block deal. The floor price for the transaction was fixed at \u20b9520 per share, implying a discount of around 5.4% to Bluestone's closing price of \u20b9549.50 on the NSE on June 8, 2026.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "BlueStone",
+        "Jewellery"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "GSK in talks to acquire Nuvalent for more than $9 billion in biggest deal in over a decade: FT",
       "link": "https://www.cnbc.com/2026/06/09/gsk-in-talks-to-acquire-nuvalent-for-more-than-9-billion.html",
@@ -26606,73 +26682,6 @@
         "NYT"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'Bring 'em on': Delta wants United's crown over the Pacific, too",
-      "link": "https://www.cnbc.com/2026/06/07/delta-takes-on-united-over-the-pacific.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-07T18:19:15+00:00",
-      "score": 12,
-      "summary": "Delta's president, Peter Carter, told CNBC that the carrier wants to take United on over the Pacific.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Delta",
-        "Uniteds",
-        "Pacific"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'Bring 'em on': Most profitable airline Delta wants United's crown over the Pacific, too",
-      "link": "https://www.cnbc.com/2026/06/07/delta-takes-on-united-over-the-pacific.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-07T17:58:04+00:00",
-      "score": 14,
-      "summary": "Delta's president, Peter Carter, told CNBC that the carrier wants to take United on over the Pacific.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Most",
-        "Delta",
-        "Uniteds",
-        "Pacific"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -47341,7 +47350,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.4,
+      "trend_score": 8.3,
       "source_count": 13,
       "sources_reporting": [
         "Bloomberg",
@@ -47350,7 +47359,7 @@
         "Reuters",
         "Vogue"
       ],
-      "trend_accel": "+67%",
+      "trend_accel": "+66%",
       "heat_level": "SURGING"
     },
     {
@@ -52139,6 +52148,102 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.0 - 101 km WSW of Adak, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026libduc",
+      "source": "USGS",
+      "timestamp": "2026-06-09T05:00:43.450000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-09 04:49:57 UTC2026-06-09 04:49:57 UTC at epicenterLocation51.433\u00b0N 177.913\u00b0WDepth35.90 km (22.31 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Adak",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.7 - 6 km SE of Loma Linda, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41482960",
+      "source": "USGS",
+      "timestamp": "2026-06-09T04:55:51.285000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-09 04:52:27 UTC2026-06-09 04:52:27 UTC at epicenterLocation34.010\u00b0N 117.221\u00b0WDepth6.95 km (4.32 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Loma",
+        "Linda"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.8 - 6 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75373476",
+      "source": "USGS",
+      "timestamp": "2026-06-09T04:51:16.390000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-09 04:49:39 UTC2026-06-09 04:49:39 UTC at epicenterLocation38.818\u00b0N 122.794\u00b0WDepth3.09 km (1.92 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+63%",
       "heat_level": "LOW"
     },
     {
@@ -58539,102 +58644,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.6 - 70 km SW of Sarangani, Philippines",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srd6",
-      "source": "USGS",
-      "timestamp": "2026-06-08T03:00:48.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-08 02:38:08 UTC2026-06-08 02:38:08 UTC at epicenterLocation4.992\u00b0N 124.978\u00b0EDepth60.19 km (37.40 mi)",
-      "country": "Philippines",
-      "region": "Southeast Asia",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sarangani",
-        "Philippines"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 9 km WSW of Idyllwild, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41482216",
-      "source": "USGS",
-      "timestamp": "2026-06-08T03:00:35.829000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-08 02:58:29 UTC2026-06-08 02:58:29 UTC at epicenterLocation33.698\u00b0N 116.806\u00b0WDepth17.49 km (10.87 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Idyllwild"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.3 - 16 km N of Morgan Hill, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75372721",
-      "source": "USGS",
-      "timestamp": "2026-06-08T02:45:31.091000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-08 02:43:37 UTC2026-06-08 02:43:37 UTC at epicenterLocation37.277\u00b0N 121.636\u00b0WDepth5.05 km (3.14 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Morgan",
-        "Hill"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
