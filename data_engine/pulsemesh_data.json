@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "AARP: New Social Security report should be \u2018wake-up call\u2019",
+      "link": "https://thehill.com/homenews/administration/5916868-aarp-social-security/",
+      "source": "The Hill",
+      "timestamp": "2026-06-09T20:47:42+00:00",
+      "score": 12,
+      "summary": "After the Trump administration on Tuesday released its annual report on Social Security and its projected future, officials from AARP urged action to protect the program. The annual report from the board of trustees of Social Security and Medicare stated that Social Security\u2019s...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "New",
+        "Social",
+        "Security"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Blanche Was Once Seen as Tempering Trump\u2019s Tactics. Now He\u2019s All In.",
       "link": "https://www.nytimes.com/2026/06/09/us/politics/blanche-trump-justice-department-retribution.html",
       "source": "NYT",
@@ -6622,24 +6655,26 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Dalit teen beaten to death in Tehri Garhwal over inter-caste friendship",
-      "link": "https://www.thehindu.com/news/national/uttarakhand/dalit-teen-beaten-to-death-in-tehri-garhwal-over-inter-caste-friendship/article71079185.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-09T09:32:53+05:30",
-      "score": 12,
-      "summary": "According to a complaint lodged by Ketan's father, Dhanpal Lal, the incident occurred on June 8 night in Kholgarh village",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "GM thinks EVs can help offset AI\u2019s energy suck with vehicle-to-grid tech",
+      "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+      "source": "Verge",
+      "timestamp": "2026-06-09T17:00:00-04:00",
+      "score": 14,
+      "summary": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data centers. The automaker announced that it would be activating new vehicle-to-grid ca...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Tehri",
-        "Garhwal"
+        "EVs",
+        "AIs"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6650,13 +6685,71 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "GM joins race to build batteries for AI data centers and the grid",
+      "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-09T21:00:00+00:00",
+      "score": 14,
+      "summary": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "TechCrunch"
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "Hey Siri, here\u2019s what I actually want from AI",
+      "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-09T20:50:17+00:00",
+      "score": 14,
+      "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Siri"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Anthropic\u2019s Fable 5 can make weirdly fun video games with the click of a button",
       "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
@@ -13142,23 +13235,54 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Windows is back on the Microsoft menu",
-      "link": "https://www.theverge.com/tech/943108/microsoft-build-2026-windows-love-notepad",
-      "source": "Verge",
-      "timestamp": "2026-06-04T12:00:00-04:00",
+      "title": "Five mattresses on the floor as families wait months for repairs",
+      "link": "https://www.abc.net.au/news/2026-06-10/overcrowding-issues-public-housing-waitlist-wilcannia/106737970",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-09T20:56:05+00:00",
       "score": 12,
-      "summary": "I can't remember the last time Microsoft kicked off a Build keynote with Windows front and center, but that's exactly what CEO Satya Nadella did this week. Nadella didn't address the issues Microsoft is trying to fix in Windows 11 but chose to woo the audience with Microsoft's...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "Delays in maintenance repairs, including mould removal, are forcing families to sleep on mattresses in living rooms, adding to overcrowding pressures in remote homes.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Protesters torch vehicles, block roads over Belfast stabbing",
+      "link": "https://www.thehindu.com/news/international/protesters-torch-vehicles-block-roads-over-belfast-stabbing/article71082408.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-10T02:17:40+05:30",
+      "score": 12,
+      "summary": "Northern Irish police and British authorities issued repeated calls for calm earlier on Tuesday (June 9) following the attack captured in a gruesome video that shocked the country.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
       "entities": [
-        "Microsoft"
+        "Belfast"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13169,83 +13293,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "The Hindu"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Cash App made a magic wand for contactless payments",
-      "link": "https://www.theverge.com/tech/942897/cash-app-tags-magic-wand-contactless-payments-price-launch",
-      "source": "Verge",
-      "timestamp": "2026-06-04T12:00:00-04:00",
-      "score": 12,
-      "summary": "The convenience of contactless payments can already feel magical, but Cash App is really leaning into that with its latest accessory. The mobile payment service is launching the Cash App Wand: an NFC-enabled, iridescent, star-topped wand that allows users to make on-the-go pay...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "App"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 11,
-      "sources_reporting": [
-        "AP",
-        "BBC",
-        "Reuters",
-        "TechCrunch",
-        "Verge"
-      ],
-      "trend_accel": "+65%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Cash App launches a wand for tap-and-pay",
-      "link": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
-      "source": "TechCrunch",
-      "timestamp": "2026-06-04T16:00:00+00:00",
-      "score": 12,
-      "summary": "Cash App plans to launch more tap-to-pay tags",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "App"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 15,
-      "sources_reporting": [
-        "AP",
-        "NHK",
-        "Reuters",
-        "TechCrunch",
-        "Verge"
-      ],
-      "trend_accel": "+68%",
-      "heat_level": "HOT"
-    }
-  ],
-  "World": [
     {
       "title": "UK and allies sanction 'networks' enabling settler violence in West Bank",
       "link": "https://www.bbc.com/news/articles/cddl4dl9m3po?at_medium=RSS&at_campaign=rss",
@@ -18910,7 +18962,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.6,
+      "trend_score": 11.5,
       "source_count": 16,
       "sources_reporting": [
         "ABC Australia",
@@ -18923,7 +18975,7 @@
         "The Hindu",
         "Times of India"
       ],
-      "trend_accel": "+88%",
+      "trend_accel": "+87%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19810,57 +19862,31 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "OpenAI confidentially files for US IPO as AI boom drives investor frenzy",
-      "link": "https://www.france24.com/en/technology/20260609-openai-confidentially-files-for-us-ipo-as-ai-boom-drives-investor-frenzy",
-      "source": "France24",
-      "timestamp": "2026-06-09T01:18:36+00:00",
-      "score": 14,
-      "summary": "ChatGPT maker OpenAI has confidentially filed for a US initial public offering, the company said on Monday, joining rivals such as Anthropic in a race towards public markets amid surging investor interest in artificial intelligence. The firm did not disclose terms or timing.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "IPO"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Reality star Spencer Pratt out of L.A. mayor's race as progressive Nithya Raman advances",
-      "link": "https://www.cbc.ca/news/world/la-mayor-spencer-pratt-nithya-raman-9.7227891?cmp=rss",
-      "source": "CBC News",
-      "timestamp": "2026-06-08T21:09:50-04:00",
+      "title": "Emerging Assets Stage Rebound as Dollar Weakens Ahead of CPI",
+      "link": "https://www.livemint.com/market/emerging-assets-stage-rebound-as-dollar-weakens-ahead-of-cpi-11781038102751.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-10T02:18:22+05:30",
       "score": 12,
-      "summary": "Progressive city council member Nithya Raman has advanced to a November runoff against Los Angeles Mayor Karen Bass, setting up an unexpected matchup between two Democrats and former political allies to run the struggling city of nearly four million people.",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "summary": "Emerging-market assets gained Tuesday, with Asian technology shares rebounding from steep losses earlier in the week and most currencies strengthening against the dollar ahead of a key US inflation report.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Spencer",
-        "Pratt",
-        "Nithya",
-        "Raman"
+        "Assets",
+        "Stage",
+        "Rebound",
+        "Dollar",
+        "Weakens",
+        "Ahead",
+        "CPI"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19871,13 +19897,78 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "CBC News"
+        "Livemint"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Stocks Drop on Tech Fears and War Worries",
+      "link": "https://www.nytimes.com/2026/06/09/business/oil-gas-prices-iran.html",
+      "source": "NYT",
+      "timestamp": "2026-06-09T20:46:29+00:00",
+      "score": 14,
+      "summary": "Oil prices fell after Israel and Iran agreed to halt strikes against each other, easing fears of a broader regional conflict that had briefly driven crude higher.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Drop",
+        "Tech",
+        "Fears",
+        "War",
+        "Worries"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Equities fall while oil slips amid uncertain Middle East outlook",
+      "link": "https://www.livemint.com/market/equities-fall-while-oil-slips-amid-uncertain-middle-east-outlook-11781037978093.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-10T02:16:17+05:30",
+      "score": 14,
+      "summary": "GLOBAL-MARKETS/ (WRAPUP 7, PIX):GLOBAL MARKETS-Equities fall while oil slips amid uncertain Middle East outlook",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Middle",
+        "East"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "SpaceX IPO explained: The price is set, but retail allocation still up in the air",
       "link": "https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html",
@@ -26452,25 +26543,25 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "WWDC 2026: Liquid Glass changes, next MacOS named",
-      "link": "https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-08T17:14:12+00:00",
-      "score": 15,
-      "summary": "Follow Apple WWDC 2026 live updates as the keynote spotlights AI, software, Siri and developer tools and likely CEO John Ternus's first major appearance.",
+      "title": "Nature's 'master painters': Study reveals how damselflies break optical barriers to create saturated colors",
+      "link": "https://phys.org/news/2026-06-nature-master-painters-reveals-damselflies.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-09T17:00:06-04:00",
+      "score": 14,
+      "summary": "Scientists at Ben-Gurion University of the Negev (BGU) have uncovered for the first time the \"ingenious\" biological strategies that allow blue-tailed damselflies to produce strikingly vivid, angle-independent colors. The study, published in the Proceedings of the National Acad...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Liquid",
-        "Glass",
-        "MacOS"
+        "Study"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26479,32 +26570,29 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
     },
     {
-      "title": "Convicted FTX founder Sam Bankman-Fried files formal request for Trump pardon",
-      "link": "https://www.cnbc.com/2026/06/08/sam-bankman-fried-files-formal-request-for-presidential-pardon-.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-08T17:14:03+00:00",
+      "title": "The fifth national climate assessment: Report shows change is here, but there is hope",
+      "link": "https://phys.org/news/2026-06-national-climate.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-09T17:00:04-04:00",
       "score": 12,
-      "summary": "The cofounder of the now defunct FTX crypto exchange is currently serving a 25-year federal prison sentence.",
+      "summary": "The Fifth National Climate Assessment was released this morning, with dire messaging around the need for the immediate reduction of greenhouse gas emissions\u2014but also hope, with advances in technology and increased adoption of renewable energy since the last report was issued i...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "FTX",
-        "Sam",
-        "BankmanFried",
-        "Trump"
+        "Report"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26515,46 +26603,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Rail Vikas Nigam shares to be in focus on Tuesday as company secures  \u20b9221 crore order",
-      "link": "https://www.livemint.com/market/stock-market-news/rail-vikas-nigam-shares-to-be-in-focus-on-tuesday-as-company-secures-rs-221-crore-order-11780937638919.html",
-      "source": "Livemint",
-      "timestamp": "2026-06-08T22:43:45+05:30",
-      "score": 17,
-      "summary": "Rail Vikas Nigam secured a \u20b9221.33 crore EPC contract from South East Central Railway for interlocking and signalling works across multiple stations. Despite recent order wins, the stock has faced selling pressure due to weak earnings, resulting in a year-to-date loss of 36%.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Vikas",
-        "Nigam",
-        "Tuesday"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "Scientists uncover RNA's hidden role as protein chaperone",
       "link": "https://phys.org/news/2026-06-scientists-uncover-rna-hidden-role.html",
@@ -32580,67 +32633,6 @@
         "Phys.org"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Birth rates are declining in most of the world\u2014here's why it really matters",
-      "link": "https://phys.org/news/2026-06-birth-declining-world.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-06T08:00:05-04:00",
-      "score": 10,
-      "summary": "Birth rates have been declining worldwide since the peak of the post-Second World War baby boom. Birth rates have now reached below replacement in most of the world, including Australia. Put simply, populations on average aren't replacing themselves.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The World Cup pitches are the result of years of engineering to find just the right grass",
-      "link": "https://phys.org/news/2026-06-world-cup-pitches-result-years.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-06T07:40:01-04:00",
-      "score": 12,
-      "summary": "The World Cup pitches cover so much ground they'll be hard to ignore. The crews that put them there would prefer if fans didn't notice them at all.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "World",
-        "Cup"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -38956,6 +38948,127 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Adults\u2019 Season 2 Sets Release Date, Guest Stars Include Jake Shane and Gaten Matarazzo",
+      "link": "https://variety.com/2026/tv/news/adults-season-2-release-date-guest-stars-jake-shane-1236770826/",
+      "source": "Variety",
+      "timestamp": "2026-06-09T21:00:00+00:00",
+      "score": 15,
+      "summary": "FX\u2019s \u201cAdults\u201d officially has a Season 2 premiere date. The entire eight-episode season will be released on Aug. 27 all at once on FXX on-demand and Hulu at 9 p.m. ET / 6 p.m. PT. Two episodes will premiere each week on FXX and the series will also be available on Disney+ inter...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Season",
+        "Sets",
+        "Release",
+        "Date",
+        "Guest",
+        "Stars",
+        "Include",
+        "Jake",
+        "Shane",
+        "Gaten",
+        "Matarazzo"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Chris Brown Settles \u2018Monalisa\u2019 and \u2018Sensational\u2019 Lawsuit from Lyricist",
+      "link": "https://www.rollingstone.com/music/music-news/chris-brown-sensational-monalisa-lawsuit-sean-kingston-1235574975/",
+      "source": "Rolling Stone",
+      "timestamp": "2026-06-09T20:58:47+00:00",
+      "score": 12,
+      "summary": "The R&B star was accused of denying credit and cutting the plaintiff out of millions in revenue",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Brown",
+        "Settles",
+        "Monalisa",
+        "Sensational",
+        "Lawsuit",
+        "Lyricist"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Rolling Stone"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Sun Valley 2026: David Ellison, Bari Weiss, Disney\u2019s Josh D\u2019Amaro, Jeff Bezos and More Make the List (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/david-ellison-bari-weiss-josh-damaro-sun-valley-2026-1236770724/",
+      "source": "Variety",
+      "timestamp": "2026-06-09T20:56:49+00:00",
+      "score": 15,
+      "summary": "No room this summer on David Geffen\u2019s mega-yacht, Rising Sun? Oligarchs and moguls needn\u2019t worry, there\u2019s always July in Sun Valley \u2013 Allen & Co.\u2019s annual leadership retreat for media and tech barons in Idaho. The \u201cbillionaire summer camp\u201d has long been the scene for trust fal...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Valley",
+        "David",
+        "Ellison",
+        "Bari",
+        "Weiss",
+        "Disneys",
+        "Josh",
+        "DAmaro",
+        "Jeff",
+        "Bezos",
+        "More",
+        "Make",
+        "List",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Cannes Photo Diary: Bella Hadid, Charles Melton, Renate Reinsve, Marion Cotillard and More",
       "link": "https://www.hollywoodreporter.com/gallery/cannes-photo-diary-stars-france-1236615024/",
@@ -46932,125 +47045,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Inside Zegna\u2019s Runway Show Afterparty at Bar Marmont With Surprise Performance by The Sparks",
-      "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/zegna-malibu-show-afterparty-guests-photos-1236616207/",
-      "source": "THR",
-      "timestamp": "2026-06-08T19:25:36+00:00",
-      "score": 12,
-      "summary": "Rami Malek, Stellan Skarsgard, Paul Dano, Roman Coppola, Gael Garc\u00eda Bernal, Kevin Love, Ludwig Goransson and others turned up at the event where no personal photography was allowed.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Zegnas",
-        "Runway",
-        "Show",
-        "Afterparty",
-        "Bar",
-        "Marmont",
-        "Surprise",
-        "Performance",
-        "Sparks"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "NBA Finals Game 3 Livestream: Where to Watch the New York Knicks vs. San Antonio Spurs Basketball Game Online Free",
-      "link": "https://variety.com/2026/shopping/news/how-to-watch-nba-finals-2026-knicks-vs-spurs-live-online-free-1236766054/",
-      "source": "Variety",
-      "timestamp": "2026-06-08T19:25:00+00:00",
-      "score": 15,
-      "summary": "The New York Knicks head home to Madison Square Garden this week as the 2026 NBA Finals head into Games 3 and 4. The Knicks are facing off against the San Antonio Spurs in a bid to hoist the Larry O\u2019Brien Championship Trophy for the first time since 1973. Tipoff for Game 3 ton...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Finals",
-        "Game",
-        "Livestream",
-        "Where",
-        "Watch",
-        "New",
-        "York",
-        "Knicks",
-        "San",
-        "Antonio",
-        "Spurs",
-        "Basketball",
-        "Online",
-        "Free"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Jodie Turner-Smith Shares Summer Plans With Daughter Juno",
-      "link": "https://www.eonline.com/news/1432764/jodie-turner-smith-details-summer-with-daughter-juno-turning-40?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-06-08T19:19:02+00:00",
-      "score": 12,
-      "summary": "Jodie Turner-Smith has the scoop on her summer plans. With her 40th birthday around the corner on Sept. 7, the Agency star plans to kick off the celebrations early alongside her and ex-husband...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "TurnerSmith",
-        "Shares",
-        "Summer",
-        "Plans",
-        "Daughter",
-        "Juno"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52226,6 +52220,38 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.4 - 2 km WNW of Concord, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75373891",
+      "source": "USGS",
+      "timestamp": "2026-06-09T20:57:31.224000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-09 20:52:10 UTC2026-06-09 20:52:10 UTC at epicenterLocation37.976\u00b0N 122.036\u00b0WDepth16.28 km (10.12 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Concord"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
       "heat_level": "LOW"
     },
     {
@@ -58678,38 +58704,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 1 km NNE of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75373111",
-      "source": "USGS",
-      "timestamp": "2026-06-08T19:29:29.127000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-08 19:27:54 UTC2026-06-08 19:27:54 UTC at epicenterLocation38.787\u00b0N 122.750\u00b0WDepth0.66 km (0.41 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
