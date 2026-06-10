@@ -1,6 +1,42 @@
 {
   "Politics": [
     {
+      "title": "Nevada Attorney General Wins Democratic Nomination for Governor",
+      "link": "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html",
+      "source": "NYT",
+      "timestamp": "2026-06-10T03:46:29+00:00",
+      "score": 12,
+      "summary": "Aaron Ford easily outpaced a Washoe County commissioner, Alexis Hill, for the nod to take on Gov. Joe Lombardo in November.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Attorney",
+        "General",
+        "Wins",
+        "Democratic",
+        "Nomination",
+        "Governor"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Bharathiraja passes away | Tributes pour in for Tamil cinema's transformative voice",
       "link": "https://www.thehindu.com/entertainment/movies/bharathiraja-tamil-nadu-film-cinema-director-passes-away-chennai-hospital-reactions-updates-june-10-2026/article71083374.ece",
       "source": "The Hindu",
@@ -884,14 +920,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 10.7,
+      "source_count": 19,
       "sources_reporting": [
-        "PBS"
+        "BBC",
+        "Bloomberg",
+        "Guardian",
+        "NYT",
+        "PBS",
+        "The Hill"
       ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Tommy Robinson meets Elon Musk\u2019s father in Moscow - The Guardian",
@@ -1091,8 +1132,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
+      "trending": true,
+      "trend_score": 10.6,
       "source_count": 19,
       "sources_reporting": [
         "BBC",
@@ -3538,8 +3579,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "AP",
@@ -6064,8 +6105,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 10.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "Bloomberg",
@@ -6719,49 +6760,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz",
-      "link": "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html",
-      "source": "NYT",
-      "timestamp": "2026-06-09T10:12:55+00:00",
-      "score": 14,
-      "summary": "It was not immediately clear what led to the incident, which came at a time when the cease-fire in the war has grown tenuous.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rescued",
-        "After",
-        "Helicopter",
-        "Goes",
-        "Down",
-        "Near",
-        "Strait",
-        "Hormuz"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 12,
-      "sources_reporting": [
-        "AP",
-        "BBC",
-        "Bloomberg",
-        "NYT",
-        "PBS",
-        "The Hill"
-      ],
-      "trend_accel": "+78%",
-      "heat_level": "CRITICAL"
     }
   ],
   "Tech": [
@@ -15451,7 +15449,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 14,
       "sources_reporting": [
         "ABC Australia",
@@ -20021,6 +20019,115 @@
     }
   ],
   "Business": [
+    {
+      "title": "China May wholesale inflation hits near 4-year high on Iran war-led higher input costs, AI boom",
+      "link": "https://www.cnbc.com/2026/06/10/china-cpi-ppi-inflation-may-consumer-prices-producer-oil-iran-war-ai-tech-.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-10T04:00:17+00:00",
+      "score": 17,
+      "summary": "Price growth has been boosted by a surge in global commodity costs, as the Middle East conflict disrupted energy and raw material flows.",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics",
+        "Bio-Security"
+      ],
+      "entities": [
+        "May",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Hong Kong Dollar Carry Trade Appeal Dims as Funding Costs Climb",
+      "link": "https://www.livemint.com/market/hong-kong-dollar-carry-trade-appeal-dims-as-funding-costs-climb-11781063870007.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-10T09:27:49+05:30",
+      "score": 12,
+      "summary": "A seasonal cash demand spike in Hong Kong is set to lift funding costs, making it less attractive to pursue a carry trade using the local dollar, analysts said.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kong",
+        "Dollar",
+        "Carry",
+        "Trade",
+        "Appeal",
+        "Dims",
+        "Funding",
+        "Costs",
+        "Climb"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Bajaj Finserv to Union Bank - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
+      "link": "https://www.livemint.com/market/stock-market-news/bajaj-finserv-to-union-bank-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11781062714210.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-10T09:23:25+05:30",
+      "score": 17,
+      "summary": "The stock market showed little movement as U.S.-Iran tensions weighed on sentiment. Nifty 50 fell slightly while Sensex gained modestly. Analysts recommend buying Bajaj Finserv, Union Bank, and Divis Labs futures with specific targets and stop-loss strategies.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Finserv",
+        "Union",
+        "Bank",
+        "Jay",
+        "Thakkar"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "China May wholesale inflation hits near 4-year high on Iran war, AI boom; CPI misses",
       "link": "https://www.cnbc.com/2026/06/10/china-cpi-ppi-inflation-may-consumer-prices-producer-oil-iran-war-ai-tech-.html",
@@ -26591,88 +26698,21 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "OpenAI files confidentially for IPO \u2014 but there\u2019s a catch",
-      "link": "https://www.marketwatch.com/story/openai-files-confidentially-for-ipo-but-theres-a-catch-3f13fc13?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-06-08T21:55:00+00:00",
+      "title": "To discover new physics, AI may need to 'unlearn' the old one",
+      "link": "https://phys.org/news/2026-06-physics-ai-unlearn.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-10T00:00:01-04:00",
       "score": 14,
-      "summary": "\u201cIt may be a while because there are things we want to do that are likely easier as a private company,\u201d OpenAI says.",
+      "summary": "A study in the Journal of Cosmology and Astroparticle Physics explores how a machine-learning strategy known as transfer learning could dramatically reduce the computational cost of searching for new physics beyond the standard cosmological model\u2014while also revealing an unexpe...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "IPO"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Hoyle Schweitzer, Who Brought Windsurfing to the Masses, Dies at 93",
-      "link": "https://www.nytimes.com/2026/06/08/business/hoyle-schweitzer-dead.html",
-      "source": "NYT",
-      "timestamp": "2026-06-08T21:46:33+00:00",
-      "score": 15,
-      "summary": "With his friend Jim Drake, he built the Windsurfer, a sailboard that was cheaper and more portable than most sailboats. It became a global phenomenon.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Science Publication",
       "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Schweitzer",
-        "Who",
-        "Brought",
-        "Windsurfing",
-        "Masses",
-        "Dies"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Your tech portfolio could be on the wrong side of the AI boom",
-      "link": "https://www.marketwatch.com/story/your-next-videogame-console-could-cost-1-000-and-it-has-nothing-to-do-with-better-hardware-8cb180dd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-06-08T21:44:00+00:00",
-      "score": 14,
-      "summary": "Why the coming $1,000 videogame console will squeeze hardware stocks.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26685,13 +26725,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "MarketWatch"
+        "Phys.org"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Study finds fishing bycatch does not attract lesser black-backed gulls out of wind farms",
       "link": "https://phys.org/news/2026-06-fishing-bycatch-lesser-black-gulls.html",
@@ -32760,35 +32798,6 @@
         "Phys.org"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Residents' health fears over plan to burn more waste",
-      "link": "https://www.bbc.com/news/articles/c1eypqxd928o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-06-07T12:07:17+00:00",
-      "score": 10,
-      "summary": "The Environment Agency has permitted for an extra 10% of waste to be burned at the Beddington incinerator.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -39058,6 +39067,48 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Taylor Swift Surprises With Performance At \u2018Toy Story 5\u2019 Premiere In Los Angeles, Including Randy Newman Duet",
+      "link": "https://deadline.com/2026/06/taylor-swift-toy-story-5-red-carpet-premiere-los-angeles-1236952098/",
+      "source": "Deadline",
+      "timestamp": "2026-06-10T03:50:00+00:00",
+      "score": 15,
+      "summary": "Taylor Swift is in her Tay Story era. The musician stepped out to join the Toy Story 5 cast at the Los Angeles premiere on Tuesday evening on the heels of her new original song for the film \u201cI Knew It, I Knew You,\u201d breaking records last week. The singer-songwriter stopped for ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Swift",
+        "Surprises",
+        "Performance",
+        "Toy",
+        "Story",
+        "Premiere",
+        "Los",
+        "Angeles",
+        "Including",
+        "Randy",
+        "Newman",
+        "Duet"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Taylor Swift Has Arrived at the \u2018Toy Story 5\u2019 Premiere",
       "link": "https://www.rollingstone.com/music/music-news/taylor-swift-toy-story-5-premiere-1235575169/",
@@ -47097,46 +47148,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Nithya Raman Takes a Decisive Lead for L.A. Mayor, Ending Spencer Pratt\u2019s Meteoric Rise",
-      "link": "https://www.hollywoodreporter.com/news/politics-news/nithya-raman-beats-spencer-pratt-la-mayor-1236616944/",
-      "source": "THR",
-      "timestamp": "2026-06-09T01:20:23+00:00",
-      "score": 12,
-      "summary": "A lead on election night didn\u2019t hold, and 'The Hills' star is politically done (for now).",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Raman",
-        "Takes",
-        "Decisive",
-        "Lead",
-        "Mayor",
-        "Ending",
-        "Spencer",
-        "Pratts",
-        "Meteoric",
-        "Rise"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52239,6 +52250,103 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.5 - 17 km SW of Mentone, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026lhzsiw",
+      "source": "USGS",
+      "timestamp": "2026-06-10T04:00:35.835000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-10 03:47:02 UTC2026-06-10 03:47:02 UTC at epicenterLocation31.600\u00b0N 103.735\u00b0WDepth5.80 km (3.60 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mentone",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 9 km ESE of Balmorhea, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026lhzuom",
+      "source": "USGS",
+      "timestamp": "2026-06-10T04:00:12.960000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-10 03:49:29 UTC2026-06-10 03:49:29 UTC at epicenterLocation30.939\u00b0N 103.661\u00b0WDepth0.00 km (0.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Balmorhea",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.9 - 11 km SSW of Idyllwild, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41483760",
+      "source": "USGS",
+      "timestamp": "2026-06-10T03:53:52.760000+00:00",
+      "score": 15,
+      "summary": "DYFI? - ITime2026-06-10 03:50:24 UTC2026-06-10 03:50:24 UTC at epicenterLocation33.654\u00b0N 116.781\u00b0WDepth11.00 km (6.84 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Idyllwild"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
     {
       "title": "South Sudan: Humanitarian Snapshot (May 2026)",
       "link": "https://reliefweb.int/report/south-sudan/south-sudan-humanitarian-snapshot-may-2026",
@@ -58706,104 +58814,6 @@
         "USGS"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.1 - 97 km W of San Antonio de los Cobres, Argentina",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srna",
-      "source": "USGS",
-      "timestamp": "2026-06-09T01:51:16.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-09 01:30:42 UTC2026-06-09 01:30:42 UTC at epicenterLocation24.308\u00b0S 67.275\u00b0WDepth189.48 km (117.74 mi)",
-      "country": "Argentina",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "San",
-        "Antonio",
-        "Cobres",
-        "Argentina"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.2 - 10 km NNW of Mina, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00919940",
-      "source": "USGS",
-      "timestamp": "2026-06-09T01:37:48.667000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-09 01:11:55 UTC2026-06-09 01:11:55 UTC at epicenterLocation38.479\u00b0N 118.153\u00b0WDepth5.46 km (3.39 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Mina",
-        "Nevada"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 14 km NW of Grapevine, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41482920",
-      "source": "USGS",
-      "timestamp": "2026-06-09T01:27:08.140000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-09 01:16:16 UTC2026-06-09 01:16:16 UTC at epicenterLocation35.034\u00b0N 119.034\u00b0WDepth13.36 km (8.30 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Grapevine"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
