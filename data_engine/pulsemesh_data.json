@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "As Iran war drags on, spiking energy prices send inflation to 3-year high",
+      "link": "https://www.pbs.org/newshour/show/as-iran-war-drags-on-spiking-energy-prices-send-inflation-to-3-year-high",
+      "source": "PBS",
+      "timestamp": "2026-06-10T18:50:05-04:00",
+      "score": 17,
+      "summary": "Spiking energy prices sent inflation to a three-year high in May, up 4.2% annually. The Labor Department said the cost of energy was responsible for over 60% of the increase. Core inflation, which strips out volatile food and energy prices, was up a more modest 2.9%. Geoff Ben...",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "FISA Surveillance Law May Expire After Trump Picks Bill Pulte for Intel Post",
       "link": "https://www.nytimes.com/2026/06/10/us/politics/trump-bill-pulte-spy-law.html",
       "source": "NYT",
@@ -4795,7 +4826,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.8,
+      "trend_score": 8.7,
       "source_count": 18,
       "sources_reporting": [
         "Guardian",
@@ -4804,7 +4835,7 @@
         "PBS",
         "The Hindu"
       ],
-      "trend_accel": "+70%",
+      "trend_accel": "+69%",
       "heat_level": "SURGING"
     },
     {
@@ -6539,30 +6570,25 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Democrats Face Another Long Wait for Results in Maine Swing District",
-      "link": "https://www.nytimes.com/2026/06/09/us/politics/maine-2-house-democratic-primary.html",
-      "source": "NYT",
-      "timestamp": "2026-06-10T04:04:56+00:00",
+      "title": "Apple\u2019s new Siri AI knows when to shut up",
+      "link": "https://www.theverge.com/tech/948155/apple-siri-ai-chatbot-personality",
+      "source": "Verge",
+      "timestamp": "2026-06-10T18:52:17-04:00",
       "score": 14,
-      "summary": "No candidate cleared 50 percent in the Democratic primary race to replace Representative Jared Golden, sending the race into ranked-choice voting.",
+      "summary": "Apple's new Siri AI is finally here, and so far, it seems like it works. I have access and have been messing around with it, and my biggest impression so far is that Siri AI is quite curt - which I mean as a compliment. Many AI chatbots are cheery and wordy. While a more [\u2026]",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Face",
-        "Another",
-        "Long",
-        "Wait",
-        "Results",
-        "Maine",
-        "Swing",
-        "District"
+        "Siri"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6571,15 +6597,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "NYT"
+        "Verge"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
       "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
@@ -11054,7 +11078,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.9,
+      "trend_score": 10.8,
       "source_count": 19,
       "sources_reporting": [
         "Google News",
@@ -13099,24 +13123,28 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Beyond Instagram: Introducing the next generation of social apps",
-      "link": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
-      "source": "TechCrunch",
-      "timestamp": "2026-06-06T15:00:00+00:00",
+      "title": "U.S. launches new strikes in Iran after missiles target American bases",
+      "link": "https://www.pbs.org/newshour/show/u-s-launches-new-strikes-in-iran-after-missiles-target-american-bases",
+      "source": "PBS",
+      "timestamp": "2026-06-10T18:55:23-04:00",
       "score": 12,
-      "summary": "These newer social apps offer alternatives to Big Tech\u2019s feeds, focusing on interests, creativity, and community.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "The U.S. is again striking targets in Iran after missile launches targeting U.S. bases in the region. President Trump revealed the U.S. has been helping stranded vessels transit the Strait of Hormuz, asserting American control over the vital waterway. Ali Rogin reports.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Military"
+      ],
       "entities": [
-        "Instagram",
-        "Introducing"
+        "Iran",
+        "American"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13127,13 +13155,111 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "TechCrunch"
+        "PBS"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump says US secretly helped ships move oil through Strait of Hormuz",
+      "link": "https://www.abc.net.au/news/2026-06-11/trump-says-us-secretly-helped-ships-move-oil-in-hormuz-strait/106784294",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-10T22:51:49+00:00",
+      "score": 14,
+      "summary": "The US president says his military has been running a \"secret mission\" to help tankers and commercial ships defy Iran's blockade.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Strait",
+        "Hormuz"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "West Asia war LIVE: U.S. launches new round of air strikes against Iran",
+      "link": "https://www.thehindu.com/news/international/iran-us-israel-war-live-updates-donald-trump-benjamin-netanyahu-mojtaba-khamenei-ceasefire-strait-of-hormuz-oil-prices-june-10-2026/article71083282.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-11T04:17:44+05:30",
+      "score": 14,
+      "summary": "Iran has taken too long to negotiate, they will have to pay the price, says Trump; Iran says Gulf nations have \u2018responsibility\u2019 to halt U.S. and Israeli strikes",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Asia",
+        "LIVE",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "U.S. military says it's striking 'multiple targets' in Iran in 2nd day of renewed fire",
+      "link": "https://www.npr.org/2026/06/10/nx-s1-5853882/us-strike-iran-second-day-renewed-fire",
+      "source": "NPR",
+      "timestamp": "2026-06-10T18:46:56-04:00",
+      "score": 15,
+      "summary": "The escalating attacks threatened to derail efforts to end the war, with President Trump warning that Tehran would \"pay the price\" for stalled negotiations.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NPR"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Mamdani was to meet with Colombia\u2019s leader. Trump made sure it didn\u2019t happen. - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWJyRlBvSC0xNFNRb1NQbkJNMnh5Y3JjZG5LX3RQakd4elNtVFJ1eUhCRzB0X0JYeGZkTW1tZzhyQm5sU2EyaEl0dkNWVjNRb0hDSEY3eGtxb2FkenJKbXEwS3FCNVRTVHNpMnc0d0ctcTROMFhMSnJydU1iUE02T1NMazl5RnR1MGVwZ3UycXlZa0VaaVo5VnhkeXN3TWYwdDFEMHlfUjVSQ2x6cnZueTczY0RRTVdJV0IyMmtnd0t4cHJCUVFhWHRRWQ?oc=5",
@@ -19765,85 +19891,32 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Beekeepers call for access to new biopesticide to target varroa mite",
-      "link": "https://www.abc.net.au/news/2026-06-10/beekeepers-call-for-investment-in-varroa-mite-treatment-norroa/106779554",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-10T05:23:18+00:00",
-      "score": 10,
-      "summary": "A new biopesticide could help battle growing resistance to varroa mite treatments in Australia.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Inpex seeks urgent orders to stop strike action in Darwin",
-      "link": "https://www.abc.net.au/news/2026-06-10/nt-inpex-seeks-to-stop-strike-action-at-fair-work-commission/106781346",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-10T05:20:57+00:00",
-      "score": 12,
-      "summary": "Oil and gas giant Inpex has launched proceedings with the Fair Work Commission seeking urgent orders to stop strike action at its Ichthys LNG facility in Darwin.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Darwin"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Afghanistan says Pakistan air raids killed 13 people, including children",
-      "link": "https://www.aljazeera.com/news/2026/6/10/afghanistan-says-pakistan-air-raids-killed-13-people-including-children?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-06-10T05:04:26+00:00",
-      "score": 17,
-      "summary": "No immediate comment from Pakistan as Taliban says 11 children are among the dead in strikes on border provinces.",
-      "country": "Pakistan",
+      "title": "Korea\u2019s Kospi Extends Wild Swings as Chip Stocks Resume Slide",
+      "link": "https://www.livemint.com/market/koreas-kospi-extends-wild-swings-as-chip-stocks-resume-slide-11781132225126.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-11T04:27:04+05:30",
+      "score": 14,
+      "summary": "South Korea\u2019s stock market lurched from one extreme to another for a third straight session Wednesday, extending a stretch of swings that has whipsawed investors and repeatedly triggered market safeguards.",
+      "country": "India",
       "region": "South Asia",
-      "source_type": "Newswire",
+      "source_type": "Newspaper",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Pakistan"
+        "Kospi",
+        "Extends",
+        "Wild",
+        "Swings",
+        "Chip",
+        "Stocks",
+        "Resume",
+        "Slide"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19852,46 +19925,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "Al Jazeera"
+        "Livemint"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
     },
-    {
-      "title": "High Court decision could lead to tens of millions of dollars worth of immigration claims",
-      "link": "https://www.abc.net.au/news/2026-06-10/nzyq-high-court-decision-could-lead-to-millions-worth-of-claims/106780880",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-10T05:04:17+00:00",
-      "score": 14,
-      "summary": "There are warnings a High Court ruling allowing a man to sue for false imprisonment over his indefinite immigration detention will lead to more claims running into the tens of millions of dollars.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Court"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Bitcoin bulls are still around. These charts show they just moved on to hotter markets.",
       "link": "https://www.marketwatch.com/story/bitcoin-bulls-are-still-around-these-charts-show-they-just-moved-on-to-hotter-markets-8e04c48c?mod=mw_rss_topstories",
@@ -26466,25 +26506,24 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "We're updating our rating on recently spun FedEx Freight after a strong run-up",
-      "link": "https://www.cnbc.com/2026/06/09/were-updating-our-rating-on-recently-spun-fedex-freight-after-run-up.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-09T18:17:27+00:00",
+      "title": "Wheat root compounds suppress soil microbes, helping retain nitrogen and cut emissions",
+      "link": "https://phys.org/news/2026-06-wheat-root-compounds-suppress-soil.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-10T19:00:03-04:00",
       "score": 12,
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "summary": "On a quiet weekend morning in a greenhouse in Aarhus University Flakkebjerg, rows of wheat plants stand with their roots submerged in clear water. There is no soil, no buffer, no automation to take over the work. Every day, weekends and holidays included, postdoctoral research...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "FedEx",
-        "Freight"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26494,13 +26533,69 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Cosmic acceleration holds up as new analysis rebuts slowdown claim",
+      "link": "https://phys.org/news/2026-06-cosmic-analysis-rebuts-slowdown.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-10T19:00:02-04:00",
+      "score": 12,
+      "summary": "Our universe's expansion is still accelerating despite recent claims suggesting otherwise, an international team of astrophysicists says.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "Antibody-guided nanoparticles target blood cancer cells in bone marrow",
+      "link": "https://phys.org/news/2026-06-antibody-nanoparticles-blood-cancer-cells.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-10T18:50:01-04:00",
+      "score": 10,
+      "summary": "New research co-led by Indiana University School of Medicine scientists presents a significant step toward more precise and effective cancer treatments by using a breakthrough method to deliver therapies directly to cancer cells. The study was recently published in ACS Nano.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Custom protein binders zero in on near-identical disease targets with unprecedented selectivity",
       "link": "https://phys.org/news/2026-06-custom-protein-binders-identical-disease.html",
@@ -32552,96 +32647,6 @@
         "Phys.org"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Mining companies may soon bypass UN rules and mine the deep sea",
-      "link": "https://phys.org/news/2026-06-companies-bypass-deep-sea.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-08T18:00:05-04:00",
-      "score": 12,
-      "summary": "A Canadian deep-sea mining company may become the first to commercially mine the international seabed under a controversial U.S. executive order that bypasses United Nations regulations. A recent legal analysis suggests that this could place Canada in violation of internationa...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Hidden geometry explains why kernel methods separate complex data so well",
-      "link": "https://phys.org/news/2026-06-hidden-geometry-kernel-methods-complex.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-08T17:50:03-04:00",
-      "score": 12,
-      "summary": "Are two sets of data genuinely different, or is it because of randomness? This question, known as the two-sample testing problem, becomes notoriously difficult in modern datasets, because they are often high-dimensional, complex, and differences between them can take countless...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Study reveals north\u2013south differences in water isotopes across North America during the last deglaciation",
-      "link": "https://phys.org/news/2026-06-reveals-northsouth-differences-isotopes-north.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-08T17:50:01-04:00",
-      "score": 12,
-      "summary": "The last deglaciation (between 11,000 and 20,000 years ago) was a period of dramatic natural warming on Earth. During this time, North America experienced the most extensive ice-sheet melting on the planet, which profoundly reshaped its climate and water cycle. But when scient...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "North",
-        "America"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -39068,6 +39073,167 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Matt Shakman To Direct & EP Paramount+ Series \u2018Discretion\u2019 Starring Nicole Kidman and Elle Fanning",
+      "link": "https://deadline.com/2026/06/matt-shakman-direct-discretion-nicole-kidman-elle-fanning-1236952872/",
+      "source": "Deadline",
+      "timestamp": "2026-06-10T23:00:00+00:00",
+      "score": 12,
+      "summary": "Fantastic Four: First Steps helmer Matt Shakman has been tapped to direct the pilot and three additional episodes of Paramount+\u2019s Discretion, starring and executive produced by Nicole Kidman and Elle Fanning. Shakman also will executive produce the legal thriller, from A24, wh...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Shakman",
+        "Direct",
+        "Paramount",
+        "Series",
+        "Discretion",
+        "Starring",
+        "Nicole",
+        "Kidman",
+        "Elle",
+        "Fanning"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "AI Firm Utopai Studios To Co-Produce Silver Bear-Winning Filmmaker Hyo-Joo Yang\u2019s Feature \u2018Half Moon\u2019",
+      "link": "https://deadline.com/2026/06/utopai-studios-hyo-joo-yang-half-moon-ai-1236952730/",
+      "source": "Deadline",
+      "timestamp": "2026-06-10T23:00:00+00:00",
+      "score": 14,
+      "summary": "EXCLUSIVE: AI firm Utopai Studios will co-produce and invest in Half Moon, a feature film from South Korean filmmaker Hyo-joo Yang. Half Moon will be Yang\u2019s debut feature. She is best known for the short Broken Night, which won the Silver Bear at Berlin in 2010. Half Moon will...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Firm",
+        "Utopai",
+        "Studios",
+        "CoProduce",
+        "Silver",
+        "BearWinning",
+        "Filmmaker",
+        "HyoJoo",
+        "Yangs",
+        "Feature",
+        "Half",
+        "Moon"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Paramount+ Signs Matt Shakman to Direct Legal Thriller \u2018Discretion\u2019",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/matt-shakman-nicole-kidman-elle-fanning-discretion-paramount-plus-1236617774/",
+      "source": "THR",
+      "timestamp": "2026-06-10T23:00:00+00:00",
+      "score": 12,
+      "summary": "He'll also be an executive producer of the A24 drama starring Elle Fanning and Nicole Kidman.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Signs",
+        "Matt",
+        "Shakman",
+        "Direct",
+        "Legal",
+        "Thriller",
+        "Discretion"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Taormina Film Festival Opens With \u2018House of the Dragon\u2019 Season 3 Screening in a Greek Theater Dating Back to the 3rd Century B.C.",
+      "link": "https://variety.com/2026/tv/global/taormina-film-festival-house-of-the-dragon-1236771914/",
+      "source": "Variety",
+      "timestamp": "2026-06-10T22:48:45+00:00",
+      "score": 15,
+      "summary": "Italy\u2019s Taormina Film Festival kicked off with a double dose of ancient firepower on Wednesday evening as the first episode of HBO\u2019s \u201cHouse of the Dragon\u201d Season 3 was unveiled on a gigantic outdoor screen to a cheering crowd of 5,000 spectators in the Sicilian resort\u2019s Greek ...",
+      "country": "Greece",
+      "region": "Europe",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Film",
+        "Festival",
+        "Opens",
+        "House",
+        "Dragon",
+        "Season",
+        "Screening",
+        "Greek",
+        "Theater",
+        "Dating",
+        "Back",
+        "Century"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Jeff Bergman & Carla Delaney Bergman On Adventures In The Voiceover Trade From \u2018Looney Tunes\u2019 To \u2018Toy Story 5\u2019 \u2013 Crew Call Podcast",
       "link": "https://deadline.com/2026/06/toy-story-5-looney-tunes-jeff-bergman-1236953224/",
@@ -47011,167 +47177,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Nick Reiner After $1.5M Trust Fund To Pay For Murder Defense: \u201cThe Harm Is Irreparable \u2026Trustee Withholds Funds That Are Already Nick\u2019s\u201d",
-      "link": "https://deadline.com/2026/06/nick-reiner-trust-fund-murder-defense-withold-funds-1236951921/",
-      "source": "Deadline",
-      "timestamp": "2026-06-09T22:47:20+00:00",
-      "score": 15,
-      "summary": "Facing the possibility of the death penalty for the stabbing murder of his parents last year, Nick Reiner is trying to get the best defense money can buy by unlocking a $1.5 million trust fund Rob and Michelle Reiner set up for him decades ago. \u201cNick has a defense to present i...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Reiner",
-        "After",
-        "Trust",
-        "Fund",
-        "Pay",
-        "Murder",
-        "Defense",
-        "Harm",
-        "Irreparable",
-        "Trustee",
-        "Withholds",
-        "Funds",
-        "That",
-        "Are",
-        "Already",
-        "Nicks"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Jay-Z and Eminem to Reunite on Rakim Album With First Track Together in 25 Years",
-      "link": "https://www.rollingstone.com/music/music-news/jay-z-eminem-rakim-interlude-1235574947/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-06-09T22:43:17+00:00",
-      "score": 15,
-      "summary": "The two stars pay homage to the fellow rap icon on his collaborative album with Kurupt and Masta Killa",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Eminem",
-        "Reunite",
-        "Rakim",
-        "Album",
-        "First",
-        "Track",
-        "Together",
-        "Years"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Eva Longoria Reunites With Tony Parker 15 Years After Cheating Scandal",
-      "link": "https://www.eonline.com/news/1432812/eva-longoria-tony-parker-reunite-15-years-after-cheating-scandal-divorce?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-06-09T22:06:17+00:00",
-      "score": 15,
-      "summary": "Eva Longoria has no qualms about her ex. The Desperate Housewives alum reunited with her ex-husband Tony Parker 15 years after finalizing their divorce, proving they are certainly on good...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Longoria",
-        "Reunites",
-        "Tony",
-        "Parker",
-        "Years",
-        "After",
-        "Cheating",
-        "Scandal"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Michael\u2019 Goes Multi-Platinum At The Global B.O.: Michael Jackson Biopic Crosses $900M",
-      "link": "https://deadline.com/2026/06/box-office-michael-900m-1236952002/",
-      "source": "Deadline",
-      "timestamp": "2026-06-09T21:57:57+00:00",
-      "score": 15,
-      "summary": "Lionsgate\u2019s highest grossing movie ever in hits history is even more so as expected: Michael has crossed $900M worldwide we hear. The Michael Jackson biopic is within $11M of overtaking Michael producer Graham King\u2019s previous record grossing movie, Bohemian Rhapsody ($911M WW)...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Goes",
-        "MultiPlatinum",
-        "Global",
-        "Michael",
-        "Jackson",
-        "Biopic",
-        "Crosses"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -47541,7 +47546,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.3,
+      "trend_score": 10.2,
       "source_count": 12,
       "sources_reporting": [
         "GQ",
@@ -52259,6 +52264,37 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.1 - 7 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75374416",
+      "source": "USGS",
+      "timestamp": "2026-06-10T22:48:10.166000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-10 22:46:32 UTC2026-06-10 22:46:32 UTC at epicenterLocation38.828\u00b0N 122.802\u00b0WDepth0.96 km (0.60 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 0.7 - 8 km NW of The Geysers, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75374406",
@@ -58836,38 +58872,6 @@
         "USGS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 2 km W of Anderson Springs, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75373811",
-      "source": "USGS",
-      "timestamp": "2026-06-09T17:59:23.959000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-09 17:57:46 UTC2026-06-09 17:57:46 UTC at epicenterLocation38.777\u00b0N 122.712\u00b0WDepth2.29 km (1.42 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Anderson",
-        "Springs"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
