@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "Inflation rises to 4.2 percent in May, highest level in 3 years",
+      "link": "https://thehill.com/business/5917925-inflation-rate-highest-three-years/",
+      "source": "The Hill",
+      "timestamp": "2026-06-10T12:51:15+00:00",
+      "score": 17,
+      "summary": "The annual inflation rate increased to its highest point in three years as the cost of energy and other goods rose due to the Iran war, according to data released by the Department of Labor on Wednesday. The consumer price index (CPI), a popular gauge of inflation, rose 4.2 pe...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "May"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Application window for verification and re-evaluation of answer papers remained fully functional, says CBSE",
       "link": "https://www.thehindu.com/education/cbse-portal-glitch-re-evaluation-verification-iit-security-review/article71075855.ece",
       "source": "The Hindu",
@@ -3937,7 +3968,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 14,
       "sources_reporting": [
         "Bloomberg",
@@ -6747,23 +6778,26 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Kerala University orders recovery of \u20b916.5 lakh from faculty member for erroneous foreign remittance",
-      "link": "https://www.thehindu.com/news/national/kerala/kerala-university-orders-recovery-of-165-lakh-from-faculty-member-for-erroneous-foreign-remittance/article71081548.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-09T21:22:02+05:30",
-      "score": 15,
-      "summary": "The Kerala University Teachers\u2019 Organisation has criticised the move",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Insta360\u2019s Luna Ultra 8K stabilized camera is now available in the US",
+      "link": "https://www.theverge.com/tech/947218/insta360-luna-ultra-dual-camera-stabilized-8k-telephoto-leica-us-availability-pricing",
+      "source": "Verge",
+      "timestamp": "2026-06-10T09:00:00-04:00",
+      "score": 17,
+      "summary": "Following months of teases, leaks, a secretive debut at NAB 2026, and an initial launch in China, Insta360 finally announced global availability for its first handheld stabilized camera. The Luna Ultra features a pair of 8K cameras atop a 3-axis gimbal, offering an upgrade to ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "University"
+        "Luna",
+        "Ultra"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6772,15 +6806,44 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "Snapchat limits users under 16 to sharing Spotlights with friends",
+      "link": "https://techcrunch.com/2026/06/10/snapchat-limits-users-under-16-to-sharing-spotlights-with-friends/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-10T12:46:52+00:00",
+      "score": 15,
+      "summary": "Users under 16 years old will get a separate profile to show Stories and Spotlight posts to friends that they follow back.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Spotlights"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Avalanche\u2019s desktop fusion reactor delivers blistering-hot plasma",
       "link": "https://techcrunch.com/2026/06/10/avalanches-desktop-fusion-reactor-delivers-blistering-hot-plasma/",
@@ -13295,75 +13358,49 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Mira Murati steps back into the spotlight, carefully",
-      "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-      "source": "TechCrunch",
-      "timestamp": "2026-06-05T05:06:37+00:00",
-      "score": 12,
-      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Murati"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites",
-      "link": "https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/",
-      "source": "TechCrunch",
-      "timestamp": "2026-06-05T00:06:47+00:00",
-      "score": 14,
-      "summary": "The debut episode, moderated by Founders Fund Chief Marketing Officer Mike Solana, included a star-studded cast of current tech luminaries.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fund",
-        "Sam",
-        "Altman",
-        "Palmer",
-        "Luckey"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "World": [
+    {
+      "title": "Drinking Water Facilities Hit by Strikes in Iran, State Media Reports",
+      "link": "https://www.nytimes.com/2026/06/10/world/middleeast/drinking-water-facilities-hit-by-strikes-in-iran-state-media-reports.html",
+      "source": "NYT",
+      "timestamp": "2026-06-10T12:51:20+00:00",
+      "score": 12,
+      "summary": "The state broadcaster said two water tanks serving thousands of people were damaged. The U.S. military did not respond to a request for comment.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Water",
+        "Facilities",
+        "Hit",
+        "Strikes",
+        "Iran",
+        "State",
+        "Media",
+        "Reports"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Benjamin Netanyahu | The comeback \u2018king\u2019",
       "link": "https://www.thehindu.com/news/international/benjamin-netanyahu-the-comeback-king/article66101432.ece",
@@ -20002,26 +20039,28 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Police chief urges those \u2018who know nothing about Northern Ireland\u2019 not to stir up disorder via social media  \u2013 UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
-      "source": "Guardian",
-      "timestamp": "2026-06-09T16:33:55+00:00",
+      "title": "Bill Gates arrives for questioning about Jeffrey Epstein by House panel",
+      "link": "https://www.cnbc.com/2026/06/10/bill-gates-jeffrey-epstein-house-oversight-interview.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-10T13:00:54+00:00",
       "score": 12,
-      "summary": "PSNI give update on attack after the Northern Ireland secretary praised members of the public for interveningFull report: Man seriously injured in Belfast stabbing Starmer describes as \u2018sickening\u2019Badenoch said, after the murder of Stephen Lawrence, it was right that people wan...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "summary": "Gates reportedly prepared for his testimony with the help of Jake Greenberg, who previously was the Oversight committee's chief investigations counsel.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Northern",
-        "Ireland"
+        "Gates",
+        "Jeffrey",
+        "Epstein",
+        "House"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -20030,15 +20069,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Guardian"
+        "CNBC"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+54%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Consumer prices rose 4.2% annually in May, highest in three years",
       "link": "https://www.cnbc.com/2026/06/10/cpi-inflation-report-may-2026.html",
@@ -26628,32 +26665,24 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Copper Resumes Gains as Mideast Tensions Ease, Stocks Rebound",
-      "link": "https://www.livemint.com/market/copper-resumes-gains-as-mideast-tensions-ease-stocks-rebound-11780995282401.html",
-      "source": "Livemint",
-      "timestamp": "2026-06-09T14:24:41+05:30",
-      "score": 14,
-      "summary": "Copper resumed its advance along with other industrial metals as tensions eased in the Middle East, boosting risk appetite.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Galaxy-killing wind discovered in the early universe",
+      "link": "https://phys.org/news/2026-06-galaxy-early-universe.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-10T09:00:03-04:00",
+      "score": 10,
+      "summary": "Astronomers have discovered a \"galaxy-killing wind\" that may explain why there are far more massive \"dead\" galaxies than expected in the early universe. This wind, powered by cosmic collisions between galaxies, could quickly blow away all the fuel for new stars, leaving a gala...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Resumes",
-        "Gains",
-        "Mideast",
-        "Tensions",
-        "Ease",
-        "Stocks",
-        "Rebound"
-      ],
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26663,13 +26692,40 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "Parents helping kids enjoy math may boost achievement as much as content support",
+      "link": "https://phys.org/news/2026-06-parents-kids-enjoy-math-boost.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-10T09:00:01-04:00",
+      "score": 10,
+      "summary": "How do children learn math? It's shaped by what they know as well as their motivation and engagement. Historically, research on children's math learning has been focused on parents' cognitive practices (such as math talk\u2014informal conversations that involve math), however emerg...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Hope for Maugean skate as juveniles reach adulthood in Macquarie Harbor",
       "link": "https://phys.org/news/2026-06-maugean-skate-juveniles-adulthood-macquarie.html",
@@ -32725,19 +32781,21 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Sports": [
     {
-      "title": "Lunar orbiter concept could reveal five key elements across moon in two years",
-      "link": "https://phys.org/news/2026-06-lunar-orbiter-concept-reveal-key.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-07T15:48:23-04:00",
-      "score": 10,
-      "summary": "Researchers from Tokyo Metropolitan University have used simulations to show that a newly developed, compact X-ray telescope could be used to map the chemical composition of the entire lunar surface, a vital breakthrough for understanding its geological evolution. Detailed mod...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
+      "title": "Iran players: U.S. visa denials create 'tension'",
+      "link": "https://www.espn.com/soccer/story/_/id/49017941/iran-players-say-us-visa-policies-create-world-cup-tension",
+      "source": "ESPN",
+      "timestamp": "2026-06-10T08:32:19-05:00",
+      "score": 12,
+      "summary": "Iran national team forward Mehdi Taremi said that steps the U.S. government has taken regarding the denial of visas and preventing a Somali referee from entering the country are hurting the country's image.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -32748,46 +32806,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "Phys.org"
+        "ESPN"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Continuous stirring made early life-like RNA systems more extinction-prone, experiment shows",
-      "link": "https://phys.org/news/2026-06-early-life-rna-extinction-prone.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-07T15:40:03-04:00",
-      "score": 12,
-      "summary": "Recent research showed that an artificially constructed self-replicating RNA system modeling primitive life at the origin of life evolved to become more prone to extinction under certain experimental conditions.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "RNA"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Sports": [
     {
       "title": "Power Rankings: Welcome to the top 2, Dallas",
       "link": "https://www.espn.com/wnba/story/_/id/49001297/wnba-power-rankings-2026-wings-lynx",
@@ -39122,6 +39147,160 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Zurich Film Festival Appoints German Producer Martin Moszkowicz as President (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/zurich-film-festival-martin-moszkowicz-1236770770/",
+      "source": "Variety",
+      "timestamp": "2026-06-10T13:00:00+00:00",
+      "score": 12,
+      "summary": "German producer Martin Moszkowicz, the former chief executive of Constantin Film, has been appointed as president of Zurich Film Festival. Moszkowicz and Christian Jungen, the festival\u2019s CEO, spoke to Variety about how they intend to achieve the event\u2019s strategic objectives. A...",
+      "country": "Germany",
+      "region": "Europe",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Film",
+        "Festival",
+        "Appoints",
+        "German",
+        "Producer",
+        "Martin",
+        "Moszkowicz",
+        "President",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Spring Awakening\u2019 Revival Set For Off-Broadway This Fall",
+      "link": "https://www.hollywoodreporter.com/lifestyle/arts/spring-awakening-revival-off-broadway-1236618021/",
+      "source": "THR",
+      "timestamp": "2026-06-10T13:00:00+00:00",
+      "score": 12,
+      "summary": "Danya Taymor will direct the revival of the 2006 musical that brought Lea Michele and Jonathan Groff into the spotlight.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Awakening",
+        "Revival",
+        "Set",
+        "OffBroadway",
+        "This",
+        "Fall"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "French Star Patrick Bruel Appears Before Judge on Rape, Sexual Harassment Charges",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/french-star-patrick-bruel-sexual-violence-metoo-case-1236618226/",
+      "source": "THR",
+      "timestamp": "2026-06-10T12:55:06+00:00",
+      "score": 12,
+      "summary": "Nine women have accused the French actor and singer of sexual violence, including rape and attempted rape.",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Star",
+        "Patrick",
+        "Bruel",
+        "Appears",
+        "Before",
+        "Judge",
+        "Rape",
+        "Sexual",
+        "Harassment",
+        "Charges"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Toy Story 5\u2019s Joan Cusack Shares Why She Stepped Away From Hollywood",
+      "link": "https://www.eonline.com/news/1432823/toy-story-5s-joan-cusack-details-why-she-left-hollywood?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-06-10T12:51:00+00:00",
+      "score": 15,
+      "summary": "Seeing Joan Cusack tonight, Toy Story fans remembered they knew her. Although the voice actress for Jessie the Yodeling Cowgirl stepped away from Hollywood in the last few years, she is back in...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Story",
+        "Joan",
+        "Cusack",
+        "Shares",
+        "Why",
+        "She",
+        "Stepped",
+        "Away",
+        "Hollywood"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Taormina: Jane Campion Talks Love Of Film Festivals As She Reunites With \u2018The Piano\u2019 Star Holly Hunter",
       "link": "https://deadline.com/2026/06/taormina-jane-campion-love-festivals-reunites-holly-hunter-1236952468/",
@@ -46692,7 +46871,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 13,
       "sources_reporting": [
         "Deadline",
@@ -47060,156 +47239,6 @@
         "THR"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Chanel Backs Revival of Legendary Paris Cinema Le Saint-Germain-des-Pr\u00e9s",
-      "link": "https://variety.com/2026/film/global/chanel-backs-revival-paris-cinema-saint-germain-des-pres-1236770103/",
-      "source": "Variety",
-      "timestamp": "2026-06-09T12:28:08+00:00",
-      "score": 14,
-      "summary": "An alliance of prominent French business, publishing and film figures has joined forces to revive one of the most storied venues in Paris cinephilia, with luxury house Chanel serving as lead partner behind the reopening of the historic Saint-Germain-des-Pr\u00e9s cinema. The Left B...",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Backs",
-        "Revival",
-        "Legendary",
-        "Paris",
-        "Cinema",
-        "SaintGermaindesPrs"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "U.K. Begins Formal Review of Paramount-Warner Bros. Megadeal",
-      "link": "https://www.hollywoodreporter.com/business/business-news/paramount-wbd-merger-deal-uk-review-cma-1236617206/",
-      "source": "THR",
-      "timestamp": "2026-06-09T12:18:43+00:00",
-      "score": 14,
-      "summary": "The deadline for the Competition and Markets Authority to decide on a possible phase 2 investigation is Aug. 7.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Begins",
-        "Formal",
-        "Review",
-        "ParamountWarner",
-        "Bros",
-        "Megadeal"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Katy Perry Calls Boyfriend Justin Trudeau \"Love of My Life\"",
-      "link": "https://www.eonline.com/news/1432782/katy-perry-calls-justin-trudeau-the-love-of-her-life?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-06-09T12:16:44+00:00",
-      "score": 12,
-      "summary": "Katy Perry never needs to worry about the one that got away again. And that\u2019s because she is the happiest she\u2019s ever been with boyfriend Justin Trudeau, whom she began dating publicly in summer...",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Perry",
-        "Calls",
-        "Boyfriend",
-        "Justin",
-        "Trudeau",
-        "Love",
-        "Life"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Scary Movie\u2019 Reboot Leads U.K. and Ireland Box Office as Steven Spielberg\u2019s \u2018Disclosure Day\u2019 Looms",
-      "link": "https://variety.com/2026/film/box-office/scary-movie-uk-ireland-box-office-1236770105/",
-      "source": "Variety",
-      "timestamp": "2026-06-09T12:00:13+00:00",
-      "score": 12,
-      "summary": "The U.K. and Ireland box office experienced a highly competitive frame as Paramount\u2019s franchise revival \u201cScary Movie\u201d secured the top spot, debuting to a robust \u00a34.1 million ($5.6 million). Debuting in second place, Piece Of Magic Entertainment\u2019s \u201cThe Amazing Digital Circus: T...",
-      "country": "Ireland",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Movie",
-        "Reboot",
-        "Leads",
-        "Ireland",
-        "Box",
-        "Office",
-        "Steven",
-        "Spielbergs",
-        "Disclosure",
-        "Day",
-        "Looms"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -47633,7 +47662,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.2,
+      "trend_score": 8.1,
       "source_count": 13,
       "sources_reporting": [
         "GQ",
@@ -47642,7 +47671,7 @@
         "Reuters",
         "Vogue"
       ],
-      "trend_accel": "+74%",
+      "trend_accel": "+73%",
       "heat_level": "SURGING"
     },
     {
@@ -52204,45 +52233,107 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "A First Look Inside the American LGBTQ+ Museum",
-      "link": "https://www.vogue.com/article/a-first-look-inside-the-american-lgbtq-museum",
-      "source": "Vogue",
-      "timestamp": "2026-06-03T12:51:56+00:00",
-      "score": 12,
-      "summary": "\u201cI want to show everyone that walks through these doors that American LGBTQ+ people have created and participated in some of the most monumental moments in this country\u2019s history,\u201d says museum director Ben Garcia of the space, due to offically open in 2028.",
+      "title": "M 0.4 - 9 km SSW of Idyllwild, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41483856",
+      "source": "USGS",
+      "timestamp": "2026-06-10T12:56:09.301000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-10 12:52:39 UTC2026-06-10 12:52:39 UTC at epicenterLocation33.670\u00b0N 116.764\u00b0WDepth9.72 km (6.04 mi)",
       "country": "US",
       "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "First",
-        "Look",
-        "Inside",
-        "American",
-        "LGBTQ",
-        "Museum"
+        "SSW",
+        "Idyllwild"
       ],
-      "severity_score": 0,
+      "severity_score": 3,
       "alert_level": "low",
-      "mode": "normal",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.8 - 18 km SE of Silver Springs, Nevada",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920003",
+      "source": "USGS",
+      "timestamp": "2026-06-10T12:51:52.554000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-10 12:49:31 UTC2026-06-10 12:49:31 UTC at epicenterLocation39.320\u00b0N 119.045\u00b0WDepth13.43 km (8.34 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Silver",
+        "Springs",
+        "Nevada"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 29 km WSW of Salcha, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lkmwvj",
+      "source": "USGS",
+      "timestamp": "2026-06-10T12:48:58.953000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-10 12:41:04 UTC2026-06-10 12:41:04 UTC at epicenterLocation64.408\u00b0N 147.460\u00b0WDepth7.40 km (4.60 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Salcha",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Vogue"
+        "USGS"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
     {
       "title": "M 0.7 - 14 km NNE of Borrego Springs, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41483848",
@@ -58765,103 +58856,6 @@
         "USGS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 15 km E of Big Bear City, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41483072",
-      "source": "USGS",
-      "timestamp": "2026-06-09T10:22:45.874000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-09 10:19:24 UTC2026-06-09 10:19:24 UTC at epicenterLocation34.283\u00b0N 116.679\u00b0WDepth-0.80 km (-0.50 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Big",
-        "Bear",
-        "City"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 10 km NW of Caliente, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00919961",
-      "source": "USGS",
-      "timestamp": "2026-06-09T10:11:05.962000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-09 10:06:53 UTC2026-06-09 10:06:53 UTC at epicenterLocation37.678\u00b0N 114.598\u00b0WDepth12.86 km (7.99 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Caliente",
-        "Nevada"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 53 km N of Chickaloon, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lilnuz",
-      "source": "USGS",
-      "timestamp": "2026-06-09T10:02:59.881000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-09 10:01:23 UTC2026-06-09 10:01:23 UTC at epicenterLocation62.268\u00b0N 148.286\u00b0WDepth14.00 km (8.70 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chickaloon",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
