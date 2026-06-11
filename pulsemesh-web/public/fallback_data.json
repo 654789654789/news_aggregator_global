@@ -13121,6 +13121,35 @@
   ],
   "World": [
     {
+      "title": "Girlfriend of man shot by police disputes that officers told him to drop knife",
+      "link": "https://www.abc.net.au/news/2026-06-11/aubrey-donahue-shooting-inquest/106784546",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-11T02:32:48+00:00",
+      "score": 10,
+      "summary": "A coronial inquest into the shooting has heard from the woman who was in a locked bathroom with her armed partner for hours of police negotiations.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Breaking: Injury concern for Socceroos star on eve of World Cup",
       "link": "https://www.abc.net.au/news/2026-06-11/world-cup-socceroos-star-mo-toure-misses-training/106785440",
       "source": "ABC Australia",
@@ -19877,30 +19906,27 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "On the Eve of the World Cup, U.S. Immigration Policy Turns Some Away",
-      "link": "https://www.nytimes.com/2026/06/10/world/americas/world-cup-immigration-problems.html",
-      "source": "NYT",
-      "timestamp": "2026-06-10T09:04:11+00:00",
+      "title": "Kuwait says it is intercepting 'aerial targets' after U.S. military strikes Iran",
+      "link": "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-11T02:43:39+00:00",
       "score": 14,
-      "summary": "Some fans and participants hoping to enter the United States for the World Cup have complained that restrictive immigration rules have presented a roadblock.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "summary": "President Donald Trump promised more attacks on Iran after strikes resumed this week. Earlier this week, he said a deal to end the war was near.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Military"
+      ],
       "entities": [
-        "Eve",
-        "World",
-        "Cup",
-        "Immigration",
-        "Policy",
-        "Turns",
-        "Some",
-        "Away"
+        "Iran"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19909,15 +19935,46 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "NYT"
+        "CNBC"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Asian markets today: Nikkei, Kospi crash up to 4% as US-Iran war escalates, crude oil prices rise",
+      "link": "https://www.livemint.com/market/stock-market-news/asian-markets-today-nikkei-kospi-crash-up-to-4-as-us-iran-war-escalates-crude-oil-prices-rise-11781145089076.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-11T08:08:31+05:30",
+      "score": 17,
+      "summary": "Asian markets today: Japanese government bond (JGB) yields also climbed on inflation concerns. The benchmark 10-year JGB yield rose 1 bp to 2.690%. The 30-year yield added 2 bps to 3.870%.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nikkei",
+        "Kospi",
+        "USIran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Breakout stocks to buy or sell: Amid rising tensions in US-Iran war, Sumeet Bagadia recommends five shares to buy today",
       "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-amid-rising-tensions-in-us-iran-war-sumeet-bagadia-recommends-five-shares-to-buy-today-11781139908223.html",
@@ -26493,76 +26550,38 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "S&P 500 and Nasdaq close lower as chip stock rebound fails",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DYWhpY084Zkc0LS1aVXdWaDdidWFrVHpoUHNmdHdoYUZpVUpQLUdBOVcxMEV0akJ6c3lmek5kQ1NUdjg4TExxSXNIVU1Fc2hJYnpFZmNpRFRhVDhmMTZRandjdmR2TU55Um02NnFWRWk5X29oSldz0gF8QVVfeXFMTl9pa0lRbnZ6N2M3NF83QTFNTUsyQWdhdmJzM1Q2VDRQbnREeDJndGZUbG1Yd2o2NHAwZlNMRHlJN0FybUkzckVmZzUtSUFjNm01WG1hMlVVQ29uMHhvTkVub3Mzd0NKdlBGRnhaaGZQLWFDbnpjeGs4VkRONQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-09T20:23:00+00:00",
-      "score": 17,
-      "summary": "S&P 500 and Nasdaq close lower as chip stock rebound fails CNBCNasdaq falls 3% as chip stocks sell off, Iran deal hopes fade qz.comS&P 500, Nasdaq fall as tech selling resumes, Trump vows to react to downed US helicopter Yahoo FinanceEquities lose some steam while dollar falls...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nasdaq"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 15,
-      "sources_reporting": [
-        "CNBC",
-        "Google News",
-        "Guardian",
-        "NHK",
-        "Reuters"
-      ],
-      "trend_accel": "+71%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Adobe needs a new CEO to make bold AI moves, and its choice could be revealed on Thursday",
-      "link": "https://www.marketwatch.com/story/adobe-needs-a-new-ceo-to-make-bold-ai-moves-and-its-choice-could-be-revealed-on-thursday-31269df8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-06-09T20:21:00+00:00",
-      "score": 14,
-      "summary": "Given all the doubts around Adobe, it\u2019s perhaps surprising that the company will likely go with an internal candidate to replace outgoing CEO Shantanu Narayen.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "CEO",
-        "Thursday"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Pathogenic fungus transmitted by domestic cat scratches is present in wild animals",
+      "link": "https://phys.org/news/2026-06-pathogenic-fungus-transmitted-domestic-cat.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-10T22:40:01-04:00",
+      "score": 10,
+      "summary": "The fungus that causes sporotrichosis is typically transmitted among cats and results in serious lesions. Recently, it was found in the internal organs of wild animals. The study was published in March in the journal Mycopathologia.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Researchers develop a new anti-jellyfish floating buoy",
       "link": "https://phys.org/news/2026-06-anti-jellyfish-buoy.html",
@@ -32667,35 +32686,6 @@
         "Phys.org"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Super sponge can remove toxic dyes from industrial wastewater",
-      "link": "https://phys.org/news/2026-06-super-sponge-toxic-dyes-industrial.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-08T19:40:02-04:00",
-      "score": 10,
-      "summary": "Colors brighten our lives and help define countless items we use daily\u2014from the vibrant clothes we wear to decorative paper and packaging materials. What adds different colors to these things? Dyes, which bind themselves to the structure of the material they are coloring. For ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ],
@@ -39050,63 +39040,32 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Sources: TE Washington, Steelers reach 4-yr. deal",
-      "link": "https://www.espn.com/nfl/story/_/id/48961024/sources-darnell-washington-steelers-reach-4-year-extension",
-      "source": "ESPN",
-      "timestamp": "2026-06-03T21:42:26-05:00",
-      "score": 17,
-      "summary": "The Pittsburgh Steelers and tight end Darnell Washington have reached agreement on a four-year, $42 million extension, sources told ESPN's Jeremy Fowler.",
+      "title": "Wu-Tang Clan Hit the Court for NBA Finals Game 4 Halftime Show",
+      "link": "https://www.rollingstone.com/music/music-news/wu-tang-clan-perform-nba-finals-game-4-halftime-show-1235575852/",
+      "source": "Rolling Stone",
+      "timestamp": "2026-06-11T02:42:43+00:00",
+      "score": 15,
+      "summary": "The Staten Island natives were a much welcome spark as the Spurs entered the third quarter with a huge lead",
       "country": "US",
       "region": "Americas",
-      "source_type": "Sports Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Washington",
-        "Steelers"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ESPN"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Blue Jays Acquire Simeon Woods Richardson From Twins - MLB Trade Rumors",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjZCSThPTkx4MzdMRGZNeW1vM1RBQkpqdkZQTHZxV3Z2UHI1emR2QkptRWl0aWJkUjI4YW1BWFlOY3J5MUN0WjNNS3pKajlpVVdsR2kta1MwVXhzMEtac0JzQ05JMVU3SjdEV1RfdjdKSzhxOUR4MXB0WDg0clFPY2FaY2VIM1ozREdVaFZQWmR5cm5hX1BmMUNOcw?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-04T02:37:30+00:00",
-      "score": 12,
-      "summary": "Blue Jays Acquire Simeon Woods Richardson From Twins MLB Trade RumorsBlue Jays get RHP Simeon Woods Richardson from Twins for cash ESPNJays Trade For Simeon Woods Richardson Yahoo SportsFormer prospect Woods Richardson returns after trade with Guardians MLB.comBlue Jays acquir...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
+      "source_type": "Entertainment",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Jays",
-        "Acquire",
-        "Simeon",
-        "Woods",
-        "Richardson",
-        "Twins",
-        "MLB",
-        "Trade",
-        "Rumors"
+        "Clan",
+        "Hit",
+        "Court",
+        "NBA",
+        "Finals",
+        "Game",
+        "Halftime",
+        "Show"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -39117,13 +39076,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Google News"
+        "Rolling Stone"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
     {
       "title": "Mindy Kaling Explains How \u2018Not Suitable for Work\u2019 Completes \u201cLoosely\u201d Self-Based TV Trilogy",
       "link": "https://deadline.com/2026/06/mindy-kaling-not-suitable-for-work-self-based-tv-trilogy-1236953379/",
@@ -47160,52 +47117,6 @@
       ],
       "trend_accel": "+55%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Taylor Swift Makes Surprise Appearance At \u2018Toy Story 5\u2019 Premiere in Los Angeles",
-      "link": "https://deadline.com/2026/06/taylor-swift-toy-story-5-red-carpet-premiere-los-angeles-1236952098/",
-      "source": "Deadline",
-      "timestamp": "2026-06-10T01:51:15+00:00",
-      "score": 15,
-      "summary": "Taylor Swift is in her Tay Story era. The musician stepped out in a bejeweled/dazzling (sub adj for whatever she wears) getup to join the Toy Story 5 cast at the Los Angeles premiere this evening on the heels of her new original song for the film \u201cI Knew It, I Knew You,\u201d break...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Swift",
-        "Makes",
-        "Surprise",
-        "Appearance",
-        "Toy",
-        "Story",
-        "Premiere",
-        "Los",
-        "Angeles"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 17,
-      "sources_reporting": [
-        "Bloomberg",
-        "Deadline",
-        "E! News",
-        "NHK",
-        "NPR",
-        "Rolling Stone",
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+82%",
-      "heat_level": "CRITICAL"
     }
   ],
   "Lifestyle": [
@@ -52293,6 +52204,104 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 2.8 - 80 km W of Petrolia, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75374581",
+      "source": "USGS",
+      "timestamp": "2026-06-11T02:43:42.016000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-11 02:42:07 UTC2026-06-11 02:42:07 UTC at epicenterLocation40.425\u00b0N 125.225\u00b0WDepth0.66 km (0.41 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Petrolia"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 16 km ESE of Ackerly, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ljtczz",
+      "source": "USGS",
+      "timestamp": "2026-06-11T02:41:16.925000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-11 02:37:33 UTC2026-06-11 02:37:33 UTC at epicenterLocation32.468\u00b0N 101.551\u00b0WDepth3.21 km (1.99 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Ackerly",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 54 km ESE of Denali Park, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lloura",
+      "source": "USGS",
+      "timestamp": "2026-06-11T02:39:56.796000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-11 02:38:11 UTC2026-06-11 02:38:11 UTC at epicenterLocation63.551\u00b0N 147.888\u00b0WDepth0.10 km (0.06 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Denali",
+        "Park",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 0.7 - 11 km NW of The Geysers, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75374561",
@@ -58804,107 +58813,6 @@
         "USGS"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "US says it has begun strikes against Iran following crash of Army Apache helicopter off Oman coast",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTFFLOUhHaFBaY2l1YWthbGVtYVByYlZkU3VhRXJxWEJiTmdwNVFWVU5FN0ZSRml0bVU5S3F1Wi1QdFp1bTQ0SE4zeXJadzZ5LVBtdFNHTHh5WWxnTHh5bHVCejk2Zl9HenVXQUNDSGNYWFgtdWVad0NFVWdwZjl0cnRuQ3ZLNUt6NW80Q2Q5cm1iRUpjMk9OVjFRZ3NIa1JNR2JkUHROZzZId2ZDUHJuQWNHcm5icGd1?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-09T21:33:00+00:00",
-      "score": 14,
-      "summary": "US says it has begun strikes against Iran following crash of Army Apache helicopter off Oman coast AP News",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Iran",
-        "Army",
-        "Apache",
-        "Oman"
-      ],
-      "severity_score": 8,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.1 - 19 km WSW of Ovalle, Chile",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srwm",
-      "source": "USGS",
-      "timestamp": "2026-06-09T21:29:40.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-09 21:20:13 UTC2026-06-09 21:20:13 UTC at epicenterLocation30.671\u00b0S 71.390\u00b0WDepth41.52 km (25.80 mi)",
-      "country": "Chile",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Ovalle",
-        "Chile"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 16 km WSW of Johannesburg, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41483536",
-      "source": "USGS",
-      "timestamp": "2026-06-09T21:29:12.965000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-09 21:27:06 UTC2026-06-09 21:27:06 UTC at epicenterLocation35.326\u00b0N 117.798\u00b0WDepth7.28 km (4.52 mi)",
-      "country": "South Africa",
-      "region": "Africa",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Johannesburg"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
       "heat_level": "LOW"
     }
   ]
