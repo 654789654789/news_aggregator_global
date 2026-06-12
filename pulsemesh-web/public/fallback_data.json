@@ -1,6 +1,46 @@
 {
   "Politics": [
     {
+      "title": "Gavin Newsom and Hunter Biden Would Like Your Attention, Please",
+      "link": "https://www.nytimes.com/2026/06/12/us/politics/hunter-biden-gavin-newsom-interview.html",
+      "source": "NYT",
+      "timestamp": "2026-06-12T21:18:28+00:00",
+      "score": 12,
+      "summary": "The two men chatted on Mr. Newsom\u2019s podcast about Democrats, Joe Biden, Graham Platner, phone addiction and other topics.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Newsom",
+        "Hunter",
+        "Biden",
+        "Would",
+        "Like",
+        "Your",
+        "Attention",
+        "Please"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Ahead of G7, Canada's Carney softens tone toward Trump with trade talks at stake",
       "link": "https://www.pbs.org/newshour/world/ahead-of-g7-canadas-carney-softens-tone-toward-trump-with-trade-talks-at-stake",
       "source": "PBS",
@@ -6563,25 +6603,33 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Trump calls off threatened strikes, says deal with Iran is close",
-      "link": "https://www.pbs.org/newshour/show/trump-calls-off-threatened-strikes-says-deal-with-iran-is-close",
-      "source": "PBS",
-      "timestamp": "2026-06-11T18:55:24-04:00",
+      "title": "\u2018Tell Him He\u2019s a Piece of Shit\u2019: Meta\u2019s New AI Unit Is a Total Mess",
+      "link": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "source": "Wired",
+      "timestamp": "2026-06-12T21:16:25+00:00",
       "score": 14,
-      "summary": "President Trump said he called off a third night of airstrikes on Iranian targets. In the Oval Office, he again said that a deal was close between the U.S. and Iran, and that it might be signed this weekend. Iran denied any movement towards a longer-term agreement. William Bra...",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "summary": "Executives and employees alike are struggling with Meta's chaotic AI strategy, according to sources and internal discussions reviewed by WIRED.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Iran"
+        "Him",
+        "Hes",
+        "Piece",
+        "Shit",
+        "Metas",
+        "New",
+        "Unit",
+        "Total",
+        "Mess"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6590,15 +6638,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "PBS"
+        "Wired"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Chinese cybercrime operation that used AI to scam \u2018hundreds of thousands of victims\u2019 sued by Google",
       "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
@@ -13082,23 +13128,27 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Apple\u2019s new parental controls are for keeping Apple out of trouble",
-      "link": "https://www.theverge.com/policy/946331/apple-parental-controls-child-accounts-wwdc",
-      "source": "Verge",
-      "timestamp": "2026-06-08T17:48:08-04:00",
-      "score": 12,
-      "summary": "When Apple put child safety front and center at WWDC on Monday, its stated goal was helping parents fine-tune their kids' online experiences and avoid excessive screen time. But amid a global debate over internet regulation, its latest updates also looked like a defensive move...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Paper trail tracks alleged downfall of Parramatta's Pink Ladies",
+      "link": "https://www.abc.net.au/news/2026-06-13/insights-from-icac-inquiry-parramatta-council-ex-ceo-and-staff/106776608",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-12T21:17:55+00:00",
+      "score": 14,
+      "summary": "Over the past five weeks, emotional hearings at the inquiry into alleged corruption at the City of Parramatta have contained bombshell admissions and insights.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Apple"
+        "Parramattas",
+        "Pink",
+        "Ladies"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13109,13 +13159,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "ABC Australia"
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "From Southbank to the Skyneedle: The legacies of Australia's biggest event",
       "link": "https://www.abc.net.au/news/2026-06-13/expo-88-skyneedle-south-bank-olympics-2032/106584484",
@@ -19705,23 +19753,30 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Live: NDIS inquiry told 240,000 people to be 'exited' from scheme",
-      "link": "https://www.abc.net.au/news/2026-06-12/federal-politics-live-blog-ndis-changes/106789186",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-11T21:20:11+00:00",
-      "score": 15,
-      "summary": "A Senate inquiry into the government's National Disability Insurance Scheme (NDIS) changes has been told 240,000 people will be \"exited\" from the scheme. Follow live.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
+      "title": "Justice Dept. Clears Way for Paramount-Warner Bros. Merger",
+      "link": "https://www.nytimes.com/2026/06/12/business/media/paramount-warner-bros-merger.html",
+      "source": "NYT",
+      "timestamp": "2026-06-12T21:27:29+00:00",
+      "score": 12,
+      "summary": "The $111 billion deal would unite two major movie studios and put CNN under the same roof as CBS News.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
       "trust_score": 9,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "NDIS"
+        "Dept",
+        "Clears",
+        "Way",
+        "ParamountWarner",
+        "Bros",
+        "Merger"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19730,15 +19785,46 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "ABC Australia"
+        "NYT"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Social Security COLA for 2027 may jump to 4.7%, one estimate finds. This chart shows prices driving the increase",
+      "link": "https://www.cnbc.com/2026/06/12/social-security-cola-2027-inflation-estimate.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-12T21:18:06+00:00",
+      "score": 15,
+      "summary": "As inflation climbs, Social Security beneficiaries may see a higher cost-of-living adjustment in 2027. Here's which costs spiked most over the past 12 months.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Security",
+        "COLA",
+        "This"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Call Kevin Warsh the Fed 'chairman'",
       "link": "https://www.cnbc.com/2026/06/12/fed-kevin-warsh-chairman-title.html",
@@ -26355,82 +26441,6 @@
         "NYT"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Stock Market Today: Dow, Nasdaq Move Higher After Trump Cancels Iran Strikes \u2014 Live Updates",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc254QUF3M1VKMGZYd3lydnR5SEhiOVhMZFFWakF3TURTSDFqWEc5dW41YnA4QUJQZExmNkxyRVhrY3JwVk1uaFk3OHpVd2p3ZG1kMi1KeXlDNUJraUtCT2V3UzJBWGl2N1E0a25nOTJXaWhhV3dieFRvbE1pWF8tRUgzd0dvRms?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-11T17:40:00+00:00",
-      "score": 14,
-      "summary": "Stock Market Today: Dow, Nasdaq Move Higher After Trump Cancels Iran Strikes \u2014 Live Updates WSJDow jumps 700 points, oil tumbles as Trump cancels evening strikes against Iran: Live updates CNBCStock market today: Dow, S&P 500, Nasdaq rise after US completes fresh round of Iran...",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Market",
-        "Today",
-        "Dow",
-        "Nasdaq",
-        "Move",
-        "Higher",
-        "After",
-        "Trump",
-        "Cancels",
-        "Iran",
-        "Strikes",
-        "Live",
-        "Updates"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Intel\u2019s stock could push even higher thanks to this subtle dynamic, BofA says",
-      "link": "https://www.marketwatch.com/story/intels-stock-could-push-even-higher-thanks-to-this-subtle-dynamic-bofa-says-0615c707?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-06-11T17:34:00+00:00",
-      "score": 14,
-      "summary": "Despite major stock gains this year, Intel is significantly \u201cunderowned\u201d in funds, BofA notes \u2014 and as ownership expands, the stock could zoom higher.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "BofA"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -38901,6 +38911,158 @@
   ],
   "Entertainment": [
     {
+      "title": "Roku Stock Jumps on Sale Talks",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/roku-for-sale-stock-jumps-20-percent-on-report-1236620804/",
+      "source": "THR",
+      "timestamp": "2026-06-12T21:21:26+00:00",
+      "score": 14,
+      "summary": "Shares are up 20 percent following Bloomberg report.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stock",
+        "Jumps",
+        "Sale",
+        "Talks"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Lilo & Stitch 2\u2019 to be Directed by Co-Creator Chris Sanders (Exclusive)",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/lilo-and-stitch-2-to-be-directed-co-creator-chris-sanders-1236620450/",
+      "source": "THR",
+      "timestamp": "2026-06-12T21:19:20+00:00",
+      "score": 15,
+      "summary": "The voice of Stitch is stepping behind the camera for the sequel to the $1 billion hit.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stitch",
+        "Directed",
+        "CoCreator",
+        "Chris",
+        "Sanders",
+        "Exclusive"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Comic Creators James Tynion IV, Tony Fleecs Tackling \u2018Beneath the Trees Where Nobody Sees\u2019 Halloween Special (Exclusive)",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/beneath-the-trees-where-nobody-sees-halloween-special-1236620121/",
+      "source": "THR",
+      "timestamp": "2026-06-12T21:18:49+00:00",
+      "score": 12,
+      "summary": "Patrick Horvath has enlisted a bevy of names for a horror anthology based on his comic, which is IDW's highest selling original title.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Creators",
+        "James",
+        "Tynion",
+        "Tony",
+        "Fleecs",
+        "Tackling",
+        "Beneath",
+        "Trees",
+        "Where",
+        "Nobody",
+        "Sees",
+        "Halloween",
+        "Special",
+        "Exclusive"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Kelly Ripa Reveals One Regret From Vegas Wedding With Mark Consuelos",
+      "link": "https://www.eonline.com/news/1432943/kelly-ripas-wedding-regret-with-husband-mark-consuelos-revealed?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-06-12T21:17:19+00:00",
+      "score": 12,
+      "summary": "Every rose has its thorn, including Kelly Ripa's wedding to Mark Consuelos. The Hope & Faith alum revealed the one element she wishes she and Consuelos\u2014with whom she shares kids Michael, 28, Lola,...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ripa",
+        "Reveals",
+        "One",
+        "Regret",
+        "Vegas",
+        "Wedding",
+        "Mark",
+        "Consuelos"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "\u2018Blair Witch Project\u2019s Heather Donahue Clarifies She\u2019s \u201cNot Participating\u201d In Reboot: \u201cPreserving My Autonomy Mattered More\u201d",
       "link": "https://deadline.com/2026/06/blair-witch-project-heather-donahue-not-participating-reboot-1236955156/",
       "source": "Deadline",
@@ -46752,181 +46914,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Mariska Hargitay on Being Courtside for Knicks Game 4 Win: \u2018Honored\u2019 and \u2018Grateful\u2019 to Say \u2018I Was There\u2019",
-      "link": "https://variety.com/2026/sports/columns/mariska-hargitay-knicks-1236778991/",
-      "source": "Variety",
-      "timestamp": "2026-06-11T22:32:15+00:00",
-      "score": 15,
-      "summary": "Mariska Hargitay arrived at Game 4 of the NBA Finals between the Knicks and Spurs on Wednesday night at Madison Square Garden after matinee and evening performances of \u201cEvery Brilliant Thing\u201d at the nearby Hudson Theatre. At first, she was spotted wearing a black shirt, but qu...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hargitay",
-        "Being",
-        "Courtside",
-        "Knicks",
-        "Game",
-        "Win",
-        "Honored",
-        "Grateful",
-        "Say",
-        "Was",
-        "There"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Every Year After\u2019 Boss Breaks Down Why It\u2019s Not a Love Triangle, Changes From the Book\u2019s Sam and Percy, and Charlie\u2019s Fate in Season 2",
-      "link": "https://variety.com/2026/tv/news/every-year-after-boss-book-changes-cheating-twist-season-2-1236771105/",
-      "source": "Variety",
-      "timestamp": "2026-06-11T22:30:00+00:00",
-      "score": 15,
-      "summary": "SPOILER ALERT: This post contains spoilers from \u201cEvery Year After,\u201d now streaming on Prime Video. Showunner Amy B. Harris had three specific plot points in mind when she set out to adapt Carley Fortune\u2019s YA romance novel \u201cEvery Summer After\u201d for Amazon Prime Video, now titled ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Year",
-        "After",
-        "Boss",
-        "Breaks",
-        "Down",
-        "Why",
-        "Its",
-        "Not",
-        "Love",
-        "Triangle",
-        "Changes",
-        "Books",
-        "Sam",
-        "Percy",
-        "Charlies",
-        "Fate",
-        "Season"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Awards Chatter\u2019 Pod: Wanda Sykes on Her Netflix Standup Special \u2018Legacy,\u2019 Emceeing the Oscars the Night of \u2018The Slap\u2019 and Never Having Hosted \u2018SNL\u2019",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/wanda-sykes-netflix-special-legacy-scars-slap-snl-podcast-1236615010/",
-      "source": "THR",
-      "timestamp": "2026-06-11T22:28:24+00:00",
-      "score": 12,
-      "summary": "The trailblazing comedian is back in Emmy contention for her seventh hourlong standup special.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chatter",
-        "Pod",
-        "Wanda",
-        "Sykes",
-        "Her",
-        "Netflix",
-        "Standup",
-        "Special",
-        "Legacy",
-        "Emceeing",
-        "Oscars",
-        "Night",
-        "Slap",
-        "Never",
-        "Having",
-        "Hosted",
-        "SNL"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Kanye West's Wife Bianca Censori Makes Rare Comment on Their Love Life",
-      "link": "https://www.eonline.com/news/1432899/kanye-wests-wife-bianca-censoris-rare-comment-on-their-love-life?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-06-11T22:18:32+00:00",
-      "score": 12,
-      "summary": "Kanye \"Ye\" West and Bianca Censori have their love locked down. And in celebration of the rapper's 49th birthday on June 8, his wife shared a rare glimpse into their marriage. Posting a picture of...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Wests",
-        "Wife",
-        "Bianca",
-        "Censori",
-        "Makes",
-        "Rare",
-        "Comment",
-        "Their",
-        "Love",
-        "Life"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52395,49 +52382,104 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "Chanel and Tribeca Celebrated the Power of Storytelling and Another Year of the Through Her Lens Program",
-      "link": "https://www.vogue.com/slideshow/chanel-tribeca-through-her-lens-luncheon-2026",
-      "source": "Vogue",
-      "timestamp": "2026-06-05T21:17:29+00:00",
-      "score": 12,
-      "summary": "Among those who joined Chanel and Tribeca were Meg Ryan, Maggie Rogers, Katie Holmes, Debi Mazar, Supriya Ganesh, Myha\u2019la, and industry stalwarts including Patty Jenkins and Bryce Norbitz who have been been a lifeline to many during the festival\u2019s long history.",
+      "title": "M 2.3 - 6 km W of Yountville, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75375386",
+      "source": "USGS",
+      "timestamp": "2026-06-12T21:30:55.748000+00:00",
+      "score": 15,
+      "summary": "DYFI? - IITime2026-06-12 21:14:52 UTC2026-06-12 21:14:52 UTC at epicenterLocation38.407\u00b0N 122.432\u00b0WDepth7.00 km (4.35 mi)",
       "country": "US",
       "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Tribeca",
-        "Celebrated",
-        "Power",
-        "Storytelling",
-        "Another",
-        "Year",
-        "Through",
-        "Her",
-        "Lens",
-        "Program"
+        "Yountville"
       ],
-      "severity_score": 0,
+      "severity_score": 3,
       "alert_level": "low",
-      "mode": "normal",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "Vogue"
+        "USGS"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+57%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
+    {
+      "title": "M 2.0 - 55 km S of Kingston, Nevada",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920170",
+      "source": "USGS",
+      "timestamp": "2026-06-12T21:30:15.110000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-12 21:27:28 UTC2026-06-12 21:27:28 UTC at epicenterLocation38.706\u00b0N 117.077\u00b0WDepth12.96 km (8.06 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kingston",
+        "Nevada"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.5 - 187 km SE of Nikolski, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lovmvy",
+      "source": "USGS",
+      "timestamp": "2026-06-12T21:20:12.105000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-12 20:58:11 UTC2026-06-12 20:58:11 UTC at epicenterLocation51.841\u00b0N 166.775\u00b0WDepth7.10 km (4.41 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nikolski",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.8 - 13 km NW of Grapevine, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41485424",
@@ -58902,104 +58944,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 20 km ESE of Silver Springs, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920064",
-      "source": "USGS",
-      "timestamp": "2026-06-11T15:59:29.115000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-11 15:57:18 UTC2026-06-11 15:57:18 UTC at epicenterLocation39.335\u00b0N 119.009\u00b0WDepth2.78 km (1.73 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Silver",
-        "Springs",
-        "Nevada"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.4 - 137 km S of McCarthy, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lmnvgp",
-      "source": "USGS",
-      "timestamp": "2026-06-11T15:13:17.490000+00:00",
-      "score": 15,
-      "summary": "ShakeMap - IVTime2026-06-11 15:08:31 UTC2026-06-11 15:08:31 UTC at epicenterLocation60.213\u00b0N 143.305\u00b0WDepth0.10 km (0.06 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "McCarthy",
-        "Alaska"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Bridgwater Tidal Barrier scheme wins national digital award",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeTREd3RYVkdDa09tV2hzNDVSRWJZdGlxUEd2OWxNTURKWHZUa2dJb0RqTnNFbEFQLWIyT3k2SGlzbFM5VkdoSkxDV3hsR3AweGl4cHNtdlh5YkFoSUtsVXROcG1oS1Bhd0pBZmgyZVIyT1dFRHV0MmpnSXZEbWdOT2J4YmM2UHV2NGk5UGpzQnNzSmlLbVJ2d2x3?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-11T15:06:11+00:00",
-      "score": 12,
-      "summary": "Bridgwater Tidal Barrier scheme wins national digital award GOV.UK",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tidal",
-        "Barrier"
-      ],
-      "severity_score": 8,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ]
