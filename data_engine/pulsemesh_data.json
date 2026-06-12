@@ -1,6 +1,41 @@
 {
   "Politics": [
     {
+      "title": "Jaishankar speaks to Rubio, lodges strong protest over U.S. Navy attacks that killed three Indians",
+      "link": "https://www.thehindu.com/news/national/jaishankar-speaks-to-rubio-lodges-strong-protest-over-us-navy-attacks-that-killed-three-indians/article71095295.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-13T02:06:09+05:30",
+      "score": 14,
+      "summary": "\u201cSpoke to U.S. Secretary of State Marco Rubio this evening. I reiterated India\u2019s strong protest at the attacks by the U.S. Navy in the Gulf that killed three Indian mariners,\u201d Mr. Jaishankar said.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Rubio",
+        "Navy",
+        "Indians"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Federal Agents Search Voting Rights Group in Ohio",
       "link": "https://www.nytimes.com/2026/06/12/us/politics/federal-search-voting-rights-group-ohio.html",
       "source": "NYT",
@@ -6559,22 +6594,26 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Maharashtra govt takes cognisance of aggregated cab drivers arm-twisting customers for tips",
-      "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-govt-takes-cognisance-of-aggregated-cab-drivers-arm-twisting-customers-for-tips/article71090582.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-12T03:55:09+05:30",
-      "score": 10,
-      "summary": "Over the past few days, incidents of drivers demanding additional tips or extra payments after accepting rides and cancelling the trips if such payments were not made, were being reported, the officials said.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Chinese cybercrime operation that used AI to scam \u2018hundreds of thousands of victims\u2019 sued by Google",
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-12T20:38:09+00:00",
+      "score": 14,
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Google"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6584,13 +6623,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "SpaceX IPO closes up 19% and delivers the world\u2019s first trillionaire",
       "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
@@ -13074,46 +13111,44 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "OpenAI files for IPO, following Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
-      "source": "Verge",
-      "timestamp": "2026-06-08T17:38:29-04:00",
-      "score": 14,
-      "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Trump and Netanyahu in lockstep over Iran war, U.S. ambassador to Israel says",
+      "link": "https://www.cbc.ca/news/world/huckabee-trump-netanyahu-iran-9.7233490?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-06-12T16:33:42-04:00",
+      "score": 12,
+      "summary": "In one of his first on-camera interviews since the United States and Israel launched strikes against Iran in February, U.S. Ambassador to Israel Mike Huckabee brushed aside reports that tension has emerged between Trump and Israeli Prime Minister Benjamin Netanyahu, and discus...",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "IPO",
-        "Anthropic"
+        "Netanyahu",
+        "Iran",
+        "Israel"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 13,
+      "source_count": 2,
       "sources_reporting": [
-        "Bloomberg",
-        "Guardian",
-        "NPR",
-        "TechCrunch",
-        "Verge",
-        "Wired"
+        "CBC News"
       ],
-      "trend_accel": "+73%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "World": [
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Pope warns people smugglers they face God\u2019s wrath",
       "link": "https://www.aljazeera.com/news/2026/6/12/pope-warns-people-smugglers-they-face-gods-wrath?traffic_source=rss",
@@ -16143,7 +16178,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -19718,23 +19753,25 @@
       ],
       "trend_accel": "+88%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Budget blowout in Queanbeyan with 100yo pipe found in unexpected spot",
-      "link": "https://www.abc.net.au/news/2026-06-12/queanbeyan-main-road-works-delayed-budget-blow-out/106785320",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-11T20:42:52+00:00",
-      "score": 15,
-      "summary": "A century-old stormwater drain nearly 2 metres thick is uncovered beneath Queanbeyan's town centre, forcing the council to extend major roadworks and source extra funding.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "SpaceX 'proxies' plunge as real deal arrives: Here's where traders are buying the dip",
+      "link": "https://www.cnbc.com/2026/06/12/spacex-proxies-crash-as-real-deal-arrives-heres-where-traders-are-buying-the-dip.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-12T20:43:50+00:00",
+      "score": 14,
+      "summary": "SpaceX \"proxy stocks,\" whose options volumes were booming ahead of Friday's historic initial public offering, are unwinding gains.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Queanbeyan"
+        "Heres"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19743,15 +19780,107 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Paramount-WBD merger wins approval from DOJ, source says",
+      "link": "https://www.cnbc.com/2026/06/12/paramount-wbd-merger-approval-doj.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-12T20:40:00+00:00",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from CNBC.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "DOJ"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Top House Republican\u2019s family investment poised to benefit from SpaceX IPO",
+      "link": "https://www.cnbc.com/2026/06/12/lisa-mcclain-spacex-ipo-xai-investment-congress.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-12T20:38:27+00:00",
+      "score": 12,
+      "summary": "Republican Rep. Lisa McClain\u2019s husband bought up to $250,000 in Elon Musk\u2019s xAI before it was folded into SpaceX ahead of its IPO.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "House",
+        "Republicans",
+        "SpaceX",
+        "IPO"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "TSX adds to weekly gain as peace deal hopes lift copper prices",
+      "link": "https://www.livemint.com/market/tsx-adds-to-weekly-gain-as-peace-deal-hopes-lift-copper-prices-11781296667732.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-13T02:07:47+05:30",
+      "score": 12,
+      "summary": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX adds to weekly gain as peace deal hopes lift copper prices",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "SpaceX stock jumps 19%, closing near $161 after record IPO: Live updates",
       "link": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
@@ -26308,97 +26437,25 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Insurance stocks \u2014 especially one name \u2014 are about to break out, charts show",
-      "link": "https://www.cnbc.com/2026/06/11/insurance-stocks-especially-one-name-are-about-to-break-out-charts-show.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-11T17:01:44+00:00",
-      "score": 12,
-      "summary": "Jay Woods of Freedom Capital Markets says insurance stocks have been trending sideways for years but charts show that is changing.",
+      "title": "Gulf Stream shifted north during 12,900-year-old cold snap, first direct evidence shows",
+      "link": "https://phys.org/news/2026-06-gulf-stream-shifted-north-year.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-12T16:40:01-04:00",
+      "score": 15,
+      "summary": "During an abrupt global cold snap nearly 13,000 years ago, the Gulf Stream ocean current shifted farther north, temporarily disrupting eastern Canada's oceanic ecosystems, a process that could happen again as the climate changes, a new study by UCL researchers finds.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Stock Market Today: Russell 2000 Leads Upside Ahead Of SpaceX IPO; AI Stocks Rally (Live Coverage) - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOWhCblQ4WENHYjhIRUFyT3N4Q24zZFd4RTEyRmF5VktOWE1yRlI0R2VFMklqTXdrR0o5WEl4dExWYmpOaEotcW9WSU1oY3ZGaVZ1MkE5QzhnZmNCTkZwMUxXZWtVeXpnd0VLTHlWVF9iV1AwNmNNaDBjSGxLRWUwSUpEUmZxNnVYUGxzUnhFM0RENVdDcnp3R21uZFk1UF9TelNhQm41Z3RPZ3V6VkhLZjV5WjVWZw?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-11T16:55:00+00:00",
-      "score": 17,
-      "summary": "Stock Market Today: Russell 2000 Leads Upside Ahead Of SpaceX IPO; AI Stocks Rally (Live Coverage) Investor's Business DailySpaceX \u2018Hopes and Dreams\u2019 Are Propping Up Markets, But Stocks Face a Reality Check Barron'sWobble this week partly reflects cash raised to fund additiona...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Market",
-        "Today",
-        "Russell",
-        "Leads",
-        "Upside",
-        "Ahead",
-        "SpaceX",
-        "IPO",
-        "Stocks",
-        "Rally",
-        "Live",
-        "Coverage",
-        "Investors",
-        "Business",
-        "Daily"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Oracle shares tumble on earnings. But there's a silver lining for our AI chip and power stocks",
-      "link": "https://www.cnbc.com/2026/06/11/oracle-shares-tumble-on-earnings-but-theres-a-silver-lining-for-our-ai-chip-and-power-stocks.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-11T16:51:27+00:00",
-      "score": 14,
-      "summary": "Oracle investors didn't get what they wanted. But its earnings report was a good sign for other stocks in the AI trade.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "But"
+        "Stream"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26409,44 +26466,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
-    {
-      "title": "US producer prices spike in May as soaring energy prices fuel largest yearly jump since 2022",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkxCZWVnYlhJU3o3WkJJYS1KTGlyQXJBckhKQ29jNWY3TUdSR3NCdWUyNkpETGZtODg0Y3ZBRkxaNkZtSkNMVFgzdWVlZnlGci13TDdNMzhGM0FjY2VtZDN6U0NHa0hXc2loOVdmNnBfenJzdlhIS3ZOQm9HOTFPTEhBWG9zYzF6d0hXTFhQN2xidjhJZ2Z0MWFLN2hxRXc?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-11T16:51:00+00:00",
-      "score": 15,
-      "summary": "US producer prices spike in May as soaring energy prices fuel largest yearly jump since 2022 AP NewsTrump has a new, surprising take on the higher cost of living: \u2018I love the inflation\u2019 AP NewsWholesale prices rose 1.1% in May, more than expected, on surge in energy CNBCTrump\u2019...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "May"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "26-Year Mystery of a Skeleton in a Tent Ends With DNA Identification",
       "link": "https://www.nytimes.com/2026/06/12/us/human-remains-olympic-national-park-washington.html",
@@ -32534,39 +32558,6 @@
         "NYT"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "An underground detector in China unveils its first major findings about mysterious ghost particles",
-      "link": "https://phys.org/news/2026-06-underground-detector-china-unveils-major.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-10T13:02:15-04:00",
-      "score": 12,
-      "summary": "A massive underground detector aimed at understanding the mysterious ghost particles in our universe released its first major results on Wednesday.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "China"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -38915,6 +38906,82 @@
   ],
   "Entertainment": [
     {
+      "title": "Ronnie Schell, Actor on \u2018Gomer Pyle: USMC,\u2019 Dies at 94",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/ronnie-schell-dead-actor-gomer-pyle-usmc-1236620756/",
+      "source": "THR",
+      "timestamp": "2026-06-12T20:36:56+00:00",
+      "score": 15,
+      "summary": "The self-deprecating stand-up also starred in 'Good Morning, World' and 'The Cat From Outer Space' and provided the voice for Peter Puck.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Schell",
+        "Actor",
+        "Gomer",
+        "Pyle",
+        "USMC",
+        "Dies"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.3,
+      "source_count": 14,
+      "sources_reporting": [
+        "BBC",
+        "Deadline",
+        "Guardian",
+        "Reuters",
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+81%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "Charles Dennis, a Founder of the Avant-Garde Space P.S. 122, Dies at 77",
+      "link": "https://www.nytimes.com/2026/06/12/theater/charles-dennis-dead.html",
+      "source": "NYT",
+      "timestamp": "2026-06-12T20:34:13+00:00",
+      "score": 15,
+      "summary": "A performance artist, dancer, choreographer, videographer, filmmaker and curator, he was a central figure in the downtown Manhattan experimental arts scene.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dennis",
+        "Founder",
+        "AvantGarde",
+        "Space",
+        "Dies"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "DOJ Gives Thumbs Up To Paramount\u2019s $111B WBD Acquisition; States Ponder Next Move",
       "link": "https://deadline.com/2026/06/paramount-warner-bros-merger-approved-doj-1236955152/",
       "source": "Deadline",
@@ -39618,14 +39685,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 11.2,
+      "source_count": 14,
       "sources_reporting": [
-        "Deadline"
+        "Deadline",
+        "Guardian",
+        "NHK",
+        "NPR",
+        "THR",
+        "Variety"
       ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
+      "trend_accel": "+82%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Ariana Grande Expands Philanthropic Efforts With Launch of Brighter Days Ahead Foundation",
@@ -43604,8 +43676,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 20,
       "sources_reporting": [
         "Deadline",
@@ -43684,8 +43756,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "Bloomberg",
@@ -46871,85 +46943,6 @@
       ],
       "trend_accel": "+87%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "2026 Tribeca Festival Awards: \u2018Labrador \u2013 Autopsy of Silence,\u2019 \u2018Jail Time Records,\u2019 \u2018Cotton Fever\u2019 Lead Winners",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/2026-tribeca-festival-awards-winners-list-1236619807/",
-      "source": "THR",
-      "timestamp": "2026-06-11T22:00:00+00:00",
-      "score": 17,
-      "summary": "The films received the top prizes in the U.S. narrative, international narrative and documentary competitions, with 'Labrador' and 'Jail Time Records' each earning an additional two awards.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tribeca",
-        "Festival",
-        "Awards",
-        "Labrador",
-        "Autopsy",
-        "Silence",
-        "Jail",
-        "Time",
-        "Records",
-        "Cotton",
-        "Fever",
-        "Lead",
-        "Winners"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 7,
-      "sources_reporting": [
-        "Deadline",
-        "THR"
-      ],
-      "trend_accel": "+71%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Kinepolis Acquires Showcase Cinemas in $30 Million Deal",
-      "link": "https://variety.com/2026/film/news/kinepolis-acquires-showcase-cinemas-1236779165/",
-      "source": "Variety",
-      "timestamp": "2026-06-11T21:53:03+00:00",
-      "score": 17,
-      "summary": "Belgium-based company Kinepolis has acquired the Showcase Cinemas circuit in the U.S. from Harbor Lights Entertainment (formerly National Amusements). Showcase runs 13 cinemas including seven in Massachusetts, four in New York, one in Ohio and one in Rhode Island. The agreemen...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Acquires",
-        "Showcase",
-        "Cinemas",
-        "Million",
-        "Deal"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52422,47 +52415,41 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "Kartik Research Postpones Paris Fashion Show Following Employee\u2019s Death",
-      "link": "https://www.gq.com/story/kartik-research-paris-fashion-week-show-postponed",
-      "source": "GQ",
-      "timestamp": "2026-06-05T20:39:01+00:00",
-      "score": 12,
-      "summary": "The New Delhi-based menswear brand was scheduled to hold its runway show during Paris Fashion Week in June.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "M 0.6 - 17 km NNE of Ridgecrest, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41485400",
+      "source": "USGS",
+      "timestamp": "2026-06-12T20:34:22.686000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-12 20:30:56 UTC2026-06-12 20:30:56 UTC at epicenterLocation35.762\u00b0N 117.605\u00b0WDepth10.16 km (6.31 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Research",
-        "Postpones",
-        "Paris",
-        "Fashion",
-        "Show",
-        "Following",
-        "Employees",
-        "Death"
+        "NNE",
+        "Ridgecrest"
       ],
-      "severity_score": 0,
+      "severity_score": 3,
       "alert_level": "low",
-      "mode": "normal",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "GQ"
+        "USGS"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
     {
       "title": "M 0.7 - 59 km W of Tyonek, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026loukrf",
@@ -59003,38 +58990,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.1 - 18 km WSW of Johannesburg, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41484536",
-      "source": "USGS",
-      "timestamp": "2026-06-11T14:43:24.817000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-11 14:34:46 UTC2026-06-11 14:34:46 UTC at epicenterLocation35.315\u00b0N 117.814\u00b0WDepth8.89 km (5.52 mi)",
-      "country": "South Africa",
-      "region": "Africa",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Johannesburg"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+61%",
       "heat_level": "LOW"
     }
   ]
