@@ -7401,7 +7401,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.1,
+      "trend_score": 9.0,
       "source_count": 10,
       "sources_reporting": [
         "AP",
@@ -13128,6 +13128,39 @@
     }
   ],
   "World": [
+    {
+      "title": "The unseen children who roam Perth's streets at night",
+      "link": "https://www.abc.net.au/news/2026-06-13/charity-youth-beat-helps-disadvantaged-young-people-in-perth/106783634",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-13T00:02:34+00:00",
+      "score": 12,
+      "summary": "Youth Beat workers take to Perth streets at night to help young people who have nowhere else to go.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Perths"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "United States \u2013 Paraguay live: Follow the third World Cup ceremony and Group D opener",
       "link": "https://www.france24.com/en/sport/20260613-united-states-%E2%80%93-paraguay-live-follow-the-third-world-cup-ceremony-and-group-d-opener",
@@ -19707,40 +19740,6 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Breaking: Paedophile Ashley Paul Griffith loses appeal to reduce sentence",
-      "link": "https://www.abc.net.au/news/2026-06-12/qld-ashley-paul-griffith-loses-appeal/106789618",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-11T23:47:53+00:00",
-      "score": 12,
-      "summary": "The former childcare worker sexually abused dozens of children at centres for almost two decades.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Paedophile",
-        "Ashley",
-        "Paul",
-        "Griffith"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 2,
@@ -38796,23 +38795,31 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Sankey scoffs at notion of SEC-B1G super league",
-      "link": "https://www.espn.com/college-sports/story/_/id/48978492/sec-sankey-idea-super-league-not-consistent-truth",
-      "source": "ESPN",
-      "timestamp": "2026-06-05T19:15:34-05:00",
-      "score": 15,
-      "summary": "SEC commissioner Greg Sankey called the notion that the conference wants to form a super league with the Big Ten \"not consistent with the truth.\"",
+      "title": "Gene Shalit, Film Critic Bristling With Hair and Puns, Dies at 100",
+      "link": "https://www.nytimes.com/2026/06/12/arts/television/gene-shalit-dead.html",
+      "source": "NYT",
+      "timestamp": "2026-06-13T00:08:33+00:00",
+      "score": 17,
+      "summary": "One of the nation\u2019s most recognizable characters, he delivered his wacky commentary for more than 40 years on the \u201cToday\u201d show.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Sports Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "SECBG"
+        "Shalit",
+        "Film",
+        "Critic",
+        "Bristling",
+        "Hair",
+        "Puns",
+        "Dies"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -38823,13 +38830,50 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "ESPN"
+        "NYT"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
+    {
+      "title": "Inside the Directors Guild\u2019s Four-Year Deal: A Focus on Jobs, the Health Plan and AI Protections",
+      "link": "https://www.hollywoodreporter.com/business/business-news/directors-guilds-four-year-deal-plan-1236620542/",
+      "source": "THR",
+      "timestamp": "2026-06-13T00:04:58+00:00",
+      "score": 14,
+      "summary": "The union struck the tentative agreement with studios and streamers on June 9.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Directors",
+        "Guilds",
+        "FourYear",
+        "Deal",
+        "Focus",
+        "Jobs",
+        "Health",
+        "Plan",
+        "Protections"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "DGA Board Approves 4-Year AMPTP Deal That Addresses Unemployment Issues With Health Plan Increases, New AI Protections, Multi-Hyphenate Guardrails & More",
       "link": "https://deadline.com/2026/06/dga-board-approves-amptp-4-year-deal-details-summary-1236955328/",
@@ -46779,87 +46823,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "FX\u2019s \u2018Adults\u2019 Drops Secret Standalone Prequel Episode Revealing Paul\u2019s Origin Story",
-      "link": "https://deadline.com/2026/06/fx-adults-standalone-prequel-episode-tribeca-1236954477/",
-      "source": "Deadline",
-      "timestamp": "2026-06-12T02:04:09+00:00",
-      "score": 12,
-      "summary": "FX\u2019s comedy series Adults let Tribeca Film Festival goers in on a secret: not only does a standalone prequel episode exist, but the show\u2019s panel attendees were able to screen it. The episode titled \u201cMarathon Day,\u201d which focuses on Paul Baker\u2019s (Jack Innanen) origin story, will...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Adults",
-        "Drops",
-        "Secret",
-        "Standalone",
-        "Prequel",
-        "Episode",
-        "Revealing",
-        "Pauls",
-        "Origin",
-        "Story"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Donna Mirus Bates Promoted To Global Franchise Strategy Officer For Universal Destinations & Experiences",
-      "link": "https://deadline.com/2026/06/donna-mirus-bates-global-franchise-strategy-officer-universal-1236954456/",
-      "source": "Deadline",
-      "timestamp": "2026-06-12T01:54:23+00:00",
-      "score": 12,
-      "summary": "Amid a period of huge growth for Universal Destinations & Experiences, the Comcast NBCUniversal unit has appointed Donna Mirus Bates to the position of Global Franchise Strategy Officer. In the role, she will oversee franchise management & strategic partnerships for the compan...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mirus",
-        "Bates",
-        "Promoted",
-        "Global",
-        "Franchise",
-        "Strategy",
-        "Officer",
-        "Universal",
-        "Destinations",
-        "Experiences"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 6,
-      "sources_reporting": [
-        "Deadline",
-        "Variety"
-      ],
-      "trend_accel": "+65%",
-      "heat_level": "HOT"
     }
   ],
   "Lifestyle": [
@@ -52337,6 +52300,70 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.1 - 15 km NNW of Neenach, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41485592",
+      "source": "USGS",
+      "timestamp": "2026-06-13T00:10:13.478000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-13 00:06:36 UTC2026-06-13 00:06:36 UTC at epicenterLocation34.893\u00b0N 118.679\u00b0WDepth11.85 km (7.36 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Neenach"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 28 km W of Petersville, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lpbsos",
+      "source": "USGS",
+      "timestamp": "2026-06-13T00:06:21.928000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-13 00:04:32 UTC2026-06-13 00:04:32 UTC at epicenterLocation62.531\u00b0N 151.314\u00b0WDepth88.80 km (55.18 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Petersville",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 2.2 - 18 km NNE of Nikiski, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lpbozx",
@@ -58838,72 +58865,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 2 km NNE of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75374956",
-      "source": "USGS",
-      "timestamp": "2026-06-11T18:54:44.970000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-11 18:53:06 UTC2026-06-11 18:53:06 UTC at epicenterLocation38.795\u00b0N 122.751\u00b0WDepth2.03 km (1.26 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 5 km NNE of Moapa Valley, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920075",
-      "source": "USGS",
-      "timestamp": "2026-06-11T18:33:00.206000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-11 18:29:01 UTC2026-06-11 18:29:01 UTC at epicenterLocation36.629\u00b0N 114.441\u00b0WDepth14.49 km (9.01 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Moapa",
-        "Valley",
-        "Nevada"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ]
