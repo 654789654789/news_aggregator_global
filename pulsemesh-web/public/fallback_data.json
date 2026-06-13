@@ -6557,6 +6557,40 @@
   ],
   "Tech": [
     {
+      "title": "Amazon security research reportedly led to the White House\u2019s Anthropic Fable ban",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+      "source": "Verge",
+      "timestamp": "2026-06-13T17:39:26-04:00",
+      "score": 12,
+      "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "White",
+        "Houses",
+        "Anthropic",
+        "Fable"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Verge"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "KPMG pulls report on AI usage due to apparent hallucinations",
       "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
       "source": "TechCrunch",
@@ -13020,23 +13054,28 @@
       ],
       "trend_accel": "+81%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Marshall\u2019s Stockwell speaker gets a replaceable battery that runs twice as long",
-      "link": "https://www.theverge.com/tech/945623/marshalls-stockwell-speaker-gets-a-replaceable-battery-that-runs-twice-as-long",
-      "source": "Verge",
-      "timestamp": "2026-06-09T08:00:00-04:00",
+      "title": "Middle East Live:  Dozens protest peace deal outside Iran foreign ministry",
+      "link": "https://www.france24.com/en/middle-east/20260613-middle-east-live-dozens-protest-peace-deal-outside-iran-foreign-ministry",
+      "source": "France24",
+      "timestamp": "2026-06-13T21:44:18+00:00",
       "score": 14,
-      "summary": "Marshall has announced a new version of its stylish Stockwell Bluetooth speaker, putting a new focus on repairability. The Stockwell III, the brand's first update to this model since early 2019, features a similar design to its predecessor with a large carrying handle and spea...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "Dozens protested Saturday outside a foreign ministry office in Iran's northeastern city of Mashhad, chanting slogans against top diplomat Abbas Araghchi after a televised interview in which he discussed signing a peace deal with the US. Follow our liveblog for the latest updates.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Stockwell"
+        "East",
+        "Live",
+        "Dozens",
+        "Iran"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13045,15 +13084,118 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "France24"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Brazil - Morocco live: World Cup 2026 first heavyweight clash in group stage",
+      "link": "https://www.france24.com/en/sport/20260613-brazil-morocco-live-world-cup-2026-first-heavyweight-clash-in-group-stage",
+      "source": "France24",
+      "timestamp": "2026-06-13T21:42:37+00:00",
+      "score": 15,
+      "summary": "Morocco faces Brazil in their World Cup 2026 opening match, with Group C's heavyweight clash pitting Achraf Hakimi's African underdogs against Vinicius and Brazil's five-time champions. Follow our blog as the tournament's first truly heavyweight encounter unfolds.",
+      "country": "Brazil",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Morocco",
+        "World",
+        "Cup"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Verge"
+        "France24"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+54%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "5 Children Are Killed After Van and S.U.V. Collide in Rural Ontario",
+      "link": "https://www.nytimes.com/2026/06/13/world/canada/five-children-killed-crash-ontario-canada.html",
+      "source": "NYT",
+      "timestamp": "2026-06-13T21:32:00+00:00",
+      "score": 15,
+      "summary": "The children \u2014 four girls and one boy \u2014 were among 10 people in the van at the time of the crash. An infant was seriously injured, the police said.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Children",
+        "Are",
+        "Killed",
+        "After",
+        "Van",
+        "SUV",
+        "Collide",
+        "Rural",
+        "Ontario"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Centre asks Telangana CM to probe 1,600 crore missing coal",
+      "link": "https://timesofindia.indiatimes.com/india/centre-asks-telangana-cm-to-probe-1600-crore-missing-coal/articleshow/131712324.cms",
+      "source": "Times of India",
+      "timestamp": "2026-06-14T03:01:45+05:30",
+      "score": 15,
+      "summary": "In his letter, the coal minister said the allegations could impact the financial stability of SCCL, especially in the backdrop of its current financial position due to unpaid dues exceeding Rs 51,500 crore by Telangana govt. SCCL is jointly owned by the Telangana govt and the ...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Telangana"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Pint-sized superheroes find love for art via creative gallery program",
       "link": "https://www.abc.net.au/news/2026-06-14/art-gallery-of-nsw-super-art-heroes-education-program-for-kids/106785648",
@@ -19609,137 +19751,6 @@
       "sources_reporting": [
         "ABC Australia",
         "BBC"
-      ],
-      "trend_accel": "+65%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Iran-linked group claims hack of FBI drones, threatens World Cup, monitor reports",
-      "link": "https://www.france24.com/en/americas/20260612-iran-linked-group-claims-hack-of-fbi-drones-threatens-world-cup-monitor-reports",
-      "source": "France24",
-      "timestamp": "2026-06-12T17:21:51+00:00",
-      "score": 14,
-      "summary": "An Iran-linked hacker group called Handala claimed to have breached FBI drones and threatened to target the 2026 World Cup, monitoring group SITE said Friday.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "FBI",
-        "World",
-        "Cup"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Federal judge extends court-ordered block on Trump\u2019s $1.8bn anti-weaponization fund \u2013 US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2026/jun/12/donald-trump-fisa-kennedy-center-iran-ufc-white-house-latest-news-updates",
-      "source": "Guardian",
-      "timestamp": "2026-06-12T17:19:10+00:00",
-      "score": 15,
-      "summary": "Judge Leonie Brinkema in Virginia ruled that fund, which Trump said would compensate \u2018victims of weaponized government\u2019, will remain blocked until further notice from the courtA powerful US surveillance law is set to expire \u2013 what happens now?Sign up for the Breaking News US e...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Trumps"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "David Hockney, revolutionary British artist famed for his pools and portraits, dies aged 88",
-      "link": "https://www.theguardian.com/artanddesign/2026/jun/12/artist-david-hockney-dies",
-      "source": "Guardian",
-      "timestamp": "2026-06-12T17:18:58+00:00",
-      "score": 17,
-      "summary": "The Bradford-born painter made his name with sunkissed visions of California and never stopped breaking barriers, going on to become one of contemporary art\u2019s most important figures\u2022 \u2018David Hockney caught the look of the modern world\u2019\u2022 David Hockney\u2019s life in picturesDavid Hoc...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hockney",
-        "British"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "U.S. plans to slash fighter jets, warships to NATO in Europe: report",
-      "link": "https://www.thehindu.com/news/international/us-plans-to-slash-fighter-jets-warships-to-nato-in-europe-report/article71095020.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-12T22:46:26+05:30",
-      "score": 12,
-      "summary": "U.S. President Donald Trump has called the alliance a \"paper tiger\" and its members \"cowards\" in frustration that they have not joined the U.S.-Israeli war against Iran",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "NATO",
-        "Europe"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 7,
-      "sources_reporting": [
-        "France24",
-        "The Hindu"
       ],
       "trend_accel": "+65%",
       "heat_level": "HOT"
@@ -38479,37 +38490,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "U.S. sharp in narrow WC sendoff loss to Germany",
-      "link": "https://www.espn.com/soccer/report/_/gameId/762260",
-      "source": "ESPN",
-      "timestamp": "2026-06-06T16:40:21-05:00",
-      "score": 12,
-      "summary": "The United States lost 2-1 to Germany at Soldier Field in Chicago on Saturday in its last match before the start of the FIFA World Cup, turning in another solid performance after Sunday's 3-2 win over Senegal.",
-      "country": "Germany",
-      "region": "Europe",
-      "source_type": "Sports Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Germany"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ESPN"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Entertainment": [
@@ -51934,6 +51914,101 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 1.1 - 6 km SSE of Banning, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486008",
+      "source": "USGS",
+      "timestamp": "2026-06-13T21:43:21.624000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-13 21:39:54 UTC2026-06-13 21:39:54 UTC at epicenterLocation33.879\u00b0N 116.853\u00b0WDepth15.50 km (9.63 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Banning"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.7 - 195 km S of Cordova, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssr3",
+      "source": "USGS",
+      "timestamp": "2026-06-13T21:37:44.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-13 21:30:06 UTC2026-06-13 21:30:06 UTC at epicenterLocation58.821\u00b0N 145.094\u00b0WDepth10.00 km (6.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cordova",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 8 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75375891",
+      "source": "USGS",
+      "timestamp": "2026-06-13T21:35:08.650000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-13 21:32:04 UTC2026-06-13 21:32:04 UTC at epicenterLocation38.830\u00b0N 122.819\u00b0WDepth1.63 km (1.01 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 2.0 - 25 km N of Four Mile Road, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lqsofr",
       "source": "USGS",
@@ -58315,103 +58390,6 @@
         "USGS"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Angola",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028857",
-      "source": "GDACS",
-      "timestamp": "2026-06-12T15:02:17+00:00",
-      "score": 12,
-      "summary": "On 06/06/2026, a forest fire started in Angola, until 10/06/2026.",
-      "country": "EU",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Angola"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028871",
-      "source": "GDACS",
-      "timestamp": "2026-06-12T15:01:57+00:00",
-      "score": 12,
-      "summary": "On 07/06/2026, a forest fire started in The Democratic Republic of Congo, until 11/06/2026.",
-      "country": "EU",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Democratic",
-        "Republic",
-        "Congo"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 3 km ESE of P\u0101pa\u2018ikou, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74980077",
-      "source": "USGS",
-      "timestamp": "2026-06-12T14:51:16.680000+00:00",
-      "score": 17,
-      "summary": "Time2026-06-12 14:47:44 UTC2026-06-12 14:47:44 UTC at epicenterLocation19.777\u00b0N 155.057\u00b0WDepth39.99 km (24.85 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Ppaikou",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
