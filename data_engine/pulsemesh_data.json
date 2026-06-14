@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "UK and Japan agree \u00a318bn investment deal",
+      "link": "https://www.bbc.com/news/articles/cx2kjwgwxwlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-06-14T20:29:15+00:00",
+      "score": 17,
+      "summary": "Japanese firms will spend billions on UK infrastructure and offshore wind, Downing Street says.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Japan"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Assisted dying returns to parliament as MP urges peers to 'finish the job'",
       "link": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -6552,26 +6583,24 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "\u2018Swachh Patashala\u2019 campaign fosters collective responsibility towards government schools: Bandi Sanjay",
-      "link": "https://www.thehindu.com/news/national/telangana/swachh-patashala-campaign-fosters-collective-responsibility-towards-government-schools-bandi-sanjay/article71098562.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-13T21:55:27+05:30",
-      "score": 14,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "UK may ban social media for children under 16",
+      "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-14T20:17:00+00:00",
+      "score": 13,
+      "summary": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Patashala",
-        "Bandi",
-        "Sanjay"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6581,13 +6610,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "China may have accessed Mythos",
       "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
@@ -13087,24 +13114,28 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Apple brings streaming-style subscription bundles to the App Store",
-      "link": "https://techcrunch.com/2026/06/09/apple-brings-streaming-style-subscription-bundles-to-the-app-store/",
-      "source": "TechCrunch",
-      "timestamp": "2026-06-09T14:55:36+00:00",
+      "title": "Iran weekly briefing: On the edge of a US-Iran breakthrough, Israel throws an explosive spanner",
+      "link": "https://www.abc.net.au/news/2026-06-15/iran-israel-war-news-briefing/106797420",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-14T20:29:10+00:00",
       "score": 12,
-      "summary": "Apple is expanding its App Bundles feature to allow developers to partner with one another on discounted subscription packages.",
+      "summary": "Donald Trump is reported to unleash another expletive-laden outburst at Benjamin Netanyahu over Israeli strikes as the US and Iran are said to be on the verge of a deal.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "App",
-        "Store"
+        "USIran",
+        "Israel"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13113,15 +13144,77 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Cheap rent, a $400k sculpture, funds to foreign vets revealed in RSL NSW report",
+      "link": "https://www.abc.net.au/news/2026-06-15/rsl-nsw-report-outlines-mismanagement-claims-at-18-sub-branches/106472982",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-14T20:28:03+00:00",
+      "score": 15,
+      "summary": "The secret report details claims of the misappropriation of funds and fraud, including one of the NSW charity's sub-branches raising money for veterans from the Korean defence force.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "RSL",
+        "NSW"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Beach's dream is Ryan's nightmare, and Schwarzer can relate to both",
+      "link": "https://www.abc.net.au/news/2026-06-15/mark-schwarzer-socceroos-pat-beach-mat-ryan/106797360",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-14T20:20:22+00:00",
+      "score": 12,
+      "summary": "Pat Beach became a surprise national hero with his performance against T\u00fcrkiye, while incumbent goalkeeper Mat Ryan watched from the bench. Mark Schwarzer has experienced both sides of that coin.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ryans",
+        "Schwarzer"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Concerns new BHP agreement 'locks in' basin water extraction",
       "link": "https://www.abc.net.au/news/2026-06-15/concerns-over-impacts-on-water-extraction-new-bhp-agreement/106787780",
@@ -19735,60 +19828,26 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Attacks on vessels with Indian seafarers, Iranian \u2018service fee\u2019 may feature in IORA meet",
-      "link": "https://www.thehindu.com/news/national/attacks-on-vessels-with-indian-seafarers-iranian-service-fee-may-feature-in-iora-meet/article71098396.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-13T22:10:06+05:30",
+      "title": "Charlie Javice reportedly seeking a pardon from Trump",
+      "link": "https://www.cnbc.com/2026/06/14/charlie-javice-reportedly-seeking-a-pardon-from-trump-.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-14T20:29:12+00:00",
       "score": 12,
-      "summary": "India is the current Chair of the Indian Ocean Rim Association; Although the IORA\u2019s charter explicitly bars members from raising issues that do not concern regional cooperation, in the broader scheme of things, India could look to utilise the forum for airing its concerns in t...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "Javice founded a startup called Frank that JPMorgan acquired in 2021 for $175 million.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Indian",
-        "Iranian",
-        "IORA"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Ebola Comes for Congo\u2019s Most Vulnerable Children",
-      "link": "https://www.nytimes.com/video/world/africa/100000010952087/ebola-congo-orphanage-children.html",
-      "source": "NYT",
-      "timestamp": "2026-06-13T16:30:07+00:00",
-      "score": 12,
-      "summary": "The arrival of a sick newborn at Saint Nicholas Orphanage in eastern Democratic Republic of Congo set off an Ebola outbreak that quickly spread among the country\u2019s most vulnerable. Local health authorities are now monitoring the children\u2019s home, but at least two babies have al...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Comes",
-        "Congos",
-        "Most",
-        "Vulnerable",
-        "Children"
+        "Javice",
+        "Trump"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19799,44 +19858,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "NYT"
+        "CNBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Thousands turn out for anti-racism rally after Belfast unrest",
-      "link": "https://www.france24.com/en/video/20260613-thousands-turn-out-for-anti-racism-rally-after-belfast-unrest",
-      "source": "France24",
-      "timestamp": "2026-06-13T16:25:34+00:00",
-      "score": 12,
-      "summary": "Thousands of people on Saturday gathered for an anti-racism rally in the Northern Irish city of Belfast after unrest sparked by a horrific stabbing. France 24's Herv\u00e9 Amoric tells us more.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Belfast"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Putin, Zelenskyy speak with Trump by phone as drone strikes kill 2 in Russia and UK detains tanker",
       "link": "https://www.cnbc.com/2026/06/14/putin-zelenskyy-talk-with-trump-by-phone-drones-kill-2-in-russia.html",
@@ -20177,7 +20203,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.1,
+      "trend_score": 11.0,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -26457,40 +26483,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Genxai Analytics share price makes weak debut; lists at  \u20b992.80 on NSE SME, down 20% from IPO price",
-      "link": "https://www.livemint.com/market/stock-market-news/genxai-analytics-share-price-makes-weak-debut-lists-at-rs-92-80-on-nse-sme-down-20-from-ipo-price-11781239693997.html",
-      "source": "Livemint",
-      "timestamp": "2026-06-12T10:25:18+05:30",
-      "score": 17,
-      "summary": "Genxai Analytics shares debuted at \u20b992.80 on the NSE SME, a 20% drop from its IPO price of \u20b9116, underperforming market expectations. The IPO was subscribed 16.99 times overall, with strong demand from NII and QIB segments.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Analytics",
-        "NSE",
-        "SME",
-        "IPO"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -26833,7 +26825,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.6,
+      "trend_score": 6.5,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -38590,6 +38582,53 @@
   ],
   "Entertainment": [
     {
+      "title": "Wanda Sykes Claims Bill Maher Confronted Her About Golden Globes Joke, Calling It \u201cStupid\u201d",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/bill-maher-confronted-wanda-sykes-golden-globes-joke-1236621435/",
+      "source": "THR",
+      "timestamp": "2026-06-14T20:21:23+00:00",
+      "score": 14,
+      "summary": "\"Bill Maher, you give us so much, but I would love a little less. Just try less,\" Sykes said onstage to the 'Real Time' host at the awards show in January.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sykes",
+        "Claims",
+        "Bill",
+        "Maher",
+        "Confronted",
+        "Her",
+        "About",
+        "Golden",
+        "Globes",
+        "Joke",
+        "Calling",
+        "Stupid"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.0,
+      "source_count": 17,
+      "sources_reporting": [
+        "Bloomberg",
+        "Deadline",
+        "Guardian",
+        "NPR",
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+80%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Anna Friel Is Fearsome But Fair General Surgeon Gloria Wall In Stan & CBS Studios Medical Drama Series \u2018The F Ward\u2019 \u2013 Watch The Trailer",
       "link": "https://deadline.com/2026/06/the-f-ward-trailer-anna-friel-stan-cbs-studios-paramount-1236955606/",
       "source": "Deadline",
@@ -42448,8 +42487,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 19,
       "sources_reporting": [
         "Bloomberg",
@@ -46641,45 +46680,6 @@
         "Variety"
       ],
       "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018The Great Skull\u2019 Director, Cast on Shanghai Dialect Cinema and Portraying Grief",
-      "link": "https://variety.com/2026/film/festivals/the-great-skull-shanghai-film-festival-golden-goblet-competition-1236780099/",
-      "source": "Variety",
-      "timestamp": "2026-06-12T19:07:38+00:00",
-      "score": 14,
-      "summary": "\u201cThe Great Skull,\u201d a Shanghai dialect tragicomedy, opened the main competition showcase of the 28th Shanghai International Film Festival on June 12. Director Liu Xiaoyang, screenwriter Zhang Xiaoying and lead cast members Wen Qi, Ni Hongjie and Yu Entai attended the press conf...",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Great",
-        "Skull",
-        "Director",
-        "Cast",
-        "Shanghai",
-        "Dialect",
-        "Cinema",
-        "Portraying",
-        "Grief"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -51752,7 +51752,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.2,
+      "trend_score": 8.1,
       "source_count": 18,
       "sources_reporting": [
         "Bloomberg",
@@ -51762,7 +51762,7 @@
         "Reuters",
         "Vogue"
       ],
-      "trend_accel": "+69%",
+      "trend_accel": "+68%",
       "heat_level": "SURGING"
     },
     {
@@ -52023,6 +52023,39 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 8 km NNE of Toyah, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026lqpljq",
+      "source": "USGS",
+      "timestamp": "2026-06-14T20:20:24.071000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-14 20:17:28 UTC2026-06-14 20:17:28 UTC at epicenterLocation31.390\u00b0N 103.771\u00b0WDepth5.82 km (3.62 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Toyah",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
@@ -58457,39 +58490,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.4 - 67 km NNE of Chickaloon, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lqhyra",
-      "source": "USGS",
-      "timestamp": "2026-06-13T16:12:51.736000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-13 16:11:08 UTC2026-06-13 16:11:08 UTC at epicenterLocation62.379\u00b0N 148.104\u00b0WDepth25.80 km (16.03 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Chickaloon",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
