@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "Jeffries questions possible Iran ceasefire: Trump has said deal is close \u201938 or 39 different times\u2019",
+      "link": "https://thehill.com/homenews/house/5923552-jeffries-blasts-trump-iran-deal/",
+      "source": "The Hill",
+      "timestamp": "2026-06-14T18:18:05+00:00",
+      "score": 17,
+      "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) on Sunday poked at the prospect that the U.S. and Iran will soon make a deal, accusing President Trump of saying the two countries have been close to a deal \u201c38 or 39 different times.\u201d The Trump administration expects the U.S. and...",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Iran",
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Abhishek Banerjee makes second appearance before CID in West Bengal MLAs signature forgery case",
       "link": "https://www.thehindu.com/news/national/west-bengal/signature-forgery-case-abhishek-banerjee-cid-questioning-on-june-14/article71100521.ece",
       "source": "The Hindu",
@@ -6543,26 +6575,27 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Three close contacts of Nipah-infected person in Kozhikode test negative for virus",
-      "link": "https://www.thehindu.com/news/national/kerala/central-team-reaches-kozhikode-three-contacts-of-nipah-infected-person-test-negative-for-virus/article71097266.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-13T21:12:00+05:30",
+      "title": "China may have accessed Mythos",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "source": "Verge",
+      "timestamp": "2026-06-14T14:27:55-04:00",
       "score": 12,
-      "summary": "Revenue Minister A.P. Anil Kumar, who is in charge of Kozhikode district, says there is no large-scale spread of the infection at present and no need to declare a containment zone",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it wou...",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [
-        "Bio-Security"
+        "Geopolitics"
       ],
       "entities": [
-        "Nipahinfected",
-        "Kozhikode"
+        "Mythos"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6571,15 +6604,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Conclave is the sound of a NYC summer block party",
       "link": "https://www.theverge.com/entertainment/949621/conclave-nyc-summer-block-party-album-review",
@@ -8037,7 +8068,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.3,
+      "trend_score": 8.2,
       "source_count": 14,
       "sources_reporting": [
         "Bloomberg",
@@ -13078,18 +13109,20 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
-      "link": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
-      "source": "Verge",
-      "timestamp": "2026-06-09T10:54:51-04:00",
-      "score": 14,
-      "summary": "Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers. During an episode of Decoder on Monday, Suleyman says he meant AI will help these workers complete task...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Swiss voters reject 10 million population cap",
+      "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-06-14T18:23:52+00:00",
+      "score": 13,
+      "summary": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.",
+      "country": "Switzerland",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
@@ -13103,13 +13136,48 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "BBC"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+59%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Middle East crisis live: Iran warns of \u2018imminent\u2019 response to Israeli strike on Beirut as ceasefire deal looks shaky",
+      "link": "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
+      "source": "Guardian",
+      "timestamp": "2026-06-14T18:17:52+00:00",
+      "score": 14,
+      "summary": "Iran\u2019s highest national security body appears unswayed by US president\u2019s call for restraint; Trump says Israel should not have attacked BeirutTrump calls for restraint after Israel airstrikes on BeirutIranian hardliners in vociferous push to reject US peace dealIsrael says it ...",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "East",
+        "Iran",
+        "Israeli",
+        "Beirut"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Putin and Zelensky hold separate calls with Trump on his birthday",
       "link": "https://www.france24.com/en/europe/20260614-putin-zelensky-separate-phonecalls-trump-birthday-ukraine-war-russia-president",
@@ -19759,80 +19827,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "North Korea condemns U.S. missile sale approval to South Korea, KCNA says",
-      "link": "https://www.thehindu.com/news/international/north-korea-condemns-us-missile-sale-approval-to-south-korea-kcna-says/article71097816.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-13T19:11:08+05:30",
-      "score": 12,
-      "summary": "The official cited \u200bthe U.S. State \u200cDepartment\u2019s approval of a nearly $300 million foreign military sale of advanced air-to-air missiles and related equipment to South Korea as \u200cthe latest example",
-      "country": "South Korea",
-      "region": "East Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Korea",
-        "South",
-        "KCNA"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Watch: U.S.-Iran peace deal signing expected within 24 hours, says Pakistan PM Shehbaz Sharif",
-      "link": "https://www.thehindu.com/videos/watch-us-iran-peace-deal-signing-expected-within-24-hours-says-pakistan-pm-shehbaz-sharif/article71097911.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-13T19:10:22+05:30",
-      "score": 17,
-      "summary": "Pakistan Prime Minister Shehbaz Sharif says the United States and Iran are expected to sign a peace agreement within the next 24 hours, marking a major step toward ending months of conflict in West Asia. According to Sharif, both sides have agreed on a framework and finalized ...",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "USIran",
-        "Pakistan",
-        "Shehbaz",
-        "Sharif"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 14,
-      "sources_reporting": [
-        "AP",
-        "FT",
-        "NPR",
-        "NYT",
-        "Reuters",
-        "The Hindu"
-      ],
-      "trend_accel": "+87%",
-      "heat_level": "CRITICAL"
     }
   ],
   "Business": [
@@ -26486,6 +26480,38 @@
   ],
   "Science": [
     {
+      "title": "Plant diversity may explain why some caterpillars are fussy about their food",
+      "link": "https://phys.org/news/2026-06-diversity-caterpillars-fussy-food.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-14T14:30:01-04:00",
+      "score": 12,
+      "summary": "Many insects will eat almost anything in their sight, such as certain beetles, grasshoppers and locusts, while others are remarkably picky eaters. For example, numerous insect herbivores will feed only on a single plant family or a specific type of tree. But why is this so?",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 6.6,
+      "source_count": 16,
+      "sources_reporting": [
+        "Bloomberg",
+        "NHK",
+        "Phys.org",
+        "Reuters"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "HOT"
+    },
+    {
       "title": "Canary Island relics offer new clues into how North African cultures adapted to ocean living",
       "link": "https://phys.org/news/2026-06-canary-island-relics-clues-north.html",
       "source": "Phys.org",
@@ -26602,8 +26628,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "Bloomberg",
@@ -32621,35 +32647,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Study shows gains in preschoolers' executive function with additional teacher training",
-      "link": "https://phys.org/news/2026-06-gains-preschoolers-function-additional-teacher.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-10T19:20:03-04:00",
-      "score": 12,
-      "summary": "Research shows that when preschool teachers participate in professional learning workshops and ongoing coaching with experienced early childhood educators, students improve their language and literacy skills, as well as their social-emotional development.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -38613,6 +38610,88 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Audi Celebrates Launch of Nuvolari Supercar With Star-Studded Affair in the South of France",
+      "link": "https://variety.com/2026/shopping/news/audi-nuvolari-car-launch-f1-monaco-hotel-du-cap-eden-roc-1236770803/",
+      "source": "Variety",
+      "timestamp": "2026-06-14T18:29:01+00:00",
+      "score": 14,
+      "summary": "Formula 1 drivers, VIP guests and tastemakers alike descended upon the South of France last week as Audi unveiled the Nuvolari, the automaker\u2019s first supercar featuring a high-performance hybrid drivetrain. The location for the car unveiling was a fitting choice for a vehicle ...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Celebrates",
+        "Launch",
+        "Nuvolari",
+        "Supercar",
+        "StarStudded",
+        "Affair",
+        "South",
+        "France"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Seth Rogen Laments Hollywood\u2019s Risk Aversion; Says \u2018Superbad\u2019 \u201cWould Never Happen Today In A Hundred Million Years\u201d",
+      "link": "https://deadline.com/2026/06/seth-rogen-superbad-would-never-happen-hollywood-risk-1236955988/",
+      "source": "Deadline",
+      "timestamp": "2026-06-14T18:21:53+00:00",
+      "score": 12,
+      "summary": "Superbad is a quintessential high school hang-out movie, but co-writer Seth Rogen opines it would never get made today as it was back in 2007. In a recent interview with The New York Times, The Studio co-creator was asked if the entertainment industry has become averse to risk...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Rogen",
+        "Laments",
+        "Hollywoods",
+        "Risk",
+        "Aversion",
+        "Says",
+        "Superbad",
+        "Would",
+        "Never",
+        "Happen",
+        "Today",
+        "Hundred",
+        "Million",
+        "Years"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "The Secret to \u2018It: Welcome to Derry\u2019s\u2019 Nastiest Nightmares",
       "link": "https://www.hollywoodreporter.com/tv/tv-features/it-welcome-to-derry-horror-techniques-1236620963/",
@@ -46612,86 +46691,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "At the 2026 Songwriters Hall of Fame, Even Legends Had Notes on the Music Business",
-      "link": "https://www.rollingstone.com/music/music-news/songwriters-hall-of-fame-2026-taylor-swift-raye-music-business-1235576797/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-06-12T18:30:12+00:00",
-      "score": 15,
-      "summary": "Taylor Swift, Alanis Morissette, and Raye were among the honorees at the gala dinner, which also became a forum for concerns about credits, royalties and writers\u2019 rights",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Songwriters",
-        "Hall",
-        "Fame",
-        "Even",
-        "Legends",
-        "Had",
-        "Notes",
-        "Music",
-        "Business"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Former Amazon MGM Studios and Warner Bros. PR Executive Adam Keen Launches Agenda Collective",
-      "link": "https://www.hollywoodreporter.com/business/business-news/agenda-collective-pr-firm-adam-keen-staff-roster-clients-1236620487/",
-      "source": "THR",
-      "timestamp": "2026-06-12T18:30:00+00:00",
-      "score": 12,
-      "summary": "The seasoned PR pro has filled out his new agenda \u2014 a full-service PR firm with offices in L.A. and New York with a roster of vice presidents including Emily Teichner, Natalie Petozzi and Kevin McAlpine.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Amazon",
-        "MGM",
-        "Studios",
-        "Warner",
-        "Bros",
-        "Executive",
-        "Adam",
-        "Keen",
-        "Launches",
-        "Agenda",
-        "Collective"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52040,48 +52039,6 @@
       ],
       "trend_accel": "+55%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "At the End of a Wild French Open, Alexander Zverev Wins His First Grand Slam in a Thriller",
-      "link": "https://www.vogue.com/article/alexander-zverev-french-open-winner-2026",
-      "source": "Vogue",
-      "timestamp": "2026-06-07T18:19:57+00:00",
-      "score": 12,
-      "summary": "After an unusual French Open, Zverev beat Italy\u2019s Flavio Cobolli.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "End",
-        "Wild",
-        "French",
-        "Open",
-        "Alexander",
-        "Zverev",
-        "Wins",
-        "His",
-        "First",
-        "Grand",
-        "Slam",
-        "Thriller"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -52114,6 +52071,72 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 3.9 - 1 km ESE of Las Nutrias, New Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssvm",
+      "source": "USGS",
+      "timestamp": "2026-06-14T18:27:58.091000+00:00",
+      "score": 15,
+      "summary": "ShakeMap - IV DYFI? - VTime2026-06-14 17:41:00 UTC2026-06-14 17:41:00 UTC at epicenterLocation34.472\u00b0N 106.756\u00b0WDepth10.00 km (6.21 mi)",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Las",
+        "Nutrias",
+        "New",
+        "Mexico"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 3.3 - 2 km E of Prattville, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376521",
+      "source": "USGS",
+      "timestamp": "2026-06-14T18:26:57.149000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-14 18:24:36 UTC2026-06-14 18:24:36 UTC at epicenterLocation40.207\u00b0N 121.131\u00b0WDepth3.35 km (2.08 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Prattville"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
     {
@@ -58508,70 +58531,6 @@
         "USGS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 2 km ESE of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75375726",
-      "source": "USGS",
-      "timestamp": "2026-06-13T14:21:28.596000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-13 14:19:51 UTC2026-06-13 14:19:51 UTC at epicenterLocation38.767\u00b0N 122.732\u00b0WDepth1.75 km (1.09 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 5 km E of Sutton-Alpine, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lqdwvv",
-      "source": "USGS",
-      "timestamp": "2026-06-13T14:11:48.545000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-13 14:09:05 UTC2026-06-13 14:09:05 UTC at epicenterLocation61.784\u00b0N 148.664\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SuttonAlpine",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ]
