@@ -2649,7 +2649,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.8,
+      "trend_score": 7.7,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -2657,8 +2657,8 @@
         "PBS",
         "The Hindu"
       ],
-      "trend_accel": "+72%",
-      "heat_level": "SURGING"
+      "trend_accel": "+71%",
+      "heat_level": "HOT"
     },
     {
       "title": "Rupee-dollar fluctuations driven by global, domestic factors: Sitharaman",
@@ -6587,6 +6587,41 @@
   ],
   "Tech": [
     {
+      "title": "The FBI built a small town to simulate cyberattacks",
+      "link": "https://www.theverge.com/tech/949648/fbi-fake-town-cyberattacks-kinetic-cyber-range",
+      "source": "Verge",
+      "timestamp": "2026-06-14T16:35:41-04:00",
+      "score": 12,
+      "summary": "Last year, the FBI opened a Cyber Range in Huntsville, Alabama, for simulating cyberattacks. Think of it sort of like the famous Hogan's Alley, but for modern digital crime training. It's a massive 22,000 square-foot replica of an entire town, complete with a convenience store...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "FBI"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 8.9,
+      "source_count": 10,
+      "sources_reporting": [
+        "BBC",
+        "Bloomberg",
+        "Guardian",
+        "TechCrunch",
+        "Verge"
+      ],
+      "trend_accel": "+71%",
+      "heat_level": "SURGING"
+    },
+    {
       "title": "UK may ban social media for children under 16",
       "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
       "source": "TechCrunch",
@@ -7395,14 +7430,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 8.4,
+      "source_count": 14,
       "sources_reporting": [
-        "TechCrunch"
+        "Bloomberg",
+        "NHK",
+        "PBS",
+        "TechCrunch",
+        "Verge"
       ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
+      "trend_accel": "+67%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
@@ -8104,8 +8143,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "Bloomberg",
@@ -8179,8 +8218,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -13079,27 +13118,28 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2",
-      "link": "https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026",
-      "source": "Verge",
-      "timestamp": "2026-06-09T10:56:48-04:00",
-      "score": 15,
-      "summary": "Nintendo announced a remake of The Legend of Zelda: Ocarina of Time during its Nintendo Direct presentation on Tuesday. It will launch sometime in 2026 on Nintendo Switch 2. More details will be announced \"in the future.\" This new title is the first major release in the franch...",
+      "title": "Iran\u2019s World Cup team arrive in United States",
+      "link": "https://www.france24.com/en/sport/20260614-iran-world-cup-team-arrive-united-states-los-angeles-warusa",
+      "source": "France24",
+      "timestamp": "2026-06-14T20:34:59+00:00",
+      "score": 12,
+      "summary": "Iran\u2019s World Cup team touched down on American soil on Sunday, arriving at Los Angeles International Airport after a short flight from their base camp in Mexico. This is the first time in the cup\u2019s nearly 100-year history that a host nation receives a country it is at war with.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Legend",
-        "Zelda",
-        "Ocarina",
-        "Time",
-        "Switch"
+        "World",
+        "Cup",
+        "United",
+        "States"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13108,15 +13148,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "Verge"
+        "France24"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Iran weekly briefing: On the edge of a US-Iran breakthrough, Israel throws an explosive spanner",
       "link": "https://www.abc.net.au/news/2026-06-15/iran-israel-war-news-briefing/106797420",
@@ -19796,24 +19834,34 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Trump\u2019s name is gone from the Kennedy Center\u2019s facade: top official",
-      "link": "https://www.thehindu.com/news/international/trumps-name-is-gone-from-the-kennedy-centers-facade-top-official/article71098593.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-13T22:10:51+05:30",
-      "score": 12,
-      "summary": "Workers begin removing Trump\u2019s name from Kennedy Center after judge ruled it was illegally added to the building",
-      "country": "India",
-      "region": "South Asia",
+      "title": "Jean Ziegler, Swiss Gadfly Who Provoked His Countrymen, Dies at 92",
+      "link": "https://www.nytimes.com/2026/06/14/obituaries/jean-ziegler-dead.html",
+      "source": "NYT",
+      "timestamp": "2026-06-14T20:31:18+00:00",
+      "score": 15,
+      "summary": "In a nation that sees itself as a tranquil oasis of prosperity and business virtue, he drew death threats for pointing out a dark underside.",
+      "country": "Switzerland",
+      "region": "Europe",
       "source_type": "Newspaper",
-      "trust_score": 8,
+      "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Bio-Security"
+      ],
       "entities": [
-        "Kennedy",
-        "Centers"
+        "Ziegler",
+        "Swiss",
+        "Gadfly",
+        "Who",
+        "Provoked",
+        "His",
+        "Countrymen",
+        "Dies"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19822,15 +19870,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "NYT"
       ],
-      "trend_accel": "+53%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Charlie Javice reportedly seeking a pardon from Trump",
       "link": "https://www.cnbc.com/2026/06/14/charlie-javice-reportedly-seeking-a-pardon-from-trump-.html",
@@ -26450,38 +26496,6 @@
         "Livemint"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Mach Travel Solutions share price jumps 6% after promoter's stake raise move",
-      "link": "https://www.livemint.com/market/stock-market-news/mach-travel-solutions-share-price-jumps-6-after-promoters-stake-raise-move-11781240421422.html",
-      "source": "Livemint",
-      "timestamp": "2026-06-12T11:18:00+05:30",
-      "score": 17,
-      "summary": "Mach Travel Solutions shares rose 6% after promoter Amit Bhatia raised his stake to 66.71% by acquiring 2.33 lakh shares for \u20b93.5 crore. The company reported a 17.1% increase in standalone net profit, but operational revenue declined to \u20b9216.93 crore.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Travel",
-        "Solutions"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -38582,6 +38596,91 @@
   ],
   "Entertainment": [
     {
+      "title": "Jimmy Kimmel Wishes Donald Trump Happy Birthday With Jeffrey Epstein-Inspired Birthday Card",
+      "link": "https://variety.com/2026/tv/news/jimmy-kimmel-donald-trump-birthday-jeffrey-epstein-card-1236781010/",
+      "source": "Variety",
+      "timestamp": "2026-06-14T20:40:24+00:00",
+      "score": 12,
+      "summary": "Jimmy Kimmel wished President Donald Trump a happy birthday over Instagram on Sunday, posting a birthday card that resembled a note Trump allegedly addressed to convicted sex offender Jeffrey Epstein when he turned 50. \u201cHappy 80th Donald!\u201d The card reads. \u201cA pal is a wonderful...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kimmel",
+        "Wishes",
+        "Donald",
+        "Trump",
+        "Happy",
+        "Birthday",
+        "Jeffrey",
+        "EpsteinInspired",
+        "Card"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Zeeko Zaki on Whether Dick Wolf Would Make a Show About ICE \u2013 and Leading \u2018FBI\u2019 as an Arab-American Muslim: \u2018I\u2019m Still the Only One\u2019",
+      "link": "https://variety.com/2026/tv/global/zeeko-zaki-dick-wolf-ice-fbi-arab-american-muslim-1236780874/",
+      "source": "Variety",
+      "timestamp": "2026-06-14T20:32:34+00:00",
+      "score": 12,
+      "summary": "According to \u201cFBI\u201d star Zeeko Zaki, it\u2019s no longer shocking that an Arab-American Muslim is the lead in a TV show. \u201cWhich was the goal, of course. But then, at the same time, I\u2019m still the only one,\u201d he told journalists at Monte-Carlo Television Festival. \u201cThere\u2019s still a bigg...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Zaki",
+        "Whether",
+        "Dick",
+        "Wolf",
+        "Would",
+        "Make",
+        "Show",
+        "About",
+        "ICE",
+        "Leading",
+        "FBI",
+        "ArabAmerican",
+        "Muslim",
+        "Still",
+        "Only",
+        "One"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Wanda Sykes Claims Bill Maher Confronted Her About Golden Globes Joke, Calling It \u201cStupid\u201d",
       "link": "https://www.hollywoodreporter.com/tv/tv-news/bill-maher-confronted-wanda-sykes-golden-globes-joke-1236621435/",
       "source": "THR",
@@ -46600,87 +46699,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Ronnie Schell Dies: \u2018Gomer Pyle: USMC\u2019 Actor Was 94",
-      "link": "https://deadline.com/2026/06/ronnie-schell-dead-1236954972/",
-      "source": "Deadline",
-      "timestamp": "2026-06-12T19:11:23+00:00",
-      "score": 15,
-      "summary": "Ronnie Schell, a prolific TV character actor perhaps best known for his portrayal of the amiable Pvt. Duke Slater, pal of Jim Nabors\u2019 hayseed Gomer Pyle on the \u201960s sitcom of that name, died of natural causes today at UCLA Hospital in Los Angeles. He was 94. His death was anno...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Schell",
-        "Dies",
-        "Gomer",
-        "Pyle",
-        "USMC",
-        "Actor",
-        "Was"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 14,
-      "sources_reporting": [
-        "Deadline",
-        "Guardian",
-        "NHK",
-        "NPR",
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+81%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Ariana Grande Expands Philanthropic Efforts With Launch of Brighter Days Ahead Foundation",
-      "link": "https://variety.com/2026/music/news/ariana-grande-launches-brighter-days-ahead-foundation-1236780107/",
-      "source": "Variety",
-      "timestamp": "2026-06-12T19:10:32+00:00",
-      "score": 12,
-      "summary": "Ariana Grande is expanding her philanthropic efforts with the launch of the Brighter Days Ahead Foundation, focusing on youth mental health, arts education and community support causes. The Brighter Days Ahead Foundation is being launched with four different funds that partner...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Grande",
-        "Expands",
-        "Philanthropic",
-        "Efforts",
-        "Launch",
-        "Brighter",
-        "Days",
-        "Ahead",
-        "Foundation"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52023,6 +52041,105 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.4 - 64 km SW of Sitka, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lsmxua",
+      "source": "USGS",
+      "timestamp": "2026-06-14T20:40:35.689000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-14 20:39:19 UTC2026-06-14 20:39:19 UTC at epicenterLocation56.670\u00b0N 136.125\u00b0WDepth32.60 km (20.26 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sitka",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.3 - 15 km ESE of Wofford Heights, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486552",
+      "source": "USGS",
+      "timestamp": "2026-06-14T20:40:12.165000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-14 20:36:41 UTC2026-06-14 20:36:41 UTC at epicenterLocation35.643\u00b0N 118.304\u00b0WDepth7.75 km (4.82 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Wofford",
+        "Heights"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.4 - 82 km ENE of Loikaw, Burma (Myanmar)",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sswu",
+      "source": "USGS",
+      "timestamp": "2026-06-14T20:31:36.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-14 20:07:57 UTC2026-06-14 20:07:57 UTC at epicenterLocation20.053\u00b0N 97.887\u00b0EDepth10.54 km (6.55 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Loikaw",
+        "Burma",
+        "Myanmar"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
@@ -58393,103 +58510,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 13 km E of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74980832",
-      "source": "USGS",
-      "timestamp": "2026-06-13T16:30:52.080000+00:00",
-      "score": 17,
-      "summary": "Time2026-06-13 16:27:18 UTC2026-06-13 16:27:18 UTC at epicenterLocation19.191\u00b0N 155.348\u00b0WDepth30.12 km (18.72 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.5 - 30 km NNW of Toyah, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026lolnmo",
-      "source": "USGS",
-      "timestamp": "2026-06-13T16:15:33.225000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-13 16:10:21 UTC2026-06-13 16:10:21 UTC at epicenterLocation31.569\u00b0N 103.918\u00b0WDepth0.00 km (0.00 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Toyah",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 2 km NW of Loma Linda, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41485856",
-      "source": "USGS",
-      "timestamp": "2026-06-13T16:13:17.231000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-13 16:09:43 UTC2026-06-13 16:09:43 UTC at epicenterLocation34.059\u00b0N 117.272\u00b0WDepth15.83 km (9.84 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Loma",
-        "Linda"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
