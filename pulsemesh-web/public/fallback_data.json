@@ -7392,7 +7392,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.9,
+      "trend_score": 10.8,
       "source_count": 12,
       "sources_reporting": [
         "Bloomberg",
@@ -13179,6 +13179,42 @@
     }
   ],
   "World": [
+    {
+      "title": "The (Mostly) Unanswered Questions at the Heart of a U.S.-Iran Accord",
+      "link": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal-agreement-questions.html",
+      "source": "NYT",
+      "timestamp": "2026-06-15T22:17:26+00:00",
+      "score": 12,
+      "summary": "The short-term truce hasn\u2019t been made public, and the long-term peace deal it is supposed to yield doesn\u2019t exist yet, so there is much still unknown about any agreement between the adversaries.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mostly",
+        "Unanswered",
+        "Questions",
+        "Heart",
+        "USIran",
+        "Accord"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "'Ecosystem engineers' returned to desert decades after local extinction",
       "link": "https://www.abc.net.au/news/2026-06-16/bettong-release-wild-deserts-sturt-national-park-after-extinct/106755452",
@@ -19853,29 +19889,32 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Australia news live: John Farnham song not banned under hate speech laws, Queensland confirms; Wong to meet Gaza flotilla activists",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jun/15/australia-news-live-experts-push-back-at-call-for-shark-cull-after-attack-university-students-report-freedom-of-speech-fears",
-      "source": "Guardian",
-      "timestamp": "2026-06-15T05:31:56+00:00",
-      "score": 12,
-      "summary": "Follow today\u2019s news liveGet our breaking news email, free app or daily news podcastThe prime minister and foreign minister have issued a lengthier statement welcoming the agreement made by the US and Iran, and called for continued restraint to avoid further escalation.Presiden...",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Oil Steadies Near Lowest Since March on Outlook for Hormuz Deal",
+      "link": "https://www.livemint.com/market/oil-steadies-near-lowest-since-march-on-outlook-for-hormuz-deal-11781562538647.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-16T03:58:58+05:30",
+      "score": 14,
+      "summary": "Oil held the biggest drop in more than two weeks on optimism that a deal between the US and Iran will reopen the Strait of Hormuz.",
+      "country": "India",
+      "region": "South Asia",
       "source_type": "Newspaper",
-      "trust_score": 9,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "John",
-        "Farnham",
-        "Queensland",
-        "Wong",
-        "Gaza"
+        "Steadies",
+        "Near",
+        "Lowest",
+        "Since",
+        "March",
+        "Outlook",
+        "Hormuz",
+        "Deal"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19884,15 +19923,45 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Guardian"
+        "Livemint"
       ],
-      "trend_accel": "+58%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Options traders are bracing for a very busy week, with June \u2018triple witching\u2019 and launch of SpaceX contracts on deck",
+      "link": "https://www.marketwatch.com/story/options-traders-are-bracing-for-a-very-busy-week-with-june-triple-witching-and-launch-of-spacex-contracts-on-deck-b38fbf62?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-06-15T22:24:00+00:00",
+      "score": 12,
+      "summary": "Options traders are bracing for what could be a very busy few days as a number of potentially market-moving developments are being crammed into a shortened four-day trading week.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "June",
+        "SpaceX"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "The biggest risk to your retirement isn\u2019t a market crash \u2014 it\u2019s a crisis you probably haven\u2019t planned for",
       "link": "https://www.marketwatch.com/story/the-biggest-risk-to-your-retirement-isnt-a-market-crash-its-a-crisis-you-probably-havent-planned-for-eff75a99?mod=mw_rss_topstories",
@@ -22655,7 +22724,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 12,
       "sources_reporting": [
         "BBC",
@@ -26444,30 +26513,54 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Despite US Help, Little Oil Has Gone Through Strait of Hormuz",
-      "link": "https://www.nytimes.com/2026/06/13/business/oil-strait-of-hormuz.html",
-      "source": "NYT",
-      "timestamp": "2026-06-13T09:00:56+00:00",
-      "score": 14,
-      "summary": "President Trump said more than 200 commercial vessels had safely traveled through the strait. That\u2019s still far fewer than before the start of the war.",
+      "title": "Beyond frozen snapshots, protein 'breathing' comes into view with combined imaging methods",
+      "link": "https://phys.org/news/2026-06-frozen-snapshots-protein-view-combined.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-15T18:20:08-04:00",
+      "score": 10,
+      "summary": "Advances in structural biology have allowed scientists to determine molecular structures with atomic-level detail, sometimes yielding static snapshots that do not reflect the dynamism of proteins. However, these motions are often crucial for biological function. Researchers fr...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Science Publication",
       "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "AI schools like Alpha promise efficiency, but can't replicate the messy process that helps kids learn",
+      "link": "https://phys.org/news/2026-06-ai-schools-alpha-efficiency-replicate.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-15T18:20:01-04:00",
+      "score": 14,
+      "summary": "A child at a playground tries to climb, jump or negotiate with a peer, and the attempt does not work. They fall, get left out of a game or reach another impasse. Then they try again.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Help",
-        "Little",
-        "Oil",
-        "Has",
-        "Gone",
-        "Through",
-        "Strait",
-        "Hormuz"
+        "Alpha"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26478,46 +26571,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "NYT"
+        "Phys.org"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
     },
-    {
-      "title": "US stock markets this week: Dow, S&P 500 and Nasdaq jump 0.7%; SpaceX becomes a $2.1 trillion giant",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stock-markets-this-week-dow-s-p-500-and-nasdaq-jump-0-7-spacex-becomes-a-2-1-trillion-giant-11781325179378.html",
-      "source": "Livemint",
-      "timestamp": "2026-06-13T10:23:49+05:30",
-      "score": 17,
-      "summary": "Wall Street ended the week up 0.7% as investors anticipate the Fed's policy direction. Easing oil prices and a successful SpaceX debut drove optimism, despite ongoing concerns about AI stock volatility and developments in Iran negotiations affecting market trends.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Dow",
-        "Nasdaq",
-        "SpaceX"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "Only 10 viral particles cause H5N1 avian flu infection in cows",
       "link": "https://phys.org/news/2026-06-viral-particles-h5n1-avian-flu.html",
@@ -32652,64 +32710,6 @@
         "Phys.org"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Forensic psychology faces bias claims in risk tools and courtroom testimony",
-      "link": "https://phys.org/news/2026-06-forensic-psychology-bias-tools-courtroom.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-11T17:00:04-04:00",
-      "score": 12,
-      "summary": "In a paper published in the Journal of Forensic Psychology Research and Practice, JCU Ph.D. student Rebecca Ward says the core practices of the field of forensic psychology, from risk assessments to expert testimony, are compromised by structural bias and an unwarranted confid...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Record heat pushes human-driven warming to 1.39C, 1.5C could arrive by 2030",
-      "link": "https://phys.org/news/2026-06-human-driven-139c-15c.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-11T16:40:09-04:00",
-      "score": 13,
-      "summary": "Planetary heating is intensifying and key climate indicators are deteriorating, top scientists said Thursday, warning that funding decisions affecting Earth observation systems in the United States and other countries threaten efforts to track global warming.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
@@ -38951,6 +38951,86 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Emmy Predictions: Directing \u2014 \u2018Beef,\u2019 \u2018Hacks\u2019 and an Overdue Vince Gilligan Lead the Field",
+      "link": "https://variety.com/lists/2026-emmys-directing-predictions/",
+      "source": "Variety",
+      "timestamp": "2026-06-15T22:20:07+00:00",
+      "score": 12,
+      "summary": "Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. T...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Predictions",
+        "Directing",
+        "Beef",
+        "Hacks",
+        "Overdue",
+        "Vince",
+        "Gilligan",
+        "Lead",
+        "Field"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Laverne Cox Says She\u2019s Lost 90 Percent of Her Income Due to Trump\u2019s DEI Rollbacks",
+      "link": "https://www.hollywoodreporter.com/news/general-news/laverne-cox-dei-rollbacks-lost-income-president-trump-1236622667/",
+      "source": "THR",
+      "timestamp": "2026-06-15T22:16:38+00:00",
+      "score": 15,
+      "summary": "Because of the impact on her bank account, the Emmy-nominated trans star said she\u2019s been forced to dip into reserves to stay afloat: \u201cThe past year or two, I\u2019ve had to dip into savings and my retirement fund.\u201d",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cox",
+        "Says",
+        "Shes",
+        "Lost",
+        "Percent",
+        "Her",
+        "Income",
+        "Due",
+        "Trumps",
+        "DEI",
+        "Rollbacks"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Music Industry Moves: The Linda Lindas Sign With Reprise-Warner; Motown Announces HBCU Internship Program; Republic and Ziza Launch Label",
       "link": "https://variety.com/2026/music/news/linda-lindas-sign-with-reprise-warner-records-1236782104/",
@@ -46888,92 +46968,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Milly Alcock Reveals \u2018Supergirl\u2019 Cape Was Made With Same Fabric As Christopher Reeve\u2019s 1978 \u2018Superman\u2019 Cape",
-      "link": "https://deadline.com/2026/06/milly-alcock-supergirl-cape-same-fabric-christopher-reeve-1236956011/",
-      "source": "Deadline",
-      "timestamp": "2026-06-14T21:09:56+00:00",
-      "score": 15,
-      "summary": "Milly Alcock\u2019s solo DCU debut in Supergirl includes a very special family hand-me-down. The actress recently revealed that her cape in the Craig Gillespie-helmed Warner Bros. movie, which premieres June 26 in theaters, was made from the same material as Christopher Reeve\u2019s cap...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Alcock",
-        "Reveals",
-        "Supergirl",
-        "Cape",
-        "Was",
-        "Made",
-        "Same",
-        "Fabric",
-        "Christopher",
-        "Reeves",
-        "Superman"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Alessandro Nivola on Playing Calvin Klein in \u2018Love Story\u2019 and the Todd Haynes Movie He Says Could\u2019ve Won Michelle Williams an Oscar",
-      "link": "https://variety.com/2026/tv/awards/alessandro-nivola-calvin-klein-love-story-michelle-williams-1236781023/",
-      "source": "Variety",
-      "timestamp": "2026-06-14T21:05:31+00:00",
-      "score": 12,
-      "summary": "Alessandro Nivola is somewhere on the New Jersey Turnpike, holding his phone vertically. He is heading from New Jersey to New York for the 2026 Gotham TV Awards, where his \u201cLove Story: John F. Kennedy and Carolyn Bessette\u201d co-star Sarah Pidgeon is nominated, and the 25 minutes...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nivola",
-        "Playing",
-        "Calvin",
-        "Klein",
-        "Love",
-        "Story",
-        "Todd",
-        "Haynes",
-        "Movie",
-        "Says",
-        "Couldve",
-        "Won",
-        "Michelle",
-        "Williams",
-        "Oscar"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52196,6 +52190,103 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.3 - 11 km N of Borrego Springs, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41487592",
+      "source": "USGS",
+      "timestamp": "2026-06-15T22:26:53.315000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-15 22:23:19 UTC2026-06-15 22:23:19 UTC at epicenterLocation33.353\u00b0N 116.368\u00b0WDepth11.36 km (7.06 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Borrego",
+        "Springs"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.7 - 104 km N of Karluk, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lumjcb",
+      "source": "USGS",
+      "timestamp": "2026-06-15T22:23:03.468000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-15 22:21:40 UTC2026-06-15 22:21:40 UTC at epicenterLocation58.505\u00b0N 154.498\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Karluk",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.9 - 26 km NNW of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74982957",
+      "source": "USGS",
+      "timestamp": "2026-06-15T22:21:24.600000+00:00",
+      "score": 17,
+      "summary": "Time2026-06-15 22:17:50 UTC2026-06-15 22:17:50 UTC at epicenterLocation19.416\u00b0N 155.598\u00b0WDepth44.44 km (27.61 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.2 - 76 km WNW of Aleneva, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lulxjj",
@@ -58613,103 +58704,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 2 km ENE of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376556",
-      "source": "USGS",
-      "timestamp": "2026-06-14T20:09:07.566000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-14 20:07:30 UTC2026-06-14 20:07:30 UTC at epicenterLocation38.788\u00b0N 122.734\u00b0WDepth1.62 km (1.01 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 35 km N of Yucca Valley, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486520",
-      "source": "USGS",
-      "timestamp": "2026-06-14T20:07:46.968000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-14 20:04:17 UTC2026-06-14 20:04:17 UTC at epicenterLocation34.429\u00b0N 116.488\u00b0WDepth8.36 km (5.19 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Yucca",
-        "Valley"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 17 km SSE of Blue Lake, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75376551",
-      "source": "USGS",
-      "timestamp": "2026-06-14T19:53:13.528000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-14 19:51:35 UTC2026-06-14 19:51:35 UTC at epicenterLocation40.745\u00b0N 123.903\u00b0WDepth22.71 km (14.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Blue",
-        "Lake"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ]
