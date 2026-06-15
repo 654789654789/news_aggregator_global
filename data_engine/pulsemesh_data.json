@@ -20170,7 +20170,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.6,
+      "trend_score": 11.5,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -20181,7 +20181,7 @@
         "MarketWatch",
         "NYT"
       ],
-      "trend_accel": "+85%",
+      "trend_accel": "+84%",
       "heat_level": "CRITICAL"
     },
     {
@@ -39573,7 +39573,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 11.1,
+      "trend_score": 11.0,
       "source_count": 12,
       "sources_reporting": [
         "Deadline",
@@ -39617,7 +39617,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 11.1,
+      "trend_score": 11.0,
       "source_count": 15,
       "sources_reporting": [
         "Deadline",
@@ -51876,6 +51876,37 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.0 - 12 km NE of Coachella, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486632",
+      "source": "USGS",
+      "timestamp": "2026-06-15T00:02:06.165000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-14 23:58:40 UTC2026-06-14 23:58:40 UTC at epicenterLocation33.759\u00b0N 116.088\u00b0WDepth2.35 km (1.46 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Coachella"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.2 - 11 km NE of Coachella, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486632",
       "source": "USGS",
@@ -58303,38 +58334,6 @@
         "USGS"
       ],
       "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.5 - 14 km W of Aline, Oklahoma",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026lnio",
-      "source": "USGS",
-      "timestamp": "2026-06-13T20:00:59.836000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-13 19:59:32 UTC2026-06-13 19:59:32 UTC at epicenterLocation36.495\u00b0N 98.615\u00b0WDepth1.37 km (0.85 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Aline",
-        "Oklahoma"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
