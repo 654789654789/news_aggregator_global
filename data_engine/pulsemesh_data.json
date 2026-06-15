@@ -1624,7 +1624,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.0,
+      "trend_score": 7.9,
       "source_count": 16,
       "sources_reporting": [
         "Bloomberg",
@@ -1632,7 +1632,7 @@
         "PBS",
         "The Hindu"
       ],
-      "trend_accel": "+72%",
+      "trend_accel": "+71%",
       "heat_level": "SURGING"
     },
     {
@@ -13123,6 +13123,43 @@
   ],
   "World": [
     {
+      "title": "Iran War Live Updates: U.S. and Iran Reach Cease-Fire Agreement",
+      "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+      "source": "NYT",
+      "timestamp": "2026-06-14T23:56:15+00:00",
+      "score": 14,
+      "summary": "The deal was expected to halt fighting for 60 days, open the Strait of Hormuz and lift the U.S. naval blockade on Iranian ports. But it would leave the thorniest nuclear issues for another day.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "War",
+        "Live",
+        "Updates",
+        "Iran",
+        "Reach",
+        "CeaseFire",
+        "Agreement"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Police treating deaths of man and girl at Sydney bay as murder-suicide",
       "link": "https://www.abc.net.au/news/2026-06-15/concord-bay-drowning-of-man-and-child-suspected-murder-suicide/106797768",
       "source": "ABC Australia",
@@ -19770,24 +19807,32 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "World Cup online betting takes a toll in Brazil",
-      "link": "https://www.npr.org/2026/06/13/nx-s1-5856381/world-cup-online-betting-takes-a-toll-in-brazil",
-      "source": "NPR",
-      "timestamp": "2026-06-13T17:02:56-04:00",
-      "score": 12,
-      "summary": "A World Cup fever is sweeping Brazil. So is sports betting. NPR's Julia Carneiro reports on the country's gambling boom and the growing concerns about debt and addiction.",
-      "country": "Brazil",
+      "title": "Japanese Stocks Set to Rise After US-Iran Peace Deal Reached",
+      "link": "https://www.livemint.com/market/japanese-stocks-set-to-rise-after-us-iran-peace-deal-reached-11781481150940.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-15T05:22:30+05:30",
+      "score": 14,
+      "summary": "Japanese stocks are set to gain after President Donald Trump said the US and Iran have reached a peace deal, raising hopes the Middle East war is nearing an end and the Strait of Hormuz will reopen.",
+      "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Cup",
-        "Brazil"
+        "Stocks",
+        "Set",
+        "Rise",
+        "After",
+        "USIran",
+        "Peace",
+        "Deal",
+        "Reached"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19798,13 +19843,49 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "NPR"
+        "Livemint"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Oil Slumps as US-Iran Deal May Allow Strait of Hormuz to Reopen",
+      "link": "https://www.livemint.com/market/oil-slumps-as-us-iran-deal-may-allow-strait-of-hormuz-to-reopen-11781480780515.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-15T05:16:20+05:30",
+      "score": 14,
+      "summary": "Oil sank after the US and Iran agreed to a peace deal to end the war in the Middle East, potentially allowing the Strait of Hormuz to reopen.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Slumps",
+        "USIran",
+        "Deal",
+        "May",
+        "Allow",
+        "Strait",
+        "Hormuz",
+        "Reopen"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "As more US business owners retire many are selling up to their staff",
       "link": "https://www.bbc.com/news/articles/c0ey87z1ggjo?at_medium=RSS&at_campaign=rss",
@@ -26394,76 +26475,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "SpaceX IPO live updates: Elon Musk's company set for biggest market debut ever",
-      "link": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-12T09:09:09+00:00",
-      "score": 14,
-      "summary": "Follow SpaceX IPO live updates on price, ticker, broker access, valuation and what investors need to know before shares trade.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "IPO",
-        "Elon",
-        "Musks"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 19,
-      "sources_reporting": [
-        "AP",
-        "BBC",
-        "CNBC",
-        "Livemint",
-        "NHK",
-        "PBS"
-      ],
-      "trend_accel": "+85%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "We asked AI to predict the 2026 World Cup winner. It picked a country that\u2019s never won.",
-      "link": "https://www.marketwatch.com/story/we-asked-ai-to-predict-the-2026-world-cup-winner-it-picked-something-that-has-never-happened-53231520?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-06-12T09:09:00+00:00",
-      "score": 17,
-      "summary": "Some 2026 World Cup predictions from AI models are going against tradition to pick the underdogs. Here\u2019s why.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "World",
-        "Cup"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -32710,7 +32721,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.8,
+      "trend_score": 7.7,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -32718,8 +32729,8 @@
         "PBS",
         "Reuters"
       ],
-      "trend_accel": "+70%",
-      "heat_level": "SURGING"
+      "trend_accel": "+69%",
+      "heat_level": "HOT"
     },
     {
       "title": "World Cup Daily live: Japan draw Netherlands",
@@ -51830,46 +51841,6 @@
       ],
       "trend_accel": "+68%",
       "heat_level": "SURGING"
-    },
-    {
-      "title": "The Best Dressed Stars From the 2026 Tony Awards",
-      "link": "https://www.vogue.com/slideshow/2026-tony-awards-best-dressed-red-carpet",
-      "source": "Vogue",
-      "timestamp": "2026-06-07T23:56:08+00:00",
-      "score": 15,
-      "summary": "This year's ceremony, hosted by Pink, saw Broadway's finest deliver classic evening glamour.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Best",
-        "Dressed",
-        "Stars",
-        "Tony",
-        "Awards"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 19,
-      "sources_reporting": [
-        "BBC",
-        "GQ",
-        "Guardian",
-        "NPR",
-        "Reuters",
-        "Vogue"
-      ],
-      "trend_accel": "+70%",
-      "heat_level": "SURGING"
     }
   ],
   "CrisisWatch": [
@@ -51902,6 +51873,37 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.2 - 11 km NE of Coachella, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486632",
+      "source": "USGS",
+      "timestamp": "2026-06-15T00:00:45.523000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-14 23:58:40 UTC2026-06-14 23:58:40 UTC at epicenterLocation33.755\u00b0N 116.091\u00b0WDepth2.23 km (1.39 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Coachella"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
       "heat_level": "LOW"
     },
     {
@@ -58333,39 +58335,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Weather Information - Environment Canada - Environment Canada",
-      "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5QVV9WTDB3WG5Yd1Q2TUIxX1g2bFBiZ1lHaW52UGFLSDJpUkRjc2RoektCczlFaWM2Nnc?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-13T20:00:27+00:00",
-      "score": 12,
-      "summary": "Weather Information - Environment Canada Environment Canada",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Information",
-        "Environment",
-        "Canada"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ]
