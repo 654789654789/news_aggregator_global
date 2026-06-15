@@ -13192,6 +13192,48 @@
   ],
   "World": [
     {
+      "title": "Netanyahu Says Israel Will Keep Forces in Lebanon, Despite U.S.-Iran Deal",
+      "link": "https://www.nytimes.com/2026/06/15/world/middleeast/netanyahu-israel-iran.html",
+      "source": "NYT",
+      "timestamp": "2026-06-15T23:31:52+00:00",
+      "score": 14,
+      "summary": "\u201cThe struggle has not ended,\u201d a defiant Prime Minister Benjamin Netanyahu told Israelis.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "Says",
+        "Israel",
+        "Will",
+        "Keep",
+        "Forces",
+        "Lebanon",
+        "Despite",
+        "USIran",
+        "Deal"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "RFK Jr under fire for \u2018bullying\u2019 letter to scientific journal",
       "link": "https://www.theguardian.com/us-news/2026/jun/15/rfk-jr-letter-medical-journal-vaccine-study",
       "source": "Guardian",
@@ -15401,7 +15443,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 11.6,
+      "trend_score": 11.5,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -15412,7 +15454,7 @@
         "Reuters",
         "The Hindu"
       ],
-      "trend_accel": "+87%",
+      "trend_accel": "+86%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19861,23 +19903,27 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Police investigate spectator brawl during country Victorian football match",
-      "link": "https://www.abc.net.au/news/2026-06-15/police-brawl-ararat-lismore-derrinallum-football-match/106798840",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-15T05:56:11+00:00",
-      "score": 12,
-      "summary": "Victoria Police is investigating an off-field fight at a local football match in Ararat over the weekend, sparking concerns about \"dreadful\" behaviour at grassroots sporting events.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Stock futures are little changed after Dow posts new record close on potential U.S.-Iran deal: Live updates",
+      "link": "https://www.cnbc.com/2026/06/15/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-15T23:43:55+00:00",
+      "score": 14,
+      "summary": "On Monday, the Dow Jones Industrial Average climbed to new intraday and closing records on a potential deal between the U.S. and Iran.",
+      "country": "Iran",
+      "region": "Middle East",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Victorian"
+        "Dow",
+        "USIran",
+        "Live"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19888,13 +19934,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+61%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "People in China are watching the World Cup differently this time",
       "link": "https://www.cnbc.com/2026/06/16/people-in-china-are-watching-the-world-cup-differently-this-time.html",
@@ -26480,24 +26524,26 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Beijing says it's 'strongly dissatisfied' with Pentagon move against top Chinese tech firms",
-      "link": "https://www.cnbc.com/2026/06/13/china-dissatisfied-with-us-move-against-chinese-tech-firms.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-13T11:31:17+00:00",
-      "score": 14,
-      "summary": "The Pentagon added a slew of Chinese tech firms, including Alibaba, Baidu and BYD, to a list of entities it believes have aided China's military.",
-      "country": "US",
+      "title": "Brazil catchment models reveal opposite climate impacts on Amazon and Cerrado soils",
+      "link": "https://phys.org/news/2026-06-brazil-catchment-reveal-climate-impacts.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-15T19:40:04-04:00",
+      "score": 12,
+      "summary": "A comparative modeling study of two Brazilian rain catchments suggests that climate change will have contrasting effects on future soil erosion in the Amazon and Cerrado. The findings have implications for land management in both biomes in the coming decades.",
+      "country": "Brazil",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Pentagon",
-        "Chinese"
+        "Amazon",
+        "Cerrado"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26506,15 +26552,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Bacteria reveal 'glue' protein that fastens antibiotic-resistant outer membrane to cell wall",
       "link": "https://phys.org/news/2026-06-bacteria-reveal-protein-antibiotic-resistant.html",
@@ -32676,22 +32720,31 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Sports": [
     {
-      "title": "Parents' heat warning songs may prime zebra finch chicks for heat before they hatch",
-      "link": "https://phys.org/news/2026-06-parents-songs-prime-zebra-finch.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-11T18:00:03-04:00",
-      "score": 10,
-      "summary": "Sealed within an eggshell, how can chicks prepare for the world into which they are about to hatch, with no obvious direct communication channel across the shell? Adult zebra finches produce distinctive high-pitched warning songs\u2014known as \"heat calls\"\u2014when panting during a hea...",
+      "title": "Braves Outright Austin Wynns - MLB Trade Rumors",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wd2loOVVPc1BYUW13Rll6WlhBcEFCM0JmUzhlRXh5WUQ0dUxXY1Y5WFJoakp2bFdjSTQ4bk1IRzJES25iZEl1T0FfS3FCYkVReVdsc1JremkyUGVJSkZsbnFyX1hlQVFHdE0xVndzbi0tLTJUV3FwMUJ4cTk?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-06-15T23:36:03+00:00",
+      "score": 12,
+      "summary": "Braves Outright Austin Wynns MLB Trade RumorsBaldwin reinstated off IL, set to return to action on Tuesday MLB.comDrake Baldwin reinstated, Austin Wynns outrighted to Triple-A Yahoo SportsDrake Baldwin will begin rehab stint with Triple-A Gwinnett on Saturday Battery PowerGwin...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Outright",
+        "Austin",
+        "Wynns",
+        "MLB",
+        "Trade",
+        "Rumors"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -32699,15 +32752,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "Phys.org"
+        "Google News"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Sports": [
+    },
     {
       "title": "World Cup 2026 schedule, live updates: Uruguay opens vs. Saudi Arabia; Cape Verde stuns Spain; Belgium, Egypt draw - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUUhRSXRyM3EyNkVwck1HdlAxQkFXMzgybGo0RmY1NE5aeUtTODN5aEhKTG1faVpISVJwdnhJaTZ3ZS1hRlo1SEhhdGcycXFyY3JKaGpCV1JsZEQ2OXNrMHV3Nlc1akJMYW9qejlkZVhTWEdKaUJZQjRuWS00RzJxOWR1MDZYOVZsSEpCZEZQTC1abmFxekxhTWFSd09EZ3AzOGNyQjlR?oc=5",
@@ -38924,6 +38975,81 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Oliver Stone\u2019s New Movie \u2018White Lies\u2019 Adds Stephanie Suganami",
+      "link": "https://deadline.com/2026/06/stephanie-suganami-oliver-stone-white-lies-1236956945/",
+      "source": "Deadline",
+      "timestamp": "2026-06-15T23:45:54+00:00",
+      "score": 12,
+      "summary": "EXCLUSIVE: We\u2019ve learned that Oliver Stone\u2019s new movie White Lies has also cast actress and social entrepreneur, Stephanie Sugnami. She joins a cast that includes Josh Hartnett, Leila George, Michael Douglas, Willem Dafoe, Ellen Barkin, Homer Gere and Yvonne Chapman. As we pre...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stones",
+        "New",
+        "Movie",
+        "White",
+        "Lies",
+        "Adds",
+        "Stephanie",
+        "Suganami"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "The White Boho Skirt Is the Celebrity Summer Trend to Copy",
+      "link": "https://www.eonline.com/news/1433004/why-celebrities-are-rocking-white-boho-skirts-this-summer?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-06-15T23:35:00+00:00",
+      "score": 12,
+      "summary": "Not many fashion pieces can survive the rapid turnover of the trend cycle, but there's one style that returns every summer, and it's the white boho skirt. With endless styling possibilities, the...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "White",
+        "Boho",
+        "Skirt",
+        "Celebrity",
+        "Summer",
+        "Trend",
+        "Copy"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Love Island USA Fans Find Major Editing Error",
       "link": "https://www.eonline.com/news/1433010/love-island-usa-editing-error-causes-tefis-hand-to-disappear-on-aftersun?cmpid=rss-syndicate-genericrss-us-top_stories",
@@ -46836,84 +46962,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "China\u2019s Underdog Box Office Phenomenon \u2018Dear You\u2019 Lands U.K., France Release",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/shanghai-china-box-office-phenomenon-dear-you-uk-france-release-1236620257/",
-      "source": "THR",
-      "timestamp": "2026-06-15T00:30:00+00:00",
-      "score": 12,
-      "summary": "The Teochew-language family drama \u2014 reportedly made for about $2 million and now nearing $250 million in China \u2014 opens in U.K. and Irish cinemas on June 26, with France to follow.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Underdog",
-        "Box",
-        "Office",
-        "Phenomenon",
-        "Dear",
-        "You",
-        "Lands",
-        "France",
-        "Release"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Shanghai Film Festival Bets Big on Asia\u2019s Next Generation",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/shanghai-film-festival-next-generation-1236620182/",
-      "source": "THR",
-      "timestamp": "2026-06-15T00:30:00+00:00",
-      "score": 14,
-      "summary": "\"Talent development has become one of our defining strengths,\" says SIFF managing director Chen Guo, as first-time director Keane T.K. Wong's 'Afterpiece' opens the event.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Film",
-        "Festival",
-        "Bets",
-        "Big",
-        "Asias",
-        "Next",
-        "Generation"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52136,6 +52184,40 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 3.1 - 49 km NNE of White Mountain, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st7t",
+      "source": "USGS",
+      "timestamp": "2026-06-15T23:37:58.040000+00:00",
+      "score": 17,
+      "summary": "Time2026-06-15 22:47:54 UTC2026-06-15 22:47:54 UTC at epicenterLocation65.110\u00b0N 163.164\u00b0WDepth10.00 km (6.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "White",
+        "Mountain",
+        "Alaska"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.7 - 4 km SE of Loma Linda, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41487632",
@@ -58617,39 +58699,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 18 km WNW of Searles Valley, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486568",
-      "source": "USGS",
-      "timestamp": "2026-06-14T21:11:58.024000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-14 21:08:30 UTC2026-06-14 21:08:30 UTC at epicenterLocation35.822\u00b0N 117.596\u00b0WDepth9.02 km (5.60 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Searles",
-        "Valley"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
