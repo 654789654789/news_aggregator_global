@@ -1,6 +1,45 @@
 {
   "Politics": [
     {
+      "title": "UK investigates after a Russian warship fired warning shots near a yacht in the English Channel",
+      "link": "https://www.pbs.org/newshour/world/a-russian-warship-fired-warning-shots-near-a-uk-registered-yacht-in-the-english-channel",
+      "source": "PBS",
+      "timestamp": "2026-06-16T16:20:23-04:00",
+      "score": 12,
+      "summary": "Russia's Defense Ministry said the crew fired warning shots with small arms when the yacht did not respond to warnings to change course.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Russian",
+        "English",
+        "Channel"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 9.0,
+      "source_count": 14,
+      "sources_reporting": [
+        "BBC",
+        "Bloomberg",
+        "Guardian",
+        "PBS",
+        "Reuters"
+      ],
+      "trend_accel": "+71%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Senate fails to advance measure directing Trump to end Iran conflict despite four GOP defections",
       "link": "https://thehill.com/homenews/senate/5926564-senate-iran-war-powers/",
       "source": "The Hill",
@@ -244,8 +283,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -1377,14 +1416,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 8.9,
+      "source_count": 16,
       "sources_reporting": [
-        "BBC"
+        "BBC",
+        "Guardian",
+        "NPR",
+        "PBS",
+        "PBS"
       ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
+      "trend_accel": "+71%",
+      "heat_level": "SURGING"
     },
     {
       "title": "After U.S. Strike on Iranian School, Months Pass Without Answers",
@@ -1652,14 +1695,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 8.9,
+      "source_count": 11,
       "sources_reporting": [
-        "BBC"
+        "AP",
+        "BBC",
+        "Bloomberg",
+        "PBS",
+        "PBS"
       ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
+      "trend_accel": "+73%",
+      "heat_level": "SURGING"
     },
     {
       "title": "MSC Elsa 3 sinking: Kerala HC seeks Central agencies\u2019 response on EIA",
@@ -1781,8 +1828,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -3876,8 +3923,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "BBC",
@@ -6556,40 +6603,46 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Trump\u2019s Iran accord offers exit from war \u2014 and fresh political risks",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0Z6X0JtemY0SDZmckwxQzNoQWdEek9SU1F1bFFlOWtqVVZHaEdhWm1GMW5vTnUtanBpSHpJOHhLdVoxMm54cVZZSVFXajdJUHk4VGNZR1hMc2lORkt2dWxsTUZVRzUtVGk0amFtU3A3R3RJYnlEeGdVVVNOM0RLYWRNQVphb1R4eUNqTFVxX0ZsLUZBckxBS2ltRWthVHM?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-15T22:01:45+00:00",
+      "title": "Leak Exposes Members of Peter Thiel\u2019s Secretive \u2018Dialog\u2019 Society",
+      "link": "https://www.wired.com/story/leak-exposes-members-of-peter-thiels-secretive-dialog-society/",
+      "source": "Wired",
+      "timestamp": "2026-06-16T20:21:57+00:00",
       "score": 12,
-      "summary": "Trump\u2019s Iran accord offers exit from war \u2014 and fresh political risks Reuters",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Aggregator",
+      "summary": "More than 200 of the world's elites registered for a retreat whose agenda runs from panels on cult-building and sex to prepping for World War III. An associated app offers matchmaking.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Iran"
+        "Exposes",
+        "Members",
+        "Peter",
+        "Thiels",
+        "Secretive",
+        "Dialog",
+        "Society"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Google News"
+        "Wired"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
       "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
@@ -13093,27 +13146,24 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "The Best E-Readers of 2026: Kobo, Kindle",
-      "link": "https://www.wired.com/gallery/best-ereaders/",
-      "source": "Wired",
-      "timestamp": "2026-06-11T11:33:00+00:00",
-      "score": 15,
-      "summary": "These WIRED-tested ebook readers let you take your library anywhere.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "California\u2019s tectonic systems at highest levels of stress in 1,000 years \u2013 study",
+      "link": "https://www.theguardian.com/us-news/2026/jun/16/california-earthquake-tectonic-systems-risk",
+      "source": "Guardian",
+      "timestamp": "2026-06-16T20:25:00+00:00",
+      "score": 13,
+      "summary": "San Andreas and San Jacinto fault systems in \u2018critically loaded state\u2019, increasing chance of \u2018big one\u2019 quake in futureSouthern California\u2019s San Andreas and San Jacinto fault systems are at their highest levels of tectonic stress in 1,000 years in what scientists describe as a ...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Best",
-        "EReaders",
-        "Kobo",
-        "Kindle"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13123,13 +13173,109 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Wired"
+        "Guardian"
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Roadside reptile mystery continues as remains confirmed as saltwater croc",
+      "link": "https://www.abc.net.au/news/2026-06-17/department-confirms-saltwater-crocodile-remains-on-roadside/106804084",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-16T20:22:00+00:00",
+      "score": 12,
+      "summary": "Reptile remains found dumped on the side of an Adelaide roadside have been confirmed as belonging to a saltwater crocodile, but there is still no explanation for how they came to be there.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "NSW home owners and renters gain access to $480m renewable energy scheme",
+      "link": "https://www.abc.net.au/news/2026-06-17/nsw-government-interest-free-renewable-energy-loans-subsidies/106805702",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-16T20:18:14+00:00",
+      "score": 15,
+      "summary": "Interest-free loans and cash subsidies are being offered by the New South Wales government to encourage the uptake of renewable energy measures like solar panels and household batteries.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Russian warship fires 'warning shots' at UK yacht in Channel",
+      "link": "https://www.france24.com/en/russian-warship-fires-warning-shots-at-uk-yacht-in-channel",
+      "source": "France24",
+      "timestamp": "2026-06-16T20:16:24+00:00",
+      "score": 12,
+      "summary": "Russia said one of its warships fired warning shots Tuesday at a yacht making a \"dangerous approach\" in the Channel, as the UK said it was investigating the incident. It involved the frigate Admiral Grigorovich and a UK-registered yacht around 20 nautical miles south of the Is...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Channel"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.4,
+      "source_count": 21,
+      "sources_reporting": [
+        "BBC",
+        "BBC",
+        "Bloomberg",
+        "FT",
+        "France24",
+        "Guardian",
+        "Guardian",
+        "NYT"
+      ],
+      "trend_accel": "+89%",
+      "heat_level": "CRITICAL"
+    },
     {
       "title": "Fatal US B-52 bomber crash happened at more than 1,500m per minute",
       "link": "https://www.abc.net.au/news/2026-06-17/us-b52-bomber-crash-at-edwards-air-force-base-killed-eight/106806420",
@@ -14816,8 +14962,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "BBC",
@@ -19726,54 +19872,26 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Ashes, tears and power rise in a farewell to old Leichhardt",
-      "link": "https://www.abc.net.au/news/2026-06-16/leichhardt-oval-last-game-wests-tigers-redevelopment/106801770",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-16T03:18:20+00:00",
-      "score": 12,
-      "summary": "On the day of the final NRL game at Leichhardt Oval before the old ground changes forever, rugby league's broken-down palace reminded us all of it's greatest powers.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "SpaceX rises 4% to leapfrog Amazon in market cap, closes short of Microsoft",
+      "link": "https://www.cnbc.com/2026/06/16/spacex-stock-rally-market-cap.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-16T20:29:47+00:00",
+      "score": 17,
+      "summary": "CEO Elon Musk said Sunday that the company \"might be able to reach approximately\" $1 trillion revenue in 2030.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Leichhardt"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Starbucks Korea to temporarily shut all stores for history lesson after bungled coffee promotion",
-      "link": "https://www.theguardian.com/world/2026/jun/16/starbucks-korea-shut-all-stores-tank-day-promotion",
-      "source": "Guardian",
-      "timestamp": "2026-06-16T03:07:36+00:00",
-      "score": 12,
-      "summary": "The closures, so employees can watch a recorded lecture, will cost the company an estimated 2.1bn won ($1.4m) in salesStarbucks Korea will simultaneously close all its stores for a mandatory history lesson, after a disastrous promotion that evoked memories of a pro-democracy m...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Korea"
+        "Amazon",
+        "Microsoft"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19784,31 +19902,98 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Guardian"
+        "CNBC"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+58%",
       "heat_level": "LOW"
     },
     {
-      "title": "G7 leaders to meet Zelensky as Trump signals possible Ukraine breakthrough",
-      "link": "https://www.france24.com/en/europe/20260616-g7-leaders-to-meet-zelensky-as-trump-signals-possible-ukraine-breakthrough",
-      "source": "France24",
-      "timestamp": "2026-06-16T02:43:25+00:00",
-      "score": 17,
-      "summary": "G7 leaders will hold talks with President Volodymyr Zelensky on Ukraine on Tuesday, as US President Donald Trump suggested there may be room for progress after more than four years of war with Russia. The summit in Evian will also address Iran, amid renewed diplomacy and conti...",
-      "country": "Ukraine",
-      "region": "Europe",
+      "title": "SpaceX gets assist from DOJ in effort to toss NAACP air pollution lawsuit",
+      "link": "https://www.cnbc.com/2026/06/16/usdepartment-of-justice-calls-for-dismissal-of-naacp-xai-lawsuit-.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-16T20:29:22+00:00",
+      "score": 14,
+      "summary": "The DOJ is asking a Mississippi federal court to dismiss a lawsuit filed by the NAACP against Elon Musk's xAI, now owned by SpaceX.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Zelensky",
-        "Trump",
-        "Ukraine"
+        "DOJ",
+        "NAACP"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Riding High After I.P.O., SpaceX Will Buy A.I. Start-Up for $60 Billion",
+      "link": "https://www.nytimes.com/2026/06/16/business/spacex-cursor-aquisition-ipo.html",
+      "source": "NYT",
+      "timestamp": "2026-06-16T20:28:03+00:00",
+      "score": 15,
+      "summary": "SpaceX exercised its option to acquire Cursor in an all-stock deal, bolstering Elon Musk\u2019s ambitions in artificial intelligence.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "High",
+        "After",
+        "IPO",
+        "SpaceX",
+        "Will",
+        "Buy",
+        "StartUp",
+        "Billion"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Michael Burry says he's tempted to bet against SpaceX, but passes on expensive options",
+      "link": "https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-16T20:19:49+00:00",
+      "score": 14,
+      "summary": "Burry argued the company's market capitalization had reached levels that dwarf many established businesses and fortunes.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Burry",
+        "SpaceX"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19819,42 +20004,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "France24"
+        "CNBC"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Police receive 'new information' in ex-GP rape case",
-      "link": "https://www.abc.net.au/news/2026-06-16/stan-stellios-theodorous-court-adjourned-new-information/106802230",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-16T02:39:26+00:00",
-      "score": 10,
-      "summary": "Former Brisbane GP Stellios Theodoros is facing 148 counts of rape and sexual assault relating to an alleged excessive number of pelvic examinations, pap smears and breast checks.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Dow climbs above 52,000 for first time as oil prices fall, but tech sell-off knocks down S&P 500: Live updates",
       "link": "https://www.cnbc.com/2026/06/15/stock-market-today-live-updates.html",
@@ -26251,25 +26405,24 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "The Club's top 10 things to watch in the stock market Monday",
-      "link": "https://www.cnbc.com/2026/06/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-15T13:07:10+00:00",
-      "score": 17,
-      "summary": "Oil is plunging and futures are surging after the U.S. and Iran agreed to a memorandum of understanding to end the war.",
+      "title": "Intermolecular collisions may explain why organic radical fluids become unusually magnetic",
+      "link": "https://phys.org/news/2026-06-intermolecular-collisions-radical-fluids-unusually.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-16T16:20:06-04:00",
+      "score": 12,
+      "summary": "Certain substances can become magnetic when exposed to an external magnetic field. Magnetic susceptibility measures how easily a material can be magnetized. Materials known as organic radicals have been noted to possess anomalously large magnetic susceptibility. However, resea...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Clubs",
-        "Monday"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26279,100 +26432,62 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
     },
     {
-      "title": "Zhipu surges 33% as Wall Street raises bets on China AI after Anthropic curbs",
-      "link": "https://www.cnbc.com/2026/06/15/china-ai-zhipu-minimax-artificial-intelligence-race-washington-trump-anthropic.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-15T12:58:58+00:00",
-      "score": 17,
-      "summary": "Shares of Chinese AI model developer Zhipu surged as Wall Street banks raised bets on the company's ability to capture global AI demand.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Wall",
-        "Street",
-        "China",
-        "Anthropic"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "SpaceX\u2019s Stock Rises Ahead of First Full Day of Trading",
-      "link": "https://www.nytimes.com/2026/06/15/business/spacex-stock.html",
-      "source": "NYT",
-      "timestamp": "2026-06-15T12:46:30+00:00",
-      "score": 14,
-      "summary": "After notching big gains on its debut on Friday, the company\u2019s shares jumped again on Monday before the market opened.",
+      "title": "Q&A: Engineering crop resilience to heat and drought may help reverse climate change",
+      "link": "https://phys.org/news/2026-06-qa-crop-resilience-drought-reverse.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-16T16:20:01-04:00",
+      "score": 12,
+      "summary": "Heat waves are arriving sooner and becoming hotter, with the United Kingdom recording May 25 as its hottest day in May since tracking began more than a century ago, only for the record to be broken again the next day. While humans can turn to artificial means of cooling, such ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Science Publication",
       "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Stock",
-        "Rises",
-        "Ahead",
-        "First",
-        "Full",
-        "Day",
-        "Trading"
+        "Engineering"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 6.7,
+      "source_count": 12,
       "sources_reporting": [
-        "NYT"
+        "BBC",
+        "NPR",
+        "Phys.org",
+        "Reuters"
       ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
+      "trend_accel": "+62%",
+      "heat_level": "HOT"
     },
     {
-      "title": "Fox to buy Roku streaming firm in $22bn deal",
-      "link": "https://www.bbc.com/news/articles/cql1yew3vezo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-06-15T12:43:12+00:00",
-      "score": 17,
-      "summary": "The move is seen as a bet that combining streaming with its news and sport offering will leave Fox in a strong position as TV audiences move online.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
+      "title": "Dan David Prize awards 9 scholars $300,000 each for research on the human past",
+      "link": "https://phys.org/news/2026-06-dan-david-prize-awards-scholars.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-16T16:18:25-04:00",
+      "score": 15,
+      "summary": "The Dan David Prize will award nine historians and archaeologists with $300,000 to recognize their work and support future research, the foundation announced Tuesday.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
       "trust_score": 9,
-      "source_bias": "Low",
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Roku"
+        "David",
+        "Prize"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26383,13 +26498,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "BBC"
+        "Phys.org"
       ],
-      "trend_accel": "+54%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Data suggest 'red flag' laws are linked to sustained reductions in arrests",
       "link": "https://phys.org/news/2026-06-red-flag-laws-linked-sustained.html",
@@ -27208,8 +27321,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "Guardian",
@@ -27962,7 +28075,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.9,
+      "trend_score": 7.8,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -32537,105 +32650,49 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Harmonic radar tags reveal how mosquitoes move through fields and parkland",
-      "link": "https://phys.org/news/2026-06-harmonic-radar-tags-reveal-mosquitoes.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-13T09:00:02-04:00",
-      "score": 10,
-      "summary": "It's an insect everybody loves to hate. Pesky mosquitoes will be out in swarms as the weather warms up across the U.S.\u2014and their bites aren't just itchy. They can transmit pathogens that can cause diseases like West Nile virus, Zika virus and malaria, to name a few.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The Ghosts of the Mediterranean: What a rare great white shark sighting could reveal about a changing ocean",
-      "link": "https://phys.org/news/2026-06-ghosts-mediterranean-rare-great-white.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-13T08:30:01-04:00",
-      "score": 12,
-      "summary": "Headlines were made this week when scuba divers removing abandoned ghost nets from a shipwreck between Tunisia and Sicily filmed an adult great white shark. The footage quickly made global news, yet the real story is not that a great white was seen in the Mediterranean, but th...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ghosts",
-        "Mediterranean",
-        "What"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Saturday Citations: JAXA collaboration with toy company TOMY; a new brain-computer interface; IBD solved",
-      "link": "https://phys.org/news/2026-06-saturday-citations-jaxa-collaboration-toy.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-13T08:20:01-04:00",
-      "score": 14,
-      "summary": "This week's notable citations: Astronomers believe collapsing stars could spawn mini universes. Chimpanzees do not like unfairness. And a single dose of psilocybin temporarily restored function in an 80-year-old with Alzheimer's disease.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Citations",
-        "JAXA",
-        "TOMY",
-        "IBD"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
+    {
+      "title": "France vs. Senegal score, 2026 FIFA World Cup live updates: Kylian Mbappe and Les Bleus kickoff campaign - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1BoNnF5VXpLZGVCYUQwRDlud3VsR1VHNEkyZkJHZ2hVbmJ2eHQycVBkb1hLaUhuNGFLR1JqSkcwcmRXTl9tSkRfMDZqOEJRNGEzMUc4eGUwQUZwMUdjTmJ4bFJLYU5jZXpnUnM0UzJWUjRCSjB4UkQzWUw1N0RTNUtfQlZYN2p3cE9RVUFrMnFzSlNneHRfcUpGS2FDTml0R0lkVA?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-06-16T20:19:34+00:00",
+      "score": 17,
+      "summary": "France vs. Senegal score, 2026 FIFA World Cup live updates: Kylian Mbappe and Les Bleus kickoff campaign CBS SportsWorld Cup live updates: Senegal keeping France at arm's length ESPNWorld Cup 2026 schedule, live updates: France opens play; Messi's Argentina, Haaland's Norway a...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Senegal",
+        "FIFA",
+        "World",
+        "Cup",
+        "Kylian",
+        "Mbappe",
+        "Les",
+        "Bleus",
+        "CBS",
+        "Sports"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Mayweather facing charges for passing bad check",
       "link": "https://www.espn.com/boxing/story/_/id/49084087/floyd-mayweather-facing-felony-charges-passing-bad-check",
@@ -39203,6 +39260,122 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Tom Holland Names Owen Cooper as His Potential \u2018Spider-Man\u2019 Successor",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-holland-wants-owen-cooper-spider-man-successor-1236623418/",
+      "source": "THR",
+      "timestamp": "2026-06-16T20:29:54+00:00",
+      "score": 12,
+      "summary": "The MCU's Peter Parker said the 'Adolescence' breakout \"would be awesome\" as the next actor to take on the role of Spider-Man.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Holland",
+        "Names",
+        "Owen",
+        "Cooper",
+        "His",
+        "Potential",
+        "SpiderMan",
+        "Successor"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Zendaya\u2019s Best Press Tour Looks, From \u2018Dune\u2019 to \u2018Challengers\u2019 to \u2018The Drama\u2019",
+      "link": "https://www.hollywoodreporter.com/lists/zendaya-best-press-tour-looks/",
+      "source": "THR",
+      "timestamp": "2026-06-16T20:26:51+00:00",
+      "score": 12,
+      "summary": "The actress and her longtime stylist, Law Roach, have become modern pioneers of \"method dressing,\" in which they match fashion to her film and television roles during their respective press tours.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Best",
+        "Press",
+        "Tour",
+        "Looks",
+        "Dune",
+        "Challengers",
+        "Drama"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Katie Dippold Discusses Her Two-Decade Road to \u2018Widow\u2019s Bay\u2019 \u2014 and How Its Future Looks",
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/katie-dippold-widows-bay-interview-1236623405/",
+      "source": "THR",
+      "timestamp": "2026-06-16T20:24:44+00:00",
+      "score": 12,
+      "summary": "As the surprise hit of the string wraps season one, the creator and showrunner talks about how the project evolved \u2014 and what\u2019s next \u2014 during its long, long path to Apple TV: \u201dI really didn't think it was going to sell or get made.\u201d",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dippold",
+        "Discusses",
+        "Her",
+        "TwoDecade",
+        "Road",
+        "Widows",
+        "Bay",
+        "How",
+        "Its",
+        "Future",
+        "Looks"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Below Deck Down Under\u2019 Season 4 Sails Toward Franchise Audience Record On Bravo & Peacock",
       "link": "https://deadline.com/2026/06/below-deck-down-under-season-4-audience-record-bravo-1236957693/",
@@ -47081,125 +47254,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "West Wilson Exits \u2018Summer House\u2019 Ahead of Season 11",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/west-wilson-exits-summer-house-season-11-1236622497/",
-      "source": "THR",
-      "timestamp": "2026-06-15T20:38:55+00:00",
-      "score": 15,
-      "summary": "The news comes ahead of a bonus episode tracking the viral relationship scandal involving Wilson.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Wilson",
-        "Exits",
-        "Summer",
-        "House",
-        "Ahead",
-        "Season"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Emmy Predictions via Feinberg Forecast: Updated Standings With One Week of Nominations Voting Remaining",
-      "link": "https://www.hollywoodreporter.com/lists/emmy-predictions-feinberg-forecast-10-days-noms-voting/",
-      "source": "THR",
-      "timestamp": "2026-06-15T20:36:00+00:00",
-      "score": 14,
-      "summary": "The Hollywood Reporter's executive editor of awards coverage offers his latest assessment of 35 categories.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Predictions",
-        "Feinberg",
-        "Forecast",
-        "Updated",
-        "Standings",
-        "One",
-        "Week",
-        "Nominations",
-        "Voting",
-        "Remaining"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Lin-Manuel Miranda Writes New Song For Live-Action \u2018Moana\u2019 With Dwayne Johnson, Auli\u2019i Cravalho & Catherine Laga\u2019aia Singing",
-      "link": "https://deadline.com/2026/06/lin-manuel-miranda-new-song-live-action-moana-1236956764/",
-      "source": "Deadline",
-      "timestamp": "2026-06-15T20:33:10+00:00",
-      "score": 14,
-      "summary": "Lin-Manuel Miranda has penned a new song for the live-action remake of Disney\u2019s Moana. The new song is titled \u201cAlong the Way\u201d and features both Moana actresses in the vocals. Auli\u2018i Cravalho, who voiced Moana in the animated films Moana (2016) and Moana 2 (2024), Catherine Lag...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Miranda",
-        "Writes",
-        "New",
-        "Song",
-        "LiveAction",
-        "Moana",
-        "Dwayne",
-        "Johnson",
-        "Aulii",
-        "Cravalho",
-        "Catherine",
-        "Lagaaia",
-        "Singing"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52532,6 +52586,40 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 7 km NNE of Summerlin South, Nevada",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00920351",
+      "source": "USGS",
+      "timestamp": "2026-06-16T20:26:34.900000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-16 20:22:44 UTC2026-06-16 20:22:44 UTC at epicenterLocation36.172\u00b0N 115.290\u00b0WDepth10.12 km (6.29 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Summerlin",
+        "South",
+        "Nevada"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
       "heat_level": "LOW"
     },
     {
@@ -59025,40 +59113,6 @@
       "trending": false,
       "trend_score": 0.0,
       "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 43 km S of Nelchina, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lugvzt",
-      "source": "USGS",
-      "timestamp": "2026-06-15T19:38:03.868000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-15 19:36:41 UTC2026-06-15 19:36:41 UTC at epicenterLocation61.609\u00b0N 146.613\u00b0WDepth21.80 km (13.55 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Nelchina",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
       "sources_reporting": [
         "USGS"
       ],
