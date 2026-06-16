@@ -1,6 +1,35 @@
 {
   "Politics": [
     {
+      "title": "Arunachal govt. launches digital storytelling film challenge",
+      "link": "https://www.thehindu.com/news/national/arunachal-pradesh/arunachal-govt-launches-digital-storytelling-film-challenge/article71108094.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-16T14:57:35+05:30",
+      "score": 10,
+      "summary": "Chief Minister Pema Khandu said the first-of-its-kind \u201cfilm challenge\u201d portal seeks to promote tourism, culture, creativity, and the MSME sector",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "\"Varanasi in Bratislava\": PM Modi visits unique exhibition crafted by Slovak artisans at Presidential Palace",
       "link": "https://www.thehindu.com/news/national/varanasi-in-bratislava-pm-modi-visits-unique-exhibition-crafted-by-slovak-artisans-at-presidential-palace/article71108374.ece",
       "source": "The Hindu",
@@ -6584,40 +6613,6 @@
         "The Hindu"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Congress, BRS, MIM parties enabling \u2018illegal infiltrators\u2019 in voter lists: BJP Telangana chief",
-      "link": "https://www.thehindu.com/news/national/telangana/congress-brs-mim-parties-enabling-illegal-infiltrators-in-voter-lists-bjp-telangana-chief/article71104322.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-15T16:11:10+05:30",
-      "score": 12,
-      "summary": "If BJP benefited in West Bengal because of SIR, how did UDF win in Kerala, questions BJP Telangana president Ramchander Rao",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "BRS",
-        "MIM",
-        "BJP",
-        "Telangana"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -19874,6 +19869,43 @@
   ],
   "Business": [
     {
+      "title": "Oil Prices Continue to Fall as Traders Assess U.S.-Iran Deal",
+      "link": "https://www.nytimes.com/2026/06/16/business/oil-prices-iran-war.html",
+      "source": "NYT",
+      "timestamp": "2026-06-16T09:23:50+00:00",
+      "score": 14,
+      "summary": "Stocks were mixed after strong rallies the day before.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Prices",
+        "Continue",
+        "Fall",
+        "Traders",
+        "Assess",
+        "USIran",
+        "Deal"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "The peace deal is in the price: Goldman Sachs lowers its oil-price target to market levels",
       "link": "https://www.marketwatch.com/story/the-peace-deal-is-in-the-price-goldman-sachs-lowers-its-oil-price-target-to-market-levels-632cc2b1?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -21430,14 +21462,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 11.6,
+      "source_count": 11,
       "sources_reporting": [
-        "MarketWatch"
+        "BBC",
+        "CNBC",
+        "MarketWatch",
+        "NHK",
+        "NYT",
+        "PBS"
       ],
-      "trend_accel": "+62%",
-      "heat_level": "LOW"
+      "trend_accel": "+90%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Oil Steadies Near Lowest Since March on Outlook for Hormuz Deal",
@@ -21806,14 +21843,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 11.6,
+      "source_count": 16,
       "sources_reporting": [
-        "MarketWatch"
+        "AP",
+        "CNBC",
+        "MarketWatch",
+        "NPR",
+        "NYT",
+        "PBS"
       ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
+      "trend_accel": "+88%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Oil prices fall about 5% as Iran deal is set to open Hormuz Strait",
@@ -24270,8 +24312,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "BBC",
@@ -25199,8 +25241,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 11.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -26472,29 +26514,24 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "U.S. peace deal with Iran in question as Israel strikes Lebanon",
-      "link": "https://www.cnbc.com/2026/06/14/iran-deal-teeters-israel-strikes-lebanon.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-14T14:53:53+00:00",
-      "score": 14,
-      "summary": "An initial deal to end the war and open the Strait of Hormuz was expected to be signed this week.",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "SpaceX shares skyrocket as money raised hits $85.7 billion",
+      "link": "https://phys.org/news/2026-06-spacex-skyrocket-money-billion.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-16T05:20:01-04:00",
+      "score": 15,
+      "summary": "SpaceX shares shot 20% higher Monday as the company said it raised a record-breaking $85.7 billion.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [
-        "Iran",
-        "Israel",
-        "Lebanon"
-      ],
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26502,20 +26539,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 12,
+      "source_count": 2,
       "sources_reporting": [
-        "AP",
-        "BBC",
-        "CNBC",
-        "Google News",
-        "Guardian",
-        "MarketWatch"
+        "Phys.org"
       ],
-      "trend_accel": "+80%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Science": [
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Mongooses prepare for likely future battles with powerful enemies, study finds",
       "link": "https://phys.org/news/2026-06-mongooses-future-powerful-enemies.html",
@@ -32685,37 +32715,6 @@
         "Phys.org"
       ],
       "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Climate change to alter sea-land breeze and increase ozone pollution in Barcelona",
-      "link": "https://phys.org/news/2026-06-climate-sea-breeze-ozone-pollution.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-11T21:00:03-04:00",
-      "score": 12,
-      "summary": "Climate change will profoundly alter the dynamics of sea and land breezes in the Barcelona metropolitan area, trapping larger amounts of air pollutants over coastal areas and increasing health risks for millions of people. This is the conclusion of a study conducted by the Ins...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Barcelona"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
@@ -52155,6 +52154,110 @@
   ],
   "CrisisWatch": [
     {
+      "title": "DR Congo: Cluster Protection RDC : Points saillants de la situation de protection au mois de mars 2026",
+      "link": "https://reliefweb.int/report/democratic-republic-congo/cluster-protection-rdc-points-saillants-de-la-situation-de-protection-au-mois-de-mars-2026",
+      "source": "ReliefWeb",
+      "timestamp": "2026-06-16T09:28:25+00:00",
+      "score": 17,
+      "summary": "Country: Democratic Republic of the Congo Source: Protection Cluster Please refer to the attached file. La R\u00e9publique d\u00e9mocratique du Congo (RDC) est confront\u00e9e \u00e0 une crise multidimensionnelle marqu\u00e9e par des conflits arm\u00e9s persistants, des d\u00e9placements massifs de populations,...",
+      "country": "UN",
+      "region": "Global",
+      "source_type": "International Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Congo",
+        "Cluster",
+        "Protection",
+        "RDC",
+        "Points"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ReliefWeb"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "8 people died in B-52 bomber crash at US Air Force base in Southern California, officials say",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOHZVck1vUEpZMGZGYmhkZHpDenhmeU5EdWpQcVUxeUZ2NE1Nb09NZlRlemhKU1JuNHo3VnEtWjhsUzZpZl9IMXg2VVFLdnY4SXNSREhtRmphenIwamgzcWV1SWM5WVU2UGtoY19PY3pBbENrbC1PQldhZ3I5bWJycGRnaVhqbUV3dWtaWXQ0Zkh6MnJtYWNueWkxUUNfYVF1eUVyLU9R?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-06-16T09:25:00+00:00",
+      "score": 17,
+      "summary": "8 people died in B-52 bomber crash at US Air Force base in Southern California, officials say AP News",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Air",
+        "Force",
+        "Southern",
+        "California"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 6.3 - 260 km SSE of Dunhuang, China",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stbz",
+      "source": "USGS",
+      "timestamp": "2026-06-16T09:24:56.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-16 09:06:55 UTC2026-06-16 09:06:55 UTC at epicenterLocation37.889\u00b0N 95.403\u00b0EDepth10.00 km (6.21 mi)",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "SSE",
+        "Dunhuang",
+        "China"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.6 - 9 km NW of Edmond, Oklahoma",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026lrzd",
       "source": "USGS",
@@ -58595,103 +58698,6 @@
         "USGS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 19 km W of Ivanof Bay, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ltgbhe",
-      "source": "USGS",
-      "timestamp": "2026-06-15T06:14:26.843000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-15 06:13:07 UTC2026-06-15 06:13:07 UTC at epicenterLocation55.894\u00b0N 159.799\u00b0WDepth13.00 km (8.08 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ivanof",
-        "Bay",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.5 - 21 km N of Searles Valley, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486856",
-      "source": "USGS",
-      "timestamp": "2026-06-15T06:10:23.930000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-15 06:06:58 UTC2026-06-15 06:06:58 UTC at epicenterLocation35.952\u00b0N 117.391\u00b0WDepth2.30 km (1.43 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Searles",
-        "Valley"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 8 km NNW of Julian, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41486848",
-      "source": "USGS",
-      "timestamp": "2026-06-15T06:04:52.057000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-15 06:01:29 UTC2026-06-15 06:01:29 UTC at epicenterLocation33.139\u00b0N 116.645\u00b0WDepth4.88 km (3.03 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Julian"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ]
