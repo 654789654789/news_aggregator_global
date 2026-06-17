@@ -1,6 +1,43 @@
 {
   "Politics": [
     {
+      "title": "Obama\u2019s Nuclear Deal Looms Over Trump\u2019s Iran Negotiations",
+      "link": "https://www.nytimes.com/2026/06/16/us/politics/obama-nuclear-deal-trump-iran.html",
+      "source": "NYT",
+      "timestamp": "2026-06-16T23:53:40+00:00",
+      "score": 14,
+      "summary": "President Trump is under pressure to significantly improve upon the Obama-era deal in order to justify the huge human and economic cost of taking the United States to war.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nuclear",
+        "Deal",
+        "Looms",
+        "Over",
+        "Trumps",
+        "Iran",
+        "Negotiations"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "5 Things to Know About Barry Moore, Republican Senate Candidate in Alabama",
       "link": "https://www.nytimes.com/2026/06/16/us/politics/barry-moore-republican-senate-alabama.html",
       "source": "NYT",
@@ -6618,24 +6655,27 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "ZP CEO seeks report on condition of school, college buildings in Kalaburagi",
-      "link": "https://www.thehindu.com/news/national/karnataka/zp-ceo-seeks-report-on-condition-of-school-college-buildings-in-kalaburagi/article71105627.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-16T10:07:59+05:30",
-      "score": 12,
-      "summary": "Rahul Sankanur chairs review meeting following collapse of ceiling plaster in a school building in the district",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Best Handheld Fans and Wearable Fans (2026)",
+      "link": "https://www.wired.com/gallery/best-handheld-fans/",
+      "source": "Wired",
+      "timestamp": "2026-06-16T23:48:10+00:00",
+      "score": 15,
+      "summary": "Whether you\u2019re at a festival, tennis match, or wedding, these hand fans and wearable cooling devices will make the heat way more bearable.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "CEO",
-        "Kalaburagi"
+        "Handheld",
+        "Fans",
+        "Wearable"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6646,13 +6686,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "Wired"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
       "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
@@ -13162,22 +13200,28 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "I went to the woods to drink surprisingly great espresso",
-      "link": "https://www.theverge.com/tech/942873/ikape-cera-portable-espresso-review",
-      "source": "Verge",
-      "timestamp": "2026-06-11T08:30:00-04:00",
-      "score": 10,
-      "summary": "As summer returns, I'm again reminded of my limits as I head into the great outdoors: I can put up with a heavy, uncomfortable backpack, bug bites, mud, and even bland dehydrated food, but I will not forsake my morning brew. I've tried every imaginable coffee gadget in my half...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Australia news live: two more men charged with murder over Chris Baghsarian kidnapping; Labor tips $3.6bn into pay rises for childcare workers",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jun/17/australia-news-live-victoria-marines-weapons-pauline-hanson-one-nation-national-press-club-labor-childcare-medicare-anthony-albanese-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-06-16T23:53:53+00:00",
+      "score": 15,
+      "summary": "Follow today\u2019s news liveGet our breaking news email, free app or daily news podcastKyle Sandilands has settled his legal dispute with ARN Media with a $12m cash payment over three years, but Jackie O Henderson\u2019s $82m claim against the broadcaster will continue.The shock jock a...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Chris",
+        "Baghsarian",
+        "Labor"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13187,13 +13231,79 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Verge"
+        "Guardian"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "CBS reaches agreement over Stephen Colbert\u2019s use of Peanuts music on The Late Show",
+      "link": "https://www.theguardian.com/us-news/2026/jun/16/cbs-stephen-colbert-peanuts-the-late-show",
+      "source": "Guardian",
+      "timestamp": "2026-06-16T23:51:00+00:00",
+      "score": 14,
+      "summary": "On that last day of his hosting, Colbert played Linus and Lucy on air in final dig at the networkOn his last day hosting CBS\u2019s The Late Show, Stephen Colbert played one of the most iconic songs from the Peanuts soundtrack.\u201cOh no! I hope this doesn\u2019t cost CBS any money!\u201d he jok...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stephen",
+        "Colberts",
+        "Peanuts",
+        "Late",
+        "Show"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Breaking: Roger Jaensch to return to Tasmanian cabinet in latest reshuffle",
+      "link": "https://www.abc.net.au/news/2026-06-17/tas-jeremy-rockliff-announcement-cabinet-roger-jaensch/106807032",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-16T23:50:33+00:00",
+      "score": 12,
+      "summary": "Tasmanian Premier Jeremy Rockliff announces a reshuffle of his cabinet, following the resignation of former racing minister Jane Howlett on Tuesday.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Roger",
+        "Jaensch",
+        "Tasmanian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Prince George heading to Eton College to continue education",
       "link": "https://www.abc.net.au/news/2026-06-17/prince-george-heading-to-eton-college-to-continue-education/106806668",
@@ -19797,56 +19907,25 @@
       ],
       "trend_accel": "+59%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Two arrested during investigation into Dezi Freeman\u2019s movements as police reveal killer likely travelled to NSW",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/16/dezi-freeman-porepunkah-police-shooter-arrests-victoria-nsw-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-06-16T06:37:13+00:00",
+      "title": "Japan exports in May grow at fastest pace in more than three years, beating estimates",
+      "link": "https://www.cnbc.com/2026/06/17/japan-trade-data-may-exports-imports.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-16T23:59:01+00:00",
       "score": 12,
-      "summary": "Victoria and NSW police search seven properties as they examine where shooter travelled after killing two officers in PorepunkahTwo more men have been arrested as police continue their investigation into Porepunkah shooter Dezi Freeman\u2019s months on the run after he killed two p...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Dezi",
-        "Freemans",
-        "NSW"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Strait of Hormuz transit will take \u2018weeks\u2019 to resume, largest tanker operator tells sources",
-      "link": "https://www.thehindu.com/news/international/strait-of-hormuz-transit-will-take-weeks-to-resume-largest-tanker-operator-tells-sources/article71107905.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-16T11:52:39+05:30",
-      "score": 14,
-      "summary": "Mitsui O.S.K., one of Japan\u2019s big three shipping firms, has a fleet of more \u200bthan 900 vessels, including \u200cbulk carriers, tankers and ferries",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "Strategic intelligence signal ingested from CNBC.",
+      "country": "Japan",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Hormuz"
+        "May"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19857,48 +19936,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "CNBC"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Strike on UNESCO-listed cathedral leaves another cultural scar on Ukraine",
-      "link": "https://www.abc.net.au/news/2026-06-16/kyiv-pechersk-lavra-monastery-russia-attack-ukraine-war-unesco/106802224",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-16T06:21:23+00:00",
-      "score": 14,
-      "summary": "The historic Dormition Cathedral of the Kyiv-Pechersk Lavra suffered \"extensive\" damage in an attack Ukraine says was targeted at erasing its cultural heritage and identity.",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [
-        "UNESCOlisted",
-        "Ukraine"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Wednesday's big stock stories: What\u2019s likely to move the market in the next trading session",
       "link": "https://www.cnbc.com/2026/06/16/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
@@ -26421,24 +26463,24 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Sebi revamps ETF trading framework, introduces dynamic price bands",
-      "link": "https://www.livemint.com/market/sebi-revamps-etf-trading-framework-introduces-dynamic-price-bands-mfs-11781529737086.html",
-      "source": "Livemint",
-      "timestamp": "2026-06-15T20:17:16+05:30",
-      "score": 12,
-      "summary": "Currently, equity, debt and commodity ETFs are subject to a fixed 20% price limit, while overnight ETFs operate with a 5% band. These bands are applied on a base price derived from the ETF's net asset value (NAV) two trading days ago (T-2).",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "New method enables accurate sequencing of short peptides hidden in food and human body",
+      "link": "https://phys.org/news/2026-06-method-enables-accurate-sequencing-short.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-16T20:00:07-04:00",
+      "score": 10,
+      "summary": "Our food and our bodies are full of tiny protein fragments called peptides. These small chains of amino acids act as biological messengers, influencing processes ranging from sensory perception to physiological functions.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "ETF"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26448,13 +26490,40 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "Vertical marine heat wave study offers classification scheme for coastal resource management",
+      "link": "https://phys.org/news/2026-06-vertical-marine-classification-scheme-coastal.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-16T20:00:04-04:00",
+      "score": 10,
+      "summary": "Marine heat waves (MHWs) are events characterized by prolonged warm coastal and ocean conditions with wide-ranging impacts on ecosystem health and associated industries. While research on MHWs has historically relied on surface-water data from satellite observations and buoy r...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "AI can clone your voice. Why that's powerful\u2014and dangerous",
       "link": "https://phys.org/news/2026-06-ai-clone-voice-powerful-dangerous.html",
@@ -32603,70 +32672,6 @@
         "Reuters"
       ],
       "trend_accel": "+62%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Damaged boreal peatlands may triple methane emissions, reshaping climate risk",
-      "link": "https://phys.org/news/2026-06-boreal-peatlands-triple-methane-emissions.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-14T10:00:02-04:00",
-      "score": 10,
-      "summary": "A new study reveals that, for the first time, areas of Canada's boreal peatlands damaged by oil and gas exploration have failed to recover as scientists and companies predicted and instead have led to a tripling of methane emissions, with global implications. The study, \"Incre...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 12,
-      "sources_reporting": [
-        "AP",
-        "Guardian",
-        "NPR",
-        "Phys.org"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Chemical impurities make carbon surfaces superslippery, researchers find",
-      "link": "https://phys.org/news/2026-06-chemical-impurities-carbon-surfaces-superslippery.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-14T09:00:05-04:00",
-      "score": 10,
-      "summary": "Engineers often treat impurities as a problem to eliminate to improve material performance. But new research from Osaka Metropolitan University and Fraunhofer Institute for Mechanics of Materials IWM suggests that in some cases, a little chemical messiness is exactly what help...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 11,
-      "sources_reporting": [
-        "AP",
-        "NPR",
-        "PBS",
-        "Phys.org"
-      ],
-      "trend_accel": "+64%",
       "heat_level": "HOT"
     }
   ],
@@ -39307,6 +39312,134 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Girls Like Girls\u2019 Review: Hayley Kiyoko Makes a Warmly Assured Directorial Debut, Awash in Adolescent Melancholy and Yearning",
+      "link": "https://variety.com/2026/film/news/girls-like-girls-review-hayley-kiyoko-1236782690/",
+      "source": "Variety",
+      "timestamp": "2026-06-17T00:00:26+00:00",
+      "score": 12,
+      "summary": "The adaptation trail of \u201cGirls Like Girls\u201d is an unusual one. In 2015, pop singer Hayley Kiyoko released her hyper-catchy pop song of the same name, bringing a plainly worded statement of lesbian desire \u2014 \u201cgirls like girls like boys do\u201d \u2014 into the viral mainstream, with an acc...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Like",
+        "Girls",
+        "Review",
+        "Hayley",
+        "Kiyoko",
+        "Makes",
+        "Warmly",
+        "Assured",
+        "Directorial",
+        "Debut",
+        "Awash",
+        "Adolescent",
+        "Melancholy",
+        "Yearning"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Girls Like Girls\u2019 Review: Hayley Kiyoko\u2019s Confident Feature Debut Captures the Giddy Thrills and Crushing Devastations of First Love",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/girls-like-girls-review-hayley-kiyoko-1236618763/",
+      "source": "THR",
+      "timestamp": "2026-06-17T00:00:00+00:00",
+      "score": 12,
+      "summary": "Zach Braff co-stars in the coming-of-age drama about two teenage girls who fall for each other over the summer break, inspired by Kiyoko's own 2015 song of the same title.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Like",
+        "Girls",
+        "Review",
+        "Hayley",
+        "Kiyokos",
+        "Confident",
+        "Feature",
+        "Debut",
+        "Captures",
+        "Giddy",
+        "Thrills",
+        "Crushing",
+        "Devastations",
+        "First",
+        "Love"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Sean \u201cDiddy\u201d Combs\u2019 Prison Release Date Has Been Moved Up, Again",
+      "link": "https://www.hollywoodreporter.com/news/general-news/sean-diddy-combs-prison-release-date-moved-up-1236623791/",
+      "source": "THR",
+      "timestamp": "2026-06-16T23:57:50+00:00",
+      "score": 14,
+      "summary": "The rap mogul is serving 50 months for Mann Act violations as his attorneys attempt to have his conviction after a split verdict overturned because they say the judge overstepped in sentencing.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Diddy",
+        "Combs",
+        "Prison",
+        "Release",
+        "Date",
+        "Has",
+        "Been",
+        "Moved",
+        "Again"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Mystikal Sentenced to 20 Years in Prison After Pleading Guilty in Rape Case",
       "link": "https://www.rollingstone.com/music/music-news/mystikal-sentenced-20-years-prison-guilty-plea-rape-1235579237/",
@@ -47198,31 +47331,29 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "Inside APOS 2026: AI, Microdramas and the Future of Asian Streaming Take Center Stage in Bali",
-      "link": "https://variety.com/2026/tv/news/apos-2026-preview-netflix-prime-video-disney-wbd-1236781783/",
-      "source": "Variety",
-      "timestamp": "2026-06-16T00:00:00+00:00",
-      "score": 17,
-      "summary": "The chiefs of Asia-Pacific operations for Netflix, Prime Video, Walt Disney and Warner Bros. Discovery will share a stage at APOS 2026, as the annual summit convenes June 16-18 in Bali. The four executives \u2013 Netflix VP of content for APAC excluding India Minyoung Kim, Prime Vi...",
+      "title": "Climbing Trees With the Star Arborists of Central Park",
+      "link": "https://www.vogue.com/article/climbing-trees-with-the-star-arborists-of-central-park",
+      "source": "Vogue",
+      "timestamp": "2026-06-16T23:54:32+00:00",
+      "score": 12,
+      "summary": "Get to know the tree care team at Central Park, who became unexpected social media stars this spring.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Entertainment",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "APOS",
-        "Microdramas",
-        "Future",
-        "Asian",
-        "Streaming",
-        "Take",
-        "Center",
-        "Stage",
-        "Bali"
+        "Trees",
+        "Star",
+        "Arborists",
+        "Central",
+        "Park"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -47231,92 +47362,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "Variety"
+        "Vogue"
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Smashing Pumpkins, Chris Stapleton to Perform America\u2019s Block Party Benefit Concert",
-      "link": "https://www.rollingstone.com/music/music-news/smashing-pumpkins-chris-stapleton-america250-benefit-show-1235578269/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-06-15T23:54:44+00:00",
-      "score": 12,
-      "summary": "Proceeds after fees from tickets for the Fourth of July event in Los Angeles will benefit Feeding America",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pumpkins",
-        "Chris",
-        "Stapleton",
-        "Perform",
-        "Americas",
-        "Block",
-        "Party",
-        "Benefit",
-        "Concert"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Bruce Willis' Wife Emma Clarifies Misconception About His Dementia",
-      "link": "https://www.eonline.com/news/1433014/bruce-willis-wife-says-frontotemporal-dementia-doesnt-affect-his-memory?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-06-15T23:50:25+00:00",
-      "score": 12,
-      "summary": "Emma Heming Willis is correcting the narrative around Bruce Willis\u2019 diagnosis. Three years after his family announced that the Die Hard actor had been diagnosed with frontotemporal dementia (FTD),...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Willis",
-        "Wife",
-        "Emma",
-        "Clarifies",
-        "Misconception",
-        "About",
-        "His",
-        "Dementia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
     {
       "title": "Josh O\u2019Connor Tied His Own Ties on the 'Disclosure Day' Press Tour",
       "link": "https://www.gq.com/story/josh-oconnor-disclosure-day-stylist-jason-bolden-interview",
@@ -52585,39 +52637,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Niall Horan Is Savoring It All",
-      "link": "https://www.vogue.com/article/niall-horan-dinner-party-interview",
-      "source": "Vogue",
-      "timestamp": "2026-06-09T23:52:08+00:00",
-      "score": 12,
-      "summary": "Horan talks about writing love songs, his retro musical inspirations, and preparing to go on the road again.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Horan",
-        "Savoring",
-        "All"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -52650,6 +52669,40 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.0 - 57 km NNE of White Mountain, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026lwlpcr",
+      "source": "USGS",
+      "timestamp": "2026-06-17T00:01:08.434000+00:00",
+      "score": 17,
+      "summary": "Time2026-06-16 23:57:44 UTC2026-06-16 23:57:44 UTC at epicenterLocation65.186\u00b0N 163.170\u00b0WDepth10.90 km (6.77 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "White",
+        "Mountain",
+        "Alaska"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
       "heat_level": "LOW"
     },
     {
@@ -59174,39 +59227,6 @@
         "USGS"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.7 - South Sandwich Islands region",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st7s",
-      "source": "USGS",
-      "timestamp": "2026-06-15T22:55:01.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-15 22:38:35 UTC2026-06-15 22:38:35 UTC at epicenterLocation55.342\u00b0S 26.525\u00b0WDepth10.00 km (6.21 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "South",
-        "Sandwich",
-        "Islands"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ]
