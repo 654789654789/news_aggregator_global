@@ -11175,7 +11175,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.9,
+      "trend_score": 9.8,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -13199,6 +13199,39 @@
     }
   ],
   "World": [
+    {
+      "title": "Cycling star to miss Tour de France in major blow to Vingegaard's hopes",
+      "link": "https://www.abc.net.au/news/2026-06-18/tour-de-france-wout-van-aert-confirmed-out-with-elbow-injury/106812318",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-17T23:32:49+00:00",
+      "score": 12,
+      "summary": "Wout van Aert confirms he will miss this year's Tour de France after injuring his elbow.",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tour",
+        "France",
+        "Vingegaards"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Australia news live: nonstop Sydney-London flights delayed again; Virginia Trioli to leave ABC after 27 years",
       "link": "https://www.theguardian.com/australia-news/live/2026/jun/18/australia-news-live-non-stop-sydney-london-flights-qantas-one-nation-pauline-hanson-labor-anthony-albanese-economy-cost-of-living-ntwnfb",
@@ -19908,38 +19941,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Gold Coast Suns hit with massive fine for umpire contact",
-      "link": "https://www.abc.net.au/news/2026-06-17/afl-gold-coast-suns-fined-for-umpire-contact/106810758",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-17T08:06:51+00:00",
-      "score": 12,
-      "summary": "The AFL hands down a fine to the Suns after the club's fifth incident this season of a player making careless contact with an umpire.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Coast",
-        "Suns"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -26552,6 +26553,35 @@
   ],
   "Science": [
     {
+      "title": "'Youniversalism' measures growing reliance on personal truth",
+      "link": "https://phys.org/news/2026-06-youniversalism-reliance-personal-truth.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-17T19:40:02-04:00",
+      "score": 10,
+      "summary": "It has often been suggested that we now live in a \"post-truth\" world. People increasingly rely on their own feelings as a yardstick for what is true. Psychologists at the University of Amsterdam (UvA) have now developed the \"Youniversalism\" scale to allow them to measure peopl...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Hidden mitochondrial genes emerge as mealybugs encode two genes on one DNA stretch",
       "link": "https://phys.org/news/2026-06-hidden-mitochondrial-genes-emerge-mealybugs.html",
       "source": "Phys.org",
@@ -32725,22 +32755,30 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Sports": [
     {
-      "title": "Climate compensation isn't always enough for landowners",
-      "link": "https://phys.org/news/2026-06-climate-compensation-isnt-landowners.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-15T19:20:01-04:00",
-      "score": 10,
-      "summary": "At first glance, it looks like a simple calculation. The state offers compensation. The climate demands action. Low-lying soils must be restored as wetlands. Yet landowners hesitate. According to anthropologist and Ph.D. student Kasper Krabbe from the Department of Agroecology...",
+      "title": "Knicks to become first NBA champion to visit Trump White House, Dolan says",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY0pzQWtNcEdNX3RvZjgwbkhlazRLYnJ1NWV3eXFWQV82aVZXNzhUQXIzSFF1SXp3SlRBSTNEY3ZJR3F3OGw1cGp0NUwyOXhKWmFKZnRLSk5fdmtra3Z6R1RqX18zb1ctWEVUS1l1ZzJLWVNwcko2aHJNa0cyUmh2UHc5WDRJRURGMW5RTGNRSG0tR0hMdzlkUWZaYjFueTdlNTQzQy1WMFdjNEdJMEZXVA?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-06-17T23:33:00+00:00",
+      "score": 12,
+      "summary": "Knicks to become first NBA champion to visit Trump White House, Dolan says USA TodayKnicks accepted invitation to visit Trump at White House, owner James Dolan says CBS NewsJose Alvarado shares thoughts on potential Knicks White House visit Yahoo SportsKnicks Owner Says He Acc...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "NBA",
+        "Trump",
+        "White",
+        "House",
+        "Dolan"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -32748,15 +32786,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "Phys.org"
+        "Google News"
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Sports": [
+    },
     {
       "title": "Burrow: Bengals have same vibes as LSU title team",
       "link": "https://www.espn.com/nfl/story/_/id/49098918/burrow-says-bengals-remind-2019-national-champion-lsu",
@@ -34361,7 +34397,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.4,
+      "trend_score": 8.3,
       "source_count": 14,
       "sources_reporting": [
         "Bloomberg",
@@ -34370,7 +34406,7 @@
         "NHK",
         "NPR"
       ],
-      "trend_accel": "+69%",
+      "trend_accel": "+68%",
       "heat_level": "SURGING"
     },
     {
@@ -39377,35 +39413,34 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Everything Wemby Said After Game 4 Collapse vs. Knicks, Says 'Greediness' Contributed to Spurs Loss - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSmNZb0dNU0JLRUl0cF9oWFM3VllXeUhQendseVJnU0s1UTRvZnFOb2RqajhYNDJGRE9jVWtIRjB4RUpOQ0lkZEo0dWN3MkM1eE5pSjhaaGRJMk1QSFlJNnEzTnYtRHlWV1pqNjh6aTJTajJjbGNFeFRwOXpUUjNHV3lOcmhlUmk1dHBRZmN1XzJma21YQ01aWExfekhuWUZKdDFNWEhqbjRlQjZTcWRpcVlReEtkdzNUcy1HdFRFMmN5SEFQTmh3Z2IzaW02ZzdOYkVn?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-11T05:08:41+00:00",
-      "score": 17,
-      "summary": "Everything Wemby Said After Game 4 Collapse vs. Knicks, Says 'Greediness' Contributed to Spurs Loss Bleacher ReportShould the Knicks be worried after Victor Wembanyama halted their momentum? Here's what history tells us Yahoo SportsVictor Wembanyama misses 2 late free throws i...",
+      "title": "Knicks Will Visit Trump At White House To Celebrate Championship, Says James Dolan",
+      "link": "https://deadline.com/2026/06/knicks-trump-white-house-visit-1236958741/",
+      "source": "Deadline",
+      "timestamp": "2026-06-17T23:41:11+00:00",
+      "score": 12,
+      "summary": "\u201cWe just did receive an invitation from the White House, which we accepted,\u201d said New York Knicks owner James Dolan on WFAN this afternoon. The announcement is news because only two of the past 10 NBA Champions have visited 1600 Pennsylvania Avenue. The Oklahoma City Thunder, ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Aggregator",
+      "source_type": "Entertainment",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Wemby",
-        "Said",
-        "After",
-        "Game",
-        "Collapse",
-        "Knicks",
+        "Will",
+        "Visit",
+        "Trump",
+        "White",
+        "House",
+        "Celebrate",
+        "Championship",
         "Says",
-        "Greediness",
-        "Contributed",
-        "Spurs",
-        "Loss",
-        "Bleacher",
-        "Report"
+        "James",
+        "Dolan"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -39414,15 +39449,54 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Google News"
+        "Deadline"
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
+    {
+      "title": "Tom Holland Speaks Out on AI and Why Artists Are \u2018Safe\u2019: \u2018Creativity Has to Do With the Human Experience\u2019",
+      "link": "https://variety.com/2026/film/news/tom-holland-ai-artists-human-1236784500/",
+      "source": "Variety",
+      "timestamp": "2026-06-17T23:39:16+00:00",
+      "score": 14,
+      "summary": "Tom Holland is sharing his thoughts on the hot-button topic of AI, and he\u2019s not shy about explaining why it \u201cdoesn\u2019t have a soul.\u201d \u201cCreativity is safe from AI because creativity has to do with the human experience,\u201d Holland said while appearing on Spain\u2019s \u201cEl Hormiguero\u201d talk ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Holland",
+        "Speaks",
+        "Out",
+        "Why",
+        "Artists",
+        "Are",
+        "Safe",
+        "Creativity",
+        "Has",
+        "Human",
+        "Experience"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Key and Peele\u2019s Plan to Reboot \u2018Police Academy\u2019 Got Canceled After Michael Brown Killed in Ferguson, Says Ike Barinholtz",
       "link": "https://variety.com/2026/film/news/key-and-peele-police-academy-reboot-canceled-michael-brown-1236784494/",
@@ -47331,92 +47405,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Bruce Springsteen Dedicates Harry Belafonte Social Justice Award to Minneapolis, L.A., Portland Citizens \u201cWho Stood Against the Federal Invasion of Their Cities\u201d",
-      "link": "https://www.hollywoodreporter.com/music/music-news/bruce-springsteen-overcoming-division-de-niro-tonys-intro-1236623644/",
-      "source": "THR",
-      "timestamp": "2026-06-16T22:01:59+00:00",
-      "score": 14,
-      "summary": "The legendary musician spoke with Bono at the Tribeca Festival about their music and activism before the duo joined Patti Smith on a rousing rendition of \"People Have the Power.\"",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Springsteen",
-        "Dedicates",
-        "Harry",
-        "Belafonte",
-        "Social",
-        "Justice",
-        "Award",
-        "Minneapolis",
-        "Portland",
-        "Citizens",
-        "Who",
-        "Stood",
-        "Against",
-        "Federal",
-        "Invasion",
-        "Their",
-        "Cities"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Shrek 5\u2019 Teaser Trailer Offers The Film\u2019s First Plot Reveals",
-      "link": "https://deadline.com/2026/06/shrek-5-teaser-trailer-plot-reveals-1236957768/",
-      "source": "Deadline",
-      "timestamp": "2026-06-16T21:58:00+00:00",
-      "score": 17,
-      "summary": "For the first time in 16 years, Shrek and Donkey are setting out on a new adventure. And now, thanks to a just-released teaser trailer, were getting a sense of what that adventure will entail. Plot points for Shrek 5 have been kept quiet, but the teaser indicates the film invo...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Teaser",
-        "Trailer",
-        "Offers",
-        "Films",
-        "First",
-        "Plot",
-        "Reveals"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52956,6 +52944,70 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 11 km N of Ackerly, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026lwjcgr",
+      "source": "USGS",
+      "timestamp": "2026-06-17T23:36:31.100000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-17 23:32:35 UTC2026-06-17 23:32:35 UTC at epicenterLocation32.630\u00b0N 101.716\u00b0WDepth0.00 km (0.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ackerly",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 16 km E of Balmorhea, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026lwjbiq",
+      "source": "USGS",
+      "timestamp": "2026-06-17T23:34:54.402000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-17 23:31:32 UTC2026-06-17 23:31:32 UTC at epicenterLocation30.976\u00b0N 103.568\u00b0WDepth0.00 km (0.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Balmorhea",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
@@ -59491,69 +59543,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 17 km NE of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74984192",
-      "source": "USGS",
-      "timestamp": "2026-06-17T01:12:32.320000+00:00",
-      "score": 17,
-      "summary": "Time2026-06-17 01:08:53 UTC2026-06-17 01:08:53 UTC at epicenterLocation19.299\u00b0N 155.344\u00b0WDepth29.44 km (18.29 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.3 - 7 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75378186",
-      "source": "USGS",
-      "timestamp": "2026-06-17T01:05:27.315000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-17 01:03:53 UTC2026-06-17 01:03:53 UTC at epicenterLocation38.812\u00b0N 122.819\u00b0WDepth3.59 km (2.23 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
       "heat_level": "LOW"
     }
   ]
