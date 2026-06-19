@@ -1,6 +1,44 @@
 {
   "Politics": [
     {
+      "title": "Israel Is Likely to Continue Attacks in Lebanon, U.S. Intelligence Concludes",
+      "link": "https://www.nytimes.com/2026/06/19/us/politics/israel-lebanon-trump-cease-fire.html",
+      "source": "NYT",
+      "timestamp": "2026-06-19T20:51:41+00:00",
+      "score": 12,
+      "summary": "The new cease-fire between the United States and Iran calls for an end to fighting in Lebanon, but U.S. intelligence officials do not expect Israel to halt its strikes on Hezbollah.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Likely",
+        "Continue",
+        "Attacks",
+        "Lebanon",
+        "Intelligence",
+        "Concludes"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Judge rejects Biden's attempt to halt release of special counsel inquiry transcripts",
       "link": "https://www.pbs.org/newshour/politics/judge-rejects-bidens-attempt-to-halt-release-of-special-counsel-inquiry-transcripts",
       "source": "PBS",
@@ -5791,7 +5829,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.9,
+      "trend_score": 8.8,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -6585,26 +6623,24 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Telegram ban verdict LIVE | Delhi High court declines relief; upholds govt.'s decision for temporary ban",
-      "link": "https://www.thehindu.com/news/national/delhi-high-court-verdict-on-temporary-telegram-ban-in-india-neet-ug-exam-paper-leak-live-updates-june-19-2026/article71120715.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-19T10:42:18+05:30",
-      "score": 12,
-      "summary": "Delhi High Court said centre followed all norms and due process",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Aura\u2019s impressive e-ink photo frame doesn\u2019t even look digital",
+      "link": "https://techcrunch.com/2026/06/19/auras-impressive-e-ink-photo-frame-doesnt-even-look-digital/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-19T21:00:34+00:00",
+      "score": 10,
+      "summary": "What\u2019s the most cliche possible gift you can give a relative? A digital photo frame, displaying a rotating slideshow of family photos. Now Aura has completely refreshed this product space with its gorgeous Aura Ink frame, which uses e-ink to create a display that doesn\u2019t even ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "LIVE",
-        "Delhi",
-        "High"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6612,15 +6648,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "NASA selects Eric Schmidt\u2019s rocket company for a 2028 mission to Mars",
       "link": "https://www.theverge.com/science/952988/nasa-relativity-space-eric-schmidt-mars",
@@ -13175,22 +13209,27 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "UK unveils sweeping social media ban for users under 16",
-      "link": "https://techcrunch.com/2026/06/15/uk-unveils-sweeping-social-media-ban-for-users-under-16/",
-      "source": "TechCrunch",
-      "timestamp": "2026-06-15T14:36:56+00:00",
-      "score": 13,
-      "summary": "The ban would apply to a range of social media platforms including Snapchat, TikTok, YouTube, Instagram, Facebook and X.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Eknath Shinde on rebellion: This is just trailer, picture baki hai",
+      "link": "https://timesofindia.indiatimes.com/india/eknath-shinde-on-rebellion-this-is-just-trailer-picture-baki-hai/articleshow/131866604.cms",
+      "source": "Times of India",
+      "timestamp": "2026-06-20T02:20:57+05:30",
+      "score": 14,
+      "summary": "Maharashtra Deputy CM Eknath Shinde issued a veiled warning to Shiv Sena UBT, stating that the recent departure of six MPs is merely a prelude to further defections. He confidently asserted that his faction is growing, while Shiv Sena UBT is losing its support base. Shinde cri...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Shinde",
+        "This"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13198,20 +13237,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 12,
+      "source_count": 5,
       "sources_reporting": [
-        "Bloomberg",
-        "NHK",
-        "PBS",
-        "TechCrunch",
-        "Verge",
-        "Wired"
+        "Times of India"
       ],
-      "trend_accel": "+79%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "World": [
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "US\u2013Iran talks are put on hold as fighting escalates in Lebanon",
       "link": "https://www.npr.org/2026/06/19/nx-s1-5864185/us-iran-talks-are-put-on-hold-as-fighting-escalates-in-lebanon",
@@ -19905,27 +19937,28 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Tropical Storm Arthur downgraded from cyclone as it makes landfall in Texas",
-      "link": "https://www.theguardian.com/us-news/2026/jun/18/tropical-storm-arthur-downgraded",
-      "source": "Guardian",
-      "timestamp": "2026-06-18T22:33:58+00:00",
-      "score": 12,
-      "summary": "Several inches of rain expected in south-eastern US as forecasters expect storm to cause life-threatening floodingTropical Storm Arthur was downgraded from a cyclone to a low pressure area along the upper Texas coast as it made landfall and lost wind intensity on Thursday.Fore...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "Trump unveils the new Air Force One, a converted Qatari jet",
+      "link": "https://www.cnbc.com/2026/06/19/trump-unveils-the-new-air-force-one-a-converted-qatari-jet.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-19T20:58:30+00:00",
+      "score": 14,
+      "summary": "The gift from Qatar is serving as a so-called \"bridge\" aircraft to carry the president until the new planes ordered directly from Boeing arrive.",
+      "country": "Qatar",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Storm",
-        "Arthur",
-        "Texas"
+        "Air",
+        "Force",
+        "One",
+        "Qatari"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19934,15 +19967,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "Guardian"
+        "CNBC"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "John Jumper to leave Google DeepMind for Anthropic",
       "link": "https://www.cnbc.com/2026/06/19/john-jumper-to-leave-google-deepmind-for-anthropic.html",
@@ -26458,25 +26489,24 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Intel surges 9% after Trump says company will partner with Apple on U.S. chip design",
-      "link": "https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-18T09:18:51+00:00",
-      "score": 15,
-      "summary": "The boost continues Intel's recent rally as the chipmaker bounces back from years of headwinds.",
+      "title": "Europe swelters as more heat records set to tumble",
+      "link": "https://phys.org/news/2026-06-europe-swelters.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-19T17:00:01-04:00",
+      "score": 10,
+      "summary": "Much of Western Europe was sweltering in a grueling heat wave on Friday, with the mercury expected to continue rising in the coming days, likely shattering yet more temperature records.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Trump",
-        "Apple"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26484,15 +26514,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+54%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Competition from Chinese imports is causing CO\u2082 emissions to rise globally, research reveals",
       "link": "https://phys.org/news/2026-06-competition-chinese-imports-emissions-globally.html",
@@ -32663,35 +32691,6 @@
         "The Hindu"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tracing a neutrino ghost to a distant 'shadow blaster' galaxy",
-      "link": "https://phys.org/news/2026-06-neutrino-ghost-distant-shadow-blaster.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-17T05:00:01-04:00",
-      "score": 10,
-      "summary": "Neutrinos are one of the fundamental particles of the universe. They live a ghostly existence with no electric charge, very little mass and extremely few interactions with matter. They are also the most abundant particles with mass in the universe and can be created through a ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -39397,6 +39396,46 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Joseph Gordon-Levitt, Sophia Bush Defend Ties to Peter Thiel\u2019s Secretive Dialog Group",
+      "link": "https://www.hollywoodreporter.com/news/general-news/joseph-gordon-levitt-sophia-bush-peter-thiel-dialog-group-1236626309/",
+      "source": "THR",
+      "timestamp": "2026-06-19T20:47:33+00:00",
+      "score": 12,
+      "summary": "After a leaked directory exposed their membership in Dialog \u2014 Peter Thiel's invitation-only ideas forum \u2014 celebrities are speaking out.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "GordonLevitt",
+        "Sophia",
+        "Bush",
+        "Defend",
+        "Ties",
+        "Peter",
+        "Thiels",
+        "Secretive",
+        "Dialog",
+        "Group"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Prince William Reveals He Uses \"Disguise\" for This Secret Hobby",
       "link": "https://www.eonline.com/news/1433174/prince-william-uses-disguise-for-motorcycle-bike-riding?cmpid=rss-syndicate-genericrss-us-top_stories",
@@ -47351,45 +47390,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Maggie Rogers Says Journalist Took Her on Date While Having Girlfriend",
-      "link": "https://www.eonline.com/news/1433129/maggie-rogers-says-new-york-times-reporter-had-girlfriend-asked-her-out?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-06-18T18:01:33+00:00",
-      "score": 12,
-      "summary": "Maggie Rogers had a bad date in a past life. That\u2019s what she told Rosal\u00eda during the \u201cLa Perla\u201d singer\u2019s concert at Madison Square Garden on June 16. In a confession during the performance, the...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rogers",
-        "Says",
-        "Journalist",
-        "Took",
-        "Her",
-        "Date",
-        "While",
-        "Having",
-        "Girlfriend"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52227,42 +52227,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Happy Birthday, Mary-Kate and Ashley\u2014Shop Their Best Looks",
-      "link": "https://www.vogue.com/mary-kate-and-ashley-best-looks",
-      "source": "Vogue",
-      "timestamp": "2026-06-12T20:56:05+00:00",
-      "score": 12,
-      "summary": "The Olsen twins' style has become synonymous with individuality and creativity. In honor of their birthday, shop their best looks of all time.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Birthday",
-        "MaryKate",
-        "AshleyShop",
-        "Their",
-        "Best",
-        "Looks"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -52295,6 +52259,72 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.8 - 5 km WNW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75379801",
+      "source": "USGS",
+      "timestamp": "2026-06-19T21:00:08.496000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-19 20:58:30 UTC2026-06-19 20:58:30 UTC at epicenterLocation38.794\u00b0N 122.808\u00b0WDepth3.82 km (2.37 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.0 - 26 km SSW of Trapper Creek, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mbtlhj",
+      "source": "USGS",
+      "timestamp": "2026-06-19T20:53:11.643000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-19 20:51:37 UTC2026-06-19 20:51:37 UTC at epicenterLocation62.101\u00b0N 150.445\u00b0WDepth9.40 km (5.84 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Trapper",
+        "Creek",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
@@ -58773,72 +58803,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 1 km SSE of Loma Linda, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41489936",
-      "source": "USGS",
-      "timestamp": "2026-06-18T16:26:44.208000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-18 16:04:01 UTC2026-06-18 16:04:01 UTC at epicenterLocation34.036\u00b0N 117.257\u00b0WDepth14.88 km (9.25 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Loma",
-        "Linda"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 2 km SSE of Loma Linda, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41489936",
-      "source": "USGS",
-      "timestamp": "2026-06-18T16:07:35.706000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-18 16:04:01 UTC2026-06-18 16:04:01 UTC at epicenterLocation34.034\u00b0N 117.258\u00b0WDepth14.28 km (8.87 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Loma",
-        "Linda"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
