@@ -304,7 +304,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.0,
+      "trend_score": 10.9,
       "source_count": 18,
       "sources_reporting": [
         "AP",
@@ -314,7 +314,7 @@
         "PBS",
         "The Hill"
       ],
-      "trend_accel": "+82%",
+      "trend_accel": "+81%",
       "heat_level": "CRITICAL"
     },
     {
@@ -377,7 +377,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.0,
+      "trend_score": 10.9,
       "source_count": 19,
       "sources_reporting": [
         "AP",
@@ -387,7 +387,7 @@
         "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+86%",
+      "trend_accel": "+85%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13232,6 +13232,47 @@
   ],
   "World": [
     {
+      "title": "Israel Commits to New Lebanon Cease-Fire, Ambassador Says, but Troops Will Remain",
+      "link": "https://www.nytimes.com/live/2026/06/19/world/iran-trump-deal",
+      "source": "NYT",
+      "timestamp": "2026-06-20T01:09:01+00:00",
+      "score": 14,
+      "summary": "The fighting between Israel and Hezbollah in Lebanon had delayed the next stage of talks to end the U.S.-Iranian war. Hezbollah did not immediately comment.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Commits",
+        "New",
+        "Lebanon",
+        "CeaseFire",
+        "Ambassador",
+        "Says",
+        "Troops",
+        "Will",
+        "Remain"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "'He got that wrong': Schwarzer says selection mistakes cost Socceroos",
       "link": "https://www.abc.net.au/news/2026-06-20/socceroos-selection-against-usa-desperately-wrong-schwarzer/106822682",
       "source": "ABC Australia",
@@ -19933,38 +19974,6 @@
         "ABC Australia"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Australia news live: Tony Modra still in critical condition as wife thanks first responders after truck accident; third man charged over synagogue fire",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jun/19/news-live-australia-ukraine-jim-chalmers-anthony-albanese-capital-gains-tax-concessions-business-pauline-hanson-one-nation-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-06-19T02:46:31+00:00",
-      "score": 12,
-      "summary": "Follow today\u2019s news live\u2022 Get our breaking news email, free app or daily news podcastThere were two small earthquakes in New South Wales this morning, according to Geoscience Australia.A 3.4 magnitude quake hit near Orange around 5.45am this morning, with at least 108 people r...",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tony",
-        "Modra"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ],
@@ -32739,6 +32748,37 @@
   ],
   "Sports": [
     {
+      "title": "Rory 7 back, says anything possible at Shinnecock",
+      "link": "https://www.espn.com/golf/story/_/id/49121572/mcilroy-7-back-us-open-says-anything-possible-shinnecock",
+      "source": "ESPN",
+      "timestamp": "2026-06-19T21:02:03-05:00",
+      "score": 15,
+      "summary": "Rory McIlroy, who posted a 1-over 71 to fall to even par after 36 holes at the U.S. Open on Friday, says seven shots isn't too much to make up at Shinnecock Hills Golf Club.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Shinnecock"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ESPN"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Source: Big 12 monitoring Sorsby fallout, options",
       "link": "https://www.espn.com/college-football/story/_/id/49121275/big-12-no-rush-pull-lawsuit-vs-texas-tech-brendan-sorsby-eligibility",
       "source": "ESPN",
@@ -39403,25 +39443,32 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Sources: Kentucky targeting Michigan St. AD Batt",
-      "link": "https://www.espn.com/college-sports/story/_/id/49054037/kentucky-targeting-michigan-state-ad-j-batt-sources-say",
-      "source": "ESPN",
-      "timestamp": "2026-06-13T19:56:25-05:00",
+      "title": "John Turturro Walked Across the Brooklyn Bridge So He Could Be at the Knicks Parade",
+      "link": "https://www.hollywoodreporter.com/news/general-news/john-turturro-knicks-parade-spike-lee-jalen-brunson-1236626403/",
+      "source": "THR",
+      "timestamp": "2026-06-20T01:01:37+00:00",
       "score": 12,
-      "summary": "Kentucky has targeted Michigan State athletic director J Batt to be the school's new athletic director, sources said.",
+      "summary": "Brunson-level grit from 'The Night Of' actor.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Sports Publication",
+      "source_type": "Entertainment",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Kentucky",
-        "Michigan",
-        "Batt"
+        "Turturro",
+        "Walked",
+        "Across",
+        "Brooklyn",
+        "Bridge",
+        "Could",
+        "Knicks",
+        "Parade"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -39432,13 +39479,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "ESPN"
+        "THR"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
     {
       "title": "\u2018The Young and the Restless\u2019 Crossover Gives \u2018Beyond the Gates\u2019 Its Third-Best Week of Ratings Ever (EXCLUSIVE)",
       "link": "https://variety.com/2026/tv/news/the-young-and-restless-beyond-the-gates-crossover-ratings-1236786214/",
@@ -47412,46 +47457,6 @@
         "THR"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018What\u2019s Eating Gilbert Grape\u2019 Stage Musical Sets 2027 Off Broadway World Premiere",
-      "link": "https://deadline.com/2026/06/whats-eating-gilbert-grape-stage-musical-1236959519/",
-      "source": "Deadline",
-      "timestamp": "2026-06-18T19:53:34+00:00",
-      "score": 15,
-      "summary": "What\u2019s Eating Gilbert Grape, Peter Hedges\u2019 1991 novel that was adapted by Lasse Hallstr\u00f6m into a 1993 hit film starring Johnny Depp, Leonardo DiCaprio and Juliette Lewis, is being transformed once again, this time as a stage musical that will have its world premiere Off Broadw...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Eating",
-        "Gilbert",
-        "Grape",
-        "Stage",
-        "Musical",
-        "Sets",
-        "Off",
-        "Broadway",
-        "World",
-        "Premiere"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
