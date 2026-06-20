@@ -13172,6 +13172,40 @@
   ],
   "World": [
     {
+      "title": "Zelenskyy warns of impending massive Russian attack on Ukraine",
+      "link": "https://www.thehindu.com/news/international/zelenskyy-warns-of-impending-massive-russian-attack-on-ukraine/article71127364.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-21T04:19:29+05:30",
+      "score": 14,
+      "summary": "Russian \u2060forces have staged a series of heavy \u2060attacks on Kyiv in recent weeks and in other major cities",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Russian",
+        "Ukraine"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Police investigate fatal shooting in Melbourne's north-west",
       "link": "https://www.abc.net.au/news/2026-06-21/ascot-vale-fatal-shooting/106824342",
       "source": "ABC Australia",
@@ -19868,24 +19902,28 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Revolt in small Georgia town appears to ward off ICE detention center",
-      "link": "https://www.theguardian.com/us-news/2026/jun/19/georgia-federal-immigration-detention-center",
-      "source": "Guardian",
-      "timestamp": "2026-06-19T17:32:40+00:00",
-      "score": 12,
-      "summary": "Social Circle announces homeland security has canceled plans to convert warehouse to detain up to 10,000 peopleThe small town of Social Circle in rural Georgia has announced that the Department of Homeland Security has cancelled plans to turn a warehouse into what would have b...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "Iran reportedly closes Strait of Hormuz again as Vance heads to Switzerland for talks",
+      "link": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-20T22:59:26+00:00",
+      "score": 14,
+      "summary": "Iran's joint military command said the closure was in response to continued Israeli military operations in Lebanon.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Georgia",
-        "ICE"
+        "Strait",
+        "Hormuz",
+        "Vance",
+        "Switzerland"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19894,15 +19932,44 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "Guardian"
+        "CNBC"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+54%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Report says UK PM Starmer ready to quit, but source says he is still focused on the job",
+      "link": "https://www.cnbc.com/2026/06/20/uk-pm-starmer-reportedly-ready-to-quit-source-says-hes-focused-on-job.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-20T22:51:07+00:00",
+      "score": 12,
+      "summary": "The Observer report said Starmer was discussing the matter with his wife at his Chequers country residence before making a final decision.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Starmer"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Massive fire destroys resort in Dominican Republic and forces evacuation of almost 1,700 tourists",
       "link": "https://www.cnbc.com/2026/06/20/fire-destroys-dominican-republic-resort-1700-tourists-evacuated.html",
@@ -26399,72 +26466,6 @@
         "MarketWatch"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Hegseth warns NATO allies that some nations will 'fail' U.S. defense review",
-      "link": "https://www.cnbc.com/2026/06/18/hegseth-nato-defense-review-fail-europe.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-18T14:19:40+00:00",
-      "score": 14,
-      "summary": "The U.S. defense secretary also said it was \"shameful\" that European allies refused to give U.S. forces access to bases to strike Iran.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [
-        "NATO"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Intel gains 7% after Trump says company will partner with Apple on U.S. chip design",
-      "link": "https://www.cnbc.com/2026/06/18/trump-intel-apple-chip-design-deal.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-18T14:19:36+00:00",
-      "score": 17,
-      "summary": "The boost continues Intel's recent rally as the chipmaker bounces back from years of headwinds.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Trump",
-        "Apple"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+61%",
       "heat_level": "LOW"
     }
   ],
@@ -33965,7 +33966,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.2,
+      "trend_score": 9.1,
       "source_count": 10,
       "sources_reporting": [
         "Bloomberg",
@@ -33974,7 +33975,7 @@
         "NHK",
         "NPR"
       ],
-      "trend_accel": "+77%",
+      "trend_accel": "+76%",
       "heat_level": "CRITICAL"
     },
     {
@@ -52551,6 +52552,70 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 1.6 - 13 km W of Toyah, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mbuqjf",
+      "source": "USGS",
+      "timestamp": "2026-06-20T23:00:14.357000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-20 22:43:20 UTC2026-06-20 22:43:20 UTC at epicenterLocation31.302\u00b0N 103.931\u00b0WDepth0.00 km (0.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Toyah",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.8 - 6 km S of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74987447",
+      "source": "USGS",
+      "timestamp": "2026-06-20T22:51:16.330000+00:00",
+      "score": 17,
+      "summary": "Time2026-06-20 22:47:44 UTC2026-06-20 22:47:44 UTC at epicenterLocation19.148\u00b0N 155.475\u00b0WDepth29.27 km (18.19 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.5 - 8 km NNW of Forsan, Texas",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mbukll",
       "source": "USGS",
@@ -59014,73 +59079,6 @@
         "USGS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "World Refugee Day: global displaced population in 2025 - DG ECHO Daily Map | 19/06/2026",
-      "link": "https://reliefweb.int/map/world/world-refugee-day-global-displaced-population-2025-dg-echo-daily-map-19062026",
-      "source": "ReliefWeb",
-      "timestamp": "2026-06-19T16:17:17+00:00",
-      "score": 17,
-      "summary": "Country: World Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations Please refer to the attached Map.",
-      "country": "UN",
-      "region": "Global",
-      "source_type": "International Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Refugee",
-        "Day",
-        "ECHO",
-        "Daily",
-        "Map"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ReliefWeb"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 25 km N of Fishhook, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mbkdur",
-      "source": "USGS",
-      "timestamp": "2026-06-19T16:14:33.620000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-19 16:13:05 UTC2026-06-19 16:13:05 UTC at epicenterLocation61.976\u00b0N 149.252\u00b0WDepth1.30 km (0.81 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fishhook",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
