@@ -1,6 +1,41 @@
 {
   "Politics": [
     {
+      "title": "Israeli strikes in Gaza kill 6, including 2 children and an Al Jazeera cameraman",
+      "link": "https://www.pbs.org/newshour/world/israeli-strikes-in-gaza-kill-6-including-2-children-and-an-al-jazeera-cameraman",
+      "source": "PBS",
+      "timestamp": "2026-06-20T15:33:51-04:00",
+      "score": 15,
+      "summary": "Despite an October ceasefire between Israel and the militant group Hamas, the enclave has seen near-daily Israeli attacks that have killed over 1,000 Palestinians, according to Gaza's Health Ministry.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "Gaza",
+        "Jazeera"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "U.S.-Iran talks to begin Sunday as Tehran closes the strait over Lebanon fighting",
       "link": "https://www.pbs.org/newshour/world/u-s-iran-talks-to-begin-sunday-as-tehran-closes-the-strait-over-lebanon-fighting",
       "source": "PBS",
@@ -6506,24 +6541,26 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Panel quizzes Centre on scope for \u201cpeople-to-people\u201d ties with Pakistan",
-      "link": "https://www.thehindu.com/news/national/panel-quizzes-centre-on-scope-for-people-to-people-ties-with-pakistan/article71123356.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-19T22:55:23+05:30",
-      "score": 12,
-      "summary": "Government says it desires \u201cnormal neighbourly relations\u201d but emphasises that this has to \u201chappen in an atmosphere free of violence and terrorist activity\u201d",
-      "country": "Pakistan",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "In the Weights is your new AI-centric vanity search",
+      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-20T19:41:11+00:00",
+      "score": 14,
+      "summary": "So ... what's your In the Weights score?",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Centre",
-        "Pakistan"
+        "Weights",
+        "AIcentric"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6532,15 +6569,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "The Atlantic created a searchable database of the music used to train AI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
@@ -13140,24 +13175,26 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Amazon\u2019s Smart Thermostat is on sale for just $58",
-      "link": "https://www.theverge.com/gadgets/950043/amazon-smart-thermostat-early-prime-day-deal-sale",
-      "source": "Verge",
-      "timestamp": "2026-06-15T15:33:28-04:00",
-      "score": 15,
-      "summary": "If your electricity bill climbs every summer, a smart thermostat could help keep cooling costs in check. The Amazon Smart Thermostat is an excellent option for its price, especially today. It\u2019s down to just $57.99 at Amazon as a part of Amazon\u2019s early Prime Day sale, which is ...",
+      "title": "Trump's peace deal may not stop Iran casting America as the enemy",
+      "link": "https://www.abc.net.au/news/2026-06-21/iran-and-us-sign-deal-but-regime-still-paints-america-as-enemy/106814584",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-20T19:31:46+00:00",
+      "score": 14,
+      "summary": "For decades the Islamic republic has been using its \"main enemy\" America to distract from its repressive regime, analysts say. But the recent truce with Donald Trump could change that.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Smart",
-        "Thermostat"
+        "Iran",
+        "America"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13168,13 +13205,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Verge"
+        "ABC Australia"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "'Old wine in a new bottle': Activists raise alarm over deepfake videos",
       "link": "https://www.abc.net.au/news/2026-06-21/ai-generated-content-targeting-west-papuan-activists/106760046",
@@ -19901,39 +19936,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Met Office issues rare amber extreme heat warning for parts of England and Wales",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/19/met-office-rare-amber-extreme-heat-warning-england-wales",
-      "source": "Guardian",
-      "timestamp": "2026-06-19T14:46:13+00:00",
-      "score": 12,
-      "summary": "Temperatures expected to climb to 30C over the weekend in southern England and south-east WalesThe Met Office has issued an amber extreme heat warning for much of southern England and south-east Wales over the coming days \u2013 the most extreme heat warning the weather forecaster ...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Office",
-        "England",
-        "Wales"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -26501,6 +26503,66 @@
   ],
   "Science": [
     {
+      "title": "Ancient enamel just exposed a hidden human family entanglement that may still echo in your DNA",
+      "link": "https://phys.org/news/2026-05-ancient-enamel-exposed-hidden-human.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-20T15:40:03-04:00",
+      "score": 12,
+      "summary": "An analysis of ancient teeth is giving scientists a rare peek into interactions between human relatives hundreds of thousands of years ago that have left a lasting imprint on our species.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "DNA"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Radio scans find no alien tech from the latest interstellar comet",
+      "link": "https://phys.org/news/2026-06-radio-scans-alien-tech-latest.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-20T15:40:01-04:00",
+      "score": 12,
+      "summary": "The group leading the charge in the search for extraterrestrial life has given the all clear: An interstellar comet looks to be completely natural and free of any alien tech.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Quantum gravity research links continuous parameters to local operators within the theory itself",
       "link": "https://phys.org/news/2026-06-quantum-gravity-links-parameters-local.html",
       "source": "Phys.org",
@@ -32661,29 +32723,25 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Sports": [
     {
-      "title": "Tropical Storm Arthur, the first of the Atlantic season, targets Gulf Coast with heavy rain",
-      "link": "https://phys.org/news/2026-06-tropical-storm-arthur-atlantic-season.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-17T11:42:05-04:00",
-      "score": 14,
-      "summary": "The first tropical storm of the Atlantic hurricane season formed Wednesday near the Gulf Coast, bringing intense rain and the threat of dangerous flash floods to states including Texas and Louisiana, meteorologists said.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
+      "title": "Netherlands thump Sweden 5-1 in statement win",
+      "link": "https://www.espn.com/soccer/report/_/gameId/760447",
+      "source": "ESPN",
+      "timestamp": "2026-06-20T15:15:59-05:00",
+      "score": 15,
+      "summary": "Brian Brobbey and Cody Gakpo scored two each as Netherlands cruised to a 5-1 World Cup victory over Sweden to go top of Group F.",
+      "country": "Netherlands",
+      "region": "Europe",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Storm",
-        "Arthur",
-        "Atlantic",
-        "Gulf",
-        "Coast"
+        "Sweden"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -32692,44 +32750,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "Phys.org"
+        "ESPN"
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
     },
-    {
-      "title": "New heat-regulating fabric feels fluffy like cotton\u2014but doesn't get wet",
-      "link": "https://phys.org/news/2026-06-fabric-fluffy-cotton-doesnt.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-17T11:20:01-04:00",
-      "score": 10,
-      "summary": "Once cotton gets wet, it pulls heat from your body. This is helpful when you're exercising or outside on a hot day, but dangerous in the bitter cold. Now, researchers reporting in ACS Energy Letters have created an ultralight synthetic fiber material with cotton-like fluffines...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Sports": [
     {
       "title": "2026 U.S. Open Saturday live updates, leaderboard: Wyndham Clark in full control entering third round at Shinnecock - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMjN3SmtMQlZxTWRkcDh1a3NGSHBJWlZsSTktaklmYUpORlg5MVI2QVFJSjVYaDRTamhoSEVoSlZibDhvSWlFLVlSVkRjMmRFNlJzd3dGMHFHdXdZRnQyUmdad2RPNDZkc0duUXpHTEp3UUZMZWlFWXcyNG9hOFZMNnRBc1NaRktmdFo1X0dFLVl4WkpvdjgtQXBRWlNPNGU5c0g1WHZSWC1taFFoWlBfa3JwWTRBVW5La25xSHJtaTc3UWU4ZkNFWXlCcE5IZjd1Qm5MUG52UmJuXzhYendEOGUwQnd3aGFRMDBaZXlXZ3F2RWc?oc=5",
@@ -39403,38 +39430,6 @@
       ],
       "trend_accel": "+61%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "Euphoric fans celebrate Knicks' title across NYC",
-      "link": "https://www.espn.com/nba/story/_/id/49059888/knicks-fans-celebrate-nyc-first-title-53-years",
-      "source": "ESPN",
-      "timestamp": "2026-06-14T08:14:01-05:00",
-      "score": 12,
-      "summary": "It was bedlam on Broadway as the New York Knicks won their first NBA championship in 53 years on Saturday night.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Sports Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Knicks",
-        "NYC"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ESPN"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Entertainment": [
@@ -52533,6 +52528,101 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 0.8 - 11 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380241",
+      "source": "USGS",
+      "timestamp": "2026-06-20T19:45:41.368000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-20 19:44:04 UTC2026-06-20 19:44:04 UTC at epicenterLocation38.845\u00b0N 122.843\u00b0WDepth1.67 km (1.04 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 26 km NW of San Simeon, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75380236",
+      "source": "USGS",
+      "timestamp": "2026-06-20T19:40:41.328000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-20 19:39:03 UTC2026-06-20 19:39:03 UTC at epicenterLocation35.820\u00b0N 121.387\u00b0WDepth3.87 km (2.40 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "San",
+        "Simeon"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.2 - 7 km NE of Willow, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mdmucv",
+      "source": "USGS",
+      "timestamp": "2026-06-20T19:32:37.646000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-20 19:31:11 UTC2026-06-20 19:31:11 UTC at epicenterLocation61.793\u00b0N 149.929\u00b0WDepth26.50 km (16.47 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Willow",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.7 - 47 km NNE of Chickaloon, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mdmcvo",
       "source": "USGS",
@@ -58984,107 +59074,6 @@
         "ReliefWeb"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Bangladesh: Health Cluster Meeting Minutes on Measles Outbreak_19 April 2026",
-      "link": "https://reliefweb.int/report/bangladesh/health-cluster-meeting-minutes-measles-outbreak19-april-2026",
-      "source": "ReliefWeb",
-      "timestamp": "2026-06-19T13:04:20+00:00",
-      "score": 15,
-      "summary": "Country: Bangladesh Source: Health Cluster Please refer to the attached file. A virtual Health Cluster meeting with 40 participants reviewed progress of the measles vaccination campaign and coordination support to the government on 19 April 2026. EPI reported strong phased SIA...",
-      "country": "Bangladesh",
-      "region": "South Asia",
-      "source_type": "International Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Health",
-        "Cluster",
-        "Meeting",
-        "Minutes",
-        "Measles",
-        "Outbreak",
-        "April"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ReliefWeb"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Iran: ICRC delivers 18 tonnes of humanitarian supplies to support emergency response",
-      "link": "https://reliefweb.int/report/iran-islamic-republic/iran-icrc-delivers-18-tonnes-humanitarian-supplies-support-emergency-response",
-      "source": "ReliefWeb",
-      "timestamp": "2026-06-19T13:01:23+00:00",
-      "score": 15,
-      "summary": "Country: Iran (Islamic Republic of) Source: International Committee of the Red Cross ICRC (Tehran): The International Committee of the Red Cross (ICRC) has delivered more than 18 metric tonnes of humanitarian supplies to the Iranian Red Crescent Society (IRCS). The shipment in...",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "International Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ICRC"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ReliefWeb"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.3 - 9 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75379591",
-      "source": "USGS",
-      "timestamp": "2026-06-19T12:59:52.186000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-19 12:58:17 UTC2026-06-19 12:58:17 UTC at epicenterLocation38.825\u00b0N 122.845\u00b0WDepth1.76 km (1.09 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
       "heat_level": "LOW"
     }
   ]
