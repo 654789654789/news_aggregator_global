@@ -5291,7 +5291,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.7,
+      "trend_score": 8.6,
       "source_count": 15,
       "sources_reporting": [
         "AP",
@@ -6530,6 +6530,37 @@
     }
   ],
   "Tech": [
+    {
+      "title": "Ethan Thornton is trying to do everything all at once",
+      "link": "https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-22T05:31:59+00:00",
+      "score": 12,
+      "summary": "Mach's approach differs sharply from some of its peers.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Thornton"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "New steps lead to a major renovation on the Ligonier home tour - Pittsburgh Post-Gazette",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVDNSbmxzei1tV3JhVl9fTjVkdDRKcnVHOUVVN2FicWhkdFZ1TlVjcjFrX0RDMEkweGw4d1E3bHN1aFkxQ1RCNVlSMjdST2JDbkZWSHpid3hCNmYtem1ydXpaaTFXSFdUXzdBOVJlRW5BUzhja3drUjFNcHFQV1ZHbEZTbndMT05xMjBLZ0g1cGktMktqcjBBUkp4VUM5eGVQUlp0M3Y5U214LU9IVDAzR2JVTEUzZXdfRHpuYWJpbVhtMjVoYmc?oc=5",
@@ -13106,24 +13137,57 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones",
-      "link": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
-      "source": "Verge",
-      "timestamp": "2026-06-16T05:00:00-04:00",
-      "score": 12,
-      "summary": "When Christian Simpson, a retro gaming YouTuber also known as Peri Fractic, bought the remains of an early PC company called Commodore in 2025, he decided to pick up right where the original Commodore left off. Which meant starting product development in the mid-1990s. Simpson...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Australia politics live: Chalmers calls Coalition \u2018deliberately disingenuous\u2019 on CGT in question time; second bird tests positive for H5N1 bird flu",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jun/22/australia-politics-live-labor-coalition-one-nation-capital-gains-tax-reform-ndis-anthony-albanese-angus-taylor-question-time-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-06-22T05:33:37+00:00",
+      "score": 15,
+      "summary": "Follow today\u2019s news liveGet our breaking news email, free app or daily news podcastHume has no problem with more debate on NDIS changes, but criticises \u2018horse trading\u2019 between Labor and the GreensJane Hume is speaking to RN Breakfast now, saying the Coalition has no problem wi...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Commodore"
+        "Chalmers",
+        "Coalition",
+        "CGT"
       ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+63%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Europe sweats through new heatwave, with worse to come",
+      "link": "https://www.thehindu.com/news/international/europe-sweats-through-new-heatwave-with-worse-to-come/article71131818.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-22T11:01:43+05:30",
+      "score": 10,
+      "summary": "Scientists have shown that recurring heatwaves are a clear marker of global warming, primarily caused by burning coal, oil and gas \u2014 and warn they are set to become more frequent, longer and more intense",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13133,13 +13197,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Verge"
+        "The Hindu"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Middle East live: US, Iranian negotiators enter second day of talks after \u2018encouraging\u2019 start",
       "link": "https://www.france24.com/en/middle-east/20260622-middle-east-live-us-iranian-negotiators-enter-second-day-of-talks-after-encouraging-start",
@@ -14697,7 +14759,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 12,
       "sources_reporting": [
         "ABC Australia",
@@ -19660,54 +19722,29 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Inside the major clean-up of a river city struck by flood",
-      "link": "https://www.abc.net.au/news/2026-06-21/inside-the-flood-clean-up-of-the-burnett-river/106808960",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-21T00:32:55+00:00",
-      "score": 10,
-      "summary": "Forty flood-ravaged boats and 26 missing pontoons wash up in remote places following a major flood through Bundaberg, some travelling more than 100 kilometres to the outer reef islands.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Man charged after series of attacks across Edinburgh",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/20/counter-terrorism-officers-investigate-after-five-injured-in-violent-incidents-in-edinburgh",
-      "source": "Guardian",
-      "timestamp": "2026-06-21T00:30:54+00:00",
-      "score": 12,
-      "summary": "Police Scotland arrested 36-year-old man after five people were injured, with counter-terrorism investigators brought inPolice Scotland said a man was charged after a series of attacks in Edinburgh on Friday night.Counter-terrorism officers were brought in to investigate the a...",
-      "country": "UK",
-      "region": "Europe",
+      "title": "Small-cap stock Blue Cloud Softech Solutions jumps 20% on AI collaboration talks with SpaceX",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-blue-cloud-softech-solutions-jumps-20-on-ai-collaboration-talks-with-spacex-11782106354865.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-22T11:08:55+05:30",
+      "score": 17,
+      "summary": "Blue Cloud Softech Solutions share price has fallen 16% in one month and has declined 20% in three months. The smallcap stock has plunged 35% in six months, while it has dropped over 30% in two years.",
+      "country": "India",
+      "region": "South Asia",
       "source_type": "Newspaper",
-      "trust_score": 9,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Edinburgh"
+        "Blue",
+        "Cloud",
+        "Softech",
+        "Solutions",
+        "SpaceX"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19718,13 +19755,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Guardian"
+        "Livemint"
       ],
-      "trend_accel": "+54%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Sumeet Industries rights issue worth  \u20b9199.75 crore opens today. Record date, other details",
       "link": "https://www.livemint.com/market/stock-market-news/sumeet-industries-rights-issue-worth-199-75-crore-opens-today-record-date-other-details-11782103366872.html",
@@ -26317,38 +26352,6 @@
         "CNBC"
       ],
       "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump DNI pick Pulte poised to get access to U.S. intelligence despite congressional bid to thwart",
-      "link": "https://www.cnbc.com/2026/06/18/pulte-trump-dni-us-intelligence-congress.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-18T18:49:36+00:00",
-      "score": 12,
-      "summary": "With President Donald Trump halting his nomination of U.S. Attorney Jay Clayton as director of national intelligence, Bill Pulte is set to take on the role.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "DNI",
-        "Pulte"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -39251,6 +39254,89 @@
   ],
   "Entertainment": [
     {
+      "title": "Webtoon Productions, France\u2019s OuiDo! Set Animation Series Adaptation of Webtoon Smash \u2018Lumine\u2019 (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/global/webtoon-productions-ouido-animation-series-lumine-1236786859/",
+      "source": "Variety",
+      "timestamp": "2026-06-22T05:34:52+00:00",
+      "score": 12,
+      "summary": "Global hit Webtoon webcomic \u201cLumine\u201d looks set for another life as an animated series. Webtoon Productions, the U.S.-based studio and IP business of Webtoon Entertainment, has pacted with French animation studio OuiDo! Productions to develop an animated series version of the s...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Productions",
+        "Frances",
+        "OuiDo",
+        "Set",
+        "Animation",
+        "Series",
+        "Adaptation",
+        "Webtoon",
+        "Smash",
+        "Lumine",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Chimney Town: Frozen in Time\u2019 Sells Wide Across Europe Ahead of Annecy French Premiere (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/chimney-town-frozen-in-time-poupelle-annecy-sales-1236782167/",
+      "source": "Variety",
+      "timestamp": "2026-06-22T05:31:35+00:00",
+      "score": 12,
+      "summary": "Brussels-based sales company Best Friend Forever has closed a string of distribution deals on Japanese animated feature \u201cChimney Town: Frozen in Time,\u201d with French distributor Arthouse Films acquiring rights for France, HBO Max taking Eastern European rights and Serbian MegaCo...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Town",
+        "Frozen",
+        "Time",
+        "Sells",
+        "Wide",
+        "Across",
+        "Europe",
+        "Ahead",
+        "Annecy",
+        "French",
+        "Premiere",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trafalgar Releasing Launches Korean Entity, Names Hybe Veteran as Asia Acquisitions Head (EXCLUSIVE)",
       "link": "https://variety.com/2026/film/news/trafalgar-korea-launches-asia-acquisitions-hybe-1236786124/",
       "source": "Variety",
@@ -47263,29 +47349,25 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "SLOMW's Jen Affleck Is Pregnant, Expecting Baby No. 4 With Husband Zac",
-      "link": "https://www.eonline.com/news/1433159/slomws-jen-affleck-is-pregnant-expecting-baby-no-4-with-husband-zac?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-06-19T15:36:08+00:00",
-      "score": 15,
-      "summary": "Jen Affleck is adding another member to her dance troupe. The Secret Lives of Mormon Wives star shared that she's pregnant with her fourth baby with husband Zac Affleck. Alongside photos of...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
+      "title": "Move aside chilli oil, Maharashtrian thecha is the internet's new favourite condiment now",
+      "link": "https://www.thehindu.com/food/features/move-aside-chilli-oil-maharashtrian-thecha-is-the-internets-new-favourite-condiment-now/article71051510.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-22T11:13:06+05:30",
+      "score": 12,
+      "summary": "Thanks to celebrity interviews, MasterChef India creations and viral recipes, Maharashtra\u2019s green chilli peanut thecha is having a moment, on seafood pizzas and peanut butter. We speak to chefs about the condiment\u2019s popularity",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Jen",
-        "Affleck",
-        "Pregnant",
-        "Expecting",
-        "Baby",
-        "Husband",
-        "Zac"
+        "Maharashtrian"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -47294,53 +47376,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "E! News"
+        "The Hindu"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Shanghai Film Festival\u2019s Mobile Filmmaking Camp Wraps With 10 iPhone-Shot Short Films",
-      "link": "https://variety.com/2026/film/festivals/shanghai-mobile-filmmaking-camp-iphone-short-films-1236786001/",
-      "source": "Variety",
-      "timestamp": "2026-06-19T15:33:28+00:00",
-      "score": 17,
-      "summary": "The 28th Shanghai International Film Festival\u2019s SIFF ING section wrapped its new Mobile Filmmaking Camp, with 10 short films shot entirely on iPhone by emerging Chinese directors screened both on-site in Shanghai and online. Launched as a new featured initiative within the 202...",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Film",
-        "Festivals",
-        "Mobile",
-        "Filmmaking",
-        "Camp",
-        "Wraps",
-        "Short",
-        "Films"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
     {
       "title": "5 Foods That Reduce Seasonal Hair Loss, According to Experts",
       "link": "https://www.vogue.com/article/5-foods-that-reduce-seasonal-hair-loss-according-to-experts",
@@ -52903,6 +52945,71 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.9 - 68 km WNW of Tobelo, Indonesia",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sv3q",
+      "source": "USGS",
+      "timestamp": "2026-06-22T05:45:21.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-22 05:28:15 UTC2026-06-22 05:28:15 UTC at epicenterLocation1.873\u00b0N 127.415\u00b0EDepth124.93 km (77.63 mi)",
+      "country": "Indonesia",
+      "region": "Southeast Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Tobelo",
+        "Indonesia"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 5 km WNW of Aguanga, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492056",
+      "source": "USGS",
+      "timestamp": "2026-06-22T05:42:47.127000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-22 05:39:12 UTC2026-06-22 05:39:12 UTC at epicenterLocation33.458\u00b0N 116.915\u00b0WDepth9.49 km (5.90 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Aguanga"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
       "heat_level": "LOW"
     },
     {
@@ -59322,71 +59429,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 6 km S of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74987447",
-      "source": "USGS",
-      "timestamp": "2026-06-20T22:51:16.330000+00:00",
-      "score": 17,
-      "summary": "Time2026-06-20 22:47:44 UTC2026-06-20 22:47:44 UTC at epicenterLocation19.148\u00b0N 155.475\u00b0WDepth29.27 km (18.19 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 8 km NNW of Forsan, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mbukll",
-      "source": "USGS",
-      "timestamp": "2026-06-20T22:42:23.159000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-20 22:37:29 UTC2026-06-20 22:37:29 UTC at epicenterLocation32.181\u00b0N 101.389\u00b0WDepth3.36 km (2.08 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Forsan",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
