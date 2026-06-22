@@ -2130,7 +2130,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.9,
+      "trend_score": 8.8,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -7140,7 +7140,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.0,
+      "trend_score": 8.9,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -7149,8 +7149,8 @@
         "NPR",
         "Verge"
       ],
-      "trend_accel": "+75%",
-      "heat_level": "CRITICAL"
+      "trend_accel": "+74%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
@@ -13126,6 +13126,39 @@
     }
   ],
   "World": [
+    {
+      "title": "Australia politics live: second bird tests positive for H5N1 bird flu; Chalmers calls Coalition \u2018deliberately disingenuous\u2019 on CGT in question time",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jun/22/australia-politics-live-labor-coalition-one-nation-capital-gains-tax-reform-ndis-anthony-albanese-angus-taylor-question-time-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-06-22T04:34:52+00:00",
+      "score": 15,
+      "summary": "Follow today\u2019s news liveGet our breaking news email, free app or daily news podcastHume has no problem with more debate on NDIS changes, but criticises \u2018horse trading\u2019 between Labor and the GreensJane Hume is speaking to RN Breakfast now, saying the Coalition has no problem wi...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Chalmers",
+        "Coalition",
+        "CGT"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Australia politics live: tests confirm second H5N1 bird flu infection as agriculture minister calls situation \u2018very concerning\u2019\u2019",
       "link": "https://www.theguardian.com/australia-news/live/2026/jun/22/australia-politics-live-labor-coalition-one-nation-capital-gains-tax-reform-ndis-anthony-albanese-angus-taylor-question-time-ntwnfb",
@@ -19686,24 +19719,31 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Counterterror police investigate after five hurt in Edinburgh attacks appeared to target Muslims",
-      "link": "https://www.thehindu.com/news/international/counterterror-police-investigate-after-five-hurt-in-edinburgh-attacks-appeared-to-target-muslims/article71127378.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-21T04:46:33+05:30",
+      "title": "Oil Prices Fall as U.S.-Iran Talks Show Signs of Progress",
+      "link": "https://www.nytimes.com/2026/06/22/business/oil-gas-price-iran.html",
+      "source": "NYT",
+      "timestamp": "2026-06-22T04:34:11+00:00",
       "score": 12,
-      "summary": "Police Scotland said that a 36-year-old man was arrested late on Friday (June 19, 2026) after officers received multiple reports of attacks in the west and north of the city",
-      "country": "India",
-      "region": "South Asia",
+      "summary": "Oil prices retreated after Iran\u2019s foreign minister said there had been \u201cmajor progress\u201d toward ending the fighting in Lebanon during the first session of high-level talks.",
+      "country": "Iran",
+      "region": "Middle East",
       "source_type": "Newspaper",
-      "trust_score": 8,
+      "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Edinburgh",
-        "Muslims"
+        "Prices",
+        "Fall",
+        "USIran",
+        "Talks",
+        "Show",
+        "Signs",
+        "Progress"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19712,15 +19752,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "NYT"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Reliance shares rise 3% as brokerages highlight AI, consumer business, New Energy to drive growth",
       "link": "https://www.livemint.com/market/stock-market-news/reliance-shares-rise-3-as-brokerages-highlight-ai-consumer-business-new-energy-to-drive-growth-11782101214380.html",
@@ -26316,40 +26354,41 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Kalshi traders see greater than 50% odds the Fed will hike rates this year",
-      "link": "https://www.cnbc.com/2026/06/18/kalshi-traders-see-greater-than-50percent-odds-the-fed-will-hike-rates-this-year.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-18T18:33:43+00:00",
-      "score": 15,
-      "summary": "The Federal Reserve suggested higher rates could be in the cards, and traders on Kalshi see growing odds of a hike in 2026.",
+      "title": "T. rex took 40 years to reach full size, scientists find",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260621110957.htm",
+      "source": "SciDaily",
+      "timestamp": "2026-06-22T00:32:59-04:00",
+      "score": 13,
+      "summary": "Tyrannosaurus rex may have been a much slower grower than scientists realized. A new study of 17 tyrannosaur fossils found that the giant predator likely took about 40 years to reach its full size of roughly eight tons, extending previous estimates by 15 years.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Fed"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 6.5,
+      "source_count": 11,
       "sources_reporting": [
-        "CNBC"
+        "Bloomberg",
+        "PBS",
+        "Reuters",
+        "SciDaily"
       ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+      "trend_accel": "+64%",
+      "heat_level": "HOT"
+    },
     {
       "title": "The giant viruses that orchestrate life in the polar regions",
       "link": "https://phys.org/news/2026-06-giant-viruses-orchestrate-life-polar.html",
@@ -26591,8 +26630,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -32549,37 +32588,6 @@
         "Phys.org"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "From 718 options to one standout, catalyst screening method reveals durable RuO\u2082 candidate",
-      "link": "https://phys.org/news/2026-06-options-standout-catalyst-screening-method.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-17T15:00:08-04:00",
-      "score": 15,
-      "summary": "Why settle for a trial-and-error approach, reviewing an almost endless number of combinations, when you can systematically narrow the list to something more manageable using established data and knowledge?",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "RuO"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -52901,6 +52909,101 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.9 - 65 km N of Petersville, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mgbfup",
+      "source": "USGS",
+      "timestamp": "2026-06-22T04:45:38.744000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-22 04:43:46 UTC2026-06-22 04:43:46 UTC at epicenterLocation63.085\u00b0N 150.730\u00b0WDepth130.00 km (80.78 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Petersville",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.9 - 9 km WNW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381121",
+      "source": "USGS",
+      "timestamp": "2026-06-22T04:41:41.441000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-22 04:40:03 UTC2026-06-22 04:40:03 UTC at epicenterLocation38.820\u00b0N 122.843\u00b0WDepth2.20 km (1.37 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.8 - 20 km E of Markleeville, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75381116",
+      "source": "USGS",
+      "timestamp": "2026-06-22T04:37:56.664000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-22 04:36:19 UTC2026-06-22 04:36:19 UTC at epicenterLocation38.687\u00b0N 119.570\u00b0WDepth3.61 km (2.24 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Markleeville"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.1 - 15 km SSW of Tehachapi, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41492032",
       "source": "USGS",
@@ -59289,103 +59392,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.3 - 9 km SSW of Idyllwild, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491432",
-      "source": "USGS",
-      "timestamp": "2026-06-20T21:02:35.761000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-20 20:59:14 UTC2026-06-20 20:59:14 UTC at epicenterLocation33.670\u00b0N 116.767\u00b0WDepth15.65 km (9.72 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Idyllwild"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 8 km SE of Valle Vista, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41491424",
-      "source": "USGS",
-      "timestamp": "2026-06-20T21:00:04.618000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-20 20:56:43 UTC2026-06-20 20:56:43 UTC at epicenterLocation33.703\u00b0N 116.819\u00b0WDepth16.63 km (10.33 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Valle",
-        "Vista"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.6 - 7 km WSW of Okarche, Oklahoma",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suwa",
-      "source": "USGS",
-      "timestamp": "2026-06-20T20:29:20.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-20 20:23:35 UTC2026-06-20 20:23:35 UTC at epicenterLocation35.696\u00b0N 98.049\u00b0WDepth6.13 km (3.81 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Okarche",
-        "Oklahoma"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ]
