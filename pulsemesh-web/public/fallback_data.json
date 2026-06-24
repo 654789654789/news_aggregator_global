@@ -6652,6 +6652,35 @@
   ],
   "Tech": [
     {
+      "title": "Elon suffers another day short of trillionaire status",
+      "link": "https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-24T23:09:39+00:00",
+      "score": 12,
+      "summary": "Right now he's merely a several-hundred-billionaire, according to Bloomberg's Billionaires Index.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
       "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
       "source": "TechCrunch",
@@ -13539,25 +13568,28 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Apple\u2019s latest AirTags are cheaper than ever for Prime Day",
-      "link": "https://www.theverge.com/gadgets/951987/apple-airtag-second-gen-prime-day-deal-sale-2026",
-      "source": "Verge",
-      "timestamp": "2026-06-22T11:00:00-04:00",
-      "score": 14,
-      "summary": "Prime Day has brought a number of Apple deals, but one of the most useful if you\u2019re planning to travel over the July 4th weekend or later this summer is on the new AirTags. The four-pack has dropped to a new low of $90 ($9 off) at Amazon and Best Buy, bringing the price of [\u2026]",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
+      "title": "Trump says it may never be known who was at fault for strike on girls' school in Iran",
+      "link": "https://www.thehindu.com/news/international/trump-says-it-may-never-be-known-who-was-at-fault-for-strike-on-girls-school-in-iran/article71143766.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-25T04:39:57+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Military",
+        "Bio-Security"
+      ],
       "entities": [
-        "AirTags",
-        "Prime",
-        "Day"
+        "Iran"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13568,13 +13600,74 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "The Hindu"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Magnitude 7.1 earthquake strikes Venezuela",
+      "link": "https://www.thehindu.com/news/international/venezuela-earthquake-toll-damage-updates-june-25-2026/article71143760.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-25T04:33:15+05:30",
+      "score": 15,
+      "summary": "People evacuated swaying buildings in Caracas, but there were no official reports damages or injuries or so far",
+      "country": "Venezuela",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Seismic"
+      ],
+      "entities": [
+        "Venezuela"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Remote community's decade-long wait for clean drinking water",
+      "link": "https://www.abc.net.au/news/2026-06-25/pandanus-park-water-concerns-derby-nitrate/106783086",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-24T23:01:51+00:00",
+      "score": 12,
+      "summary": "Residents of Pandanus Park continue their near-daily 600-metre walk to access safe drinking water in a decade-long wait for a solution to dangerous nitrate in their tap water.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "'This did bring us closer': Stokes speaks about nightclub incident",
       "link": "https://www.abc.net.au/news/2026-06-25/england-cricket-captain-ben-stokes-speaks-for-first-time/106839324",
@@ -20031,93 +20124,25 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "'Without missiles, we'd be like Gaza': Iran rejects missile curbs in any US deal",
-      "link": "https://timesofindia.indiatimes.com/defence/international/without-missiles-wed-be-like-gaza-iran-rejects-missile-curbs-in-any-us-deal/articleshow/131952943.cms",
-      "source": "Times of India",
-      "timestamp": "2026-06-24T08:01:05+05:30",
-      "score": 14,
-      "summary": "Iran's President Pezeshkian has asserted that the missile program is strictly defensive and isn't covered by any agreements with the US. He highlighted its importance for national security, likening Iran's situation to that of Gaza. This declaration surfaces during discussions...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [
-        "Gaza",
-        "Iran"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Bird flu prompts Papua New Guinea to ban Australian chicken and egg imports",
-      "link": "https://www.abc.net.au/news/2026-06-24/papua-new-guinea-bans-australian-chicken-egg-imports-bird-flu/106835410",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-24T02:26:39+00:00",
+      "title": "The legal fight to get equal pay for Germany's disabled workers",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-06-24T23:10:28+00:00",
       "score": 12,
-      "summary": "Australia's largest chicken meat buyer, Papua New Guinea, suspends Australian poultry and egg imports due to the H5N1 bird flu outbreak, even though Australian authorities say there is no evidence the virus has spread.",
-      "country": "Australia",
-      "region": "Oceania",
+      "summary": "A test case is seeking the minimum wage for 300,000 disabled people who currently get paid less.",
+      "country": "Germany",
+      "region": "Europe",
       "source_type": "Broadcaster",
       "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Papua",
-        "New",
-        "Guinea",
-        "Australian"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Heartbroken Daryl Braithwaite will miss everything about performing",
-      "link": "https://www.abc.net.au/news/2026-06-24/daryl-braithwaite-heartbroken-to-give-up-performing/106835330",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-24T02:20:50+00:00",
-      "score": 14,
-      "summary": "The Aria Hall of Fame inductee speaks emotionally to the ABC about his decision to give up live performances, saying it has broken his head to see how appreciative people have been.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Daryl",
-        "Braithwaite"
+        "Germanys"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -20128,13 +20153,69 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "BBC"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "I've spent 30 years in recruitment - this is how to get a job",
+      "link": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-06-24T23:06:16+00:00",
+      "score": 13,
+      "summary": "The recruitment agency boss shares his tips on getting noticed in a tougher jobs market.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "VAT cut on theme parks and kids' meals comes into force",
+      "link": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-06-24T23:02:33+00:00",
+      "score": 10,
+      "summary": "The government will reduce tax from 20% to 5% on a range of attractions as schools begin to break-up.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Micron stock jumps 15% as soaring prices from memory crunch lead to quadrupling of revenue",
       "link": "https://www.cnbc.com/2026/06/24/micron-mu-earnings-report-q3-2026.html",
@@ -26525,95 +26606,24 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Trump Gives Teamsters a Chance to Shed Oversight Meant to Curb Mob Ties",
-      "link": "https://www.nytimes.com/2026/06/23/business/economy/teamsters-justice-sean-obrien.html",
-      "source": "NYT",
-      "timestamp": "2026-06-23T19:29:07+00:00",
-      "score": 12,
-      "summary": "Sean M. O\u2019Brien, re-elected to a second term leading the union, has used a relationship with President Trump to end court-ordered corruption monitoring.",
+      "title": "Web archive lets you easily search millions of government documents",
+      "link": "https://phys.org/news/2026-06-web-archive-easily-millions-documents.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-24T19:10:04-04:00",
+      "score": 10,
+      "summary": "At the end of every presidential term, the End of Term Web Archive preserves that administration's web presence as a vast trove of documents and webpages. The archive began in 2008, with George W. Bush's second term, and runs through 2024, collecting images, text, graphs, reda...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Science Publication",
       "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Gives",
-        "Teamsters",
-        "Chance",
-        "Shed",
-        "Oversight",
-        "Meant",
-        "Curb",
-        "Mob",
-        "Ties"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Everyday investors fueled the SpaceX trading frenzy. Now they face a bear market.",
-      "link": "https://www.marketwatch.com/story/everyday-investors-fueled-the-spacex-trading-frenzy-now-they-face-a-bear-market-c45e8a76?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-06-23T19:00:00+00:00",
-      "score": 14,
-      "summary": "From six-figure retirement gambles to tactical day trades, retail investors have made big bets on SpaceX\u2019s volatile stock.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SpaceX",
-        "Now"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Mamdani-backed candidates are likely to win in NYC primaries, prediction market traders expect",
-      "link": "https://www.cnbc.com/2026/06/23/prediction-market-traders-expectations-for-the-ny-primaries.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-23T18:56:13+00:00",
-      "score": 14,
-      "summary": "Voters are heading to the polls in New York, with four competitive races in Democratic congressional primaries in focus.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NYC"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26623,13 +26633,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "A magnetic field that kills superconductivity can also bring it back",
       "link": "https://phys.org/news/2026-06-magnetic-field-superconductivity.html",
@@ -27018,7 +27026,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 6.9,
+      "trend_score": 6.8,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -32680,24 +32688,27 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Sports": [
     {
-      "title": "EU risks a crisis if it fails to halt pollinator loss, researchers warn",
-      "link": "https://phys.org/news/2026-06-eu-crisis-halt-pollinator-loss.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-22T18:40:03-04:00",
-      "score": 12,
-      "summary": "A new white paper from eight major EU-funded pollinator projects warns that the resilience of Europe's vital societal functions and food security are at stake if the EU fails to halt and reverse wild pollinator declines and support managed pollinators. Behind the report is an ...",
+      "title": "Suit alleges NCAA rule unfair to HS Class of '22",
+      "link": "https://www.espn.com/college-sports/story/_/id/49169049/suit-alleges-new-ncaa-rule-unfair-high-school-class-2022",
+      "source": "ESPN",
+      "timestamp": "2026-06-24T18:52:52-05:00",
+      "score": 17,
+      "summary": "Less than 24 hours after the NCAA Division I Cabinet approved a monumental change in eligibility rules, a group of 15 college basketball players filed a lawsuit iclaiming the new age-based model unfairly shuts them out of further competition.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
+      "topic_tags": [],
+      "entities": [
+        "NCAA",
+        "Class"
       ],
-      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -32705,15 +32716,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "Phys.org"
+        "ESPN"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Sports": [
+    },
     {
       "title": "Changes to FBS practice, portal windows proposed",
       "link": "https://www.espn.com/college-football/story/_/id/49168464/fbs-committee-proposes-changes-practice-schedule-portal",
@@ -39295,23 +39304,84 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Dolan says second apron not an option for Knicks",
-      "link": "https://www.espn.com/nba/story/_/id/49103460/james-dolan-go-second-apron-keep-knicks-intact",
-      "source": "ESPN",
-      "timestamp": "2026-06-17T23:06:30-05:00",
-      "score": 12,
-      "summary": "On the heels of its first NBA title in 53 years, Knicks owner James Dolan told WFAN radio Wednesday that he will not go into the punitive second apron to keep his team intact for the 2026-27 season.",
+      "title": "Amy Adams Saved a Stabbing Victim by Using Tips She Learned From Her CBS Medical Drama That Got Canceled After 5 Episodes",
+      "link": "https://variety.com/2026/tv/news/amy-adams-saved-stabbing-victim-canceled-cbs-medical-drama-1236789881/",
+      "source": "Variety",
+      "timestamp": "2026-06-24T23:04:01+00:00",
+      "score": 15,
+      "summary": "Amy Adams recently told the \u201cSmartless\u201d podcast that she saved a stabbing victim\u2019s life using skills she learned from the short-lived CBS medical drama \u201cDr. Vegas.\u201d Adams said she and her family were the \u201cfirst people on the scene\u201d of the stabbing as they walked out of their \u201c...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Sports Publication",
+      "source_type": "Entertainment",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Knicks"
+        "Adams",
+        "Saved",
+        "Stabbing",
+        "Victim",
+        "Using",
+        "Tips",
+        "She",
+        "Learned",
+        "Her",
+        "CBS",
+        "Medical",
+        "Drama",
+        "That",
+        "Got",
+        "Canceled",
+        "After",
+        "Episodes"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "IDA Announces Getting Real \u201926 Lineup, Including \u201cConversations Usually Too Risky Or Raw To Have Anywhere Else\u201d",
+      "link": "https://deadline.com/2026/06/ida-getting-real-26-conference-lineup-1236966814/",
+      "source": "Deadline",
+      "timestamp": "2026-06-24T23:01:12+00:00",
+      "score": 15,
+      "summary": "EXCLUSIVE: The International Documentary Association has announced the full lineup for Getting Real \u201926, its upcoming biennial conference \u201con the art and industry of documentary filmmaking.\u201d The event, set to unfold in person in Los Angeles from July 20-23 and globally online,...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Announces",
+        "Getting",
+        "Real",
+        "Lineup",
+        "Including",
+        "Conversations",
+        "Usually",
+        "Too",
+        "Risky",
+        "Raw",
+        "Have",
+        "Anywhere",
+        "Else"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -39322,13 +39392,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "ESPN"
+        "Deadline"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
     {
       "title": "Beatles Series \u2018Hamburg Days\u2019 Adds Asa Butterfield, Jonny Lee Miller & Christine Tremarco",
       "link": "https://deadline.com/2026/06/beatles-hamburg-days-asa-butterfield-jonny-lee-miller-1236966007/",
@@ -47271,85 +47339,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Lin-Manuel Miranda\u2019s \u2018Warriors\u2019 Musical Adaptation Sets Broadway Premiere, Venue",
-      "link": "https://deadline.com/2026/06/lin-manuel-miranda-warriors-broadway-opening-1236965346/",
-      "source": "Deadline",
-      "timestamp": "2026-06-23T19:39:26+00:00",
-      "score": 12,
-      "summary": "Warriors, the new musical by Lin-Manuel Miranda and Eisa Davis based on the 1979 cult classic film The Warriors will make its Broadway debut next spring, producers announced today. Warriors will begin previews March 2027 at Broadway\u2019s Lunt-Fontanne Theatre, with an official op...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mirandas",
-        "Warriors",
-        "Musical",
-        "Adaptation",
-        "Sets",
-        "Broadway",
-        "Premiere",
-        "Venue"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Hacks' Robby Hoffman Reveals She Stormed Out of 2025 Emmys After Loss",
-      "link": "https://www.eonline.com/news/1433270/hacks-robby-hoffman-stormed-out-of-2025-emmy-awards-after-loss?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-06-23T19:20:32+00:00",
-      "score": 15,
-      "summary": "Robby Hoffman couldn\u2019t hack it after her Emmys loss. After the comedian lost the award for Outstanding Guest Actress in a Comedy Series to fellow Hacks guest star Julianne Nicholson at the 2025...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Robby",
-        "Hoffman",
-        "Reveals",
-        "She",
-        "Stormed",
-        "Out",
-        "Emmys",
-        "After",
-        "Loss"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -53751,6 +53740,39 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.8 - 10 km NNW of Redwood Valley, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383591",
+      "source": "USGS",
+      "timestamp": "2026-06-24T23:15:34.015000+00:00",
+      "score": 15,
+      "summary": "DYFI? - ITime2026-06-24 23:07:06 UTC2026-06-24 23:07:06 UTC at epicenterLocation39.354\u00b0N 123.243\u00b0WDepth5.26 km (3.27 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Redwood",
+        "Valley"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+62%",
       "heat_level": "LOW"
     },
     {
@@ -60217,39 +60239,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "oPt: Al-Quds University launches social clinics to strengthen student well-being and practical training [EN/AR]",
-      "link": "https://reliefweb.int/report/occupied-palestinian-territory/al-quds-university-launches-social-clinics-strengthen-student-well-being-and-practical-training-enar",
-      "source": "ReliefWeb",
-      "timestamp": "2026-06-24T00:19:37+00:00",
-      "score": 14,
-      "summary": "Country: occupied Palestinian territory Source: UN Development Programme Please refer to the attached file. New university-based initiative expands access to psychosocial and social support services while providing hands-on training opportunities for future social workers and ...",
-      "country": "UN",
-      "region": "Global",
-      "source_type": "International Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "AlQuds",
-        "University",
-        "ENAR"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ReliefWeb"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ]
