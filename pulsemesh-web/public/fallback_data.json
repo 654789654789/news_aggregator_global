@@ -1,6 +1,40 @@
 {
   "Politics": [
     {
+      "title": "White House seeks $87.6B from Congress for Iran war costs, U.S. farmers and Ebola response",
+      "link": "https://www.pbs.org/newshour/politics/white-house-seeks-87-6b-from-congress-for-iran-war-costs-u-s-farmers-and-ebola-response",
+      "source": "PBS",
+      "timestamp": "2026-06-24T17:52:30-04:00",
+      "score": 15,
+      "summary": "The White House has formally requested $87.6 billion mostly to replenish the Pentagon after the U.S. war against Iran, submitting the request to Congress at a politically difficult time as Republican and Democratic lawmakers have objected to any further military action.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "House",
+        "Congress",
+        "Iran",
+        "Ebola"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Fake forensic report conspiracy: BJP Haryana chief corners Punjab CM Mann, demands immediate resignation",
       "link": "https://www.thehindu.com/news/national/fake-forensic-report-conspiracy-bjp-haryana-chief-corners-punjab-cm-mann-demands-immediate-resignation/article71142433.ece",
       "source": "The Hindu",
@@ -6596,27 +6630,24 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Bishwanath Sinha appointed Kerala\u2019s next Chief Secretary",
-      "link": "https://www.thehindu.com/news/national/kerala/bishwanath-sinha-appointed-keralas-next-chief-secretary/article71140532.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-24T10:34:48+05:30",
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they\u2019re the most resilient",
+      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-24T21:56:41+00:00",
       "score": 12,
-      "summary": "Sinha, who is currently Additional Chief Secretary, Home, is set to replace Chief Secretary A Jayathilak, who will retire on June 30",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "While AI dominates the layoff narrative, engineers as a share of total new hires have actually increased, according to SignalFire data.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Sinha",
-        "Keralas",
-        "Chief",
-        "Secretary"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6624,15 +6655,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "AI researchers continue to leave Google for its rivals",
       "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
@@ -13517,25 +13546,29 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Patreon CEO Jack Conte on supporting artists in the AI slop era",
-      "link": "https://www.theverge.com/podcast/952607/patreon-ceo-jack-conte",
-      "source": "Verge",
-      "timestamp": "2026-06-22T10:00:00-04:00",
-      "score": 14,
-      "summary": "Today, I\u2019m talking with Jack Conte, the CEO of Patreon. Jack last joined me on the show almost exactly five years ago, in the summer of 2021, and a lot has changed on the internet and in the creator landscape since then, so I was very excited to talk to him again, especially s...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks",
+      "link": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
+      "source": "Guardian",
+      "timestamp": "2026-06-24T21:49:44+00:00",
+      "score": 12,
+      "summary": "Defence minister says troops not withdrawing though Tehran sees end to war in Lebanon as part of deal with USThe Israeli defence minister, Israel Katz, has said that Israeli troops would not withdraw from southern Lebanon, further complicating Iran peace talks as fighting in L...",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "CEO",
-        "Jack",
-        "Conte"
+        "IDF",
+        "Lebanon",
+        "Iran"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13544,15 +13577,111 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "Verge"
+        "Guardian"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Australia politics live: Woman held in Syrian detention camp issued permit to return to Australia, Tony Burke says",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jun/25/australia-politics-live-aemo-power-grid-teal-independent-labor-coalition-question-time-anthony-albanese-angus-taylor-pauline-hanson-one-nation-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-06-24T21:47:42+00:00",
+      "score": 12,
+      "summary": "Home affairs minister says there will be high level of scrutiny and surveillance of woman previously issued temporary exclusion order. Follow today\u2019s news liveGet our breaking news email, free app or daily news podcastMike Burgess says he\u2019s really concerned about the level som...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Woman",
+        "Syrian",
+        "Australia",
+        "Tony",
+        "Burke"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Morocco - Haiti live: Lions de l'Atlas eye Group C top spot against Grenadiers",
+      "link": "https://www.france24.com/en/sport/20260624-morocco-haiti-live-lions-de-l-atlas-eye-group-c-top-spot-against-grenadiers",
+      "source": "France24",
+      "timestamp": "2026-06-24T21:47:37+00:00",
+      "score": 14,
+      "summary": "Morocco face Haiti in a crucial final Group C match in Atlanta, knowing they must win and hope Brazil slip up against Scotland if they are to challenge for top spot. The North Africans trail Sele\u00e7ao by two goals in the standings and will be closely monitoring events in the par...",
+      "country": "Morocco",
+      "region": "Africa",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Haiti",
+        "Lions",
+        "Group",
+        "Grenadiers"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "France24"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Festival site developers fight $15m council bill in court",
+      "link": "https://www.abc.net.au/news/2026-06-25/comiskey-group-appeals-15-million-dollar-council-bill-in-court/106836354",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-24T21:46:46+00:00",
+      "score": 13,
+      "summary": "The developers behind the controversial Coochin Fields festival site are fighting a $15 million council bill in court, with the state government saying the charges are \"outrageous\".",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
       "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
@@ -19978,135 +20107,6 @@
         "Guardian"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "U.S. House passes affordable housing bill, sending it to Trump for enactment",
-      "link": "https://www.thehindu.com/news/international/us-house-passes-affordable-housing-bill-sending-it-to-trump-for-enactment/article71140224.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-24T06:41:41+05:30",
-      "score": 12,
-      "summary": "The high cost \u200bof living in the U.S., with the inflation rate rising significantly during President Trump\u2019s second term in \u2060office, is ranked as a top worry by voters in \u2060public opinion polls.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "House",
-        "Trump"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'Doesn't seem right': Why Socceroos won't play for a draw against Paraguay",
-      "link": "https://www.abc.net.au/news/2026-06-24/world-cup-draw-is-not-in-socceroos-dna/106834868",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-24T01:09:05+00:00",
-      "score": 14,
-      "summary": "A draw would be enough for the Socceroos to progress from their World Cup group, but according to defender Jason Geria, playing for anything less than a win does not sit right with this group.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Why",
-        "Socceroos",
-        "Paraguay"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Farming couple who met at bus stop celebrate 70 years of love on the land",
-      "link": "https://www.abc.net.au/news/2026-06-24/70-year-anniversary-val-brian-collins-mount-gambier-farmers/106817694",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-24T01:04:50+00:00",
-      "score": 13,
-      "summary": "Farming couple Bill and Val Collins share their secrets to a long marriage as they celebrate their platinum wedding anniversary.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Karl Stefanovic's interview with Tommy Robinson taken offline",
-      "link": "https://www.abc.net.au/news/2026-06-24/karl-stefanovic-tommy-robinson-podcast-interview-taken-offline/106834832",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-24T01:04:24+00:00",
-      "score": 12,
-      "summary": "Today show host-turned-podcaster Karl Stefanovic has had his interview with far-right extremist Tommy Robinson taken down from social media and podcast platforms.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Stefanovics",
-        "Tommy",
-        "Robinson"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ],
@@ -26607,6 +26607,97 @@
   ],
   "Science": [
     {
+      "title": "Synthetic DNA toolkit expands scientists' ability to recognize genetic targets",
+      "link": "https://phys.org/news/2026-06-synthetic-dna-toolkit-scientists-ability.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-24T18:00:03-04:00",
+      "score": 12,
+      "summary": "A new method for recognizing and targeting DNA that dramatically expands the range of genetic sequences scientists can identify has been developed by experts at the University of Portsmouth. Published this week in Nature Communications, the research opens new possibilities for...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "DNA"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Environmental DNA reveals impact of climate and humans on global river fish biodiversity",
+      "link": "https://phys.org/news/2026-06-environmental-dna-reveals-impact-climate.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-24T18:00:01-04:00",
+      "score": 12,
+      "summary": "A global analysis of fish biodiversity using environmental DNA (eDNA) reveals how human activity and climate influence biodiversity patterns in river ecosystems. An international research team led by the University of Zurich, Eawag and Yunnan University has found that in warme...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "DNA"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Pseudomonads boost crop growth in salty soils across multiple plants, could protect against rising sea levels",
+      "link": "https://phys.org/news/2026-06-pseudomonads-boost-crop-growth-salty.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-24T17:50:04-04:00",
+      "score": 12,
+      "summary": "Researchers at the University of East Anglia have helped uncover a hidden ally in the fight against one of agriculture's greatest threats\u2014salty soil. Led by Chinese collaborator Dr. Yanfen Zheng, the team's new study shows how naturally occurring soil bacteria can dramatically...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Electron buildup at 2D interface reveals how Janus semiconductors form at room temperature",
       "link": "https://phys.org/news/2026-06-electron-buildup-2d-interface-reveals.html",
       "source": "Phys.org",
@@ -32591,96 +32682,70 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Podcasts move stocks but fail to beat market, analysis of 25,000 episodes shows",
-      "link": "https://phys.org/news/2026-06-podcasts-stocks-analysis-episodes.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-22T17:40:06-04:00",
-      "score": 15,
-      "summary": "Investment podcasts can prompt investors to take action. However, they do not provide a reliable return advantage. This is shown in a new working paper by Prof. Dr. Marten Laudi of K\u00fchne Logistics University (KLU) and Janik Ole Wecks of the University of Bremen. Using more tha...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Feeding data to AI to speed up drug discovery",
-      "link": "https://phys.org/news/2026-06-ai-drug-discovery.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-22T17:40:03-04:00",
-      "score": 14,
-      "summary": "Developing new medicines can require thousands of chemistry experiments to identify the right recipe for a safe, effective and ideally affordable drug.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Long-dismissed gas emerges as a hidden driver of urban air pollution",
-      "link": "https://phys.org/news/2026-06-dismissed-gas-emerges-hidden-driver.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-22T17:30:01-04:00",
-      "score": 12,
-      "summary": "Researchers from Tampere University and the University of Helsinki have identified an unexpected chemical process that may influence the formation of air pollution particles in urban environments. The study shows that nitric oxide (NO)\u2014a pollutant primarily emitted by vehicles...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
+    {
+      "title": "Canada in WC knockouts, miss chance to top group",
+      "link": "https://www.espn.com/soccer/story/_/id/49168179/canada-qualify-world-cup-knockouts-miss-chance-top-group-switzerland",
+      "source": "ESPN",
+      "timestamp": "2026-06-24T17:24:50-05:00",
+      "score": 12,
+      "summary": "Canada lost home advantage as World Cup co-hosts after a 2-1 defeat against Switzerland denied Jesse Marsch's team top spot in Group B.",
+      "country": "Canada",
+      "region": "Americas",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ESPN"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Aiyuk: I'll sign with Commanders if 49ers cut me",
+      "link": "https://www.espn.com/nfl/story/_/id/49168245/aiyuk-49ers-cut-sign-commanders-tomorrow",
+      "source": "ESPN",
+      "timestamp": "2026-06-24T17:24:50-05:00",
+      "score": 17,
+      "summary": "Brandon Aiyuk continued his push to become a member of the Commanders on Wednesday, saying in a video posted to Instagram that if the 49ers release him, he will sign with Washington \"tomorrow.\"",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ill",
+        "Commanders"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ESPN"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Sources: Caps get Sabres' Tuch, add 8-year deal",
       "link": "https://www.espn.com/nhl/story/_/id/49167461/sources-caps-signing-alex-tuch-extension-sabres-trade",
@@ -33393,7 +33458,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.3,
+      "trend_score": 8.2,
       "source_count": 13,
       "sources_reporting": [
         "Bloomberg",
@@ -39227,23 +39292,42 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Tigers' Perez hurt when resistance band hits face",
-      "link": "https://www.espn.com/mlb/story/_/id/49101753/of-wenceel-perez-injured-face-training-room-accident",
-      "source": "ESPN",
-      "timestamp": "2026-06-17T19:54:09-05:00",
-      "score": 12,
-      "summary": "Tigers outfielder Wenceel Perez was injured in a freak accident when he was hit in the the face by a resistance band in the training room following Tuesday's game against the Astros.",
+      "title": "Amazon Prime Day Report [Day 2]: Everyday Essentials, World Cup Merch Drive Sales; Oura Ring, Sony, Lenovo Lead Brands Marked 50% Off",
+      "link": "https://variety.com/2026/shopping/news/amazon-prime-day-june-2026-date-deals-what-to-buy-online-1236739562/",
+      "source": "Variety",
+      "timestamp": "2026-06-24T21:58:00+00:00",
+      "score": 15,
+      "summary": "Amazon Prime Day is back, and the retailer is bringing its annual shopping day to the masses earlier than ever this year. Amazon Prime Day 2026 takes place from June 23 to 26 this year. That breaks with tradition, as Prime Day has typically been held in July as a counter to th...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Sports Publication",
+      "source_type": "Entertainment",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Perez"
+        "Prime",
+        "Day",
+        "Report",
+        "Everyday",
+        "Essentials",
+        "World",
+        "Cup",
+        "Merch",
+        "Drive",
+        "Sales",
+        "Oura",
+        "Ring",
+        "Sony",
+        "Lenovo",
+        "Lead",
+        "Brands",
+        "Marked",
+        "Off"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -39252,50 +39336,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "ESPN"
+        "Variety"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Knicks to become first NBA champion to visit Trump White House, Dolan says",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY0pzQWtNcEdNX3RvZjgwbkhlazRLYnJ1NWV3eXFWQV82aVZXNzhUQXIzSFF1SXp3SlRBSTNEY3ZJR3F3OGw1cGp0NUwyOXhKWmFKZnRLSk5fdmtra3Z6R1RqX18zb1ctWEVUS1l1ZzJLWVNwcko2aHJNa0cyUmh2UHc5WDRJRURGMW5RTGNRSG0tR0hMdzlkUWZaYjFueTdlNTQzQy1WMFdjNEdJMEZXVA?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-17T23:33:00+00:00",
-      "score": 12,
-      "summary": "Knicks to become first NBA champion to visit Trump White House, Dolan says USA TodayKnicks accepted invitation to visit Trump at White House, owner James Dolan says CBS NewsJose Alvarado shares thoughts on potential Knicks White House visit Yahoo SportsKnicks Owner Says He Acc...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NBA",
-        "Trump",
-        "White",
-        "House",
-        "Dolan"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
     {
       "title": "New Trump Tell-All Book Details His Issues With the Ellisons, His Interest in Sydney Sweeney and How Dr. Phil Helped ICE",
       "link": "https://variety.com/2026/politics/news/regime-change-trump-sydney-sweeney-ellisons-1236789517/",
@@ -47264,48 +47311,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018I Will Find You\u2019 Nabs 24 Million Views in 4 Days, Netflix\u2019s Biggest New Series Debut of 2026",
-      "link": "https://variety.com/2026/tv/news/i-will-find-you-netflix-biggest-new-series-debut-2026-1236788553/",
-      "source": "Variety",
-      "timestamp": "2026-06-23T19:00:00+00:00",
-      "score": 15,
-      "summary": "Harlan Coben\u2019s \u201cI Will Find You\u201d scored 24 million views in its first four days on Netflix, marking the streamer\u2019s biggest series debut of 2026. Netflix did not define how many days defined a \u201cdebut,\u201d but the mystery limited series topped the TV charts in the week of June 15 t...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Will",
-        "Find",
-        "You",
-        "Nabs",
-        "Million",
-        "Views",
-        "Days",
-        "Netflixs",
-        "Biggest",
-        "New",
-        "Series",
-        "Debut"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -53713,6 +53718,104 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.5 - 14 km NNW of Blackwell, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjbysd",
+      "source": "USGS",
+      "timestamp": "2026-06-24T21:58:43.860000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-24 21:55:28 UTC2026-06-24 21:55:28 UTC at epicenterLocation32.201\u00b0N 100.402\u00b0WDepth5.69 km (3.54 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Blackwell",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.9 - 12 km N of Redwood Valley, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383546",
+      "source": "USGS",
+      "timestamp": "2026-06-24T21:55:59.951000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-24 21:54:25 UTC2026-06-24 21:54:25 UTC at epicenterLocation39.369\u00b0N 123.228\u00b0WDepth6.54 km (4.06 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Redwood",
+        "Valley"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.1 - 9 km NNW of Redwood Valley, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75383541",
+      "source": "USGS",
+      "timestamp": "2026-06-24T21:55:30.086000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-24 21:53:53 UTC2026-06-24 21:53:53 UTC at epicenterLocation39.336\u00b0N 123.251\u00b0WDepth7.65 km (4.75 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Redwood",
+        "Valley"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.3 - 25 km ENE of West Yellowstone, Montana",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80143276",
       "source": "USGS",
@@ -60109,105 +60212,6 @@
         "GDACS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 31 km SSE of Nelchina, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mjhcar",
-      "source": "USGS",
-      "timestamp": "2026-06-23T22:39:43.284000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-23 22:38:16 UTC2026-06-23 22:38:16 UTC at epicenterLocation61.741\u00b0N 146.488\u00b0WDepth50.30 km (31.25 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "SSE",
-        "Nelchina",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 13 km ESE of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74989522",
-      "source": "USGS",
-      "timestamp": "2026-06-23T22:36:08.230000+00:00",
-      "score": 17,
-      "summary": "Time2026-06-23 22:32:28 UTC2026-06-23 22:32:28 UTC at epicenterLocation19.161\u00b0N 155.356\u00b0WDepth29.15 km (18.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 7 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382471",
-      "source": "USGS",
-      "timestamp": "2026-06-23T22:24:58.643000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-23 22:23:23 UTC2026-06-23 22:23:23 UTC at epicenterLocation38.817\u00b0N 122.816\u00b0WDepth2.78 km (1.73 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
