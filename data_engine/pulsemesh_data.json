@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "Education secretary says she'll turn Tory leader's insult into a T-shirt",
+      "link": "https://www.bbc.co.uk/news/articles/clyrk2eg1wro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-06-25T09:55:05+00:00",
+      "score": 12,
+      "summary": "Conservative leader Kemi Badenoch's called Bridget Phillipson a 'spiteful class warrior' at PMQs.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tory",
+        "Tshirt"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Amazon CEO meets PM Modi; announces plans to invest additional $13 billion in India on cloud, AI",
       "link": "https://www.thehindu.com/business/Industry/amazon-ceo-andy-jassy-meets-pm-modi-investments-2030-india-ai-cloud/article71145559.ece",
       "source": "The Hindu",
@@ -6648,25 +6680,27 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "India, U.S. note \u2018substantial progress\u2019 on trade deal talks as USTR Greer ends two-day visit to Delhi",
-      "link": "https://www.thehindu.com/news/national/india-us-conclude-two-day-trade-talks-review-core-elements-of-bilateral-pact/article71141801.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-24T18:37:56+05:30",
+      "title": "Cellebrite said it cut off Russia, but Russia used is tools anyway",
+      "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
+      "source": "TechCrunch",
+      "timestamp": "2026-06-25T10:00:00+00:00",
       "score": 14,
-      "summary": "US Trade Representative Jamieson Greer held multiple meetings with Commerce Minister Piyush Goyal. However, the two sides have not yet been able to announce a deadline by which the trade deals will be finalised.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "Security researchers found evidence that Russian authorities hacked the iPhone of a political opponent using a phone-unlocking device made by Cellebrite, even after the company said it would stop selling to Putin\u2019s government.",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "USTR",
-        "Greer",
-        "Delhi"
+        "Russia"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6675,15 +6709,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Facebook\u2019s Creator Studio has been revived as an AI companion app",
       "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
@@ -13585,32 +13617,64 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "I Found 37 Early Prime Day Deals That Are Worth Shopping Now (2026)",
-      "link": "https://www.wired.com/story/early-prime-day-deals-june-2026-3/",
-      "source": "Wired",
-      "timestamp": "2026-06-22T17:01:33+00:00",
-      "score": 17,
-      "summary": "We\u2019ve trawled the depths of Amazon to find the best early Prime Day deals on gear we\u2019ve tested.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
+      "title": "West Asia war LIVE: As IRGC issue warning, Rubio says Hormuz tolls could 'spread like contagion' to other waterways",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-25-2026/article71144582.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-25T15:24:54+05:30",
+      "score": 12,
+      "summary": "On deal with Iran, Rubio said open for peace without undermining security of U.S., its allies; he is in Bahrain for a Gulf Cooperation Council meeting",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Found",
-        "Early",
-        "Prime",
-        "Day",
-        "Deals",
-        "That",
-        "Are",
-        "Worth",
-        "Shopping",
-        "Now"
+        "Asia",
+        "LIVE",
+        "IRGC",
+        "Rubio",
+        "Hormuz"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Any deal with Iran will ensure security of Gulf allies: Rubio",
+      "link": "https://www.thehindu.com/news/international/any-deal-with-iran-will-ensure-security-of-gulf-allies-rubio/article71145658.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-25T15:23:42+05:30",
+      "score": 14,
+      "summary": "The U.S. Secretary of State\u2019s three-day tour of \u200bthe Gulf is the first high-level diplomatic mission \u200csince the U.S.-Iran framework agreement last week to end the conflict",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Iran",
+        "Gulf",
+        "Rubio"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13619,15 +13683,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "Wired"
+        "The Hindu"
       ],
-      "trend_accel": "+53%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Police seal off key roads in Nairobi as Kenya braces for Gen Z protests",
       "link": "https://www.bbc.co.uk/news/articles/cgqjl8kj8wpo?at_medium=RSS&at_campaign=rss",
@@ -13778,15 +13840,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 7,
+      "trending": true,
+      "trend_score": 11.1,
+      "source_count": 19,
       "sources_reporting": [
+        "AP",
         "France24",
-        "NYT"
+        "NHK",
+        "NPR",
+        "NYT",
+        "The Hindu"
       ],
-      "trend_accel": "+64%",
-      "heat_level": "HOT"
+      "trend_accel": "+84%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Reeves hints she accepts Burnham will not keep her as chancellor \u2013 UK politics live",
@@ -16968,8 +17034,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 10.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "ABC Australia",
@@ -20066,66 +20132,6 @@
         "NYT"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Sydney, Melbourne tipped to lead housing price drops as market cools",
-      "link": "https://www.abc.net.au/news/2026-06-25/sydney-melbourne-price-falls-forecast-domain-housing-downturn/106836334",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-24T14:05:07+00:00",
-      "score": 14,
-      "summary": "House price falls of up to 7 and 8 per cent in Sydney and Melbourne have been forecast for the year ahead, according to Domain. But it's far from doom and gloom for existing owners, with resale profits hitting a record.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Melbourne"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Europe heatwave live: estimated 94 million people to experience temperatures above 35C today",
-      "link": "https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert",
-      "source": "Guardian",
-      "timestamp": "2026-06-24T14:04:27+00:00",
-      "score": 13,
-      "summary": "UK issues rare red heat alert as 68,000 households lose electricity in northern France and Italy puts warnings in place for 16 citiesTell us: how is the heatwave in the UK and across Europe affecting you?Grahame Madge, a Met Office spokesperson, said the agency is forecasting ...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+62%",
       "heat_level": "LOW"
     }
   ],
@@ -28806,7 +28812,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.5,
+      "trend_score": 7.4,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -39406,6 +39412,80 @@
   ],
   "Entertainment": [
     {
+      "title": "Tubi to Provide Creatorverse Lineup to Amazon\u2019s Fire TV (EXCLUSIVE)",
+      "link": "https://variety.com/2026/biz/news/tubi-creatorverse-lineup-amazon-fire-tv-exclusive-1236789738/",
+      "source": "Variety",
+      "timestamp": "2026-06-25T10:00:00+00:00",
+      "score": 12,
+      "summary": "Tubi, Fox\u2019s free streaming service, has found a host of new screens for its Creatorverse lineup of shows. The service is bringing its suite of creator-led shows and movies to Amazon\u2019s Fire TV platform, giving those with Fire TVs or tablets a front seat to shows starring creato...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Provide",
+        "Creatorverse",
+        "Lineup",
+        "Amazons",
+        "Fire",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "AI Music Platform Suno Reveals Incubator Program For Indie Artists",
+      "link": "https://www.hollywoodreporter.com/music/music-industry-news/suno-reveals-incubator-program-for-indie-artists-1236630427/",
+      "source": "THR",
+      "timestamp": "2026-06-25T10:00:00+00:00",
+      "score": 14,
+      "summary": "The company said it'd give indie artists grants in the controversial company's latest bid to curry favor with the music community.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Music",
+        "Platform",
+        "Suno",
+        "Reveals",
+        "Incubator",
+        "Program",
+        "Indie",
+        "Artists"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Ricky Gervais Talks Netflix\u2019s \u2018Alley Cats\u2019 as Annecy Sings Him \u2018Happy Birthday\u2019: \u2018I Hope You Like Cats. And Swearing\u2019",
       "link": "https://variety.com/2026/film/global/ricky-gervais-netflix-alley-cats-annecy-1236790121/",
       "source": "Variety",
@@ -47376,85 +47456,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "The Independents Acquires \u2018Emilia P\u00e9rez\u2019 & \u2018Paper Tiger\u2019 Producing Phantasm Group",
-      "link": "https://deadline.com/2026/06/the-independents-emilia-perez-paper-tiger-phantasm-group-1236965868/",
-      "source": "Deadline",
-      "timestamp": "2026-06-24T07:00:24+00:00",
-      "score": 12,
-      "summary": "The Independents, the Paris-based communications group specialized in lifestyle and luxury, has acquired the French advertising and film production-focused Phantasm Group. The Phantasm Group is best known in the film industry for its production arm Vixens, the recent credits o...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Independents",
-        "Acquires",
-        "Emilia",
-        "Prez",
-        "Paper",
-        "Tiger",
-        "Producing",
-        "Phantasm",
-        "Group"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Karlovy Vary to Fete Double Anniversary With Biggest Czech Drone Show Ever and NobodyListen",
-      "link": "https://www.hollywoodreporter.com/news/general-news/karlovy-vary-biggest-drone-show-czechia-nobodylisten-music-1236626977/",
-      "source": "THR",
-      "timestamp": "2026-06-24T06:05:12+00:00",
-      "score": 12,
-      "summary": "The drone spectacular will follow a musical program showcasing a broad lineup of performers, \"because in my mind, connections are the embodiment of the festival,\" says DJ and producer NobodyListen.",
-      "country": "Czech Republic",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Vary",
-        "Fete",
-        "Double",
-        "Anniversary",
-        "Biggest",
-        "Czech",
-        "Drone",
-        "Show",
-        "Ever",
-        "NobodyListen"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -53802,37 +53803,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Festive gifts: Good health and self care",
-      "link": "https://www.thehindu.com/life-and-style/festive-gifts-good-health-and-self-care/article70174081.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-18T15:20:44+05:30",
-      "score": 12,
-      "summary": "This festive season, choose a gifting experience that encourages self care, wellness, good health, and a natural glow",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Good"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -53865,6 +53835,73 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Water safety during Heat Alert - Bedford Borough Council",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13UzFRMzNSdURHaXJ1dmV1VHlXUG0tTHpVZHV3SlV0Y3pQTHEzVTFhT2g1X19jMlJGdWtMMjNEeVFSejF3bGdlSDNFOXFvOHI1ZE05cFdncDZYTGJkSXRnbFUxV2NkVW9UMDFObHdtZDhaUnNqQXc?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-06-25T09:51:24+00:00",
+      "score": 12,
+      "summary": "Water safety during Heat Alert Bedford Borough Council",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Heat",
+        "Alert",
+        "Bedford",
+        "Borough",
+        "Council"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.1 - 72 km N of Aleneva, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mlzmkp",
+      "source": "USGS",
+      "timestamp": "2026-06-25T09:50:48.226000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-25 09:49:18 UTC2026-06-25 09:49:18 UTC at epicenterLocation58.713\u00b0N 152.877\u00b0WDepth68.50 km (42.56 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Aleneva",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
       "heat_level": "LOW"
     },
     {
@@ -60284,71 +60321,6 @@
         "ReliefWeb"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.5 - 19 km SW of Ocotillo Wells, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41494224",
-      "source": "USGS",
-      "timestamp": "2026-06-24T08:59:53.875000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-24 08:56:26 UTC2026-06-24 08:56:26 UTC at epicenterLocation33.031\u00b0N 116.292\u00b0WDepth6.53 km (4.06 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ocotillo",
-        "Wells"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.0 - 5 km S of Meadow Lakes, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mkbjen",
-      "source": "USGS",
-      "timestamp": "2026-06-24T08:56:45.372000+00:00",
-      "score": 15,
-      "summary": "DYFI? - IIITime2026-06-24 08:46:14 UTC2026-06-24 08:46:14 UTC at epicenterLocation61.574\u00b0N 149.620\u00b0WDepth14.00 km (8.70 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Meadow",
-        "Lakes",
-        "Alaska"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ]
