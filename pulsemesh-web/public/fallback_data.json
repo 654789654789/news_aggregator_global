@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "Mahmood restricts minister's access to documents as Home Office row escalates",
+      "link": "https://www.bbc.co.uk/news/articles/cj9g7w0xnnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-06-26T11:35:55+00:00",
+      "score": 12,
+      "summary": "Shabana Mahmood believes Mike Tapp should be sacked for writing an article but No 10 says the PM is taking advice.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Home",
+        "Office"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Drug cases can cost government jobs and passports, warns Annamayya SP",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/drug-cases-can-cost-government-jobs-and-passports-warns-annamayya-sp/article71150239.ece",
       "source": "The Hindu",
@@ -6625,23 +6657,25 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Tungabhadra river: Origin, course, dam project and inter-State water sharing explained",
-      "link": "https://www.thehindu.com/news/national/tungabhadra-river-origin-course-dam-project-karnataka-telangana-andhra-pradesh-water-sharing/article71145516.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-25T15:40:25+05:30",
-      "score": 14,
-      "summary": "The Tungabhadra reservoir remains a vital inter-State lifeline, serving agricultural command areas across Karnataka, Andhra Pradesh and Telangana",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Samsung will soon start charging to access its smart home API",
+      "link": "https://www.theverge.com/tech/957597/samsung-smartthings-api-charges",
+      "source": "Verge",
+      "timestamp": "2026-06-26T07:38:11-04:00",
+      "score": 12,
+      "summary": "From October this year Samsung will roll out a variety of new paid tiers for access to its SmartThings API, including a $4.99 monthly plan for \"non-commercial, individual developers.\" It won't just be developers that pay the price though. Some more advanced smart home users ar...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Origin"
+        "API"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6652,13 +6686,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Apple\u2019s most powerful Macs might be waiting until 2027 for big processor upgrades",
       "link": "https://www.theverge.com/tech/957561/apple-m6-m7-ai-chip-release-timeline-gurman",
@@ -13508,47 +13540,42 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "The \u2018Parasite of Parasites\u2019 Has Been Discovered in the Tropical Forests of Borneo",
-      "link": "https://www.wired.com/story/the-parasite-of-parasites-has-been-discovered-in-the-tropical-forests-of-borneo/",
-      "source": "Wired",
-      "timestamp": "2026-06-23T18:54:52+00:00",
+      "title": "West Asia war LIVE: UN says Iran nuclear pledge needs 'very strong' verification",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-usa-israel-conflict-washington-tehran-peace-deal-donald-trump-strait-of-hormuz-live-updates-june-26-2026/article71149347.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-26T17:04:47+05:30",
       "score": 12,
-      "summary": "A newly identified species of fungus attacks the famous \u201czombie mushrooms\u201d that control ants.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
+      "summary": "Taiwanese shipping operator Evergreen Marine said one of its container ships was hit by an \u201cunidentified object\u201d in the Strait of Hormuz, but the crew, vessel and cargo were \u201cunharmed\u201d",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Parasite",
-        "Parasites",
-        "Has",
-        "Been",
-        "Discovered",
-        "Tropical",
-        "Forests",
-        "Borneo"
+        "Asia",
+        "LIVE",
+        "Iran"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Wired"
+        "The Hindu"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Millions in England face red heat warning while Paris postpones Pride as heatwave grips Europe \u2013 live",
       "link": "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates",
@@ -20103,30 +20130,61 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Latest Victims of France\u2019s Heat Wave: Children Locked in Family Cars",
-      "link": "https://www.nytimes.com/2026/06/25/world/europe/france-children-heat-cars-deaths.html",
-      "source": "NYT",
-      "timestamp": "2026-06-25T16:36:55+00:00",
-      "score": 12,
-      "summary": "As temperatures pass record levels in France, the heat wave-related death toll continues to rise.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "Stock futures decline with chip stocks weak after OpenAI IPO delay report: Live updates",
+      "link": "https://www.cnbc.com/2026/06/25/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-26T11:43:16+00:00",
+      "score": 14,
+      "summary": "The technology-dominant Nasdaq Composite and broad S&P 500 index are both on pace to end the trading week in the red.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Victims",
-        "Frances",
-        "Heat",
-        "Wave",
-        "Children",
-        "Locked",
-        "Family",
-        "Cars"
+        "OpenAI",
+        "IPO",
+        "Live"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Sandisk, On Semiconductor, Rocket Lab & more",
+      "link": "https://www.cnbc.com/2026/06/26/stocks-making-the-biggest-moves-premarket-sndk-on-rkl.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-26T11:39:57+00:00",
+      "score": 14,
+      "summary": "These are the stocks posting the largest moves premarket.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sandisk",
+        "Semiconductor",
+        "Rocket",
+        "Lab"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -20137,13 +20195,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "NYT"
+        "CNBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Robinhood is expensive relative to peers. BTIG says the premium is 'warranted'",
       "link": "https://www.cnbc.com/2026/06/26/robinhood-is-expensive-relative-to-peers-btig-says-the-premium-is-warranted.html",
@@ -26611,26 +26667,55 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "New India Assurance: FY27 profit may get capital gains boost from NSE stake sale, but watch underwriting loss",
-      "link": "https://www.livemint.com/market/mark-to-market/new-india-assurance-nse-stake-value-explained-11782373181638.html",
-      "source": "Livemint",
-      "timestamp": "2026-06-25T14:28:09+05:30",
-      "score": 17,
-      "summary": "NIACL's stock surged nearly 30% after the NSE's IPO prospectus revealed NIACL as a selling shareholder. Despite profit growth, NIACL faces underwriting losses and a high combined ratio, leading to a lower valuation multiple compared to competitors.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "First Nations women in fire: A vital opportunity to boost the workforce and increase community safety",
+      "link": "https://phys.org/news/2026-06-nations-women-vital-opportunity-boost.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-26T07:40:06-04:00",
+      "score": 12,
+      "summary": "A groundbreaking report has revealed that supporting First Nations women in fire and land management is a critical, yet untapped, strategy for protecting Australian communities from escalating climate disasters.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "India",
-        "Assurance",
-        "NSE"
+        "Nations"
       ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Metal hydride molecule trapped with laser light opens path to ultracold hydrogen",
+      "link": "https://phys.org/news/2026-06-metal-hydride-molecule-laser-path.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-26T07:40:01-04:00",
+      "score": 10,
+      "summary": "Controlling and trapping molecules, units of a substance consisting of two or more chemically bound atoms, with laser light is significantly more challenging than trapping individual atoms. This is because molecules exhibit more complex vibrational and rotational dynamics that...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26640,52 +26725,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Skip the Prime Day Hype and Shop These 50+ Major Walmart Deals Instead",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SUDdLTGxxTmpMMk03cG02UjJfMHdRaVpocVpENEZyOWgyNkpVRnl6Qk12TkFrN3RTZWxxYkhPV0E0WGhMcWlMUmhrZUxFSEdxVENjcHZ5VVNEeEFRNS1qV3lMdWg3aVYyOTRvWHdOY0xaQVU2T2g1Ng?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-06-25T08:57:51+00:00",
-      "score": 17,
-      "summary": "Skip the Prime Day Hype and Shop These 50+ Major Walmart Deals Instead CNETHere are my favorite Prime Day-level savings to shop from Walmart\u2019s summer sale CNNIt\u2019s Prime Day, But Check Out Walmart\u2019s Sale Too New York MagazineWalmart Deals Week Is Back \u2014 and It\u2019s Giving Prime Da...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Prime",
-        "Day",
-        "Hype",
-        "Shop",
-        "These",
-        "Major",
-        "Walmart",
-        "Deals",
-        "Instead"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "New research outlines human-centered AI framework for online student success",
       "link": "https://phys.org/news/2026-06-outlines-human-centered-ai-framework.html",
@@ -32718,64 +32762,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Physical pressure helps pathogenic P. aeruginosa survive antibiotic treatment",
-      "link": "https://phys.org/news/2026-06-physical-pressure-pathogenic-p-aeruginosa.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-23T19:40:05-04:00",
-      "score": 12,
-      "summary": "Pseudomonas aeruginosa is an opportunistic pathogen that can cause acute and chronic infections. Responsible for many hospital-acquired infections, it is also a major concern for people with cystic fibrosis, whose lungs are clogged with thick mucus that promotes its growth.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Researchers aim for hardier herds of worms for productive, resilient farming practice",
-      "link": "https://phys.org/news/2026-06-aim-hardier-herds-worms-productive.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-23T19:40:01-04:00",
-      "score": 12,
-      "summary": "The black soldier fly converts organic waste into biomass. The cricket brings crunchy protein to the dinner plate. The mealworm can break down plastic.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32810,6 +32796,41 @@
         "ESPN"
       ],
       "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "World Cup 2026: USMNT stunned by T\u00fcrkiye in stoppage time, losing perfect group stage run - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeVRIYk42ejVVZTAwampoS0JKYkU4Z190S1NSdTd5ZHRfSTFLV3BjdWw4TUlodVREZ2pJVGUxcm05NEpvaTJ5VVhYeFdETThjUUFFTU4wWml4RXhpZEh5MGgzWWpYVi0tTnc1LXJYZ0tleHhZbUp5UHI4cEJuSTVreEdydVhRR01aaDFyNXpscnpkRGNSVXhLd2xyR2hueEZLY3g4bkV1aUp1UEswaHRWNF9fdHF0MUJVM3JUa3ZDa2NhV2o5aV9DZG5FV2lCQ0NIZjc2aDNB?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-06-26T11:40:12+00:00",
+      "score": 15,
+      "summary": "World Cup 2026: USMNT stunned by T\u00fcrkiye in stoppage time, losing perfect group stage run Yahoo SportsA last-second goal ends the World Cup honeymoon for Mauricio Pochettino and the USA. Now the real work begins CNNThis wasn\u2019t the way the US men\u2019s soccer team wanted to go into...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cup",
+        "USMNT",
+        "Trkiye",
+        "Yahoo",
+        "Sports"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+49%",
       "heat_level": "LOW"
     },
     {
@@ -39317,38 +39338,6 @@
         "Cricinfo"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tempo's Sykes, Rice likely to miss extended time",
-      "link": "https://www.espn.com/wnba/story/_/id/49116974/tempo-sykes-plantar-fascia-rice-ankle-extended",
-      "source": "ESPN",
-      "timestamp": "2026-06-19T10:21:28-05:00",
-      "score": 12,
-      "summary": "Toronto's Brittney Sykes (plantar fascia) and Kiki Rice (ankle) are expected to miss extended time, the Tempo announced Friday.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Sports Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sykes",
-        "Rice"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ESPN"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -54548,6 +54537,39 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 6.7 - 21 km WSW of Sarangani, Philippines",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26177001",
+      "source": "USGS",
+      "timestamp": "2026-06-26T11:42:35.220000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-26 11:34:43 UTC2026-06-26 11:34:43 UTC at epicenterLocation5.331\u00b0N 125.286\u00b0EDepth65.70 km (40.82 mi)",
+      "country": "Philippines",
+      "region": "Southeast Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Sarangani",
+        "Philippines"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 2.0 - 13 km WNW of Valdez, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mnyvxw",
       "source": "USGS",
@@ -61106,40 +61128,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 52 km S of Whites City, New Mexico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mjuvse",
-      "source": "USGS",
-      "timestamp": "2026-06-25T07:29:39.237000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-25 07:25:30 UTC2026-06-25 07:25:30 UTC at epicenterLocation31.707\u00b0N 104.287\u00b0WDepth4.35 km (2.70 mi)",
-      "country": "Mexico",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Whites",
-        "City",
-        "New",
-        "Mexico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
