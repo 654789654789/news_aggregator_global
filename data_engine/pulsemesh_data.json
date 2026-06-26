@@ -8236,7 +8236,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 12,
       "sources_reporting": [
         "Google News",
@@ -8246,7 +8246,7 @@
         "Verge",
         "Wired"
       ],
-      "trend_accel": "+82%",
+      "trend_accel": "+81%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13514,6 +13514,38 @@
   ],
   "World": [
     {
+      "title": "Heavy rain to soak Australia's east as un-El Ni\u00f1o-like weather continues",
+      "link": "https://www.abc.net.au/news/2026-06-27/heavy-rain-australia-east-as-el-nino-weather/106848044",
+      "source": "ABC Australia",
+      "timestamp": "2026-06-26T20:03:51+00:00",
+      "score": 14,
+      "summary": "For an El Ni\u00f1o year, 2026 is so far the wettest on record for Australia, and an influx of tropical moisture is about to deliver another round of widespread rain.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Australias",
+        "Niolike"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Venezuelans search for missing as earthquake death toll climbs",
       "link": "https://www.france24.com/en/americas/20260626-venezuelans-search-for-missing-as-earthquake-death-toll-climbs",
       "source": "France24",
@@ -15403,7 +15435,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -15414,7 +15446,7 @@
         "PBS",
         "The Hindu"
       ],
-      "trend_accel": "+85%",
+      "trend_accel": "+84%",
       "heat_level": "CRITICAL"
     },
     {
@@ -15996,7 +16028,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 19,
       "sources_reporting": [
         "BBC",
@@ -16007,7 +16039,7 @@
         "NYT",
         "Reuters"
       ],
-      "trend_accel": "+87%",
+      "trend_accel": "+86%",
       "heat_level": "CRITICAL"
     },
     {
@@ -20153,23 +20185,89 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Daughter arrested after mother's body found at Sydney aged care home",
-      "link": "https://www.abc.net.au/news/2026-06-26/daughter-arrested-after-mothers-body-found-at-sydney-aged-care/106844138",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-26T01:22:00+00:00",
-      "score": 12,
-      "summary": "Police question a 53-year-old woman in Sydney's west about an allegedly administered substance after her mother was found dead in an aged care home.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Nasdaq Composite posts fifth losing session Friday as chip stocks tumble: Live updates",
+      "link": "https://www.cnbc.com/2026/06/25/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-26T20:15:02+00:00",
+      "score": 14,
+      "summary": "OpenAI is reportedly considering delaying its IPO and as a sell-off in tech gathered pace.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Sydney"
+        "Composite",
+        "Friday",
+        "Live"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Micron sinks 6%, wrapping a wild week of trading that saw big swings",
+      "link": "https://www.cnbc.com/2026/06/26/micron-stock-earnings-tech-selloff-ai.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-26T20:14:30+00:00",
+      "score": 13,
+      "summary": "Micron Technology's shares tumbled on Friday amid a global sell-off in chip stocks.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "ON Semiconductor records worst day since 2020 as CEO defends Synaptics deal",
+      "link": "https://www.cnbc.com/2026/06/26/on-semi-stock-synaptics-ceo-hassane-el-khoury.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-26T20:09:01+00:00",
+      "score": 17,
+      "summary": "The pivot into physical AI grows On Semi's addressable market by an additional $30 billion, the company said.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Semiconductor",
+        "CEO",
+        "Synaptics"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -20180,13 +20278,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "The World Cup has made Cape Verde goalkeeper Vozinha a $17 million star",
       "link": "https://www.marketwatch.com/story/the-world-cup-has-made-cape-verde-goalkeeper-vozinha-a-17-million-star-15af0138?mod=mw_rss_topstories",
@@ -26643,103 +26739,6 @@
         "CNBC"
       ],
       "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Oil Prices Fluctuate as Gulf Shipping Advances",
-      "link": "https://www.nytimes.com/2026/06/25/business/oil-prices-gas-iran.html",
-      "source": "NYT",
-      "timestamp": "2026-06-25T16:07:15+00:00",
-      "score": 12,
-      "summary": "Oil prices fell, moving closer to levels not seen since the war in Iran began in February.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Prices",
-        "Fluctuate",
-        "Gulf",
-        "Shipping",
-        "Advances"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Rafael Nadal says he won't return to pro tennis following Serena Williams' comeback",
-      "link": "https://www.cnbc.com/2026/06/25/rafael-nadal-tennis-comeback-serena-williams.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-25T16:03:47+00:00",
-      "score": 12,
-      "summary": "Rafael Nadal told CNBC Sport he has closed the chapter on playing pro tennis forever.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nadal",
-        "Serena",
-        "Williams"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Micron is up 13% after blockbuster earnings, but has pulled back from highs",
-      "link": "https://www.cnbc.com/2026/06/25/micron-stock-3q-earnings-memory.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-25T15:58:52+00:00",
-      "score": 13,
-      "summary": "The company's revenue more than quadrupled from $9.3 billion a year earlier to $41.46 billion, it reported on Wednesday",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ],
@@ -54685,6 +54684,40 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 2.4 - 58 km S of Whites City, New Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mmpdmk",
+      "source": "USGS",
+      "timestamp": "2026-06-26T20:04:29.043000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-26 19:46:43 UTC2026-06-26 19:46:43 UTC at epicenterLocation31.652\u00b0N 104.378\u00b0WDepth6.10 km (3.79 mi)",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Whites",
+        "City",
+        "New",
+        "Mexico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.8 - 4 km SSW of Lucerne Valley, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41496232",
       "source": "USGS",
@@ -61233,38 +61266,6 @@
         "USGS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 11 km W of Rotan, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026mkitzd",
-      "source": "USGS",
-      "timestamp": "2026-06-25T15:09:58.738000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-25 14:25:49 UTC2026-06-25 14:25:49 UTC at epicenterLocation32.837\u00b0N 100.589\u00b0WDepth8.76 km (5.45 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rotan",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ]
