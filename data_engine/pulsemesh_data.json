@@ -1,6 +1,44 @@
 {
   "Politics": [
     {
+      "title": "U.S. strikes Iran in response to drone attack on cargo ship that Trump says violated ceasefire",
+      "link": "https://www.pbs.org/newshour/world/u-s-strikes-iran-in-response-to-drone-attack-on-cargo-ship-that-trump-says-violated-ceasefire",
+      "source": "PBS",
+      "timestamp": "2026-06-26T18:02:14-04:00",
+      "score": 12,
+      "summary": "The strikes came shortly after Trump told reporters, \"You'll find out,\" whether the U.S. would respond to a drone attack a day earlier on a cargo ship in the Strait of Hormuz.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran",
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": true,
+      "trend_score": 8.5,
+      "source_count": 17,
+      "sources_reporting": [
+        "Guardian",
+        "NHK",
+        "PBS",
+        "Reuters",
+        "The Hill"
+      ],
+      "trend_accel": "+68%",
+      "heat_level": "SURGING"
+    },
+    {
       "title": "Palaniswami appoints a few more for party posts in AIADMK",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-appoints-a-few-more-for-party-posts-in-aiadmk/article71150784.ece",
       "source": "The Hindu",
@@ -297,14 +335,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 8.9,
+      "source_count": 18,
       "sources_reporting": [
+        "Bloomberg",
+        "NPR",
+        "PBS",
+        "PBS",
         "The Hill"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
+      "trend_accel": "+72%",
+      "heat_level": "SURGING"
     },
     {
       "title": "One dead in Agartala blast; State govt. orders probe",
@@ -469,8 +511,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -1741,8 +1783,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "Bloomberg",
@@ -6641,22 +6683,27 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Karnataka\u2019s mango farmers unhappy over centre\u2019s assistance",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnatakas-mango-farmers-unhappy-over-centres-assistance/article71146966.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-06-26T00:35:38+05:30",
-      "score": 10,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "After covering Prime Day for 36 hours over four days, this is the one thing I bought",
+      "link": "https://www.theverge.com/gadgets/958179/prime-day-what-i-bought-vampliers-stripped-screw-extractor",
+      "source": "Verge",
+      "timestamp": "2026-06-26T18:09:46-04:00",
+      "score": 15,
+      "summary": "We\u2019ve covered so many deals during Prime Day that my head is spinning. But after four days of doing our damndest to try and help folks save money, the thing I\u2019m most hyped for is a simple tool for fixing my most egregious mistakes. I bought a pair of Vampliers. If you\u2019re unfam...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Prime",
+        "Day"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6664,15 +6711,49 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "Prime Day Deal 2026: Fellow Espresso Series 1 Is $200 Off",
+      "link": "https://www.wired.com/story/amazon-prime-day-deal-2026-fellow-series-1/",
+      "source": "Wired",
+      "timestamp": "2026-06-26T22:04:47+00:00",
+      "score": 17,
+      "summary": "This is the last day for deals on Fellow Series 1 espresso machine, Fellow Aiden, and Fellow Stagg kettle. Each is the best in their category.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Day",
+        "Deal",
+        "Fellow",
+        "Espresso",
+        "Series",
+        "Off"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Wired"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn\u2019t steal an open source product",
       "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
@@ -13440,84 +13521,75 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "The Dyson PencilWash is down to its lowest price ever for Prime Day",
-      "link": "https://www.theverge.com/gadgets/954273/dyson-pencilwash-wet-floor-cleaner-mop-deal-sale",
-      "source": "Verge",
-      "timestamp": "2026-06-24T07:31:42-04:00",
-      "score": 12,
-      "summary": "Dyson\u2019s PencilWash cordless hard floor cleaner is on sale for $199.99 ($150 off) at Amazon. This is the lowest price yet for the powered wet mop that\u2019s a cousin to the silly-sounding-but-awesome Dyson PencilVac Fluffycones vacuum. The PencilWash basically takes the sleek styli...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Dyson",
-        "PencilWash",
-        "Prime",
-        "Day"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "18 Walmart Deals We Like Better Than That Other Sale Happening Right Now",
-      "link": "https://www.wired.com/story/walmart-deals-apd-06-24-2026/",
-      "source": "Wired",
-      "timestamp": "2026-06-24T11:08:56+00:00",
-      "score": 17,
-      "summary": "Welcome to Walmart deals for folks who\u2019d rather not shop at Amazon. These are the best gadget deals at Walmart this Prime Day.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Walmart",
-        "Deals",
-        "Like",
-        "Better",
-        "Than",
-        "That",
-        "Other",
-        "Sale",
-        "Happening",
-        "Right",
-        "Now"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Wired"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
     }
   ],
   "World": [
+    {
+      "title": "Venezuela deadly earthquake: 'Countless lives lost that in a normal country would have been rescued'",
+      "link": "https://www.france24.com/en/venezuela-deadly-earthquake-countless-lives-lost-that-in-a-normal-country-would-have-been-rescued",
+      "source": "France24",
+      "timestamp": "2026-06-26T22:13:08+00:00",
+      "score": 10,
+      "summary": "Gavin Lee is pleased to welcome Germania Rodriguez Paleo, American-Venezuelan journalist and commentator, former US chief reporter for the Daily Mail. She offers a forceful political interpretation of Venezuela's earthquake disaster through the lens of institutional collapse a...",
+      "country": "Venezuela",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Seismic"
+      ],
+      "entities": [
+        "Countless"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "France24"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Senegal score 5-0 win over 10-man Iraq, keep World Cup knockout hopes alive",
+      "link": "https://www.aljazeera.com/sports/2026/6/26/senegal-score-5-0-win-over-10-man-iraq-keep-world-cup-knockout-hopes-alive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-06-26T22:05:09+00:00",
+      "score": 15,
+      "summary": "Senegal currently hold the fifth-best record of third-place teams based on their plus-2 goal differential.",
+      "country": "Iraq",
+      "region": "Middle East",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Iraq",
+        "World",
+        "Cup"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "CJ wowed audiences on The Piano. Now he's sharing a stage with the MSO",
       "link": "https://www.abc.net.au/news/2026-06-27/meet-cj-jones-the-17-year-old-tasmanian-from-the-piano/106831526",
@@ -13983,7 +14055,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 11.8,
+      "trend_score": 11.7,
       "source_count": 18,
       "sources_reporting": [
         "AP",
@@ -13994,7 +14066,7 @@
         "PBS",
         "Reuters"
       ],
-      "trend_accel": "+90%",
+      "trend_accel": "+89%",
       "heat_level": "CRITICAL"
     },
     {
@@ -20154,75 +20226,41 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Labor frontbencher Grace Grace apologises after committee's contempt finding",
-      "link": "https://www.abc.net.au/news/2026-06-26/qld-grace-grace-ethics-contempt/106847102",
-      "source": "ABC Australia",
-      "timestamp": "2026-06-26T04:21:05+00:00",
-      "score": 12,
-      "summary": "The parliament's ethics committee made the decision after investigating \"quarrelling\" between Grace Grace and Deputy Premier, Jarrod Bleijie, during a sitting week last year.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Grace"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "World Cup 2026: Turkey stun USA late as Australia hold Paraguay to seal last-32 place",
-      "link": "https://www.france24.com/en/sport/20260626-world-cup-2026-turkey-stun-usa-late-as-australia-hold-paraguay-to-seal-last-32-place",
-      "source": "France24",
-      "timestamp": "2026-06-26T04:17:30+00:00",
-      "score": 15,
-      "summary": "Strategic intelligence signal ingested from France24.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Cup",
-        "Turkey",
-        "USA",
-        "Australia",
-        "Paraguay"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
+    {
+      "title": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens",
+      "link": "https://www.marketwatch.com/story/servicenow-salesforce-and-other-software-stocks-surge-as-the-openai-threat-weakens-bb1eacfb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-06-26T22:09:00+00:00",
+      "score": 14,
+      "summary": "Oracle\u2019s stock missed out on the broader software rally, as the company is tied to OpenAI\u2019s success through its cloud-infrastructure business.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Salesforce",
+        "OpenAI"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "U.S. confirms retaliatory strike on Iran, pulling oil prices up in after-hours trading",
       "link": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
@@ -26728,38 +26766,6 @@
         "CNBC"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Iranian leader scoffs at Trump claim that Iran must buy U.S. farm products with unfrozen assets",
-      "link": "https://www.cnbc.com/2026/06/25/iran-ghalibaf-trump-us-farm-products-assets.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-25T16:44:33+00:00",
-      "score": 14,
-      "summary": "\"The only crop we're harvesting is what you planted: decades of mistrust,\" Iranian parliament speaker Mohammad Bagher Ghalibaf said in a social media post.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Trump",
-        "Iran"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ],
@@ -41963,7 +41969,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.1,
+      "trend_score": 11.0,
       "source_count": 17,
       "sources_reporting": [
         "Deadline",
@@ -54681,6 +54687,71 @@
   ],
   "CrisisWatch": [
     {
+      "title": "US strikes Iran in response to a drone attack on a ship that Trump says violated ceasefire",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXdJa0JiM0ZCZlVFaTZNVjA5NkJWNXJFRzRfY2ZLR2xIXzB1a0JNUmVDY0R5YWdlTno1VldGNEozb0U5M2c4UHVEVnRPMHFYVTI2ZVdVRXAxZnBzS05mTFlTeTRULWpwd2VySDQyMFdPT0xMNnFnS1JpaVYwbExCQkpsTG9LZEFvSHhQS2NteVJxd1p0cnBFR1A3aDFQVkNFY1I5ZUc0SWY?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-06-26T22:10:00+00:00",
+      "score": 12,
+      "summary": "US strikes Iran in response to a drone attack on a ship that Trump says violated ceasefire AP News",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran",
+        "Trump"
+      ],
+      "severity_score": 8,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 1 km N of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384936",
+      "source": "USGS",
+      "timestamp": "2026-06-26T22:05:45.224000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-26 22:04:08 UTC2026-06-26 22:04:08 UTC at epicenterLocation38.786\u00b0N 122.755\u00b0WDepth2.27 km (1.41 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 2.4 - 6 km NNW of Redwood Valley, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75384926",
       "source": "USGS",
@@ -61199,72 +61270,6 @@
         "USGS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.7 - 36 km NNE of Kuji, Japan",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t84x",
-      "source": "USGS",
-      "timestamp": "2026-06-25T16:51:12.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-25 16:11:45 UTC2026-06-25 16:11:45 UTC at epicenterLocation40.480\u00b0N 141.963\u00b0EDepth63.09 km (39.20 mi)",
-      "country": "Japan",
-      "region": "East Asia",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Kuji",
-        "Japan"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.1 - 11 km S of Eureka Roadhouse, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mmnlvj",
-      "source": "USGS",
-      "timestamp": "2026-06-25T16:49:59.654000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-25 16:48:27 UTC2026-06-25 16:48:27 UTC at epicenterLocation61.839\u00b0N 147.146\u00b0WDepth41.50 km (25.79 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Eureka",
-        "Roadhouse",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
