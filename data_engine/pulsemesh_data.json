@@ -1197,7 +1197,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.6,
+      "trend_score": 8.5,
       "source_count": 18,
       "sources_reporting": [
         "Guardian",
@@ -1206,7 +1206,7 @@
         "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+75%",
+      "trend_accel": "+74%",
       "heat_level": "SURGING"
     },
     {
@@ -13552,6 +13552,37 @@
   ],
   "World": [
     {
+      "title": "Utah declares state of emergency, restricts fireworks as U.S. largest wildfire grows",
+      "link": "https://www.thehindu.com/news/international/utah-declares-state-of-emergency-restricts-fireworks-as-us-largest-wildfire-grows/article71153285.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-06-27T09:03:22+05:30",
+      "score": 12,
+      "summary": "The National Weather Service issued a rare \u201cParticularly Dangerous Situation\u201d warning as dry, windy conditions provided fuel for more fires across the western U.S.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "'Among the darkest hours of my life': Pete Buttigieg victim of false report",
       "link": "https://www.abc.net.au/news/2026-06-27/pete-buttigieg-children-false-report/106850658",
       "source": "ABC Australia",
@@ -20263,24 +20294,28 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "\u2018Affordability crisis\u2019: How the Western housing crisis spiralled",
-      "link": "https://www.aljazeera.com/economy/2026/6/26/affordability-crisis-how-the-western-housing-crisis-spiralled?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-06-26T08:36:52+00:00",
-      "score": 12,
-      "summary": "Rising rents and prices outpacing wages provoke global debate: Is housing a basic right or an investment asset?",
-      "country": "Qatar",
-      "region": "Middle East",
-      "source_type": "Newswire",
+      "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 29 June 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-29-june-2026-11782529949126.html",
+      "source": "Livemint",
+      "timestamp": "2026-06-27T09:04:31+05:30",
+      "score": 17,
+      "summary": "Sumeet Bagadia recommended these three buy-or-sell stocks: Dr Reddy's Labs, M&amp;M, and Tata Consumer.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "How",
-        "Western"
+        "Sumeet",
+        "Bagadia",
+        "Monday",
+        "June"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -20289,15 +20324,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Al Jazeera"
+        "Livemint"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Trump threatens 100% tariff on European nations over tech tax",
       "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
@@ -26823,37 +26856,6 @@
         "CNBC"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Gold, silver rates today: Comex gold reclaims $4,000/oz; silver rebounds by $1/oz as US dollar softens",
-      "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-reclaims-4-000-oz-silver-rebounds-by-1-oz-as-us-dollar-softens-11782404897229.html",
-      "source": "Livemint",
-      "timestamp": "2026-06-25T22:53:54+05:30",
-      "score": 17,
-      "summary": "Gold and silver prices showed signs of recovery on June 25, lifting gold futures by $44. Despite this, gold remains down 8% in June, while silver fell to a seven-month low. US inflation impacts are leading to cautious optimism among investors.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Comex"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
@@ -54836,6 +54838,70 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 3.3 - off the coast of Oregon",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8lh",
+      "source": "USGS",
+      "timestamp": "2026-06-27T03:34:02.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-27 03:21:38 UTC2026-06-27 03:21:38 UTC at epicenterLocation43.698\u00b0N 128.135\u00b0WDepth10.00 km (6.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Oregon"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 9 km NNW of Redwood Valley, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75385036",
+      "source": "USGS",
+      "timestamp": "2026-06-27T03:32:20.859000+00:00",
+      "score": 15,
+      "summary": "Time2026-06-27 03:30:44 UTC2026-06-27 03:30:44 UTC at epicenterLocation39.343\u00b0N 123.248\u00b0WDepth5.76 km (3.58 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Redwood",
+        "Valley"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 5.4 - 63 km NNE of Barkhan, Pakistan",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8le",
       "source": "USGS",
@@ -61317,71 +61383,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 15 km SSW of Honaunau-Napoopoo, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74991072",
-      "source": "USGS",
-      "timestamp": "2026-06-25T21:44:44.770000+00:00",
-      "score": 17,
-      "summary": "Time2026-06-25 21:41:16 UTC2026-06-25 21:41:16 UTC at epicenterLocation19.319\u00b0N 155.909\u00b0WDepth21.84 km (13.57 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "HonaunauNapoopoo",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.0 - 93 km E of Union, Philippines",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8al",
-      "source": "USGS",
-      "timestamp": "2026-06-25T21:36:21.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-06-25 21:17:49 UTC2026-06-25 21:17:49 UTC at epicenterLocation9.892\u00b0N 126.952\u00b0EDepth10.00 km (6.21 mi)",
-      "country": "Philippines",
-      "region": "Southeast Asia",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Union",
-        "Philippines"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ]
