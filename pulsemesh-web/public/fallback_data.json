@@ -17831,7 +17831,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.2,
+      "trend_score": 11.1,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -17841,7 +17841,7 @@
         "Guardian",
         "NYT"
       ],
-      "trend_accel": "+86%",
+      "trend_accel": "+85%",
       "heat_level": "CRITICAL"
     },
     {
@@ -20006,6 +20006,39 @@
     }
   ],
   "Business": [
+    {
+      "title": "Stock futures edge higher, Asia mixed as renewed U.S.-Iran attacks push oil prices up: Live updates",
+      "link": "https://www.cnbc.com/2026/06/28/stock-futures-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-29T00:23:33+00:00",
+      "score": 14,
+      "summary": "Wall Street is coming off a mixed week, characterized by a rotation out of tech and into other parts of the stock market.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Asia",
+        "USIran",
+        "Live"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Oil rises as renewed U.S.-Iran strikes reignite Middle East supply fears",
       "link": "https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html",
@@ -26541,22 +26574,26 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Goldman says private credit may invest a lot of 'dry powder' in this sector",
-      "link": "https://www.cnbc.com/2026/06/26/goldman-says-private-credit-may-invest-dry-powder-in-this-sector-.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-26T05:11:02+00:00",
-      "score": 10,
-      "summary": "Private credit may use its sizable amount of \"dry powder\" to combat potential financing market dislocations in this sector, according to Goldman Sachs.",
+      "title": "The oldest evidence of mourning rituals reveals Paleolithic communities grieved like we do",
+      "link": "https://phys.org/news/2026-06-oldest-evidence-rituals-reveals-paleolithic.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-28T20:30:01-04:00",
+      "score": 12,
+      "summary": "Roughly 27,500 years ago, a 15-year-old boy was brutally mauled by a bear in Arene Candide in what is now Liguria, Italy. The attack tore through his jaw, neck and left shoulder. He was dying, but he was not alone in his final moments.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Paleolithic"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26566,13 +26603,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Lost megalodon vertebrae resurface, confirming 80-foot size estimate",
       "link": "https://phys.org/news/2026-06-lost-megalodon-vertebrae-resurface-foot.html",
@@ -32657,35 +32692,6 @@
         "Phys.org"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Growing up gets less scary with time, research finds",
-      "link": "https://phys.org/news/2026-06-scary.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-25T09:00:07-04:00",
-      "score": 10,
-      "summary": "As young adults, many millennials feared growing up more than past generations. But they've come around to it as they age, research published in the journal Developmental Psychology has found.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ],
