@@ -2252,7 +2252,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.5,
+      "trend_score": 8.4,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -7352,7 +7352,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.2,
+      "trend_score": 11.1,
       "source_count": 15,
       "sources_reporting": [
         "AP",
@@ -7362,7 +7362,7 @@
         "Verge",
         "Wired"
       ],
-      "trend_accel": "+88%",
+      "trend_accel": "+87%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13345,6 +13345,39 @@
     }
   ],
   "World": [
+    {
+      "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+      "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-06-29T00:11:31+00:00",
+      "score": 15,
+      "summary": "With tens of thousands of people missing, relatives face another night waiting for news of loved ones as the crucial window for locating survivors closes.",
+      "country": "Venezuela",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Seismic"
+      ],
+      "entities": [
+        "Venezuela"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "U.S., Iran agree to \u2018stand down\u2019 and hold talks in Doha on June 30: report",
       "link": "https://www.thehindu.com/news/international/us-iran-agree-to-halt-strikes-doha-talks-this-week-report-updates/article71159846.ece",
@@ -19970,28 +20003,29 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Mideast Hostilities Flare, Testing Fragile U.S.-Iran Truce",
-      "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
-      "source": "NYT",
-      "timestamp": "2026-06-27T21:21:42+00:00",
+      "title": "Oil rises as renewed U.S.-Iran strikes reignite Middle East supply fears",
+      "link": "https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html",
+      "source": "CNBC",
+      "timestamp": "2026-06-29T00:06:44+00:00",
       "score": 12,
-      "summary": "Bahrain said it had been targeted by Iranian drones, an apparent retaliation after U.S. strikes on Iranian military sites overnight. A ship came under attack in the Strait of Hormuz for the second time in recent days.",
+      "summary": "Oil edged higher on Monday after renewed military strikes between the U.S. and Iran reignited concerns over crude supplies from the Middle East.",
       "country": "Iran",
       "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Military"
+      ],
       "entities": [
-        "Hostilities",
-        "Flare",
-        "Testing",
-        "Fragile",
         "USIran",
-        "Truce"
+        "Middle",
+        "East"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -20000,15 +20034,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "NYT"
+        "CNBC"
       ],
-      "trend_accel": "+58%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Venezuela quake death toll reaches 1,450 as rescue work goes on",
       "link": "https://www.cnbc.com/2026/06/28/thousands-still-missing-after-devastating-venezuela-quakes.html",
@@ -26538,26 +26570,24 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Oil slides 2% as markets look past fresh Iran tensions and focus on supply outlook",
-      "link": "https://www.cnbc.com/2026/06/26/oil-prices-middle-east-iran-strait-of-hormuz-opec-iraq-wti-brent-crude.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-26T05:01:21+00:00",
-      "score": 17,
-      "summary": "Oil extended declines on Friday, with markets focused any further breakthroughs in the Middle East conflict, while digesting a flurry of news from the region.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Lost megalodon vertebrae resurface, confirming 80-foot size estimate",
+      "link": "https://phys.org/news/2026-06-lost-megalodon-vertebrae-resurface-foot.html",
+      "source": "Phys.org",
+      "timestamp": "2026-06-28T20:10:01-04:00",
+      "score": 13,
+      "summary": "An associated set of gigantic vertebrae belonging to the iconic extinct megalodon, or megatooth shark, that had been missing in action since the 1980s was discovered, providing new information about the shark's lifestyle. Two Museum of Southern Jutland staff members, Mette Els...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Iran"
-      ],
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26565,15 +26595,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+56%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Human activity has driven retreat of Antarctica's fastest melting glacier",
       "link": "https://phys.org/news/2026-06-human-driven-retreat-antarctica-fastest.html",
@@ -32658,38 +32686,6 @@
         "Phys.org"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "A turquoise tint for the Black Sea caused by phytoplankton",
-      "link": "https://phys.org/news/2026-06-turquoise-tint-black-sea-phytoplankton.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-25T08:20:05-04:00",
-      "score": 12,
-      "summary": "The Black Sea sits at the boundary between Europe and Asia and connects to the Mediterranean Sea via a chain of waterways. Its surface often appears dark, but each spring and summer it transforms into a striking expanse of swirling turquoise. The OCI (Ocean Color Instrument) o...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Black",
-        "Sea"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -39220,6 +39216,44 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "2026 BET Awards Arrivals: Janet Jackson, Doechii, Kehlani and More",
+      "link": "https://www.hollywoodreporter.com/gallery/2026-bet-awards-arrivals-looks-photos-1236632494/",
+      "source": "THR",
+      "timestamp": "2026-06-29T00:09:13+00:00",
+      "score": 15,
+      "summary": "Strategic intelligence signal ingested from THR.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "BET",
+        "Awards",
+        "Arrivals",
+        "Janet",
+        "Jackson",
+        "Doechii",
+        "Kehlani",
+        "More"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "BET Awards: Winners List (Updating Live)",
       "link": "https://www.hollywoodreporter.com/lists/bet-awards-2026-winners-list/",
@@ -47220,52 +47254,6 @@
         "NYT"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018The Get Out\u2019 Review: Russell Crowe and a Game Supporting Cast Cannot Save Derrick Borte\u2019s Tonally Ambitious Crime Comedy",
-      "link": "https://variety.com/2026/film/reviews/the-get-out-review-russell-crowe-1236791390/",
-      "source": "Variety",
-      "timestamp": "2026-06-26T17:03:43+00:00",
-      "score": 12,
-      "summary": "The canon of popular American movies this side of the millennium counts several crime comedies in its ranks, among them Steven Soderbergh\u2019s \u201cOcean\u2019s\u201d trilogy, David O. Russell\u2019s \u201cAmerican Hustle\u201d and Shane Black\u2019s \u201cThe Nice Guys.\u201d Ten years on, that last film\u2019s star, Russell C...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Get",
-        "Out",
-        "Review",
-        "Russell",
-        "Crowe",
-        "Game",
-        "Supporting",
-        "Cast",
-        "Cannot",
-        "Save",
-        "Derrick",
-        "Bortes",
-        "Tonally",
-        "Ambitious",
-        "Crime",
-        "Comedy"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
