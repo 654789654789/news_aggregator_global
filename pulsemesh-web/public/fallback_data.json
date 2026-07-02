@@ -1,6 +1,46 @@
 {
   "Politics": [
     {
+      "title": "Republican Senate Candidates Start Their Own Super PACs to Gain Cash Advantage",
+      "link": "https://www.nytimes.com/2026/07/02/us/politics/republican-senate-candidates-super-pac.html",
+      "source": "NYT",
+      "timestamp": "2026-07-02T09:01:29+00:00",
+      "score": 14,
+      "summary": "Most of the party\u2019s top candidates are starting their own super PACs instead of relying on a powerful group run by Washington leaders. The move allows them to seize control of their financial destinies.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Senate",
+        "Candidates",
+        "Start",
+        "Their",
+        "Own",
+        "Super",
+        "PACs",
+        "Gain",
+        "Cash",
+        "Advantage"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "PM Modi holds summit talks with Japanese PM Takaichi",
       "link": "https://www.thehindu.com/news/national/india-japan-ties-sanae-takaichi-pm-modi-meeting-july-2-2026-updates/article71173665.ece",
       "source": "The Hindu",
@@ -6615,28 +6655,25 @@
       ],
       "trend_accel": "+78%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "T.N. Minister Nirmalkumar accuses DMK\u2019s Senthilbalaji of attempting to lure TVK MLAs",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-minister-nirmalkumar-accuses-mk-stalin-udhayanidhi-of-tasking-senthilbalaji-to-lure-tvk-mlas-with-money-to-topple-govt/article71169559.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-01T17:16:28+05:30",
+      "title": "Amazon has enough satellites to launch its Starlink competitor",
+      "link": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
+      "source": "Verge",
+      "timestamp": "2026-07-02T05:13:39-04:00",
       "score": 12,
-      "summary": "Mr. Nirmalkumar claimed several TVK MLAs were approached by the DMK telling it intended to move a no-confidence motion against the Speaker in the next Assembly session and asked them to vote in support of it. One of the TVK MLAs lodged a complaint, based on which three persons...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "Amazon says it now has enough satellites operating in low-Earth orbit to light up its Starlink internet competitor. With last night's launch, Amazon Leo has 396 satellites deployed, which is \"enough to support continuous service across initial latitudes,\" according to Chris We...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Minister",
-        "Nirmalkumar",
-        "DMKs",
-        "Senthilbalaji",
-        "TVK",
-        "MLAs"
+        "Starlink"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6645,15 +6682,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Lumio Announces Project Neo Public Beta for AI-Powered Content Discovery on Lumio Vision TVs, Arc Projectors",
       "link": "https://www.gadgets360.com/tv/news/lumio-project-neo-public-beta-access-vision-tvs-arc-projectors-11716600",
@@ -13299,49 +13334,43 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "27 Best Prime Day Beauty Deals of 2026 (We Sifted Through Hundreds to Pick Them)",
-      "link": "https://www.wired.com/story/best-prime-day-beauty-deals-06-26-2026/",
-      "source": "Wired",
-      "timestamp": "2026-06-26T16:17:20+00:00",
-      "score": 17,
-      "summary": "It wouldn't be Amazon Prime Day without some beauty deals. Here's a roundup of all our favorites.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "At least 13 killed in 'most massive' Russian attack on Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-07-02T09:15:16+00:00",
+      "score": 15,
+      "summary": "Kyiv's mayor declares a day of mourning after the 'most massive attack on the capital' by Russia.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Best",
-        "Prime",
-        "Day",
-        "Beauty",
-        "Deals",
-        "Sifted",
-        "Through",
-        "Hundreds",
-        "Pick",
-        "Them"
+        "Russian",
+        "Kyiv"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "Wired"
+        "BBC"
       ],
-      "trend_accel": "+56%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Imprisoned Chinese Journalist Seeks Medical Parole for Lung Tumor",
       "link": "https://www.nytimes.com/2026/07/02/world/asia/jailed-chinese-journalist-dong-yuyu-lung-tumor.html",
@@ -19902,23 +19931,59 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
+    }
+  ],
+  "Business": [
+    {
+      "title": "Warsh\u2019s throwaway comment injects life into the debasement trade, for one day at least",
+      "link": "https://www.marketwatch.com/story/warshs-throwaway-comment-injects-life-into-the-debasement-trade-for-one-day-at-least-1c70d477?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-07-02T09:08:00+00:00",
+      "score": 10,
+      "summary": "As much as new Fed Chair Kevin Warsh tried to refrain from steering markets, it looks like he did.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
     },
     {
-      "title": "At least five killed in fire at Antwerp apartment building, say police",
-      "link": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-07-01T11:49:55+00:00",
-      "score": 12,
-      "summary": "The fire broke out in the 10-storey block in the Linkeroever district of the Belgian city.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
+      "title": "A.I. Is Reshaping the Economy. Good Luck Measuring How.",
+      "link": "https://www.nytimes.com/2026/07/02/business/economy/ai-economy-data.html",
+      "source": "NYT",
+      "timestamp": "2026-07-02T09:03:54+00:00",
+      "score": 14,
+      "summary": "Some data suggest artificial intelligence is already causing job losses. Other sources show the opposite. Why is it so hard to figure out what\u2019s going on?",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
       "trust_score": 9,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Antwerp"
+        "Reshaping",
+        "Economy",
+        "Good",
+        "Luck",
+        "Measuring",
+        "How"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19929,13 +19994,46 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "BBC"
+        "NYT"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Tamera Mowry lists Bay Area house for $2.7 million as she prepares to build Napa Valley \u2018dream home\u2019",
+      "link": "https://www.marketwatch.com/story/tamera-mowry-lists-bay-area-house-for-2-7-million-as-she-prepares-to-build-napa-valley-dream-home-feee7691?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-07-02T09:01:00+00:00",
+      "score": 15,
+      "summary": "\u201cSister, Sister\u201d star Tamera Mowry-Housley has listed her longtime California house for $2.7 million\u2014months after revealing that she and her husband are in the process of building a new home in Napa Valley.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mowry",
+        "Bay",
+        "Area",
+        "Napa",
+        "Valley"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "After eight years, Google loses final appeal against $4.7 billion European Union fine",
       "link": "https://www.marketwatch.com/story/after-eight-years-google-loses-final-appeal-against-4-7-billion-european-union-fine-46b7459a?mod=mw_rss_topstories",
@@ -26367,109 +26465,76 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Nike earnings crushed Wall Street\u2019s estimates, but there\u2019s a catch",
-      "link": "https://www.marketwatch.com/story/nike-earnings-crushed-wall-streets-estimates-but-theres-a-catch-83bf3e4a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-06-30T20:49:00+00:00",
-      "score": 12,
-      "summary": "Nike\u2019s profit and gross margins were buoyed by a tariff refund.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Wall",
-        "Streets"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Nike results top estimates even as China sales drop 12%; retailer expects $986 million tariff refund",
-      "link": "https://www.cnbc.com/2026/06/30/nike-nke-q4-2026-earnings.html",
-      "source": "CNBC",
-      "timestamp": "2026-06-30T20:46:57+00:00",
-      "score": 17,
-      "summary": "Nike was expected to report another quarter of declining sales as the sneaker giant struggles to regain strength under its turnaround strategy.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "China"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Here\u2019s what\u2019s next for the Fed\u2019s Lisa Cook after her victory at the Supreme Court",
-      "link": "https://www.marketwatch.com/story/heres-whats-next-for-the-feds-lisa-cook-after-her-victory-at-the-supreme-court-05e548b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-06-30T20:42:00+00:00",
-      "score": 12,
-      "summary": "The Supreme Court\u2019s ruling in favor of Federal Reserve governor Lisa Cook will require the Trump administration to do a lot more work in order to oust her from the central bank, and a definitive resolution could be months or even years away.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Feds",
-        "Lisa",
-        "Cook",
-        "Supreme",
-        "Court"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Scientists fear cuts may shut radio telescope",
+      "link": "https://www.bbc.co.uk/news/articles/c0qy3v15l98o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-07-02T09:11:52+00:00",
+      "score": 10,
+      "summary": "The site is part of e-MERLIN, a globally significant group of seven radio telescopes across the UK.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 7.9,
+      "source_count": 13,
+      "sources_reporting": [
+        "BBC",
+        "Bloomberg",
+        "NPR",
+        "Reuters"
+      ],
+      "trend_accel": "+69%",
+      "heat_level": "SURGING"
+    },
+    {
+      "title": "Scientists React to the Lab-Made, Yet Lifelike, SpudCell",
+      "link": "https://www.nytimes.com/2026/07/02/science/spudcell-scientists-reaction.html",
+      "source": "NYT",
+      "timestamp": "2026-07-02T09:03:33+00:00",
+      "score": 12,
+      "summary": "This cell-like structure can grow, feed, divide and compete. Researchers ponder what it means for the future of synthetic biology and our definition of \u201clife.\u201d",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "React",
+        "LabMade",
+        "Yet",
+        "Lifelike",
+        "SpudCell"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "New biosensor reveals rare lipid gathers in membrane hotspots during cell stress",
       "link": "https://phys.org/news/2026-06-biosensor-reveals-rare-lipid-membrane.html",
@@ -26522,8 +26587,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -32528,68 +32593,6 @@
         "Phys.org"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Breakthrough for aquaculture: Oral vaccine protects fish from fatal nervous necrosis virus",
-      "link": "https://phys.org/news/2026-06-breakthrough-aquaculture-oral-vaccine-fish.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-29T18:40:05-04:00",
-      "score": 12,
-      "summary": "Disease management is a significant aspect of aquaculture, a vital industry and major food source. One of the most serious threats is a disease caused by the nervous necrosis virus (NNV), which can wipe out large populations of farmed fish and cause major economic losses in th...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Oral"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Graphene can hold multiple states of superconductivity, a new study finds",
-      "link": "https://phys.org/news/2026-06-graphene-multiple-states-superconductivity.html",
-      "source": "Phys.org",
-      "timestamp": "2026-06-29T18:40:01-04:00",
-      "score": 10,
-      "summary": "The ordinary graphite in pencil lead is proving to be surprisingly multifaceted at the microscale. In a study published in the journal Nature, MIT researchers report that a certain microscopic structure found in natural graphite can host multiple superconducting states. Superc...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -39180,6 +39183,166 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Edinburgh\u2019s Paul Ridd on Robert Redford\u2019s Legacy, Hollywood\u2019s Festival Sit-Out, and the \u2018Obsession\u2019 Phenomenon: \u201cI Did Not See That Coming\u201d",
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/edinburgh-film-festival-paul-ridd-obession-trainspotting-1236634451/",
+      "source": "THR",
+      "timestamp": "2026-07-02T09:15:00+00:00",
+      "score": 12,
+      "summary": "The film festival director is more confident than ever in Edinburgh's mission to spotlight emerging voices \u2014 but it helps getting Ewan McGregor, Gregg Araki, and Kenneth Branagh up to the Scottish capital, too.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Paul",
+        "Ridd",
+        "Robert",
+        "Redfords",
+        "Legacy",
+        "Hollywoods",
+        "Festival",
+        "SitOut",
+        "Obsession",
+        "Phenomenon",
+        "Did",
+        "Not",
+        "See",
+        "That",
+        "Coming"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Vincent Lindon and Tahar Rahim Storm the Barricades (Without Singing!) in \u2018Les Mis\u00e9rables\u2019 Trailer",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/tahar-rahim-storms-the-barricades-in-les-miserables-trailer-1236635717/",
+      "source": "THR",
+      "timestamp": "2026-07-02T09:04:37+00:00",
+      "score": 14,
+      "summary": "Fred Cavay\u00e9\u2019s new action-packed take on the Victor Hugo classic, hits theaters this fall.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Lindon",
+        "Tahar",
+        "Rahim",
+        "Storm",
+        "Barricades",
+        "Without",
+        "Singing",
+        "Les",
+        "Misrables",
+        "Trailer"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Young Washington\u2019 Review: Not the Campaigns You Had in Mind",
+      "link": "https://www.nytimes.com/2026/07/02/movies/young-washington-review.html",
+      "source": "NYT",
+      "timestamp": "2026-07-02T09:01:36+00:00",
+      "score": 14,
+      "summary": "Before the presidency. Before Yorktown. There was \u2026 George, the land surveyor.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Washington",
+        "Review",
+        "Not",
+        "Campaigns",
+        "You",
+        "Had",
+        "Mind"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "America in Video Games: The Oregon Trail and Postapocalyptic Vegas",
+      "link": "https://www.nytimes.com/2026/07/02/arts/america-in-video-games-oregon-trail-postapocalyptic-vegas.html",
+      "source": "NYT",
+      "timestamp": "2026-07-02T09:01:31+00:00",
+      "score": 14,
+      "summary": "Other outstanding efforts reimagine the American Revolution, the pioneers\u2019 westward migration and the Great Depression.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Video",
+        "Games",
+        "Oregon",
+        "Trail",
+        "Postapocalyptic",
+        "Vegas"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Locarno Kids Screenings Unveiled as Swiss Fest Launches Competition and Kids\u2019 Jury",
       "link": "https://www.hollywoodreporter.com/movies/movie-news/locarno-kids-screenings-2026-competition-jury-launched-1236635030/",
@@ -46918,161 +47081,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Hit Korean Thriller \u2018A Shop for Killers\u2019 Sets July Season 2 Premiere on Disney+, Hulu With \u2018Pachinko\u2019 and \u2018Drive My Car\u2019 Stars Joining Cast",
-      "link": "https://variety.com/2026/tv/news/a-shop-for-killers-season-2-disney-hulu-1236799021/",
-      "source": "Variety",
-      "timestamp": "2026-07-01T00:00:00+00:00",
-      "score": 15,
-      "summary": "Hit Korean thriller \u201cA Shop for Killers\u201d will return for its second season July 22 on Disney+ and Hulu. The eight-episode sequel picks up with Jian now running the weapons shop and Jinman back from the dead, as the pair work to fend off a humiliated Babylon, which recruits ove...",
-      "country": "South Korea",
-      "region": "East Asia",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Korean",
-        "Thriller",
-        "Shop",
-        "Killers",
-        "Sets",
-        "July",
-        "Season",
-        "Premiere",
-        "Disney",
-        "Hulu",
-        "Pachinko",
-        "Drive",
-        "Car",
-        "Stars",
-        "Joining",
-        "Cast"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Disney+\u2019s Hit Korean Series \u2018A Shop for Killers\u2019 Sets Season 2 Premiere Date",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/disney-plus-a-shop-for-killers-season-2-premiere-date-1236633620/",
-      "source": "THR",
-      "timestamp": "2026-07-01T00:00:00+00:00",
-      "score": 15,
-      "summary": "Lee Dong-wook and Kim Hye-jun return July 22 in the hit Korean action series, joined by Japanese stars Hyunri and Masaki Okada as a new pair of assassins.",
-      "country": "South Korea",
-      "region": "East Asia",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hit",
-        "Korean",
-        "Series",
-        "Shop",
-        "Killers",
-        "Sets",
-        "Season",
-        "Premiere",
-        "Date"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Paul Dano Joins \u2018Possession\u2019 Remake At Paramount",
-      "link": "https://deadline.com/2026/06/paul-dano-joins-possession-remake-paramount-1236971872/",
-      "source": "Deadline",
-      "timestamp": "2026-06-30T23:56:22+00:00",
-      "score": 12,
-      "summary": "Paul Dano is set to star opposite Callum Turner and Margaret Qualley in the remake of 1981 horror film Possession coming together at Paramount, Deadline can confirm. Character details are under wraps. Parker Finn, the writer-director behind the hit horror franchise Smile, anno...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Dano",
-        "Joins",
-        "Possession",
-        "Remake",
-        "Paramount"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Inside Lauryn Hill\u2019s BET Awards Afterparty",
-      "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/lauryn-hill-2026-bet-awards-afterparty-photos-details-1236634215/",
-      "source": "THR",
-      "timestamp": "2026-06-30T23:50:13+00:00",
-      "score": 12,
-      "summary": "The Living Legend Award recipient performed, as did Common, at L.A. restaurant Lucia, at the event where she also celebrated son John Nesta Marley's 23rd birthday.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lauryn",
-        "Hills",
-        "BET",
-        "Awards",
-        "Afterparty"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52912,42 +52920,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "The 153 Best Prime Day Deals Still Standing on Day 3",
-      "link": "https://www.gq.com/story/best-prime-day-deals-06-25-2026",
-      "source": "GQ",
-      "timestamp": "2026-06-25T09:05:00+00:00",
-      "score": 17,
-      "summary": "Wake up, babe, new discounts just dropped.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Best",
-        "Prime",
-        "Day",
-        "Deals",
-        "Still",
-        "Standing"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "GQ"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -52980,6 +52952,38 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.2 - 13 km N of Ocotillo Wells, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41285359",
+      "source": "USGS",
+      "timestamp": "2026-07-02T09:10:43.168000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-02 09:07:16 UTC2026-07-02 09:07:16 UTC at epicenterLocation33.256\u00b0N 116.129\u00b0WDepth7.16 km (4.45 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ocotillo",
+        "Wells"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
       "heat_level": "LOW"
     },
     {
@@ -59520,39 +59524,6 @@
         "GDACS"
       ],
       "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 24 km SSW of Skwentna, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026mwziqd",
-      "source": "USGS",
-      "timestamp": "2026-07-01T08:44:24.185000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-01 08:40:59 UTC2026-07-01 08:40:59 UTC at epicenterLocation61.774\u00b0N 151.521\u00b0WDepth73.90 km (45.92 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Skwentna",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
