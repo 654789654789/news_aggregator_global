@@ -1681,7 +1681,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.5,
+      "trend_score": 8.4,
       "source_count": 12,
       "sources_reporting": [
         "Bloomberg",
@@ -6597,6 +6597,37 @@
     }
   ],
   "Tech": [
+    {
+      "title": "Uber\u2019s European expansion plans may have hit a speed bump",
+      "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+      "source": "TechCrunch",
+      "timestamp": "2026-07-05T21:35:17+00:00",
+      "score": 12,
+      "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 \u2014 but now five of those launches are reportedly on hold.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "European"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
       "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
@@ -13112,23 +13143,32 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-      "source": "TechCrunch",
-      "timestamp": "2026-06-29T14:00:08+00:00",
-      "score": 17,
-      "summary": "Jay Li doesn\u2019t recommend getting sued by Tesla if you\u2019re trying to get a startup off the ground. But he does think his company, Proception, might be better off for having endured the experience. \u201cI think it\u2019s kind of like a resilience test, or pressure test,\u201d he told TechCrunc...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Israel\u2019s Government Threatens to Ignore a Top Court Ruling",
+      "link": "https://www.nytimes.com/2026/07/05/world/middleeast/israel-court-netanyahu-clash.html",
+      "source": "NYT",
+      "timestamp": "2026-07-05T21:35:18+00:00",
+      "score": 12,
+      "summary": "A resolution by the country\u2019s cabinet escalated a long-running conflict between Prime Minister Benjamin Netanyahu and the country\u2019s judiciary. A senior government official later walked that back.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Tesla"
+        "Government",
+        "Threatens",
+        "Ignore",
+        "Top",
+        "Court",
+        "Ruling"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13139,13 +13179,108 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "TechCrunch"
+        "NYT"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Michigan Democrat Mallory McMorrow ends US Senate primary campaign",
+      "link": "https://www.theguardian.com/us-news/2026/jul/05/mallory-mcmorrow-drops-out-senate-race-michigan",
+      "source": "Guardian",
+      "timestamp": "2026-07-05T21:34:28+00:00",
+      "score": 14,
+      "summary": "Lawmaker\u2019s exit gives voters choice between progressive Abdul El-Sayed and centrist Haley Stevens in must-win seatMallory McMorrow, a Michigan Democrat, has dropped out of a contentious US Senate primary campaign, setting up a straight fight between the party\u2019s progressive and...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Democrat",
+        "Mallory",
+        "McMorrow",
+        "Senate"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Skydiver dies after incident near Nottinghamshire airfield",
+      "link": "https://www.theguardian.com/uk-news/2026/jul/05/skydiver-dies-after-incident-near-nottinghamshire-airfield",
+      "source": "Guardian",
+      "timestamp": "2026-07-05T21:31:54+00:00",
+      "score": 14,
+      "summary": "Body of woman, 22, found in field in proximity of Langar airfield, where popular civilian skydiving centre operatesA 22-year-old skydiver has died after a skydiving incident near a Nottinghamshire airfield, police have confirmed.Emergency services were called to Langar airfiel...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nottinghamshire"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Just 28% NGOs, associations ever registered under FCRA currently active",
+      "link": "https://timesofindia.indiatimes.com/india/just-28-ngos-associations-ever-registered-under-fcra-currently-active/articleshow/132202940.cms",
+      "source": "Times of India",
+      "timestamp": "2026-07-06T03:00:43+05:30",
+      "score": 15,
+      "summary": "A significant majority of NGOs registered under the Foreign Contribution (Regulation) Act, 2010, are no longer active, with over 72% having their licenses cancelled or expired. Since 2012, out of 52,159 granted licenses, only 14,455 currently hold active status, enabling them ...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NGOs",
+        "FCRA"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "FIFA lifts Folarin Balogun's World Cup suspension after Trump calls Infantino",
       "link": "https://www.france24.com/en/sport/20260705-fifa-lifts-balogun-world-cup-suspension-trump-call",
@@ -19625,136 +19760,6 @@
         "France24"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'May next 250 years bring peace': PM Modi congratulates Trump on US Independence Day",
-      "link": "https://timesofindia.indiatimes.com/india/may-next-250-years-bring-greater-peace-progress-pm-modi-congratulates-trump-on-us-independence-day/articleshow/132183085.cms",
-      "source": "Times of India",
-      "timestamp": "2026-07-04T20:07:15+05:30",
-      "score": 15,
-      "summary": "Prime Minister Narendra Modi extended warm wishes to US President Donald Trump and the American people on their 250th Independence Day. He emphasized the shared democratic values and the strength of the India-US partnership, expressing optimism for its future growth and prospe...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Modi",
-        "Trump",
-        "Independence",
-        "Day"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "De Minaur defeats \"Aussie slayer\" in third round at Wimbledon",
-      "link": "https://www.abc.net.au/news/2026-07-05/alex-de-minaur-wimbledon-win-aussie-slayer/106880694",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-04T14:27:13+00:00",
-      "score": 12,
-      "summary": "World number 6 Alex de Minaur has won against the USA's Zach Svajda, a victory which will see him progress to the second week of Wimbledon.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Minaur",
-        "Aussie",
-        "Wimbledon"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
-      "link": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
-      "source": "NPR",
-      "timestamp": "2026-07-04T10:07:57-04:00",
-      "score": 13,
-      "summary": "The shake-up is believed to be an effort to ensure the military's loyalty to the Communist Party and its leader, Xi Jinping.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NPR"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The funeral comes amid fraught, sluggish U.S.-Iran peace talks.",
-      "link": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-funeral-comes-amid-fraught-sluggish-us-iran-peace-talks",
-      "source": "NYT",
-      "timestamp": "2026-07-04T13:59:02+00:00",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from NYT.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "USIran"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ],
@@ -51428,6 +51433,37 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.1 - 2 km N of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390311",
+      "source": "USGS",
+      "timestamp": "2026-07-05T21:34:17.405000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-05 21:32:42 UTC2026-07-05 21:32:42 UTC at epicenterLocation38.798\u00b0N 122.753\u00b0WDepth2.19 km (1.36 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.2 - 19 km E of Little Lake, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41287559",
       "source": "USGS",
@@ -57853,38 +57889,6 @@
       "trending": false,
       "trend_score": 0.0,
       "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 24 km NW of Westbrook, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nbefft",
-      "source": "USGS",
-      "timestamp": "2026-07-04T18:27:19.274000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-04 18:23:55 UTC2026-07-04 18:23:55 UTC at epicenterLocation32.506\u00b0N 101.201\u00b0WDepth3.55 km (2.20 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Westbrook",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
       "sources_reporting": [
         "USGS"
       ],
