@@ -13090,6 +13090,35 @@
   ],
   "World": [
     {
+      "title": "Toddler found in pool and declared dead later found alive",
+      "link": "https://www.abc.net.au/news/2026-07-07/toddler-found-in-pool-declared-dead-later-found-alive/106890590",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-07T09:41:41+00:00",
+      "score": 10,
+      "summary": "Five hours after the young boy was pronounced dead next to a suburban swimming pool in the US state of Arizona, police were notified that the child was breathing again at a local hospital.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "At least 18 injured in explosions in Damascus during French President Macron\u2019s visit",
       "link": "https://www.thehindu.com/news/international/at-least-18-injured-in-explosions-in-damascus-during-french-president-macrons-visit/article71192851.ece",
       "source": "The Hindu",
@@ -19740,41 +19769,70 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
+    }
+  ],
+  "Business": [
+    {
+      "title": "Samsung posts 1,800% jump in profit, but AI spending concerns spook investors",
+      "link": "https://www.cnbc.com/2026/07/07/samsung-electronics-preliminary-second-quarter-profit-hits-fresh-high.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-07T09:42:23+00:00",
+      "score": 17,
+      "summary": "Samsung Electronics shares fell even after record preliminary second-quarter profit as capex and demand concerns clouded the outlook.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
     },
     {
-      "title": "More than 300 children killed or injured in Sudan war in 6 months, UNICEF says",
-      "link": "https://www.thehindu.com/news/international/more-than-300-children-killed-or-injured-in-sudan-war-in-6-months-unicef-says/article71189410.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-06T18:40:00+05:30",
-      "score": 15,
-      "summary": "The conflict has killed at least 59,000 people, displaced some 13 million and pushed many parts of Sudan into famine. More than 30 million people are in need of humanitarian assistance",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
+      "link": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-07T09:30:59+00:00",
+      "score": 14,
+      "summary": "Recent model releases from Chinese companies including DeepSeek and Z.ai are seen by many as highly competitive compared to leading U.S. frontier systems.",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Sudan",
-        "UNICEF"
+        "OpenAI",
+        "Anthropic"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "CNBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "NSE IPO: From derivatives dominance to dividends, Jefferies flags five key positives",
       "link": "https://www.livemint.com/market/ipo/nse-ipo-from-derivatives-dominance-to-dividends-jefferies-flags-five-key-positives-11783415146761.html",
@@ -20283,14 +20341,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 9.4,
+      "source_count": 13,
       "sources_reporting": [
-        "BBC"
+        "AP",
+        "BBC",
+        "Bloomberg",
+        "CNBC",
+        "Guardian"
       ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
+      "trend_accel": "+76%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "\u2018Bheek maangne ka tareeka...\u2019: Ashneer Grover hits back at  \u20b9900 cr donation demand after wife\u2019s remarks spark backlash",
@@ -21141,14 +21203,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 9.3,
+      "source_count": 10,
       "sources_reporting": [
-        "BBC"
+        "BBC",
+        "Bloomberg",
+        "CNBC",
+        "Guardian",
+        "NPR"
       ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
+      "trend_accel": "+77%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Stocks to buy for short term: Tata Steel, Raymond Realty among 5 stocks experts recommend for next 1-2 weeks",
@@ -21278,8 +21344,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -21585,8 +21651,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "CNBC",
@@ -26310,59 +26376,24 @@
       ],
       "trend_accel": "+56%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Aastha Spintex IPO listing date today. GMP, experts signal muted debut of shares in Indian stock market",
-      "link": "https://www.livemint.com/market/ipo/aastha-spintex-ipo-listing-date-today-gmp-experts-signal-muted-debut-of-shares-in-indian-stock-market-11783264130480.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-06T06:19:45+05:30",
-      "score": 14,
-      "summary": "Aastha Spintex IPO listing date is today, July 6. Ahead of the share debut, Aastha Spintex IPO GMP today and experts signal a muted listing of shares on Dalal Street.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Scientists just measured the smallest possible contacts for future computer chips",
+      "link": "https://phys.org/news/2026-07-scientists-smallest-contacts-future-chips.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-07T05:40:02-04:00",
+      "score": 10,
+      "summary": "The rise of AI has created an almost insatiable appetite for computing power. Training and running AI systems requires vast numbers of transistors, and engineers are now racing to pack more of them onto every chip. With their existing designs, however, silicon transistors are ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Spintex",
-        "IPO",
-        "GMP",
-        "Indian"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Raja Venkatraman recommends three stocks for 6 July",
-      "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-6-july-11783141050130.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-06T06:05:43+05:30",
-      "score": 17,
-      "summary": "Market expert Raja Venkatraman shares his top stock picks for 6 July. Here\u2019s his technical outlook and trade strategy.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Venkatraman",
-        "July"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26372,13 +26403,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "I Wanted an Ecologically Responsible Garden. It Was Harder Than I Thought.",
       "link": "https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html",
@@ -32441,38 +32470,6 @@
         "Phys.org"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Congo River freshwater rides 49-day Atlantic eddy to travel 200 kilometers offshore",
-      "link": "https://phys.org/news/2026-07-congo-river-freshwater-day-atlantic.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-03T07:20:04-04:00",
-      "score": 15,
-      "summary": "The Congo River is the second-largest river in the world, releasing an average of 40,000 cubic meters of water per second into the Atlantic Ocean. This huge discharge rate creates a large plume of fresh water that fans out 800 kilometers (500 miles) offshore.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "River",
-        "Atlantic"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -38899,6 +38896,47 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Sarajevo Film Festival Unveils New Award, the Prix Cineplexx, Spotlighting Necessity of Theatrical Releases",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/sarajevo-film-festival-new-award-the-prix-cineplexx-1236639650/",
+      "source": "THR",
+      "timestamp": "2026-07-07T09:33:01+00:00",
+      "score": 12,
+      "summary": "Voted for by the audience, the prize has a total value of 20,000 euros ($22,855) to support a marketing campaign for the winning film's theatrical distribution.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Film",
+        "Festival",
+        "Unveils",
+        "New",
+        "Award",
+        "Prix",
+        "Cineplexx",
+        "Spotlighting",
+        "Necessity",
+        "Theatrical",
+        "Releases"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Sarajevo\u2019s CineLink Unveils Co-Production Market & Drama Sections Lineup Plus New Partnership With Cannes\u2019 Critics\u2019 Week",
       "link": "https://deadline.com/2026/07/sarajevos-cinelink-industry-days-cannes-critics-week-1236975449/",
@@ -46999,43 +47037,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Taylor Caps 20 Years, America Marks 250 (While Trump Muscles In)",
-      "link": "https://www.hollywoodreporter.com/news/general-news/taylor-swift-wedding-donald-trump-mall-speech-watch-1236638281/",
-      "source": "THR",
-      "timestamp": "2026-07-05T19:33:31+00:00",
-      "score": 15,
-      "summary": "Notes from a very weird weekend.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Caps",
-        "Years",
-        "America",
-        "Marks",
-        "While",
-        "Trump",
-        "Muscles"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -47577,7 +47578,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.5,
+      "trend_score": 8.4,
       "source_count": 15,
       "sources_reporting": [
         "Bloomberg",
@@ -52204,6 +52205,39 @@
         "NHC"
       ],
       "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.5 - 21 km NNW of Borrego Springs, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41288431",
+      "source": "USGS",
+      "timestamp": "2026-07-07T09:43:32.028000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-07 09:40:06 UTC2026-07-07 09:40:06 UTC at epicenterLocation33.433\u00b0N 116.439\u00b0WDepth14.60 km (9.07 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Borrego",
+        "Springs"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
       "heat_level": "LOW"
     },
     {
@@ -58713,38 +58747,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 7 km SE of Gardendale, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ndwncz",
-      "source": "USGS",
-      "timestamp": "2026-07-06T05:48:19.384000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-06 05:45:06 UTC2026-07-06 05:45:06 UTC at epicenterLocation31.983\u00b0N 102.317\u00b0WDepth4.39 km (2.73 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gardendale",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ]
