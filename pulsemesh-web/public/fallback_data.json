@@ -1,6 +1,46 @@
 {
   "Politics": [
     {
+      "title": "U.S. launches strikes against Iran after ships hit in Strait of Hormuz",
+      "link": "https://www.pbs.org/newshour/world/u-s-launches-strikes-against-iran-after-ships-hit-in-strait-of-hormuz",
+      "source": "PBS",
+      "timestamp": "2026-07-07T17:51:45-04:00",
+      "score": 14,
+      "summary": "U.S. Central Command said \"Iran's demonstrated aggression was unwarranted, dangerous, and a clear violation of the ceasefire.\"",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran",
+        "Strait",
+        "Hormuz"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 10.8,
+      "source_count": 15,
+      "sources_reporting": [
+        "AP",
+        "Bloomberg",
+        "Guardian",
+        "NYT",
+        "PBS",
+        "The Hill"
+      ],
+      "trend_accel": "+82%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Iran\u2019s Strikes on Ships in Strait of Hormuz Threaten Oil Flow",
       "link": "https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html",
       "source": "NYT",
@@ -31,16 +71,17 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.4,
-      "source_count": 17,
+      "trend_score": 11.4,
+      "source_count": 18,
       "sources_reporting": [
         "Bloomberg",
         "Guardian",
         "NYT",
+        "PBS",
         "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+78%",
+      "trend_accel": "+88%",
       "heat_level": "CRITICAL"
     },
     {
@@ -2649,8 +2690,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -3230,8 +3271,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "AP",
@@ -4308,14 +4349,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 11.3,
+      "source_count": 18,
       "sources_reporting": [
-        "NYT"
+        "AP",
+        "Guardian",
+        "NHK",
+        "NYT",
+        "PBS",
+        "The Hill"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
+      "trend_accel": "+85%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Fetterman: Sanders, others need to \u2018apologize\u2019 for backing Platner",
@@ -6594,24 +6640,25 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Telangana Fire Department launches civil defence volunteer training at two universities",
-      "link": "https://www.thehindu.com/news/national/telangana/telangana-fire-department-launches-civil-defence-volunteer-training-at-two-universities/article71190648.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-07T11:54:32+05:30",
-      "score": 14,
-      "summary": "The volunteers to received training in rescue operations, firefighting, first aid, crowd management, disaster preparedness, community awareness and relief distribution",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Of course viewers are giving up on Netflix shows",
+      "link": "https://www.theverge.com/entertainment/962382/netflix-season-two-viewrship-dropoff-beef-avatar-one-piece-tiktok",
+      "source": "Verge",
+      "timestamp": "2026-07-07T17:58:39-04:00",
+      "score": 12,
+      "summary": "Even though Netflix is the world's most popular paid streaming service, the company has been struggling to keep viewers watching its series after their first seasons. Beef - the streamer's anthology about people locked in feuds - lost 70 percent of its viewership when it retur...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Fire",
-        "Department"
+        "Netflix"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6620,15 +6667,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Netflix is about to host videos from BuzzFeed, Cond\u00e9 Nast, and other publishers",
       "link": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming",
@@ -12897,23 +12942,99 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "OpenClaw is finally available on Android and iOS",
-      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-      "source": "TechCrunch",
-      "timestamp": "2026-06-30T21:53:28+00:00",
+      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-07-07T21:56:47+00:00",
       "score": 14,
-      "summary": "The free open source agentic program is finally invading your phone.",
+      "summary": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran",
+        "Strait",
+        "Hormuz"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 9,
+      "sources_reporting": [
+        "BBC",
+        "France24"
+      ],
+      "trend_accel": "+65%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Russia could compete at 2028 Olympics after suspension provisionally lifted",
+      "link": "https://www.abc.net.au/news/2026-07-08/russia-could-compete-at-la-2028-olympics-after-suspension-lifted/106891174",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-07T21:53:05+00:00",
+      "score": 15,
+      "summary": "The International Olympic Committee has not yet decided whether Russia can display its flag and colours or have its anthem played at the Games.",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Olympics"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Zimbabwe\u2019s President Signs Law Extending His Term",
+      "link": "https://www.nytimes.com/2026/07/07/world/africa/zimbabwe-president-mnangagwa-extension.html",
+      "source": "NYT",
+      "timestamp": "2026-07-07T21:52:03+00:00",
+      "score": 12,
+      "summary": "The measure will allow the president, Emmerson Mnangagwa, to stay in office until 2030. Critics say the move tightens his autocratic grip on power and erodes the nation\u2019s democracy.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Android"
+        "President",
+        "Signs",
+        "Law",
+        "Extending",
+        "His",
+        "Term"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -12924,13 +13045,47 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "NYT"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "US launches strikes on Iran after ships attacked in Strait of Hormuz",
+      "link": "https://www.france24.com/en/live-news/20260707-us-launches-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz",
+      "source": "France24",
+      "timestamp": "2026-07-07T21:46:41+00:00",
+      "score": 14,
+      "summary": "Strategic intelligence signal ingested from France24.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran",
+        "Strait",
+        "Hormuz"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 8,
+      "sources_reporting": [
+        "BBC",
+        "France24"
+      ],
+      "trend_accel": "+67%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Marine Le Pen\u2019s Court Battle Is Latest Clash Between Populists and Watchdogs",
       "link": "https://www.nytimes.com/2026/07/07/world/europe/le-pen-populists-vs-courts.html",
@@ -19547,138 +19702,6 @@
         "Times of India"
       ],
       "trend_accel": "+42%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Anyone who doesn\u2019t feel for Palestinians is not human: Egypt coach Hassan",
-      "link": "https://www.aljazeera.com/sports/2026/7/7/anyone-who-doesnt-feel-for-palestinians-is-not-human-egypt-coach-hassan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-07-07T03:02:23+00:00",
-      "score": 12,
-      "summary": "Hossam Hassan uses his FIFA World Cup news conference to raise awareness about the plight of Palestinians in Gaza.",
-      "country": "Egypt",
-      "region": "Africa",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Palestinians",
-        "Egypt",
-        "Hassan"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Al Jazeera"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Frame-by-frame look at Balogun's red card tackle",
-      "link": "https://www.abc.net.au/news/2026-07-07/folarin-balogun-usa-red-card-suspension-donald-trump-world-cup/106887146",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-07T02:52:32+00:00",
-      "score": 12,
-      "summary": "While many agree the red card call was too harsh, the story has become a bigger discussion about FIFA's integrity.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Baloguns"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Pam the Bird: arrest ends hours-long standoff after graffiti painted on Melbourne\u2019s 120m Bolte Bridge tower",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/07/melbourne-bolte-bridge-pam-the-bird-graffiti-police-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-07-07T02:46:15+00:00",
-      "score": 17,
-      "summary": "Man on bridge allegedly refused to come down after allegedly posting tax complaint on social mediaFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastVictoria police have arrested a man who allegedly scaled the top o...",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bird",
-        "Melbournes",
-        "Bolte",
-        "Bridge"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "China has sent the world a reminder of its growing military power",
-      "link": "https://www.abc.net.au/news/2026-07-07/china-pacific-nuclear-missile-launch-and-military-navy-warning/106888082",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-07T02:39:01+00:00",
-      "score": 10,
-      "summary": "This latest military test demonstrates China's growing willingness to use its military strength to send a warning to the Pacific: that Beijing now has the military and nuclear means to assert its dominance in the region.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -33638,7 +33661,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.9,
+      "trend_score": 7.8,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -38772,6 +38795,44 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Lauren Bennett Had \u201cSevere Reaction\u201d to Medication Months Before Death",
+      "link": "https://www.eonline.com/news/1433757/lauren-bennett-health-issues-before-death-dad-details-medication-reaction?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-07-07T21:47:55+00:00",
+      "score": 12,
+      "summary": "New information has emerged regarding the death of Lauren Bennett. One day after her former musical group G.R.L. confirmed the singer\u2019s death at the age of 36, Lauren\u2019s father Richard Bennett...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bennett",
+        "Had",
+        "Severe",
+        "Reaction",
+        "Medication",
+        "Months",
+        "Before",
+        "Death"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Penelope Keith, Effortlessly Posh Star of British Sitcoms, Dies at 86",
       "link": "https://www.nytimes.com/2026/07/07/arts/television/penelope-keith-dead.html",
@@ -46764,48 +46825,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Josh Johnson Talks Timelessness, Topicality, Greedy Thinking & New Beginnings \u2013 Comedy Means Business Podcast",
-      "link": "https://deadline.com/2026/07/josh-johnson-symphony-comedy-band-camp-comedy-means-business-1236971054/",
-      "source": "Deadline",
-      "timestamp": "2026-07-06T19:00:00+00:00",
-      "score": 12,
-      "summary": "For most comics, a special represents an ending \u2014 the culmination of a creative chapter. Not so for Josh Johnson, at least with his first HBO special Symphony, which he says marks a new beginning \u2014 \u201ca change and a new direction\u2026and a new theme and era of work.\u201d A beautifully s...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Johnson",
-        "Talks",
-        "Timelessness",
-        "Topicality",
-        "Greedy",
-        "Thinking",
-        "New",
-        "Beginnings",
-        "Comedy",
-        "Means",
-        "Business",
-        "Podcast"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52176,6 +52195,74 @@
         "NHC"
       ],
       "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "US launches new strikes against Iran after three ships were hit in Strait of Hormuz",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT2tfRFIyMHM3Y3R0UHRSQ0xwNEdNX2pjVUV5QkFGZk4yLUpVeU9RN0RHLXpUYU5UMzVIZkNwOWV4Q2dKTnJYZVl6UzZadkxHYUVYNmUzYWxoUEo1S2pPRUkxWmFsMHhadUYyams3ME5TOTlVSHhuTmgtRVA4NGo1NlJIOF9ZOUU2dGc?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-07-07T21:52:00+00:00",
+      "score": 14,
+      "summary": "US launches new strikes against Iran after three ships were hit in Strait of Hormuz AP News",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran",
+        "Strait",
+        "Hormuz"
+      ],
+      "severity_score": 8,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.4 - 29 km WSW of Akhiok, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026njbryd",
+      "source": "USGS",
+      "timestamp": "2026-07-07T21:49:17.762000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-07 21:47:27 UTC2026-07-07 21:47:27 UTC at epicenterLocation56.893\u00b0N 154.642\u00b0WDepth0.20 km (0.12 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Akhiok",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
       "heat_level": "LOW"
     },
     {
@@ -58669,69 +58756,6 @@
         "USGS"
       ],
       "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 5 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75390936",
-      "source": "USGS",
-      "timestamp": "2026-07-06T20:55:01.506000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-06 20:53:23 UTC2026-07-06 20:53:23 UTC at epicenterLocation38.817\u00b0N 122.792\u00b0WDepth3.30 km (2.05 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.5 - 21 km N of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998036",
-      "source": "USGS",
-      "timestamp": "2026-07-06T20:52:29.460000+00:00",
-      "score": 17,
-      "summary": "Time2026-07-06 20:48:26 UTC2026-07-06 20:48:26 UTC at epicenterLocation19.395\u00b0N 155.467\u00b0WDepth6.33 km (3.93 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
