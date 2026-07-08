@@ -1,6 +1,42 @@
 {
   "Politics": [
     {
+      "title": "Trump warms up to Ukraine, gets angry with Iran: Five takeaways from the NATO summit",
+      "link": "https://thehill.com/homenews/administration/5959566-trump-iran-rhetoric-shift/",
+      "source": "The Hill",
+      "timestamp": "2026-07-08T18:25:01+00:00",
+      "score": 14,
+      "summary": "President Trump and other leaders wrapped up the NATO alliance\u2019s whirlwind summit in Ankara, Turkey on Wednesday with a number of significant developments. Trump gave Ukraine the go-ahead to produce Patriot interceptors amid its ongoing war with Russia, a move that will be cel...",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Ukraine",
+        "Iran",
+        "Five",
+        "NATO"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Oil Market Calm Shattered by Fresh Hostilities Between US and Iran",
       "link": "https://www.nytimes.com/2026/07/08/business/energy-environment/iran-war-oil-prices.html",
       "source": "NYT",
@@ -5962,14 +5998,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 8.2,
+      "source_count": 18,
       "sources_reporting": [
-        "NYT"
+        "BBC",
+        "Bloomberg",
+        "Guardian",
+        "NYT",
+        "PBS"
       ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
+      "trend_accel": "+68%",
+      "heat_level": "SURGING"
     },
     {
       "title": "At NATO summit, Trump pressures allies on loyalty, defense spending and Greenland",
@@ -6204,18 +6244,17 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.5,
-      "source_count": 15,
+      "trend_score": 8.5,
+      "source_count": 14,
       "sources_reporting": [
         "AP",
         "Bloomberg",
         "Guardian",
         "NYT",
-        "PBS",
-        "The Hill"
+        "PBS"
       ],
-      "trend_accel": "+80%",
-      "heat_level": "CRITICAL"
+      "trend_accel": "+70%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Iran\u2019s Strikes on Ships in Strait of Hormuz Threaten Oil Flow",
@@ -6248,18 +6287,17 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.5,
-      "source_count": 18,
+      "trend_score": 8.5,
+      "source_count": 17,
       "sources_reporting": [
         "Bloomberg",
         "Guardian",
         "NYT",
         "PBS",
-        "Reuters",
-        "The Hill"
+        "Reuters"
       ],
-      "trend_accel": "+83%",
-      "heat_level": "CRITICAL"
+      "trend_accel": "+73%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Justice Department Threatens Top Election Officials Over Noncitizen Voting",
@@ -6601,49 +6639,42 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "US revokes Iran oil sanctions waiver after Strait of Hormuz strikes",
-      "link": "https://thehill.com/policy/energy-environment/5957647-iran-oil-sanctions-waiver-strait-of-hormuz/",
-      "source": "The Hill",
-      "timestamp": "2026-07-07T20:05:28+00:00",
+      "title": "Google Photos adds a new AI \u2018Video Remix\u2019 tool",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "source": "TechCrunch",
+      "timestamp": "2026-07-08T18:30:08+00:00",
       "score": 14,
-      "summary": "The Trump administration on Tuesday revoked a sanctions waiver that had allowed the sale of Iranian oil and petrochemicals. The revocation comes after Iran reportedly struck three ships near the Strait of Hormuz, a key oil shipping waterway. The new document from The Treasury ...",
+      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Iran",
-        "Strait",
-        "Hormuz"
+        "Photos",
+        "Video",
+        "Remix"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.2,
-      "source_count": 13,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
       "sources_reporting": [
-        "NHK",
-        "NPR",
-        "NYT",
-        "PBS",
-        "Reuters",
-        "The Hill"
+        "TechCrunch"
       ],
-      "trend_accel": "+83%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Tech": [
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "America\u2019s cheapest new EV is smaller than a ping-pong table and tops out at 19mph",
       "link": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
@@ -12602,69 +12633,109 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Neocloud Together AI raises $800M, leaps to $8.3B valuation",
-      "link": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-01T18:29:14+00:00",
-      "score": 17,
-      "summary": "The AI neocloud provider, which specializes in hosting open source models, last raised at a $3.3 billion valuation in early 2025.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Together"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Lime begins life as a public company after years of uncertainty",
-      "link": "https://techcrunch.com/2026/07/01/lime-begins-life-as-a-public-company-after-years-of-uncertainty/",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-01T18:24:00+00:00",
-      "score": 12,
-      "summary": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "World": [
+    {
+      "title": "Indian national among inmates killed in Sri Lanka\u2019s prison riots",
+      "link": "https://www.thehindu.com/news/international/indian-national-among-inmates-killed-in-sri-lankas-prison-riots/article71199078.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-07-08T23:55:23+05:30",
+      "score": 12,
+      "summary": "The deceased Indian\u2019s name is Unnikrishnan S.; the High Commission of India has not yet issued an official statement on the death, official sources in Colombo confirmed that a note verbale on the incident was sent",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sri",
+        "Lankas"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Spanish football legend Alexia Putellas joins London City Lionesses",
+      "link": "https://www.aljazeera.com/sports/2026/7/8/spanish-football-legend-alexia-putellas-joins-london-city-lionesses?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-07-08T18:25:13+00:00",
+      "score": 12,
+      "summary": "Women's Super League club lands the two-time Ballon d'Or winner after her exit from Barcelona following a 14-year career.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Alexia",
+        "Putellas",
+        "London",
+        "City",
+        "Lionesses"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Judge orders E. Jean Carroll be paid $5.8M after jury found Trump sexually abused and defamed her",
+      "link": "https://www.thehindu.com/news/international/judge-orders-e-jean-carroll-be-paid-58m-after-jury-found-trump-sexually-abused-and-defamed-her/article71199780.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-07-08T23:53:08+05:30",
+      "score": 17,
+      "summary": "Donald Trump is also appealing $83 million in defamation compensation granted to E. Jean Carroll by a separate Manhattan jury after a January 2024 trial at which Mr. Trump briefly testified.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Jean",
+        "Carroll",
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Trump says US will give Ukraine license to produce Patriot defense systems",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzhoTmRUY1YwTVlQNXBOQ08wcTU5dVQ4YXB4ZW0tN3FuMWZCbkFDbTRyRnMwRVNCRVNaTDFRWkhLWENMeUVKelpJdEVVcXdqVy1QVWxPNC02MVVSWF80MG8zR2FZVklqVFMtN2RZZkltNUEtSUgzempWdjFFSlpHekVmSGxnTzZjNlVndzBIQWVJbHJh?oc=5",
@@ -19466,57 +19537,26 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Australia news live: \u2018we\u2019re so sorry,\u2019 Telstra says after major mobile network outages affect trains, Eftpos and triple-zero calls",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-07-08T00:17:00+00:00",
-      "score": 14,
-      "summary": "CFO says carrier does not yet know root cause of outage, which was national but intermittent. Follow today\u2019s news liveGet our breaking news email, free app or daily news podcastTelstra outage reported to be cause of Victoria train stoppageThere is a long list of cancelled trai...",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "Trump loses latest appeals court bid to restore his name to Kennedy Center",
+      "link": "https://www.cnbc.com/2026/07/08/trump-kennedy-center-name-appeal-court-denied.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-08T18:27:35+00:00",
+      "score": 12,
+      "summary": "The appeals court said Trump had failed to provide any evidence that the Kennedy Center's fundraising would be harmed if his name is not attached.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Telstra",
-        "Eftpos"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Live updates: US strikes Iran and reimposes sanctions in retaliation for attacks on commercial shipping",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vNTdYS0JUVzlOc0JwSEhsMUhOSmgxak8tN0I4V0loZ25KMjFZZm1hd0FQZzgzRnN0UVRrOE5xUkJ4UDhUZEc3Q0xfbHh6M19zTUVZQ1M1T0lPX25IZmR2RWhkOHNHV2tZbFZkNUZJbWtMZw?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-07-07T23:54:00+00:00",
-      "score": 12,
-      "summary": "Live updates: US strikes Iran and reimposes sanctions in retaliation for attacks on commercial shipping CNNU.S. Strikes Iran and Reimposes Sanctions in Retaliation for Tanker Attacks The New York TimesU.S. resumes 'powerful strikes' on Iran after Hormuz Strait ship attacks, CE...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Iran"
+        "Kennedy",
+        "Center"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19527,28 +19567,28 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Google News"
+        "CNBC"
       ],
-      "trend_accel": "+56%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
-      "title": "ICE fatally shoots man during enforcement operation in Houston: DHS",
-      "link": "https://www.cbc.ca/news/world/ice-houston-fatal-shooting-9.7262116?cmp=rss",
-      "source": "CBC News",
-      "timestamp": "2026-07-07T19:50:39-04:00",
-      "score": 12,
-      "summary": "A U.S. Immigration and Customs Enforcement officer shot and killed a man in Houston after he attempted to evade arrest in his vehicle during an operation Tuesday, the agency said.",
-      "country": "Canada",
+      "title": "Few bright spots in Wednesday's tough market \u2014 why Nvidia stock is one of them",
+      "link": "https://www.cnbc.com/2026/07/08/few-bright-spots-in-wednesdays-tough-market-why-nvidia-stock-is-one-of-them.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-08T18:22:39+00:00",
+      "score": 14,
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "country": "US",
       "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Houston",
-        "DHS"
+        "Wednesdays",
+        "Nvidia"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19557,15 +19597,52 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "CBC News"
+        "CNBC"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "A Few Officials Signaled Support for Higher Rates at Warsh\u2019s First Meeting",
+      "link": "https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html",
+      "source": "NYT",
+      "timestamp": "2026-07-08T18:19:43+00:00",
+      "score": 12,
+      "summary": "Minutes from Kevin M. Warsh\u2019s first meeting as chairman revealed the extent of divisions at the central bank about the path for interest rates.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Few",
+        "Officials",
+        "Signaled",
+        "Support",
+        "Higher",
+        "Rates",
+        "Warshs",
+        "First",
+        "Meeting"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Oil surges as Strait of Hormuz is back into \u2018full conflict conditions\u2019",
       "link": "https://www.marketwatch.com/story/oil-surges-as-strait-of-hormuz-is-back-into-full-conflict-conditions-6ef59562?mod=mw_rss_topstories",
@@ -25976,28 +26053,62 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Ukrainian drones hit Russia\u2019s largest oil refinery as Zelenskyy says Siberia now \u2018within reach\u2019",
-      "link": "https://www.cnbc.com/2026/07/07/ukraine-russia-omsk-oil-refinery-putin-nato.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-07T10:17:30+00:00",
-      "score": 14,
-      "summary": "The attack underscores Kyiv's enhanced long-range drone capabilities and comes on the eve of a crucial NATO summit.",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
+      "title": "Spread of Seafloor Directly Observed for the First Time",
+      "link": "https://www.nytimes.com/2026/07/08/science/oceans-geology-seafloor.html",
+      "source": "NYT",
+      "timestamp": "2026-07-08T18:28:03+00:00",
+      "score": 12,
+      "summary": "The spread of the ocean floor, as tectonic plates spread apart, is known but hard to observe. Scientists have now documented the process in action.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Russias",
-        "Zelenskyy",
-        "Siberia"
+        "Seafloor",
+        "Directly",
+        "Observed",
+        "First",
+        "Time"
       ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 6.7,
+      "source_count": 12,
+      "sources_reporting": [
+        "Bloomberg",
+        "Guardian",
+        "NHK",
+        "NYT"
+      ],
+      "trend_accel": "+65%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Warm temperatures disrupt spider sex-changing bacteria across generations",
+      "link": "https://phys.org/news/2026-07-temperatures-disrupt-spider-sex-bacteria.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-08T14:20:06-04:00",
+      "score": 10,
+      "summary": "A new study reveals that exposing dwarf spiders to a brief period of warm temperatures can disrupt a phenomenon in which internal bacteria normally force genetic males to develop as females. Surprisingly, this reproductive disruption skips the directly heated spiders and hits ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26007,73 +26118,26 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
-      "title": "Top Gainers & Losers on 7 July: Trent, Kalyan Jewellers, Cochin Shipyard, Tejas Networks, BSE among top losers",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-7-july-trent-kalyan-jewellers-cochin-shipyard-tejas-networks-bse-among-top-losers-11783417545083.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-07T15:39:26+05:30",
-      "score": 17,
-      "summary": "The Indian stock market's bull run ended on July 7 as benchmark indices fell due to profit booking, particularly in auto and metal sectors, despite gains in IT stocks. The Nifty 50 settled 0.25% lower, while Sensex dropped 387 points, breaking their winning streak.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gainers",
-        "Losers",
-        "July",
-        "Trent",
-        "Kalyan",
-        "Jewellers",
-        "Cochin",
-        "Shipyard",
-        "Tejas",
-        "Networks",
-        "BSE"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Stock market today: Sensex, Nifty 50 snap four-day winning streak as fresh US-Iran strikes drive oil prices higher",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-snap-four-day-winning-streak-as-fresh-us-iran-strikes-drive-oil-prices-higher-11783417610161.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-07T15:33:11+05:30",
-      "score": 17,
-      "summary": "The Sensex dropped 104 points, or 0.13%, to end at 78,180.72, while the Nifty 50 shed 32 points, or 0.13%, to finish at 24,398.70. Nifty Midcap 100 and Smallcap 100 indices dropped 0.30% and 0.55%, respectively.",
+      "title": "Study compares machine learning models of raindrop formation",
+      "link": "https://phys.org/news/2026-07-machine-raindrop-formation.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-08T14:20:02-04:00",
+      "score": 12,
+      "summary": "Raindrops form inside clouds when tiny particles of water collide and stick together, forming larger droplets that eventually fall to Earth. This process is hard to model accurately, with current approaches either imprecise or computationally intensive. Better simulations of r...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Sensex",
-        "Nifty",
-        "USIran"
-      ],
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26081,15 +26145,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "California wolves feed heavily on cattle and their presence causes significant stress among livestock",
       "link": "https://phys.org/news/2026-07-california-wolves-heavily-cattle-presence.html",
@@ -26642,8 +26704,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "BBC",
@@ -32155,95 +32217,6 @@
         "Phys.org"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Four new groups of indigenous cacao varieties discovered in Peru",
-      "link": "https://phys.org/news/2026-07-groups-indigenous-cacao-varieties-peru.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-06T14:00:05-04:00",
-      "score": 12,
-      "summary": "A new genetic analysis of hundreds of cacao trees representing traditional Amazonian varieties grown on farms across Peru has revealed four previously unidentified, genetically distinct groups. Lambert Motilal, with colleagues from the Cocoa Research Center, The University of ...",
-      "country": "Peru",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Peru"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Unexpected discovery yields new graphene oxide production method",
-      "link": "https://phys.org/news/2026-07-unexpected-discovery-yields-graphene-oxide.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-06T13:40:07-04:00",
-      "score": 10,
-      "summary": "Researchers in the Texas A&M University J. Mike Walker '66 Department of Mechanical Engineering have developed a new method for producing graphene oxide, a high-value carbon nanomaterial used in batteries, electronics and advanced manufacturing.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Paleontologists make 'one in a million' discovery of soft tissue preserved in 450-million-year-old fossil",
-      "link": "https://phys.org/news/2026-07-paleontologists-million-discovery-soft-tissue.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-06T13:37:43-04:00",
-      "score": 13,
-      "summary": "Before the oldest dinosaur, before animals or even plants had expanded onto dry land, ancient relatives of starfish called crinoids, resembling stalked sea flowers, were among the first creatures to flourish in Earth's earliest coral reefs more than 450 million years ago. The ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
@@ -38740,6 +38713,87 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Automattic\u2019s \u2018Code for the People\u2019 Documentary Is a Rallying Cry for Users to Fight for the Open Internet",
+      "link": "https://variety.com/2026/digital/news/automattic-code-for-the-people-1236802508/",
+      "source": "Variety",
+      "timestamp": "2026-07-08T18:30:00+00:00",
+      "score": 12,
+      "summary": "The free and open internet faces threats from companies propagating walled gardens designed to control your data and the rise of black-box AI systems. To preserve the vitality of the digital commons, individuals must take action to support the principles behind open-source cod...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Code",
+        "People",
+        "Documentary",
+        "Rallying",
+        "Cry",
+        "Users",
+        "Fight",
+        "Open",
+        "Internet"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Taylor Swift\u2019s \u2018The Eras Tour: The Final Show\u2019 Nets 5 Emmy Noms With Swift Earning One Herself",
+      "link": "https://deadline.com/2026/07/taylor-swift-emmy-nominations-2026-eras-tour-the-final-show-1236977321/",
+      "source": "Deadline",
+      "timestamp": "2026-07-08T18:19:10+00:00",
+      "score": 15,
+      "summary": "Taylor Swift\u2019s filmic final bow in regards to her record-breaking Eras tour, Taylor Swift: The Eras Tour: The Final Show has earned five Emmy nominations, with Swift getting one herself. The Emmy era for the companion film to the six-part docuseries released last December incl...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Swifts",
+        "Eras",
+        "Tour",
+        "Final",
+        "Show",
+        "Nets",
+        "Emmy",
+        "Noms",
+        "Swift",
+        "Earning",
+        "One",
+        "Herself"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Producers to Watch Panelists Talk the Rise of Independent Films, Financial Limitations and the Importance of Festivals",
       "link": "https://variety.com/2026/film/news/producers-to-watch-bentonville-film-festival-1236803980/",
@@ -46583,67 +46637,31 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "Mariska Hargitay to Host 2026 Emmy Awards",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/mariska-hargitay-host-2026-emmys-1236640005/",
-      "source": "THR",
-      "timestamp": "2026-07-07T17:00:00+00:00",
-      "score": 15,
-      "summary": "The 'Law & Order: SVU' star is the first performer not primarily known for comedy to host the ceremony since 2008.",
+      "title": "The Best Linen Dresses to Wear All Summer Long",
+      "link": "https://www.vogue.com/slideshow/best-linen-dresses-summer",
+      "source": "Vogue",
+      "timestamp": "2026-07-08T18:23:09+00:00",
+      "score": 12,
+      "summary": "The best linen dresses are the ultimate summer wardrobe staple and we\u2019ve rounded up our favorites from Faithfull, Cos, Posse, and more.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Entertainment",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Hargitay",
-        "Host",
-        "Emmy",
-        "Awards"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 12,
-      "sources_reporting": [
-        "AP",
-        "Deadline",
-        "PBS",
-        "Reuters",
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+88%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Hailey Bieber and Justin Bieber Buy $12 Million NYC Condo",
-      "link": "https://www.eonline.com/news/1433736/justin-bieber-hailey-bieber-buy-s12-million-nyc-condo?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-07-07T16:49:00+00:00",
-      "score": 17,
-      "summary": "Justin Bieber and Hailey Bieber got that money, money, that money money. After all, the couple recently dropped $12 million on a West Village condominium, the Wall Street Journal confirmed July 7...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bieber",
-        "Justin",
-        "Buy",
-        "Million",
-        "NYC",
-        "Condo"
+        "Best",
+        "Linen",
+        "Dresses",
+        "Wear",
+        "All",
+        "Summer",
+        "Long"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -46654,13 +46672,52 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "E! News"
+        "Vogue"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
+    },
+    {
+      "title": "\u2018The Shards\u2019 is the Ryan Murphy/Bret Easton Ellis Collab Real Sickos Have Been Praying For",
+      "link": "https://www.gq.com/story/the-shards-ryan-murphy-bret-easton-ellis",
+      "source": "GQ",
+      "timestamp": "2026-07-08T18:16:49+00:00",
+      "score": 12,
+      "summary": "The king of horny murder shows is adapting the American Psycho author's autofiction serial-killer novel. Expect '80s excess, unbridled maximalism, and plenty of demon twinks.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Shards",
+        "Ryan",
+        "MurphyBret",
+        "Easton",
+        "Ellis",
+        "Collab",
+        "Real",
+        "Sickos",
+        "Have",
+        "Been",
+        "Praying"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "GQ"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Viktor & Rolf Fall 2026 Couture",
       "link": "https://www.vogue.com/fashion-shows/fall-2026-couture/viktor-rolf",
@@ -51881,47 +51938,74 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "Here\u2019s Everything We Know About Taylor Swift and Travis Kelce\u2019s Wedding",
-      "link": "https://www.vogue.com/article/taylor-swift-and-travis-kelce-wedding-location-date-guests",
-      "source": "Vogue",
-      "timestamp": "2026-07-01T18:22:06+00:00",
+      "title": "Trump threatens Iran with more strikes but says recent fighting does not mean a return to war",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXRXN1ZOY3dWb0Y3bFliM0t6QVRjQkxGNmNRRkVPM29YazVXaXVpaFo3N2h2MHdBLUlTMWNROTJuTUJQNFhaR3BwTzV5b0NDYk1WOG5NMXRHLWhuNHF1NXJqOFM0Vzg2TWo2bXRCUS11WmFEeU45UURDV0dqX0szLWxfbkptQXFxQVJXM0hjY2lkS1VJdkljZWFR?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-07-08T18:21:00+00:00",
       "score": 12,
-      "summary": "Taylor Swift and Travis Kelce are set to marry over the Fourth of July weekend at Madison Square Garden\u2014here\u2019s everything you need to know about the multi-day celebrations.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
+      "summary": "Trump threatens Iran with more strikes but says recent fighting does not mean a return to war AP News",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Aggregator",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Everything",
-        "Know",
-        "About",
-        "Taylor",
-        "Swift",
-        "Travis",
-        "Kelces",
-        "Wedding"
+      "topic_tags": [
+        "Military"
       ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
+      "entities": [
+        "Iran"
+      ],
+      "severity_score": 8,
+      "alert_level": "high",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Vogue"
+        "Google News"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
+    {
+      "title": "M 2.1 - 44 km NW of Toyah, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nimwhi",
+      "source": "USGS",
+      "timestamp": "2026-07-08T18:20:57.992000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-08 18:16:26 UTC2026-07-08 18:16:26 UTC at epicenterLocation31.611\u00b0N 104.115\u00b0WDepth3.64 km (2.26 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Toyah",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.9 - 41 km E of Pedro Bay, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nkqksh",
@@ -58433,72 +58517,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.4 - 89 km NW of Aleneva, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026niuodt",
-      "source": "USGS",
-      "timestamp": "2026-07-07T18:14:21.222000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-07 18:13:08 UTC2026-07-07 18:13:08 UTC at epicenterLocation58.635\u00b0N 153.974\u00b0WDepth2.40 km (1.49 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Aleneva",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 32 km NNW of Ivanof Bay, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026niuljj",
-      "source": "USGS",
-      "timestamp": "2026-07-07T18:12:43.898000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-07 18:10:00 UTC2026-07-07 18:10:00 UTC at epicenterLocation56.182\u00b0N 159.621\u00b0WDepth32.30 km (20.07 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Ivanof",
-        "Bay",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
