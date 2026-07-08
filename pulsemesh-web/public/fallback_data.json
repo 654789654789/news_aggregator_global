@@ -12836,25 +12836,27 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Trump drops restrictions on Anthropic\u2019s Mythos and Fable models",
-      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-01T02:16:06+00:00",
-      "score": 12,
-      "summary": "Anthropic said it would begin restoring access to the Fable on July 1.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Australia news live: watchdog ends investigation into former Nacc commissioner Brereton; cross-country trains caught up in national Telstra outages",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-07-08T02:18:58+00:00",
+      "score": 14,
+      "summary": "In a press conference this morning the prime minister acknowledged the outage was \u2018deeply concerning\u2019 and \u2018disruptive\u2019. Follow today\u2019s news liveGet our breaking news email, free app or daily news podcastTelstra outage reported to be cause of Victoria train stoppageThere is a l...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Anthropics",
-        "Mythos",
-        "Fable"
+        "Nacc",
+        "Brereton",
+        "Telstra"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -12865,13 +12867,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "TechCrunch"
+        "Guardian"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Qld business fined $1,200 after sparking million-dollar fire ant scare",
       "link": "https://www.abc.net.au/news/2026-07-08/fire-ants-penalties-fines-biosecurity/106891226",
@@ -19599,35 +19599,6 @@
         "BBC"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Officer filmed punching man was using 'approved manoeuvre', police say",
-      "link": "https://www.abc.net.au/news/2026-07-07/cabramatta-police-officer-video-striking-man-/106889460",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-07T06:20:04+00:00",
-      "score": 10,
-      "summary": "NSW Police say an officer filmed repeatedly punching a man in the back of the head on in Western Sydney on Monday night was using an \"approved manoeuvre\".",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -51982,6 +51953,74 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 0.9 - 21 km NNW of Borrego Springs, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41289015",
+      "source": "USGS",
+      "timestamp": "2026-07-08T02:25:18.823000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-08 02:21:53 UTC2026-07-08 02:21:53 UTC at epicenterLocation33.439\u00b0N 116.428\u00b0WDepth9.48 km (5.89 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Borrego",
+        "Springs"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 5.0 - 15 km NNE of Xunchang, China",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taui",
+      "source": "USGS",
+      "timestamp": "2026-07-08T02:23:48.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-08 02:08:48 UTC2026-07-08 02:08:48 UTC at epicenterLocation28.587\u00b0N 104.755\u00b0EDepth10.00 km (6.21 mi)",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "NNE",
+        "Xunchang",
+        "China"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 0.9 - 28 km N of Paxson, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026njknmo",
       "source": "USGS",
@@ -58498,69 +58537,6 @@
         "USGS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Spain",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029351",
-      "source": "GDACS",
-      "timestamp": "2026-07-07T03:02:07+00:00",
-      "score": 14,
-      "summary": "On 03/07/2026, a forest fire started in Spain, until 05/07/2026.",
-      "country": "Spain",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Spain"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 5 km S of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74998216",
-      "source": "USGS",
-      "timestamp": "2026-07-07T02:56:23.280000+00:00",
-      "score": 17,
-      "summary": "Time2026-07-07 02:52:50 UTC2026-07-07 02:52:50 UTC at epicenterLocation19.152\u00b0N 155.489\u00b0WDepth25.82 km (16.04 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
