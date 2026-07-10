@@ -1,6 +1,76 @@
 {
   "Politics": [
     {
+      "title": "Apple files lawsuit against OpenAI, accusing ChatGPT maker of stealing trade secrets",
+      "link": "https://www.pbs.org/newshour/nation/apple-files-lawsuit-against-openai-accusing-chatgpt-maker-of-stealing-trade-secrets",
+      "source": "PBS",
+      "timestamp": "2026-07-10T19:25:03-04:00",
+      "score": 14,
+      "summary": "Apple on Friday accused OpenAI of stealing trade secrets as it seeks to build its own hardware for ChatGPT, a major rupture in a partnership between the iPhone maker and the artificial intelligence company.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Graham Platner submits notice to formally withdraw from Maine Senate race",
+      "link": "https://www.pbs.org/newshour/politics/graham-platner-submits-notice-to-formally-withdraw-from-maine-senate-race",
+      "source": "PBS",
+      "timestamp": "2026-07-10T19:19:21-04:00",
+      "score": 14,
+      "summary": "Maine is considered a key state for control of the narrowly divided Senate, and Democrats were desperate for a candidate capable of defeating Republican Sen. Susan Collins.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Platner",
+        "Maine",
+        "Senate"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.1,
+      "source_count": 17,
+      "sources_reporting": [
+        "AP",
+        "BBC",
+        "Bloomberg",
+        "NPR",
+        "NYT",
+        "PBS"
+      ],
+      "trend_accel": "+85%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Trump fires election commission members in latest attempt to control voting process",
       "link": "https://www.pbs.org/newshour/show/trump-fires-election-commission-members-in-latest-attempt-to-control-voting-process",
       "source": "PBS",
@@ -20,8 +90,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "NHK",
@@ -369,14 +439,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 11.1,
+      "source_count": 14,
       "sources_reporting": [
-        "NYT"
+        "BBC",
+        "Guardian",
+        "NPR",
+        "NYT",
+        "PBS",
+        "PBS"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
+      "trend_accel": "+87%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Civil rights organisations demand probe into Baruipur encounter",
@@ -779,8 +854,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -6507,22 +6582,30 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Confusion over errors in filling enumeration forms",
-      "link": "https://www.thehindu.com/news/national/telangana/confusion-over-errors-in-filling-enumeration-forms/article71202867.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-10T10:22:38+05:30",
-      "score": 10,
-      "summary": "While some made errors owing to lack of awareness, some were dealing with problems due to incorrect spellings in 2002 rolls; call for instructional video to fill the form in Hindi, Urdu, English",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
+      "link": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/",
+      "source": "Wired",
+      "timestamp": "2026-07-10T23:16:56+00:00",
+      "score": 15,
+      "summary": "Data centers are driving up the company\u2019s use of electricity\u2014and carbon pollution.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Reports",
+        "Massive",
+        "Percent",
+        "Jump",
+        "Emissions"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6532,52 +6615,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "Wired"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Ayodhya Ram Mandir donation row: Trust blocks VIP darshan passes of Champat Rai and Anil Mishra amid SIT probe",
-      "link": "https://www.livemint.com/politics/news/ayodhya-ram-mandir-donation-theft-trust-blocks-vip-darshan-passes-of-champat-rai-and-anil-mishra-amid-sit-probe-bjp-rss-11783657046721.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-10T10:20:23+05:30",
-      "score": 14,
-      "summary": "With the IDs deactivated, no 'Vishisht Darshan' passes can now be generated through their digital credentials or recommendations. The move comes amid an ongoing probe by the Special Investigation Team (SIT) into alleged financial irregularities idonations at the Ram temple in ...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ram",
-        "Mandir",
-        "Trust",
-        "VIP",
-        "Champat",
-        "Rai",
-        "Anil",
-        "Mishra",
-        "SIT"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
     {
       "title": "The FCC is cracking down on DJI tech that dodged the foreign drone ban",
       "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab",
@@ -13102,26 +13144,63 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Review: TCL RM9L RGB-Mini LED (2026)",
-      "link": "https://www.wired.com/review/tcl-rm9l/",
-      "source": "Wired",
-      "timestamp": "2026-07-05T10:34:00+00:00",
-      "score": 15,
-      "summary": "This massive 85-inch model is highly customizable but jaw-droppingly expensive.",
+      "title": "Ten Killed in Plane Crash on the Bahamas\u2019 Largest Island",
+      "link": "https://www.nytimes.com/2026/07/10/world/americas/bahamas-plane-crash-deaths.html",
+      "source": "NYT",
+      "timestamp": "2026-07-10T23:21:53+00:00",
+      "score": 12,
+      "summary": "The crash occurred as the country celebrated its independence from Britain.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Killed",
+        "Plane",
+        "Crash",
+        "Bahamas",
+        "Largest",
+        "Island"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Defending champ Kim crashes out of Evian Championship in horror outing",
+      "link": "https://www.abc.net.au/news/2026-07-11/golf-kim-korda-out-of-evian-championship/106904716",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-10T23:20:23+00:00",
+      "score": 12,
+      "summary": "Grace Kim is joined by a host of Aussies who fail to make the cut in France as world No.1 Nelly Korda also makes a shock exit.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "TCL",
-        "RML",
-        "RGBMini",
-        "LED"
+        "Kim",
+        "Evian",
+        "Championship"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13130,15 +13209,73 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "Wired"
+        "ABC Australia"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
+      "link": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-07-10T23:18:08+00:00",
+      "score": 12,
+      "summary": "US President Donald Trump has placed the Caribbean island under a de facto oil blockade, straining its power grid.",
+      "country": "Qatar",
+      "region": "Middle East",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Paying rent for 'unsafe, unliveable' homes",
+      "link": "https://www.abc.net.au/news/2026-07-11/beagle-bay-housing-residents-feel-forgotten-by-wa-government/106470082",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-10T23:16:53+00:00",
+      "score": 10,
+      "summary": "Residents of the Indigenous community of Beagle Bay say they feel forgotten by their landlord: the Western Australian government.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Quick hits: Spain's new clutch king and a Colombian death threat scare",
       "link": "https://www.abc.net.au/news/2026-07-11/world-cup-quick-hits-mikel-merino-unai-simon-norway-death-threat/106904628",
@@ -19541,137 +19678,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Wildfires in southern Spain kill 12 amid soaring temperatures",
-      "link": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar",
-      "source": "Guardian",
-      "timestamp": "2026-07-10T01:35:09+00:00",
-      "score": 17,
-      "summary": "Wildfire comes as Spain suffers a heatwave, with scorching temperatures triggering orange weather warningsTwelve people were reported killed in a wildfire in Almeria in southern Spain, as about 150 firefighters battled the blaze which broke out amid soaring temperatures.\u201cThe n...",
-      "country": "Spain",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Spain"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Inside the alleged plot to kill Trump, Musk, Netanyahu at UFC White House fight",
-      "link": "https://www.abc.net.au/news/2026-07-10/eight-men-charged-over-alleged-ufc-white-house-terror-plot/106900688",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-10T01:27:34+00:00",
-      "score": 12,
-      "summary": "Eight men have been accused of planning a drone and shooting attack that aimed to kill US President Donald Trump at the UFC Freedom 250 event held at the White House in June.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Trump",
-        "Musk",
-        "Netanyahu",
-        "UFC",
-        "White",
-        "House"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Victor Marx, self-proclaimed \u2018high-risk missionary\u2019, wins Republican primary for Colorado governor \u2013 US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2026/jul/09/donald-trump-graham-platner-mitch-mcconnell-iran-midterms-latest-news-updates",
-      "source": "Guardian",
-      "timestamp": "2026-07-10T01:23:43+00:00",
-      "score": 14,
-      "summary": "Republican nominee has made slate of unsubstantiated claims about fighting human trafficking overseas and pledged to continue performing exorcisms, in person and by phone, if elected governorSign up for the Breaking News US emailFormer Olympic canoeist David Hearn has pleaded ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Marx",
-        "Republican",
-        "Colorado"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump fires last members of election commission, inciting fears of midterm \u2018chaos\u2019",
-      "link": "https://www.theguardian.com/us-news/2026/jul/09/trump-fires-election-commissioners",
-      "source": "Guardian",
-      "timestamp": "2026-07-10T01:18:22+00:00",
-      "score": 12,
-      "summary": "Bipartisan Election Assistance Commission maintains mail-voter registration form, among other dutiesDonald Trump has terminated the remaining members of the independent, federal commission that assists election administration officials nationwide just a few months before the m...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -19796,7 +19802,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 14,
       "sources_reporting": [
         "Bloomberg",
@@ -26189,6 +26195,38 @@
   ],
   "Science": [
     {
+      "title": "To ancient astronomers, Theta Eridani was brighter for 1,000 years\u2014now we know why",
+      "link": "https://phys.org/news/2026-07-ancient-astronomers-theta-eridani-brighter.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-10T19:20:01-04:00",
+      "score": 15,
+      "summary": "There's a bit of a historical mystery surrounding the star Theta Eridani. Ptolemy in the second century A.D. and al-Sufi in A.D. 964 both recorded Theta Eridani as one of the 13 brightest stars in the sky. Hipparchus may have said the same. But there's a problem. For it to be ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Theta",
+        "Eridani"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "New sensors capture warning signs before fish deaths in Lake Victoria",
       "link": "https://phys.org/news/2026-07-sensors-capture-fish-deaths-lake.html",
       "source": "Phys.org",
@@ -32323,46 +32361,6 @@
         "Phys.org"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Our Bacteria Are Talking. We\u2019ve Just Begun to Understand What They\u2019re Saying.",
-      "link": "https://www.nytimes.com/2026/07/08/magazine/microbiome-gut-health.html",
-      "source": "NYT",
-      "timestamp": "2026-07-08T16:05:46+00:00",
-      "score": 12,
-      "summary": "The human microbiome is essential to our health, but scientists still know very little about it. Two researchers set out to map this largely uncharted terrain.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bacteria",
-        "Are",
-        "Talking",
-        "Weve",
-        "Just",
-        "Begun",
-        "Understand",
-        "What",
-        "Theyre",
-        "Saying"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -38784,26 +38782,31 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Follow live: Messi, Argentina take on Cape Verde",
-      "link": "https://www.espn.com/soccer/story/_/id/49255647/world-cup-daily-live-travel-chaos-sees-speed-miss-cristiano-ronaldo-game-messi-action",
-      "source": "ESPN",
-      "timestamp": "2026-07-03T18:26:57-05:00",
+      "title": "\u2018Moana\u2019 Cast Guide: Every Live-Action Character vs. the Original Animation",
+      "link": "https://variety.com/lists/moana-cast-characters-live-action-animated/",
+      "source": "Variety",
+      "timestamp": "2026-07-10T23:30:00+00:00",
       "score": 12,
-      "summary": "null",
-      "country": "Argentina",
+      "summary": "Moana and Maui are setting sail once again \u2014 this time, in live-action. Releasing in theaters July 10, Disney\u2019s animated musical \u201cMoana\u201d comes back to life with a brand new live-action remake led by Catherine Laga\u2019aia, who stars as the titular character. Similar to the origina...",
+      "country": "US",
       "region": "Americas",
-      "source_type": "Sports Publication",
+      "source_type": "Entertainment",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Messi",
-        "Argentina",
-        "Cape",
-        "Verde"
+        "Cast",
+        "Guide",
+        "Every",
+        "LiveAction",
+        "Character",
+        "Original",
+        "Animation"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -38814,29 +38817,37 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "ESPN"
+        "Variety"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
     },
     {
-      "title": "Kelce's wedding to Swift underway in New York",
-      "link": "https://www.espn.com/nfl/story/_/id/49188085/taylor-swift-travis-kelce-wedding-marriage-kansas-city-chiefs",
-      "source": "ESPN",
-      "timestamp": "2026-07-03T18:16:46-05:00",
-      "score": 12,
-      "summary": "Jennifer Lawrence, Ed Sheeran, Matthew Stafford, Ethan Hawke, Zo\u00eb Kravitz and more celebrities were in attendance for the wedding festivities.",
+      "title": "Meta Pulls Back on Opt-Out AI Function After Hollywood Outrage: \u201cThis Feature Missed the Mark\u201d",
+      "link": "https://www.hollywoodreporter.com/business/digital/meta-pulls-opt-out-ai-tool-hollywood-outrage-1236644312/",
+      "source": "THR",
+      "timestamp": "2026-07-10T23:26:28+00:00",
+      "score": 14,
+      "summary": "Earlier this week, Meta unveiled its Muse AI photo and video tools, which allowed users to tag other accounts on Instagram to reference their work, unless the other user opted out.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Sports Publication",
+      "source_type": "Entertainment",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Swift",
-        "New",
-        "York"
+        "Pulls",
+        "Back",
+        "OptOut",
+        "Function",
+        "After",
+        "Hollywood",
+        "Outrage",
+        "This",
+        "Feature",
+        "Missed",
+        "Mark"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -38845,15 +38856,98 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "ESPN"
+        "THR"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
+    {
+      "title": "Randolph Mantooth, Who Played Johnny Gage on \u2018Emergency!,\u2019 Dies at 80",
+      "link": "https://variety.com/2026/tv/news/randolph-mantooth-dead-emergency-1236806971/",
+      "source": "Variety",
+      "timestamp": "2026-07-10T23:24:07+00:00",
+      "score": 15,
+      "summary": "Randolph Mantooth, known for playing paramedic Johnny Gage on the \u201cEmergency!\u201d TV series in the 1970s, died July 9 in Ventura. He was 80. Mantooth broke out in 1972 when he was cast in \u201cEmergency!,\u201d which introduced the profession of paramedics to the public. He co-starred wit...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Mantooth",
+        "Who",
+        "Played",
+        "Johnny",
+        "Gage",
+        "Emergency",
+        "Dies"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 6,
+      "sources_reporting": [
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+64%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Kevin Bacon, Kyra Sedgwick, Son Travis Make Karlovy Vary a Family Affair and Even Break Out Some Czech",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/kevin-bacon-kyra-sedgwick-travis-karlovy-vary-family-movie-1236643608/",
+      "source": "THR",
+      "timestamp": "2026-07-10T23:16:57+00:00",
+      "score": 14,
+      "summary": "There was no need for six degrees of you know what for the crowd catching a late screening of their 'Family Movie' at the Czech film festival, with a special intro from the clan sans Sosie.",
+      "country": "Czech Republic",
+      "region": "Europe",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bacon",
+        "Kyra",
+        "Sedgwick",
+        "Son",
+        "Travis",
+        "Make",
+        "Karlovy",
+        "Vary",
+        "Family",
+        "Affair",
+        "Even",
+        "Break",
+        "Out",
+        "Some",
+        "Czech"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "CBS\u2019 \u2018Cupertino\u2019 Production Assistants File for Unionization (Exclusive)",
       "link": "https://www.hollywoodreporter.com/business/business-news/cbs-cupertino-production-assistants-unionization-1236644220/",
@@ -46705,165 +46799,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Rock Greats Honor Bon Scott on Late AC/DC Singer\u2019s 80th Birthday",
-      "link": "https://www.rollingstone.com/music/music-news/bon-scott-ac-dc-rock-star-tributes-singer-80th-birthday-1235591616/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-07-09T18:40:08+00:00",
-      "score": 15,
-      "summary": "Judas Priest\u2019s Rob Halford, Def Leppard\u2019s Joe Elliott, and Pearl Jam's Mike McCready remember \"free spirit\" frontman who died in 1980",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Greats",
-        "Honor",
-        "Bon",
-        "Scott",
-        "Late",
-        "ACDC",
-        "Singers",
-        "Birthday"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Netflix Sets Golf Drama \u2018Jupiter Island\u2019 From \u2018Love Story\u2019 Creator and A24",
-      "link": "https://variety.com/2026/tv/news/netflix-golf-drama-jupiter-island-love-story-creator-1236805895/",
-      "source": "Variety",
-      "timestamp": "2026-07-09T18:35:36+00:00",
-      "score": 15,
-      "summary": "A new drama series about elite golfers on an exclusive island is coming to Netflix. Titled \u201cJupiter Island,\u201d the show hails from Connor Hines, the creator of FX\u2019s \u201cLove Story: John F. Kennedy Jr. & Carolyn Bessette,\u201d and A24. The project, a straight-to-series order, is the fir...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sets",
-        "Golf",
-        "Drama",
-        "Jupiter",
-        "Island",
-        "Love",
-        "Story",
-        "Creator"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 7,
-      "sources_reporting": [
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+67%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "\u2018Love Story\u2019 Creator Connor Hines Signs Netflix Deal, Sets Golf Drama \u2018Jupiter Island\u2019",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/love-story-creator-connor-hines-netflix-deal-1236643277/",
-      "source": "THR",
-      "timestamp": "2026-07-09T18:25:03+00:00",
-      "score": 14,
-      "summary": "The series is set in the exclusive Florida enclave that in real life is home to a number of PGA Tour pros.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Story",
-        "Creator",
-        "Connor",
-        "Hines",
-        "Signs",
-        "Netflix",
-        "Deal",
-        "Sets",
-        "Golf",
-        "Drama",
-        "Jupiter",
-        "Island"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Banijay\u2019s Marco Bassetti and Jeff Zucker on Officially Completing Their $8 Billion All3Media Merger",
-      "link": "https://variety.com/2026/tv/global/banijay-all3media-merger-jeff-zucker-marco-bassetti-1236805777/",
-      "source": "Variety",
-      "timestamp": "2026-07-09T18:20:59+00:00",
-      "score": 15,
-      "summary": "It\u2019s a done deal. RedBird IMI and Banijay have completed their $8 billion merger, led by Jeff Zucker and Marco Bassetti, respectively. With the Euro regulatory process wrapped, together they will run the production-distribution behemoth, which is headquartered in London and pu...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Marco",
-        "Bassetti",
-        "Jeff",
-        "Zucker",
-        "Officially",
-        "Completing",
-        "Their",
-        "Billion",
-        "AllMedia",
-        "Merger"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52708,6 +52643,37 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.0 - 2 km NW of Banning, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41290911",
+      "source": "USGS",
+      "timestamp": "2026-07-10T23:22:33.140000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-10 22:49:27 UTC2026-07-10 22:49:27 UTC at epicenterLocation33.943\u00b0N 116.892\u00b0WDepth4.50 km (2.80 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Banning"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
     {
       "title": "There are no tropical cyclones at this time.",
       "link": "https://www.nhc.noaa.gov/",
@@ -59207,40 +59173,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 3 km NNW of Farmers Loop, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nmtmaz",
-      "source": "USGS",
-      "timestamp": "2026-07-09T21:40:30.620000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-09 21:39:21 UTC2026-07-09 21:39:21 UTC at epicenterLocation64.939\u00b0N 147.721\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Farmers",
-        "Loop",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
       "heat_level": "LOW"
     }
   ]
