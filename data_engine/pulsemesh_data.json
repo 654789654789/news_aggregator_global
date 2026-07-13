@@ -1,6 +1,40 @@
 {
   "Politics": [
     {
+      "title": "US military launches strikes on Iran after Trump brings back naval blockade",
+      "link": "https://thehill.com/policy/defense/5966550-us-military-strikes-iran/",
+      "source": "The Hill",
+      "timestamp": "2026-07-13T21:34:53+00:00",
+      "score": 12,
+      "summary": "The U.S. military launched a new round of strikes against Iran on Monday, hours after President Trump announced the U.S. Navy would reinstate the naval blockade in the Strait of Hormuz. The fresh strikes, which kicked off at 4:45 p.m. EDT at Trump\u2019s direction, mark the third c...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran",
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "WATCH LIVE: Justices Kagan and Coney Barrett testify on Supreme Court budget in House hearing",
       "link": "https://www.pbs.org/newshour/politics/watch-live-justices-kagan-and-coney-barrett-testify-on-supreme-court-budget-in-house-hearing",
       "source": "PBS",
@@ -6603,26 +6637,28 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Karnataka Governor suspends KPSC chairman Shivashankarappa S Sahukar over 'illegal selection' of daughters in government service",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-governor-suspends-kpsc-chairman-shivashankarappa-s-sahukar-over-illegal-selection-of-daughters-in-government-service/article71216107.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-13T11:23:55+05:30",
+      "title": "Siri AI Is Becoming Apple\u2019s Everything Tool",
+      "link": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+      "source": "Wired",
+      "timestamp": "2026-07-13T21:39:09+00:00",
       "score": 14,
-      "summary": "The Governor also recommended to the President that the matter be referred to the Supreme Court under Article 317(1) of the Constitution for an inquiry into the allegations",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "Apple\u2019s revamped Siri is more than a voice assistant; it\u2019s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Governor",
-        "KPSC",
-        "Shivashankarappa",
-        "Sahukar"
+        "Becoming",
+        "Apples",
+        "Everything",
+        "Tool"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6631,15 +6667,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "Wired"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "A two-pack of DJI\u2019s most capable wireless mics just got its first price cut",
       "link": "https://www.theverge.com/gadgets/964914/dji-mic-three-bundle-deal-sale",
@@ -13249,26 +13283,33 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Mysterious Compound Detected on Pluto and Titan",
-      "link": "https://www.wired.com/story/mysterious-compound-detected-on-pluto-and-titan/",
-      "source": "Wired",
-      "timestamp": "2026-07-07T18:03:40+00:00",
+      "title": "Live Updates: U.S. Forces Begin New Round of Strikes on Iran",
+      "link": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
+      "source": "NYT",
+      "timestamp": "2026-07-13T21:39:51+00:00",
       "score": 12,
-      "summary": "Something on Pluto and one of Saturn\u2019s moons, Titan, absorbs light in a way unexplained by anything in spectroscopic databases.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "summary": "President Trump had earlier threatened \u201cvery hard\u201d strikes, ordered the resumption of a blockade on Iranian ports to begin Tuesday and said the U.S. would charge a 20 percent fee on goods passing through the Strait of Hormuz.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Military"
+      ],
       "entities": [
-        "Compound",
-        "Detected",
-        "Pluto",
-        "Titan"
+        "Updates",
+        "Forces",
+        "Begin",
+        "New",
+        "Round",
+        "Strikes",
+        "Iran"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13277,15 +13318,112 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Live: Oil posts biggest gain since 2020 as Middle East war fears reignite",
+      "link": "https://www.abc.net.au/news/2026-07-14/asx-markets-business-live-news-july-14-2026/106911966",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-13T21:39:13+00:00",
+      "score": 17,
+      "summary": "Oil prices soar more than 9 per cent as the US president threatens to blockade the Strait of Hormuz. Follow the day's events and insights as they happen with our business reporters on the ABC News live markets blog.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Oil",
+        "Middle",
+        "East"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Wired"
+        "ABC Australia"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Teenager charged over alleged stabbing of 15yo boy",
+      "link": "https://www.abc.net.au/news/2026-07-14/teen-charged-following-stabbing-trinity-bay-high-school-police/106911856",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-13T21:36:50+00:00",
+      "score": 13,
+      "summary": "A teenage boy has been charged over an alleged stabbing at a high school in Far North Queensland. Another boy remains in a stable condition in hospital.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "US launches new strikes on Iran following Trump\u2019s threat amid fresh clashes over strait of Hormuz \u2013 Middle East crisis live",
+      "link": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates",
+      "source": "Guardian",
+      "timestamp": "2026-07-13T21:34:52+00:00",
+      "score": 14,
+      "summary": "US Central Command says latest strikes will \u2018continue imposing a heavy cost on Iranian forces and degrade their ability to attack innocent civilians and commercial shipping\u2019 in strait of HormuzTrump renews Iran blockade and again threatens to take control of strait of HormuzBa...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran",
+        "Trumps",
+        "Hormuz",
+        "Middle",
+        "East"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Man dies after being pulled from burning caravan in Central Qld",
       "link": "https://www.abc.net.au/news/2026-07-14/caravan-fire-capricorn-coast-death/106911916",
@@ -19916,140 +20054,6 @@
         "ABC Australia"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Jordan says it shot down four missiles launched by Iran",
-      "link": "https://www.thehindu.com/news/international/jordan-says-it-shot-down-four-missiles-launched-by-iran/article71216119.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-13T11:24:28+05:30",
-      "score": 12,
-      "summary": "Iran earlier had claimed an attack targeting Jordan, which hosts U.S. military forces",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Iran"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Drone strikes kill 3, wound 5 in Moscow region: governor",
-      "link": "https://www.thehindu.com/news/international/russia-ukraine-moscow-drone-strikes-war/article71216103.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-13T11:22:59+05:30",
-      "score": 15,
-      "summary": "Air defences shot down 81 drones over the region, Mr. Vorobyov said.",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Moscow"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 10,
-      "sources_reporting": [
-        "France24",
-        "The Hindu"
-      ],
-      "trend_accel": "+69%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Jannik Sinner retains Wimbledon title after victory over Alexander Zverev",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260713-jannik-sinner-retains-wimbledon-title-after-victory-over-alexander-zverev",
-      "source": "France24",
-      "timestamp": "2026-07-13T05:33:58+00:00",
-      "score": 14,
-      "summary": "Jannik Sinner retains his crown. The 24-year-old Italian won the Wimbledon title for the second consecutive year after defeating Germany\u2019s Alexander Zverev in four sets. It is Sinner\u2019s fifth Grand Slam title, his first of the year, further strengthening his position as world N...",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sinner",
-        "Wimbledon",
-        "Alexander",
-        "Zverev"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Ukrainian drone strikes kill at least 3, wound 5 in Moscow region",
-      "link": "https://www.france24.com/en/europe/20260713-ukrainian-drone-strikes-kill-at-least-3-wound-5-moscow-region",
-      "source": "France24",
-      "timestamp": "2026-07-13T05:23:39+00:00",
-      "score": 17,
-      "summary": "Drone attacks killed at least three people and injured five others in the Moscow region, governor Andrey Vorobyov said on Telegram Monday. Ukraine has been intensifying its strikes on Russia's energy targets in response to Moscow's barrages.",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Moscow"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -39146,6 +39150,115 @@
   ],
   "Entertainment": [
     {
+      "title": "Adam Levine Shares Rare Photo of His, Behati Prinsloo\u2019s 3-Year-Old Son",
+      "link": "https://www.eonline.com/news/1433942/adam-levine-behati-prinsloos-son-seen-in-rare-family-photo?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-07-13T21:39:16+00:00",
+      "score": 15,
+      "summary": "Adam Levine won't go home without his kids. That's why the Maroon 5 frontman and his wife Behati Prinsloo are holding them close in family portrait that's sweeter than sugar. As seen in photo...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Levine",
+        "Shares",
+        "Rare",
+        "Photo",
+        "His",
+        "Behati",
+        "Prinsloos",
+        "YearOld",
+        "Son"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Hotel Transylvania 5\u2019 Sets October 2027 Release Date",
+      "link": "https://variety.com/2026/film/news/hotel-transylvania-5-release-date-1236810065/",
+      "source": "Variety",
+      "timestamp": "2026-07-13T21:37:10+00:00",
+      "score": 15,
+      "summary": "A fifth \u201cHotel Transylvania\u201d film, titled \u201cThe Haunting of Hotel Transylvania\u201d, is coming to theaters on Oct. 8. Sony Pictures is set to distribute the film in North America, while Amazon MGM Studios will oversee international distribution. Jennifer Kluska and Alan Hawkins are...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Transylvania",
+        "Sets",
+        "October",
+        "Release",
+        "Date"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Summer House\u2019 Season 11 Cast Revealed",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/summer-house-season-11-cast-revealed-1236646977/",
+      "source": "THR",
+      "timestamp": "2026-07-13T21:37:03+00:00",
+      "score": 15,
+      "summary": "The returning cast for Bravo's hit summer series has been made official following the high-profile exits of Amanda Batula and West Wilson.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "House",
+        "Season",
+        "Cast",
+        "Revealed"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 6,
+      "sources_reporting": [
+        "E! News",
+        "THR"
+      ],
+      "trend_accel": "+64%",
+      "heat_level": "HOT"
+    },
+    {
       "title": "Sam Neill\u2019s Best Movie Performances: Where to Stream",
       "link": "https://www.nytimes.com/2026/07/13/movies/sam-neill-movies-streaming.html",
       "source": "NYT",
@@ -46983,34 +47096,29 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "\u2018Love Island USA\u2019s Ciara Miller Confirms Return To \u2018Summer House\u2019 Season 11 Cast As Filming Starts",
-      "link": "https://deadline.com/2026/07/love-island-usa-ciara-miller-summer-house-season-11-cast-1236980018/",
-      "source": "Deadline",
-      "timestamp": "2026-07-12T01:25:22+00:00",
-      "score": 15,
-      "summary": "Ciara Miller will be summering at the Hamptons once again as she confirms she is part of the Summer House Season 11 cast. The Love Island USA Aftersun host revealed on the weekly Peacock talk show that she was back in New York City to start filming the Bravo series. \u201cI have Su...",
+      "title": "Dermatologist\u2019s Best Red-Light Therapy for Hair Growth 2025",
+      "link": "https://www.vogue.com/article/best-red-light-therapy-for-hair-growth",
+      "source": "Vogue",
+      "timestamp": "2026-07-13T21:31:15+00:00",
+      "score": 17,
+      "summary": "The best red-light therapy for hair growth, delivered via helmets or caps, can help stimulate hair follicles to promote natural new strands. Shop our picks.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Entertainment",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Island",
-        "USAs",
-        "Ciara",
-        "Miller",
-        "Confirms",
-        "Return",
-        "Summer",
-        "House",
-        "Season",
-        "Cast",
-        "Filming",
-        "Starts"
+        "Best",
+        "RedLight",
+        "Therapy",
+        "Hair",
+        "Growth"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -47019,95 +47127,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "Deadline"
+        "Vogue"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Tech Investor Vinod Khosla to Acquire the NFL\u2019s Seattle Seahawks for $9.6 Billion",
-      "link": "https://variety.com/2026/tv/news/vinod-khosla-buy-nfl-seattle-seahawks-paul-allen-49ers-1236807365/",
-      "source": "Variety",
-      "timestamp": "2026-07-12T01:22:35+00:00",
-      "score": 17,
-      "summary": "Tech billionaire Vinod Khosla and his family have reached an agreement to buy the Seattle Seahawks for $9.6 billion, according to people familiar with the details, as reported by Variety\u2018s sibling sports news outlet Sportico. The deal marks one of the largest valuations ever f...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Investor",
-        "Vinod",
-        "Khosla",
-        "Acquire",
-        "NFLs",
-        "Seattle",
-        "Seahawks",
-        "Billion"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "CBS\u2019 Matt Gutman Said He Got \u201cCompletely Scammed\u201d By Fake Bank Fraud Investigator: \u201cScary Experience\u201d",
-      "link": "https://deadline.com/2026/07/cbs-matt-gutman-scammed-fake-bank-fraud-investigator-1236980003/",
-      "source": "Deadline",
-      "timestamp": "2026-07-12T00:26:44+00:00",
-      "score": 14,
-      "summary": "CBS News journalist Matt Gutman revealed via social media that he was the target of a phone scam that almost had him emptying his bank account. \u201cA very scary experience,\u201d said Gutman. \u201cI\u2019m not as savvy as I think I am.\u201d In his July 10 posts, Gutman explained that a caller shar...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Matt",
-        "Gutman",
-        "Said",
-        "Got",
-        "Completely",
-        "Scammed",
-        "Fake",
-        "Bank",
-        "Fraud",
-        "Investigator",
-        "Scary",
-        "Experience"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
     {
       "title": "The 76 Best Menswear Moments of Wimbledon 2026",
       "link": "https://www.gq.com/gallery/wimbledon-2026-celebrity-style",
@@ -52685,6 +52711,106 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.4 - 107 km WNW of Yakutat, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nudqtv",
+      "source": "USGS",
+      "timestamp": "2026-07-13T21:43:41.847000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-13 21:42:11 UTC2026-07-13 21:42:11 UTC at epicenterLocation59.986\u00b0N 141.425\u00b0WDepth22.00 km (13.67 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Yakutat",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 2 km SSW of Gu\u00e1nica, Puerto Rico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523823",
+      "source": "USGS",
+      "timestamp": "2026-07-13T21:37:12.660000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-13 21:29:37 UTC2026-07-13 21:29:37 UTC at epicenterLocation17.950\u00b0N 66.916\u00b0WDepth14.52 km (9.02 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Gunica",
+        "Puerto",
+        "Rico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.7 - 5 km SSW of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75001851",
+      "source": "USGS",
+      "timestamp": "2026-07-13T21:36:04+00:00",
+      "score": 17,
+      "summary": "Time2026-07-13 21:32:27 UTC2026-07-13 21:32:27 UTC at epicenterLocation19.158\u00b0N 155.508\u00b0WDepth29.81 km (18.52 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.3 - 18 km WSW of Johannesburg, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293167",
@@ -59122,104 +59248,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Lindsey Graham remembered for a vision of American foreign policy that\u2019s fading in Washington",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeEpBbVRLNUVVSjRxNURKZjFhR2tMbndqZl93SFVNNWJnRVhJZ3EyelVpWm1mLW5TckpRMGpSR2xXUEkyZ2cxTTA0VElTRHJMckVIUXJXWERCWkthMGF2QXV3X2M5TmZqb1NIaHFsanN2a2NtVVZxNnpVV29Jejk4R3dwNWt2WllUZ2ZSYzBDalRpM1ZE?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-07-12T22:04:00+00:00",
-      "score": 14,
-      "summary": "Lindsey Graham remembered for a vision of American foreign policy that\u2019s fading in Washington AP News",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Graham",
-        "American",
-        "Washington"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 29 km SSE of Chickaloon, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nsidrs",
-      "source": "USGS",
-      "timestamp": "2026-07-12T21:58:55.179000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-12 21:57:44 UTC2026-07-12 21:57:44 UTC at epicenterLocation61.540\u00b0N 148.350\u00b0WDepth24.10 km (14.98 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Chickaloon",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 1 km ESE of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394576",
-      "source": "USGS",
-      "timestamp": "2026-07-12T21:57:44.705000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-12 21:56:09 UTC2026-07-12 21:56:09 UTC at epicenterLocation38.772\u00b0N 122.743\u00b0WDepth2.11 km (1.31 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+61%",
       "heat_level": "LOW"
     }
   ]
