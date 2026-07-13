@@ -2190,7 +2190,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.6,
+      "trend_score": 11.5,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -2201,7 +2201,7 @@
         "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+83%",
+      "trend_accel": "+82%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13223,6 +13223,37 @@
   ],
   "World": [
     {
+      "title": "Molly Ticehurst's killer's sentencing brought forward",
+      "link": "https://www.abc.net.au/news/2026-07-13/molly-ticehurst-killer-daniel-billings-sentencing-hearing/106892882",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-13T03:07:01+00:00",
+      "score": 12,
+      "summary": "The sentencing of the man who murdered New South Wales woman Molly Ticehurst has been brought forward to allow a psychiatrist to give evidence.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ticehursts"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "The eight words behind Iran's claim over the Strait of Hormuz",
       "link": "https://www.abc.net.au/news/2026-07-13/iran-and-united-states-mou-interpretation-strait-of-hormuz/106908594",
       "source": "ABC Australia",
@@ -15212,7 +15243,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 20,
       "sources_reporting": [
         "AP",
@@ -19893,25 +19924,29 @@
       ],
       "trend_accel": "+79%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "FIFA WC 2026: Jude Bellingham joins Maradona in exclusive club",
-      "link": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/fifa-wc-2026-jude-bellingham-joins-maradona-in-exclusive-club-with-back-to-back-braces-in-world-cup-knockouts/articleshow/132339673.cms",
-      "source": "Times of India",
-      "timestamp": "2026-07-12T06:46:16+05:30",
-      "score": 15,
-      "summary": "In a historic moment for English football, Jude Bellingham showcased his talents by netting four goals in the knockout stage of the World Cup, reminiscent of Diego Maradona's brilliance in 1986. His crucial late equalizer and standout extra-time winner against Norway propelled...",
+      "title": "Q1 results 2026: HCL Tech to ICICI Prudential AMC among companies to declare Q1 results today; full list here",
+      "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-hcl-tech-to-icici-prudential-amc-among-companies-to-declare-q1-results-today-full-list-here-11783910770504.html",
+      "source": "Livemint",
+      "timestamp": "2026-07-13T08:34:43+05:30",
+      "score": 17,
+      "summary": "Q1 results 2026: HCL Technologies, Bajaj Consumer Care, ICICI Prudential Asset Management Company, and Nuvoco Vistas Corporation are among the companies to declare their Q1 results FY27 on Monday.",
       "country": "India",
       "region": "South Asia",
       "source_type": "Newspaper",
-      "trust_score": 7,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Jude",
-        "Bellingham",
-        "Maradona"
+        "HCL",
+        "Tech",
+        "ICICI",
+        "Prudential",
+        "AMC"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19920,15 +19955,49 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "Times of India"
+        "Livemint"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "U.A.W. President Says He\u2019s the Victim of \u2018Bogus Allegations\u2019",
+      "link": "https://www.nytimes.com/2026/07/12/business/uaw-shawn-fain-investigation.html",
+      "source": "NYT",
+      "timestamp": "2026-07-13T03:03:51+00:00",
+      "score": 12,
+      "summary": "A grand jury is investigating whether Shawn Fain used his position to seek favors for his fianc\u00e9e and retaliated against the union official who denied them.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "President",
+        "Says",
+        "Hes",
+        "Victim",
+        "Bogus",
+        "Allegations"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "US stock market to Kospi: Here\u2019s world equity heatmap you should know before opening of the Indian stock market today",
       "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-to-kospi-here-s-world-equity-heatmap-you-should-know-before-opening-of-the-indian-stock-market-today-11783911043902.html",
@@ -26455,73 +26524,6 @@
         "Livemint"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "SK Hynix is about to hit the U.S. market. Here\u2019s what to know about the listing.",
-      "link": "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-07-10T02:38:00+00:00",
-      "score": 14,
-      "summary": "U.S. investors are about to get another straightforward way to play the red-hot market for memory chips.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hynix",
-        "Heres"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Gift Nifty signals positive start, Vaishali Parekh recommends three stocks to buy or sell on Friday \u2014 10 July 2026",
-      "link": "https://www.livemint.com/market/stock-market-news/gift-nifty-signals-positive-start-vaishali-parekh-recommends-three-stocks-to-buy-or-sell-on-friday-10-july-2026-11783649240278.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-10T07:55:03+05:30",
-      "score": 17,
-      "summary": "Buy or sell stocks, 10 July 2026: Vaishali Parekh recommends three stocks to buy today \u2014 Indian Bank, Kotak Mahindra Bank, and Nibe",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nifty",
-        "Vaishali",
-        "Parekh",
-        "Friday",
-        "July"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ],
@@ -39180,6 +39182,46 @@
   ],
   "Entertainment": [
     {
+      "title": "Josh Grisetti Dies: Actor Known For \u2018Mrs. Maisel\u2019 And \u2018Something Rotten!\u2019 On Broadway Was 44",
+      "link": "https://deadline.com/2026/07/josh-grisetti-actor-dead-suicide-1236980383/",
+      "source": "Deadline",
+      "timestamp": "2026-07-13T03:13:21+00:00",
+      "score": 17,
+      "summary": "Josh Grisetti, the Broadway actor best known for Something Rotten! and It Shoulda Been You as well as a recurring role on The Marvelous Mrs. Maisel, died Friday by suicide, according to his co-star and friend Rob McClure. He was 44. \u201cIt is with a shattered heart that I share t...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Grisetti",
+        "Dies",
+        "Actor",
+        "Known",
+        "Mrs",
+        "Maisel",
+        "Something",
+        "Rotten",
+        "Broadway",
+        "Was"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "\u2018Anne Rice\u2019s Mayfair Witches\u2019: Alexandra Daddario Is Electrifying (Literally) In Season 3 Teaser",
       "link": "https://deadline.com/2026/07/anne-rices-mayfair-witches-season-3-teaser-alex-daddario-1236979657/",
       "source": "Deadline",
@@ -47133,48 +47175,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Don\u2019t Remind \u2018Moana\u2019 Star Catherine Laga\u2019aia That She\u2019s a Nepo Baby, She Already Knows It",
-      "link": "https://www.hollywoodreporter.com/movies/movie-features/catherine-lagaaia-moana-disney-nepo-baby-interview-1236639331/",
-      "source": "THR",
-      "timestamp": "2026-07-10T17:16:22+00:00",
-      "score": 14,
-      "summary": "The 19-year-old actress is making her feature film debut as one of Disney's most beloved characters in the live-action 'Moana.' Even with the support of her mom and actor dad, landing the lead role still seemed surreal to Laga'aia.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Remind",
-        "Moana",
-        "Star",
-        "Catherine",
-        "Lagaaia",
-        "That",
-        "Shes",
-        "Nepo",
-        "Baby",
-        "She",
-        "Already",
-        "Knows"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -53155,6 +53155,37 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Botswana",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029476",
+      "source": "GDACS",
+      "timestamp": "2026-07-13T03:00:50+00:00",
+      "score": 12,
+      "summary": "On 10/07/2026, a forest fire started in Botswana, until 12/07/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Botswana"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+57%",
       "heat_level": "LOW"
     },
     {
@@ -59622,39 +59653,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.9 - 241 km NNW of Tobelo, Indonesia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szsv",
-      "source": "USGS",
-      "timestamp": "2026-07-12T01:13:27.175000+00:00",
-      "score": 15,
-      "summary": "DYFI? - IITime2026-07-12 00:43:30 UTC2026-07-12 00:43:30 UTC at epicenterLocation3.677\u00b0N 127.025\u00b0EDepth41.80 km (25.97 mi)",
-      "country": "Indonesia",
-      "region": "Southeast Asia",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Tobelo",
-        "Indonesia"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ]
