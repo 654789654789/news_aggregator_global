@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "MPs expected to approve long-delayed 'Hillsborough Law'",
+      "link": "https://www.bbc.co.uk/news/articles/c9q2qwnvd75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-07-14T12:53:55+00:00",
+      "score": 12,
+      "summary": "The legislation has returned to the Commons in Sir Keir Starmer's final days as prime minister.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hillsborough",
+        "Law"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Cashew dept. Secretary tenders revised unconditional apology before Kerala High Court",
       "link": "https://www.thehindu.com/news/national/kerala/cashew-dept-secretary-tenders-revised-unconditional-apology-before-kerala-high-court/article71220782.ece",
       "source": "The Hindu",
@@ -6652,25 +6684,24 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Police seize 1.25 liters of hash oil, arrest three peddlers and two consumers in Jubilee Hills",
-      "link": "https://www.thehindu.com/news/national/telangana/police-seize-125-liters-of-hash-oil-arrest-three-peddlers-and-two-consumers-in-jubilee-hills/article71217282.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-13T20:22:49+05:30",
-      "score": 15,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "EverQuest\u2019s biggest fans are leading its revival",
+      "link": "https://www.theverge.com/games/965112/everquest-legends-project-1999-fan-developers",
+      "source": "Verge",
+      "timestamp": "2026-07-14T09:00:00-04:00",
+      "score": 10,
+      "summary": "Live-service games and the companies that run them are in big trouble. Games and their developers are getting shut down and gutted, and publishers' huge promises are dubious. Meanwhile, EverQuest, one of the original live-service games, is thundering back more than 25 years la...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Jubilee",
-        "Hills"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6678,15 +6709,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "The first sunlight reflecting space mirror has been cleared for launch",
       "link": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
@@ -13299,30 +13328,33 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "LG Micro RGB Evo Review: Brilliant, Bright, Not Budget-Friendly",
-      "link": "https://www.wired.com/review/lg-micro-rgb-evo/",
-      "source": "Wired",
-      "timestamp": "2026-07-08T11:01:00+00:00",
+      "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
+      "link": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+      "source": "NYT",
+      "timestamp": "2026-07-14T12:50:51+00:00",
       "score": 12,
-      "summary": "It\u2019s hard to say if the pricey LG Micro RGB Evo television is worth shelling out for compared to its cheaper competitors, but you\u2019ll probably enjoy its color-popping display.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "summary": "After a fire killed 30 people, the scrutiny has turned to whether the venue used flammable foam on its ceilings and had blocked exits.",
+      "country": "Thailand",
+      "region": "Southeast Asia",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Micro",
-        "RGB",
-        "Evo",
-        "Review",
-        "Brilliant",
-        "Bright",
-        "Not",
-        "BudgetFriendly"
+        "Bangkok",
+        "Bar",
+        "Blaze",
+        "Signs",
+        "Fatal",
+        "Lapses",
+        "Repeated",
+        "Across",
+        "World"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13331,15 +13363,91 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 10,
       "sources_reporting": [
-        "Wired"
+        "Google News",
+        "NYT"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+70%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ2dMYkQ2YmZ0SjNpOXV3QnRMUXQwbEhUVkt2WlhoWXR3cVMwak4xdTBrVThoYzd4TGMyYnBkYzFWMmNVVzJ1d2V5dzNWMy1UcWRJeENvYlAyT3huaTdZaVZPdElUS3dCYXB2WUZudHJ3enBtTGhYdUs5RFN2QXhjdkJ5Qk0wOVJYRlE?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-07-14T12:50:51+00:00",
+      "score": 12,
+      "summary": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World The New York TimesDeath toll from a Bangkok music bar fire rises to 30, dozens remain in hospital WWLPFire breaks out at a pub in Bangkok, killing at least 27 people AP NewsThailand probes possible negligenc...",
+      "country": "Thailand",
+      "region": "Southeast Asia",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bangkok",
+        "Bar",
+        "Blaze",
+        "Signs",
+        "Fatal",
+        "Lapses",
+        "Repeated",
+        "Across",
+        "World",
+        "New",
+        "York",
+        "Times"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 7,
+      "sources_reporting": [
+        "Google News",
+        "NYT"
+      ],
+      "trend_accel": "+68%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Bastille Day celebrations in France tempered by fear of more wildfires",
+      "link": "https://www.theguardian.com/world/2026/jul/14/bastille-day-celebrations-france-tempered-fear-wildfires",
+      "source": "Guardian",
+      "timestamp": "2026-07-14T12:50:16+00:00",
+      "score": 12,
+      "summary": "Firework displays cancelled as Paris military parade asserts \u2018France\u2019s rearmament .. and Europe\u2019s strategic awakening\u2019Europe live \u2013 latest updatesEmmanuel Macron has presided over his final Bastille Day parade in Paris amid a searing heatwave and wildfires that forced authorit...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Day",
+        "France"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran deal",
       "link": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
@@ -19881,59 +19989,28 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Ukraine orders 16 Rafale jets, announces new anti-ballistic missile coalition in Paris",
-      "link": "https://www.france24.com/en/europe/20260713-ukraine-allies-gather-paris-step-defence-aid-heighten-pressure-russia",
-      "source": "France24",
-      "timestamp": "2026-07-13T18:50:07+00:00",
-      "score": 17,
-      "summary": "Strategic intelligence signal ingested from France24.",
-      "country": "France",
-      "region": "Europe",
+      "title": "U.S. oil tops $80 after Trump bombs Iran for third day, Tehran attacks tankers in Hormuz",
+      "link": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-14T12:55:57+00:00",
+      "score": 15,
+      "summary": "Oil prices rose on Tuesday after U.S. President Donald Trump announced plans to impose shipping fees in the Strait of Hormuz.",
+      "country": "Iran",
+      "region": "Middle East",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [
-        "Rafale",
-        "Paris"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "UK says Iran-backed group behind arson and vandalism attacks on Jewish community",
-      "link": "https://www.pbs.org/newshour/world/uk-says-iran-backed-group-behind-arson-and-vandalism-attacks-on-jewish-community",
-      "source": "PBS",
-      "timestamp": "2026-07-13T14:41:13-04:00",
-      "score": 12,
-      "summary": "The U.K. government says a proxy group backed by Iran is responsible for recent arson and vandalism attacks on Jewish sites in Britain.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Iranbacked",
-        "Jewish"
+        "Trump",
+        "Iran",
+        "Tehran",
+        "Hormuz"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19942,38 +20019,34 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "PBS"
+        "CNBC"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
-      "title": "A Brazilian Biopic About Jair Bolsonaro Is Threatening His Son\u2019s Presidential Campaign",
-      "link": "https://www.nytimes.com/2026/07/13/world/americas/jair-bolsonaro-biopic-son-presidential-campaign.html",
-      "source": "NYT",
-      "timestamp": "2026-07-13T18:40:27+00:00",
-      "score": 14,
-      "summary": "A Brazilian biopic about Jair Bolsonaro has upended his son Fl\u00e1vio Bolsonaro\u2019s presidential hopes after leaks showed he negotiated money for the film with a disgraced banker.",
-      "country": "US",
-      "region": "Americas",
+      "title": "SBI Funds Management IPO subscribed 0.71x on Day 1; NII portion leads demand, GMP signals 16% listing premium",
+      "link": "https://www.livemint.com/market/stock-market-news/sbi-funds-management-ipo-subscribed-0-71x-on-day-1-nii-portion-leads-demand-gmp-signals-16-listing-premium-11784031625422.html",
+      "source": "Livemint",
+      "timestamp": "2026-07-14T18:22:14+05:30",
+      "score": 15,
+      "summary": "SBI Funds Management's IPO saw strong investor interest on Day 1, with overall subscription at 0.71 times. Retail and NII segments showed positive engagement, while QIB interest was lower. The IPO, valued at \u20b99,812.91 crore, is an Offer for Sale with SBI and Amundi as main sha...",
+      "country": "India",
+      "region": "South Asia",
       "source_type": "Newspaper",
-      "trust_score": 9,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Brazilian",
-        "Biopic",
-        "About",
-        "Jair",
-        "Bolsonaro",
-        "Threatening",
-        "His",
-        "Sons",
-        "Presidential",
-        "Campaign"
+        "Funds",
+        "Management",
+        "IPO",
+        "Day",
+        "NII",
+        "GMP"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19982,15 +20055,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "NYT"
+        "Livemint"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Bank earnings live updates: JPMorgan and Bank of America calls are underway",
       "link": "https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html",
@@ -26575,83 +26646,38 @@
       ],
       "trend_accel": "+77%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "The real worry for Indian metal stocks isn't FPI selling. It's more earnings downgrades.",
-      "link": "https://www.livemint.com/market/stock-market-news/foreign-investors-pull-961-million-from-indian-metal-stocks-as-earnings-risks-grow-11783872540868.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-13T11:36:23+05:30",
-      "score": 14,
-      "summary": "June's biggest foreign investor outflow from the sector since August 2023 appears largely tactical, but analysts warn earnings downgrades are likely to continue as cost pressures persist and commodity markets weaken.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Indian",
-        "FPI",
-        "Its"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "IPO GMPs: Kusumgar IPO vs Laser Power IPO vs SBI Funds Management IPO vs Alpine Texworld IPO - here's what GMP hints",
-      "link": "https://www.livemint.com/market/ipo/ipo-gmps-kusumgar-ipo-gmp-vs-laser-power-ipo-gmp-vs-sbi-funds-management-ipo-gmp-vs-alpine-texworld-ipo-gmp-11783920036566.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-13T11:32:10+05:30",
-      "score": 12,
-      "summary": "Four IPOs\u2014SBI Funds Management, Alpine Texworld, Kusumgar, and Laser Power\u2014will dominate this week\u2019s market, with investors tracking subscription data and allotment statuses ahead of listing dates on July 15 and 21, 2026.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "GMPs",
-        "Kusumgar",
-        "IPO",
-        "Laser",
-        "Power",
-        "SBI",
-        "Funds",
-        "Management",
-        "Alpine",
-        "Texworld",
-        "GMP"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Researchers define new frontier in quantum materials",
+      "link": "https://phys.org/news/2026-07-frontier-quantum-materials.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-14T09:00:02-04:00",
+      "score": 10,
+      "summary": "Researchers at City College of New York physicist Vinod M. Menon's Laboratory for Nano and Micro Photonics (LaNMP) have outlined an emerging frontier in quantum materials: atomically thin systems in which light, magnetism and electric charge are strongly intertwined. This rapi...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Researcher creates seawater isotope database to improve climate data reconstructions and projections",
       "link": "https://phys.org/news/2026-07-seawater-isotope-database-climate-reconstructions.html",
@@ -32774,38 +32800,6 @@
         "Phys.org"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Genomic study of the Asian house shrew reveals a complex history of Indo-Pacific trade and human migration",
-      "link": "https://phys.org/news/2026-07-genomic-asian-house-shrew-reveals.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-10T11:40:01-04:00",
-      "score": 12,
-      "summary": "Sometimes mistaken for a strange-looking mouse with a long, pointed snout, the Asian house shrew is a small, furry animal known for its musky odor. It's usually found lurking near homes and farms, ports and cities, across Southeast Asia, East Africa, southern Japan and islands...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Asian",
-        "IndoPacific"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ],
@@ -39079,24 +39073,33 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Belgium handed U.S. a World Cup reality check",
-      "link": "https://www.espn.com/soccer/story/_/id/49291137/belgium-handed-united-states-fifa-world-cup-reality-check",
-      "source": "ESPN",
-      "timestamp": "2026-07-07T07:49:33-05:00",
-      "score": 12,
-      "summary": "The World Cup dream for the U.S. went up in smoke Monday, comprehensively dismantled 4-1 by Belgium.",
-      "country": "Belgium",
-      "region": "Europe",
-      "source_type": "Sports Publication",
+      "title": "AI-Generated Feature \u2018Odysseus: The Fall\u2019 Unveiled as Christopher Nolan\u2019s \u2018The Odyssey\u2019 Hits Theaters",
+      "link": "https://www.hollywoodreporter.com/business/digital/ai-generated-feature-odysseus-the-fall-1236646751/",
+      "source": "THR",
+      "timestamp": "2026-07-14T13:00:00+00:00",
+      "score": 14,
+      "summary": "Ash Koosha, \u2018Dreams of Violets\u2019 director, is piggy-backing on the Universal Pictures theatrical release to also promote his artificial intelligence-driven video production technology.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "World",
-        "Cup"
+        "Feature",
+        "Odysseus",
+        "Fall",
+        "Unveiled",
+        "Christopher",
+        "Nolans",
+        "Odyssey",
+        "Hits",
+        "Theaters"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -39105,19 +39108,126 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 17,
+      "source_count": 3,
       "sources_reporting": [
-        "AP",
-        "ESPN",
-        "Google News",
-        "PBS",
-        "Reuters"
+        "THR"
       ],
-      "trend_accel": "+66%",
-      "heat_level": "HOT"
-    }
-  ],
-  "Entertainment": [
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "BBC And Channel 4 Shows Repurposed For RoseBerry Media\u2019s New Vertical Video Service Epis",
+      "link": "https://deadline.com/2026/07/epis-vertical-video-bbc-channel-4-series-1236980652/",
+      "source": "Deadline",
+      "timestamp": "2026-07-14T13:00:00+00:00",
+      "score": 15,
+      "summary": "Israel\u2019s RoseBerry Media has reversioned BBC and Channel 4 series for its newly-announced vertical video platform, Epis (styled \u2018epis\u2019). The service has launched on the App Store, Google Play and a dedicated website with more than 100 titles across crime, drama, reality, datin...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Channel",
+        "Shows",
+        "Repurposed",
+        "RoseBerry",
+        "Medias",
+        "New",
+        "Vertical",
+        "Video",
+        "Service",
+        "Epis"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Make-Up Artists & Hair Stylists Guild Awards Sets 2027 Date & Timeline",
+      "link": "https://deadline.com/2026/07/make-up-artists-hair-stylists-guild-awards-2027-date-1236981423/",
+      "source": "Deadline",
+      "timestamp": "2026-07-14T13:00:00+00:00",
+      "score": 17,
+      "summary": "With the Primetime Emmy noms in the books, film awards season is coming into focus. The Make-Up Artists & Hair Stylists Guild has put the final touches on its 2027 awards timeline. The 14th annual MUAHS Awards ceremony is set for Saturday, February 20, returning to the Westin ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Artists",
+        "Hair",
+        "Stylists",
+        "Guild",
+        "Awards",
+        "Sets",
+        "Date",
+        "Timeline"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Hailey Bieber Launches \u201990s-Inspired Denim Collection With Gap",
+      "link": "https://variety.com/2026/shopping/asia/hailey-bieber-gap-jeans-collection-shop-online-1236806780/",
+      "source": "Variety",
+      "timestamp": "2026-07-14T13:00:00+00:00",
+      "score": 17,
+      "summary": "Hailey Bieber is bringing her signature oversized denim look to Gap with a limited-edition collection inspired by the model and entrepreneur\u2019s favorite vintage jeans \u2014 and her birth year. The retailer will launch \u201cThe Hailey Jean,\u201d atwo-silhouette denim capsule developed with ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bieber",
+        "Launches",
+        "Denim",
+        "Collection",
+        "Gap"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Fronti\u00e8res Buzzy Zombie Romcom \u2018Cold Feet\u2019 Adds Co-Pro Partners, Cast (EXCLUSIVE)",
       "link": "https://variety.com/2026/film/markets-festivals/cold-feet-zombie-romcom-frontieres-apoorva-satish-1236809266/",
@@ -40245,7 +40355,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.9,
+      "trend_score": 10.8,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -46910,146 +47020,27 @@
       ],
       "trend_accel": "+56%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "Sam Neill Dies; \u2018Jurassic Park\u2019 Actor Was 78",
-      "link": "https://deadline.com/2026/07/sam-neill-jurassic-park-actor-dead-1236980409/",
-      "source": "Deadline",
-      "timestamp": "2026-07-13T05:57:17+00:00",
-      "score": 15,
-      "summary": "Sam Neill, the New Zealand actor best known for his role in the Jurassic Park franchise, Peaky Blinders and a plethora of independent films has died in Australia, it was announced tonight. The multiple Golden Globe and Primetime Emmy nominee was 78. \u201cIt is with immense sadness...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Neill",
-        "Dies",
-        "Jurassic",
-        "Park",
-        "Actor",
-        "Was"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "John Mulaney Makes History in Chicago, Brings Out David Letterman, Fred Armisen and Richard Kind",
-      "link": "https://www.hollywoodreporter.com/news/general-news/john-mulaney-chicago-wrigley-field-david-letterman-armisen-1236646257/",
-      "source": "THR",
-      "timestamp": "2026-07-13T05:49:05+00:00",
+      "title": "Kolkata\u2019s Conversation Room brings AABBCC to the city for a takeover",
+      "link": "https://www.thehindu.com/food/features/kolkatas-conversation-room-brings-aabbcc-to-the-city-for-a-takeover/article71221095.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-07-14T18:23:15+05:30",
       "score": 12,
-      "summary": "The Chicago native returned home to become the first comedian to perform at Wrigley Field, and he sold out the venue to boot, performing for one of the largest stand-up audiences ever.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mulaney",
-        "Makes",
-        "History",
-        "Chicago",
-        "Brings",
-        "Out",
-        "David",
-        "Letterman",
-        "Fred",
-        "Armisen",
-        "Richard",
-        "Kind"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Jay-Z Addresses Three-Hour Delay at Yankee Stadium Concert, Says He Wanted to Avoid Fans Getting \u201cTrampled\u201d",
-      "link": "https://www.hollywoodreporter.com/music/music-news/jay-z-addresses-three-hour-delay-yankee-stadium-concert-1236646285/",
-      "source": "THR",
-      "timestamp": "2026-07-13T05:31:40+00:00",
-      "score": 12,
-      "summary": "\"I'm really sorry for the inconvenience, but I had to make sure everyone was OK,\" the rapper said after his show started nearly four hours after its original expected start time.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Addresses",
-        "ThreeHour",
-        "Delay",
-        "Yankee",
-        "Stadium",
-        "Concert",
-        "Says",
-        "Wanted",
-        "Avoid",
-        "Fans",
-        "Getting",
-        "Trampled"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Lucky\u2019 and 6 More Shows to Watch on TV this Week",
-      "link": "https://www.nytimes.com/2026/07/13/arts/television/lucky-and-6-more-shows-to-watch-on-tv-this-week.html",
-      "source": "NYT",
-      "timestamp": "2026-07-13T05:00:09+00:00",
-      "score": 15,
-      "summary": "A new crime thriller comes to Apple TV. And Sean Evans hosts \u201cHot Ones: Extra Heat.\u201d",
-      "country": "US",
-      "region": "Americas",
+      "summary": "Delhi\u2019s AABBCC brings its retro-futurist cocktails, ingredient-led philosophy and immersive bar experience to Kolkata for a one-night collaboration at Conversation Room",
+      "country": "India",
+      "region": "South Asia",
       "source_type": "Newspaper",
-      "trust_score": 9,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "More",
-        "Shows",
-        "Watch",
-        "Week"
+        "Conversation",
+        "Room",
+        "AABBCC"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -47060,13 +47051,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "NYT"
+        "The Hindu"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
+    },
     {
       "title": "Meet the Vogue & Cond\u00e9 Nast PhotoVogue Committee",
       "link": "https://www.vogue.com/article/meet-the-vogue-and-conde-nast-photovogue-committee",
@@ -52473,6 +52462,104 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 0.6 - 11 km NNE of Borrego Springs, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293839",
+      "source": "USGS",
+      "timestamp": "2026-07-14T12:59:18.102000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-14 12:55:49 UTC2026-07-14 12:55:49 UTC at epicenterLocation33.348\u00b0N 116.341\u00b0WDepth11.53 km (7.16 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Borrego",
+        "Springs"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 64 km WSW of Ferry, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nviedy",
+      "source": "USGS",
+      "timestamp": "2026-07-14T12:59:04.012000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-14 12:57:09 UTC2026-07-14 12:57:09 UTC at epicenterLocation63.890\u00b0N 150.396\u00b0WDepth0.30 km (0.19 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Ferry",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.0 - 10 km NNW of Simmler, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41293831",
+      "source": "USGS",
+      "timestamp": "2026-07-14T12:56:51.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-14 12:53:20 UTC2026-07-14 12:53:20 UTC at epicenterLocation35.441\u00b0N 120.032\u00b0WDepth9.61 km (5.97 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Simmler"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Philippines: 7.8 Sarangani Earthquake Response Snapshot (as of 13 July 2026)",
       "link": "https://reliefweb.int/report/philippines/philippines-78-sarangani-earthquake-response-snapshot-13-july-2026",
@@ -58907,104 +58994,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.5 - 0 km WSW of Gu\u00e1nica, Puerto Rico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71523738",
-      "source": "USGS",
-      "timestamp": "2026-07-13T14:34:02.200000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-13 14:23:01 UTC2026-07-13 14:23:01 UTC at epicenterLocation17.969\u00b0N 66.914\u00b0WDepth13.97 km (8.68 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Gunica",
-        "Puerto",
-        "Rico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 2 km ESE of Beaumont, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41292583",
-      "source": "USGS",
-      "timestamp": "2026-07-13T14:30:23.556000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-13 14:27:00 UTC2026-07-13 14:27:00 UTC at epicenterLocation33.922\u00b0N 116.962\u00b0WDepth17.84 km (11.09 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Beaumont"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 29 km S of Mammoth Lakes, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394946",
-      "source": "USGS",
-      "timestamp": "2026-07-13T14:27:32.764000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-13 14:25:57 UTC2026-07-13 14:25:57 UTC at epicenterLocation37.382\u00b0N 119.016\u00b0WDepth6.82 km (4.24 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mammoth",
-        "Lakes"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
