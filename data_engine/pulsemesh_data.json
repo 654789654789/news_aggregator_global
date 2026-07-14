@@ -1,6 +1,44 @@
 {
   "Politics": [
     {
+      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
+      "link": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
+      "source": "NYT",
+      "timestamp": "2026-07-14T11:04:35+00:00",
+      "score": 14,
+      "summary": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America\u2019s foreign policy.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Flexing",
+        "Muscle",
+        "Ukraine",
+        "Still",
+        "Sidelines",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "SIT reconstructs minor rape-murder crime scene in Baruipur",
       "link": "https://www.thehindu.com/news/national/west-bengal/sit-reconstructs-minor-rape-murder-crime-scene-in-baruipur/article71220905.ece",
       "source": "The Hindu",
@@ -6649,27 +6687,24 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Fat Leonard pleads poverty, blaming lawyers, lobbyists \u2014 and Maduro - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWJEZk5wcEFzbjg2d1U5TjFTVWlTX2thdDNxY2hMcGZWeWpiZzM0TUF1Z1dRd3pBRWZHdWNUU0gtSnRtdDhLMlYyNl8wTnpTTFpkZnk3Z2ZGa3RXd2dKUS1HWUQ3OEFoVjljOUx0YTV6N2h5YURWYTRJS1JEeE5PUHpNcmlmYThFTHU0Y1FVMlM4eWxpRDRjNTkxT3M2WENqUXFOWkR0WHAzTlRKa2tzYWJtVmR2d3RO?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-07-13T13:47:04+00:00",
-      "score": 12,
-      "summary": "Fat Leonard pleads poverty, blaming lawyers, lobbyists \u2014 and Maduro The Washington PostSee more headlines & perspectives on Google News",
+      "title": "The first sunlight reflecting space mirror has been cleared for launch",
+      "link": "https://www.theverge.com/science/965263/reflect-orbital-space-mirror-launch-fcc-clearance",
+      "source": "Verge",
+      "timestamp": "2026-07-14T07:10:39-04:00",
+      "score": 10,
+      "summary": "Reflect Orbital has been given the green light to launch its first space mirror that aims to redirect sunlight down to Earth at night. The US Federal Communications Commission (FCC) has authorized the California-based startup to build and operate a single prototype satellite i...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Aggregator",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Leonard",
-        "Maduro",
-        "Washington",
-        "Post"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6677,15 +6712,52 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Google News"
+        "Verge"
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "Oura Ring 5 Review: Still the Smart Ring to Beat",
+      "link": "https://www.wired.com/review/oura-ring-5/",
+      "source": "Wired",
+      "timestamp": "2026-07-14T11:07:00+00:00",
+      "score": 15,
+      "summary": "It\u2019s not the upgrade Ring 4 owners have been waiting for, but it\u2019s easily the best smart ring Oura has ever made.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ring",
+        "Review",
+        "Still",
+        "Smart",
+        "Beat"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 8.4,
+      "source_count": 17,
+      "sources_reporting": [
+        "AP",
+        "Guardian",
+        "NHK",
+        "Verge",
+        "Wired"
+      ],
+      "trend_accel": "+72%",
+      "heat_level": "SURGING"
+    },
     {
       "title": "Let\u2019s build a children\u2019s public internet",
       "link": "https://www.theverge.com/report/962823/childrens-public-internet-child-safety-proposal",
@@ -7863,8 +7935,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -13268,23 +13340,30 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "The robotaxi law that could ban Tesla",
-      "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
-      "source": "Verge",
-      "timestamp": "2026-07-08T07:00:00-04:00",
-      "score": 12,
-      "summary": "For more than a decade, one question has loomed over the race to build autonomous vehicles: Are cameras alone enough to safely replace human drivers, or do truly driverless cars need additional, overlapping sensors like lidar and radar to navigate the world reliably? Tesla has...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
+      "title": "European troops and warplanes join Paris Bastille Day parade in a show of unity for Ukraine",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0dUR3ZGMlczZHc3Y2dMOU9DNTNvY2cwUldGY0tCQ0t6Y1J1cnAzUVNRNklqX1N6MEw2THRLd2I2SlFfVjhhdnJQcXBHS0NfZHNNYzdpaW9CTFhRU0hvTElUQ1RTTXEtaHh0b3dhVGN5ekZ1UFU1OF9FRDRfa1ktUTE4ZVFrVWtrLUEwRW5MVVc5aHFlZmU4Q0c2UjV1OGpOdThZ?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-07-14T11:08:00+00:00",
+      "score": 14,
+      "summary": "European troops and warplanes join Paris Bastille Day parade in a show of unity for Ukraine AP NewsMacron calls go-it-alone defence strategies in Europe an 'absurdity' ReutersFrance hopes to send \u2018strategic signal\u2019 about Europe\u2019s renewed military focus at Bastille Day celebrat...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Aggregator",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Tesla"
+        "Paris",
+        "Bastille",
+        "Day",
+        "Ukraine"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13293,30 +13372,59 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "Google News"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "BBC faces \u2018real jeopardy\u2019 as licence fee payments fall faster than expected",
+      "link": "https://www.theguardian.com/media/2026/jul/14/bbc-faces-real-jeopardy-as-licence-fee-payments-fall-faster-than-expected",
+      "source": "Guardian",
+      "timestamp": "2026-07-14T11:07:43+00:00",
+      "score": 10,
+      "summary": "Director general, Matt Brittin, says funding model ties corporation to the past as number of licences falls by 539,000The number of people paying the BBC\u2019s licence fee has fallen faster than expected in the last year, with half a million more households opting out of the payme...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-08T08:00:00+00:00",
+      "title": "Iran and US stage new attacks, battle over control of Strait of Hormuz",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV1NVbmwxanV3R25iWTRkMnNoY3hRblJYYVdDTU9FSGVrbDJkRDlNazBlbGV2MjBUYlNDX09Mcng5Vk9BdGJRSEIyNGdXdzlZOFV4aTh5N0xBSlB4WklnZ2VvUFc2WENOalA4Z1p0djZXVmFzV3RpMklJekp2U1JYbmxVREk4bTFtR19jQ2pJVzJkQU0xWmtsZzhBOHc5UkYtMGtld1RYUE91ZE9nNFQ5MTdvT2xxY2xoVjdzX2JqMG1uYy1IRTJz?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-07-14T11:06:16+00:00",
       "score": 14,
-      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Tech Publication",
+      "summary": "Iran and US stage new attacks, battle over control of Strait of Hormuz ReutersUS military hits targets across Iran in hours leading up to resumption of naval blockade Fox NewsUS attacks Iran using unmanned kamikaze boats for first time as battle over Hormuz continues The Indep...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "French",
-        "ZML"
+        "Strait",
+        "Hormuz"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13325,15 +13433,47 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "Google News"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Lebanon, Israel hold talks in Rome on implementing framework deal",
+      "link": "https://www.aljazeera.com/news/2026/7/14/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-07-14T11:00:58+00:00",
+      "score": 14,
+      "summary": "Beirut is hoping for progress towards securing an Israeli withdrawal from southern Lebanon.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Israel",
+        "Rome"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
       "link": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
@@ -19846,124 +19986,28 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Hegseth announces joint taskforce with DoJ to target and prosecute press leaks",
-      "link": "https://www.theguardian.com/us-news/2026/jul/13/pete-hegseth-doj-taskforce-press-leaks",
-      "source": "Guardian",
-      "timestamp": "2026-07-13T17:35:33+00:00",
+      "title": "JPMorgan, Bank of America CEOs tout strong quarter: Live updates",
+      "link": "https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-14T11:15:16+00:00",
       "score": 12,
-      "summary": "US defense secretary says taskforce will \u2018combat dangers\u2019 of leaks in latest escalation of White House press crackdownThe US defense secretary, \u2060Pete Hegseth, \u200bannounced Monday that the Pentagon and the US Department of Justice have created a \u201cjoint taskforce \u200bto identify and ...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "DoJ"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Conflict Over Iranian Planes Imperils Yemen\u2019s Fragile Peace",
-      "link": "https://www.nytimes.com/2026/07/13/world/middleeast/yemen-houthis-saudi-arabia-iran-war.html",
-      "source": "NYT",
-      "timestamp": "2026-07-13T17:21:45+00:00",
-      "score": 12,
-      "summary": "The Iran-backed Houthi rebels in Yemen accused Saudi Arabia of striking an airport in the Yemeni capital, Sana. The escalation came after a dispute over an Iranian plane that carried Houthi officials to Tehran.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Over",
-        "Iranian",
-        "Planes",
-        "Imperils",
-        "Yemens",
-        "Fragile",
-        "Peace"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "US justice department investigating UAW president over corruption allegations",
-      "link": "https://www.theguardian.com/us-news/2026/jul/13/justice-department-uaw-president-investigation",
-      "source": "Guardian",
-      "timestamp": "2026-07-13T17:18:47+00:00",
-      "score": 12,
-      "summary": "Shawn Fain calls allegations \u2018bogus\u2019 and says attorney holds a \u2018grudge\u2019 against him over union\u2019s \u2018anti-war stance\u2019 on GazaThe US Department of Justice is probing allegations against United Auto Workers (UAW) president Shawn Fain that he put pressure on another high-ranking uni...",
+      "summary": "The five banks releasing earnings Tuesday morning are expected to report strong revenue from trading equities and fixed income.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "UAW"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Fire at Bangkok bar kills 27; exits may have been blocked, officials say - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTmlYMWx0UHo5WW9hWm8tTm81UDVyVTM2RzB4MXRaOWFYczYzTkY4a3IwN3gxdmkzMW9DSDNpeExPb3ljbm91V2ptVGRhUldwdHJTU1Fka3RGYk9obmlsRlRtVW1jZmRvel9COUlEbzd2ZWJwelNrQVdWNlNvWk1EbG4xVksxaTA?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-07-13T17:06:59+00:00",
-      "score": 15,
-      "summary": "Fire at Bangkok bar kills 27; exits may have been blocked, officials say The Washington PostThailand: At least 28 killed in Bangkok bar fire BBCPeople killed in Bangkok music bar fire were found trapped in windowless bathrooms The HillMassive fire rips through pub, killing at ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Bangkok",
-        "Washington",
-        "Post"
+        "Bank",
+        "America",
+        "CEOs",
+        "Live"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19972,15 +20016,42 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "Google News"
+        "CNBC"
       ],
-      "trend_accel": "+54%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "JPMorgan beats profit expectations by the most in five years, as equity-markets revenue surges",
+      "link": "https://www.marketwatch.com/story/jpmorgan-beats-profit-expectations-by-the-most-in-five-years-as-equity-markets-revenue-surges-9a0d8805?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-07-14T11:04:00+00:00",
+      "score": 12,
+      "summary": "JPMorgan\u2019s stock falls, even after a big profit beat, record revenue and a raised outlook for net interest income.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "JPMorgan, Bank of America and Wells Fargo earnings are out: Live updates",
       "link": "https://www.cnbc.com/2026/07/14/jpm-bank-of-america-citi-bank-earnings-live-updates.html",
@@ -22551,14 +22622,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 10.1,
+      "source_count": 15,
       "sources_reporting": [
-        "MarketWatch"
+        "BBC",
+        "CNBC",
+        "Guardian",
+        "MarketWatch",
+        "NHK",
+        "NYT"
       ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
+      "trend_accel": "+78%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Lindsey Graham died from a rare heart condition. Here\u2019s how to know if you\u2019re at risk.",
@@ -25741,7 +25817,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.4,
+      "trend_score": 10.3,
       "source_count": 19,
       "sources_reporting": [
         "Bloomberg",
@@ -25751,7 +25827,7 @@
         "NPR",
         "NYT"
       ],
-      "trend_accel": "+79%",
+      "trend_accel": "+78%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26599,8 +26675,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -26611,83 +26687,6 @@
         "Reuters"
       ],
       "trend_accel": "+84%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
-      "link": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-07-12T22:18:00+00:00",
-      "score": 14,
-      "summary": "Oil prices rose and U.S. stock-index futures slipped on Sunday, after the U.S. and Iran continued their tit-for-tat attacks around the Strait of Hormuz over the weekend.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Iran"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 12,
-      "sources_reporting": [
-        "AP",
-        "BBC",
-        "CNBC",
-        "MarketWatch",
-        "NPR",
-        "NYT"
-      ],
-      "trend_accel": "+80%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Stock futures slip after U.S., Iran exchange airstrikes again: Live updates",
-      "link": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-12T22:11:42+00:00",
-      "score": 14,
-      "summary": "Traders weighed the latest events in the Middle East and braced for a slew of corporate earnings reports due out later in the week.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Iran",
-        "Live"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 17,
-      "sources_reporting": [
-        "BBC",
-        "Bloomberg",
-        "CNBC",
-        "Google News",
-        "MarketWatch",
-        "PBS"
-      ],
-      "trend_accel": "+89%",
       "heat_level": "CRITICAL"
     }
   ],
@@ -39144,6 +39143,83 @@
   ],
   "Entertainment": [
     {
+      "title": "Ellen Burstyn to Receive Venice Lifetime Golden Lion",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/ellen-burstyn-venice-lifetime-golden-lion-1236647408/",
+      "source": "THR",
+      "timestamp": "2026-07-14T11:15:41+00:00",
+      "score": 12,
+      "summary": "The Oscar-winning actress, star of 'The Exorcist,' 'Alice Doesn\u2019t Live Here Anymore' and 'Requiem for a Dream,' will be honored at the 83rd Venice Festival in August.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Burstyn",
+        "Receive",
+        "Venice",
+        "Lifetime",
+        "Golden",
+        "Lion"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 9,
+      "sources_reporting": [
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+62%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "BBC Boss Says \u2018Doctor Who\u2019 Disruption Is Opportunity For Creative Regeneration",
+      "link": "https://deadline.com/2026/07/bbc-doctor-who-disruption-creative-renewal-1236981723/",
+      "source": "Deadline",
+      "timestamp": "2026-07-14T11:10:08+00:00",
+      "score": 12,
+      "summary": "BBC director general Matt Brittin has made a bullish case for the future of Doctor Who after the sci-fi show\u2019s Christmas special was canceled amid production changes. Brittin \u2014 who declared his love for Doctor Who before joining the BBC earlier this year \u2014 said the exit of sho...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Boss",
+        "Says",
+        "Doctor",
+        "Who",
+        "Disruption",
+        "Opportunity",
+        "Creative",
+        "Regeneration"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "\u2018Bluey,\u2019 BritBox North America, Cost Savings Help Drive BBC Commercial\u2019s Earnings Growth",
       "link": "https://www.hollywoodreporter.com/business/business-news/bluey-britbox-cost-cuts-bbc-studios-commercial-earnings-1236646336/",
       "source": "THR",
@@ -47002,87 +47078,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Stephen Chow\u2019s \u2018Kung Fu Soccer\u2019 Kicks Off With Mighty $74 Million Two-Day Debut at China Box Office",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/stephen-chow-kung-fu-soccer-china-box-office-1236646255/",
-      "source": "THR",
-      "timestamp": "2026-07-13T03:20:12+00:00",
-      "score": 15,
-      "summary": "The 'Shaolin Soccer' spinoff, Stephen Chow's first film as director in seven years, is projected to earn more than $350 million in its home market, with plans for a U.S. release still in the works.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Chows",
-        "Kung",
-        "Soccer",
-        "Kicks",
-        "Off",
-        "Mighty",
-        "Million",
-        "TwoDay",
-        "Debut",
-        "China",
-        "Box",
-        "Office"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Anne Rice\u2019s Mayfair Witches\u2019: AMC Reveals Teaser for Season 3",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/anne-rice-mayfair-witches-first-look-season-3-amc-1236646267/",
-      "source": "THR",
-      "timestamp": "2026-07-13T03:16:38+00:00",
-      "score": 17,
-      "summary": "Alexandra Daddario stars in the series, which is scheduled to return in 2027.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rices",
-        "Mayfair",
-        "Witches",
-        "AMC",
-        "Reveals",
-        "Teaser",
-        "Season"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -52655,6 +52650,102 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 2.7 - 11 km ESE of Gilroy, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75395576",
+      "source": "USGS",
+      "timestamp": "2026-07-14T11:13:31.941000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-14 11:11:56 UTC2026-07-14 11:11:56 UTC at epicenterLocation36.967\u00b0N 121.452\u00b0WDepth3.48 km (2.16 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Gilroy"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Australia",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029464",
+      "source": "GDACS",
+      "timestamp": "2026-07-14T11:13:07+00:00",
+      "score": 12,
+      "summary": "On 03/07/2026, a forest fire started in Australia, until 11/07/2026.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Australia"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.1 - 4 km SSW of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002271",
+      "source": "USGS",
+      "timestamp": "2026-07-14T11:10:40.060000+00:00",
+      "score": 17,
+      "summary": "Time2026-07-14 11:07:15 UTC2026-07-14 11:07:15 UTC at epicenterLocation19.167\u00b0N 155.497\u00b0WDepth30.37 km (18.87 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
     {
       "title": "DR Congo: Perception crois\u00e9e des enfants, parents et acteurs sur l'impact de MVE sur la PE_mai2026",
       "link": "https://reliefweb.int/report/democratic-republic-congo/perception-croisee-des-enfants-parents-et-acteurs-sur-limpact-de-mve-sur-la-pemai2026",
@@ -59085,102 +59176,6 @@
         "USGS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.4 - 8 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75394886",
-      "source": "USGS",
-      "timestamp": "2026-07-13T12:08:51.734000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-13 12:07:16 UTC2026-07-13 12:07:16 UTC at epicenterLocation38.831\u00b0N 122.818\u00b0WDepth1.79 km (1.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+61%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 87 km W of Akhiok, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ntjpxa",
-      "source": "USGS",
-      "timestamp": "2026-07-13T11:43:24.783000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-13 11:41:29 UTC2026-07-13 11:41:29 UTC at epicenterLocation56.842\u00b0N 155.599\u00b0WDepth11.10 km (6.90 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Akhiok",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 4 km ESE of Sutton-Alpine, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ntjmpw",
-      "source": "USGS",
-      "timestamp": "2026-07-13T11:38:55.862000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-13 11:37:40 UTC2026-07-13 11:37:40 UTC at epicenterLocation61.767\u00b0N 148.680\u00b0WDepth1.70 km (1.06 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "SuttonAlpine",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
       "heat_level": "LOW"
     }
   ]
