@@ -7593,7 +7593,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.5,
+      "trend_score": 8.4,
       "source_count": 18,
       "sources_reporting": [
         "AP",
@@ -13152,6 +13152,37 @@
     }
   ],
   "World": [
+    {
+      "title": "Publishers sue Google over alleged use of books to train AI models",
+      "link": "https://www.france24.com/en/technology/20260715-publishers-sue-google-over-alleged-use-of-books-to-train-ai-models",
+      "source": "France24",
+      "timestamp": "2026-07-15T00:51:42+00:00",
+      "score": 14,
+      "summary": "Book publishers sued Google on Tuesday, accusing the tech giant of illegally using copyrighted works to train its artificial intelligence models and generate content that competes with human authors. The lawsuit marks the latest legal battle over how AI developers use books an...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Google"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "France24"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "News live: Jane Hume says Australia should be \u2018encouraging\u2019 datacentres and claims PM\u2019s plan to regulate AI may stifle innovation",
       "link": "https://www.theguardian.com/australia-news/live/2026/jul/15/australia-news-live-ceo-pay-anthony-albanese-palestine-gaza-ai-artificial-intelligence-datacentres-copyright-royal-commission-antisemitism-labor-ntwnfb",
@@ -19735,30 +19766,28 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Deportations by India Cause Tension Along Border with Bangladesh",
-      "link": "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html",
-      "source": "NYT",
-      "timestamp": "2026-07-14T07:12:27+00:00",
-      "score": 12,
-      "summary": "India is driving out Bangladeshi immigrants it says are in the country illegally. Bangladesh is pushing back, leaving people stranded along the border amid increasing tensions between the countries.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
+      "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-15T00:53:57+00:00",
+      "score": 17,
+      "summary": "SK Hynix led a broad rally in Asian technology shares on Wednesday, tracking a rebound in U.S. semiconductor shares after a sharp selloff earlier this week.",
+      "country": "South Korea",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "India",
-        "Cause",
-        "Tension",
-        "Along",
-        "Border",
-        "Bangladesh"
+        "Hynix",
+        "South",
+        "Korean",
+        "Asia"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19767,15 +19796,45 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "NYT"
+        "CNBC"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Raja Venkatraman recommends three stocks for 15 July",
+      "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-15-july-11784075826143.html",
+      "source": "Livemint",
+      "timestamp": "2026-07-15T06:17:30+05:30",
+      "score": 17,
+      "summary": "Market expert Raja Venkatraman shares his top stock picks for 15 July. Here\u2019s his technical outlook and trade strategy.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Venkatraman",
+        "July"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
     {
       "title": "I changed jobs 10 times in 10 years to get the career I wanted",
       "link": "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
@@ -26314,72 +26373,6 @@
         "MarketWatch"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Oil prices jump following the latest fighting in the Middle East, while AI stocks sink",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHZ0YWpGZjBZakNRRmRveklzX1hRUklIWUc2MzVoWE51Z1Bjc0JFU05vd2tGVWhaSVVVSmFvbHU3QWJZcEs0R2dkRjFxcG9WaGMtWFo2SmhqTTVjSDNFVFk5Zl8xcmdiaTFHUmM5cWU0RzNDeDU2TGM4RWJJMjg3Y2lYeEJBWkdqeXFWUjg0eWpNZw?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-07-13T20:19:00+00:00",
-      "score": 14,
-      "summary": "Oil prices jump following the latest fighting in the Middle East, while AI stocks sink AP NewsStocks drop after Trump reimposes Strait of Hormuz blockade, SK Hynix leads chip stocks lower: Live updates CNBCOil Climbs, US Futures Dip on Fresh Iran Strikes: Markets Wrap Bloomber...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Middle",
-        "East"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Stocks end lower as oil prices surge on renewed Hormuz tensions, SK Hynix leads chip stock sell-off",
-      "link": "https://www.cnbc.com/2026/07/12/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-13T20:17:54+00:00",
-      "score": 14,
-      "summary": "Stocks fell on Monday after President Donald Trump announced he was reinstating what he called a blockade on Iranian shipping through the Strait of Hormuz.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Hormuz",
-        "Hynix"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ],
@@ -38495,29 +38488,34 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "IOC provisionally lifts suspension of Russian Olympic Committee \u2013 Recommendations to IFs with regard to Russian athletes\u2019 participation no longer applicable - olympics.com",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObWxlVkRiVUZILTVKb2lPdV9GT1BfOFQ4c2RDZFdEcDhoTkFPUDBfRFZuV1Y1ekUtODh0dWxSc2RJdWtEazlfbEJzQTYySlMzaXRRNDJoeVZfb3FnU1V3QlJ3NFBaM0t5am1IaFZYSHRNQUhOa0Q5Ull3ekxOVmxBVmtMM0dLdXhacmJOTnpmOEZQczVlX0k2V2hrU2l2d29PSmlvQTBpcTNSWE5PRE92N1RoS2dEdm5kMXZLd2lpWmV2Z3V5T0JyUkxBOVJOMl81NkVhQ0VRMWx5NF9TNmVOYlZWN3UzUy00U3ZOblIzR2gzekVMMzJHREJDTGRqZnZpanJhbm4zMndxRUdPc213NjV1QkVLUQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-07-08T00:46:24+00:00",
+      "title": "Anya Taylor-Joy Is a Con Artist on the Run in Apple TV\u2019s High-Voltage Thriller \u2018Lucky\u2019: TV Review",
+      "link": "https://variety.com/2026/tv/reviews/lucky-review-apple-tv-anya-taylor-joy-1236806733/",
+      "source": "Variety",
+      "timestamp": "2026-07-15T01:00:00+00:00",
       "score": 12,
-      "summary": "IOC provisionally lifts suspension of Russian Olympic Committee \u2013 Recommendations to IFs with regard to Russian athletes\u2019 participation no longer applicable olympics.comThe IOC Has Officially Lifted Its Suspension On Russia Yahoo SportsIOC moves to end Russian neutrality for 2...",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Aggregator",
+      "summary": "Based on Marissa Stapley\u2019s 2021 novel of the same name and adapted for television by \u201cYour Friends & Neighbors\u201d creator Jonathan Tropper, Apple TV limited series \u201cLucky\u201d is the captivating story of one young woman\u2019s desperate attempt to break free of the dark and violent life ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Russian",
-        "Olympic",
-        "Committee",
-        "Recommendations",
-        "IFs"
+        "TaylorJoy",
+        "Con",
+        "Artist",
+        "Run",
+        "Apple",
+        "TVs",
+        "HighVoltage",
+        "Thriller",
+        "Lucky",
+        "Review"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -38526,15 +38524,56 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Google News"
+        "Variety"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+54%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
+    {
+      "title": "\u2018Lucky\u2019 Review: Anya Taylor-Joy Stars as an Identity-Swapping Con Woman in an Apple TV Thriller With Identity Issues of Its Own",
+      "link": "https://www.hollywoodreporter.com/tv/tv-reviews/lucky-review-anya-taylor-joy-apple-tv-1236648186/",
+      "source": "THR",
+      "timestamp": "2026-07-15T01:00:00+00:00",
+      "score": 12,
+      "summary": "Reese Witherspoon executive produced this seven-episode series, adapted by Jonathan Tropper and featuring Timothy Olyphant, Annette Bening and Aunjanue Ellis-Taylor.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Review",
+        "Anya",
+        "TaylorJoy",
+        "Stars",
+        "IdentitySwapping",
+        "Con",
+        "Woman",
+        "Apple",
+        "Thriller",
+        "Identity",
+        "Issues",
+        "Its",
+        "Own"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Anne Hathaway Shares How Husband Helped Her Connect With The Odyssey",
       "link": "https://www.eonline.com/news/1433996/anne-hathaways-husband-adam-shulman-inspired-her-odyssey-performance?cmpid=rss-syndicate-genericrss-us-top_stories",
@@ -46400,86 +46439,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "After Three-Hour Delay, Jay-Z Caps Yankee Stadium Run With Rihanna, Beyonc\u00e9, Usher and More",
-      "link": "https://www.hollywoodreporter.com/music/music-news/jay-z-yankee-stadium-extra-innings-concert-recap-rihanna-1236646925/",
-      "source": "THR",
-      "timestamp": "2026-07-13T20:51:02+00:00",
-      "score": 12,
-      "summary": "Sunday night's hotly-anticipated \"Extra Innings\" show may not have begun until after midnight Monday morning, but the sold-out audience enthusiastically celebrated a decades-spanning 45-song set.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ThreeHour",
-        "Delay",
-        "JayZ",
-        "Caps",
-        "Yankee",
-        "Stadium",
-        "Run",
-        "Rihanna",
-        "Beyonc",
-        "Usher",
-        "More"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "David Zaslav Files to Sell $59 Million More in Warner Bros. Discovery Stock",
-      "link": "https://variety.com/2026/film/news/david-zaslav-sells-59-million-warner-bros-discovery-stock-1236810050/",
-      "source": "Variety",
-      "timestamp": "2026-07-13T20:50:18+00:00",
-      "score": 17,
-      "summary": "As Paramount Skydance\u2019s deal to take over Warner Bros. Discovery is still pending, WBD CEO David Zaslav is continuing to cash out his stock in the company he is set to depart in the coming months. Zaslav filed to sell about 2.18 million shares of Warner Bros. Discovery stock, ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Zaslav",
-        "Files",
-        "Sell",
-        "Million",
-        "More",
-        "Warner",
-        "Bros",
-        "Discovery",
-        "Stock"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -51763,6 +51722,71 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.8 - 6 km SW of Volcano, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75002651",
+      "source": "USGS",
+      "timestamp": "2026-07-15T00:54:52.910000+00:00",
+      "score": 17,
+      "summary": "Time2026-07-15 00:51:13 UTC2026-07-15 00:51:13 UTC at epicenterLocation19.398\u00b0N 155.275\u00b0WDepth8.45 km (5.25 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Volcano",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 5.1 - South Sandwich Islands region",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia",
+      "source": "USGS",
+      "timestamp": "2026-07-15T00:53:31.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-15 00:35:28 UTC2026-07-15 00:35:28 UTC at epicenterLocation58.771\u00b0S 29.472\u00b0WDepth10.00 km (6.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "South",
+        "Sandwich",
+        "Islands"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
     {
@@ -58220,74 +58244,6 @@
         "USGS"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 58 km S of Whites City, New Mexico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026nsgigj",
-      "source": "USGS",
-      "timestamp": "2026-07-14T01:51:25.833000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-14 01:43:54 UTC2026-07-14 01:43:54 UTC at epicenterLocation31.660\u00b0N 104.480\u00b0WDepth4.70 km (2.92 mi)",
-      "country": "Mexico",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Whites",
-        "City",
-        "New",
-        "Mexico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+62%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.0 - 2 km WSW of Congregaci\u00f3n Reforma, Mexico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t07s",
-      "source": "USGS",
-      "timestamp": "2026-07-14T01:44:34.860000+00:00",
-      "score": 15,
-      "summary": "DYFI? - IVTime2026-07-14 01:19:59 UTC2026-07-14 01:19:59 UTC at epicenterLocation14.772\u00b0N 92.332\u00b0WDepth80.45 km (49.99 mi)",
-      "country": "Mexico",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Congregacin",
-        "Reforma",
-        "Mexico"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
