@@ -1,6 +1,137 @@
 {
   "Politics": [
     {
+      "title": "China's Xi calls for more global efforts to guide AI, chides U.S. for its curbs on tech sharing",
+      "link": "https://www.pbs.org/newshour/world/chinas-xi-calls-for-more-global-efforts-to-guide-ai-chides-us-for-its-curbs-on-tech-sharing",
+      "source": "PBS",
+      "timestamp": "2026-07-17T13:07:29-04:00",
+      "score": 14,
+      "summary": "Development and governance of artificial intelligence should be a global effort, Chinese President Xi Jinping said Friday, while reiterating China's objections to what he called the \"overstretching\" of national security concerns.",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "MPs from the West reflect on Keir Starmer's legacy as PM",
+      "link": "https://www.bbc.co.uk/news/videos/cvg0dm8jz49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-07-17T17:03:03+00:00",
+      "score": 12,
+      "summary": "Labour MPs pay tribute to the outgoing prime minister after his emotional final speech in parliament.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "West",
+        "Keir",
+        "Starmers"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Govt. to launch bullet rail project with Indian train; Japan to provide next-gen Shinkansen series after 4 years",
+      "link": "https://www.thehindu.com/news/national/govt-to-launch-bullet-rail-project-with-indian-train-japan-to-provide-next-gen-shinkansen-series-after-4-years/article71235004.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-07-17T22:31:24+05:30",
+      "score": 17,
+      "summary": "Officials say work on Mumbai-Ahmedabad high-speed rail project progressing well, they reject former Japanese Minister\u2019s remarks",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Indian",
+        "Japan",
+        "Shinkansen"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Mapping exercise is related to citizenship verification under Constitution, says CEC Gyanesh Kumar",
+      "link": "https://www.thehindu.com/news/national/karnataka/mapping-exercise-is-related-to-citizenship-verification-under-constitution-says-cec-gyanesh-kumar/article71235492.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-07-17T22:30:42+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Constitution",
+        "CEC",
+        "Gyanesh",
+        "Kumar"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Police officer detained after alleged attempt to free relatives from police station in Nedumangad",
       "link": "https://www.thehindu.com/news/national/kerala/police-officer-detained-after-alleged-attempt-to-free-relatives-from-police-station-in-nedumangad/article71235447.ece",
       "source": "The Hindu",
@@ -3518,14 +3649,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 9.8,
+      "source_count": 13,
       "sources_reporting": [
-        "BBC"
+        "BBC",
+        "Guardian",
+        "Guardian",
+        "NHK",
+        "Reuters"
       ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
+      "trend_accel": "+77%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Trump puts election security at center of Republicans' midterm fight",
@@ -6512,130 +6647,28 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "After years of false claims on voting, Trump to give an address on election integrity",
-      "link": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
-      "source": "NPR",
-      "timestamp": "2026-07-16T16:50:26-04:00",
+      "title": "\u2018The Odyssey\u2019 Backlash Failed Tremendously",
+      "link": "https://www.wired.com/story/the-odyssey-backlash-failed-tremendously/",
+      "source": "Wired",
+      "timestamp": "2026-07-17T17:09:13+00:00",
       "score": 14,
-      "summary": "President Trump, who for years has sowed doubt about the security of American elections, is scheduled to give a primetime address Thursday night about election integrity. Trump has long contended, without evidence, that he won the 2020 election",
+      "summary": "For all the hysteria over \u201cwoke\u201d casting and ahistorical choices, Christopher Nolan\u2019s epic is on track to make $200 million globally during its opening weekend.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Trump"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 10.2,
-      "source_count": 13,
-      "sources_reporting": [
-        "Bloomberg",
-        "Guardian",
-        "NPR",
-        "NYT",
-        "Reuters",
-        "The Hill"
-      ],
-      "trend_accel": "+77%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Anthropic CEO gave $1M to AI safety super PAC",
-      "link": "https://thehill.com/policy/technology/5972753-anthropic-ceo-gave-1m-to-ai-safety-super-pac/",
-      "source": "The Hill",
-      "timestamp": "2026-07-16T20:47:49+00:00",
-      "score": 17,
-      "summary": "Anthropic CEO Dario Amodei gave $1 million to Public First, a super PAC backing candidates who support stronger guardrails on AI, according to a campaign finance filing Wednesday. He was joined by several other Anthropic employees, who gave a combined $2.15 million over the la...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "CEO",
-        "PAC"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hill"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Blanche to meet with Epstein survivors after Tillis ultimatum",
-      "link": "https://thehill.com/homenews/senate/5972722-blanche-epstein-survivors-meeting/",
-      "source": "The Hill",
-      "timestamp": "2026-07-16T20:35:43+00:00",
-      "score": 12,
-      "summary": "Acting Attorney General Todd Blanche will meet Thursday afternoon with survivors of convicted sex offender Jeffrey Epstein\u2019s crimes, following pressure from lawmakers during hearings on Capitol Hill this week. A Department of Justice (DOJ) source familiar with the meeting told...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Epstein",
-        "Tillis"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 10,
-      "sources_reporting": [
-        "AP",
-        "Guardian",
-        "NHK",
-        "NYT",
-        "The Hill"
-      ],
-      "trend_accel": "+71%",
-      "heat_level": "SURGING"
-    },
-    {
-      "title": "Thune tees up bill to provide assistance to Ukraine, sanction Russia",
-      "link": "https://thehill.com/homenews/senate/5972749-senate-ukraine-aid-russia-sanctions-vote/",
-      "source": "The Hill",
-      "timestamp": "2026-07-16T20:35:18+00:00",
-      "score": 14,
-      "summary": "Senate Majority Leader John Thune (R-S.D.) on Thursday took procedural steps to place on the Senate calendar House-passed legislation to provide $1.3 billion in security assistance for Ukraine and expand sanctions on Russia. The legislation passed the House last month by a vot...",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Ukraine",
-        "Russia"
+        "Odyssey",
+        "Backlash",
+        "Failed",
+        "Tremendously"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6646,13 +6679,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "The Hill"
+        "Wired"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Asus\u2019 top-end 4K QD-OLED gaming monitor is $400 off",
       "link": "https://www.theverge.com/gadgets/966907/asus-rog-swift-qd-oled-marathon-steam-deal-sale",
@@ -13181,30 +13212,25 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "AI Isn\u2019t Human. Stop Talking About It Like It Is. - The Free Press",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14eUhUdFR4S1k0RWlLcE40Nk1pY2ZEVkdjYmhsY3JGc0N4dXlyc0t6cW5IcDliTXlhRTBJYzBxTmh0Zk5IMmo1ODhDZXZlZTB0U3R4cHQ0d3c0RU1kWDgzaWEtU1dpMThp?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-07-13T14:04:01+00:00",
-      "score": 14,
-      "summary": "AI Isn\u2019t Human. Stop Talking About It Like It Is. The Free PressA global workspace in language models AnthropicAnthropic found a hidden space where Claude puzzles over concepts MIT Technology ReviewBefore \"I Think, Therefore I Am\" Psychology TodayAnthropic says Claude has carv...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
+      "title": "Berry tough: Ribena seeks to make hardier blackcurrants to beat extreme weather",
+      "link": "https://www.theguardian.com/business/2026/jul/17/ribena-owner-invests-uk-blackcurrant-bushes-extreme-weather",
+      "source": "Guardian",
+      "timestamp": "2026-07-17T17:08:07+00:00",
+      "score": 12,
+      "summary": "\u00a3200,000 investment comes after harvests in Britain hit by wet winter, spring frost and hail, then heatwavesThe owner of Ribena is to invest \u00a3200,000 in helping blackcurrant bushes withstand stress after extreme weather put a squeeze on this year\u2019s UK harvest.That harvest is n...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Isnt",
-        "Human",
-        "Stop",
-        "Talking",
-        "About",
-        "Like",
-        "Free",
-        "Press"
+        "Ribena"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13215,13 +13241,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Google News"
+        "Guardian"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterways",
       "link": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
@@ -19837,27 +19861,30 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Palestinians injured in Israeli settler attacks across West Bank",
-      "link": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-07-16T20:37:23+00:00",
+      "title": "After Repeated Crises, Boeing Looks to Turn a Corner",
+      "link": "https://www.nytimes.com/2026/07/17/business/boeing-turnaround-737-max.html",
+      "source": "NYT",
+      "timestamp": "2026-07-17T17:07:15+00:00",
       "score": 12,
-      "summary": "More than 30 people reportedly arrested across the occupied territory, as Israel intensifies its siege.",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Newswire",
-      "trust_score": 8,
+      "summary": "The company recently opened a new production line to keep up with strong demand for its 737 Max, though orders for its new planes lag rival Airbus.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Israeli",
-        "West",
-        "Bank"
+        "Repeated",
+        "Crises",
+        "Boeing",
+        "Looks",
+        "Turn",
+        "Corner"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19866,15 +19893,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "Al Jazeera"
+        "NYT"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Anthropic in early talks with Meta to acquire compute power",
       "link": "https://www.cnbc.com/2026/07/17/anthropic-meta-ai-compute.html",
@@ -26389,35 +26414,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Investigation into parking charges for drivers queuing at petrol stations",
-      "link": "https://www.bbc.co.uk/news/articles/cnvnyr75r48o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-07-16T10:49:33+00:00",
-      "score": 10,
-      "summary": "It's part of a wider crackdown from the consumer regulator into potentially unfair practices by private parking operators.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -32579,6 +32575,41 @@
   ],
   "Sports": [
     {
+      "title": "Trump expected to award World Cup trophy on Sunday - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0dIdFF2S0R3d2JjVV9ZSm50TER4Tk1HTGI1aWVOTUJ6ai1obnM2b002eGRocDVGRzlKQ3Z2ZVIyWXBFdVNYWmZJdkRWS2xJcUQwY1BldlVkblItUXRlWTJFLTdwa3lLOGwzb1FnWEFoc0QtbEo3WlNIUnhYWWlpbmdUTENmMFBoVVJBVkdPM05tbG9sSk53T1VkS3E?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-07-17T17:01:45+00:00",
+      "score": 12,
+      "summary": "Trump expected to award World Cup trophy on Sunday The Washington PostFootball Daily | Donald Trump gives himself starting role in the bigliest occasion of all The GuardianSpanish PM Pedro Sanchez to attend World Cup final alongside Trump amid tensions NBC NewsSpanish Prime Mi...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "World",
+        "Cup",
+        "Sunday",
+        "Washington",
+        "Post"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Rohit Sharma's international future hangs in the balance",
       "link": "https://www.cricinfo.com/ci/content/story/1545925.html?ex_cid=OTC-RSS",
       "source": "Cricinfo",
@@ -37649,6 +37680,86 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "The Ultimate Self-Defense Championship Launching Female-Focused Spinoff Series On YouTube",
+      "link": "https://deadline.com/2026/07/ultimate-self-defense-championship-female-focused-spinoff-1236996943/",
+      "source": "Deadline",
+      "timestamp": "2026-07-17T17:12:41+00:00",
+      "score": 12,
+      "summary": "The Ultimate Self-Defense Championship is expanding. The combat and self-defense competition series, which airs on YouTube and across social media has generated 150M views online and has run for three seasons. The organization is now planning a new female-focused spinoff serie...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Ultimate",
+        "SelfDefense",
+        "Championship",
+        "Launching",
+        "FemaleFocused",
+        "Spinoff",
+        "Series",
+        "YouTube"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Oscar, Emmy-Winning Director Daniel Junge Boards Documentary by Panama\u2019s Abner Benaim (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/oscar-emmy-winning-daniel-junge-boards-abner-benaim-docu-1236814421/",
+      "source": "Variety",
+      "timestamp": "2026-07-17T17:03:05+00:00",
+      "score": 14,
+      "summary": "Oscar and Emmy winning U.S. director Daniel Junge (\u201cSaving Face\u201d) is executive producing the latest documentary from Panama\u2019s Abner Benaim (\u201cInvasion\u201d \u201cPlaza Catedral\u201d) who has represented Panama three times at the Academy Awards. Still untitled, the documentary follows Panama...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "EmmyWinning",
+        "Director",
+        "Daniel",
+        "Junge",
+        "Boards",
+        "Documentary",
+        "Panamas",
+        "Abner",
+        "Benaim",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Lil Wayne To Host Weekly Video Podcast \u2018The Joint Venture Show\u2019 With Craig Carton",
       "link": "https://deadline.com/2026/07/lil-wayne-weekly-video-podcast-the-joint-venture-show-1236996874/",
@@ -45524,84 +45635,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Amelia Dimoldenberg\u2019s F1 Series \u2018Passenger Princess\u2019 Returning for Season 2 This Month",
-      "link": "https://variety.com/2026/digital/global/amelia-dimoldenberg-passenger-princess-season-2-release-date-1236812446/",
-      "source": "Variety",
-      "timestamp": "2026-07-16T15:23:03+00:00",
-      "score": 15,
-      "summary": "Amelia Dimoldenberg is taking another lap with \u201cPassenger Princess.\u201d The \u201cChicken Shop Date\u201d host\u2019s Formula 1 series, in which she interviews some of the sport\u2019s biggest stars while also learning to drive, is set to return to YouTube this month for a new batch of episodes. Thi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Dimoldenbergs",
-        "Series",
-        "Passenger",
-        "Princess",
-        "Returning",
-        "Season",
-        "This",
-        "Month"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Hungary, Location for \u2018F1: The Movie,\u2019 \u2018Dune,\u2019 \u2018The Brutalist,\u2019 Removes Break on New Registrations for Production Incentive",
-      "link": "https://variety.com/2026/film/global/hungary-new-registrations-production-incentive-1236812488/",
-      "source": "Variety",
-      "timestamp": "2026-07-16T15:18:49+00:00",
-      "score": 15,
-      "summary": "P\u00e9ter Magyar\u2019s new Hungarian government has reaffirmed its support for the film production sector in the country, which is Europe\u2019s second biggest hub for production, and has hosted Hollywood films like \u201cF1: The Movie,\u201d the \u201cDune\u201d films, \u201cThe Brutalist\u201d and \u201cPoor Things,\u201d and ...",
-      "country": "Hungary",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Location",
-        "Movie",
-        "Dune",
-        "Brutalist",
-        "Removes",
-        "Break",
-        "New",
-        "Registrations",
-        "Production",
-        "Incentive"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -50309,6 +50342,103 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 9 km ESE of Tyonek, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026obetue",
+      "source": "USGS",
+      "timestamp": "2026-07-17T17:14:40.029000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-17 17:13:11 UTC2026-07-17 17:13:11 UTC at epicenterLocation61.022\u00b0N 150.987\u00b0WDepth57.00 km (35.42 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Tyonek",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 7 km ENE of Holtville, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657186",
+      "source": "USGS",
+      "timestamp": "2026-07-17T17:14:33.983000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-17 17:11:02 UTC2026-07-17 17:11:02 UTC at epicenterLocation32.843\u00b0N 115.317\u00b0WDepth10.30 km (6.40 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Holtville"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.7 - 2 km NNW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397756",
+      "source": "USGS",
+      "timestamp": "2026-07-17T17:13:27.160000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-17 17:11:52 UTC2026-07-17 17:11:52 UTC at epicenterLocation38.794\u00b0N 122.768\u00b0WDepth4.08 km (2.54 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
       "heat_level": "LOW"
     },
     {
@@ -56690,103 +56820,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.5 - 11 km NNW of Warner Springs, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40656354",
-      "source": "USGS",
-      "timestamp": "2026-07-16T14:55:12.640000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-16 14:51:44 UTC2026-07-16 14:51:44 UTC at epicenterLocation33.370\u00b0N 116.690\u00b0WDepth11.71 km (7.28 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Warner",
-        "Springs"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 10 km NW of Pinnacles, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75397051",
-      "source": "USGS",
-      "timestamp": "2026-07-16T14:54:30.080000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-16 14:52:53 UTC2026-07-16 14:52:53 UTC at epicenterLocation36.596\u00b0N 121.217\u00b0WDepth6.14 km (3.82 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pinnacles"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Ukrainians protest Zelenskyy\u2019s ouster of his popular defense minister",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORnYzOW5nRHgwakl3NXZGMXVna2ZFN21CaTM1LVpqNDQ4Q3NhSVBzMnZBX3AybWtfN3NmUWFZU0R4SFA0ek8wSDZTWTI1akhCV2dnNWxTb0plVkZ2RnhSRmFFNkVuSG9GOXhzWHhCcEdLRzhrRlUtcUlScFlLenRVQmtGSE9rVm9CdEpKdy1DamVvU2JHU2NIRV9OMnJWSGR0NENIeDFaNkVpeGlVNUJTRGs1RQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-07-16T14:48:00+00:00",
-      "score": 14,
-      "summary": "Ukrainians protest Zelenskyy\u2019s ouster of his popular defense minister AP News",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Zelenskyys"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ]
