@@ -3430,7 +3430,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.9,
+      "trend_score": 7.8,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -6654,6 +6654,35 @@
     }
   ],
   "Tech": [
+    {
+      "title": "Kodak EC35 is a dirt-cheap point-and-shoot film camera",
+      "link": "https://www.theverge.com/gadgets/967687/kodak-ec35-point-and-shoot-film-camera",
+      "source": "Verge",
+      "timestamp": "2026-07-19T15:26:06-04:00",
+      "score": 15,
+      "summary": "Following the success of its $99 Kodak-branded Snapic A1, Reto Project is releasing the Kodak EC35, an even more affordable 35mm film camera for just $34.99. The EC35 certainly isn't fancy. Its 25mm acrylic lens with a fixed f/10 aperture and 1/100 shutter speed basically put ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Verge"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "I hate that I don\u2019t hate this song made with Suno",
       "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
@@ -13155,22 +13184,26 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Telegram\u2019s shortlink domain is back online after day-long suspension",
-      "link": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-14T14:10:13+00:00",
+      "title": "Paramedics told not to take complex cardiac patients to Mersey hospital",
+      "link": "https://www.abc.net.au/news/2026-07-20/paramedics-told-avoid-complex-cardiac-patients-mersey-hospital/106932900",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-19T19:25:24+00:00",
       "score": 12,
-      "summary": "Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that short-links to the messaging app had \"stopped working.\"",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "Paramedics have been told to transport complex cardiac patients in Tasmania's north-west to the Launceston General Hospital rather than the local Mersey Community Hospital.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Mersey"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13178,15 +13211,80 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Museum wants Holocaust education to create 'a safe Australia for everybody'",
+      "link": "https://www.abc.net.au/news/2026-07-20/holocaust-museum-royal-commission-antisemitism-education/106921230",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-19T19:19:23+00:00",
+      "score": 12,
+      "summary": "Melbourne Holocaust Museum has had to step up security since 2020 following a rise in incidents that have seen threatening voice messages and hateful comments left online.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Holocaust",
+        "Australia"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Donald Trump arrives by helicopter to attend World Cup final alongside Gianni Infantino",
+      "link": "https://www.theguardian.com/football/2026/jul/19/donald-trump-world-cup-final",
+      "source": "Guardian",
+      "timestamp": "2026-07-19T19:16:04+00:00",
+      "score": 12,
+      "summary": "US president watches Spain v Argentina matchWorld Cup final: live coverage of the matchDonald Trump took his place at the World Cup final at the New York New Jersey Stadium on Sunday.Trump arrived at the stadium on Marine One, with the president\u2019s helicopter first flying over ...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump",
+        "World",
+        "Cup",
+        "Gianni",
+        "Infantino"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "World Cup final: \"It is going to be the best day of my life\"",
       "link": "https://www.france24.com/en/video/20260719-world-cup-final-it-is-going-to-be-the-best-day-of-my-life",
@@ -13974,8 +14072,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 11.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -14801,8 +14899,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
+      "trending": true,
+      "trend_score": 11.2,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -19768,112 +19866,6 @@
         "Times of India"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Most Forest Fires in Canada Are Simply Impossible to Put Out",
-      "link": "https://www.nytimes.com/2026/07/18/world/canada/wildfires-canada-fire-fighting.html",
-      "source": "NYT",
-      "timestamp": "2026-07-18T12:31:34+00:00",
-      "score": 12,
-      "summary": "Half of Canada\u2019s wildfires are in remote areas with no road access. Impossible to fight, they are often left to burn.",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Forest",
-        "Fires",
-        "Canada",
-        "Are",
-        "Simply",
-        "Impossible",
-        "Put",
-        "Out"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Seven killed, more than 50 wounded in Ukrainian drone attack on Russian regions",
-      "link": "https://www.thehindu.com/news/international/seven-killed-more-than-50-wounded-in-ukrainian-drone-attack-on-russian-regions/article71237647.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-18T17:53:11+05:30",
-      "score": 17,
-      "summary": "Ukrainian special operations also conducted strikes against targets in the Sea of Azov and in occupied territory, Mr. Zelenskyy said",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Ukrainian",
-        "Russian"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tensions escalate as Iran and U.S. continue to exchange strikes",
-      "link": "https://www.cbc.ca/news/world/iran-us-war-gulf-9.7275317?cmp=rss",
-      "source": "CBC News",
-      "timestamp": "2026-07-18T08:22:58-04:00",
-      "score": 12,
-      "summary": "Iran launched more attacks on Washington's Gulf allies on Saturday after a seventh straight night of U.S. strikes targeting Iranian military sites including logistics facilities, escalating the war one week after a ceasefire fell apart.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [
-        "Iran"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CBC News"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
@@ -36290,6 +36282,143 @@
   ],
   "Entertainment": [
     {
+      "title": "Anne Hathaway Says \u2018Princess Diaries 3\u2019 Had a \u2018Story Breakthrough\u2019 After Having to \u2018Start Over\u2019 With the Script: \u2018We are Moving in the Right Direction\u2019",
+      "link": "https://variety.com/2026/film/news/anne-hathaway-princess-diaries-3-breakthrough-script-1236816029/",
+      "source": "Variety",
+      "timestamp": "2026-07-19T19:25:48+00:00",
+      "score": 15,
+      "summary": "\u201cPrincess Diaries 3\u201d recently had a breakthrough after a scrapped script, Anne Hathaway revealed during an appearance on SiriusXM\u2019s \u201cRadio Andy.\u201d \u201cI\u2019m busy making baby number three, and that has sort of taken the place of knowing when exactly I can make \u2018Princess Diaries 3,\u2019\u201d ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hathaway",
+        "Says",
+        "Princess",
+        "Diaries",
+        "Had",
+        "Story",
+        "Breakthrough",
+        "After",
+        "Having",
+        "Start",
+        "Over",
+        "Script",
+        "Moving",
+        "Right",
+        "Direction"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.0,
+      "source_count": 13,
+      "sources_reporting": [
+        "AP",
+        "Bloomberg",
+        "Deadline",
+        "NPR",
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "Anne Hathaway Reveals \u2018Princess Diaries 3\u2019 Update: \u201cWe Had a Story Breakthrough\u201d",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/anne-hathaway-princess-diaries-3-update-1236651735/",
+      "source": "THR",
+      "timestamp": "2026-07-19T19:24:36+00:00",
+      "score": 15,
+      "summary": "The Oscar winner played the beloved Mia Thermopolis in the 2001 and 2004 films.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hathaway",
+        "Reveals",
+        "Princess",
+        "Diaries",
+        "Update",
+        "Had",
+        "Story",
+        "Breakthrough"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.0,
+      "source_count": 13,
+      "sources_reporting": [
+        "Bloomberg",
+        "Deadline",
+        "Guardian",
+        "NHK",
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "Tom Cruise Makes Appearance At World Cup Final To \u201cCelebrate A Tournament That Brought The World Together\u201d: \u201cThis Is Unity & This Is Greatness\u201d",
+      "link": "https://deadline.com/2026/07/tom-cruise-world-cup-final-celebrate-tournament-football-1236997840/",
+      "source": "Deadline",
+      "timestamp": "2026-07-19T19:22:15+00:00",
+      "score": 12,
+      "summary": "Tom Cruise made a guest appearance during the pre-show for the 2026 FIFA World Cup final. Ahead of the matchup between Spain and Argentina to find out who becomes the soccer champion, the Digger star took the stage to deliver some encouraging words. \u201cMore than 30 days ago, 48 ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cruise",
+        "Makes",
+        "Appearance",
+        "World",
+        "Cup",
+        "Final",
+        "Celebrate",
+        "Tournament",
+        "That",
+        "Brought",
+        "Together",
+        "This",
+        "Unity",
+        "Greatness"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Post Malone Debuts New Song \u2018Chrome Heartbreaker\u2019 at World Cup Final Pregame Ceremony",
       "link": "https://www.rollingstone.com/music/music-news/post-malone-performance-world-cup-final-pregame-ceremony-1235594952/",
       "source": "Rolling Stone",
@@ -36694,14 +36823,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 11.0,
+      "source_count": 19,
       "sources_reporting": [
-        "Deadline"
+        "BBC",
+        "Bloomberg",
+        "Deadline",
+        "PBS",
+        "THR",
+        "Variety"
       ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
+      "trend_accel": "+87%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "\u2018The Odyssey\u2019 Opens Big at the Box Office, Powered by Its Director",
@@ -36842,8 +36976,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -37415,8 +37549,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -38083,8 +38217,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -44175,126 +44309,6 @@
       ],
       "trend_accel": "+83%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Brenda Fricker Dies: Oscar-Winning Actress & \u2018Home Alone 2\u2019s Central Park Pigeon Lady Was 81",
-      "link": "https://deadline.com/2026/07/brenda-fricker-dead-home-alone-2-pigeon-lady-my-left-foot-1236996721/",
-      "source": "Deadline",
-      "timestamp": "2026-07-17T13:21:41+00:00",
-      "score": 15,
-      "summary": "Brenda Fricker, the Oscar-winning actress who had memorable roles in My Left Foot and Home Alone 2, has died after a period of ill health, according to her agent. She was 81. In a statement, her agent Phil Belfield confirmed Fricker\u2019s death and said: \u201cWe will never see her lik...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fricker",
-        "Dies",
-        "OscarWinning",
-        "Actress",
-        "Home",
-        "Alone",
-        "Central",
-        "Park",
-        "Pigeon",
-        "Lady",
-        "Was"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The Internet\u2019s Steve Lacy, Syd and Matt Martians Discuss New Music",
-      "link": "https://www.nytimes.com/2026/07/17/arts/music/internet-syd-steve-lacy-interview.html",
-      "source": "NYT",
-      "timestamp": "2026-07-17T13:20:26+00:00",
-      "score": 12,
-      "summary": "The band members Steve Lacy and Syd, both of whom have new solo albums out now, reunite with the producer Matt Martians to discuss achieving TikTok fame, writing a Beyonc\u00e9 song and staying a family.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Internets",
-        "Steve",
-        "Lacy",
-        "Syd",
-        "Matt",
-        "Martians",
-        "Discuss",
-        "New",
-        "Music"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tom Holland's Sweet Marriage Comment About Zendaya Will Make You Swoon",
-      "link": "https://www.eonline.com/news/1434085/tom-holland-makes-rare-comment-about-zendaya-marriage?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-07-17T13:09:00+00:00",
-      "score": 12,
-      "summary": "Tom Holland is not letting even ancient Greek literature steal his girl. In a recent interview alongside The Odyssey costars Robert Pattinson, Matt Damon and Anne Hathaway, he addressed a theory...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hollands",
-        "Sweet",
-        "Marriage",
-        "Comment",
-        "About",
-        "Zendaya",
-        "Will",
-        "Make",
-        "You",
-        "Swoon"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+42%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -48691,6 +48705,71 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.1 - 8 km WNW of Orcas, Washington",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714054972",
+      "source": "USGS",
+      "timestamp": "2026-07-19T19:27:56.280000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-19 19:25:14 UTC2026-07-19 19:25:14 UTC at epicenterLocation48.628\u00b0N 123.050\u00b0WDepth12.35 km (7.67 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Orcas",
+        "Washington"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.2 - 32 km SSE of Campo, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658018",
+      "source": "USGS",
+      "timestamp": "2026-07-19T19:27:03.610000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-19 19:16:35 UTC2026-07-19 19:16:35 UTC at epicenterLocation32.356\u00b0N 116.309\u00b0WDepth13.37 km (8.31 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Campo"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.8 - 3 km S of Gu\u00e1nica, Puerto Rico",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525048",
@@ -55124,72 +55203,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 17 km WSW of Johannesburg, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657538",
-      "source": "USGS",
-      "timestamp": "2026-07-18T14:01:20.537000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-18 13:58:39 UTC2026-07-18 13:58:39 UTC at epicenterLocation35.313\u00b0N 117.808\u00b0WDepth7.20 km (4.47 mi)",
-      "country": "South Africa",
-      "region": "Africa",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Johannesburg"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.8 - 70 km NNE of Vieques, Puerto Rico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71524848",
-      "source": "USGS",
-      "timestamp": "2026-07-18T13:57:17.050000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-18 13:27:51 UTC2026-07-18 13:27:51 UTC at epicenterLocation18.995\u00b0N 65.535\u00b0WDepth6.97 km (4.33 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Vieques",
-        "Puerto",
-        "Rico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
