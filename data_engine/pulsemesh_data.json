@@ -13198,6 +13198,40 @@
   ],
   "World": [
     {
+      "title": "Russian ballistic missile attack on Kyiv kills 1, wounds 16",
+      "link": "https://www.cbc.ca/news/world/ukraine-war-kyiv-russia-attack-9.7275691?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-07-19T08:36:40-04:00",
+      "score": 15,
+      "summary": "Russia battered the Ukrainian capital of Kyiv overnight \u200cwith one of its biggest ballistic missile barrages of the war that began in February 2022.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "Kyiv"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CBC News"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "U.S. strikes Iran's Revolutionary Guard after attack of American troops in Jordan",
       "link": "https://www.cbc.ca/news/world/u-s-airstrikes-iran-retaliation-9.7275686?cmp=rss",
       "source": "CBC News",
@@ -13565,14 +13599,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 11.3,
+      "source_count": 14,
       "sources_reporting": [
-        "BBC"
+        "AP",
+        "BBC",
+        "Bloomberg",
+        "CBC News",
+        "France24",
+        "PBS"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
+      "trend_accel": "+81%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "\u2018Dialogue, not silence\u2019: Naveen Patnaik urges dialogue with students protesting exam crisis",
@@ -13631,8 +13670,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 15,
       "sources_reporting": [
         "ABC Australia",
@@ -13713,14 +13752,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 11.3,
+      "source_count": 17,
       "sources_reporting": [
-        "BBC"
+        "BBC",
+        "Bloomberg",
+        "CBC News",
+        "France24",
+        "Guardian",
+        "NHK"
       ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
+      "trend_accel": "+85%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Relief for Abhishek Banerjee: HC halts demolition drive of TMC MP's Amtala office",
@@ -14611,8 +14655,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 11.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "ABC Australia",
@@ -19837,40 +19881,6 @@
         "Guardian"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Disappointed France and England face off for third place World Cup match",
-      "link": "https://www.france24.com/en/sport/20260718-disappointed-france-and-england-face-off-for-third-place-world-cup-match",
-      "source": "France24",
-      "timestamp": "2026-07-18T05:56:10+00:00",
-      "score": 12,
-      "summary": "France and England meet for their final World Cup match on Saturday competing for third place after failing to reach Sunday's final. Neither of the disappointed teams seems to relish the prospect of the clash: \"The best thing for France and England would be for this match not ...",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "France",
-        "England",
-        "World",
-        "Cup"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -48793,6 +48803,104 @@
   ],
   "CrisisWatch": [
     {
+      "title": "Green flood alert in South Korea",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104032",
+      "source": "GDACS",
+      "timestamp": "2026-07-19T12:38:47+00:00",
+      "score": 12,
+      "summary": "On 18/07/2026, a flood started in South Korea, lasting until 20/07/2026 (last update). The flood caused 0 deaths and 95 displaced .",
+      "country": "South Korea",
+      "region": "East Asia",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "South",
+        "Korea"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.0 - 50 km N of Valdez, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oenowv",
+      "source": "USGS",
+      "timestamp": "2026-07-19T12:37:56.009000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-19 12:36:20 UTC2026-07-19 12:36:20 UTC at epicenterLocation61.579\u00b0N 146.203\u00b0WDepth16.50 km (10.25 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Valdez",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.2 - 18 km WSW of Petrolia, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398941",
+      "source": "USGS",
+      "timestamp": "2026-07-19T12:37:19.555000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-19 12:32:07 UTC2026-07-19 12:32:07 UTC at epicenterLocation40.281\u00b0N 124.495\u00b0WDepth10.11 km (6.28 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Petrolia"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 2.2 - 84 km N of Karluk, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oenbso",
       "source": "USGS",
@@ -55190,104 +55298,6 @@
         "USGS"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.1 - 116 km NW of Yakutat, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ocjqde",
-      "source": "USGS",
-      "timestamp": "2026-07-18T08:43:24.305000+00:00",
-      "score": 15,
-      "summary": "ShakeMap - IIITime2026-07-18 08:38:32 UTC2026-07-18 08:38:32 UTC at epicenterLocation60.272\u00b0N 141.240\u00b0WDepth3.00 km (1.86 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Yakutat",
-        "Alaska"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.9 - 208 km SW of Bandar Lampung, Indonesia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1kf",
-      "source": "USGS",
-      "timestamp": "2026-07-18T08:37:35.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-18 08:21:42 UTC2026-07-18 08:21:42 UTC at epicenterLocation6.603\u00b0S 103.788\u00b0EDepth23.73 km (14.75 mi)",
-      "country": "Indonesia",
-      "region": "Southeast Asia",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bandar",
-        "Lampung",
-        "Indonesia"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 9 km WSW of Pinon Hills, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40657490",
-      "source": "USGS",
-      "timestamp": "2026-07-18T08:26:31.751000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-18 08:23:00 UTC2026-07-18 08:23:00 UTC at epicenterLocation34.406\u00b0N 117.739\u00b0WDepth6.66 km (4.14 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Pinon",
-        "Hills"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
