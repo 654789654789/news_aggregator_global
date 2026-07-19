@@ -13205,6 +13205,40 @@
   ],
   "World": [
     {
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-07-19T11:28:24+00:00",
+      "score": 14,
+      "summary": "Four people are killed and at least 36 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "Ukrainian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "\u2018Dialogue, not silence\u2019: Naveen Patnaik urges dialogue with students protesting exam crisis",
       "link": "https://timesofindia.indiatimes.com/india/dialogue-not-silence-naveen-patnaik-urges-dialogue-with-students-protesting-exam-crisis/articleshow/132493103.cms",
       "source": "Times of India",
@@ -19822,38 +19856,6 @@
         "Times of India"
       ],
       "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Arrival of huge US thrift chain Savers unsettles Geelong op shops",
-      "link": "https://www.abc.net.au/news/2026-07-18/us-thrift-chain-savers-arrival-unsettles-geelong-op-shops/106926136",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-18T04:41:25+00:00",
-      "score": 14,
-      "summary": "Charity op shops in Geelong are feeling threatened by the arrival of US megastore Savers.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Savers",
-        "Geelong"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ],
@@ -44626,7 +44628,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.6,
+      "trend_score": 7.5,
       "source_count": 15,
       "sources_reporting": [
         "Bloomberg",
@@ -44634,7 +44636,7 @@
         "Reuters",
         "The Hindu"
       ],
-      "trend_accel": "+69%",
+      "trend_accel": "+68%",
       "heat_level": "HOT"
     },
     {
@@ -48766,6 +48768,70 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.9 - 19 km WNW of Beluga, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oelbzw",
+      "source": "USGS",
+      "timestamp": "2026-07-19T11:25:18.449000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-19 11:21:30 UTC2026-07-19 11:21:30 UTC at epicenterLocation61.228\u00b0N 151.405\u00b0WDepth69.90 km (43.43 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Beluga",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.3 - 6 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75398931",
+      "source": "USGS",
+      "timestamp": "2026-07-19T11:19:52.948000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-19 11:18:19 UTC2026-07-19 11:18:19 UTC at epicenterLocation38.818\u00b0N 122.796\u00b0WDepth3.26 km (2.03 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 4.5 - 46 km NE of Tuls\u012bpur, Nepal",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1s3",
@@ -55197,72 +55263,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.1 - 1 km SSE of Vancouver, Washington",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714054212",
-      "source": "USGS",
-      "timestamp": "2026-07-18T08:08:08.464000+00:00",
-      "score": 15,
-      "summary": "DYFI? - IITime2026-07-18 07:36:40 UTC2026-07-18 07:36:40 UTC at epicenterLocation45.631\u00b0N 122.655\u00b0WDepth14.41 km (8.95 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Vancouver",
-        "Washington"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.4 - 79 km SW of Puerto Madero, Mexico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1k4",
-      "source": "USGS",
-      "timestamp": "2026-07-18T07:57:51.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-18 07:20:47 UTC2026-07-18 07:20:47 UTC at epicenterLocation14.244\u00b0N 92.973\u00b0WDepth35.00 km (21.75 mi)",
-      "country": "Mexico",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Puerto",
-        "Madero",
-        "Mexico"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
       "heat_level": "LOW"
     }
   ]
