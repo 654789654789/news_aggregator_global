@@ -4199,7 +4199,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.6,
+      "trend_score": 11.5,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -4209,7 +4209,7 @@
         "Guardian",
         "Reuters"
       ],
-      "trend_accel": "+83%",
+      "trend_accel": "+82%",
       "heat_level": "CRITICAL"
     },
     {
@@ -6663,6 +6663,37 @@
     }
   ],
   "Tech": [
+    {
+      "title": "Neill Blomkamp\u2019s new zombie AI \u2018film\u2019 is just slop warmed over",
+      "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "source": "Verge",
+      "timestamp": "2026-07-21T18:06:43-04:00",
+      "score": 14,
+      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studio...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Blomkamps"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Verge"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
       "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
@@ -13197,24 +13228,26 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "xAI sues a man for using Grok to generate CSAM \u2018deepfakes\u2019",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "source": "Verge",
-      "timestamp": "2026-07-15T17:33:20-04:00",
-      "score": 14,
-      "summary": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent ...",
+      "title": "US rider hit by car in road rage incident at Tour de France pre-time trial",
+      "link": "https://www.abc.net.au/news/2026-07-22/tour-de-france-mcnulty-road-rage-evenepoel-wins-time-trial-stage/106942866",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-21T22:06:40+00:00",
+      "score": 12,
+      "summary": "Brandon McNulty is confronted by an angry driver on his way to the time trial as Remco Evenepoel shaves some time off Tadej Poga\u010dar's overall lead.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Grok",
-        "CSAM"
+        "Tour",
+        "France"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13223,15 +13256,77 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "Verge"
+        "ABC Australia"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-07-21T22:06:31+00:00",
+      "score": 12,
+      "summary": "Tankers with Saudi crude turn back as Houthis open new front in US-Iran war Reuters",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Saudi",
+        "Houthis",
+        "USIran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Breaking: National emergency warning system in doubt as states raise concerns",
+      "link": "https://www.abc.net.au/news/2026-07-22/emergency-ausalerts-concerns/106942870",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-21T22:05:26+00:00",
+      "score": 14,
+      "summary": "The warning system would send alerts directly to the mobile phones of people in areas affected by an emergency.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "National"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Live: ASX to rise as oil prices hit five-week high, Wall Street tech stocks rebound",
       "link": "https://www.abc.net.au/news/2026-07-22/asx-markets-business-live-news-july-22/106942906",
@@ -19735,91 +19830,25 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-07-20T21:30:19+00:00",
-      "score": 12,
-      "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
-      "country": "Saudi Arabia",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Houthis",
-        "Saudi",
-        "Arabia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "PM backs bid for future NT AFL team, no promises on funding",
-      "link": "https://www.abc.net.au/news/2026-07-21/pm-backs-bid-for-future-nt-afl-team/106935342",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-20T21:25:42+00:00",
-      "score": 12,
-      "summary": "Anthony Albanese has said he would love to see the creation of a Northern Territory AFL team while visiting the Tiwi Islands in the NT.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "AFL"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Australia news live: Barnaby Joyce dogged by Tommy Robinson questions \u2013 and by a dog \u2013 in spiky ABC interview",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-07-20T21:22:38+00:00",
-      "score": 12,
-      "summary": "One Nation MP grilled in 7.30 interview about Pauline Hanson\u2019s podcast interview by far-right activist. Follow today\u2019s news liveGet our breaking news email, free app or daily news podcastThanks so much Martin Farrer for kicking us off this morning. I\u2019m Stephanie Convery and I\u2019...",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "Super Micro\u2019s stock soars as its margins unexpectedly double",
+      "link": "https://www.marketwatch.com/story/super-micros-stock-soars-as-its-margins-unexpectedly-double-8aa83784?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-07-21T22:11:00+00:00",
+      "score": 14,
+      "summary": "The AI server maker now expects gross margins to be in the range of 15% to 17% thanks to an improving customer and product mix",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Barnaby",
-        "Joyce",
-        "Tommy",
-        "Robinson",
-        "ABC"
+        "Micros"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19830,13 +19859,44 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Guardian"
+        "MarketWatch"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "The Fed rang the alarm about Anthropic's Mythos AI model \u2014 but had to go months without it",
+      "link": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-21T22:05:33+00:00",
+      "score": 14,
+      "summary": "The central bank didn't have access to Claude Mythos Preview as of mid-July, even as other institutions were racing to patch their vulnerabilities.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Fed",
+        "Anthropics",
+        "Mythos"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "OpenAI appoints two new members to board of directors",
       "link": "https://www.cnbc.com/2026/07/21/openai-appoints-two-new-members-to-board-of-directors.html",
@@ -26273,69 +26333,41 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Stocks are higher to start the week as U.S. oil wavers, chipmakers rise: Live updates",
-      "link": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-20T13:30:35+00:00",
-      "score": 14,
-      "summary": "Stocks rose Monday as oil prices fluctuated in response to the latest bout of military exchanges between the U.S. and Iran.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Live"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Domino\u2019s shares jump as franchise store operators spend more on ingredients",
-      "link": "https://www.marketwatch.com/story/dominos-shares-jump-as-franchise-stores-spend-more-on-ingredients-b301facb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-07-20T13:24:00+00:00",
-      "score": 10,
-      "summary": "The pizza chain\u2019s stock jumped about 7% in premarket trading after revenue was around 2.5% higher than analysts\u2019 estimates for the second quarter.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Students unearth rare, centuries-old pot at Florida Spanish mission site",
+      "link": "https://phys.org/news/2026-07-students-unearth-rare-centuries-pot.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-21T18:10:01-04:00",
+      "score": 12,
+      "summary": "Some 400 years ago, a member of the Indigenous Potano-Timucua tribe scooped up some clay and carefully molded it into a modest vessel, small enough to rest in the palm of their hand. You can imagine their fingers pressing a tight crease around the pot's simple rim and smoothin...",
+      "country": "Spain",
+      "region": "Europe",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Florida",
+        "Spanish"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Cone snail venom peptide could enable injectable non-opioid pain relief",
       "link": "https://phys.org/news/2026-07-cone-snail-venom-peptide-enable.html",
@@ -32400,40 +32432,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "More than 2,700 excess deaths estimated in England and Wales during May and June",
-      "link": "https://phys.org/news/2026-07-excess-deaths-england-wales-june.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-18T12:20:01-04:00",
-      "score": 15,
-      "summary": "More than 2,700 people are estimated to have died from heat-related causes during the record-breaking May and June 2026 heat waves in England and Wales, according to a new rapid analysis report led by researchers from the London School of Hygiene & Tropical Medicine (LSHTM), I...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "England",
-        "Wales",
-        "May",
-        "June"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -34893,6 +34891,155 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Former Conductor to Plead Guilty in Child Sex Abuse Imagery Case",
+      "link": "https://www.nytimes.com/2026/07/21/arts/music/wachner-plea-deal-child-sex-abuse-imagery-trinity-church.html",
+      "source": "NYT",
+      "timestamp": "2026-07-21T22:09:40+00:00",
+      "score": 12,
+      "summary": "Julian Wachner, the former music director at Trinity Church in New York, faces up to 10 years in prison after reaching a plea deal.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Conductor",
+        "Plead",
+        "Guilty",
+        "Child",
+        "Sex",
+        "Abuse",
+        "Imagery",
+        "Case"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Dixon Dern, Influential Entertainment Lawyer, Dies at 97",
+      "link": "https://variety.com/2026/tv/news/dixon-dern-dead-desilu-lawyer-1236817646/",
+      "source": "Variety",
+      "timestamp": "2026-07-21T22:06:28+00:00",
+      "score": 17,
+      "summary": "Dixon Q. Dern, a longtime Hollywood attorney who helped shape modern entertainment law through many innovative business deals, died July 19. He was 97. Born in Colorado Springs, Colorado, Dern earned undergraduate and law degrees from Stanford University. He came to Los Angele...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dern",
+        "Influential",
+        "Entertainment",
+        "Lawyer",
+        "Dies"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "NBA Star Tyrese Haliburton, Jade Jones Married in Courthouse Wedding",
+      "link": "https://www.eonline.com/news/1434206/nbas-tyrese-haliburton-fiancee-jade-jones-married-in-courthouse-wedding?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-07-21T22:03:36+00:00",
+      "score": 12,
+      "summary": "Tyrese Haliburton and Jade Jones are officially on the same team. Nearly a year after the Indiana Pacers point guard and his girlfriend of seven years got engaged, the pair legally tied the knot...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Star",
+        "Tyrese",
+        "Haliburton",
+        "Jade",
+        "Jones",
+        "Married",
+        "Courthouse",
+        "Wedding"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Workers at Swaybox Studios, Home to Batman Animated Movie, Vote to Unionize",
+      "link": "https://www.hollywoodreporter.com/business/business-news/workers-dynamic-duo-studio-swaybox-unionize-1236653489/",
+      "source": "THR",
+      "timestamp": "2026-07-21T22:03:12+00:00",
+      "score": 12,
+      "summary": "After an election with the National Labor Relations Board, workers on the Warner Bros. Pictures Animation and DC Studios project 'Dynamic Duo' are set to join crew union IATSE.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Swaybox",
+        "Studios",
+        "Home",
+        "Batman",
+        "Animated",
+        "Movie",
+        "Vote",
+        "Unionize"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Avengers: Doomsday\u2019 Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After \u2018Spider-Man: Brand New Day\u2019 (EXCLUSIVE)",
       "link": "https://variety.com/2026/film/news/avengers-doomsday-trailer-views-disney-record-1236817568/",
@@ -42766,165 +42913,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Variety Interview Studio Presented by Google TV Returns to San Diego",
-      "link": "https://variety.com/2026/film/news/variety-interview-studio-san-diego-1236816778/",
-      "source": "Variety",
-      "timestamp": "2026-07-20T18:59:04+00:00",
-      "score": 12,
-      "summary": "Variety\u2019s Interview Studio will return to San Diego on July 24-25 in partnership with Google TV featuring a lineup of in-depth interviews and conversations with leading talent and creators. \u201cThis event has become a defining fixture of the entertainment industry, uniting the cr...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Interview",
-        "Studio",
-        "Presented",
-        "Google",
-        "Returns",
-        "San",
-        "Diego"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Chloe Fineman Finds Her First Post-\u2018Saturday Night Live\u2019 Gig",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/chloe-fineman-post-saturday-night-live-gig-1236652419/",
-      "source": "THR",
-      "timestamp": "2026-07-20T18:55:25+00:00",
-      "score": 12,
-      "summary": "The performer will play a reporter in \u2018Myron Bolitar,\u2019 a new series based on Harlan Coben\u2019s books about an NBA star-turned-sports agent.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fineman",
-        "Finds",
-        "Her",
-        "First",
-        "PostSaturday",
-        "Night",
-        "Live",
-        "Gig"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Army Of Thieves\u2019 Matthias Schweigh\u00f6fer Latest To Join New Line\u2019s \u2018The Conjuring: First Communion\u2019",
-      "link": "https://deadline.com/2026/07/conjuring-10-first-communion-matthias-schweighofer-1236998523/",
-      "source": "Deadline",
-      "timestamp": "2026-07-20T18:45:00+00:00",
-      "score": 12,
-      "summary": "EXCLUSIVE: Matthias Schweigh\u00f6fer, the German actor known for the likes of Oppenheimer and Netflix\u2019s Army of Thieves, is set for a role in New Line horror prequel The Conjuring: First Communion. No word yet on the role to be played by Schweigh\u00f6fer. Most recently, we learned tha...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Thieves",
-        "Matthias",
-        "Schweighfer",
-        "Latest",
-        "Join",
-        "New",
-        "Lines",
-        "Conjuring",
-        "First",
-        "Communion"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Keanu Reeves and Patrick Swayze Surf Back into Theaters for \u2018Point Break\u2019s\u2019 35th Anniversary \u2013 Film News in Brief",
-      "link": "https://variety.com/2026/film/news/film-news-in-brief-july-20-2026-1236816245/",
-      "source": "Variety",
-      "timestamp": "2026-07-20T18:45:00+00:00",
-      "score": 15,
-      "summary": "Keanu Reeves and Patrick Swayze are surfing back to the big screen in celebration of \u201cPoint Break\u2019s\u201d 35th anniversary. A new 4k restoration will be released by Resurgence Media Group, Saga Arts and Fathom Entertainment. The film will hit theaters on Aug. 16 and 19. Surfer Matt...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Reeves",
-        "Patrick",
-        "Swayze",
-        "Surf",
-        "Back",
-        "Theaters",
-        "Point",
-        "Breaks",
-        "Anniversary",
-        "Film",
-        "News",
-        "Brief"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -46851,6 +46839,71 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 2.2 - 77 km ENE of Tonopah, Nevada",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922119",
+      "source": "USGS",
+      "timestamp": "2026-07-21T22:08:38.350000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-21 21:48:09 UTC2026-07-21 21:48:09 UTC at epicenterLocation38.454\u00b0N 116.497\u00b0WDepth9.81 km (6.10 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Tonopah",
+        "Nevada"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.1 - 3 km W of Circleville, Utah",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80145921",
+      "source": "USGS",
+      "timestamp": "2026-07-21T22:05:01.190000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-21 21:17:27 UTC2026-07-21 21:17:27 UTC at epicenterLocation38.170\u00b0N 112.310\u00b0WDepth0.56 km (0.35 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Circleville",
+        "Utah"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.4 - 85 km NNW of Karluk, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oiyepg",
@@ -53408,69 +53461,6 @@
         "USGS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 5 km NE of Fontana, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658482",
-      "source": "USGS",
-      "timestamp": "2026-07-20T20:08:48.519000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-20 19:47:45 UTC2026-07-20 19:47:45 UTC at epicenterLocation34.132\u00b0N 117.419\u00b0WDepth3.85 km (2.39 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fontana"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 18 km N of Fishhook, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ogyoza",
-      "source": "USGS",
-      "timestamp": "2026-07-20T20:08:15.639000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-20 20:05:43 UTC2026-07-20 20:05:43 UTC at epicenterLocation61.909\u00b0N 149.206\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fishhook",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
