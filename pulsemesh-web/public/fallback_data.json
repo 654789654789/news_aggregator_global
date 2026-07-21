@@ -1,6 +1,40 @@
 {
   "Politics": [
     {
+      "title": "WATCH: Trump says U.S. will hit area of Iran's Pickaxe Mountain 'very heavily'",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-u-s-will-hit-area-of-irans-pickaxe-mountain-very-heavily",
+      "source": "PBS",
+      "timestamp": "2026-07-21T17:55:27-04:00",
+      "score": 14,
+      "summary": "Discussing plans to stop Iran from obtaining a nuclear weapon, President Donald Trump said Tuesday that the United States will soon target the area near Pickaxe Mountain \u2014 a fortified underground site near one of Iran's primary nuclear enrichment facilities.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump",
+        "Irans",
+        "Pickaxe",
+        "Mountain"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Hegseth Estimates Iran War Has Cost $37.5 Billion",
       "link": "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html",
       "source": "NYT",
@@ -6626,24 +6660,26 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Andy Burnham to cut VAT on electricity bills as first cost-of-living move",
-      "link": "https://www.theguardian.com/politics/2026/jul/21/burnham-announces-plans-to-cut-vat-on-electricity-bills-as-first-cost-of-living-move",
-      "source": "Guardian",
-      "timestamp": "2026-07-21T06:31:08+00:00",
-      "score": 12,
-      "summary": "Newly appointed chancellor John Healey said move would be funded from cancelling digital ID programmeElectricity bills will be reduced by an average of \u00a345 from October, after Andy Burnham announced the government would remove VAT from them.The new prime minister said on Tuesd...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "source": "Verge",
+      "timestamp": "2026-07-21T17:48:54-04:00",
+      "score": 14,
+      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environm...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Burnham",
-        "VAT"
+        "Hugging",
+        "Face"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6652,15 +6688,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "Guardian"
+        "Verge"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Stop adding more GPUs: Weka's new storage platform reduces load by caching 100% of an AI model's pre-calculated tokens",
       "link": "https://venturebeat.com/data/stop-adding-more-gpus-wekas-new-storage-platform-reduces-load-by-caching-100-of-ai-models-pre-calculated-tokens",
@@ -13195,45 +13229,42 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
-      "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-15T20:22:52+00:00",
-      "score": 15,
-      "summary": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Live: ASX to rise as oil prices hit five-week high, Wall Street tech stocks rebound",
+      "link": "https://www.abc.net.au/news/2026-07-22/asx-markets-business-live-news-july-22/106942906",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-21T21:54:55+00:00",
+      "score": 14,
+      "summary": "The Australian share market is likely to start its day higher after Wall Street's beaten-down tech and semiconductor stocks rebounded sharply overnight. Oil prices surged to a five-week high as Donald Trump signalled the US is \"not finished\" attacking Iran. Follow live.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Texas",
-        "NTSB"
+        "ASX",
+        "Wall",
+        "Street"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 18,
+      "source_count": 5,
       "sources_reporting": [
-        "BBC",
-        "NPR",
-        "PBS",
-        "TechCrunch",
-        "Verge"
+        "ABC Australia"
       ],
-      "trend_accel": "+72%",
-      "heat_level": "SURGING"
-    }
-  ],
-  "World": [
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Fogbow makes rare appearance in western NSW",
       "link": "https://www.abc.net.au/news/2026-07-22/rare-fogbow-cobar-western-nsw/106938884",
@@ -19803,38 +19834,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Women's Tennis Association introduces gene testing for all players on tour",
-      "link": "https://www.cbc.ca/sports/olympics/tennis-wta-tour-sry-gene-testing-9.7277133?cmp=rss",
-      "source": "CBC News",
-      "timestamp": "2026-07-20T17:19:28-04:00",
-      "score": 12,
-      "summary": "The Women's Tennis Association is introducing one-off mandatory gene-testing for all players effective from Tuesday, a requirement to compete at the 2028 Los Angeles Olympics.",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tennis",
-        "Association"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CBC News"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -26338,6 +26337,97 @@
   ],
   "Science": [
     {
+      "title": "Cone snail venom peptide could enable injectable non-opioid pain relief",
+      "link": "https://phys.org/news/2026-07-cone-snail-venom-peptide-enable.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-21T18:00:01-04:00",
+      "score": 12,
+      "summary": "An international research team led by the Medical University of Vienna has investigated a new peptide derived from cone snail venom that significantly reduced inflammation-induced pain in an animal model. Crucially, its effect takes hold immediately after subcutaneous injectio...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "US-India satellite delivers data, reveals 'hummingbird' in Antarctica",
+      "link": "https://phys.org/news/2026-07-india-satellite-reveals-hummingbird-antarctica.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-21T17:50:03-04:00",
+      "score": 12,
+      "summary": "As of July 20, the public can access data from the two powerful radar instruments aboard the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite. Teams in the United States and India will release files processed from the satellite's L-band and S-band radars on an ongoing basi...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Antarctica"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "AI tool predicts how DNA sequences switch on genes across different cell types",
+      "link": "https://phys.org/news/2026-07-ai-tool-dna-sequences-genes.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-21T17:50:01-04:00",
+      "score": 14,
+      "summary": "Deep learning approaches have transformed how scientists predict the activity and function of DNA sequences in the genome. A new AI tool called Corgi (Context-aware Regulatory Genomics Inference), developed by Martin Vingron's bioinformatics group at the Max Planck Institute f...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "DNA"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Uncovering multidimensional effects of generative AI on learning",
       "link": "https://phys.org/news/2026-07-uncovering-multidimensional-effects-generative-ai.html",
       "source": "Phys.org",
@@ -32344,105 +32434,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Seasonal gene switch locks fruit flies in winter mode",
-      "link": "https://phys.org/news/2026-07-seasonal-gene-fruit-flies-winter.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-18T12:00:01-04:00",
-      "score": 10,
-      "summary": "Researchers at Washington State University have discovered a molecular \"winter lock\" that keeps animals in a less active winter state until favorable conditions return, a discovery that could improve pest control and lead to a better understanding of seasonal health conditions...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak",
-      "link": "https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html",
-      "source": "NYT",
-      "timestamp": "2026-07-18T15:28:17+00:00",
-      "score": 15,
-      "summary": "The implicated products were marketed under several brands, and had been shipped as recently as Thursday.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Farms",
-        "Expands",
-        "Iceberg",
-        "Lettuce",
-        "Recall",
-        "States",
-        "Amid",
-        "Cyclospora",
-        "Outbreak"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Study demonstrates the importance of emotional support from pets for vulnerable people",
-      "link": "https://phys.org/news/2026-07-importance-emotional-pets-vulnerable-people.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-18T11:00:01-04:00",
-      "score": 10,
-      "summary": "People experiencing homelessness, victims of domestic violence and economically vulnerable people are at higher risk of social exclusion. For them, pets are an important source of emotional support. A study by the Affinity Foundation Chair for Animals and Health of the Univers...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -34902,6 +34893,128 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Avengers: Doomsday\u2019 Trailer Hits 503 Million Views in One Day, Second Biggest Launch in History After \u2018Spider-Man: Brand New Day\u2019 (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/avengers-doomsday-trailer-views-disney-record-1236817568/",
+      "source": "Variety",
+      "timestamp": "2026-07-21T22:00:00+00:00",
+      "score": 17,
+      "summary": "A whole lotta people were curious about the whereabouts of the Avengers. The first trailer for \u201cAvengers: Doomsday\u201d has been viewed a staggering 503 million times over 24 hours. That ranks as the second-biggest movie trailer launch of all time, behind Sony\u2019s upcoming Marvel ad...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Doomsday",
+        "Trailer",
+        "Hits",
+        "Million",
+        "Views",
+        "One",
+        "Day",
+        "Second",
+        "Biggest",
+        "Launch",
+        "History",
+        "After",
+        "SpiderMan",
+        "Brand",
+        "New",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Sony Eyes Revival of Cinerama Dome and ArcLight Hollywood",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/sony-eyes-revival-of-cinerama-dome-arclight-hollywood-1236653570/",
+      "source": "THR",
+      "timestamp": "2026-07-21T21:49:19+00:00",
+      "score": 12,
+      "summary": "The venues have been shuttered since 2020, with their zombie status becoming a subject of curiosity and dissent in recent years",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Eyes",
+        "Revival",
+        "Cinerama",
+        "Dome",
+        "ArcLight",
+        "Hollywood"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "D4vd Murder Case: Prosecutors Share Photos and More Evidence During Preliminary Hearing",
+      "link": "https://www.nytimes.com/2026/07/20/arts/music/d4vd-preliminary-hearing-murder.html",
+      "source": "NYT",
+      "timestamp": "2026-07-21T21:46:26+00:00",
+      "score": 15,
+      "summary": "The singer is charged with killing Celeste Rivas Hernandez, a teenager whose decomposed body was found in the trunk of his Tesla.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Murder",
+        "Case",
+        "Prosecutors",
+        "Share",
+        "Photos",
+        "More",
+        "Evidence",
+        "During",
+        "Preliminary",
+        "Hearing"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Woody Harrelson To Produce Documentary On Legendary Austin Music Venue Armadillo World Headquarters",
       "link": "https://deadline.com/2026/07/woody-harrelson-documentary-armadillo-world-headquarters-1236999688/",
@@ -42812,132 +42925,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Travis Kelce\u2019s Pal Says He's Preparing for \"Last Dance\" With Chiefs",
-      "link": "https://www.eonline.com/news/1434159/travis-kelces-pal-hints-at-nfl-retirement-plans?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-07-20T18:40:38+00:00",
-      "score": 12,
-      "summary": "Travis Kelce is ready for it when it comes to his next chapter. Nearly three weeks after the Kansas City Chiefs player tied the knot with Taylor Swift at Madison Square Garden, his pal Cris...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kelces",
-        "Pal",
-        "Says",
-        "Hes",
-        "Preparing",
-        "Last",
-        "Dance",
-        "Chiefs"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+42%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Ella Langley\u2019s \u2018Choosin\u2019 Texas\u2019 Ties Whitney Houston and Mariah Carey\u2019s Records on Billboard Hot 100",
-      "link": "https://variety.com/2026/music/news/ella-langley-choosin-texas-ties-whitney-houston-mariah-carey-records-1236816760/",
-      "source": "Variety",
-      "timestamp": "2026-07-20T18:08:38+00:00",
-      "score": 15,
-      "summary": "The year\u2019s biggest hit single, Ella Langley\u2019s \u201cChoosin\u2019 Texas,\u201d has racked up its 14th week at No. 1 on the Billboard Hot 100 \u2014 and has tied a record held by Whitney Houston and Mariah Carey. Langley\u2019s song, which first topped the Hot 100 chart in February, ties Mariah Carey\u2019s...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Langleys",
-        "Choosin",
-        "Texas",
-        "Ties",
-        "Whitney",
-        "Houston",
-        "Mariah",
-        "Careys",
-        "Records",
-        "Billboard",
-        "Hot"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Journey\u2019s Jonathan Cain Lays Into \u2018Annoying, Bitter Old Man\u2019 Bruce Springsteen: \u2018Shut Up, Bruce\u2026 You Were Born in the USA, So Act Like It\u2019",
-      "link": "https://variety.com/2026/music/news/jonathan-cain-slams-bruce-springsteen-conservative-politics-1236816703/",
-      "source": "Variety",
-      "timestamp": "2026-07-20T18:03:11+00:00",
-      "score": 14,
-      "summary": "Longtime Journey keyboardist Jonathan Cain believes rockers should keep their politics off-stage \u2014 but in interviews, he continues to be proud to blast his conservative beliefs. He used a podcast interview to blast a fellow 76-year-old, Bruce Springsteen, as an \u201cannoying, bitt...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Jonathan",
-        "Cain",
-        "Lays",
-        "Into",
-        "Annoying",
-        "Bitter",
-        "Old",
-        "Man",
-        "Bruce",
-        "Springsteen",
-        "Shut",
-        "You",
-        "Were",
-        "Born",
-        "USA",
-        "Act",
-        "Like"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -43952,7 +43939,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.8,
+      "trend_score": 7.7,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -43961,8 +43948,8 @@
         "PBS",
         "Vogue"
       ],
-      "trend_accel": "+72%",
-      "heat_level": "SURGING"
+      "trend_accel": "+71%",
+      "heat_level": "HOT"
     },
     {
       "title": "Once a Convent, This 1,000-Year-Old Castle in the Dolomites Finds New Life as a Luxury Retreat",
@@ -46864,6 +46851,104 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.4 - 85 km NNW of Karluk, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oiyepg",
+      "source": "USGS",
+      "timestamp": "2026-07-21T21:53:51.921000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-21 21:52:53 UTC2026-07-21 21:52:53 UTC at epicenterLocation58.283\u00b0N 154.964\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Karluk",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.4 - 58 km ENE of Tonopah, Nevada",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922119",
+      "source": "USGS",
+      "timestamp": "2026-07-21T21:51:28.825000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-21 21:48:12 UTC2026-07-21 21:48:12 UTC at epicenterLocation38.284\u00b0N 116.618\u00b0WDepth3.90 km (2.43 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Tonopah",
+        "Nevada"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 9 km S of Mossyrock, Washington",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714056522",
+      "source": "USGS",
+      "timestamp": "2026-07-21T21:50:13.170000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-21 21:47:21 UTC2026-07-21 21:47:21 UTC at epicenterLocation46.443\u00b0N 122.499\u00b0WDepth18.18 km (11.30 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mossyrock",
+        "Washington"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Hegseth estimates Iran war has cost $37.5B as he defends funding request",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVJsdVVWc2lUSjJITE9ZTGlTc3lROG83MjZFVm1Bb1R3VndpbWxyUTAtdGpITlFVYzZ6S1g3em4wbGxtS0d4VG1EdjVSYno0S3VYSF9VS01ROE91WF91Wjh6VzFsLUU4Y1VObEZsVGNrVzFLNm9HOTViMVZOR3JnZFEySmZINjBSWEstT3hRUnI1LVpkVXRRRVFVaG40R3lkbmdGX25n?oc=5",
@@ -53386,108 +53471,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.4 - 39 km ENE of Port Blair, India",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20r",
-      "source": "USGS",
-      "timestamp": "2026-07-20T19:56:03.040000+00:00",
-      "score": 17,
-      "summary": "Time2026-07-20 19:37:38 UTC2026-07-20 19:37:38 UTC at epicenterLocation11.788\u00b0N 93.088\u00b0EDepth37.68 km (23.41 mi)",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Port",
-        "Blair",
-        "India"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 Quarry Blast - 4 km SE of Home Gardens, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658474",
-      "source": "USGS",
-      "timestamp": "2026-07-20T19:55:42.217000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-20 19:34:14 UTC2026-07-20 19:34:14 UTC at epicenterLocation33.848\u00b0N 117.490\u00b0WDepth-0.49 km (-0.30 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Quarry",
-        "Blast",
-        "Home",
-        "Gardens"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.2 - 140 km SE of Severo-Kuril\u2019sk, Russia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t20g",
-      "source": "USGS",
-      "timestamp": "2026-07-20T19:47:23.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-20 19:14:31 UTC2026-07-20 19:14:31 UTC at epicenterLocation49.968\u00b0N 157.756\u00b0EDepth10.00 km (6.21 mi)",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "SeveroKurilsk",
-        "Russia"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
