@@ -19796,7 +19796,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.0,
+      "trend_score": 10.9,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -19806,11 +19806,80 @@
         "PBS",
         "Reuters"
       ],
-      "trend_accel": "+84%",
+      "trend_accel": "+83%",
       "heat_level": "CRITICAL"
     }
   ],
   "Business": [
+    {
+      "title": "Trump Plans to Impose Tariffs on Generic Drugs",
+      "link": "https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html",
+      "source": "NYT",
+      "timestamp": "2026-07-22T00:54:44+00:00",
+      "score": 12,
+      "summary": "The administration has repeatedly said it will impose steep pharmaceutical tariffs but has not followed through on them.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Plans",
+        "Impose",
+        "Tariffs",
+        "Generic",
+        "Drugs"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Mamdani says New York City lacks authority to arrest Netanyahu, calls him \u2018war criminal\u2019",
+      "link": "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-22T00:47:49+00:00",
+      "score": 12,
+      "summary": "Israel's prime minister, Benjamin Netanyahu, is the target of an arrest warrant issued by the International Criminal Court related to the war on Gaza.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "New",
+        "York",
+        "City",
+        "Netanyahu"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Japan exports and imports grow at fastest pace in June since November 2022, beating estimates",
       "link": "https://www.cnbc.com/2026/07/22/japan-june-exports-trade-data.html",
@@ -21865,7 +21934,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.8,
+      "trend_score": 8.7,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -21874,7 +21943,7 @@
         "MarketWatch",
         "NHK"
       ],
-      "trend_accel": "+74%",
+      "trend_accel": "+73%",
       "heat_level": "SURGING"
     },
     {
@@ -22170,7 +22239,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.2,
+      "trend_score": 9.1,
       "source_count": 12,
       "sources_reporting": [
         "Bloomberg",
@@ -22179,7 +22248,7 @@
         "NHK",
         "PBS"
       ],
-      "trend_accel": "+76%",
+      "trend_accel": "+75%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26236,19 +26305,21 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "US stocks rebound as chipmakers recover, investors brace for big tech earnings",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stocks-rebound-as-chipmakers-recover-investors-brace-for-big-tech-earnings-11784555512184.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-20T19:34:51+05:30",
-      "score": 12,
-      "summary": "The Dow Jones Industrial Average rose 0.02%, the S&amp;P 500 rose 0.42%, the Nasdaq Composite rose 0.79%",
+      "title": "Birds flying in 'V' formation save energy with flatter flaps, new research shows",
+      "link": "https://phys.org/news/2026-07-birds-flying-formation-energy-flatter.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-21T21:00:05-04:00",
+      "score": 10,
+      "summary": "Scientists have known for years that birds like geese and ibises gain an aerodynamic advantage from flying in a \"V\" formation. Now, researchers from Brown University have provided new insights into the nature of that advantage.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26259,46 +26330,44 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
     },
     {
-      "title": "Global oil prices reverse to below $87 a barrel after report of new Iran cease-fire proposal",
-      "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-07-20T14:04:00+00:00",
-      "score": 15,
-      "summary": "Oil prices took a dive into the red on Monday morning, reversing an earlier sharp rally, after a report of a 10-day cease-fire proposal between the U.S. and Iran sparked a sharp decline in energy prices despite a fresh barrage of strikes in the Middle East over the weekend.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Urgent cuts to global greenhouse gas emissions needed to avoid worst sea-level rise flooding in the UK, study shows",
+      "link": "https://phys.org/news/2026-07-urgent-global-greenhouse-gas-emissions.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-21T21:00:03-04:00",
+      "score": 12,
+      "summary": "A pioneering study has revealed that by the turn of the next century, at least half a million more people in the UK will be at risk of coastal flooding\u2014a 25% increase compared with now. The research, led by the Met Office and the University of Bristol, quantifies for the first...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Iran"
+      "topic_tags": [
+        "Climatic"
       ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "MarketWatch"
+        "Phys.org"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Breastfeeding rather than bottle-feeding is seen as the ideal of a good mother in Instagram comments",
       "link": "https://phys.org/news/2026-07-breastfeeding-bottle-ideal-good-mother.html",
@@ -32332,64 +32401,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Shark scientists gets \u00a31m to help protect them",
-      "link": "https://www.bbc.co.uk/news/articles/cly9yyj829ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-07-19T11:11:57+00:00",
-      "score": 13,
-      "summary": "Natural England's Species Recovery Programme will focus on the blue shark, porbeagle and tope.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Britain set for butterfly boom after hot spring",
-      "link": "https://www.bbc.co.uk/news/articles/crrv5lw7017o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-07-19T11:00:13+00:00",
-      "score": 12,
-      "summary": "A scientist says Britain could be on the verge of a bumper summer for butterflies.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -34653,24 +34664,28 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Matt Freese: USMNT criticism 'hurts my heart'",
-      "link": "https://www.espn.com/soccer/story/_/id/49361949/matt-freese-criticism-usmnt-world-cup-play-hurts-my-heart",
-      "source": "ESPN",
-      "timestamp": "2026-07-14T19:47:22-05:00",
-      "score": 12,
-      "summary": "USMNT goalkeeper Matt Freese said he felt hurt by the backlash following the elimination from the 2026 World Cup after losing 4-1 to Belgium in the round of 16.",
+      "title": "Games for Change 2026 Award Winners Revealed",
+      "link": "https://variety.com/2026/gaming/news/games-for-change-2026-award-winners-ceremony-1236816702/",
+      "source": "Variety",
+      "timestamp": "2026-07-22T01:00:00+00:00",
+      "score": 15,
+      "summary": "The nonprofit organization Games for Change announced the winners of the 2026 Games for Change Awards at the G4C Awards Ceremony. The ceremony was held during the annual Games for Change Festival in New York, hosted by actors Anjali Bhimani (\u201cOverwatch,\u201d \u201cMs. Marvel\u201d) and Osri...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Sports Publication",
+      "source_type": "Entertainment",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Freese",
-        "USMNT"
+        "Change",
+        "Award",
+        "Winners",
+        "Revealed"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -34679,15 +34694,55 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "ESPN"
+        "Variety"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
+    {
+      "title": "Sony Music Files Another Lawsuit Against Udio, Alleges AI Music Generator Copied 30,000 Songs to Train Models",
+      "link": "https://variety.com/2026/music/news/sony-music-new-lawsuit-udio-ai-music-generator-1236817746/",
+      "source": "Variety",
+      "timestamp": "2026-07-22T00:57:16+00:00",
+      "score": 17,
+      "summary": "Sony Music Entertainment has once again sued the AI music generator Udio, alleging the startup illegally copied more than 30,000 songs from the likes of Beyonc\u00e9, Harry Styles and Elvis Presley to train its models. Sony first brought lawsuits against Udio and its competitor Sun...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Music",
+        "Files",
+        "Another",
+        "Lawsuit",
+        "Against",
+        "Udio",
+        "Alleges",
+        "Generator",
+        "Copied",
+        "Songs",
+        "Train",
+        "Models"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Jacob Elordi On Filming \u2018Euphoria\u2019 Death Scene & Returning For Final Season: \u201cI Think Sam Brought Me Back To Torture Me\u201d",
       "link": "https://deadline.com/2026/07/jacob-elordi-filming-euphoria-death-scene-final-season-1236999828/",
@@ -42657,94 +42712,43 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Sony Dates Bad Robot\u2019s JT Mollner Horror Pic \u2018Skeletons\u2019 Starring Brie Larson For Summer 2027",
-      "link": "https://deadline.com/2026/07/brie-larson-skeletons-jt-mollner-release-date-1236998856/",
-      "source": "Deadline",
-      "timestamp": "2026-07-20T21:17:07+00:00",
-      "score": 15,
-      "summary": "Sony\u2019s Skeletons will be coming into theaters on June 4, 2027. The new creature horror pic from JT Mollner and J.J. Abrams\u2019 Bad Robot Productions is a modern take on the sub-genre, told from a young boy\u2019s P.O.V. as he slowly learns that his beloved parents are hiding a disturb...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Dates",
-        "Bad",
-        "Robots",
-        "Mollner",
-        "Horror",
-        "Pic",
-        "Skeletons",
-        "Starring",
-        "Brie",
-        "Larson",
-        "Summer"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Marvel\u2019s Kevin Feige Says He Feels \u201cLike A Gigantic Loser & Failure\u201d Over Failed \u2018Blade\u2019 Reboot With Mahershala Ali",
-      "link": "https://deadline.com/2026/07/marvel-kevin-feige-blade-reboot-mahershala-ali-1236998833/",
-      "source": "Deadline",
-      "timestamp": "2026-07-20T21:13:32+00:00",
-      "score": 14,
-      "summary": "Kevin Feige has some feelings about the failed Blade reboot, which starred Mahershala Ali, that has yet to materialize. While promoting Spider-Man: Brand New Day, the Marvel Studios president revealed how he feels over the film not being made. \u201cI am feeling like a gigantic los...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kevin",
-        "Feige",
-        "Says",
-        "Feels",
-        "Like",
-        "Gigantic",
-        "Loser",
-        "Failure",
-        "Over",
-        "Failed",
-        "Blade",
-        "Reboot",
-        "Mahershala",
-        "Ali"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
+    {
+      "title": "MD Pallavi performs in a multilingual concert at Bangalore International Centre",
+      "link": "https://www.thehindu.com/entertainment/music/md-pallavi-performs-in-a-multilingual-concert-at-bangalore-international-centre/article71249056.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-07-22T06:17:40+05:30",
+      "score": 12,
+      "summary": "This recent concert by MD Pallavi, supported by Srinivas Achar, aimed to unite verses taken from different poetic traditions under a common idea of equality",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pallavi",
+        "Bangalore",
+        "International",
+        "Centre"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "The \u2018Summer of Sport\u2019 Has Changed Game Day Style",
       "link": "https://www.vogue.com/article/the-summer-of-sport-has-changed-game-day-style",
@@ -46712,6 +46716,39 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy efforts",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3ByTjM2MjQxUW43TEtOc0JJNXpDYmNxdDNYRlNXMk0yZUNlYnMwVXlrZUxyMlF3UlZjMk9IOFpzVjl6TzI3Q0JPQ0hkazlZSDFHeWpHYTN1RVp0QjNYQTlYX3g4TlVBZmlEV0VIT1ZXaG1nUTFnYnRGTGhDOFZrWFVWc1B4LUI3Q0JhQjlvMkgyTk1HU09UcG9TNDN4M0E?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-07-22T00:57:00+00:00",
+      "score": 15,
+      "summary": "US military completes 11th night of strikes on Iran as attacks overshadow diplomacy efforts AP News",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 2.1 - 82 km NE of Tonopah, Nevada",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922133",
@@ -53301,37 +53338,6 @@
         "USGS"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 8 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75402722",
-      "source": "USGS",
-      "timestamp": "2026-07-20T22:07:07.612000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-20 22:05:30 UTC2026-07-20 22:05:30 UTC at epicenterLocation38.830\u00b0N 122.819\u00b0WDepth1.73 km (1.07 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
       "heat_level": "LOW"
     }
   ]
