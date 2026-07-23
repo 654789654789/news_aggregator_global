@@ -662,7 +662,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 10.4,
+      "trend_score": 10.3,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -672,7 +672,7 @@
         "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+85%",
+      "trend_accel": "+84%",
       "heat_level": "CRITICAL"
     },
     {
@@ -6738,6 +6738,40 @@
     }
   ],
   "Tech": [
+    {
+      "title": "Lego\u2019s Donkey Kong arcade machine lets Mario jump endless barrels \u2014 Miyamoto is reportedly happy",
+      "link": "https://www.theverge.com/gadgets/969668/lego-donkey-kong-arcade-machine",
+      "source": "Verge",
+      "timestamp": "2026-07-22T20:30:00-04:00",
+      "score": 12,
+      "summary": "Carl Merriam has designed some of my favorite nostalgia-inducing Lego sets, including the Lego Nintendo Game Boy and Piranha Plant. He's assisted on the incredible Lion Knights' Castle, Galaxy Explorer, and Pirates of Barracuda Bay. Now, he's helped the company create a Donkey...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Donkey",
+        "Kong",
+        "Mario",
+        "Miyamoto"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Verge"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "After shocking quarter, IBM insists that AI isn\u2019t killing the mainframe",
       "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
@@ -13181,23 +13215,29 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Kalshi says it caught Trump\u2019s teleprompter operator insider trading",
-      "link": "https://www.theverge.com/news/966676/trump-teleprompter-operator-kalshi-bets-mention-markets-investigation",
-      "source": "Verge",
-      "timestamp": "2026-07-16T14:43:14-04:00",
-      "score": 12,
-      "summary": "Kalshi users betting on what President Donald Trump would say during his speeches were reportedly up against tough competition: the president's teleprompter operator. ABC News reports that federal investigators believe Gabriel Perez - Trump's teleprompter operator since 2016 -...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Wildfires ravage Spain, France and Italy, killing three firefighters",
+      "link": "https://www.france24.com/en/europe/20260723-wildfires-ravage-spain-france-and-italy-killing-three-firefighters",
+      "source": "France24",
+      "timestamp": "2026-07-23T00:23:42+00:00",
+      "score": 14,
+      "summary": "Wildfires swept across southern Europe on Wednesday, killing three firefighters and forcing thousands of people to evacuate as extreme heat and dry conditions fuelled blazes in Sicily, southwestern France and central Spain. Rescue teams battled dozens of fires amid warnings ov...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Climatic"
+      ],
       "entities": [
-        "Trumps"
+        "Spain",
+        "France",
+        "Italy"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13208,13 +13248,104 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Verge"
+        "France24"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Record $60k fine for man behind 'brazen' dump site that will cost $1m to clean",
+      "link": "https://www.abc.net.au/news/2026-07-23/diamond-creek-illegal-dump-owner-fined/106945972",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-23T00:21:21+00:00",
+      "score": 13,
+      "summary": "The owner of one of Victoria's worst illegal dump sites has been handed a record fine of $60,000 and ordered to pay an expected $1 million to clean up the polluted property in Melbourne's outer north-east.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "PM Modi urges youth to lead vision of Viksit Bharat",
+      "link": "https://timesofindia.indiatimes.com/india/pm-modi-urges-youth-to-lead-vision-of-viksit-bharat/articleshow/132570096.cms",
+      "source": "Times of India",
+      "timestamp": "2026-07-23T05:49:24+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Modi",
+        "Viksit",
+        "Bharat"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Tesla\u2019s profits plunge as Musk\u2019s carmaker uses deep discounts to boost sales",
+      "link": "https://www.ft.com/content/dc5e629b-562c-41e3-8b89-350af6960adc?syn-25a6b1a6=1",
+      "source": "FT",
+      "timestamp": "2026-07-23T00:16:11+00:00",
+      "score": 12,
+      "summary": "Capital expenditures more than doubled as company accelerates pivot to AI and robots",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Musks"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "FT"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
       "link": "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html",
@@ -19716,52 +19847,26 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Car allegedly stolen with 93yo man still in passenger seat",
-      "link": "https://www.abc.net.au/news/2026-07-22/car-allegedly-stolen-outside-shepparton-hospital/106943292",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-22T02:10:40+00:00",
-      "score": 13,
-      "summary": "A man in his 90s was driven around for an hour and a half after the vehicle he was a passenger in was allegedly stolen outside a regional Victorian hospital.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "As The Odyssey smashes box office records, one name is drawing people in",
-      "link": "https://www.abc.net.au/news/2026-07-22/is-christopher-nolan-king-of-hollywood-with-success-of-odyssey/106940084",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-22T02:10:34+00:00",
-      "score": 12,
-      "summary": "The Odyssey's director Sir Christopher Nolan has a stellar catalogue. Interstellar, even. But as his new film smashes box office records, is it safe to crown him the new king of Hollywood?",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
+      "link": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-07-23T00:27:00+00:00",
+      "score": 14,
+      "summary": "Treasury yields are approaching the highest levels seen since the Iran war started in February as oil prices rise",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Odyssey"
+        "Fed",
+        "Iran"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19772,29 +19877,27 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "MarketWatch"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
     },
     {
-      "title": "'Sit with them in their grief': Supporting someone who has lost an infant",
-      "link": "https://www.abc.net.au/news/2026-07-22/supporting-someone-who-has-lost-a-child/106909366",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-22T02:08:23+00:00",
-      "score": 12,
-      "summary": "Women who have lost children talk about continuing in the wake of such grief, and how people stepped up, or stepped away.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "Buy-side margin relief on cards as Sebi looks to lift cash market turnover",
+      "link": "https://www.livemint.com/market/sebi-epi-margin-waiver-same-day-stock-sale-buy-trades-11784716345622.html",
+      "source": "Livemint",
+      "timestamp": "2026-07-23T05:55:11+05:30",
+      "score": 14,
+      "summary": "The Securities and Exchange Board of India is considering waiving upfront margins for buy trades made with same-day sale proceeds to enhance liquidity in the cash market.&nbsp;",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Supporting"
+        "Sebi"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19805,29 +19908,30 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "Livemint"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
-      "title": "US says more than 1,400 infected by parasitic Cyclospora illness outbreak",
-      "link": "https://www.aljazeera.com/news/2026/7/22/us-says-more-than-1400-infected-by-parasitic-cyclospora-illness-outbreak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-07-22T02:01:28+00:00",
-      "score": 15,
-      "summary": "US officials claim evidence points to lettuce grown in Mexico, which Mexico's Health Ministry disputes.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newswire",
+      "title": "Oil extends gains as Trump threatens strikes on critical Iranian infrastructure",
+      "link": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-23T00:19:41+00:00",
+      "score": 14,
+      "summary": "Oil prices rose after U.S. President Donald Trump threatened to bomb Iranian infrastructure in response to any attacks on ships transiting the Strait of Hormuz.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [
-        "Bio-Security"
+        "Military"
       ],
       "entities": [
-        "Cyclospora"
+        "Trump",
+        "Iranian"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19836,15 +19940,42 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "Al Jazeera"
+        "CNBC"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "ServiceNow\u2019s stock rises as earnings show momentum in cybersecurity",
+      "link": "https://www.marketwatch.com/story/servicenows-stock-gains-as-earnings-show-momentum-in-cybersecurity-86e7a038?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-07-23T00:18:00+00:00",
+      "score": 12,
+      "summary": "Against a gloomy backdrop for software sentiment, ServiceNow just topped revenue expectations.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Gold Holds Gain as Dip-Buying Counters Inflation Fears From War",
       "link": "https://www.livemint.com/market/gold-holds-gain-as-dip-buying-counters-inflation-fears-from-war-11784765035579.html",
@@ -26222,138 +26353,43 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Coinbase, Micron, Nebius, Hasbro, Utz Brands & more",
-      "link": "https://www.cnbc.com/2026/07/21/stocks-making-the-biggest-moves-midday-coin-mu-nbis-has-utz.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-21T16:51:54+00:00",
-      "score": 14,
-      "summary": "Here are some of the companies making headlines in midday trading.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Coinbase",
-        "Micron",
-        "Nebius",
-        "Hasbro",
-        "Utz",
-        "Brands"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Burnham tells cabinet to tackle living costs at first meeting",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vp4x7gkxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-07-21T16:50:25+00:00",
-      "score": 10,
-      "summary": "The new prime minister chaired his first cabinet after announcing a cut to VAT on household electricity.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "SpaceX\u2019s stock looks to snap brutal losing streak as it heads for one of its best days yet",
-      "link": "https://www.marketwatch.com/story/spacexs-stock-looks-to-snap-brutal-losing-streak-as-it-heads-for-one-of-its-best-days-yet-74220273?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-07-21T16:44:00+00:00",
-      "score": 12,
-      "summary": "Plus, investors just found out when insiders can start dumping their shares.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Jim Cramer says he's standing by Eli Lilly after rival's GLP-1 lawsuit. Here's why",
-      "link": "https://www.cnbc.com/2026/07/21/jim-cramer-says-hes-standing-by-eli-lilly-after-rivals-glp-1-lawsuit-heres-why-.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-21T16:40:38+00:00",
-      "score": 15,
-      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Cramer",
-        "Eli",
-        "Lilly",
-        "GLP",
-        "Heres"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Extreme heat wave grips Tunisia as wide power cuts fuel frustration",
+      "link": "https://phys.org/news/2026-07-extreme-tunisia-wide-power-fuel.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-22T20:20:01-04:00",
+      "score": 12,
+      "summary": "In Tunisia, long power outages across the country have added to the strain of an intense heat wave, with temperatures as high as 49\u00b0C (120\u00b0F), leaving many fearing for their livelihoods.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tunisia"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 6.6,
+      "source_count": 14,
+      "sources_reporting": [
+        "NHK",
+        "NPR",
+        "Phys.org",
+        "Reuters"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Most sewage spills in England may be illegal, new research suggests",
       "link": "https://www.bbc.co.uk/news/articles/cn0nxd1jgw5o?at_medium=RSS&at_campaign=rss",
@@ -26376,8 +26412,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "BBC",
@@ -32418,37 +32454,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Q&A: How anaerobic digestion can help reduce emissions and increase income streams",
-      "link": "https://phys.org/news/2026-07-qa-anaerobic-digestion-emissions-income.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-20T22:00:04-04:00",
-      "score": 12,
-      "summary": "An advanced technology that could benefit farmers' bottom line and help meet the rising demand for domestic energy production borrows a key ingredient from a centuries-old practice of burning dried manure to warm homes where trees were sparse or expensive: animal waste.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "How"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -34089,6 +34094,45 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Lego at Comic-Con: Star Wars and Pok\u00e9mon Activations, Star Trek and Donkey Kong Sets",
+      "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/lego-comic-con-star-wars-pokemon-star-trek-donkey-kong-1236654506/",
+      "source": "THR",
+      "timestamp": "2026-07-23T00:30:00+00:00",
+      "score": 12,
+      "summary": "Life-size brick-built Creature Cantina, anyone?",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ComicCon",
+        "Star",
+        "Wars",
+        "Pokmon",
+        "Activations",
+        "Trek",
+        "Donkey",
+        "Kong",
+        "Sets"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Margaret Qualley Makes First Appearance Since Jack Antonoff Breakup",
       "link": "https://www.eonline.com/news/1434250/margaret-qualley-makes-first-appearance-since-jack-antonoff-breakup?cmpid=rss-syndicate-genericrss-us-top_stories",
@@ -42104,42 +42148,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Snoop Dogg Biopic Lands Summer 2027 Release From Universal",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/snoop-dogg-biopic-lands-summer-2027-release-1236653520/",
-      "source": "THR",
-      "timestamp": "2026-07-21T21:30:00+00:00",
-      "score": 15,
-      "summary": "Jonathan Daviss stars in Craig Brewer's feature that examines the life of the iconic rapper.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Dogg",
-        "Biopic",
-        "Lands",
-        "Summer",
-        "Release",
-        "Universal"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45945,6 +45953,38 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 2.2 - 45 km NW of Ninilchik, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okzgmo",
+      "source": "USGS",
+      "timestamp": "2026-07-23T00:27:33.351000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-23 00:24:23 UTC2026-07-23 00:24:23 UTC at epicenterLocation60.342\u00b0N 152.238\u00b0WDepth107.10 km (66.55 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ninilchik",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.1 - 5 km WNW of The Geysers, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403992",
@@ -52544,39 +52584,6 @@
       "trending": false,
       "trend_score": 0.0,
       "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.2 - 75 km ENE of Tonopah, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00922100",
-      "source": "USGS",
-      "timestamp": "2026-07-21T19:14:14.198000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-21 18:50:38 UTC2026-07-21 18:50:38 UTC at epicenterLocation38.435\u00b0N 116.504\u00b0WDepth6.72 km (4.17 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Tonopah",
-        "Nevada"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
       "sources_reporting": [
         "USGS"
       ],
