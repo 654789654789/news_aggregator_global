@@ -96,7 +96,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 8.6,
+      "trend_score": 8.5,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -105,7 +105,7 @@
         "NYT",
         "PBS"
       ],
-      "trend_accel": "+69%",
+      "trend_accel": "+68%",
       "heat_level": "SURGING"
     },
     {
@@ -13216,6 +13216,74 @@
   ],
   "World": [
     {
+      "title": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
+      "link": "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html",
+      "source": "NYT",
+      "timestamp": "2026-07-23T00:12:45+00:00",
+      "score": 17,
+      "summary": "The Saudi authorities had yet to confirm the hits, which would be the first attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.",
+      "country": "Saudi Arabia",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Claim",
+        "Strikes",
+        "Saudi",
+        "Oil",
+        "Tankers",
+        "Red",
+        "Sea"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "NTA runs on 24 permanent staff, 197 contractual and outsourced hands",
+      "link": "https://timesofindia.indiatimes.com/india/nta-runs-on-24-permanent-staff-197-contractual-and-outsourced-hands/articleshow/132570058.cms",
+      "source": "Times of India",
+      "timestamp": "2026-07-23T05:33:38+05:30",
+      "score": 13,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Cam made up stories about his family, a historical journal revealed the truth",
       "link": "https://www.abc.net.au/news/2026-07-23/wa-historical-collection-reconnects-family-history/106933120",
       "source": "ABC Australia",
@@ -19774,45 +19842,16 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Controversial plan to transform Sydney suburb passes on mayor's casting vote",
-      "link": "https://www.abc.net.au/news/2026-07-22/nsw-bondi-junction-homes-waverley-council-masterplan/106943174",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-22T01:47:50+00:00",
-      "score": 12,
-      "summary": "Once councillor said they were only given days to try to decipher the latest version of the complex plan.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sydney"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "U.S. readies new tariffs as Trump's 10% global levy to expire",
-      "link": "https://www.thehindu.com/news/international/us-readies-new-tariffs-as-trumps-10-global-levy-to-expire/article71251922.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-22T07:08:39+05:30",
-      "score": 15,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "title": "Gold Holds Gain as Dip-Buying Counters Inflation Fears From War",
+      "link": "https://www.livemint.com/market/gold-holds-gain-as-dip-buying-counters-inflation-fears-from-war-11784765035579.html",
+      "source": "Livemint",
+      "timestamp": "2026-07-23T05:33:55+05:30",
+      "score": 14,
+      "summary": "Gold held gains on dip-buying even as hostilities in the Middle East pushed oil prices to multiweek highs, rekindling concerns that US inflationary pressure could prompt the Federal Reserve to raise interest rates.",
       "country": "India",
       "region": "South Asia",
       "source_type": "Newspaper",
@@ -19821,24 +19860,28 @@
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Trumps"
+        "Holds",
+        "Gain",
+        "DipBuying",
+        "Counters",
+        "Inflation",
+        "Fears",
+        "War"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "Livemint"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Airport drop-off fees up by a third - here are the priciest",
       "link": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
@@ -26307,39 +26350,6 @@
         "CNBC"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "IRS chief Frank Bisignano laughs off JPMorgan spying allegations",
-      "link": "https://www.cnbc.com/2026/07/21/irs-chief-frank-bisignano-laughs-off-jpmorgan-spying-allegations.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-21T16:29:59+00:00",
-      "score": 12,
-      "summary": "Bisignano denied allegations The Wall Street Journal reported that he surveilled his colleagues while working at JPMorgan more than a decade ago.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Frank",
-        "Bisignano",
-        "JPMorgan"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+45%",
       "heat_level": "LOW"
     }
   ],
@@ -34079,6 +34089,44 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Margaret Qualley Makes First Appearance Since Jack Antonoff Breakup",
+      "link": "https://www.eonline.com/news/1434250/margaret-qualley-makes-first-appearance-since-jack-antonoff-breakup?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-07-23T00:08:53+00:00",
+      "score": 12,
+      "summary": "Margaret Qualley isn\u2019t staying on the bleachers after her breakup. Two weeks following the news of the Honey Don't! actress' breakup with her husband of nearly three years Jack Antonoff, she made...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Qualley",
+        "Makes",
+        "First",
+        "Appearance",
+        "Since",
+        "Jack",
+        "Antonoff",
+        "Breakup"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Paramount Seeks Three-Day Evidentiary Hearing As Judge Considers Preliminary Injunction To Halt Warner Bros. Discovery Merger",
       "link": "https://deadline.com/2026/07/paramount-warner-bros-state-attorney-general-lawsuit-1237000888/",
@@ -42092,46 +42140,6 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Black Bear Hires Bianca Parkes As Head Of Marketing, Heather Phillips As Head Of Publicity",
-      "link": "https://deadline.com/2026/07/black-bear-bianca-parkes-heather-phillips-1236999722/",
-      "source": "Deadline",
-      "timestamp": "2026-07-21T21:30:00+00:00",
-      "score": 14,
-      "summary": "Black Bear Releasing has hired Bianca Parkes as their new Head of Marketing and Heather Phillips as their new Head of Publicity. Parkes joins from Neon where she led creative campaigns for Best Picture winners and hit genre films. Phillips is longtime publicity vet having work...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bear",
-        "Hires",
-        "Bianca",
-        "Parkes",
-        "Head",
-        "Marketing",
-        "Heather",
-        "Phillips",
-        "Publicity"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 6,
-      "sources_reporting": [
-        "Deadline",
-        "Variety"
-      ],
-      "trend_accel": "+65%",
-      "heat_level": "HOT"
     }
   ],
   "Lifestyle": [
@@ -45934,45 +45942,106 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "Summer's Hottest Chop The Scandi Bob, As Seen on Celebrities",
-      "link": "https://www.vogue.com/article/what-is-the-scandi-bob",
-      "source": "Vogue",
-      "timestamp": "2026-07-16T00:02:03+00:00",
-      "score": 12,
-      "summary": "The cut of the summer isn\u2019t just any bob\u2014it\u2019s a Scandi bob. Here, experts break down how it differs from other bobs and how to style it for every texture.",
+      "title": "M 1.1 - 5 km WNW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403992",
+      "source": "USGS",
+      "timestamp": "2026-07-23T00:13:56.999000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-23 00:12:21 UTC2026-07-23 00:12:21 UTC at epicenterLocation38.796\u00b0N 122.809\u00b0WDepth3.12 km (1.94 mi)",
       "country": "US",
       "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Hottest",
-        "Chop",
-        "Scandi",
-        "Bob",
-        "Seen",
-        "Celebrities"
+        "WNW",
+        "Geysers"
       ],
-      "severity_score": 0,
+      "severity_score": 3,
       "alert_level": "low",
-      "mode": "normal",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Vogue"
+        "USGS"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+63%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
+    {
+      "title": "M 1.5 - 5 km WNW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75403987",
+      "source": "USGS",
+      "timestamp": "2026-07-23T00:13:42.214000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-23 00:12:03 UTC2026-07-23 00:12:03 UTC at epicenterLocation38.795\u00b0N 122.807\u00b0WDepth2.75 km (1.71 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 6 km ENE of Fox, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026okywbb",
+      "source": "USGS",
+      "timestamp": "2026-07-23T00:13:30.809000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-23 00:12:19 UTC2026-07-23 00:12:19 UTC at epicenterLocation64.977\u00b0N 147.494\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Fox",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.4 - 11 km SSW of Jal, New Mexico",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oiookj",
@@ -52502,102 +52571,6 @@
       ],
       "severity_score": 3,
       "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 13 km S of Toyah, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oglavn",
-      "source": "USGS",
-      "timestamp": "2026-07-21T19:11:27.276000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-21 19:08:46 UTC2026-07-21 19:08:46 UTC at epicenterLocation31.197\u00b0N 103.811\u00b0WDepth0.00 km (0.00 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Toyah",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 1 km SE of Home Gardens, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40658914",
-      "source": "USGS",
-      "timestamp": "2026-07-21T19:07:31.866000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-21 19:04:10 UTC2026-07-21 19:04:10 UTC at epicenterLocation33.870\u00b0N 117.509\u00b0WDepth0.06 km (0.04 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Home",
-        "Gardens"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.6 - 214 km W of Bandon, Oregon",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2a5",
-      "source": "USGS",
-      "timestamp": "2026-07-21T18:53:00.398000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-21 18:32:56 UTC2026-07-21 18:32:56 UTC at epicenterLocation43.347\u00b0N 127.034\u00b0WDepth17.40 km (10.81 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bandon",
-        "Oregon"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
       "mode": "strategic",
       "language": "en",
       "breaking": false,
