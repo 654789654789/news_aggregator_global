@@ -984,7 +984,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 10.5,
+      "trend_score": 10.4,
       "source_count": 15,
       "sources_reporting": [
         "Bloomberg",
@@ -9021,7 +9021,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.9,
+      "trend_score": 7.8,
       "source_count": 15,
       "sources_reporting": [
         "Bloomberg",
@@ -9057,7 +9057,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.9,
+      "trend_score": 7.8,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -13229,6 +13229,41 @@
     }
   ],
   "World": [
+    {
+      "title": "West Asia war LIVE: U.S. military carries out strikes on Iran as both sides threaten civilian infrastructure",
+      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-military-strike-us-central-command-strait-of-hormuz-donald-trump-netanyhau-khamenei/article71256441.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-07-23T10:37:18+05:30",
+      "score": 12,
+      "summary": "Seyed Abbas Araghchi, Iran's Foreign Minister, said his country would adopt an \u201ceye for an eye\u201d defence doctrine",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Asia",
+        "LIVE",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Watchdog sends NSW emissions warning amid 'insatiable' data centre surge",
       "link": "https://www.abc.net.au/news/2026-07-23/net-zero-authority-nsw-annual-report-coal-data-impacts/106948568",
@@ -19820,22 +19855,62 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Woman in businessman rape case told 'lie after lie', defence says",
-      "link": "https://www.abc.net.au/news/2026-07-22/melbourne-businessman-rape-trial-woman-told-lies-defence-says/106944716",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-22T06:49:03+00:00",
-      "score": 10,
-      "summary": "A woman who accused a well-connected Melbourne businessman of rape is a serial liar and made \"false allegations\" in court, defence lawyers say.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
+      "link": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-07-23T05:07:46+00:00",
+      "score": 14,
+      "summary": "Co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
+      "country": "UK",
+      "region": "Europe",
       "source_type": "Broadcaster",
       "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "OpenAI"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Global Oil Prices Rise as Conflict with Iran Deepens",
+      "link": "https://www.nytimes.com/2026/07/23/business/crude-oil-gas-stock-prices.html",
+      "source": "NYT",
+      "timestamp": "2026-07-23T05:06:58+00:00",
+      "score": 12,
+      "summary": "The Houthis claimed to have attacked two ships in the Red Sea, and Iran said a third caught fire near the Strait of Hormuz.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Oil",
+        "Prices",
+        "Rise",
+        "Conflict",
+        "Iran",
+        "Deepens"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19845,13 +19920,76 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "NYT"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Hedge funds circle UK stocks as new PM Andy Burnham pledges 'new economic model'",
+      "link": "https://www.cnbc.com/2026/07/23/andy-burnham-labour-hedge-funds-short-selling-uk.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-23T05:06:41+00:00",
+      "score": 14,
+      "summary": "Prime Minister Andy Burnham's overhaul of Britain's domestic policy could fuel a range of trading opportunities in U.K. stocks.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Andy",
+        "Burnham"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Sotefin Bharat IPO listing: Shares hit upper circuit after listing at a 10% premium; details here",
+      "link": "https://www.livemint.com/market/ipo/sotefin-bharat-ipo-listing-shares-hit-upper-circuit-after-listing-at-a-10-premium-details-here-11784782273860.html",
+      "source": "Livemint",
+      "timestamp": "2026-07-23T10:32:51+05:30",
+      "score": 17,
+      "summary": "Sotefin Bharat IPO listing: The SME stock opened at \u20b9205, up 9.6% from the issue price of \u20b9187, and jumped further to hit the 5% upper price band of \u20b9215.25.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bharat",
+        "IPO",
+        "Shares"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Stocks to buy for short term: Mahindra and Mahindra among 3 shares Amol Athawale of Kotak Securities recommends",
       "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-mahindra-and-mahindra-among-3-shares-amol-athawale-of-kotak-securities-recommends-11784779688084.html",
@@ -25977,7 +26115,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.4,
+      "trend_score": 10.3,
       "source_count": 18,
       "sources_reporting": [
         "AP",
@@ -25987,7 +26125,7 @@
         "Livemint",
         "NYT"
       ],
-      "trend_accel": "+78%",
+      "trend_accel": "+77%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26241,113 +26379,21 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "SpaceX\u2019s stock snaps brutal losing streak ahead of key Starship rocket launch",
-      "link": "https://www.marketwatch.com/story/spacexs-stock-looks-to-snap-brutal-losing-streak-as-it-heads-for-one-of-its-best-days-yet-74220273?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-07-21T20:59:00+00:00",
-      "score": 14,
-      "summary": "Plus, investors just found out when insiders can start dumping their shares.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Starship"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'It's frustrating' - Canadians react to new US tariffs",
-      "link": "https://www.bbc.co.uk/news/videos/c4gkl7ede49o?at_medium=RSS&at_campaign=rss",
+      "title": "River levels approach all-time low as drought announcement looms",
+      "link": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "timestamp": "2026-07-21T20:52:08+00:00",
-      "score": 12,
-      "summary": "President Donald Trump has imposed a 50% tariff on a wide range of Canadian goods in retaliation for what he called \"unequal treatment\" of US products.",
-      "country": "US",
-      "region": "Americas",
+      "timestamp": "2026-07-23T05:12:09+00:00",
+      "score": 10,
+      "summary": "An announcement is expected from NRW as some river levels are reported to be nearing all-time lows.",
+      "country": "UK",
+      "region": "Europe",
       "source_type": "Broadcaster",
       "trust_score": 9,
       "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Canadians"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Super Micro surges 15% on new order and margin disclosure after SpaceX announcement",
-      "link": "https://www.cnbc.com/2026/07/21/super-micro-stock-spacex-announcement.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-21T20:49:29+00:00",
-      "score": 15,
-      "summary": "Many server makers are seeing faster growth as companies race to deploy artificial intelligence servers.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Micro",
-        "SpaceX"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "SpaceX snaps 7-day losing streak, sets earnings date that triggers first big share unlock",
-      "link": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-21T20:18:25+00:00",
-      "score": 13,
-      "summary": "SpaceX's stock gained on Tuesday and looked to snap a seven-day losing streak after announcing Aug. 4 as its maiden earnings report",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26360,13 +26406,43 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "BBC"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "Butterfly city blooms in shadow of office blocks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vp75q4yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-07-23T05:03:22+00:00",
+      "score": 10,
+      "summary": "A patch of land in Hull city centre has been allowed to grow wild to create a haven for insects.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 6.6,
+      "source_count": 11,
+      "sources_reporting": [
+        "BBC",
+        "Bloomberg",
+        "NPR",
+        "PBS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Orcas filmed ramming one of the world's heaviest fish so hard it explodes, possibly for fun",
       "link": "https://phys.org/news/2026-07-orcas-ramming-world-heaviest-fish.html",
@@ -26483,8 +26559,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
+      "trending": true,
+      "trend_score": 6.5,
       "source_count": 14,
       "sources_reporting": [
         "NHK",
@@ -31554,8 +31630,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 7.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -32385,71 +32461,6 @@
         "Phys.org"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Fires in Brazil's Amazon dropped to historic low in 2025",
-      "link": "https://phys.org/news/2026-07-brazil-amazon-historic.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-21T04:00:02-04:00",
-      "score": 15,
-      "summary": "Forest fires in the Brazilian Amazon fell to a historic low in 2025 after peaking the previous year, according to a report published Tuesday.",
-      "country": "Brazil",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Brazils",
-        "Amazon"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 7.8,
-      "source_count": 18,
-      "sources_reporting": [
-        "BBC",
-        "Guardian",
-        "NPR",
-        "PBS",
-        "Phys.org"
-      ],
-      "trend_accel": "+66%",
-      "heat_level": "SURGING"
-    },
-    {
-      "title": "Memorable visuals drive online ad purchases more than emotion, study suggests",
-      "link": "https://phys.org/news/2026-07-visuals-online-ad-emotion.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-20T23:20:03-04:00",
-      "score": 10,
-      "summary": "A study of digital advertising in the International Journal of Business and Systems Research suggests that memorable visuals are more likely to encourage consumers to buy than campaigns that rely primarily on emotional impact. The findings challenge conventional wisdom about h...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -34051,6 +34062,44 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Courtney Stodden Is Fighting for Something Bigger Than Jason Alexander\u2019s Apology",
+      "link": "https://variety.com/2026/tv/news/courtney-stodden-jason-alexander-apology-seinfeld-child-marriage-1236818847/",
+      "source": "Variety",
+      "timestamp": "2026-07-23T05:08:01+00:00",
+      "score": 12,
+      "summary": "It took fourteen and a half years, but Jason Alexander finally apologized. On Wednesday, the \u201cSeinfeld\u201d actor issued a public apology to Courtney Stodden for a \u201ccomedy\u201d sketch the two filmed together wherein Alexander, who was 52 at the time, fondled a 17-year-old Stodden\u2019s br...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stodden",
+        "Fighting",
+        "Something",
+        "Bigger",
+        "Than",
+        "Jason",
+        "Alexanders",
+        "Apology"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018The Wild Robot\u2019 VFX Studio STIM Sets Canary Islands Operation, Planning to Create More Than 100 Jobs",
       "link": "https://variety.com/2026/film/markets-festivals/stim-canary-islands-animation-studio-tenerife-zec-1236817891/",
@@ -37386,7 +37435,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -37396,7 +37445,7 @@
         "THR",
         "Variety"
       ],
-      "trend_accel": "+83%",
+      "trend_accel": "+82%",
       "heat_level": "CRITICAL"
     },
     {
@@ -42077,51 +42126,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Godzilla vs. Kong\u2019 Stars Rebecca Hall and Millie Bobby Brown Pay Tribute to Kaylee Hottle: \u201cYou Will Be Deeply Missed\u201d",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/kaylee-hottle-dead-rebecca-hall-millie-bobby-brown-tributes-1236653574/",
-      "source": "THR",
-      "timestamp": "2026-07-21T22:22:16+00:00",
-      "score": 12,
-      "summary": "The deaf actress died in a car crash on Tuesday. She was 18.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kong",
-        "Stars",
-        "Rebecca",
-        "Hall",
-        "Millie",
-        "Bobby",
-        "Brown",
-        "Pay",
-        "Tribute",
-        "Kaylee",
-        "Hottle",
-        "You",
-        "Will",
-        "Deeply",
-        "Missed"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45961,6 +45965,39 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.6 - 8 km NNW of Redwood Valley, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404082",
+      "source": "USGS",
+      "timestamp": "2026-07-23T05:14:28.557000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-23 05:12:52 UTC2026-07-23 05:12:52 UTC at epicenterLocation39.333\u00b0N 123.227\u00b0WDepth1.25 km (0.78 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Redwood",
+        "Valley"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 0.8 - 12 km ENE of Cloverdale, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75404072",
@@ -52561,39 +52598,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "US military identifies 3rd service member believed to have been killed in Iranian attack",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeklzVlNQYy1nZjVzaUtYa0tNamVrTVNyWHZfS2JmUmYwQmtZLWxPVkMyeTB1ZElBNkhiZ0M0MkdzWHQtbmRLRGo5Z1ZleXVtZzdNYXdQTlB0TUVGMDQ0M2tXMjFvbzU0WkVseGVwRFhaYndPUDhaWWF3SFU3b29sQ2pVREdHUEJqZmZ2dk1qRnRILVY5LXE0cl9sS3BobFVTaEE?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-07-21T23:54:00+00:00",
-      "score": 15,
-      "summary": "US military identifies 3rd service member believed to have been killed in Iranian attack AP News",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Iranian"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ]
