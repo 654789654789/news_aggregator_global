@@ -1,6 +1,40 @@
 {
   "Politics": [
     {
+      "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says",
+      "link": "https://www.pbs.org/newshour/health/salmonella-outbreak-tied-to-eggs-has-sickened-98-people-in-17-states-since-november-fda-says",
+      "source": "PBS",
+      "timestamp": "2026-07-24T19:25:12-04:00",
+      "score": 15,
+      "summary": "Investigators have determined that shell eggs recalled by Midwest Poultry Services are a likely source of the germ, but the Indiana-based company doesn't account for all the illnesses.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "November",
+        "FDA"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Burnham caps busy first week as UK's new prime minister at part-time office in Manchester",
       "link": "https://www.pbs.org/newshour/world/burnham-caps-busy-first-week-as-uks-new-prime-minister-at-part-time-office-in-manchester",
       "source": "PBS",
@@ -6651,23 +6685,25 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Kerala power crisis: State may face deficit in coming months too",
-      "link": "https://www.thehindu.com/news/national/kerala/kerala-power-crisis-state-may-face-deficit-in-coming-months-too/article71261129.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-24T12:12:18+05:30",
-      "score": 12,
-      "summary": "According to Load Generation Balance Report of Central Electricity Authority, Kerala can expect gaps in peak demand and availability from August through October this year and January through March 2027",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+      "link": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+      "source": "TechCrunch",
+      "timestamp": "2026-07-24T23:25:47+00:00",
+      "score": 17,
+      "summary": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue re-lighting the booster's rocket engines.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "State"
+        "Starlink"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6676,15 +6712,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "After backlash, Meta pauses plan to \u2018rate limit\u2019 its smart glasses",
       "link": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses",
@@ -13075,22 +13109,27 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Hackers stole \u2018significant\u2019 amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
-      "link": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-20T15:01:20+00:00",
-      "score": 14,
-      "summary": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "SpaceX launches 13th Starship test flight, deploys 20 next-generation Starlink satellites",
+      "link": "https://timesofindia.indiatimes.com/world/us/spacex-launches-13th-starship-test-flight-deploys-20-next-generation-starlink-satellites/articleshow/132617075.cms",
+      "source": "Times of India",
+      "timestamp": "2026-07-25T04:46:52+05:30",
+      "score": 15,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Starship",
+        "Starlink"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13100,13 +13139,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "TechCrunch"
+        "Times of India"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Businesses sue Trump as he defends 'very standard tariffs'",
       "link": "https://www.abc.net.au/news/2026-07-25/businesses-sue-donald-trump-over-new-forced-labour-tariffs/106957762",
@@ -19777,23 +19814,25 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Live: ASX set to fall as oil tops $US100",
-      "link": "https://www.abc.net.au/news/2026-07-24/asx-markets-business-news-live-updates/106896958",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-23T21:27:59+00:00",
-      "score": 15,
-      "summary": "Australian shares are set to fall as oil prices surge above $US100 a barrel and Wall Street's tech sell-off deepens. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
+      "link": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-07-24T23:23:53+00:00",
+      "score": 12,
+      "summary": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+      "country": "UK",
+      "region": "Europe",
       "source_type": "Broadcaster",
       "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "ASX"
+        "This"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19802,15 +19841,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "ABC Australia"
+        "BBC"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Trump to Speak as White House Correspondents Dinner Returns With More Security",
       "link": "https://www.nytimes.com/2026/07/24/business/media/white-house-correspondents-dinner.html",
@@ -26347,37 +26384,6 @@
         "CNBC"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tesla falls 14%, Alphabet sinks 6% as AI spending concerns spook investors",
-      "link": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-23T18:00:12+00:00",
-      "score": 17,
-      "summary": "Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Alphabet"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ],
@@ -33964,6 +33970,126 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Lou Koller, Frontman for Sick of It All,  Has Died",
+      "link": "https://www.rollingstone.com/music/music-news/sick-of-it-all-lou-koller-dead-obituary-1235598730/",
+      "source": "Rolling Stone",
+      "timestamp": "2026-07-24T23:29:06+00:00",
+      "score": 12,
+      "summary": "In June 2024, the singer said that doctors had found a tumor in his esophagus and he would have to undergo treatment",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Koller",
+        "Frontman",
+        "Sick",
+        "All",
+        "Has",
+        "Died"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Rolling Stone"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Pamela Anderson Talks New Dark Comedy \u2018Rosebush Pruning,\u2019 Second Chances & If \u2018Baywatch\u2019 Revisit Is In The Cards",
+      "link": "https://deadline.com/2026/07/pamela-anderson-interview-rosebush-pruning-baywatch-1237002799/",
+      "source": "Deadline",
+      "timestamp": "2026-07-24T23:26:45+00:00",
+      "score": 12,
+      "summary": "Since her critically acclaimed role in 2024\u2019s The Last Showgirl, Pamela Anderson\u2019s acting career has been moving in a new direction. With decades devoted to more mainstream roles befitting of a blonde bombshell, Anderson now embraces projects that both challenge and scare her....",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Anderson",
+        "Talks",
+        "New",
+        "Dark",
+        "Comedy",
+        "Rosebush",
+        "Pruning",
+        "Second",
+        "Chances",
+        "Baywatch",
+        "Revisit",
+        "Cards"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018The Odyssey\u2019 $84M+ Second Weekend A Record For Christopher Nolan Besting \u2018Dark Knight\u2019 \u2013 Box Office Update",
+      "link": "https://deadline.com/2026/07/box-office-the-odyssey-motor-city-her-private-hell-hadestown-1237002537/",
+      "source": "Deadline",
+      "timestamp": "2026-07-24T23:18:00+00:00",
+      "score": 15,
+      "summary": "FRIDAY PM: Well, it was clear its weekdays how much of a driving force Universal\u2019s The Odyssey would be, for the feature take of Homer\u2019s epic poem is headed for a second frame of $84.5M, the best Christopher Nolan has ever seen, beating his previous second weekend high, 2008\u2019s...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Odyssey",
+        "Second",
+        "Weekend",
+        "Record",
+        "Christopher",
+        "Nolan",
+        "Besting",
+        "Dark",
+        "Knight",
+        "Box",
+        "Office",
+        "Update"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Norwegian Zombie Comedy \u2018Grandmonster\u2019 Wins Big Laughs and Top Outpost Award at Fantasia\u2019s Fronti\u00e8res Market",
       "link": "https://variety.com/2026/film/markets-festivals/fantasia-frontieres-grandmonster-zombie-comedy-1236820625/",
@@ -41804,126 +41930,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Amy Winehouse Remembered on 15th Death Anniversary: Her \u2018Music Continues to Connect With People\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/amy-winehouse-remembered-15th-anniversary-death-1235598138/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-07-23T22:03:51+00:00",
-      "score": 15,
-      "summary": "\"Her voice, her songwriting, her honesty and her unique spirit remain as powerful today as ever,\" estate wrote in tribute Thursday",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Winehouse",
-        "Remembered",
-        "Death",
-        "Anniversary",
-        "Her",
-        "Music",
-        "Continues",
-        "Connect",
-        "People"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Johnny Depp Makes Surprise Comic-Con Appearance as Ebenezer Scrooge",
-      "link": "https://variety.com/2026/film/news/johnny-depp-comic-con-surprise-ebenezer-scrooge-1236819764/",
-      "source": "Variety",
-      "timestamp": "2026-07-23T21:57:43+00:00",
-      "score": 12,
-      "summary": "Johnny Depp made a surprise appearance at San Diego Comic-Con on Thursday \u2014 in his full Ebenezer Scrooge regalia. Depp plays Scrooge in the upcoming Paramount movie, \u201cEbenezer,\u201d which debuts in theaters this November. The actor appeared in outside of a shop called \u201cScrooge and...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Depp",
-        "Makes",
-        "Surprise",
-        "ComicCon",
-        "Appearance",
-        "Ebenezer",
-        "Scrooge"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "USC Games Expo Is Shaping the Next Generation of Game Creators Through \u2018Aftertaste\u2019, \u2018Sisyphus\u2019s Worst Day (Again)\u2019 & \u2018Unrealtor\u2019",
-      "link": "https://deadline.com/2026/07/usc-games-expo-interview-jim-huntley-1237001433/",
-      "source": "Deadline",
-      "timestamp": "2026-07-23T21:45:00+00:00",
-      "score": 14,
-      "summary": "For ten years, the USC Games Expo has quietly served as one of the industry\u2019s premier launchpads for emerging indie game developers. Long before games like Journey, What Remains of Edith Finch and Threes! earned critical acclaim and reshaped conversations around interactive st...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Games",
-        "Expo",
-        "Shaping",
-        "Next",
-        "Generation",
-        "Game",
-        "Creators",
-        "Through",
-        "Aftertaste",
-        "Sisyphuss",
-        "Worst",
-        "Day",
-        "Again",
-        "Unrealtor"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45630,6 +45636,103 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 5.7 - 292 km SSE of Ushuaia, Argentina",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t387",
+      "source": "USGS",
+      "timestamp": "2026-07-24T23:26:26.040000+00:00",
+      "score": 17,
+      "summary": "Time2026-07-24 23:10:29 UTC2026-07-24 23:10:29 UTC at epicenterLocation57.307\u00b0S 66.838\u00b0WDepth10.00 km (6.21 mi)",
+      "country": "Argentina",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Ushuaia",
+        "Argentina"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.5 - 7 km NE of Lake Davis, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405277",
+      "source": "USGS",
+      "timestamp": "2026-07-24T23:22:30.432000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-24 23:20:26 UTC2026-07-24 23:20:26 UTC at epicenterLocation39.910\u00b0N 120.412\u00b0WDepth-1.61 km (-1.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lake",
+        "Davis"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 26 km W of Los Banos, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405267",
+      "source": "USGS",
+      "timestamp": "2026-07-24T23:16:37.409000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-24 23:15:01 UTC2026-07-24 23:15:01 UTC at epicenterLocation37.038\u00b0N 121.137\u00b0WDepth3.36 km (2.09 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Los",
+        "Banos"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
       "heat_level": "LOW"
     },
     {
@@ -52013,110 +52116,6 @@
         "USGS"
       ],
       "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.3 - 89 km SSW of Severo-Kuril\u2019sk, Russia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2ue",
-      "source": "USGS",
-      "timestamp": "2026-07-23T19:11:30.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-23 18:42:08 UTC2026-07-23 18:42:08 UTC at epicenterLocation49.889\u00b0N 155.862\u00b0EDepth70.71 km (43.93 mi)",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "SSW",
-        "SeveroKurilsk",
-        "Russia"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 33 km SSE of Malaga, New Mexico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026okcjhc",
-      "source": "USGS",
-      "timestamp": "2026-07-23T19:09:42.662000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-23 19:05:01 UTC2026-07-23 19:05:01 UTC at epicenterLocation31.962\u00b0N 103.886\u00b0WDepth7.15 km (4.44 mi)",
-      "country": "Mexico",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Malaga",
-        "New",
-        "Mexico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.0 - 70 km N of Tierras Nuevas Poniente, Puerto Rico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71525468",
-      "source": "USGS",
-      "timestamp": "2026-07-23T18:44:48.070000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-23 18:35:43 UTC2026-07-23 18:35:43 UTC at epicenterLocation19.099\u00b0N 66.472\u00b0WDepth7.32 km (4.55 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tierras",
-        "Nuevas",
-        "Poniente",
-        "Puerto",
-        "Rico"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
