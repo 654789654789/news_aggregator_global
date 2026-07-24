@@ -5236,7 +5236,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.8,
+      "trend_score": 8.7,
       "source_count": 10,
       "sources_reporting": [
         "BBC",
@@ -5245,7 +5245,7 @@
         "NPR",
         "Reuters"
       ],
-      "trend_accel": "+73%",
+      "trend_accel": "+72%",
       "heat_level": "SURGING"
     },
     {
@@ -13096,6 +13096,35 @@
   ],
   "World": [
     {
+      "title": "Drivers urged not to panic buy as fuel price hikes nowhere near record high",
+      "link": "https://www.abc.net.au/news/2026-07-24/nsw-petrol-prices-tipped-to-rise-australia-household-budgets/106953716",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-24T03:25:00+00:00",
+      "score": 10,
+      "summary": "Australians are being urged by a peak motorist association not to panic buy fuel amid a flare-up of tensions in the Middle East, saying prices are nowhere near April's record high.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Police offer $500k reward to solve Dianne Angwin cold case murder",
       "link": "https://www.abc.net.au/news/2026-07-24/qld-dianne-angwin-cold-case-police-reward/106952868",
       "source": "ABC Australia",
@@ -19703,23 +19732,32 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Climate change has intensified Europe's risk of drought, scientists say",
-      "link": "https://www.france24.com/en/environment/20260723-climate-change-has-intensified-europe-risk-of-drought-scientists-say",
-      "source": "France24",
-      "timestamp": "2026-07-23T03:09:57+00:00",
-      "score": 12,
-      "summary": "Human-caused climate change has intensified Europe's drought by making extreme heat, rather than low rainfall, the main driver of exceptionally dry conditions, an international team of scientists said on Thursday, warning that a warmer atmosphere is sharply increasing drought ...",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "Q1 results 2026: NTPC, Tata Consumer, Bank of Baroda, REC, Hind Zinc, among 80+ companies to announce earnings today",
+      "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-ntpc-tata-consumer-bank-of-baroda-rec-hind-zinc-among-80-companies-to-announce-earnings-today-11784862233723.html",
+      "source": "Livemint",
+      "timestamp": "2026-07-24T08:56:08+05:30",
+      "score": 15,
+      "summary": "Over 80 companies, including NTPC and SBI Life Insurance, are set to announce their Q1 FY27 results today, July 24. Investors will focus on management commentary, dividend announcements, and future guidance amid a declining market trend influenced by rising crude oil prices.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Europes"
+        "NTPC",
+        "Tata",
+        "Consumer",
+        "Bank",
+        "Baroda",
+        "REC",
+        "Hind",
+        "Zinc"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19728,15 +19766,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "France24"
+        "Livemint"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "US stocks to Asian markets today: Global market's equity heatmap you should know before trade begins on Dalal Street",
       "link": "https://www.livemint.com/market/stock-market-news/us-stocks-to-asian-markets-today-global-markets-equity-heatmap-you-should-know-before-trade-begins-on-dalal-street-11784859343244.html",
@@ -26323,27 +26359,25 @@
       ],
       "trend_accel": "+55%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Inside India newsletter: Skyroot rocket puts India alongside U.S., China in private orbital launch",
-      "link": "https://www.cnbc.com/2026/07/23/india-skyroot-rocket-us-china-spacex.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-23T02:37:12+00:00",
-      "score": 12,
-      "summary": "Indian startup Skyroot joins Chinese and American private companies in the race to launch satellites in low orbit.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "3D-printed bioplastic pods offer new hope for seagrass restoration in Thailand",
+      "link": "https://phys.org/news/2026-07-3d-bioplastic-pods-seagrass-thailand.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-23T23:20:01-04:00",
+      "score": 17,
+      "summary": "A new collaborative research project between Murdoch University and Walailak University (WU) aims to restore seagrass meadows in Thailand using 3D-printed pods made from bioplastics.",
+      "country": "Thailand",
+      "region": "Southeast Asia",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "India",
-        "Skyroot",
-        "China"
+        "Thailand"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26352,15 +26386,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Researchers explore classroom applications of AI new learning platforms",
       "link": "https://phys.org/news/2026-07-explore-classroom-applications-ai-platforms.html",
@@ -26416,7 +26448,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.7,
+      "trend_score": 6.6,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -26424,7 +26456,7 @@
         "NHK",
         "Phys.org"
       ],
-      "trend_accel": "+64%",
+      "trend_accel": "+63%",
       "heat_level": "HOT"
     },
     {
@@ -32489,35 +32521,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Gig platforms can simply 'wait out' workers to slash wages, research reveals",
-      "link": "https://phys.org/news/2026-07-gig-platforms-simply-workers-slash.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-21T19:20:01-04:00",
-      "score": 12,
-      "summary": "Researchers from the Max Planck Institute for Intelligent Systems (MPI-IS), the T\u00fcbingen AI Center and Ellis Institute T\u00fcbingen have conducted a study that uncovers a mathematical strategy explaining how digital labor platforms can systematically suppress wages. The research, ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33941,6 +33944,138 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Director Na Hong-Jin Makes Comic-Con Debut With Frightening New \u2018Hope\u2019 Footage, Says Casting Hoyeon Was His \u2018Best Decision\u2019",
+      "link": "https://variety.com/2026/film/news/na-hong-jin-comic-con-hope-footage-hoyeon-1236819530/",
+      "source": "Variety",
+      "timestamp": "2026-07-24T03:27:25+00:00",
+      "score": 12,
+      "summary": "South Korean director Na Hong-Jin made his San Diego Comic-Con debut to preview his latest film, Neon\u2019s alien action movie \u201cHope.\u201d Before the action auteur took the stage in Ballroom 20, a sizzle reel of his previous work \u2014 from his 2008 debut \u201cThe Chaser\u201d to \u201cThe Yellow Sea\u201d ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "HongJin",
+        "Makes",
+        "ComicCon",
+        "Debut",
+        "Frightening",
+        "New",
+        "Hope",
+        "Footage",
+        "Says",
+        "Casting",
+        "Hoyeon",
+        "Was",
+        "His",
+        "Best",
+        "Decision"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Sia: Nostalgic for the Present\u2019 Review: A Concert Performance Film from 2016, but It Channels Sia\u2019s Mystery and Power",
+      "link": "https://variety.com/2026/film/reviews/sia-nostalgic-for-the-present-review-1236817974/",
+      "source": "Variety",
+      "timestamp": "2026-07-24T03:25:16+00:00",
+      "score": 15,
+      "summary": "Sia\u2019s greatest songs, like \"Unstoppable\" and \"Titanium\" and \"The Greatest,\" are anthems of strength, power, fortitude, invincibility, and watching the movie it\u2019s fascinating to behold how her facelessness feeds that quality. She\u2019s an abstract figure, a pair of lips singing, an...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nostalgic",
+        "Present",
+        "Review",
+        "Concert",
+        "Performance",
+        "Film",
+        "Channels",
+        "Sias",
+        "Mystery",
+        "Power"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Resident Evil\u2019 Duo Zach Cregger & Austin Abrams Tease The Film\u2019s Last 30 Seconds, Tricky Camerawork & Potential Fan Favorite Set Pieces",
+      "link": "https://deadline.com/2026/07/zach-cregger-austin-abrams-resident-evil-film-interview-1237002306/",
+      "source": "Deadline",
+      "timestamp": "2026-07-24T03:17:02+00:00",
+      "score": 15,
+      "summary": "It may be \u201cno sweat\u201d for Austin Abrams\u2019 character Bryan in the latest trailer for Resident Evil, but for writer-director and horror aficionado Zach Cregger his upcoming adaptation is all blood, all guts and all gorey. Co-written with Shay Hatten, Sony\u2019s Resident Evil follows B...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Evil",
+        "Duo",
+        "Zach",
+        "Cregger",
+        "Austin",
+        "Abrams",
+        "Tease",
+        "Films",
+        "Last",
+        "Seconds",
+        "Tricky",
+        "Camerawork",
+        "Potential",
+        "Fan",
+        "Favorite",
+        "Set",
+        "Pieces"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Bon Jovi Abruptly Ends MSG Concert Due to Sinus Infection",
       "link": "https://www.rollingstone.com/music/music-news/bon-jovi-abruptly-ends-msg-concert-sinus-infection-1235598245/",
@@ -41822,129 +41957,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Brazil Begins Three Days of Mourning After Luiz Carlos Barreto, Its Legendary Film Producer, Dies at 98",
-      "link": "https://variety.com/2026/film/obituaries-people-news/luiz-carlos-barreto-dies-at-98-lucy-barreto-glauber-rocha-1236818928/",
-      "source": "Variety",
-      "timestamp": "2026-07-23T08:28:44+00:00",
-      "score": 15,
-      "summary": "Luiz Carlos Barreto, one of the driving forces of the Cinema Novo movement in the 1960s and 1970s, died in Rio de Janeiro on Wednesday, July 22, at the age of 98. In reaction \u2013 and it\u2019s a measure of the huge regard with which Barreto was held in his native Brazil and beyond \u2013 [\u2026]",
-      "country": "Brazil",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Begins",
-        "Three",
-        "Days",
-        "Mourning",
-        "After",
-        "Luiz",
-        "Carlos",
-        "Barreto",
-        "Its",
-        "Legendary",
-        "Film",
-        "Producer",
-        "Dies"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Scottish Ballet & Forest Of Black Partner With Tull Stories To Release Dance Film \u2018These Violent Delights\u2019 \u2014 First Look Trailer",
-      "link": "https://deadline.com/2026/07/scottish-ballet-tull-stories-these-violent-delights-1237001037/",
-      "source": "Deadline",
-      "timestamp": "2026-07-23T08:00:00+00:00",
-      "score": 14,
-      "summary": "EXCLUSIVE: The Scottish Ballet company and production house Forest of Black have partnered with the indie distribution company Tull Stories to release their dance film These Violent Delights in UK and Irish cinemas. Tull Stories will release These Violent Delights in cinemas f...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ballet",
-        "Forest",
-        "Black",
-        "Partner",
-        "Tull",
-        "Stories",
-        "Release",
-        "Dance",
-        "Film",
-        "These",
-        "Violent",
-        "Delights",
-        "First",
-        "Look",
-        "Trailer"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Matt Rife Sets Four-Night Comedy Cruise for 2027",
-      "link": "https://www.hollywoodreporter.com/news/general-news/matt-rife-comedy-cruise-suite-rife-on-deck-2027-1236654740/",
-      "source": "THR",
-      "timestamp": "2026-07-23T07:28:13+00:00",
-      "score": 15,
-      "summary": "The superstar comedian will be joined by some all-star stand-up pals on Suite Rife on Deck, set to hit the open water on MSC Poesia from Feb. 10-14. Rife promises \"only cool people, only good vibes.\"",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rife",
-        "Sets",
-        "FourNight",
-        "Comedy",
-        "Cruise"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45297,6 +45309,70 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 0.5 - 11 km NNW of Warner Springs, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660498",
+      "source": "USGS",
+      "timestamp": "2026-07-24T03:19:02.990000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-24 03:15:32 UTC2026-07-24 03:15:32 UTC at epicenterLocation33.370\u00b0N 116.693\u00b0WDepth12.02 km (7.47 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Warner",
+        "Springs"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Angola",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029533",
+      "source": "GDACS",
+      "timestamp": "2026-07-24T03:17:24+00:00",
+      "score": 12,
+      "summary": "On 18/07/2026, a forest fire started in Angola, until 21/07/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Angola"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Green forest fire notification in Tunisia",
       "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029644",
@@ -51807,71 +51883,6 @@
         "USGS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 52 km NNW of Paxson, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026olcplc",
-      "source": "USGS",
-      "timestamp": "2026-07-23T02:05:56.400000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-23 02:04:37 UTC2026-07-23 02:04:37 UTC at epicenterLocation63.512\u00b0N 146.063\u00b0WDepth7.40 km (4.60 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Paxson",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 18 km NW of Balmorhea, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oitxmy",
-      "source": "USGS",
-      "timestamp": "2026-07-23T01:51:40.136000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-23 01:45:23 UTC2026-07-23 01:45:23 UTC at epicenterLocation31.118\u00b0N 103.867\u00b0WDepth0.00 km (0.00 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Balmorhea",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ]
