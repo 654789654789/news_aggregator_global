@@ -5323,7 +5323,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 19,
       "sources_reporting": [
         "AP",
@@ -5333,7 +5333,7 @@
         "NPR",
         "PBS"
       ],
-      "trend_accel": "+83%",
+      "trend_accel": "+82%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13105,6 +13105,70 @@
   ],
   "World": [
     {
+      "title": "Chemical manufacturer ends sales of controversial herbicide",
+      "link": "https://www.abc.net.au/news/rural/2026-07-25/syngenta-stops-sales-of-paraquat-after-apvma-review/106956466",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-25T00:34:23+00:00",
+      "score": 10,
+      "summary": "The chemical giant has ended sales in Australia and New Zealand, blaming new regulatory restrictions, as well as commercial, manufacturing and logistical challenges.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Live: Waratahs meet Drua in Super Rugby Women's grand final",
+      "link": "https://www.abc.net.au/news/2026-07-25/super-rugby-women-s-grand-final-drua-waratahs-live-blog/106957840",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-25T00:32:42+00:00",
+      "score": 12,
+      "summary": "The Waratahs are chasing a seventh Super Rugby Women's title, but they face the daunting task of playing the Drua in Fiji. Follow live.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Waratahs",
+        "Drua",
+        "Super",
+        "Rugby",
+        "Womens"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "SpaceX launches Starship on another test flight, this time with the most advanced Starlinks",
       "link": "https://www.thehindu.com/sci-tech/spacex-launches-starship-on-another-test-flight-this-time-with-the-most-advanced-starlinks/article71264817.ece",
       "source": "The Hindu",
@@ -19743,26 +19807,28 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Russia warns U.S. against Ukraine arms sales in Manila meeting",
-      "link": "https://www.thehindu.com/news/international/russia-warns-us-against-ukraine-arms-sales-in-manila-meeting/article71259513.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-24T03:38:00+05:30",
-      "score": 14,
-      "summary": "Mr. Lavrov and Rubio's meeting on the sidelines of a Southeast Asian summit, their first since September 2025, came as Washington's focus has switched from mediating in Ukraine to dealing with war in the West Asia",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Newspaper",
+      "title": "SpaceX Starship Flight 13 launch updates: It's launch day (again) for SpaceX Starship Flight 13",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0w1WG1YemVFbHNiUzJLLWVxZTF4cUlnTWVaSXNCTlIxMk5GTElfVE1hdWZBZlFicjB1aTRnZVpkR2lEeG1sMkgydHBfSUh2VURYOVEtTWdrdEw2WFVxeDJsa2xCUHZ1N3laQnpfd3pmakpxajM5TWtOTlpxcTBkMzdfTjhnNVlzek40TDF3?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-07-25T00:36:38+00:00",
+      "score": 17,
+      "summary": "SpaceX Starship Flight 13 launch updates: It's launch day (again) for SpaceX Starship Flight 13 SpaceSpaceX launches massive Starship rocket in first test flight since IPO CNBC\u2018It\u2019s going to rock my freaking world\u2019: Fans wait another day for Starship launch ValleyCentral.comSp...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Ukraine",
-        "Manila"
+        "Starship",
+        "Flight",
+        "Its",
+        "SpaceX"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19771,46 +19837,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "Google News"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
     },
-    {
-      "title": "US war on Iran: The $110 billion price tag",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-07-23T22:04:23+00:00",
-      "score": 15,
-      "summary": "America's war on Iran has cost the US nearly $110 billion. Now, the Trump administration wants another $67 billion.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Iran"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Al Jazeera"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
       "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
@@ -26346,23 +26379,26 @@
       ],
       "trend_accel": "+72%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Cerebras stock gains on AMD partnership",
-      "link": "https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-23T18:42:57+00:00",
-      "score": 14,
-      "summary": "Cerebras and AMD agreed to work together, pairing their technology for AI systems.",
-      "country": "US",
-      "region": "Americas",
+      "title": "Watch: SpaceX's successful test flight and splashdown for Starship",
+      "link": "https://www.bbc.co.uk/news/articles/czxqnwzqqw8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-07-25T00:41:50+00:00",
+      "score": 12,
+      "summary": "The megarocket pulled off a soft splashdown in the Indian Ocean an hour after launch.",
+      "country": "UK",
+      "region": "Europe",
       "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "trust_score": 9,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "AMD"
+        "SpaceXs",
+        "Starship"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26373,13 +26409,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "BBC"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Smarter, greener ways to protect fragile cultural heritage",
       "link": "https://phys.org/news/2026-07-smarter-greener-ways-fragile-cultural.html",
@@ -32548,35 +32582,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Ordinary moss generates surprisingly complex electrical activity",
-      "link": "https://phys.org/news/2026-07-ordinary-moss-generates-complex-electrical.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-22T11:40:03-04:00",
-      "score": 10,
-      "summary": "Moss may well be something that most of us barely give a second thought, but there is far more to this small nonvascular plant than meets the eye. A new study published in the journal Royal Society Open Science reports that it displays a surprising amount of electrical activity.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33962,6 +33967,87 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Hollywood Royalty, Michelin-Starred Meal, Cartier Gift Bags: Inside Monaco\u2019s Most Exclusive Event of the Year",
+      "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/77th-monaco-red-cross-gala-2026-recap-guests-fashion-prizes-1236651749/",
+      "source": "THR",
+      "timestamp": "2026-07-25T00:45:03+00:00",
+      "score": 12,
+      "summary": "For its 77th iteration, Monte Carlo rolled out the red carpet for a most distinguished guest list, namely Monaco's royal family, the direct descendants and successors of Grace Kelly.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Royalty",
+        "MichelinStarred",
+        "Meal",
+        "Cartier",
+        "Gift",
+        "Bags",
+        "Inside",
+        "Monacos",
+        "Most",
+        "Exclusive",
+        "Event",
+        "Year"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Spaceballs: The New One\u2019 Invades Comic-Con With Send-Up Of Marvel\u2019s Hall H Panels Of Yore",
+      "link": "https://deadline.com/2026/07/spaceballs-the-new-one-comic-con-marvel-1237003091/",
+      "source": "Deadline",
+      "timestamp": "2026-07-25T00:36:01+00:00",
+      "score": 12,
+      "summary": "Just like the beginning of the original Spaceballs, which went really big in that long opening spaceship take that made fun of Star Wars, so did Amazon MGM Studios in its Hall H presentation of Spaceballs: The New One. Ala the studio\u2019s presentation of Project Hail Mary last ye...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "New",
+        "One",
+        "Invades",
+        "ComicCon",
+        "SendUp",
+        "Marvels",
+        "Hall",
+        "Panels",
+        "Yore"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Overlooked No More: Barbara Rubin, Teenage Filmmaker at the Heart of New York\u2019s Underground",
       "link": "https://www.nytimes.com/2026/07/24/obituaries/barbara-rubin-overlooked.html",
@@ -41839,82 +41925,6 @@
         "Deadline"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trey Songz Gets Zero Jail Time After Arrest for Allegedly Punching Nightclub Employee",
-      "link": "https://www.rollingstone.com/music/music-news/trey-songz-no-jail-time-arrest-punching-nightclub-employee-1235598181/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-07-23T23:13:27+00:00",
-      "score": 14,
-      "summary": "The singer was charged with assault last year after allegedly striking an employee in the face at Dramma Night Club in Times Square",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Songz",
-        "Gets",
-        "Zero",
-        "Jail",
-        "Time",
-        "After",
-        "Arrest",
-        "Allegedly",
-        "Punching",
-        "Nightclub",
-        "Employee"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Pete Davidson Is Unrecognizable in Mobster Movie Transformation",
-      "link": "https://www.eonline.com/news/1434292/pete-davidson-in-tommy-karate-movie-see-unrecognizable-actor?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-07-23T23:01:29+00:00",
-      "score": 12,
-      "summary": "Live from New York, it\u2019s\u2026 Pete Davidson? The Saturday Night Live alum appeared totally transformed in a first look at his portrayal of mobster Tommy Pitera in the upcoming film Tommy Karate. In a...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Davidson",
-        "Unrecognizable",
-        "Mobster",
-        "Movie",
-        "Transformation"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ],
