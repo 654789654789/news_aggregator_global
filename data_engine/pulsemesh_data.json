@@ -13117,6 +13117,38 @@
   ],
   "World": [
     {
+      "title": "Berlin: 1 dead after vehicle drives into CSD Pride event",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00VzU5TzBXam5tcmtVYkc4NnltcXJRSHQ2dGt2WTZVd2pBb2lKWFRGUS1nQXRmMnFCUDE2b0JZRGFRRktEMjNXdGJ1NVFDWU40Rl80REwxNVRoeUYwM1VCNG5uVldmaVFMRDNrMm43Y0lvRDN5eXBn0gF3QVVfeXFMTnlmY0JsbnZtNG5wQmQ4S2ZmWDY2R2FNQlVDWldHM0Y1R0RGNVU0VnpCaUNYaUFwZzBTd18tOUJLeWZBZlBqQ3pHOWktb1FFeUhQWWZYS1N2WW5lc0RjekkyQ2dtejJGblhTb3hrNy04TExHY2dvR28?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-07-25T23:48:45+00:00",
+      "score": 15,
+      "summary": "Berlin: 1 dead after vehicle drives into CSD Pride event DW.comAt least one dead and several injured after vehicle drives into crowd at Berlin Pride CNNVan slams into people gathered for Berlin's LGBTQ+ event, killing 1 and injuring at least 16 Dallas NewsPolice cancel pride f...",
+      "country": "Germany",
+      "region": "Europe",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "CSD",
+        "Pride"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Albanese personally opposed to telehealth voluntary assisted dying",
       "link": "https://www.abc.net.au/news/2026-07-26/albanese-opposed-telehealth-voluntary-assisted-dying/106959388",
       "source": "ABC Australia",
@@ -13785,15 +13817,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 8,
+      "trending": true,
+      "trend_score": 11.1,
+      "source_count": 16,
       "sources_reporting": [
         "BBC",
-        "CBC News"
+        "Bloomberg",
+        "CBC News",
+        "Google News",
+        "NHK",
+        "Reuters"
       ],
-      "trend_accel": "+61%",
-      "heat_level": "HOT"
+      "trend_accel": "+80%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Iran War Live Updates: U.S.-Iran Strikes Abate, But Supporters of Both Sides Exchange Attacks",
@@ -16736,8 +16772,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.0,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "ABC Australia",
@@ -19755,28 +19791,24 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Europe wildfires latest: More than 65,000 evacuated across France and Spain",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OVnBXanNudE5pMzFuT00tdC1ERGhJMXBmN2phb1BiMmJjbnBaWlFYaWN2aFBna1R3Wkd1WnRFdGxMQk0yUTBubGh6bUQ0YW5HVHJJSQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-07-24T18:03:45+00:00",
-      "score": 17,
-      "summary": "Europe wildfires latest: More than 65,000 evacuated across France and Spain BBCWildfires in France and Spain Drive Tens of Thousands From Their Homes The New York TimesNinety thousand people flee raging wildfires in France and Spain, some escaping by boat AP NewsFrance orders ...",
-      "country": "France",
+      "title": "Rental searches for pet friendly properties drop after law change",
+      "link": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-07-26T00:00:49+00:00",
+      "score": 10,
+      "summary": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
+      "country": "UK",
       "region": "Europe",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "More",
-        "France",
-        "Spain"
-      ],
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19786,13 +19818,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Google News"
+        "BBC"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus - Investor's Business Daily",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3p3SzdOVDFES19TRHFQWmlIQ3BpZUVqTDdkdUV1bUd3alFyYzVubHNmU3FVWnpYS2JFZDJiZHVpWDJFV3V3OEdfWFd0YmNMOTB2UF9WaktUaUNKd21JV0hacllkdlI1UnNjTDQzV1MzanFXTFJUQWVHN284dVBKTUJXdEthVFg1T1Z3bmFnamFzZXd4OVpjMTVZcTB0MXNqeHRYS1lCX21xbjZhck1xMGs3bXRUV2xuQ3YwbnN1cmo?oc=5",
@@ -26385,44 +26415,6 @@
         "CNBC"
       ],
       "trend_accel": "+62%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Dollar Rises as Intensifying Iran War Lifts Rate Hike Bets",
-      "link": "https://www.livemint.com/market/dollar-rises-as-intensifying-iran-war-lifts-rate-hike-bets-11784841425131.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-24T02:47:04+05:30",
-      "score": 12,
-      "summary": "The dollar jumped Thursday as intensifying conflict in the Middle East sparked concerns over energy supply disruptions, fueling expectations that interest rates will stay higher for longer.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rises",
-        "Intensifying",
-        "Iran",
-        "War",
-        "Lifts",
-        "Rate",
-        "Hike",
-        "Bets"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -34133,6 +34125,48 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Widow\u2019s Bay\u2019 Creator Reveals Which Major Character Wasn\u2019t In Original Script: \u201cBurn Every Copy\u201d",
+      "link": "https://deadline.com/2026/07/widows-bay-creator-major-character-wasnt-in-original-script-1237003692/",
+      "source": "Deadline",
+      "timestamp": "2026-07-25T23:49:40+00:00",
+      "score": 12,
+      "summary": "As Widow\u2019s Bay gears up for another tourist season, creator Katie Dippold reflected on the show\u2019s evolution at San Diego Comic-Con. During Apple TV\u2019s Hall H panel on Saturday, Dippold revealed that Stephen Root\u2019s Wyck was not originally part of the pilot script, which she has ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bay",
+        "Creator",
+        "Reveals",
+        "Which",
+        "Major",
+        "Character",
+        "Wasnt",
+        "Original",
+        "Script",
+        "Burn",
+        "Every",
+        "Copy"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Hadestown\u2019 Brings Broadway\u2019s Underworld to the Big Screen: The Show\u2019s Actors and Creators on Reconvening the Original Cast for a Smashing Cinema Event",
       "link": "https://variety.com/2026/music/news/hadestown-musical-film-actors-interview-1236821221/",
@@ -42083,44 +42117,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Demi Moore Gets Front-Row Seat to Katseye\u2019s Breakdown in \u2018Animal\u2019 Video",
-      "link": "https://www.rollingstone.com/music/music-news/katseye-new-single-animal-video-guest-demi-moore-1235598166/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-07-24T14:26:16+00:00",
-      "score": 12,
-      "summary": "The single, written by Ed Sheeran and produced by Omer Fedi and Blake Slatkin, will appear on Katseye's upcoming five-track EP Wild",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Moore",
-        "Gets",
-        "FrontRow",
-        "Seat",
-        "Katseyes",
-        "Breakdown",
-        "Animal",
-        "Video"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45685,6 +45681,105 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.8 - 10 km ESE of Pearsall, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026oobspi",
+      "source": "USGS",
+      "timestamp": "2026-07-26T00:00:10.860000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-25 23:03:55 UTC2026-07-25 23:03:55 UTC at epicenterLocation28.846\u00b0N 98.998\u00b0WDepth5.06 km (3.14 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Pearsall",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.2 - 23 km ESE of Nenana, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oqmiwy",
+      "source": "USGS",
+      "timestamp": "2026-07-25T23:56:18.183000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-25 23:55:10 UTC2026-07-25 23:55:10 UTC at epicenterLocation64.481\u00b0N 148.637\u00b0WDepth6.30 km (3.91 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Nenana",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.2 - 6 km SSW of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75007947",
+      "source": "USGS",
+      "timestamp": "2026-07-25T23:54:03.330000+00:00",
+      "score": 17,
+      "summary": "Time2026-07-25 23:50:35 UTC2026-07-25 23:50:35 UTC at epicenterLocation19.154\u00b0N 155.504\u00b0WDepth30.78 km (19.13 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.1 - 31 km ESE of Minto, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026oqlzck",
@@ -52058,102 +52153,6 @@
         "Google News"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 10 km N of Tecate, B.C., MX",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40660866",
-      "source": "USGS",
-      "timestamp": "2026-07-24T20:28:50.977000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-24 20:25:19 UTC2026-07-24 20:25:19 UTC at epicenterLocation32.658\u00b0N 116.624\u00b0WDepth17.92 km (11.13 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tecate"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.4 - 46 km NW of Toyah, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026omarbb",
-      "source": "USGS",
-      "timestamp": "2026-07-24T20:28:23.610000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-24 20:22:32 UTC2026-07-24 20:22:32 UTC at epicenterLocation31.555\u00b0N 104.194\u00b0WDepth3.98 km (2.47 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Toyah",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.7 - 2 km SSW of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75007517",
-      "source": "USGS",
-      "timestamp": "2026-07-24T20:24:54.500000+00:00",
-      "score": 17,
-      "summary": "Time2026-07-24 20:21:27 UTC2026-07-24 20:21:27 UTC at epicenterLocation19.179\u00b0N 155.486\u00b0WDepth29.31 km (18.21 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
