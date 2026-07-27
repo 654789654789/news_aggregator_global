@@ -8412,7 +8412,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.5,
+      "trend_score": 8.4,
       "source_count": 12,
       "sources_reporting": [
         "Bloomberg",
@@ -13058,6 +13058,37 @@
     }
   ],
   "World": [
+    {
+      "title": "Mayo wins All-Ireland title, ending 75-year 'curse'",
+      "link": "https://www.abc.net.au/news/2026-07-27/mayo-wins-all-ireland-football-title-ending-75-year-curse/106960756",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-26T23:57:14+00:00",
+      "score": 15,
+      "summary": "A huge Gaelic football upset sees Mayo beat GAA giants Kerry in the All-Ireland football final and one of the stars of the team that ended a 75-year \"curse\" is headed to the AFL.",
+      "country": "Ireland",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "AllIreland"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Remote community wants answers after teacher reported for 'concerning' conduct",
       "link": "https://www.abc.net.au/news/2026-07-27/kalumburu-residents-child-safety-concerns-teacher-conduct/106939514",
@@ -19742,22 +19773,26 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-07-25T17:25:11+00:00",
-      "score": 10,
-      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-      "country": "India",
-      "region": "South Asia",
+      "title": "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds",
+      "link": "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-26T23:58:00+00:00",
+      "score": 15,
+      "summary": "Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place.",
+      "country": "Iran",
+      "region": "Middle East",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Iran"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19765,15 +19800,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "BBC"
+        "CNBC"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Here's the tech stock to buy in a market losing patience with tech",
       "link": "https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html",
@@ -23498,7 +23531,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.8,
+      "trend_score": 10.7,
       "source_count": 12,
       "sources_reporting": [
         "Bloomberg",
@@ -23508,7 +23541,7 @@
         "PBS",
         "Reuters"
       ],
-      "trend_accel": "+81%",
+      "trend_accel": "+80%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26384,40 +26417,6 @@
         "Livemint"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Caliber Mining and Logistics IPO listing: Shares debut at a decent premium, erase gains amid weak market sentiment",
-      "link": "https://www.livemint.com/market/ipo/caliber-mining-and-logistics-ipo-listing-shares-debut-at-a-decent-premium-erase-gains-amid-weak-market-sentiment-11784868456374.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-24T10:25:30+05:30",
-      "score": 14,
-      "summary": "Caliber Mining and Logistics' share price was listed at \u20b9504 on the BSE, a premium of 19% over the issue price of \u20b9424. On the NSE, the stock was listed at \u20b9500.25, 18% above the issue price.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mining",
-        "Logistics",
-        "IPO",
-        "Shares"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -34152,23 +34151,34 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Gill puts spotlight on India's fitness record",
-      "link": "https://www.cricinfo.com/ci/content/story/1546304.html?ex_cid=OTC-RSS",
-      "source": "Cricinfo",
-      "timestamp": "2026-07-19T23:49:36+00:00",
+      "title": "Martin Scorsese Stars in \u2018Family Blend\u2019 Directed by Daughter Francesca for Coffee Brand Lavazza",
+      "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/martin-scorsese-daughter-francesca-lavazza-coffee-series-1236656911/",
+      "source": "THR",
+      "timestamp": "2026-07-26T23:53:25+00:00",
       "score": 12,
-      "summary": "India's captain said the squad will need greater resilience for when next year's World Cup comes around",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Custom Feed",
-      "trust_score": 7,
+      "summary": "The iconic filmmaker jumps in front of the camera to star opposite his daughter in the five-episode branded series, which features cameos from Jason Biggs and Adrien Brody.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Indias"
+        "Scorsese",
+        "Stars",
+        "Family",
+        "Blend",
+        "Directed",
+        "Daughter",
+        "Francesca",
+        "Coffee",
+        "Brand",
+        "Lavazza"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -34177,15 +34187,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "Cricinfo"
+        "THR"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
     {
       "title": "Christopher Nolan Would Be \u201cTerrified\u201d To Make A Rom-Com: \u201cOne Of The Hardest Things In The World\u201d",
       "link": "https://deadline.com/2026/07/christopher-nolan-terrified-make-rom-com-1237004130/",
@@ -42195,45 +42203,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Paramount Agrees to Postpone Warner Bros. Merger Until After Antitrust Trial",
-      "link": "https://variety.com/2026/film/news/paramount-warner-bros-merger-postpone-antitrust-trial-1236820601/",
-      "source": "Variety",
-      "timestamp": "2026-07-24T19:40:12+00:00",
-      "score": 12,
-      "summary": "Paramount Skydance has reached an agreement with a coalition of state attorneys general to postpone the Warner Bros. Discovery merger until after an antitrust trial. The company entered a joint stipulation in the federal case on Friday afternoon agreeing not to close the $111 ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Agrees",
-        "Postpone",
-        "Warner",
-        "Bros",
-        "Merger",
-        "Until",
-        "After",
-        "Antitrust",
-        "Trial"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45968,6 +45937,70 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.4 - 11 km ESE of Gilroy, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406302",
+      "source": "USGS",
+      "timestamp": "2026-07-26T23:57:23.206000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-26 23:45:49 UTC2026-07-26 23:45:49 UTC at epicenterLocation36.967\u00b0N 121.452\u00b0WDepth4.79 km (2.98 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Gilroy"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.9 - 16 km WSW of Johannesburg, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661818",
+      "source": "USGS",
+      "timestamp": "2026-07-26T23:53:50.660000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-26 23:50:31 UTC2026-07-26 23:50:31 UTC at epicenterLocation35.335\u00b0N 117.809\u00b0WDepth4.95 km (3.08 mi)",
+      "country": "South Africa",
+      "region": "Africa",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Johannesburg"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
       "heat_level": "LOW"
     },
     {
@@ -52352,70 +52385,6 @@
       "trending": false,
       "trend_score": 0.0,
       "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWtpdWZ4NW1EX0RFb3dCV1hZYVU3ZmFESlp6Qnhhd2VLX1VXc293dFp6LUF0Mlo4YWdReXhWNGNkVWNqQS1hZmJjekx4aE1QbVJiaWp1Wl82RVVDdldZVFRhaEs2VEJPRWRRbkpQX0tDbEZ4U3FFdmVUWERaTDBHVmh1Y25RS2lpaWhhSmVzcHlUcmZzeUx4RDRobEl4aDZOYVA0T01lYWVOVDZV?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-07-25T20:37:09+00:00",
-      "score": 14,
-      "summary": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor Reuters",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ukrainian",
-        "Caspian",
-        "Sea"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 12 km SE of Petrolia, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75405672",
-      "source": "USGS",
-      "timestamp": "2026-07-25T20:31:46.139000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-25 20:30:11 UTC2026-07-25 20:30:11 UTC at epicenterLocation40.244\u00b0N 124.185\u00b0WDepth12.86 km (7.99 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Petrolia"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
       "sources_reporting": [
         "USGS"
       ],
