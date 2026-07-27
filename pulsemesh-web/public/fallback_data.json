@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "ICE launching operation in New York City",
+      "link": "https://thehill.com/policy/national-security/5992642-ice-queens-long-island-raids/",
+      "source": "The Hill",
+      "timestamp": "2026-07-27T20:01:20+00:00",
+      "score": 12,
+      "summary": "Immigration and Customs Enforcement (ICE) is launching operations in New York City, according to The Hill\u2019s sister network, NewsNation. NewsNation\u2019s Ali Bradley reported Monday that sources in ICE had told her New York City-based enforcement operations began Monday morning in ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "New",
+        "York",
+        "City"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Reform UK reports Green leader Zack Polanski to police over Instagram post",
       "link": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -6601,23 +6634,31 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "FIR against four persons for dumping garbage at cleared blackspot in Bengaluru",
-      "link": "https://www.thehindu.com/news/national/karnataka/fir-against-four-persons-for-dumping-garbage-at-cleared-blackspot-in-banaswadi/article71269119.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-27T09:46:14+05:30",
-      "score": 14,
-      "summary": "The blackspot at Banaswadi had recently been cleared and beautified as part of the corporation\u2019s drive to eliminate garbage blackspots",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+      "link": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "source": "Wired",
+      "timestamp": "2026-07-27T20:08:00+00:00",
+      "score": 12,
+      "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Bengaluru"
+        "Claude",
+        "Chats",
+        "Exposed",
+        "Google",
+        "Bing",
+        "Search",
+        "Results"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6626,15 +6667,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "Wired"
       ],
-      "trend_accel": "+55%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Xbox\u2019s huge outage even blocked games on disc",
       "link": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
@@ -13037,22 +13076,28 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "AI and the rise of the universal entertainment app",
-      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-21T19:39:30+00:00",
+      "title": "Cabo Verde stunner gets people's vote as best World Cup goal",
+      "link": "https://www.abc.net.au/news/2026-07-28/cabo-verde-stunner-gets-people-s-vote-as-best-world-cup-goal/106964928",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-27T20:11:07+00:00",
       "score": 12,
-      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTub...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "A stunning strike from World Cup minnows Cabo Verde against Argentina is voted as the goal for the tournament.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Verde",
+        "World",
+        "Cup"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13062,13 +13107,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "France and Spain wildfire witnesses describe 'wall of flames', fear and stress",
       "link": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
@@ -19686,27 +19729,26 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-07-26T21:23:53+00:00",
-      "score": 12,
-      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
-      "country": "Israel",
-      "region": "Middle East",
+      "title": "Trump administration asks Supreme Court to intervene to allow mail-in voting restrictions",
+      "link": "https://www.cnbc.com/2026/07/27/trump-supreme-court-mail-in-voting-restrictions.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-27T20:10:27+00:00",
+      "score": 14,
+      "summary": "A federal appeals court on Saturday kept the restrictions blocked in 23 states that sued, finding states must prepare for potentially disruptive election changes.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "West",
-        "Bank",
-        "Palestinians"
+        "Supreme",
+        "Court"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19715,15 +19757,111 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "BBC"
+        "CNBC"
       ],
-      "trend_accel": "+56%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture",
+      "link": "https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-27T20:07:33+00:00",
+      "score": 15,
+      "summary": "President Donald Trump said Monday the U.S. has sold more than $13 billion of Venezuelan oil since taking control of the South American nation's energy exports.",
+      "country": "Venezuela",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Venezuela",
+        "Maduros"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Big earnings and a Fed meeting: What NYSE insider Jay Woods is watching this week",
+      "link": "https://www.cnbc.com/2026/07/27/big-earnings-and-a-fed-meetings-what-nyse-insider-jay-woods-is-watching-this-week.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-27T20:04:53+00:00",
+      "score": 12,
+      "summary": "It's a big week on Wall Street with a Federal Reserve meeting and a barrage of earnings \u2014 any of which could sway the stock market, NYSE insider Jay Woods says.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Fed",
+        "What",
+        "NYSE",
+        "Jay",
+        "Woods"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Wall Street ends mixed as investors focus on tech earnings",
+      "link": "https://www.livemint.com/market/wall-street-ends-mixed-as-investors-focus-on-tech-earnings-11785182564454.html",
+      "source": "Livemint",
+      "timestamp": "2026-07-28T01:32:44+05:30",
+      "score": 14,
+      "summary": "USA-STOCKS/ (UPDATE 7, GRAPHIC):US STOCKS-Wall Street ends mixed as investors focus on tech earnings",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Street"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Dow closes more than 250 points higher, aided by cooling oil prices: Live updates",
       "link": "https://www.cnbc.com/2026/07/26/stock-market-today-live-updates.html",
@@ -26286,146 +26424,67 @@
       ],
       "trend_accel": "+54%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Investors are in the dark about the Fed\u2019s decision this week \u2014 and that\u2019s just how Warsh wants it",
-      "link": "https://www.marketwatch.com/story/investors-are-in-the-dark-about-the-feds-decision-this-week-and-thats-just-how-warsh-wants-it-c9cbfd3f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-07-25T11:00:00+00:00",
-      "score": 12,
-      "summary": "Will Kevin Warsh support a rate hike? Fasten your seat belts for the decision on Wednesday.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Feds",
-        "Warsh"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Saudi military strikes Houthi targets in Yemen after the Iran-backed militia attacked Red Sea shipping",
-      "link": "https://www.cnbc.com/2026/07/25/saudi-military-strikes-iran-backed-houthi-targets-yemen.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-25T10:22:58+00:00",
-      "score": 12,
-      "summary": "Saudi Arabia intercepted two ballistic missiles from Yemen, Greek security sources told Reuters, as fighting in a second front in the Iran war escalates.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Houthi",
-        "Yemen",
-        "Iranbacked",
-        "Red",
-        "Sea"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "AU Small Finance Bank Q1 results 2026: Net profit grows 37% to  \u20b9796 crore, NII up 32%",
-      "link": "https://www.livemint.com/market/stock-market-news/au-small-finance-bank-q1-results-2026-net-profit-grows-37-to-rs-796-crore-nii-up-32-11784970458420.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-25T14:53:43+05:30",
-      "score": 15,
-      "summary": "AU Small Finance Bank's Q1FY27 results revealed a 37% YoY rise in net profit to \u20b9796 crore, driven by a 32% growth in net interest income and reduced provisions. Despite a slight increase in non-performing assets, the bank demonstrated strong operational performance.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Small",
-        "Finance",
-        "Bank",
-        "Net",
-        "NII"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "SpaceX Starship Flight 13 launch updates: SpaceX 'over the moon' after Starship launch",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0w1WG1YemVFbHNiUzJLLWVxZTF4cUlnTWVaSXNCTlIxMk5GTElfVE1hdWZBZlFicjB1aTRnZVpkR2lEeG1sMkgydHBfSUh2VURYOVEtTWdrdEw2WFVxeDJsa2xCUHZ1N3laQnpfd3pmakpxajM5TWtOTlpxcTBkMzdfTjhnNVlzek40TDF3?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-07-25T09:22:17+00:00",
-      "score": 15,
-      "summary": "SpaceX Starship Flight 13 launch updates: SpaceX 'over the moon' after Starship launch space.comLaunch preview: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work Spaceflight NowSpaceX launches massive Starship rocket in first test fligh...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Starship",
-        "Flight",
-        "SpaceX"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Satellite images could help target sustainable farming support for small fields",
+      "link": "https://phys.org/news/2026-07-satellite-images-sustainable-farming-small.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-27T16:10:03-04:00",
+      "score": 12,
+      "summary": "For decades, satellites have helped scientists observe Earth's changing landscapes. Now, they could also help answer one of agriculture's most pressing questions: How can the world produce more food while reducing its environmental impact?",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "First 3D views explain how primate cone pigments distinguish red from green",
+      "link": "https://phys.org/news/2026-07-3d-views-primate-cone-pigments.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-27T16:10:01-04:00",
+      "score": 15,
+      "summary": "Human color vision depends on three types of cone cells in the retina. Although all three contain the same light-absorbing molecule, 11-cis-retinal, differences in the surrounding protein determine sensitivity to red, green or blue light. Understanding how these subtle protein...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Soil carbon effectively measured by new, efficient AI model",
       "link": "https://phys.org/news/2026-07-soil-carbon-effectively-efficient-ai.html",
@@ -32565,64 +32624,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Neutral catalysts achieve chalcogen-bonding asymmetry",
-      "link": "https://phys.org/news/2026-07-neutral-catalysts-chalcogen-bonding-asymmetry.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-23T15:40:05-04:00",
-      "score": 10,
-      "summary": "Chemists have demonstrated that neutral chalcogen-bond donors can induce asymmetry in chemical reactions, addressing a challenge that has limited the development of chalcogen-bonding catalysis.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Zebrafish rebuild damaged 'second brain' networks in nine days, offering clues for nerve repair",
-      "link": "https://phys.org/news/2026-07-zebrafish-rebuild-brain-networks-days.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-23T15:30:01-04:00",
-      "score": 12,
-      "summary": "Why can zebrafish regenerate damaged gut nerves while humans largely cannot? Michigan State University researchers have developed a new research tool that allows them to remove gut neurons in zebrafish and watch them regenerate in real time, helping scientists investigate one ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -34064,6 +34065,48 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "SAG-AFTRA Board Adopts Resolution Opposing Paramount-WBD Deal But Stops Short Of Joining WGA Lawsuit",
+      "link": "https://deadline.com/2026/07/sag-aftra-resolution-opposing-paramount-wbd-deal-no-lawsuit-1237004795/",
+      "source": "Deadline",
+      "timestamp": "2026-07-27T20:03:35+00:00",
+      "score": 14,
+      "summary": "SAG-AFTRA leadership has taken a slightly more aggressive stand against Paramount Skydance\u2019s pending acquisition of Warner Bros. Discovery, but it has stopped short of joining its sister union the Writers Guild of America in bringing the issue to court. The union\u2019s National Bo...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Board",
+        "Adopts",
+        "Resolution",
+        "Opposing",
+        "ParamountWBD",
+        "Deal",
+        "But",
+        "Stops",
+        "Short",
+        "Joining",
+        "WGA",
+        "Lawsuit"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Netflix Ski Drama \u2018Queenstown\u2019 Rounds Out Series Regular Cast With Anna Baryshnikov & BeBe Orleans Among 5",
       "link": "https://deadline.com/2026/07/netflix-queenstown-cast-anna-baryshnikov-bebe-orleans-1237004655/",
@@ -42061,46 +42104,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Dungeons & Dragons\u2019 Sequel Was Written but May Never Be Filmed Due to \u2018Financial Reasons\u2019",
-      "link": "https://variety.com/2026/film/news/dungeons-and-dragons-sequel-written-never-filmed-financial-1236821132/",
-      "source": "Variety",
-      "timestamp": "2026-07-25T21:48:39+00:00",
-      "score": 12,
-      "summary": "As it turns out, a sequel to \u201cDungeons & Dragons: Honor Among Thieves\u201d was written. But whether fans will ever get to see it produced for the big screen remains to be seen due to \u201cfinancial\u201d reasons. \u201cWe actually wrote a sequel to \u2018Dungeons & Dragons.\u2019 We were hired to write i...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Dragons",
-        "Sequel",
-        "Was",
-        "Written",
-        "May",
-        "Never",
-        "Filmed",
-        "Due",
-        "Financial",
-        "Reasons"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -46048,6 +46051,99 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Zambia",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029757",
+      "source": "GDACS",
+      "timestamp": "2026-07-27T20:10:49+00:00",
+      "score": 12,
+      "summary": "On 23/07/2026, a forest fire started in Zambia, until 25/07/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Zambia"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Angola",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029849",
+      "source": "GDACS",
+      "timestamp": "2026-07-27T20:08:51+00:00",
+      "score": 12,
+      "summary": "On 23/07/2026, a forest fire started in Angola, until 27/07/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Angola"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Australia",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029841",
+      "source": "GDACS",
+      "timestamp": "2026-07-27T20:04:29+00:00",
+      "score": 12,
+      "summary": "On 25/07/2026, a forest fire started in Australia, until 27/07/2026.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Australia"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+59%",
       "heat_level": "LOW"
     },
     {
@@ -52406,103 +52502,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 9 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75406077",
-      "source": "USGS",
-      "timestamp": "2026-07-26T16:29:16.920000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-26 16:27:41 UTC2026-07-26 16:27:41 UTC at epicenterLocation38.838\u00b0N 122.825\u00b0WDepth1.93 km (1.20 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 87 km ESE of Egegik, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ortgft",
-      "source": "USGS",
-      "timestamp": "2026-07-26T16:22:49.178000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-26 16:21:38 UTC2026-07-26 16:21:38 UTC at epicenterLocation57.968\u00b0N 155.969\u00b0WDepth15.20 km (9.44 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Egegik",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.4 - 2 km NNW of Laguna Niguel, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661602",
-      "source": "USGS",
-      "timestamp": "2026-07-26T16:15:53.792000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-26 15:31:59 UTC2026-07-26 15:31:59 UTC at epicenterLocation33.540\u00b0N 117.714\u00b0WDepth11.69 km (7.26 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Laguna",
-        "Niguel"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
