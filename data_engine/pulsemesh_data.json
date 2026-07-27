@@ -1,6 +1,48 @@
 {
   "Politics": [
     {
+      "title": "Trump Asks Supreme Court to Allow Order Restricting Mail Voting",
+      "link": "https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html",
+      "source": "NYT",
+      "timestamp": "2026-07-27T21:25:50+00:00",
+      "score": 14,
+      "summary": "The Trump administration asks justices to intervene after an appeals court blocked key parts of a mail-in voting executive order.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Asks",
+        "Supreme",
+        "Court",
+        "Allow",
+        "Order",
+        "Restricting",
+        "Mail",
+        "Voting"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 8.9,
+      "source_count": 12,
+      "sources_reporting": [
+        "BBC",
+        "Guardian",
+        "NHK",
+        "NYT",
+        "PBS"
+      ],
+      "trend_accel": "+74%",
+      "heat_level": "SURGING"
+    },
+    {
       "title": "Police make inquiries after Farage reports Polanski post for \u2018inciting murder\u2019",
       "link": "https://www.theguardian.com/politics/2026/jul/27/police-make-inquiries-after-farage-reports-polanski-post-for-inciting",
       "source": "Guardian",
@@ -251,14 +293,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 8.9,
+      "source_count": 17,
       "sources_reporting": [
+        "AP",
+        "BBC",
+        "Guardian",
+        "NYT",
         "PBS"
       ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
+      "trend_accel": "+73%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Iran War Enters 6th Month and a Period of Greater Uncertainty",
@@ -4876,8 +4922,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.0,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 10,
       "sources_reporting": [
         "Bloomberg",
@@ -5472,8 +5518,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.0,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -6603,24 +6649,26 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Our exclusive behind-the-scenes access at No 10 as Andy Burnham became PM",
-      "link": "https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-07-27T05:00:13+00:00",
+      "title": "Razer\u2019s analog Huntsman V3 Pro is over 20 percent off",
+      "link": "https://www.theverge.com/gadgets/971557/razer-huntsman-v3-pro-tkl-optical-analog-gaming-keyboard-deal-sale",
+      "source": "Verge",
+      "timestamp": "2026-07-27T17:29:22-04:00",
       "score": 15,
-      "summary": "Laura Kuenssberg was given unprecedented access to the new prime minister\u2019s first days in power.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "summary": "Gaming keyboards have evolved over the years to add RGB LEDs, extra knobs, and buttons with screens, but one feature has remained fairly consistent: the mechanical switch. That\u2019s slowly changing, with brands introducing adjustable optical switches that are more customizable an...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Andy",
-        "Burnham"
+        "Huntsman",
+        "Pro"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6631,13 +6679,42 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "BBC"
+        "Verge"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "source": "TechCrunch",
+      "timestamp": "2026-07-27T21:17:11+00:00",
+      "score": 14,
+      "summary": "Businesses that rely wholly on the major AI labs ultimately won't survive, Microsoft CEO Satya Nadella predicts.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nadella"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "New Firefighting Technologies Could Help Battle Blazes Like Those in France and Spain",
       "link": "https://www.wired.com/story/firefighting-technologies-battle-wildfires-france-spain/",
@@ -13015,27 +13092,25 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "OpenAI Models Escaped Containment and Hacked HuggingFace",
-      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
-      "source": "Wired",
-      "timestamp": "2026-07-21T22:50:01+00:00",
-      "score": 14,
-      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Live: ASX to open lower as the price of oil plunges",
+      "link": "https://www.abc.net.au/news/2026-07-28/asx-markets-business-news-live-updates-tuesday-28-july/106965036",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-27T21:27:57+00:00",
+      "score": 12,
+      "summary": "The Australian share market is set to open lower as the price of oil plunges more than 9 per cent. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Models",
-        "Escaped",
-        "Containment",
-        "Hacked",
-        "HuggingFace"
+        "ASX"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13044,29 +13119,33 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "Wired"
+        "ABC Australia"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
     {
-      "title": "Neill Blomkamp\u2019s new zombie AI \u2018film\u2019 is just slop warmed over",
-      "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "source": "Verge",
-      "timestamp": "2026-07-21T18:06:43-04:00",
-      "score": 14,
-      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studio...",
+      "title": "Georgia's Okefenokee Swamp becomes a UNESCO World Heritage site",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5906359-e1/georgias-okefenokee-swamp-becomes-a-unesco-world-heritage-site",
+      "source": "NPR",
+      "timestamp": "2026-07-27T17:22:33-04:00",
+      "score": 12,
+      "summary": "The Okefenokee Swamp in Georgia has joined the list of UNESCO World Heritage sites.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Blomkamps"
+        "Okefenokee",
+        "Swamp",
+        "UNESCO",
+        "World",
+        "Heritage"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13077,13 +13156,75 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Verge"
+        "NPR"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "US singer D4vd to go on trial for murder in death of teen",
+      "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-07-27T21:17:05+00:00",
+      "score": 15,
+      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dvd"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Upstate New York town memorializes Montreal girl allegedly killed by father",
+      "link": "https://www.cbc.ca/news/canada/montreal/upstate-new-york-town-memorializes-slain-montreal-girl-9.7286450?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-07-27T17:16:45-04:00",
+      "score": 12,
+      "summary": "A year after a nine-year-old girl from Montreal was found dead near a swamp in Upstate New York, local resident Bridgette Cruz says new road signs are keeping her memory alive.",
+      "country": "Canada",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "New",
+        "York",
+        "Montreal"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CBC News"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Trump says Iran war talks taking place during lull in strikes",
       "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
@@ -19580,58 +19721,25 @@
       ],
       "trend_accel": "+86%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "'At the gates': Wildfires edge toward wine city of Bordeaux",
-      "link": "https://www.abc.net.au/news/2026-07-27/wildfires-threaten-bordeaux-as-france-and-spain-battle-blazes/106960968",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-26T22:20:50+00:00",
-      "score": 12,
-      "summary": "Flames from wildfires burning in south-west France are creeping ever closer to Bordeaux, but the mayor says, for now, an evacuation is not on the cards.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
+      "link": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-27T21:29:40+00:00",
+      "score": 17,
+      "summary": "The backstop would let OpenAI raise debt for a data center campus in Pike County, Ohio, on the strength of Nvidia's credit.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Wildfires",
-        "Bordeaux"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "At no point did government stop students from protesting: Nirmala Sitharaman",
-      "link": "https://timesofindia.indiatimes.com/india/at-no-point-did-government-stop-students-from-protesting-nirmala-sitharaman/articleshow/132649820.cms",
-      "source": "Times of India",
-      "timestamp": "2026-07-27T03:50:01+05:30",
-      "score": 12,
-      "summary": "The government allowed student protests and focused on conducting the NEET re-examination promptly. Culprits involved in paper leaks were arrested and brought before the judicial process. A timely re-examination prevented a year's academic disruption for students. Education Mi...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Nirmala",
-        "Sitharaman"
+        "OpenAI"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19642,64 +19750,27 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Times of India"
+        "CNBC"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+58%",
       "heat_level": "LOW"
     },
     {
-      "title": "Breaking: AFL confirms State of Origin future with Victoria left out of 2027 game",
-      "link": "https://www.abc.net.au/news/2026-07-27/afl-confirms-state-of-origin-future/106961174",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-26T22:19:38+00:00",
-      "score": 15,
-      "summary": "The AFL confirms the future of State of Origin, with Victoria to miss out on the next match in 2027.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
+      "link": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-27T21:26:03+00:00",
+      "score": 14,
+      "summary": "Elon Musk's space company has wiped off more than $1.2 trillion in market cap since hitting a high of $225.64 per share in June.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "AFL",
-        "State",
-        "Origin",
-        "Victoria"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Australia news live: Jacinta Allan loses majority caucus support after meeting of state Labor factions; national AusAlert test to blare siren",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-07-26T22:18:51+00:00",
-      "score": 12,
-      "summary": "Follow the day\u2019s news liveGet our breaking news email, free app or daily news podcastIt\u2019s also well worth watching this video of Guardian Australia\u2019s community affairs reporter Adeshola Ore\u2019s interview with Barnaby Joyce about Armidale\u2019s refugee resettlement program and One Na...",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Jacinta",
-        "Allan",
-        "Labor",
-        "AusAlert"
+        "Tesla"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19708,15 +19779,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "Guardian"
+        "CNBC"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Apple ends day as world's most valuable company, passing Nvidia",
       "link": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
@@ -26340,80 +26409,69 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Metals Fluctuate as Middle East Escalation Keeps Bulls in Check",
-      "link": "https://www.livemint.com/market/metals-fluctuate-as-middle-east-escalation-keeps-bulls-in-check-11784986837407.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-25T19:10:37+05:30",
-      "score": 12,
-      "summary": "Base metals fluctuated at the end of the week as the threat of an escalating conflict in the Middle East \u2014 and more turbulence for the global economy \u2014 kept a lid on optimism.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Fluctuate",
-        "Middle",
-        "East",
-        "Escalation",
-        "Keeps",
-        "Bulls",
-        "Check"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Pro stock pickers cannot beat simple math \u2014 war in the Middle East is proving it",
-      "link": "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-07-25T13:36:00+00:00",
-      "score": 14,
-      "summary": "Active stock pickers almost always lose against the broad market. They can\u2019t beat simple math.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Middle",
-        "East"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Low-cost spray can help tomatoes grow in salty soils",
+      "link": "https://phys.org/news/2026-07-spray-tomatoes-salty-soils.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-27T17:30:01-04:00",
+      "score": 10,
+      "summary": "A simple, low-dose leaf spray could give farmers a practical new tool to keep growing tomatoes on land that salt has rendered increasingly unproductive, according to a study led by a researcher at The University of Texas at El Paso.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Hubble shows star formation in Andromeda galaxy is winding down",
+      "link": "https://phys.org/news/2026-07-hubble-star-formation-andromeda-galaxy.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-27T17:20:09-04:00",
+      "score": 12,
+      "summary": "A new study using data from NASA's Hubble Space Telescope finds that star formation in the nearby Andromeda galaxy has undergone a 500-million-year decline, with an even steeper drop in the last 40 million years. Andromeda, a spiral galaxy comparable in size to our Milky Way, ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Andromeda"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Burning soil and peat drove most emissions in Canada's record 2023 wildfire season, study finds",
       "link": "https://phys.org/news/2026-07-soil-peat-drove-emissions-canada.html",
@@ -32543,71 +32601,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "The sex life of treefrogs: How females build better nests by mating with multiple partners",
-      "link": "https://phys.org/news/2026-07-sex-life-treefrogs-females-multiple.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-23T17:00:02-04:00",
-      "score": 12,
-      "summary": "African gray foam-nest treefrogs (Chiromantis xerampelina) are common across the savannas and dry forests of southeastern Africa. Despite their unremarkable outward appearance, these small animals display some of the most intriguing reproductive behaviors known to science. Mos...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "How"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Machine learning narrows search for additional particles in the Higgs boson family",
-      "link": "https://phys.org/news/2026-07-machine-narrows-additional-particles-higgs.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-23T16:50:01-04:00",
-      "score": 12,
-      "summary": "What if the Higgs boson found in 2012 is not alone but is the only sibling we have encountered so far? Scientists at CERN discovered the particle that year, and it was a major discovery because it explained how other particles acquire mass. For a long time, scientists thought ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Higgs"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 16,
-      "sources_reporting": [
-        "AP",
-        "BBC",
-        "Phys.org",
-        "Reuters"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "HOT"
     }
   ],
   "Sports": [
@@ -34017,6 +34010,162 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Regina Hall Joins Dwayne Johnson In Benny Safdie\u2019s Next Film \u2018Lizard Music\u2019 From United Artists And Amazon MGM Studios",
+      "link": "https://deadline.com/2026/07/regina-hall-dwayne-johnson-benny-safdies-lizard-music-1237004690/",
+      "source": "Deadline",
+      "timestamp": "2026-07-27T21:30:00+00:00",
+      "score": 12,
+      "summary": "EXCLUSIVE: Regina Hall has joined Dwayne Johnson in Amazon MGM Studios\u2019 and United Artists\u2019 live-action/CGI hybrid film, Lizard Music, from director Benny Safdie. Theo Leber, Alicia Silverstone and Tim Heidecker are also part of the ensemble. Besides starring, Johnson is also ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hall",
+        "Joins",
+        "Dwayne",
+        "Johnson",
+        "Benny",
+        "Safdies",
+        "Next",
+        "Film",
+        "Lizard",
+        "Music",
+        "United",
+        "Artists",
+        "Amazon",
+        "MGM",
+        "Studios"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "BuzzFeed Cutting Staff By 35% Under New Owner Byron Allen",
+      "link": "https://deadline.com/2026/07/buzzfeed-layoffs-byron-allen-1237004937/",
+      "source": "Deadline",
+      "timestamp": "2026-07-27T21:26:51+00:00",
+      "score": 15,
+      "summary": "Two months after Byron Allen closed his purchase of BuzzFeed, the online publisher said it plans to cuta hefty 35% of staff and dedicated contractors across its brands. \u201cThe reduction in workforce plan is intended to advance the company\u2019s path towards profitability and positiv...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cutting",
+        "Staff",
+        "Under",
+        "New",
+        "Owner",
+        "Byron",
+        "Allen"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "D4vd Murder Case May Go to Trial, Judge Rules",
+      "link": "https://www.nytimes.com/2026/07/27/arts/music/d4vd-celesete-rivas-hernandez-murder.html",
+      "source": "NYT",
+      "timestamp": "2026-07-27T21:26:20+00:00",
+      "score": 15,
+      "summary": "The decision capped a five-day preliminary hearing in which prosecutors detailed how and why they say the musician killed the 14-year-old Celeste Rivas Hernandez.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Murder",
+        "Case",
+        "May",
+        "Trial",
+        "Judge",
+        "Rules"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Case Against D4vd, Singer Accused of Murdering Teen, Will Go to Trial",
+      "link": "https://www.rollingstone.com/music/music-news/d4vd-celeste-rivas-murder-prosecutors-1235599111/",
+      "source": "Rolling Stone",
+      "timestamp": "2026-07-27T21:16:41+00:00",
+      "score": 17,
+      "summary": "Musican was a \u201cvery clever adult\u201d who sexually abused Celeste Rivas Hernandez and \u201cgaslit\u201d her before murdering her, prosecutors argued",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Against",
+        "Dvd",
+        "Singer",
+        "Accused",
+        "Murdering",
+        "Teen",
+        "Will",
+        "Trial"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Rolling Stone"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Bold Voice of Contemporary Horror\u2019 Comic-Con Panelists Predict the Four Biggest Upcoming Trends in Genre Filmmaking",
       "link": "https://variety.com/2026/film/features/horror-movies-four-trends-comic-con-1236821740/",
@@ -41890,166 +42039,6 @@
       ],
       "trend_accel": "+80%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Stephen King\u2019s \u2018Carrie\u2019 Series Sets October Release Date, Drops Horrifying New Trailer",
-      "link": "https://variety.com/2026/tv/news/carrie-tv-series-trailer-release-date-mike-flanagan-1236807045/",
-      "source": "Variety",
-      "timestamp": "2026-07-26T00:50:00+00:00",
-      "score": 14,
-      "summary": "Amazon Prime Video has released a new teaser trailer for \u201cCarrie,\u201d the TV adaptation of Stephen King\u2019s classic horror novel. All eight episodes of the series will debut on Oct. 7. The series is a \u201cbold and timely reimagining of the story of misfit high-schooler Carrie White, w...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kings",
-        "Carrie",
-        "Series",
-        "Sets",
-        "October",
-        "Release",
-        "Date",
-        "Drops",
-        "Horrifying",
-        "New",
-        "Trailer"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Prime Video Unveils Teaser, Release Date for Mike Flanagan\u2019s \u2018Carrie\u2019 Series",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/prime-video-carrie-series-teaser-trailer-1236655407/",
-      "source": "THR",
-      "timestamp": "2026-07-26T00:50:00+00:00",
-      "score": 12,
-      "summary": "At the end of the \u2018Carrie\u2019 panel at San Diego Comic-Con, showrunner Mike Flanagan announced that all eight episodes of the series adaptation of Stephen King\u2019s classic will premiere on Oct. 7.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Video",
-        "Unveils",
-        "Teaser",
-        "Release",
-        "Date",
-        "Mike",
-        "Flanagans",
-        "Carrie",
-        "Series"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "John Cena Races to Find a Nuclear Warhead in \u2018Matchbox the Movie\u2019 Trailer",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/john-cena-matchbox-the-movie-trailer-watch-1236656615/",
-      "source": "THR",
-      "timestamp": "2026-07-26T00:39:07+00:00",
-      "score": 14,
-      "summary": "Jessica Biel also stars in Sam Hargrave's feature that debuted its first footage at Comic-Con ahead of its fall launch.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Cena",
-        "Races",
-        "Find",
-        "Nuclear",
-        "Warhead",
-        "Matchbox",
-        "Movie",
-        "Trailer"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Widow\u2019s Bay\u2019 Creator Reveals Which Major Character Wasn\u2019t In Original Script: \u201cBurn Every Copy\u201d",
-      "link": "https://deadline.com/2026/07/widows-bay-creator-major-character-wasnt-in-original-script-1237003692/",
-      "source": "Deadline",
-      "timestamp": "2026-07-25T23:49:40+00:00",
-      "score": 12,
-      "summary": "As Widow\u2019s Bay gears up for another tourist season, creator Katie Dippold reflected on the show\u2019s evolution at San Diego Comic-Con. During Apple TV\u2019s Hall H panel on Saturday, Dippold revealed that Stephen Root\u2019s Wyck was not originally part of the pilot script, which she has ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bay",
-        "Creator",
-        "Reveals",
-        "Which",
-        "Major",
-        "Character",
-        "Wasnt",
-        "Original",
-        "Script",
-        "Burn",
-        "Every",
-        "Copy"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -42258,7 +42247,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.4,
+      "trend_score": 8.3,
       "source_count": 16,
       "sources_reporting": [
         "Bloomberg",
@@ -42267,7 +42256,7 @@
         "NHK",
         "Vogue"
       ],
-      "trend_accel": "+69%",
+      "trend_accel": "+68%",
       "heat_level": "SURGING"
     },
     {
@@ -45963,6 +45952,70 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 46 km NW of Toyah, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026orppps",
+      "source": "USGS",
+      "timestamp": "2026-07-27T21:22:33.292000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-27 21:16:16 UTC2026-07-27 21:16:16 UTC at epicenterLocation31.552\u00b0N 104.191\u00b0WDepth4.53 km (2.81 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Toyah",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 31 km SE of Minto, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026otzeab",
+      "source": "USGS",
+      "timestamp": "2026-07-27T21:19:34.118000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-27 21:18:18 UTC2026-07-27 21:18:18 UTC at epicenterLocation64.987\u00b0N 148.801\u00b0WDepth7.50 km (4.66 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Minto",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
       "heat_level": "LOW"
     },
     {
@@ -52353,69 +52406,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 16 km SE of Julian, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40661634",
-      "source": "USGS",
-      "timestamp": "2026-07-26T17:48:49.010000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-26 17:45:21 UTC2026-07-26 17:45:21 UTC at epicenterLocation32.995\u00b0N 116.458\u00b0WDepth11.07 km (6.88 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Julian"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.5 - 53 km N of Arauco, Argentina",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3ia",
-      "source": "USGS",
-      "timestamp": "2026-07-26T17:46:44.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-26 17:29:13 UTC2026-07-26 17:29:13 UTC at epicenterLocation28.097\u00b0S 66.726\u00b0WDepth157.11 km (97.63 mi)",
-      "country": "Argentina",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Arauco",
-        "Argentina"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
