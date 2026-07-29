@@ -1,6 +1,46 @@
 {
   "Politics": [
     {
+      "title": "Trump Unveils $22.5 Billion Redesign of Dulles Airport",
+      "link": "https://www.nytimes.com/2026/07/29/us/politics/trump-dulles-airport-redesign.html",
+      "source": "NYT",
+      "timestamp": "2026-07-29T21:19:55+00:00",
+      "score": 17,
+      "summary": "The project would make the airport easier to navigate and include a new United lounge, officials said. It\u2019s part of the president\u2019s plans to remake the Washington area.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Unveils",
+        "Billion",
+        "Redesign",
+        "Dulles",
+        "Airport"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 10.8,
+      "source_count": 17,
+      "sources_reporting": [
+        "AP",
+        "Guardian",
+        "NPR",
+        "NYT",
+        "PBS",
+        "The Hill"
+      ],
+      "trend_accel": "+80%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "OMR residents want FOBs to be repaired",
       "link": "https://www.thehindu.com/news/cities/chennai/omr-residents-want-fobs-to-be-repaired/article71282872.ece",
       "source": "The Hindu",
@@ -56,14 +96,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 10.8,
+      "source_count": 14,
       "sources_reporting": [
-        "PBS"
+        "AP",
+        "BBC",
+        "Guardian",
+        "NYT",
+        "PBS",
+        "The Hill"
       ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Trump shrugs off Cornyn\u2019s hold on Blanche: \u2018I heard he\u2019s going through quite nicely\u2019",
@@ -119,14 +164,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 10.5,
+      "source_count": 11,
       "sources_reporting": [
+        "BBC",
+        "NPR",
+        "NYT",
+        "PBS",
+        "PBS",
         "The Hill"
       ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
+      "trend_accel": "+77%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Noah Kahan hits Trump over use of song in social post: \u2018Would never approve\u2019",
@@ -3155,8 +3205,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -3752,8 +3802,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -4258,8 +4308,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -6648,26 +6698,27 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "DVAC conducts searches at premises linked to former DMK Minister Senthilbalaji in Karur",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/dvac-conducts-searches-at-premises-linked-to-former-dmk-minister-senthilbalaji-in-karur/article71280092.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-07-29T11:56:02+05:30",
-      "score": 12,
-      "summary": "The searches were said to be linked to alleged malpractices in the sales and supply of Indian-Made Foreign Liquor at TASMAC outlets during the previous DMK regime",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Discover what\u2019s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "timestamp": "2026-07-29T21:16:39+00:00",
+      "score": 17,
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "DMK",
-        "Minister",
-        "Senthilbalaji",
-        "Karur"
+        "SaaS",
+        "TechCrunch",
+        "Disrupt"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6676,15 +6727,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
       "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
@@ -13134,24 +13183,65 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
+    }
+  ],
+  "World": [
+    {
+      "title": "New Strikes Engulf More Countries in the Iran War",
+      "link": "https://www.nytimes.com/2026/07/29/world/middleeast/new-strikes-more-countries-iran-war.html",
+      "source": "NYT",
+      "timestamp": "2026-07-29T21:26:56+00:00",
+      "score": 12,
+      "summary": "President Trump threatened retribution after Iran fired missiles at U.S. military bases in Jordan. Strikes by U.S. and Saudi warplanes on Iranian-linked militias in Iraq were a further escalation after a lull.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Strikes",
+        "Engulf",
+        "More",
+        "Countries",
+        "Iran",
+        "War"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
     },
     {
-      "title": "AMD takes on Nvidia with its Helios AI rack scale system",
-      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-23T20:33:02+00:00",
-      "score": 14,
-      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "'Not going to let him get away': Rahul targets Shah over police action on NEET protesters",
+      "link": "https://timesofindia.indiatimes.com/india/not-going-to-let-him-get-away-rahul-gandhi-targets-amit-shah-over-police-action-on-neet-protesters-bjp-says-prove-it-or-apologise/articleshow/132721797.cms",
+      "source": "Times of India",
+      "timestamp": "2026-07-30T02:50:23+05:30",
+      "score": 12,
+      "summary": "Rahul Gandhi accused Home Minister Amit Shah of police excesses against protesters. He demanded Shah's dismissal and a Supreme Court-monitored probe into the actions. Gandhi also blamed the RSS for the education sector's current problems. Government ministers challenged Gandhi...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Nvidia",
-        "Helios"
+        "Rahul",
+        "Shah",
+        "NEET"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13160,15 +13250,84 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "Times of India"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "F1 to end season in Europe if no Middle East races",
+      "link": "https://www.abc.net.au/news/2026-07-30/f1-to-end-season-in-europe-if-no-middle-east-races/106974518",
+      "source": "ABC Australia",
+      "timestamp": "2026-07-29T21:16:27+00:00",
+      "score": 15,
+      "summary": "F1's chief executive confirms a deadline in mid-September to decide whether the season-concluding races in Qatar and Abu Dhabi must be held in Europe due to the Iran war.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Europe",
+        "Middle",
+        "East"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Two Tankers Hit in Apparent Drone Strike in Egypt",
+      "link": "https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html",
+      "source": "NYT",
+      "timestamp": "2026-07-29T21:16:15+00:00",
+      "score": 12,
+      "summary": "An explosion at a port on Egypt\u2019s Mediterranean coast set fire to two ships, including a U.S. gas storage tanker, according to maritime tracking firms.",
+      "country": "Egypt",
+      "region": "Africa",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Tankers",
+        "Hit",
+        "Apparent",
+        "Drone",
+        "Strike",
+        "Egypt"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "4 women accuse actor Jared Leto of criminal sexual conduct in BBC doc",
       "link": "https://www.cbc.ca/news/entertainment/jared-leto-criminal-sexual-conduct-bbc-documentary-9.7289199?cmp=rss",
@@ -19658,132 +19817,55 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Trump hails Lindsey Graham as 'American original' at Washington funeral",
-      "link": "https://www.abc.net.au/news/2026-07-29/lindsey-graham-funeral-guests-include-trump-netanyahu-zelenskyy/106969616",
-      "source": "ABC Australia",
-      "timestamp": "2026-07-28T21:49:04+00:00",
-      "score": 14,
-      "summary": "Donald Trump has praised Lindsey Graham at his Washington funeral, which included high-profile guests Benjamin Netanyahu and Volodymyr Zelenskyy.",
+      "title": "Meta's stock plunges almost 10% on disappointing guidance, dwindling free cash flow",
+      "link": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
+      "source": "CNBC",
+      "timestamp": "2026-07-29T21:26:17+00:00",
+      "score": 15,
+      "summary": "Meta issued a weaker-than-expected revenue forecast and narrowed its capex range for the year.",
       "country": "US",
       "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lindsey",
-        "Graham",
-        "American",
-        "Washington"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'A narcissist' - victim's family blasts Kohberger for challenging Idaho murder conviction",
-      "link": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-07-28T21:43:30+00:00",
-      "score": 12,
-      "summary": "The man accused of killing four students in Idaho is taking back his plea, which was made to avoid the death penalty.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kohberger",
-        "Idaho"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Japan Mounts Rescues in Buildings That Collapsed After Strong Quake",
-      "link": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
-      "source": "NYT",
-      "timestamp": "2026-07-28T21:43:17+00:00",
-      "score": 12,
-      "summary": "Emergency workers were racing to find people and extinguish fires after the 6.8 magnitude quake struck the southwestern prefecture of Kumamoto.",
-      "country": "Japan",
-      "region": "East Asia",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Seismic"
-      ],
-      "entities": [
-        "Mounts",
-        "Rescues",
-        "Buildings",
-        "That",
-        "Collapsed",
-        "After",
-        "Strong",
-        "Quake"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "A 7.1 magnitude quake hits Japan's southern Kyushu island and dozens are injured or missing",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZjJfSjA5NW44LXd6ZG56VGYzWFhybVkybHlGV2Q3bjZHazdsR1hoTGh3RmpsUlc1MnJNelRQbGFKejdjbjRwYzBSWFJQYnR1SW5WbGdZbXBvNm9OZXRGUDJVLVZWTUlQZGptdlRYTjhrNUczOWdUZE1FRHFOU1czaThocDdHQVNsTG8tWg?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-07-28T21:37:00+00:00",
-      "score": 15,
-      "summary": "A 7.1 magnitude quake hits Japan's southern Kyushu island and dozens are injured or missing AP NewsLive updates: Rescuers race to find survivors in collapsed shopping mall after Japan earthquake CNNJapan mall rebuilt after deadly 2016 earthquake destroyed in major temblor week...",
-      "country": "Japan",
-      "region": "East Asia",
-      "source_type": "Aggregator",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Seismic"
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
       ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Chase Sapphire Preferred's 100K bonus is ending soon: 4 reasons to apply now",
+      "link": "https://www.cnbc.com/select/chase-sapphire-preferred-100k-bonus-ending-soon-2026/",
+      "source": "CNBC",
+      "timestamp": "2026-07-29T21:20:09+00:00",
+      "score": 15,
+      "summary": "Chase Sapphire Preferred's 100K bonus is ending soon: Here's how the 100,000 points could be worth roughly $2,000 in travel.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
       "entities": [
-        "Japans",
-        "Kyushu"
+        "Sapphire",
+        "Preferreds"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19794,13 +19876,42 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Google News"
+        "CNBC"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Bond market is calling Warsh\u2019s bluff on inflation fight as yields surge",
+      "link": "https://www.marketwatch.com/story/bond-market-is-calling-warshs-bluff-on-inflation-fight-as-yields-surge-4700f9b5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-07-29T21:18:00+00:00",
+      "score": 14,
+      "summary": "The yield on the 30-year Treasury bond touched its highest level since 2007 during Warsh\u2019s press conference.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Warshs"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Meta's stock plunges 10% on light revenue guidance, dwindling free cash flow",
       "link": "https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
@@ -21654,7 +21765,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 16,
       "sources_reporting": [
         "Bloomberg",
@@ -26231,25 +26342,24 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Chase Freedom Rise review: A credit-building card with rewards and a path toward an upgrade",
-      "link": "https://www.cnbc.com/select/chase-freedom-rise-review/",
-      "source": "CNBC",
-      "timestamp": "2026-07-28T20:19:14+00:00",
-      "score": 12,
-      "summary": "The Chase Freedom Rise is a great starter card for those building credit, and existing Chase customers may have an easier time getting approved.",
+      "title": "A mechanically tunable molecular switch for circularly polarized light emission",
+      "link": "https://phys.org/news/2026-07-mechanically-tunable-molecular-circularly-polarized.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-29T17:20:05-04:00",
+      "score": 10,
+      "summary": "Over the past few decades, scientists have become increasingly interested in developing materials that do not simply withstand mechanical forces but instead respond to them in useful, detectable ways. For example, it is now possible to engineer materials that signal when they ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Freedom",
-        "Rise"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26257,61 +26367,28 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
-      "title": "Saudi Arabia has a new, and pricier, workaround to export its oil",
-      "link": "https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-07-28T20:12:00+00:00",
-      "score": 12,
-      "summary": "Loadings at a Mediterranean port have picked up as Saudi Arabia races to offer its oil to buyers through a lengthier \u2014 and more expensive \u2014 backdoor.",
-      "country": "Saudi Arabia",
-      "region": "Middle East",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Arabia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track",
-      "link": "https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html",
-      "source": "CNBC",
-      "timestamp": "2026-07-28T20:11:36+00:00",
-      "score": 17,
-      "summary": "Ford cited operational improvements, resilient vehicle pricing and a high sales mix of profitable products for its performance and the improved guidance.",
+      "title": "Interaction between sugar beet and its pest varies depending on drought stress, researchers find",
+      "link": "https://phys.org/news/2026-07-interaction-sugar-beet-pest-varies.html",
+      "source": "Phys.org",
+      "timestamp": "2026-07-29T17:20:03-04:00",
+      "score": 10,
+      "summary": "Drought creates increasing challenges for agriculture. As well as affecting crop growth, it also affects interactions with pests. A research team at the University of G\u00f6ttingen investigated how different levels of drought affect sugar beet's susceptibility to damage caused by ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "FSeries"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26321,13 +26398,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "The oceans near Australia may be the best places to fertilize for removing carbon dioxide",
       "link": "https://phys.org/news/2026-07-oceans-australia-fertilize-carbon-dioxide.html",
@@ -32385,70 +32460,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Hubble shows star formation in Andromeda galaxy is winding down",
-      "link": "https://phys.org/news/2026-07-hubble-star-formation-andromeda-galaxy.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-27T17:20:09-04:00",
-      "score": 12,
-      "summary": "A new study using data from NASA's Hubble Space Telescope finds that star formation in the nearby Andromeda galaxy has undergone a 500-million-year decline, with an even steeper drop in the last 40 million years. Andromeda, a spiral galaxy comparable in size to our Milky Way, ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Andromeda"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Burning soil and peat drove most emissions in Canada's record 2023 wildfire season, study finds",
-      "link": "https://phys.org/news/2026-07-soil-peat-drove-emissions-canada.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-27T17:10:03-04:00",
-      "score": 15,
-      "summary": "Most of the carbon released during Canada's record-breaking 2023 wildfire season came from burning soil and peat, rather than trees, according to new research from McMaster University.",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Canadas"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32522,7 +32533,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.4,
+      "trend_score": 6.3,
       "source_count": 15,
       "sources_reporting": [
         "Bloomberg",
@@ -32530,7 +32541,7 @@
         "Guardian",
         "NPR"
       ],
-      "trend_accel": "+57%",
+      "trend_accel": "+56%",
       "heat_level": "LOW"
     },
     {
@@ -33782,6 +33793,87 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018An Angelic Presence\u2019: Bruce Springsteen, Bono, Wilco\u2019s Nels Cline Pay Tribute Glen Hansard",
+      "link": "https://www.rollingstone.com/music/music-news/glen-hansard-death-tributes-reactions-artists-celebrities-1235600528/",
+      "source": "Rolling Stone",
+      "timestamp": "2026-07-29T21:30:34+00:00",
+      "score": 12,
+      "summary": "Finneas, Cat Power, Rachel Zegler, Lin-Manuel Miranda, and Warren Ellis remember the Irish musician who died Wednesday",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Angelic",
+        "Presence",
+        "Bruce",
+        "Springsteen",
+        "Bono",
+        "Wilcos",
+        "Nels",
+        "Cline",
+        "Pay",
+        "Tribute",
+        "Glen",
+        "Hansard"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Rolling Stone"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Megan Moroney Ends Denver Show Early Amid Illness: \u201cI\u2019m Truly So Sorry\u201d",
+      "link": "https://deadline.com/2026/07/megan-moroney-ends-denver-show-early-illness-1237012661/",
+      "source": "Deadline",
+      "timestamp": "2026-07-29T21:20:15+00:00",
+      "score": 12,
+      "summary": "Megan Moroney has rescheduled the Denver stop on her tour after ending her concert three songs in, due to illness. On Tuesday, the country artist announced that she would return to Ball Arena on Aug. 17 to give ticket holders her all during the postponed show on her Cloud 9 To...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Moroney",
+        "Ends",
+        "Denver",
+        "Show",
+        "Early",
+        "Amid",
+        "Illness",
+        "Truly",
+        "Sorry"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018The Man Will Burn\u2019 and the Battle Beneath Burning Man\u2019s Chaos",
       "link": "https://www.hollywoodreporter.com/tv/tv-features/the-man-will-burn-burning-man-documentary-hbo-max-1236659456/",
@@ -37839,7 +37931,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 20,
       "sources_reporting": [
         "AP",
@@ -41640,74 +41732,31 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "\u2018I Will Find You\u2019 Enters Netflix\u2019s Most Popular List As Streamer\u2019s Harlan Coben Deal Continues To Deliver",
-      "link": "https://deadline.com/2026/07/i-will-find-you-netflix-most-popular-list-harlan-coben-1237005888/",
-      "source": "Deadline",
-      "timestamp": "2026-07-28T19:21:44+00:00",
-      "score": 14,
-      "summary": "Flying largely under the radar, Harlan Coben has become Netflix\u2019s secret weapon. While not as flashy as some of Netflix\u2019s marquee franchises as Bridgerton or Stranger Things, the adaptations of his bestselling thrillers have become a cottage industry, delivering high volume an...",
+      "title": "8 Ways to Style the Silk Scarf, Inspired by the Fall 2026 Runways",
+      "link": "https://www.vogue.com/article/silk-scarf-outfit-ideas",
+      "source": "Vogue",
+      "timestamp": "2026-07-29T21:25:08+00:00",
+      "score": 15,
+      "summary": "From runway to reality, the scarf proves to be the most versatile accessory. Bookmark this story to inspire your next scarf look.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Entertainment",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Will",
-        "Find",
-        "You",
-        "Enters",
-        "Netflixs",
-        "Most",
-        "Popular",
-        "List",
-        "Streamers",
-        "Harlan",
-        "Coben",
-        "Deal",
-        "Continues",
-        "Deliver"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Prince William, Kate Middleton Share Glimpse Into Summer With Kids",
-      "link": "https://www.eonline.com/news/1434435/prince-william-kate-middleton-share-look-at-summer-with-their-kids?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-07-28T19:20:07+00:00",
-      "score": 12,
-      "summary": "Prince William and Kate Middleton had a royally fabulous summer. The Prince and Princess of Wales celebrated the sunny season with a plethora of activities alongside their kids Prince George, 13,...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "William",
-        "Kate",
-        "Middleton",
-        "Share",
-        "Glimpse",
-        "Into",
-        "Summer",
-        "Kids"
+        "Ways",
+        "Style",
+        "Silk",
+        "Scarf",
+        "Inspired",
+        "Fall",
+        "Runways"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -41718,13 +41767,48 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "E! News"
+        "Vogue"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
+    },
+    {
+      "title": "Dominic Sessa Served a Killer Casual Suit at the \u2018Tony\u2019 Premiere",
+      "link": "https://www.gq.com/story/dominic-sessa-celine-tony-premiere-07-29-2026",
+      "source": "GQ",
+      "timestamp": "2026-07-29T21:20:17+00:00",
+      "score": 12,
+      "summary": "The actor channeled Anthony Bourdain\u2019s effortless cool in crisp Celine tailoring.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sessa",
+        "Served",
+        "Killer",
+        "Casual",
+        "Suit",
+        "Tony",
+        "Premiere"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "GQ"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Zendaya and Tom Holland\u2019s \u2018Spider-Man\u2019 Tour Is All About Couple Style",
       "link": "https://www.vogue.com/slideshow/zendaya-tom-holland-spider-man-tour",
@@ -45824,6 +45908,101 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.3 - 8 km ESE of Cloverdale, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408277",
+      "source": "USGS",
+      "timestamp": "2026-07-29T21:28:25.757000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-29 21:26:48 UTC2026-07-29 21:26:48 UTC at epicenterLocation38.775\u00b0N 122.940\u00b0WDepth4.61 km (2.86 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Cloverdale"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.6 - 16 km NW of Parkfield, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408272",
+      "source": "USGS",
+      "timestamp": "2026-07-29T21:25:55.754000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-29 21:24:19 UTC2026-07-29 21:24:19 UTC at epicenterLocation35.997\u00b0N 120.558\u00b0WDepth0.69 km (0.43 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Parkfield"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 12 km ESE of Gilroy, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75408262",
+      "source": "USGS",
+      "timestamp": "2026-07-29T21:21:00.761000+00:00",
+      "score": 15,
+      "summary": "Time2026-07-29 21:19:23 UTC2026-07-29 21:19:23 UTC at epicenterLocation36.958\u00b0N 121.445\u00b0WDepth5.93 km (3.68 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Gilroy"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
       "heat_level": "LOW"
     },
     {
@@ -52166,104 +52345,6 @@
       "entities": [
         "NNW",
         "Houston",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 38 km NNE of Amboy, Washington",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714005143",
-      "source": "USGS",
-      "timestamp": "2026-07-28T22:08:09.980000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-28 21:53:03 UTC2026-07-28 21:53:03 UTC at epicenterLocation46.201\u00b0N 122.188\u00b0WDepth4.66 km (2.90 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Amboy",
-        "Washington"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 7 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75407462",
-      "source": "USGS",
-      "timestamp": "2026-07-28T22:01:19.049000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-28 21:59:45 UTC2026-07-28 21:59:45 UTC at epicenterLocation38.825\u00b0N 122.811\u00b0WDepth1.82 km (1.13 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 19 km WSW of Ivanof Bay, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovwnfp",
-      "source": "USGS",
-      "timestamp": "2026-07-28T21:59:32.347000+00:00",
-      "score": 15,
-      "summary": "Time2026-07-28 21:58:17 UTC2026-07-28 21:58:17 UTC at epicenterLocation55.862\u00b0N 159.794\u00b0WDepth13.00 km (8.08 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Ivanof",
-        "Bay",
         "Alaska"
       ],
       "severity_score": 3,
