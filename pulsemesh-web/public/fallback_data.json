@@ -13111,6 +13111,42 @@
   ],
   "World": [
     {
+      "title": "Oil tumbles over 6% as Trump's Iran talks revive hopes of easing Middle East tensions",
+      "link": "https://timesofindia.indiatimes.com/business/international-business/oil-tumbles-over-6-as-trumps-iran-talks-revive-hopes-of-easing-middle-east-tensions/articleshow/132816341.cms",
+      "source": "Times of India",
+      "timestamp": "2026-08-03T07:33:45+05:30",
+      "score": 15,
+      "summary": "Oil prices dropped significantly as United States and Iran negotiations offered hope for de-escalation. Uncertainty surrounds these talks and ongoing security risks persist along vital shipping lanes. Brent crude futures experienced a sharp decline after President Trump announ...",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Trumps",
+        "Iran",
+        "Middle",
+        "East"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off on ordering new Iran strikes",
       "link": "https://www.thehindu.com/news/international/trump-says-gulf-leaders-input-weighed-heavily-in-decision-to-hold-off-on-ordering-new-iran-strikes/article71299741.ece",
       "source": "The Hindu",
@@ -19658,22 +19694,26 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "UPI reaches new milestone with highest-ever transaction value of Rs 29.88 lakh crore",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/upi-reaches-new-milestone-in-july-with-highest-ever-transaction-value-of-rs-29-88-lakh-crore/articleshow/132792336.cms",
-      "source": "Times of India",
-      "timestamp": "2026-08-01T21:11:27+05:30",
-      "score": 15,
-      "summary": "India's UPI platform achieved its highest monthly transaction value ever. In July, transaction volumes also reached a new record high. The platform processed billions of transactions, surpassing previous records. This sustained growth strengthens India's digital payment ecosys...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
+      "title": "US and Japan jointly intervene to prop up yen in rare move",
+      "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-08-03T02:02:34+00:00",
+      "score": 12,
+      "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Japan"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19683,13 +19723,49 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Times of India"
+        "BBC"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "America\u2019s Lettuce Crisis Has Shoppers Ditching Supermarkets for Farmers Markets",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdVBNbUFEbXhNRFJKczdtV2hPcG5GeUZkcU1HR0VudGRqTUJSNkNPU1Z3aHhqOU1mLUJkdy12aWlGd0FDMjQyLW55Qm9UVXFGenhkUFM3dERDYXN2WkRnd0FLa01kaDRnelNiajBRZm1WeFlQUmJPRHpOOUJRZ0xPTUNuOU5hYjJuN2RhMkhn?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-08-03T02:01:05+00:00",
+      "score": 14,
+      "summary": "America\u2019s Lettuce Crisis Has Shoppers Ditching Supermarkets for Farmers Markets WSJCalifornia Lettuce Growers Skip Harvest, Plow Their Crops Back Into the Ground WSJCyclospora outbreak creates surprising business boom for one local lettuce farm YahooLettuce farmers plow crops ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lettuce",
+        "Crisis",
+        "Has",
+        "Shoppers",
+        "Ditching",
+        "Supermarkets",
+        "Farmers",
+        "Markets"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "From Gift Nifty to RBI MPC meeting: 8 key things that changed for Indian stock market overnight",
       "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-rbi-mpc-meeting-8-key-things-that-changed-for-indian-stock-market-overnight-11785720231509.html",
@@ -26269,69 +26345,6 @@
         "Livemint"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Bajaj Finance Q1: Tight leash on bad debts, other costs accelerate profit growth",
-      "link": "https://www.livemint.com/market/mark-to-market/bajaj-finance-q1fy27-nim-credit-cost-bad-loans-roe-bajaj-housing-finance-nbfc-earnings-lending-valuations-11785475678090.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-31T12:20:47+05:30",
-      "score": 15,
-      "summary": "A margin beat in non-mortgage lending, disciplined lending and benign credit costs powered Bajaj Finance\u2019s Q1, reinforcing confidence in its ability to sustain profitable growth.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Finance",
-        "Tight"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Sainsbury's to sell Argos for \u00a3120m",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-07-31T06:50:41+00:00",
-      "score": 17,
-      "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Argos"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+45%",
       "heat_level": "LOW"
     }
   ],
@@ -33522,6 +33535,42 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018House of the Dragon\u2019 Season 3, Episode 7 Recap: Wild Animals",
+      "link": "https://www.nytimes.com/2026/08/02/arts/television/house-of-the-dragon-recap-season-3-episode-7.html",
+      "source": "NYT",
+      "timestamp": "2026-08-03T02:08:53+00:00",
+      "score": 15,
+      "summary": "Everyone has a plan until the fire-breathing dragon gets involved.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dragon",
+        "Season",
+        "Episode",
+        "Recap",
+        "Wild",
+        "Animals"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018House of the Dragon\u2019: Gayle Rankin on That \u2018F \u2014 ed Up\u2019 Aemond-Alys-Alicent Scene, \u2018Unbearable\u2019 Family Dinner and Dragon Egg Plans",
       "link": "https://variety.com/2026/tv/news/house-of-the-dragon-aemond-alys-rivers-alicent-sex-eggs-1236824981/",
@@ -41461,32 +41510,28 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "Sam Fender and Olivia Dean\u2019s \u2018Rein Me In\u2019 Becomes the U.K.\u2019s Longest-Running No. 1 Single of All Time",
-      "link": "https://variety.com/2026/music/global/sam-fender-olivia-dean-rein-me-in-uk-longest-running-no-1-1236825159/",
-      "source": "Variety",
-      "timestamp": "2026-07-31T17:00:00+00:00",
-      "score": 15,
-      "summary": "Sam Fender and Olivia Dean are making U.K. chart history. Their collaborative single, \u201cRein Me In,\u201d has officially become the country\u2019s longest-running No. 1 single of all time. With 19 weeks at the top of the U.K. Official Singles chart, it has officially surpassed the record...",
+      "title": "'House of the Dragon,' Season 3, Episode 7: Red in tooth and claw (and wing and tail)",
+      "link": "https://www.npr.org/2026/08/02/nx-s1-5896203/house-of-the-dragon-recap-season-3-episode-7",
+      "source": "NPR",
+      "timestamp": "2026-08-02T22:01:00-04:00",
+      "score": 17,
+      "summary": "Dragon-on-dragon violence!",
       "country": "US",
       "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Fender",
-        "Olivia",
-        "Deans",
-        "Rein",
-        "Becomes",
-        "UKs",
-        "LongestRunning",
-        "Single",
-        "All",
-        "Time"
+        "Dragon",
+        "Season",
+        "Episode",
+        "Red"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -41495,15 +41540,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "Variety"
+        "NPR"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
+    },
     {
       "title": "Every Time Kate Middleton Referenced Princess Diana\u2019s Iconic Style",
       "link": "https://www.vogue.com/slideshow/every-time-kate-middleton-referenced-princess-diana-style",
