@@ -1816,7 +1816,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.6,
+      "trend_score": 8.5,
       "source_count": 10,
       "sources_reporting": [
         "BBC",
@@ -1825,7 +1825,7 @@
         "PBS",
         "Reuters"
       ],
-      "trend_accel": "+70%",
+      "trend_accel": "+69%",
       "heat_level": "SURGING"
     },
     {
@@ -13111,6 +13111,38 @@
   ],
   "World": [
     {
+      "title": "Oil prices tumble as Trump cancels attack on Iran to reach nuclear deal",
+      "link": "https://www.thehindu.com/news/international/oil-prices-tumble-as-trump-cancels-attack-on-iran-to-reach-nuclear-deal/article71299732.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-08-03T06:52:45+05:30",
+      "score": 14,
+      "summary": "On Sunday, August 2, OPEC+ approved an oil production quota increase of around 188,000 barrels \u2060per day from September, the producer group said, in a move that \u2060completes the unwinding of a layer of voluntary output cuts.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Big tech to pay more if no deal reached with Australian media",
       "link": "https://www.abc.net.au/news/2026-08-03/big-tech-google-australian-media-news-bargaining-/106989038",
       "source": "ABC Australia",
@@ -13861,7 +13893,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 21,
       "sources_reporting": [
         "ABC Australia",
@@ -19656,24 +19688,63 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Infantino\u2019s U-turn fuels doubts about his future at Fifa",
-      "link": "https://www.ft.com/content/c0d97297-98ed-452f-bdfd-1f16d53d4eb3?syn-25a6b1a6=1",
-      "source": "FT",
-      "timestamp": "2026-08-01T15:32:29+00:00",
-      "score": 12,
-      "summary": "The president of football\u2019s governing body was expected to stand for re-election unopposed, but now criticism is mounting",
-      "country": "UK",
-      "region": "Europe",
+      "title": "Crude oil prices crash 7% on US-Iran peace talks; Brent crude below $84 per barrel",
+      "link": "https://www.livemint.com/market/commodities/crude-oil-prices-crash-7-on-us-iran-peace-talks-brent-crude-below-85-per-barrel-11785719149380.html",
+      "source": "Livemint",
+      "timestamp": "2026-08-03T06:52:41+05:30",
+      "score": 15,
+      "summary": "US-Iran war: Brent crude for October delivery fell as much as 7.3% during early Asian trading, after posting its biggest monthly gain since March with a nearly 25% surge in July.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Uturn",
-        "Fifa"
+        "USIran",
+        "Brent"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Lucrative Arb Trade Challenged in India\u2019s Closing Price Overhaul",
+      "link": "https://www.livemint.com/market/lucrative-arb-trade-challenged-in-india-s-closing-price-overhaul-11785719901363.html",
+      "source": "Livemint",
+      "timestamp": "2026-08-03T06:48:20+05:30",
+      "score": 12,
+      "summary": "India\u2019s equity-market close is about to align with major global peers. For arbitrage funds, that could come at a cost.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Arb",
+        "Trade",
+        "Challenged",
+        "Indias",
+        "Closing",
+        "Price",
+        "Overhaul"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19682,15 +19753,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "FT"
+        "Livemint"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today \u2014 3 August 2026",
       "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-3-august-2026-11785717904120.html",
@@ -19912,7 +19981,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.6,
+      "trend_score": 8.5,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -19921,7 +19990,7 @@
         "NHK",
         "NYT"
       ],
-      "trend_accel": "+72%",
+      "trend_accel": "+71%",
       "heat_level": "SURGING"
     },
     {
@@ -26261,75 +26330,6 @@
         "CNBC"
       ],
       "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Multibagger defence stock Astra Microwave shares hit record high, soar 14% after  \u20b92,205 crore HAL order",
-      "link": "https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-astra-microwave-shares-hit-record-high-soar-14-after-rs-2-205-crore-hal-order-11785478145527.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-31T11:49:42+05:30",
-      "score": 17,
-      "summary": "Astra Microwave shares surged nearly 14% after securing a \u20b92,205.23 crore order from HAL for the Uttam Radar programme, marking its strongest single-day rise in over four years. The stock has gained over 130% from its 52-week low in just four months.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Astra",
-        "Microwave",
-        "HAL"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Fusion Klassroom Edutech IPO day 1: GMP, subscription status, price band, other details of BSE SME IPO in 10 key points",
-      "link": "https://www.livemint.com/market/ipo/fusion-klassroom-edutech-ipo-day-1-gmp-subscription-status-price-band-other-details-of-bse-sme-ipo-in-10-key-points-11785474983825.html",
-      "source": "Livemint",
-      "timestamp": "2026-07-31T11:40:19+05:30",
-      "score": 17,
-      "summary": "Fusion Klassroom Edutech IPO opened for public subscription on Friday, 31 July. The price band of the public issue has been fixed at \u20b9151 to \u20b9159 per equity share.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Klassroom",
-        "Edutech",
-        "IPO",
-        "GMP",
-        "BSE",
-        "SME"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ],
@@ -45578,6 +45578,41 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 1.1 - 19 km ENE of Four Mile Road, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfjovr",
+      "source": "USGS",
+      "timestamp": "2026-08-03T01:27:51.046000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-03 01:26:44 UTC2026-08-03 01:26:44 UTC at epicenterLocation64.680\u00b0N 148.750\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Four",
+        "Mile",
+        "Road",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 0.9 - 19 km NE of Thermal, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665418",
       "source": "USGS",
@@ -52032,41 +52067,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.2 - 160 km SSW of Severo-Kuril\u2019sk, Russia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thhr",
-      "source": "USGS",
-      "timestamp": "2026-08-01T20:22:22.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-01 20:02:46 UTC2026-08-01 20:02:46 UTC at epicenterLocation49.324\u00b0N 155.327\u00b0EDepth49.72 km (30.90 mi)",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "SSW",
-        "SeveroKurilsk",
-        "Russia"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
