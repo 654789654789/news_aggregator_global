@@ -1,6 +1,106 @@
 {
   "Politics": [
     {
+      "title": "NEET aspirants stage silent protest in Visakhapatnam seeking end to caste-based reservation",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/neet-aspirants-stage-silent-protest-in-visakhapatnam-seeking-end-to-caste-based-reservation/article71300405.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-08-03T15:21:28+05:30",
+      "score": 12,
+      "summary": "Participants wore black ribbons across their mouths at the Gandhi statue; State convener S.L.N. Vasu sought a periodic review of the reservation system and minimum qualifying marks for all candidates",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Visakhapatnam"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Supreme Court directs MEA to trace Indian seafarer missing after Black Sea drone attack",
+      "link": "https://www.thehindu.com/news/national/supreme-court-directs-mea-to-trace-indian-seafarer-missing-after-black-sea-drone-attack/article71300500.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-08-03T15:19:43+05:30",
+      "score": 12,
+      "summary": "Court urges diplomatic action to locate Deepak Kumar Gupta, who vanished during a drone strike on his vessel, as family pleads for urgent government intervention amidst growing concerns for his safety",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Court",
+        "MEA",
+        "Indian",
+        "Black",
+        "Sea"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Reform UK would use Royal Navy to stop small boats",
+      "link": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-08-03T09:47:41+00:00",
+      "score": 12,
+      "summary": "The party's home affairs spokesman Zia Yusuf says it would be the \"largest military operation in the English Channel since World War Two\u201d.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Royal",
+        "Navy"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Home Minister Shah must explain in Parliament lathicharge-pellet gun action on students: Kharge",
       "link": "https://www.thehindu.com/news/national/home-minister-shah-must-explain-in-parliament-lathicharge-pellet-gun-action-on-students-kharge/article71300344.ece",
       "source": "The Hindu",
@@ -827,14 +927,17 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 8.0,
+      "source_count": 10,
       "sources_reporting": [
+        "Bloomberg",
+        "NHK",
+        "NPR",
         "The Hindu"
       ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
+      "trend_accel": "+69%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Assam flood: Government releases first tranche of \u20b975,000 interim relief to affected households",
@@ -6450,7 +6553,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.3,
+      "trend_score": 8.2,
       "source_count": 18,
       "sources_reporting": [
         "AP",
@@ -6459,8 +6562,8 @@
         "NYT",
         "PBS"
       ],
-      "trend_accel": "+71%",
-      "heat_level": "CRITICAL"
+      "trend_accel": "+66%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Narendra Modi all praise for Bobbili Veena artisans",
@@ -6529,98 +6632,26 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Shooting at In-and-Out Burger in Idaho Leaves 3 Dead and 2 Injured, Official Says",
-      "link": "https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html",
-      "source": "NYT",
-      "timestamp": "2026-08-01T23:56:58+00:00",
-      "score": 15,
-      "summary": "A spokesman for Twin Falls cautioned that the number of victims was \u201cexpected to be higher\u201d and said that the shooter was \u201cno longer a threat.\u201d",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-03T10:00:00+00:00",
+      "score": 14,
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "InandOut",
-        "Burger",
-        "Idaho",
-        "Leaves",
-        "Dead",
-        "Injured",
-        "Official",
-        "Says"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 9.3,
-      "source_count": 10,
-      "sources_reporting": [
-        "AP",
-        "BBC",
-        "NYT",
-        "PBS",
-        "Reuters"
-      ],
-      "trend_accel": "+72%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Devolution plans strengthen case for written UK constitution, says Burnham",
-      "link": "https://www.theguardian.com/politics/2026/aug/02/devolution-programme-written-uk-constitution-andy-burnham",
-      "source": "Guardian",
-      "timestamp": "2026-08-01T23:01:04+00:00",
-      "score": 12,
-      "summary": "PM argues for codified model of decentralisation that would fundamentally change centuries-old workings of stateAndy Burnham has said his programme of devolution strengthens the case for a written constitution for the UK, a move that would fundamentally alter the workings of t...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Burnham"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Darline Graham promotes Trump's agenda in her political debut ahead of special Senate primary",
-      "link": "https://www.pbs.org/newshour/politics/darline-graham-promotes-trumps-agenda-in-her-political-debut-ahead-of-special-senate-primary",
-      "source": "PBS",
-      "timestamp": "2026-08-01T18:07:37-04:00",
-      "score": 12,
-      "summary": "As one of nine Republicans seeking to replace him more permanently in a special primary election set for Aug. 11, Graham is a relative political unknown facing off against some of the state's best-known GOP names.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Graham",
-        "Trumps",
-        "Senate"
+        "Marc",
+        "Benioffbacked"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6631,13 +6662,52 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "PBS"
+        "TechCrunch"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "Gears Of War: E-Day Open Beta Dates, Start Times & Xbox Game Pass Details",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVEpqQ0hRcGJyS09oQnZub2VxaDNUNkJOMXRvUUV3UnhUZU8zQzF6M0NUWDF1V3hUS3NsS3dHV0xITGVtNUZuVnNDMlJVcGIyZGhGdTk3REh6X1p5aGtxN3FfZEFxV1o0VUtSZzNYVjBCTlI2NFQ2MktyY1VhRWpYaW00cUlYRTlmWVJ1X1lRQWlDdUt0SWc0TGZQWTd3QmZEYkJudTJpc3Y?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-08-03T09:56:34+00:00",
+      "score": 14,
+      "summary": "Gears Of War: E-Day Open Beta Dates, Start Times & Xbox Game Pass Details Pure XboxGears of War: E-Day: Release date, platforms & everything else we know about Marcus Fenix's return space.comGears of War: E-Day Multiplayer \u2013 The First Preview IGNGears of War: E-Day Preview - B...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "War",
+        "EDay",
+        "Open",
+        "Beta",
+        "Dates",
+        "Start",
+        "Times",
+        "Xbox",
+        "Game",
+        "Pass",
+        "Details"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Amazon Great Freedom Sale: Deals on Projectors From Boat, Lumio, Zebronics and More Teased",
       "link": "https://www.gadgets360.com/tv/news/amazon-great-freedom-sale-projector-deals-teased-boat-lumio-zebronics-and-more-11858663",
@@ -13123,22 +13193,27 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
-      "link": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-28T15:10:10+00:00",
-      "score": 10,
-      "summary": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "'Lot of nonsense': Dearden clears air on Cowboys future",
+      "link": "https://www.abc.net.au/news/2026-08-03/tom-dearden-clears-air-on-cowboys-future/106992486",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-03T09:55:26+00:00",
+      "score": 14,
+      "summary": "North Queensland co-captain Tom Dearden has cleared the air about his future and given the club a boost as he targets returning from injury to inspire a finals run.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Dearden",
+        "Cowboys"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13148,49 +13223,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Elon Musk\u2019s X Money app is rolling out in the U.S.",
-      "link": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
-      "source": "TechCrunch",
-      "timestamp": "2026-07-28T14:57:12+00:00",
-      "score": 12,
-      "summary": "The app is currently available to X Premium and Premium+ subscribers in the U.S.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Musks",
-        "Money"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 10,
-      "sources_reporting": [
-        "Bloomberg",
-        "NHK",
-        "PBS",
-        "TechCrunch",
-        "Verge"
-      ],
-      "trend_accel": "+67%",
-      "heat_level": "HOT"
-    }
-  ],
-  "World": [
     {
       "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
       "link": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
@@ -16813,7 +16850,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.7,
+      "trend_score": 11.6,
       "source_count": 19,
       "sources_reporting": [
         "ABC Australia",
@@ -19713,35 +19750,6 @@
         "The Hindu"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'A pot of gold' as small orchids delight avid hunters",
-      "link": "https://www.abc.net.au/news/2026-08-02/orchids-bloom-ahead-of-bumper-wildflower-season/106954736",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-02T01:01:14+00:00",
-      "score": 10,
-      "summary": "Hidden gems bloom in Western Australia ahead of what is expected to be a bumper wildflower season.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
@@ -33651,6 +33659,89 @@
   ],
   "Entertainment": [
     {
+      "title": "\u2018Peaky Blinders\u2019 Helps U.K. Region Land Official Production Hub Status From British Film Commission",
+      "link": "https://variety.com/2026/tv/global/peaky-blinders-uk-west-midlands-official-production-hub-1236826227/",
+      "source": "Variety",
+      "timestamp": "2026-08-03T09:51:37+00:00",
+      "score": 12,
+      "summary": "\u201cPeaky Blinders\u201d may have given closely clipped back and sides haircuts a new lease of life, but it\u2019s now helped a region of the U.K. land official backing as a center for high-end productions. The British Film Commission has announced that the West Midlands, home to the city ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Blinders",
+        "Helps",
+        "Region",
+        "Land",
+        "Official",
+        "Production",
+        "Hub",
+        "Status",
+        "British",
+        "Film",
+        "Commission"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Sunday in the Park with George\u2019 Producers Confirm Summer 2027 Show Will Go On \u2018As Planned\u2019 After Ariana Grande Exits",
+      "link": "https://variety.com/2026/theater/global/sunday-in-the-park-with-george-summer-2027-launch-1236826224/",
+      "source": "Variety",
+      "timestamp": "2026-08-03T09:46:55+00:00",
+      "score": 15,
+      "summary": "The London production of \u201cSunday in the Park With George\u201d is set to go ahead as planned despite Ariana Grande exiting the show. The Stephen Sondheim revival, which also stars Grande\u2019s \u201cWicked\u201d co-star Jonathan Bailey, was scheduled to premiere at London\u2019s Barbican next summer ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Park",
+        "George",
+        "Producers",
+        "Confirm",
+        "Summer",
+        "Show",
+        "Will",
+        "Planned",
+        "After",
+        "Ariana",
+        "Grande",
+        "Exits"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Australia\u2019s \u2018Better Man\u2019 & \u2018Eden\u2019 Production House Forte Corp Pictures Hires Former Matchbox Exec",
       "link": "https://deadline.com/2026/08/australia-house-forte-corp-pictures-hires-matchbox-exec-1237015648/",
       "source": "Deadline",
@@ -41566,85 +41657,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Dermot Mulroney To Leave \u2018Chicago Fire\u2019 Early In Season 15",
-      "link": "https://deadline.com/2026/07/dermot-mulroney-exit-chicago-fire-season-15-1237014591/",
-      "source": "Deadline",
-      "timestamp": "2026-07-31T18:32:20+00:00",
-      "score": 15,
-      "summary": "EXCLUSIVE: Dermot Mulroney will say goodbye to NBC\u2019s Chicago Fire and will wrap up his storyline early in Season 15, sources close to production tell Deadline. Mulroney joined the hit firefighter drama from Wolf Entertainment and Universal Television in the show\u2019s 13th season ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mulroney",
-        "Leave",
-        "Chicago",
-        "Fire",
-        "Early",
-        "Season"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "As \u2018Civilization\u2019 Turns 35, Creator Sid Meier and Firaxis President Look Ahead to a New Ages for 2K Studio\u2019s Franchises",
-      "link": "https://variety.com/2026/gaming/news/civilization-35-anniversary-sid-meier-firaxis-xcom-games-1236824977/",
-      "source": "Variety",
-      "timestamp": "2026-07-31T18:15:00+00:00",
-      "score": 15,
-      "summary": "Sid Meier\u2019s four-year-old grandson has a new favorite song and it\u2019s one that is near and dear to fans of the legendary video game developer\u2019s \u201cCivilization\u201d franchise. \u201cHe is singing \u2018Baba Yetu\u2019 day and night. It\u2019s like insane,\u201d Meier tells Variety, noting the preschooler hasn...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Civilization",
-        "Turns",
-        "Creator",
-        "Sid",
-        "Meier",
-        "Firaxis",
-        "President",
-        "Look",
-        "Ahead",
-        "New",
-        "Ages",
-        "Studios",
-        "Franchises"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45756,6 +45768,106 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.6 - 57 km S of Whites City, New Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pdobic",
+      "source": "USGS",
+      "timestamp": "2026-08-03T10:00:44.650000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-03 09:22:51 UTC2026-08-03 09:22:51 UTC at epicenterLocation31.655\u00b0N 104.385\u00b0WDepth4.01 km (2.49 mi)",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Whites",
+        "City",
+        "New",
+        "Mexico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+62%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 3 km SSW of Anderson Springs, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410562",
+      "source": "USGS",
+      "timestamp": "2026-08-03T09:46:57.267000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-03 09:45:19 UTC2026-08-03 09:45:19 UTC at epicenterLocation38.749\u00b0N 122.703\u00b0WDepth1.86 km (1.16 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Anderson",
+        "Springs"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 3 km SSW of Anderson Springs, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410557",
+      "source": "USGS",
+      "timestamp": "2026-08-03T09:46:37.145000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-03 09:44:59 UTC2026-08-03 09:44:59 UTC at epicenterLocation38.746\u00b0N 122.701\u00b0WDepth1.35 km (0.84 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Anderson",
+        "Springs"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 4.8 - 152 km S of Hydaburg, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/attj6shm",
@@ -52151,102 +52263,6 @@
         "USGS"
       ],
       "trend_accel": "+60%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 17 km WNW of Progreso, B.C., MX",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664994",
-      "source": "USGS",
-      "timestamp": "2026-08-02T02:26:31.804000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-02 02:23:07 UTC2026-08-02 02:23:07 UTC at epicenterLocation32.642\u00b0N 115.751\u00b0WDepth5.72 km (3.55 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Progreso"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 4 km N of Progreso, B.C., MX",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40664986",
-      "source": "USGS",
-      "timestamp": "2026-08-02T02:26:00.884000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-02 02:22:31 UTC2026-08-02 02:22:31 UTC at epicenterLocation32.618\u00b0N 115.577\u00b0WDepth3.11 km (1.93 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Progreso"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 3 km SSW of Redwood Valley, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75409947",
-      "source": "USGS",
-      "timestamp": "2026-08-02T02:17:25.309000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-02 01:55:05 UTC2026-08-02 01:55:05 UTC at epicenterLocation39.242\u00b0N 123.218\u00b0WDepth3.82 km (2.37 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Redwood",
-        "Valley"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
