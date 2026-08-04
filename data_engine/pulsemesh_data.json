@@ -10912,7 +10912,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.6,
+      "trend_score": 7.5,
       "source_count": 11,
       "sources_reporting": [
         "BBC",
@@ -10921,7 +10921,7 @@
         "Verge",
         "Wired"
       ],
-      "trend_accel": "+67%",
+      "trend_accel": "+66%",
       "heat_level": "HOT"
     },
     {
@@ -13298,6 +13298,35 @@
     }
   ],
   "World": [
+    {
+      "title": "Farmer suffered fatal injuries after being headbutted by cow, coroner finds",
+      "link": "https://www.abc.net.au/news/2026-08-04/farmer-dies-of-injuries-after-being-headbutted-by-dairy-cow/106994954",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-04T05:19:32+00:00",
+      "score": 10,
+      "summary": "A typically safety-conscious farm worker died after being headbutted by a cow while not wearing a helmet, a Tasmanian coroner has ruled.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Clubs stand firm after AFL's controversial finals memo",
       "link": "https://www.abc.net.au/news/2026-08-04/clubs-stand-firm-after-afl-s-controversial-finals-memo/106995352",
@@ -19772,41 +19801,41 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Quick hits: Delta stuns with Aussie classic, 76yo claims history-making gold",
-      "link": "https://www.abc.net.au/news/2026-08-03/quick-hits-commonwealth-games-goodrem-76-year-old-gold/106987230",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-02T22:33:00+00:00",
-      "score": 17,
-      "summary": "Delta Goodrem belts out an Aussie classic, a 76-year-old makes Commonwealth Games history and a cycling star is proud to have not thrown up on the podium. Here are the quick hits from the final day of the Commonwealth Games.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Saudi Aramco profits soar in second quarter as Iran war squeezes oil supply",
+      "link": "https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-04T05:26:45+00:00",
+      "score": 12,
+      "summary": "The results come as oil supermajors have reported blowout quarterly profits, benefitting from higher fossil fuel prices amid the Iran war.",
+      "country": "Iran",
+      "region": "Middle East",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Delta",
-        "Aussie"
+        "Aramco",
+        "Iran"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Horror bookshop aims to raise \u00a320k to stay open",
       "link": "https://www.bbc.co.uk/news/articles/c0l57w8ne92o?at_medium=RSS&at_campaign=rss",
@@ -23156,14 +23185,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 9.7,
+      "source_count": 12,
       "sources_reporting": [
-        "NYT"
+        "BBC",
+        "CNBC",
+        "Guardian",
+        "NYT",
+        "PBS"
       ],
-      "trend_accel": "+62%",
-      "heat_level": "LOW"
+      "trend_accel": "+80%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Senate appears ready to advance Blanche after Cornyn strikes deal",
@@ -23709,8 +23742,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "Bloomberg",
@@ -23787,8 +23820,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "CNBC",
@@ -25592,14 +25625,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 9.4,
+      "source_count": 10,
       "sources_reporting": [
-        "NYT"
+        "CNBC",
+        "NPR",
+        "NYT",
+        "PBS",
+        "Reuters"
       ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
+      "trend_accel": "+74%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Japan to vow coordination with the U.S. on weak yen in historic battle",
@@ -26388,41 +26425,43 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Mcap of top-10 most valued firms surges  \u20b92.51 lakh crore; Bajaj Finance biggest winner",
-      "link": "https://www.livemint.com/market/stock-market-news/mcap-of-top-10-most-valued-firms-surges-2-51-lakh-crore-bajaj-finance-biggest-winner-11785658763828.html",
-      "source": "Livemint",
-      "timestamp": "2026-08-02T14:03:16+05:30",
-      "score": 15,
-      "summary": "During the week, the BSE Sensex gained 2,034.87 points (2.67%), while the NSE Nifty advanced 616.15 points (2.59%).",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Young white-tailed eagles released on Exmoor",
+      "link": "https://www.bbc.co.uk/news/articles/c74g0jz3d4yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-08-04T05:24:16+00:00",
+      "score": 14,
+      "summary": "Up to 20 additional young birds will be released over the next three years.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Bajaj",
-        "Finance"
+        "Exmoor"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 6.5,
+      "source_count": 16,
       "sources_reporting": [
-        "Livemint"
+        "BBC",
+        "Guardian",
+        "NHK",
+        "PBS"
       ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+      "trend_accel": "+60%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Curlew revival continues at nature reserve",
       "link": "https://www.bbc.co.uk/news/articles/cly54v48n0zo?at_medium=RSS&at_campaign=rss",
@@ -26798,8 +26837,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -32610,40 +32649,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Pacific Ocean pattern helps explain diverging wildfire trends in US and Australia",
-      "link": "https://phys.org/news/2026-07-pacific-ocean-pattern-diverging-wildfire.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-30T19:00:02-04:00",
-      "score": 14,
-      "summary": "Two of the world's most fire-prone regions have followed strikingly different wildfire trajectories despite both experiencing a warming climate. Burned forest area has surged across the U.S. Southwest, while eastern Australia has not seen the same increase.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Ocean",
-        "Australia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33734,6 +33739,83 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "India\u2019s Yash Raj Films Launches Raah Records With Aman Single \u2018Jaadugari\u2019 (EXCLUSIVE)",
+      "link": "https://variety.com/2026/music/news/yash-raj-films-raah-records-launch-aman-jaadugari-1236826261/",
+      "source": "Variety",
+      "timestamp": "2026-08-04T05:30:00+00:00",
+      "score": 12,
+      "summary": "India\u2019s Yash Raj Films (YRF) has launched Raah Records, a new record label and artist incubator built to discover and develop original Indian music talent outside of film soundtracks. The label\u2019s first release, \u201cJaadugari\u201d by singer-songwriter Aman, drops across major streamin...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Yash",
+        "Raj",
+        "Films",
+        "Launches",
+        "Raah",
+        "Records",
+        "Aman",
+        "Single",
+        "Jaadugari",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Late Night Reacts to Trump\u2019s Latest Iran Deal Comments",
+      "link": "https://www.nytimes.com/2026/08/04/arts/television/late-night-trump-iran-deal.html",
+      "source": "NYT",
+      "timestamp": "2026-08-04T05:20:01+00:00",
+      "score": 14,
+      "summary": "\u201cI\u2019m not saying that they\u2019re out of ideas, but the best option they came up with was pinning the war on Dr. Fauci,\u201d Jimmy Fallon said.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Night",
+        "Reacts",
+        "Trumps",
+        "Latest",
+        "Iran",
+        "Deal",
+        "Comments"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Geno Segers Apologizes For Transgender Comments After \u2018Hadestown\u2019 Exit: \u2018I Recognize the Impact of My Statements\u2019",
       "link": "https://variety.com/2026/theater/news/geno-segers-apology-transgender-comments-hadestown-1236827212/",
@@ -41680,80 +41762,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Sopranos Alums Mourn Vincent Pastore After His Death",
-      "link": "https://www.eonline.com/news/1434585/vincent-pastore-dead-sopranos-stars-share-tributes?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-08-02T18:08:43+00:00",
-      "score": 12,
-      "summary": "The Sopranos family is honoring the memory of one of their own. After Vincent Pastore\u2014known for his role as Salvatore \u201cBig P---y\u201d Bonpensiero in the HBO series\u2014died at the age of 80, his former...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Alums",
-        "Mourn",
-        "Vincent",
-        "Pastore",
-        "After",
-        "His",
-        "Death"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Nancy Guthrie Case Haunted by Sheriff\u2019s Department\u2019s Possible Mistakes",
-      "link": "https://www.hollywoodreporter.com/news/general-news/nancy-guthrie-case-haunted-possible-mistakes-sheriff-1236661720/",
-      "source": "THR",
-      "timestamp": "2026-08-02T18:06:20+00:00",
-      "score": 12,
-      "summary": "A new report from The Wall Street Journal accuses the Pima County Sheriff's Department of investigation delays, failing to protect crime-scene evidence and more.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Guthrie",
-        "Case",
-        "Haunted",
-        "Sheriffs",
-        "Departments",
-        "Possible",
-        "Mistakes"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -42762,7 +42770,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.9,
+      "trend_score": 7.8,
       "source_count": 13,
       "sources_reporting": [
         "Bloomberg",
@@ -45943,6 +45951,102 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.9 - 1 km SW of Loma Linda, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665898",
+      "source": "USGS",
+      "timestamp": "2026-08-04T05:29:38.827000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-04 05:26:14 UTC2026-08-04 05:26:14 UTC at epicenterLocation34.045\u00b0N 117.266\u00b0WDepth14.42 km (8.96 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Loma",
+        "Linda"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.2 - 26 km S of Central, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026phnlug",
+      "source": "USGS",
+      "timestamp": "2026-08-04T05:24:23.081000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-04 05:22:27 UTC2026-08-04 05:22:27 UTC at epicenterLocation65.333\u00b0N 144.806\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Central",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.9 - 18 km NNE of Indio, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40665890",
+      "source": "USGS",
+      "timestamp": "2026-08-04T05:22:36.124000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-04 05:19:12 UTC2026-08-04 05:19:12 UTC at epicenterLocation33.879\u00b0N 116.174\u00b0WDepth3.22 km (2.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Indio"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
     {
@@ -52336,102 +52440,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Tanzania",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029944",
-      "source": "GDACS",
-      "timestamp": "2026-08-02T23:32:32+00:00",
-      "score": 12,
-      "summary": "On 22/07/2026, a forest fire started in Tanzania, until 30/07/2026.",
-      "country": "EU",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tanzania"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.3 - 11 km WNW of Kukuihaele, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75012027",
-      "source": "USGS",
-      "timestamp": "2026-08-02T23:09:36.338000+00:00",
-      "score": 17,
-      "summary": "DYFI? - IITime2026-08-02 23:04:57 UTC2026-08-02 23:04:57 UTC at epicenterLocation20.168\u00b0N 155.674\u00b0WDepth14.37 km (8.93 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Kukuihaele",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 6 km NNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410357",
-      "source": "USGS",
-      "timestamp": "2026-08-02T23:08:53.809000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-02 23:07:18 UTC2026-08-02 23:07:18 UTC at epicenterLocation38.822\u00b0N 122.793\u00b0WDepth2.79 km (1.73 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+61%",
       "heat_level": "LOW"
     }
   ]
