@@ -1,6 +1,71 @@
 {
   "Politics": [
     {
+      "title": "Measles outbreak in 2025 cost almost $5.4M to contain: Research",
+      "link": "https://thehill.com/policy/healthcare/6008817-measles-outbreak-containment-costs/",
+      "source": "The Hill",
+      "timestamp": "2026-08-04T19:49:13+00:00",
+      "score": 17,
+      "summary": "The measles outbreak in 2025 cost almost $5.4 million to contain according to new research published Monday in the Annals of Internal Medicine. Authors of the study said $53,522 was spent per measles case, which breaks down to $1,817 per person that came into contact with the ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Research"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Epstein survivor calls Cornyn\u2019s vote to advance Blanche nomination \u2018really depressing\u2019",
+      "link": "https://thehill.com/homenews/senate/6008812-epstein-victim-criticizes-cornyn-decision/",
+      "source": "The Hill",
+      "timestamp": "2026-08-04T19:49:00+00:00",
+      "score": 12,
+      "summary": "A victim of convicted sex offender Jeffrey Epstein lamented Sen. John Cornyn\u2019s (R-Texas) Tuesday vote to advance the nomination of Todd Blanche to serve as attorney general. \u201cThere\u2019s always a glimmer of hope that somebody will do the right thing,\u201d Dani Bensky told MS NOW\u2019s Myc...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cornyns",
+        "Blanche"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Nearly 3 in 4 Harris voters say Dem lawmakers should challenge Trump more: Poll",
       "link": "https://thehill.com/homenews/campaign/6008873-harris-voters-want-trump-challenges/",
       "source": "The Hill",
@@ -1885,14 +1950,17 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 8.1,
+      "source_count": 14,
       "sources_reporting": [
-        "BBC"
+        "AP",
+        "BBC",
+        "NHK",
+        "PBS"
       ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
+      "trend_accel": "+68%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Indian economy to hit $5-trillion mark in FY29 as per IMF: Finance Minister Nirmala Sitharaman",
@@ -5116,8 +5184,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -6527,64 +6595,25 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump",
-      "link": "https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html",
-      "source": "NYT",
-      "timestamp": "2026-08-04T01:06:45+00:00",
-      "score": 14,
-      "summary": "The deal would address President Trump\u2019s most urgent political problem by allowing ships to move again. But it would give Iran strategic leverage it did not have before the war.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Emerging",
-        "Deal",
-        "Between",
-        "Iran",
-        "Oman",
-        "Reopen",
-        "Hormuz",
-        "Would",
-        "Come",
-        "Cost",
-        "Trump"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
-      "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-08-04T00:50:33+00:00",
-      "score": 12,
-      "summary": "Rapists and child sex offenders will be barred from the scheme, which will restart in October, the government says.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-04T19:48:40+00:00",
+      "score": 17,
+      "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Harpers"
+        "Volta"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6595,13 +6624,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "BBC"
+        "TechCrunch"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Meet Wrinkles, an AI app that uncovers the hidden stories of the places around you",
       "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
@@ -13158,31 +13185,25 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Redmi K100 Pro Geekbench Listing Suggests Snapdragon 8 Elite Gen 5 Chip, 16GB of RAM",
-      "link": "https://www.gadgets360.com/mobiles/news/redmi-k100-pro-geekbench-listing-features-specifications-11841302",
-      "source": "Gadgets 360",
-      "timestamp": "2026-07-30T09:46:50+05:30",
-      "score": 15,
-      "summary": "The launch of the Redmi K100 Pro has been recently teased in China. While the company has yet to reveal any major details about the successor to the Redmi K90 Pro Max, it has now surfaced on a benchmarking site. The listing confirms the upcoming handset\u2019s moniker as the Redmi ...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Big falls ahead for some of Australia's major stocks as they reveal profits",
+      "link": "https://www.abc.net.au/news/2026-08-05/miners-set-to-post-solid-results-amid-low-consumer-sentiment/106993966",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-04T19:49:51+00:00",
+      "score": 14,
+      "summary": "Australia's largest companies will reveal how they performed financially over the next few weeks, against the gloomy backdrop of a property downturn, stubborn inflation, higher interest rates and the Iran war.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Pro",
-        "Geekbench",
-        "Listing",
-        "Suggests",
-        "Snapdragon",
-        "Elite",
-        "Gen",
-        "Chip",
-        "RAM"
+        "Australias"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13191,15 +13212,44 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Gadgets 360"
+        "ABC Australia"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "South Korea records highest-ever temperature of 41 C amid intense heat wave",
+      "link": "https://www.cbc.ca/news/world/south-korea-heatwave-9.7296123?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-08-04T15:47:15-04:00",
+      "score": 15,
+      "summary": "South Korea recorded its highest temperature on Friday since modern weather observations began, as a prolonged heat wave pushed temperatures above 40 C for a third straight day in parts of the country.",
+      "country": "South Korea",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Korea"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CBC News"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "'Scary' uptake of unregulated peptide usage in macho gym environments",
       "link": "https://www.abc.net.au/news/2026-08-05/unregulated-peptides-uptake-eating-disorder/106932704",
@@ -19680,74 +19730,6 @@
         "The Hindu"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Russian officials say 11 killed in Ukrainian strikes",
-      "link": "https://www.thehindu.com/news/international/russian-officials-say-11-killed-in-ukrainian-strikes/article71302671.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-03T22:51:04+05:30",
-      "score": 17,
-      "summary": "The death toll from a drone attack on Russia's seaside village of Arkhipo-Osipovka rose to seven, with three children among them, the crisis task force for Russia's southern Krasnodar region said on social media",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [
-        "Ukrainian"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Iraqi Kurdish leader in Damascus for talks on Syria Kurds' deal: sources",
-      "link": "https://www.thehindu.com/news/international/iraqi-kurdish-leader-in-damascus-for-talks-on-syria-kurds-deal-sources/article71302632.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-03T22:33:09+05:30",
-      "score": 14,
-      "summary": "After clashes between Syrian Kurdish fighters and the new authorities' forces in January this year, the two sides reached a deal to integrate Syrian Kurdish institutions and forces into the state",
-      "country": "Iraq",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kurdish",
-        "Damascus",
-        "Syria",
-        "Kurds"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+45%",
       "heat_level": "LOW"
     }
   ],
@@ -26322,6 +26304,66 @@
   ],
   "Science": [
     {
+      "title": "First measurement of antineutrinos from spent nuclear fuel confirms emissions persist after reactor shutdown",
+      "link": "https://phys.org/news/2026-08-antineutrinos-spent-nuclear-fuel-emissions.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-04T16:00:09-04:00",
+      "score": 10,
+      "summary": "Even when the lights go out and nuclear reactors are turned off, the story inside the reactor core still has a great deal to tell. Radioactive, long-lived fission products continue to decay for months or even years, producing a faint flux of a specific type of particle known a...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Snakes aren't simple tubes. Their bodies have five regions\u2014including a short neck",
+      "link": "https://phys.org/news/2026-08-snakes-simple-tubes-bodies-regions.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-04T16:00:01-04:00",
+      "score": 12,
+      "summary": "Snakes are seemingly simple in structure: a head attached to a long, unremarkable noodle. They do have some pretty cool features at the front end, with venomous fangs and the ability to stretch their mouths and swallow large prey whole, but their bodies are not just the simple...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Their"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
       "link": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
       "source": "Phys.org",
@@ -26588,14 +26630,17 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 6.6,
+      "source_count": 12,
       "sources_reporting": [
+        "AP",
+        "NPR",
+        "PBS",
         "Phys.org"
       ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
+      "trend_accel": "+60%",
+      "heat_level": "HOT"
     },
     {
       "title": "Mythical mountain god inspires name for China's first freshwater cave snail",
@@ -26953,8 +26998,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
+      "trending": true,
+      "trend_score": 6.6,
       "source_count": 10,
       "sources_reporting": [
         "Bloomberg",
@@ -27690,8 +27735,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 8.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -32490,72 +32535,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Pine marten babies born on Exmoor for first time in 100 years",
-      "link": "https://www.bbc.co.uk/news/videos/c8xn5vwgn2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-07-31T17:04:09+00:00",
-      "score": 15,
-      "summary": "Nine females and 10 males were introduced to the area by the Two Moors Pine Marten Project last year.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Exmoor"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "A discarded SpaceX rocket is on a high-speed collision course with the moon",
-      "link": "https://phys.org/news/2026-07-discarded-spacex-rocket-high-collision.html",
-      "source": "Phys.org",
-      "timestamp": "2026-07-31T13:00:06-04:00",
-      "score": 12,
-      "summary": "A drifting SpaceX rocket is on a collision course with the moon after launching a pair of lunar landers more than a year ago.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SpaceX"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 7.0,
-      "source_count": 11,
-      "sources_reporting": [
-        "AP",
-        "NHK",
-        "NYT",
-        "PBS",
-        "Phys.org"
-      ],
-      "trend_accel": "+65%",
-      "heat_level": "HOT"
     }
   ],
   "Sports": [
@@ -33576,6 +33555,174 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Ariana Grande Decision To Withdraw From \u2018Sunday in the Park\u2019 Came as Surprise to Key Production Members",
+      "link": "https://www.hollywoodreporter.com/lifestyle/arts/ariana-grande-withdraw-sunday-in-the-park-george-surprise-1236664078/",
+      "source": "THR",
+      "timestamp": "2026-08-04T19:59:42+00:00",
+      "score": 12,
+      "summary": "People involved with the London musical were given just hours to prepare their own statement following Grande's announcement, according to a source familiar with the matter.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Grande",
+        "Decision",
+        "Withdraw",
+        "Sunday",
+        "Park",
+        "Came",
+        "Surprise",
+        "Key",
+        "Production",
+        "Members"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Bill Hader, James Wan, Devon Pritchard, Nick Kroll and Keith Le Goy Join Variety Entertainment and Technology Summit Programming",
+      "link": "https://variety.com/2026/biz/news/bill-hader-james-wan-entertainment-technology-summit-1236827846/",
+      "source": "Variety",
+      "timestamp": "2026-08-04T19:57:45+00:00",
+      "score": 14,
+      "summary": "Variety has announced Emmy-winning producer and actor Bill Hader; producer-director James Wan; producer-actor Nick Kroll; Nintendo of America president and COO Devon Pritchard, and Sony Pictures Television chairman Keith Le Goy as headlining speakers for its annual Entertainme...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Hader",
+        "James",
+        "Wan",
+        "Devon",
+        "Pritchard",
+        "Nick",
+        "Kroll",
+        "Keith",
+        "Goy",
+        "Join",
+        "Variety",
+        "Entertainment",
+        "Technology",
+        "Summit",
+        "Programming"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Kim Kardashian Supports 10-Year-Old Son Saint West\u2019s Instagram Debut",
+      "link": "https://www.eonline.com/news/1434672/kim-kardashian-supports-son-saint-wests-instagram-debut?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-08-04T19:54:40+00:00",
+      "score": 17,
+      "summary": "Kim Kardashian is gonna have to keep up with Saint West. The 10-year-old made his Instagram debut on Aug. 1, showing off videos of his new purple e-moto bike. In one clip, the tween popped a...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kardashian",
+        "Supports",
+        "YearOld",
+        "Son",
+        "Saint",
+        "Wests",
+        "Instagram",
+        "Debut"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "TriCoast Worldwide & Vitagraph Set Fall Release For Malcolm McDowell & James Paxton Western \u2018Last Train To Fortune\u2019",
+      "link": "https://deadline.com/2026/08/malcolm-mcdowell-last-train-to-fortune-release-date-1237017455/",
+      "source": "Deadline",
+      "timestamp": "2026-08-04T19:53:07+00:00",
+      "score": 14,
+      "summary": "EXCLUSIVE: TriCoast Worldwide and Vitagraph Films have set a theatrical release for the Brad Wyman produced, Adam Rifkin directed western comedy Last Train to Fortune. Last Train to Fortune will pulled into New York on Sept. 18, followed by Dallas on Sept. 23, and Los Angeles ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Worldwide",
+        "Vitagraph",
+        "Set",
+        "Fall",
+        "Release",
+        "Malcolm",
+        "McDowell",
+        "James",
+        "Paxton",
+        "Western",
+        "Last",
+        "Train",
+        "Fortune"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Idaho College Murders Doc Series Grabs Attention On Netflix; \u2018Ransom Canyon\u2019 Season 2 Off To Slow Start",
       "link": "https://deadline.com/2026/08/idaho-murders-doc-ransom-canyon-season-2-ratings-netflix-1237017454/",
@@ -41372,176 +41519,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Kevin Feige on \u2018Brand New Day\u2019 Breaking Records, Sadie Sink\u2019s Reveal and Tom Holland Getting a \u2018Restful Victory Lap\u2019 Before a Potential \u2018Spider-Man 5\u2019",
-      "link": "https://variety.com/2026/film/news/kevin-feige-spider-man-brand-new-day-sequel-tom-holland-1236826503/",
-      "source": "Variety",
-      "timestamp": "2026-08-03T20:05:06+00:00",
-      "score": 15,
-      "summary": "Kevin Feige can\u2019t stop breaking his own box office benchmarks. As the president of Marvel Studios and architect of the sprawling, ultra-successful Marvel Cinematic Universe, Feige is now responsible for the four biggest opening weekends in history. His latest record-setting bl...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Feige",
-        "Brand",
-        "New",
-        "Day",
-        "Breaking",
-        "Records",
-        "Sadie",
-        "Sinks",
-        "Reveal",
-        "Tom",
-        "Holland",
-        "Getting",
-        "Restful",
-        "Victory",
-        "Lap",
-        "Before",
-        "Potential",
-        "SpiderMan"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The Challenge's Jenna Compono, Zach Nichols Welcome Baby No. 5",
-      "link": "https://www.eonline.com/news/1434627/the-challenges-jenna-compono-zach-nichols-welcome-baby-no-5?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-08-03T20:02:25+00:00",
-      "score": 15,
-      "summary": "For Jenna Compono, parenthood is the best kind of challenge. Indeed, the Challenge alum announced that she and husband Zach Nichols welcomed their fifth baby together, a boy, on Aug. 2, less than...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Challenges",
-        "Jenna",
-        "Compono",
-        "Zach",
-        "Nichols",
-        "Welcome",
-        "Baby"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Donald Trump Says He\u2019s \u201cReally Disappointed\u201d In Jeanine Pirro After She Moved To Dismiss Reflecting Pool Case: \u201cShe Folded Like An Umbrella\u201d",
-      "link": "https://deadline.com/2026/08/trump-jeanine-pirro-reflecting-pool-1237016377/",
-      "source": "Deadline",
-      "timestamp": "2026-08-03T19:55:23+00:00",
-      "score": 12,
-      "summary": "Donald Trump lashed out at Jeanine Pirro, the former Fox News host serving as U.S. attorney for the District of Columbia, after she moved to dismiss a felony indictment of the alleged vandal of the Lincoln Memorial reflecting pool. Speaking to reporters on Monday, Trump said t...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Trump",
-        "Says",
-        "Hes",
-        "Really",
-        "Disappointed",
-        "Jeanine",
-        "Pirro",
-        "After",
-        "She",
-        "Moved",
-        "Dismiss",
-        "Reflecting",
-        "Pool",
-        "Case",
-        "Folded",
-        "Like",
-        "Umbrella"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "David Z, Longtime Prince Associate and Key Architect of \u2018the Minneapolis Sound,\u2019 Dies at 78",
-      "link": "https://variety.com/2026/music/news/david-z-dead-prince-minneapolis-sound-1236826721/",
-      "source": "Variety",
-      "timestamp": "2026-08-03T19:53:19+00:00",
-      "score": 15,
-      "summary": "David \u201cZ\u201d Rivkin, the Grammy-winning producer and musician who helmed Prince\u2019s early demo tapes and engineered several of his albums, helped create Lipps Inc.\u2019s 1980 smash \u201cFunky Town,\u201d and later worked with such artists like Fine Young Cannibals, the Jets and Jonny Lang, has ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Longtime",
-        "Prince",
-        "Associate",
-        "Key",
-        "Architect",
-        "Minneapolis",
-        "Sound",
-        "Dies"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -46226,6 +46203,70 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.8 - 6 km NE of San Simeon, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75411307",
+      "source": "USGS",
+      "timestamp": "2026-08-04T20:00:07.116000+00:00",
+      "score": 15,
+      "summary": "DYFI? - IITime2026-08-04 19:55:25 UTC2026-08-04 19:55:25 UTC at epicenterLocation35.682\u00b0N 121.136\u00b0WDepth6.87 km (4.27 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "San",
+        "Simeon"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.9 - 10 km E of Borrego Springs, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40666258",
+      "source": "USGS",
+      "timestamp": "2026-08-04T19:57:49.073000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-04 19:54:17 UTC2026-08-04 19:54:17 UTC at epicenterLocation33.255\u00b0N 116.264\u00b0WDepth10.45 km (6.49 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Borrego",
+        "Springs"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
       "heat_level": "LOW"
     },
     {
@@ -52652,71 +52693,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 10 km ESE of Gilroy, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75410657",
-      "source": "USGS",
-      "timestamp": "2026-08-03T14:49:13.345000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-03 14:47:34 UTC2026-08-03 14:47:34 UTC at epicenterLocation36.969\u00b0N 121.463\u00b0WDepth10.72 km (6.66 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Gilroy"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.6 - 74 km SSE of Yakutat, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pgjqhh",
-      "source": "USGS",
-      "timestamp": "2026-08-03T14:31:04.289000+00:00",
-      "score": 15,
-      "summary": "ShakeMap - IITime2026-08-03 14:27:43 UTC2026-08-03 14:27:43 UTC at epicenterLocation58.896\u00b0N 139.424\u00b0WDepth7.80 km (4.85 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Yakutat",
-        "Alaska"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
