@@ -1,6 +1,40 @@
 {
   "Politics": [
     {
+      "title": "Senate confirms Cameron Hamilton to lead FEMA and clears 73 other Trump nominees",
+      "link": "https://www.pbs.org/newshour/politics/senate-confirms-cameron-hamilton-to-lead-fema-and-clears-73-other-trump-nominees",
+      "source": "PBS",
+      "timestamp": "2026-08-07T16:47:15-04:00",
+      "score": 15,
+      "summary": "Hamilton was among a group of 74 nominations approved by the Senate, including President Donald Trump's pick to lead the Transportation Security Administration, David Cummins, and his choice for ambassador to Brazil, Daniel Perez.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cameron",
+        "Hamilton",
+        "FEMA",
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump announces deals and investments to bolster mining",
       "link": "https://thehill.com/policy/energy-environment/6017707-trump-mining-event-chinese-minerals/",
       "source": "The Hill",
@@ -3083,7 +3117,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.6,
+      "trend_score": 10.5,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -3093,7 +3127,7 @@
         "NYT",
         "The Hill"
       ],
-      "trend_accel": "+80%",
+      "trend_accel": "+79%",
       "heat_level": "CRITICAL"
     },
     {
@@ -6641,28 +6675,25 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "POCSO cases in Kerala continue to rise, says State Commission for Protection of Child Rights report",
-      "link": "https://www.thehindu.com/news/national/kerala/pocso-cases-in-kerala-continue-to-rise-says-kerala-state-commission-for-protection-of-child-rights-report/article71314954.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-07T10:00:47+05:30",
-      "score": 12,
-      "summary": "4,765 offences reported in 2025, up from 4,607 in 2024; highest number of cases in Thiruvananthapuram",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-07T21:00:08+00:00",
+      "score": 14,
+      "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+      "country": "Poland",
+      "region": "Europe",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Kerala",
-        "State",
-        "Commission",
-        "Protection",
-        "Child",
-        "Rights"
+        "Polish"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6673,13 +6704,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+43%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Fenix Flexin isn\u2019t even denying using AI to make \u2018Rubberz\u2019 anymore",
       "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
@@ -13246,24 +13275,27 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "The global memory shortage hits the MacBook Air",
-      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-02T21:33:59+00:00",
-      "score": 14,
-      "summary": "The global memory chip shortage appears to be affecting the availability of Apple\u2019s most popular Mac.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Houthi attacks kill at least 10 in Yemen as Iran-backed rebels target Marib",
+      "link": "https://www.france24.com/en/middle-east/20260807-houthi-attacks-kill-at-least-10-in-yemen-as-iran-backed-rebels-target-marib",
+      "source": "France24",
+      "timestamp": "2026-08-07T20:52:45+00:00",
+      "score": 15,
+      "summary": "At least eight members of Yemeni government forces and two civilians were killed Friday in new attacks by Houthi rebels in an oil-rich province.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "MacBook",
-        "Air"
+        "Yemen",
+        "Iranbacked",
+        "Marib"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13272,15 +13304,46 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "TechCrunch"
+        "France24"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "US police officer accused of killing three people in Mexico arrested at border",
+      "link": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
+      "source": "Guardian",
+      "timestamp": "2026-08-07T20:49:24+00:00",
+      "score": 12,
+      "summary": "Chad Eberle of Texas charged over deadly shooting in Saltillo that officials say stemmed from custody disputeA Texas police officer has been arrested in Mexico after authorities there accused him of killing three people and critically injuring the mother of his child in what i...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Mexico"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
       "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
@@ -19733,25 +19796,30 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "SC dismisses plea challenging Delhi HC relief to Hinduja brothers in Bofors case",
-      "link": "https://timesofindia.indiatimes.com/india/supreme-court-dismisses-plea-challenging-delhi-hc-relief-to-hinduja-brothers-in-bofors-case/articleshow/133015674.cms",
-      "source": "Times of India",
-      "timestamp": "2026-08-07T03:13:56+05:30",
-      "score": 12,
-      "summary": "The Supreme Court has officially closed the chapter on the Bofors payoff case by dismissing an appeal that challenged the Delhi High Court's 2005 ruling, which had previously annulled criminal proceedings against the Hinduja brothers. Advocate Ajay K Agrawal filed the appeal, ...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
+      "title": "Shopping App Whatnot Valued at $20 Billion in New Funding",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZS1zMDhpZE5hM2dNQTRMQS1zWVF1T3lNRklOUVVJQjEyX0RzMWlnenFCZ2RyYzlkcEN4ZG1nRVJHWTFib0ljOU9DUzFENDdGT25GZVRWbGdVVjhTWGpzY2QwN3hvaC1uSnNZSkZSTjdhUXJwYTBZS0lPb0NKV1F5WklwN1AtSTdqMjJXR1RBOVlaZm9hSlYyR0dn?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-08-07T20:50:00+00:00",
+      "score": 15,
+      "summary": "Shopping App Whatnot Valued at $20 Billion in New Funding WSJRobinhood Ventures Fund I (RVI) Invests $30 Million in Whatnot RobinhoodIn AI-obsessed Silicon Valley, live commerce platform Whatnot just notched a new funding round valuing it at $20 billion FortuneWhatnot Just Cli...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Delhi",
-        "Hinduja",
-        "Bofors"
+        "App",
+        "Whatnot",
+        "Valued",
+        "Billion",
+        "New",
+        "Funding"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19760,48 +19828,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Times of India"
+        "Google News"
       ],
-      "trend_accel": "+42%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Google shifts AI power back to Brin as DeepMind\u2019s Hassabis steps aside",
-      "link": "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1",
-      "source": "FT",
-      "timestamp": "2026-08-06T21:40:54+00:00",
-      "score": 14,
-      "summary": "Silicon Valley parent consolidates control as the London lab\u2019s scientific culture gives way to urgency to build AI products",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Brin",
-        "DeepMinds",
-        "Hassabis"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "FT"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Two reasons why Nvidia\u2019s stock saw its biggest weekly surge in more than a year",
       "link": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
@@ -26288,29 +26321,24 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Anawil Wire and Engineering IPO allotment to be finalised: Latest GMP, how to check allotment status online for SME IPO",
-      "link": "https://www.livemint.com/market/ipo/anawil-wire-and-engineering-ipo-allotment-to-be-finalised-ipo-gmp-how-to-check-allotment-status-online-for-sme-ipo-11785986190966.html",
-      "source": "Livemint",
-      "timestamp": "2026-08-06T08:55:53+05:30",
-      "score": 12,
-      "summary": "Anawil Wire &amp; Engineering allotment date is likely to be finalised today, 6 August. Investors can check Anawil Wire IPO allotment status online through the websites of NSE and the IPO registrar - Bigshare Services.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "New 'shape-shifting' architecture brings versatility to photonic quantum computing",
+      "link": "https://phys.org/news/2026-08-shifting-architecture-versatility-photonic-quantum.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-07T17:00:01-04:00",
+      "score": 10,
+      "summary": "Using light to process quantum information is one of the most promising approaches to building future quantum computers. Light particles, known as photons, are excellent carriers of quantum information, but their lack of natural interactions has created a major challenge for r...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Wire",
-        "Engineering",
-        "IPO",
-        "Latest",
-        "GMP",
-        "SME"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26318,15 +26346,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+54%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Crossing into a mirror world: Particles turn to wisps of fog, and the magnetic monopole paradox dissolves",
       "link": "https://phys.org/news/2026-08-mirror-world-particles-wisps-fog.html",
@@ -32378,35 +32404,6 @@
       ],
       "trend_accel": "+64%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "Electrocatalytic method could purify wastewater by converting pollutants into recoverable polymers",
-      "link": "https://phys.org/news/2026-08-electrocatalytic-method-purify-wastewater-pollutants.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-04T17:20:05-04:00",
-      "score": 10,
-      "summary": "Wastewater treatment is a critical issue for global environmental protection and public health. Researchers from The Hong Kong University of Science and Technology (HKUST) have recently achieved a major breakthrough with the discovery of a novel oxidant-free electrocatalytic m...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33244,6 +33241,87 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Kirill Sokolov, Director of \u2018They Will Kill You,\u2019 Tackling Sci-Fi Action Movie \u2018Blur\u2019 for Netflix (Exclusive)",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/they-will-kill-you-sci-fi-action-movie-blur-netflix-1236660987/",
+      "source": "THR",
+      "timestamp": "2026-08-07T20:49:49+00:00",
+      "score": 12,
+      "summary": "Shawn Levy's 21 Laps will produce the feature.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sokolov",
+        "Director",
+        "They",
+        "Will",
+        "Kill",
+        "You",
+        "Tackling",
+        "SciFi",
+        "Action",
+        "Movie",
+        "Blur",
+        "Netflix",
+        "Exclusive"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Mason Gooding, Emily Rudd to Star in \u2018Crawl\u2019 Sequel for Paramount (Exclusive)",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/crawl-sequel-mason-gooding-emily-rudd-1236666150/",
+      "source": "THR",
+      "timestamp": "2026-08-07T20:49:34+00:00",
+      "score": 12,
+      "summary": "Alexandre Aja, who directed the initial 2019 horror thriller, is back in the director's chair for the follow-up.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Gooding",
+        "Emily",
+        "Rudd",
+        "Star",
+        "Crawl",
+        "Sequel",
+        "Paramount",
+        "Exclusive"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Jake T. Austin Was \u201cDisappointed\u201d Not To Be Included In \u2018Wizards Beyond Waverly Place\u2019",
       "link": "https://deadline.com/2026/08/jake-t-austin-disappointed-not-in-wizards-beyond-waverly-place-1237028866/",
@@ -41283,94 +41361,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Madden\u2019: David O. Russell\u2019s Nicolas Cage & Christian Bale Pic About NFL Legend Sets Prime Video Fall Date",
-      "link": "https://deadline.com/2026/08/madden-nicolas-cage-christian-bale-movie-release-date-1237027679/",
-      "source": "Deadline",
-      "timestamp": "2026-08-06T15:17:16+00:00",
-      "score": 12,
-      "summary": "David O. Russell\u2019s directed and co-written pic about Oakland Raiders Head Coach turned NFL commenter, Madden, will stream worldwide on Prime Video on Nov. 18. The pic follows John Madden\u2019s (Oscar winner Nicolas Cage) journey alongside best friend and true original Al Davis (Os...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "David",
-        "Russells",
-        "Nicolas",
-        "Cage",
-        "Christian",
-        "Bale",
-        "Pic",
-        "About",
-        "NFL",
-        "Legend",
-        "Sets",
-        "Prime",
-        "Video",
-        "Fall",
-        "Date"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Sienna Miller Is Ready for Battle in First Images From Sky/HBO Legal Drama \u2018War\u2019: \u2018It\u2019s About Rivalries and Partnerships\u2019",
-      "link": "https://variety.com/2026/tv/global/sienna-miller-war-sky-hbo-october-1236828152/",
-      "source": "Variety",
-      "timestamp": "2026-08-06T15:13:23+00:00",
-      "score": 12,
-      "summary": "Sienna Miller looks ready for battle in the first images from \u201cWar,\u201d the upcoming Sky/HBO drama from \u201cHijack\u201d co-creator George Kay. Miller stars opposite Dominic West (\u201cThe Crown\u201d) in the eight-part series, as they play a high-net worth couple going through a divorce. The sho...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Miller",
-        "Ready",
-        "Battle",
-        "First",
-        "Images",
-        "SkyHBO",
-        "Legal",
-        "Drama",
-        "War",
-        "Its",
-        "About",
-        "Rivalries",
-        "Partnerships"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45279,6 +45269,70 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 2.3 - 13 km S of Honaunau-Napoopoo, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75014637",
+      "source": "USGS",
+      "timestamp": "2026-08-07T20:51:48.529000+00:00",
+      "score": 17,
+      "summary": "DYFI? - IITime2026-08-07 20:44:24 UTC2026-08-07 20:44:24 UTC at epicenterLocation19.333\u00b0N 155.854\u00b0WDepth16.83 km (10.46 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "HonaunauNapoopoo",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 36 km N of Benton, California",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923060",
+      "source": "USGS",
+      "timestamp": "2026-08-07T20:49:50.621000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-07 20:46:59 UTC2026-08-07 20:46:59 UTC at epicenterLocation38.145\u00b0N 118.408\u00b0WDepth0.90 km (0.56 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Benton",
+        "California"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.4 - 6 km NW of The Geysers, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413647",
@@ -51713,71 +51767,6 @@
         "USGS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.9 - 36 km WSW of Skwentna, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026plodlo",
-      "source": "USGS",
-      "timestamp": "2026-08-06T09:44:41.006000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-06 09:41:25 UTC2026-08-06 09:41:25 UTC at epicenterLocation61.901\u00b0N 152.069\u00b0WDepth122.70 km (76.24 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Skwentna",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 9 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75412467",
-      "source": "USGS",
-      "timestamp": "2026-08-06T09:37:54.661000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-06 09:36:17 UTC2026-08-06 09:36:17 UTC at epicenterLocation38.820\u00b0N 122.842\u00b0WDepth2.27 km (1.41 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
