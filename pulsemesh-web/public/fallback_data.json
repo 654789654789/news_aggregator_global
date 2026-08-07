@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "Appeals court rules Trump can't build White House ballroom without congressional approval",
+      "link": "https://www.pbs.org/newshour/politics/appeals-court-rules-trump-cant-build-white-house-ballroom-without-congressional-approval",
+      "source": "PBS",
+      "timestamp": "2026-08-07T14:34:25-04:00",
+      "score": 12,
+      "summary": "Trump said in a post on social media that he would be appealing what he called an \"unjust decision\" to the U.S. Supreme Court.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump",
+        "White",
+        "House"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Delhi Police attempted to arrest Aishe Ghosh, alleges SFI",
       "link": "https://www.thehindu.com/news/national/delhi-police-attempted-to-arrest-aishe-ghosh-alleges-sfi/article71277452.ece",
       "source": "The Hindu",
@@ -6686,18 +6719,20 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship",
-      "link": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
-      "source": "NPR",
-      "timestamp": "2026-08-06T18:06:35-04:00",
-      "score": 13,
-      "summary": "Additional details weren't provided, but Trump said he thought his latest actions would be constitutional.",
+      "title": "OpenAI puts the brakes on a new model because it\u2019s supposedly too powerful",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "source": "Verge",
+      "timestamp": "2026-08-07T14:40:34-04:00",
+      "score": 12,
+      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face. Ant...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
@@ -6709,15 +6744,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "NPR"
+        "Verge"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "The Super Bee Is Back: Dodge's Newest Charger Packs 600 Horsepower - Motor1.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPejZfSGJCbDNNWHV4d0NYbG91S1EydGVSaFlEV3dRYmh3RjYyeGtpVl9lN0FURHpEazdzUmpsX3dPRHB0X3pnZWJFTnNfMkg1WmxPRDY3S2I4N2dJTGgwS2VkNUoxRjh4OTd4OXFMRFNmOGFJbG9JaFZzSWdwY0REaGVTR0t2VFphUmJiT01HZVRPSzJjVDlqRQ?oc=5",
@@ -13281,26 +13314,27 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Malaysia is reportedly shutting down Balaji Srinivasan\u2019s Network School",
-      "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-02T17:05:07+00:00",
-      "score": 12,
-      "summary": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
-      "country": "Malaysia",
-      "region": "Southeast Asia",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Flooding rain and gales ahead for southern Australia this weekend",
+      "link": "https://www.abc.net.au/news/2026-08-08/australian-weather-flooding-rain-ahead-for-southern-states/107009816",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-07T18:41:01+00:00",
+      "score": 14,
+      "summary": "A powerful winter cold front will cause a broad band of rain and strong winds to sweep across southern Australia during the coming days.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Climatic"
+      ],
       "entities": [
-        "Balaji",
-        "Srinivasans",
-        "Network",
-        "School"
+        "Australia"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13309,15 +13343,109 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Dead AFL star's mother accuses league of 'cover up' on brain injury",
+      "link": "https://www.abc.net.au/news/2026-08-08/adam-hunter-mother-accuses-afl-of-cover-up-on-brain-injury-cte/107008390",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-07T18:41:01+00:00",
+      "score": 14,
+      "summary": "West Coast Eagles star Adam Hunter's mother Joanne Brown says AFL executive Laura Kane reached out to her, but the grieving mother says the phone call was \"too little, too late\".",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "AFL"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "California woman who admitted to stabbing wife had also killed husband",
+      "link": "https://www.theguardian.com/us-news/2026/aug/07/yolanda-olejniczak-marodi-wife-husband-murder",
+      "source": "Guardian",
+      "timestamp": "2026-08-07T18:36:38+00:00",
+      "score": 10,
+      "summary": "Yolanda Olejniczak Marodi, who served a decade for killing her husband, pleaded guilty to murder of Rebecca Marodi, a fire captain who fought the Eaton blaze A California woman this week admitted to killing her wife, a decorated fire captain who fought the deadly 2025 Los Ange...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Judge approves Trump effort to end South Sudan TPS protections",
+      "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+      "source": "Guardian",
+      "timestamp": "2026-08-07T18:34:34+00:00",
+      "score": 12,
+      "summary": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and SyriansTemporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to end after a federal judge ruled that the Trump administration ...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump",
+        "South",
+        "Sudan",
+        "TPS"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "US Senate passes Russia sanctions bill championed by Lindsey Graham",
       "link": "https://www.theguardian.com/us-news/2026/aug/07/russia-sanctions-senate-passed-petroleum",
@@ -19716,137 +19844,40 @@
       ],
       "trend_accel": "+82%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "An explosives-laden drone was found at a key German airport. Here's what we know",
-      "link": "https://www.abc.net.au/news/2026-08-07/germany-drone-hybrid-warfare-leipzig/107006982",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-06T15:12:19+00:00",
-      "score": 14,
-      "summary": "An explosive-laden drone was found just metres from a plane stocked with high-grade ammunition, leading German authorities to launch a counter-terrorism investigation.",
-      "country": "Germany",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "German",
-        "Heres"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Leipzig drone bomb was found near Ukrainian plane carrying ammunition",
-      "link": "https://www.theguardian.com/world/2026/aug/06/leipzig-drone-bomb-found-near-ukrainian-plane-carrying-ammunition",
-      "source": "Guardian",
-      "timestamp": "2026-08-06T15:06:28+00:00",
-      "score": 14,
-      "summary": "German authorities investigating whether a foreign state is involved as they say a \u2018ripped\u2019 detonator stopped device going offA catastrophe with multiple casualties was possibly only narrowly averted by the discovery of a drone carrying explosives at Leipzig airport, German of...",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ukrainian"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'Every government should listen to students': Rahul's first remarks on Jharkhand protests",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/every-government-should-listen-to-students-rahul-gandhis-first-remarks-on-jharkhand-protests/articleshow/133008852.cms",
-      "source": "Times of India",
-      "timestamp": "2026-08-06T20:35:04+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rahuls",
-        "Jharkhand"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "UNICEF says one child killed per day in Gaza since \u2018ceasefire\u2019",
-      "link": "https://www.aljazeera.com/news/2026/8/6/unicef-says-one-child-killed-per-day-in-gaza-since-ceasefire-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-08-06T15:00:54+00:00",
-      "score": 12,
-      "summary": "At least 300 children reported killed in Gaza in 300 days since October 2025 truce between Israel and Hamas was agreed.",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Gaza"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Al Jazeera"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
+    {
+      "title": "Equities poised for best week since April as payrolls surprise eases rate-hike concerns",
+      "link": "https://www.livemint.com/market/equities-poised-for-best-week-since-april-as-payrolls-surprise-eases-rate-hike-concerns-11786127839882.html",
+      "source": "Livemint",
+      "timestamp": "2026-08-08T00:07:19+05:30",
+      "score": 12,
+      "summary": "USA-STOCKS/ (UPDATE 5, GRAPHIC):US STOCKS-Equities poised for best week since April as payrolls surprise eases rate-hike concerns",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "April"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "The unwind of Situational Awareness isn't the only reason the AI trade is back",
       "link": "https://www.cnbc.com/2026/08/07/the-situational-awareness-unwind-is-only-one-reason-the-ai-trade-is-back.html",
@@ -26335,25 +26366,25 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "From Gift Nifty to crude oil prices: 7 key things that changed for Indian stock market overnight",
-      "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11785978096248.html",
-      "source": "Livemint",
-      "timestamp": "2026-08-06T07:09:13+05:30",
-      "score": 17,
-      "summary": "Gift Nifty was trading around the 24,652 level, a premium of nearly 4 points from the Nifty futures\u2019 previous close, indicating a gap-up start for the Indian stock market indices.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Mobile fungal 'Starship' carries protein that triggers crop leaf loss",
+      "link": "https://phys.org/news/2026-08-mobile-fungal-starship-protein-triggers.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-07T14:40:01-04:00",
+      "score": 10,
+      "summary": "An international research team led by plant scientist Professor Dr. Bart Thomma of the Institute of Plant Sciences at the University of Cologne, the MiBiNet Collaborative Research Center and the CEPLAS Cluster of Excellence for Plant Sciences has identified the region of the g...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Gift",
-        "Nifty",
-        "Indian"
+        "Starship"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26362,15 +26393,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+57%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "First full zoysia grass genetic blueprint opens doors for drought-tolerant turf",
       "link": "https://phys.org/news/2026-08-full-zoysia-grass-genetic-blueprint.html",
@@ -32429,37 +32458,6 @@
       ],
       "trend_accel": "+67%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "Multiple threats endanger the world's rarest great ape, a new study on the Tapanuli orangutan reveals",
-      "link": "https://phys.org/news/2026-08-multiple-threats-endanger-world-rarest.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-04T16:40:06-04:00",
-      "score": 12,
-      "summary": "Deep in the forests of North Sumatra, Indonesia, lives the Tapanuli orangutan (Pongo tapanuliensis), the world's rarest great ape. Fewer than 800 individuals remain, confined to the Batang Toru ecosystem, a landscape that is also home to other rare species like Sumatran tigers...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tapanuli"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33297,6 +33295,43 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Karen Huger Reveals the Bravolebrity She Talked to While in Prison",
+      "link": "https://www.eonline.com/news/1434807/karen-huger-details-bond-with-andy-cohen-while-in-prison?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-08-07T18:43:15+00:00",
+      "score": 12,
+      "summary": "Karen Huger is back with her biggest supporters. After the Real Housewives of Potomac star finished her prison sentence for a DUI charge six months early in September, the 63-year-old expressed...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Huger",
+        "Reveals",
+        "Bravolebrity",
+        "She",
+        "Talked",
+        "While",
+        "Prison"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Jimmy Kimmel on His Wild, Whirlwind, Not So Terrible or Horrible TV Year",
       "link": "https://www.hollywoodreporter.com/tv/tv-features/jimmy-kimmel-support-show-hiatus-future-late-night-1236666088/",
@@ -41405,47 +41440,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Superman\u2019 Sequel Looks \u201cAmazing\u201d, David Zaslav Says; No DC Strategy Shift After \u2018Supergirl\u2019 Misfire",
-      "link": "https://deadline.com/2026/08/superman-man-of-tomorrow-david-zaslav-dc-1237027586/",
-      "source": "Deadline",
-      "timestamp": "2026-08-06T13:58:17+00:00",
-      "score": 12,
-      "summary": "Superman sequel Man of Tomorrow seems poised to get DC back on track in 2027, Warner Bros. Discovery CEO David Zaslav told Wall Street analysts Thursday. Director and DC co-chief James Gunn \u201cis focused on Man of Tomorrow,\u201d Zaslav said when asked about any revision to DC\u2019s stra...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sequel",
-        "Looks",
-        "Amazing",
-        "David",
-        "Zaslav",
-        "Says",
-        "Strategy",
-        "Shift",
-        "After",
-        "Supergirl",
-        "Misfire"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45431,6 +45425,70 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.2 - 3 km WNW of Green Acres, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668194",
+      "source": "USGS",
+      "timestamp": "2026-08-07T18:40:42.974000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-07 18:37:12 UTC2026-08-07 18:37:12 UTC at epicenterLocation33.747\u00b0N 117.109\u00b0WDepth1.61 km (1.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Green",
+        "Acres"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.9 - 6 km NW of Pinnacles, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75413567",
+      "source": "USGS",
+      "timestamp": "2026-08-07T18:38:37.920000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-07 18:34:44 UTC2026-08-07 18:34:44 UTC at epicenterLocation36.574\u00b0N 121.188\u00b0WDepth3.73 km (2.32 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pinnacles"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 4.3 - south of the Fiji Islands",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tj19",
@@ -51866,71 +51924,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 19 km SSW of Pyote, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pivijh",
-      "source": "USGS",
-      "timestamp": "2026-08-06T06:27:27.237000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-06 06:24:51 UTC2026-08-06 06:24:51 UTC at epicenterLocation31.371\u00b0N 103.212\u00b0WDepth3.24 km (2.01 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Pyote",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 17 km N of Snyder, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026piveyp",
-      "source": "USGS",
-      "timestamp": "2026-08-06T06:24:11.695000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-06 06:20:35 UTC2026-08-06 06:20:35 UTC at epicenterLocation32.872\u00b0N 100.939\u00b0WDepth0.93 km (0.58 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Snyder",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
