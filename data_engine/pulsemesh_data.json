@@ -5561,7 +5561,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.3,
+      "trend_score": 7.2,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -6557,6 +6557,43 @@
   ],
   "Tech": [
     {
+      "title": "X replaces its revenue-sharing program with \u2018Original Content Rewards\u2019",
+      "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+      "source": "Verge",
+      "timestamp": "2026-08-08T17:15:12-04:00",
+      "score": 12,
+      "summary": "X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions under Elon Musk's reign. In its place, it's launching a new Original Content Rewards program on September 8th. To be eligible, creators must have at least 500 verified...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Original",
+        "Content",
+        "Rewards"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 9.4,
+      "source_count": 17,
+      "sources_reporting": [
+        "Bloomberg",
+        "NHK",
+        "NPR",
+        "TechCrunch",
+        "Verge"
+      ],
+      "trend_accel": "+76%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "OpenAI acquires presentation startup NextSlide",
       "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "source": "TechCrunch",
@@ -6642,14 +6679,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 9.4,
+      "source_count": 16,
       "sources_reporting": [
-        "TechCrunch"
+        "AP",
+        "PBS",
+        "Reuters",
+        "TechCrunch",
+        "Verge"
       ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
+      "trend_accel": "+78%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "The Kindle Scribe Colorsoft is a lot of fun, but it\u2019s not a must-have",
@@ -8112,8 +8153,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 7.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -8500,8 +8541,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 7.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -13083,23 +13124,56 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Wispr Flow is preparing to launch a meeting notetaker, updated terms suggest",
-      "link": "https://techcrunch.com/2026/08/03/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-03T16:29:30+00:00",
+      "title": "Fijian rugby player dies of suspected heat stroke after training",
+      "link": "https://www.abc.net.au/news/2026-08-09/saimoni-vunilagi-dies-aged-26-from-suspected-heat-stroke/107013866",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-08T21:07:28+00:00",
       "score": 12,
-      "summary": "Wispr Flow's new terms of service indicate it will introduce a notetaker that generates meeting summaries and action items.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "Fijian rugby player Saimoni Vunilagi, 26, dies after suffering from suspected heat stroke following a training session in Japan.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-08-08T21:06:48+00:00",
+      "score": 12,
+      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 sq km).",
+      "country": "Canada",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
       "entities": [
-        "Flow"
+        "Canada"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13108,15 +13182,73 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "BBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Flowers blooming, birds swooping amid unusually warm 'sprinter'",
+      "link": "https://www.abc.net.au/news/2026-08-09/nsw-unusually-warm-winter-brings-early-blooms-magpies/107008174",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-08T21:05:11+00:00",
+      "score": 10,
+      "summary": "An early magpie swooping season, underwhelming ski season and canola crops blooming a month in advance are some signs of an unusually warm winter across NSW.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Iran issues tough demands to reopen strait of Hormuz as deal remains out of reach",
+      "link": "https://www.theguardian.com/world/2026/aug/08/iran-issues-tough-demands-to-reopen-strait-of-hormuz-as-deal-remains-out-of-reach",
+      "source": "Guardian",
+      "timestamp": "2026-08-08T21:01:28+00:00",
+      "score": 14,
+      "summary": "Tehran urges US to \u2018correct its behaviour\u2019 as UAE says one of its ships targeted by Iranian missileIran has issued tough new demands for reopening the strait of Hormuz, while the United Arab Emirates said one of its ships was targeted by an Iranian missile, as a deal to open t...",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hormuz"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
     {
       "title": "'Very debilitating': Hunter Biden opens up about his father's cancer",
       "link": "https://www.abc.net.au/news/2026-08-09/hunter-biden-says-his-father-s-prostate-cancer-is-causing-him-pa/107013844",
@@ -14278,15 +14410,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 8,
+      "trending": true,
+      "trend_score": 11.2,
+      "source_count": 19,
       "sources_reporting": [
+        "AP",
         "BBC",
+        "Google News",
+        "Guardian",
+        "PBS",
         "The Hindu"
       ],
-      "trend_accel": "+66%",
-      "heat_level": "HOT"
+      "trend_accel": "+85%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Lebanon says Israeli troops infiltrated Lebanese army-held village",
@@ -17338,8 +17474,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -19523,138 +19659,6 @@
         "The Hindu"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Zelenskyy will visit Trump at the White House before Lindsey Graham\u2019s funeral",
-      "link": "https://www.thehindu.com/news/international/zelenskyy-will-visit-trump-at-the-white-house-before-lindsey-grahams-funeral/article71276739.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-07T22:53:43+05:30",
-      "score": 12,
-      "summary": "President Donald Trump and Ukrainian President Volodymyr Zelenskyy are set to meet at the White House ahead of Sen. Lindsey Graham\u2019s funeral",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Trump",
-        "White",
-        "House",
-        "Lindsey",
-        "Grahams"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Cambridge academics reject university\u2019s attempt to end row over Jason Arday",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/07/cambridge-academics-reject-universitys-attempt-to-end-row-over-jason-arday",
-      "source": "Guardian",
-      "timestamp": "2026-08-07T16:49:15+00:00",
-      "score": 12,
-      "summary": "Group calls for \u2018thorough and transparent investigation\u2019 of hiring of professor who resigned after his claims came under scrutinyThe University of Cambridge has announced a review into the way it vets and hires senior academic staff in an effort to fend off external and intern...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Jason",
-        "Arday"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Hun Manet is refining Cambodia\u2019s authoritarian model",
-      "link": "https://www.aljazeera.com/opinions/2026/8/7/hun-manet-is-refining-cambodias-authoritarian-model?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-08-07T16:47:33+00:00",
-      "score": 12,
-      "summary": "The PM has made repression less visible and more sophisticated, strengthening the authoritarian system he inherited.",
-      "country": "Qatar",
-      "region": "Middle East",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Manet",
-        "Cambodias"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Al Jazeera"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "US appeals court halts construction of Trump\u2019s $400 million White House ballroom project",
-      "link": "https://www.france24.com/en/americas/20260807-us-appeals-court-halts-construction-of-trump-400-million-white-house-ballroom-project",
-      "source": "France24",
-      "timestamp": "2026-08-07T16:06:55+00:00",
-      "score": 15,
-      "summary": "A federal appeals court on Friday ordered US President Donald Trump\u2019s administration to stop construction of its $400 million ballroom on the site of the White House's demolished East Wing. The court added that a president cannot fundamentally reshape the White House without c...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Trumps",
-        "White",
-        "House"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -45394,6 +45398,38 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 0.8 - 6 km WNW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414212",
+      "source": "USGS",
+      "timestamp": "2026-08-08T21:14:59.435000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-08 21:13:23 UTC2026-08-08 21:13:23 UTC at epicenterLocation38.802\u00b0N 122.815\u00b0WDepth3.55 km (2.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.5 - 44 km S of Glacier View, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pqcmeq",
       "source": "USGS",
@@ -51850,39 +51886,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.7 - 5 km SW of Guaynabo, Puerto Rico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71527838",
-      "source": "USGS",
-      "timestamp": "2026-08-07T17:42:37.220000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-07 17:29:08 UTC2026-08-07 17:29:08 UTC at epicenterLocation18.324\u00b0N 66.153\u00b0WDepth57.68 km (35.84 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Guaynabo",
-        "Puerto",
-        "Rico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ]
