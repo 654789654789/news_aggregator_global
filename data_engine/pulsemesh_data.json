@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "GOP-controlled Senate delivers win for Trump with Blanche confirmation",
+      "link": "https://www.npr.org/2026/08/08/nx-s1-5925869/gop-controlled-senate-delivers-win-for-trump-with-blanche-confirmation",
+      "source": "NPR",
+      "timestamp": "2026-08-08T17:19:17-04:00",
+      "score": 12,
+      "summary": "The Senate narrowly confirmed former Trump personal attorney Todd Blanche as U.S. Attorney General, a major win for the president's approach to keeping the Justice Department close to the White House.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Senate",
+        "Trump",
+        "Blanche"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NPR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "ICE takes issue with AP reporting on policy to release body-worn camera footage",
       "link": "https://www.pbs.org/newshour/nation/ice-takes-issue-with-ap-reporting-on-policy-to-release-body-worn-camera-footage",
       "source": "PBS",
@@ -6522,40 +6555,44 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Trainee IPS officer arrested in sexual harassment case",
-      "link": "https://www.thehindu.com/news/national/telangana/trainee-ips-officer-arrested-in-sexual-harassment-case/article71281116.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-08T04:37:00+05:30",
-      "score": 14,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-08T21:24:02+00:00",
+      "score": 12,
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "IPS"
+        "Amazon"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 8.4,
+      "source_count": 17,
       "sources_reporting": [
-        "The Hindu"
+        "Bloomberg",
+        "NHK",
+        "Reuters",
+        "TechCrunch",
+        "Verge"
       ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+      "trend_accel": "+67%",
+      "heat_level": "SURGING"
+    },
     {
       "title": "X replaces its revenue-sharing program with \u2018Original Content Rewards\u2019",
       "link": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
@@ -7638,8 +7675,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -13093,23 +13130,26 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Microsoft is bringing Xbox 360 games to PC",
-      "link": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
-      "source": "Verge",
-      "timestamp": "2026-08-03T12:31:35-04:00",
-      "score": 15,
-      "summary": "Building on its recently-announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, seen by The Verge, that was sent to developers recently. Xbox 360 games will be a...",
+      "title": "Tanker sailors still face danger in the Strait of Hormuz",
+      "link": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
+      "source": "NPR",
+      "timestamp": "2026-08-08T17:19:54-04:00",
+      "score": 14,
+      "summary": "An agreement over the Strait of Hormuz is still far away. Tim Wilkins, who works for a tanker industry group, says the ships stuck around the waterway are in limbo, and transiting is still dangerous.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Xbox"
+        "Strait",
+        "Hormuz"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13120,13 +13160,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Verge"
+        "NPR"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Fijian rugby player dies of suspected heat stroke after training",
       "link": "https://www.abc.net.au/news/2026-08-09/saimoni-vunilagi-dies-aged-26-from-suspected-heat-stroke/107013866",
@@ -19628,41 +19666,40 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "\u2018We are not anyone\u2019s proxy force\u2019: Iranian Kurdish party",
-      "link": "https://www.thehindu.com/news/international/we-are-not-anyones-proxy-force-iranian-kurdish-party/article71276653.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-07T22:53:45+05:30",
+      "title": "Delta passengers evacuated by slide after emergency landing in Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVBXZWFmZVIzMjI2X0tCVFRNSHRyaDE4Q1MtTUJEQ0pibU1ka0RDNktiR3I2TTJHNURiTHlHMDRKekhHVjNRN0o0ZWRWbV9rUG5ILVA3blE5ZXNLMEs0TVh1RUdnNExwd0pYUXhCbDlDT3kySjhTcXZCRDhBUFkzOTVmYUNGOVRKbE1mM1lVZUF3SXJUem1nRWgtdDA3UVRwUWlId0ZadHlXQQ?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-08-08T21:22:54+00:00",
       "score": 12,
-      "summary": "In an email interview with The Hindu, Rivar Abdanan, a spokesperson of PJAK and a member of the party\u2019s Leadership Council, said PJAK would enter the war only if the \u2018existence of the Kurdish people comes under threat\u2019",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Newspaper",
+      "summary": "Delta passengers evacuated by slide after emergency landing in Atlanta NBC NewsEmergency return: 200 passengers evacuate Delta flight in Atlanta FOX 5 AtlantaDelta flight returns to Atlanta, passengers evacuated after fumes reported in cockpit AJC.comPassengers evacuated after...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Iranian",
-        "Kurdish"
+        "Atlanta"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "Google News"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Don\u2019t worry about what other people have saved for retirement. Here\u2019s how to find your perfect number.",
       "link": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
@@ -26198,37 +26235,6 @@
         "MarketWatch"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Hadrian valued at nearly $8 billion after fresh funding as money pours into defense tech",
-      "link": "https://www.cnbc.com/2026/08/06/hadrian-defense-tech-ai-manufacturing.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-06T09:54:58+00:00",
-      "score": 15,
-      "summary": "Hadrian is one of a number of defense tech startups raising large sums and benefiting from President Trump's plans to upgrade the U.S. military.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -33057,6 +33063,44 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Heated Rivalry\u2019 Author Appears To Dismiss Negative Reactions To Season 2 Casting",
+      "link": "https://deadline.com/2026/08/heated-rivalry-author-dismiss-negative-reactions-season-2-casting-1237029395/",
+      "source": "Deadline",
+      "timestamp": "2026-08-08T21:25:40+00:00",
+      "score": 15,
+      "summary": "As Heated Rivalry hits the ice for another season with some new teammates, there\u2019s bound to be some opinions about the casting choices for the book series\u2019 beloved characters. Following the news that Justice Smith and Charlie Gillespie have been cast in Season 2, author Rachel...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Rivalry",
+        "Author",
+        "Appears",
+        "Dismiss",
+        "Negative",
+        "Reactions",
+        "Season",
+        "Casting"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Monica Barbaro Teases Luca Guadagnino\u2019s OpenAI Film \u2018Artificial,\u2019 Addresses Timoth\u00e9e Chalamet\u2019s Ballet Comments",
       "link": "https://www.hollywoodreporter.com/movies/movie-news/monica-barbaro-openai-artificial-timothee-chalamet-ballet-1236669431/",
@@ -41165,44 +41209,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Brandon Flowers Looks Back at the Past on Anthemic Single \u2018Tiger\u2019s Blood\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/brandon-flowers-tigers-blood-single-1235604980/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-08-07T07:35:42+00:00",
-      "score": 12,
-      "summary": "The Killers frontman will release a new album, Thrasher, later this month",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Flowers",
-        "Looks",
-        "Back",
-        "Past",
-        "Anthemic",
-        "Single",
-        "Tigers",
-        "Blood"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45395,6 +45401,102 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 4 km NNW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414232",
+      "source": "USGS",
+      "timestamp": "2026-08-08T21:29:04.556000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-08 21:27:26 UTC2026-08-08 21:27:26 UTC at epicenterLocation38.806\u00b0N 122.780\u00b0WDepth2.72 km (1.69 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 6 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414227",
+      "source": "USGS",
+      "timestamp": "2026-08-08T21:28:29.676000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-08 21:26:55 UTC2026-08-08 21:26:55 UTC at epicenterLocation38.818\u00b0N 122.797\u00b0WDepth2.40 km (1.49 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.3 - 55 km WNW of Skwentna, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pqdmdk",
+      "source": "USGS",
+      "timestamp": "2026-08-08T21:21:11.631000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-08 21:19:48 UTC2026-08-08 21:19:48 UTC at epicenterLocation62.256\u00b0N 152.296\u00b0WDepth0.50 km (0.31 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Skwentna",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
       "heat_level": "LOW"
     },
     {
@@ -51786,106 +51888,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 8 km E of San Diego Country Estates, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668170",
-      "source": "USGS",
-      "timestamp": "2026-08-07T17:50:38.570000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-07 17:47:15 UTC2026-08-07 17:47:15 UTC at epicenterLocation33.013\u00b0N 116.703\u00b0WDepth26.94 km (16.74 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "San",
-        "Diego",
-        "Country",
-        "Estates"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 20 km NNW of Tehachapi, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40668162",
-      "source": "USGS",
-      "timestamp": "2026-08-07T17:47:51.449000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-07 17:44:25 UTC2026-08-07 17:44:25 UTC at epicenterLocation35.281\u00b0N 118.569\u00b0WDepth7.40 km (4.60 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Tehachapi"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 63 km SE of Denali National Park, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026poaecg",
-      "source": "USGS",
-      "timestamp": "2026-08-07T17:43:02.323000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-07 17:41:16 UTC2026-08-07 17:41:16 UTC at epicenterLocation63.188\u00b0N 150.729\u00b0WDepth133.40 km (82.89 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Denali",
-        "National",
-        "Park",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
