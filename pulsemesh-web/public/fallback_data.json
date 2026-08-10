@@ -2129,7 +2129,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.7,
+      "trend_score": 8.6,
       "source_count": 16,
       "sources_reporting": [
         "Guardian",
@@ -6948,7 +6948,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.2,
+      "trend_score": 10.1,
       "source_count": 16,
       "sources_reporting": [
         "Bloomberg",
@@ -6958,7 +6958,7 @@
         "Verge",
         "Wired"
       ],
-      "trend_accel": "+82%",
+      "trend_accel": "+81%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13228,6 +13228,40 @@
     }
   ],
   "World": [
+    {
+      "title": "Daniel Kinahan Extradited From the U.A.E. to Ireland",
+      "link": "https://www.nytimes.com/2026/08/09/world/europe/daniel-kinahan-ireland-extradition.html",
+      "source": "NYT",
+      "timestamp": "2026-08-10T00:25:25+00:00",
+      "score": 12,
+      "summary": "Daniel Kinahan, accused of leading a family crime syndicate, was flown home from Dubai on an Irish government jet on Sunday.",
+      "country": "Ireland",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kinahan",
+        "Extradited",
+        "UAE",
+        "Ireland"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "NSW Police forced to reopen investigation into Sydney gay club drug raids",
       "link": "https://www.abc.net.au/news/2026-08-10/sydney-oxford-st-nsw-police-drug-raids-investigation-reopened/107011288",
@@ -19761,19 +19795,21 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Sandwich generation navigating work, elderly parents and kids at home",
-      "link": "https://www.abc.net.au/news/2026-08-09/sandwich-generation-work-elderly-parents-kids-still-at-home/107005466",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-08T19:18:50+00:00",
-      "score": 10,
-      "summary": "Broadcaster and author Sarah Macdonald is part of a growing army of silent unpaid workers, coping with the consequences of a housing crisis and a broken aged care system.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "Thin volumes at closing auction debut hit F&O",
+      "link": "https://www.livemint.com/market/thin-volumes-sebi-closing-auction-f-o-equity-derivatives-fpi-investors-nifty-traders-nse-11786263481670.html",
+      "source": "Livemint",
+      "timestamp": "2026-08-10T05:51:12+05:30",
+      "score": 12,
+      "summary": "Uncertainty-induced thin volumes during the new closing auction session of derivatives stocks keeps some participants at bay.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -19784,15 +19820,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "ABC Australia"
+        "Livemint"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "You could be missing out on \u00a3150 off your energy bill - here's how to check",
       "link": "https://www.bbc.co.uk/news/articles/czjlk8wx771o?at_medium=RSS&at_campaign=rss",
@@ -26349,35 +26383,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "World's biggest spirits maker pops 4% on $1 billion cost-cutting plan",
-      "link": "https://www.cnbc.com/2026/08/06/diageo-savings-plan-restructuring-earnings-spirits.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-06T14:05:45+00:00",
-      "score": 13,
-      "summary": "Diageo, whose brands include Johnnie Walker scotch whisky, Captain Morgan rum and Guinness stout, said costs relating to the savings program will amount to $1.2 billion.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -32266,7 +32271,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.3,
+      "trend_score": 9.2,
       "source_count": 12,
       "sources_reporting": [
         "BBC",
@@ -33168,6 +33173,45 @@
   ],
   "Entertainment": [
     {
+      "title": "Ben Jones Dies: Cooter On \u2018Dukes Of Hazzard,\u2019 Georgia Congressman Was 84",
+      "link": "https://deadline.com/2026/08/ben-jones-dead-cooter-dukes-of-hazzard-1237029751/",
+      "source": "Deadline",
+      "timestamp": "2026-08-10T00:29:05+00:00",
+      "score": 15,
+      "summary": "Ben Jones, known to millions as the affable \u2014 if mischievous \u2014 mechanic Cooter on The Dukes of Hazzard, died today at the age of 84. His wife, Alma Vitor, said that Jones had died of a massive heart attack while \u201cresting in his favorite chair waiting for the Braves to come on ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Jones",
+        "Dies",
+        "Cooter",
+        "Dukes",
+        "Hazzard",
+        "Georgia",
+        "Congressman",
+        "Was"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 8,
+      "sources_reporting": [
+        "Deadline",
+        "THR"
+      ],
+      "trend_accel": "+62%",
+      "heat_level": "HOT"
+    },
+    {
       "title": "New Reality Show Follows Six Moms With Adult Content Side Hustles: How to Watch \u2018Double Lives of Suburban Wives\u2019",
       "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-double-lives-of-suburban-wives-stream-tlc-online-free-1236669817/",
       "source": "THR",
@@ -33246,15 +33290,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 9,
+      "trending": true,
+      "trend_score": 11.0,
+      "source_count": 17,
       "sources_reporting": [
+        "BBC",
+        "Bloomberg",
+        "Deadline",
+        "NHK",
         "THR",
         "Variety"
       ],
-      "trend_accel": "+64%",
-      "heat_level": "HOT"
+      "trend_accel": "+84%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Ben Jones, Cooter Davenport on \u2018The Dukes of Hazzard,\u2019 Dies at 84",
@@ -33283,14 +33331,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 11.0,
+      "source_count": 11,
       "sources_reporting": [
-        "THR"
+        "Bloomberg",
+        "Deadline",
+        "NHK",
+        "PBS",
+        "THR",
+        "Variety"
       ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
+      "trend_accel": "+85%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Phoebe Bridgers Sings about Love and Death and the Whole Damn Thing in \u2018Lost Weekend,\u2019 a Captivating Record Worth the Six-Year Wait: Album Review",
@@ -34019,8 +34072,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "Bloomberg",
@@ -37759,8 +37812,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "Deadline",
@@ -41278,50 +41331,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "New York Yankees Drama Series In Works From Netflix, Jason Bateman\u2019s Aggregate Films, Josh Wakely & MLB",
-      "link": "https://deadline.com/2026/08/new-york-yankees-netflix-jason-bateman-mlb-1237028636/",
-      "source": "Deadline",
-      "timestamp": "2026-08-07T17:00:23+00:00",
-      "score": 12,
-      "summary": "Netflix is extending its relationship with MLB with a new untitled scripted series about the New York Yankees which they\u2019re putting into development with Emmy winner Jason Bateman\u2019s Aggregate Films and Daytime Emmy winner Josh Wakely. We understand it was Wakely who secured th...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "York",
-        "Yankees",
-        "Drama",
-        "Series",
-        "Works",
-        "Netflix",
-        "Jason",
-        "Batemans",
-        "Aggregate",
-        "Films",
-        "Josh",
-        "Wakely",
-        "MLB"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 7,
-      "sources_reporting": [
-        "Deadline",
-        "Variety"
-      ],
-      "trend_accel": "+64%",
-      "heat_level": "HOT"
     }
   ],
   "Lifestyle": [
@@ -45297,6 +45306,71 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.5 - 5 km NNW of Pinnacles, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75414872",
+      "source": "USGS",
+      "timestamp": "2026-08-10T00:28:30.698000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-10 00:26:54 UTC2026-08-10 00:26:54 UTC at epicenterLocation36.568\u00b0N 121.172\u00b0WDepth3.23 km (2.01 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Pinnacles"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 5 km SSE of Midland, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ppshfb",
+      "source": "USGS",
+      "timestamp": "2026-08-10T00:28:04.617000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-10 00:24:37 UTC2026-08-10 00:24:37 UTC at epicenterLocation31.946\u00b0N 102.060\u00b0WDepth3.71 km (2.30 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Midland",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.0 - 13 km ENE of Borrego Springs, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669594",
@@ -51867,72 +51941,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.4 - 17 km ENE of Nurda\u011f\u0131, Turkey",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjc0",
-      "source": "USGS",
-      "timestamp": "2026-08-09T01:05:54.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-09 00:42:18 UTC2026-08-09 00:42:18 UTC at epicenterLocation37.205\u00b0N 36.923\u00b0EDepth10.00 km (6.21 mi)",
-      "country": "Turkey",
-      "region": "Middle East",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Nurda",
-        "Turkey"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 53 km WNW of Skwentna, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pqjvxy",
-      "source": "USGS",
-      "timestamp": "2026-08-09T00:32:12.803000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-09 00:31:00 UTC2026-08-09 00:31:00 UTC at epicenterLocation62.253\u00b0N 152.267\u00b0WDepth3.10 km (1.93 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Skwentna",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
       "heat_level": "LOW"
     }
   ]
