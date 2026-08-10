@@ -9754,7 +9754,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.1,
+      "trend_score": 9.0,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -13231,6 +13231,39 @@
     }
   ],
   "World": [
+    {
+      "title": "Australia politics live: Coalition to work with Hanson on migration bill; Greens fear PM \u2018under the thumb\u2019 of gambling lobby",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-08-10T23:41:27+00:00",
+      "score": 12,
+      "summary": "Labor looks to negotiate with the Coalition to get several pieces of legislation through parliament. Follow today\u2019s news liveGet our breaking news email, free app or daily news podcastTed O\u2019Brien says that just because the Japanese government has downplayed melon-gate, doesn\u2019t...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Coalition",
+        "Hanson",
+        "Greens"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "West Asia war fallout: Oil product exports find many new markets",
       "link": "https://timesofindia.indiatimes.com/business/india-business/oil-product-exports-find-many-new-markets/articleshow/133139691.cms",
@@ -19930,22 +19963,26 @@
       ],
       "trend_accel": "+54%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Real estate agent offers to repair 20 public housing homes for free",
-      "link": "https://www.abc.net.au/news/2026-08-10/act-campaign-to-renovate-canberra-public-housing-pro-bono/107015858",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-10T05:18:58+00:00",
+      "title": "'I started in my 20s and made \u00a38,000': Why women are often better investors than men",
+      "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-08-10T23:32:10+00:00",
       "score": 15,
-      "summary": "A Canberra real estate agent who was once homeless has offered to fix up 20 public housing properties pro bono, and is calling on the ACT government to agree to the project.",
-      "country": "Australia",
-      "region": "Oceania",
+      "summary": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
+      "country": "UK",
+      "region": "Europe",
       "source_type": "Broadcaster",
       "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Why"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19955,13 +19992,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "BBC"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom",
       "link": "https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html",
@@ -26541,35 +26576,24 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "IPO GMPs: Dhoot Transmission, Molbio Diagnostics, Shiprocket, Behari Lal Engg to Milky Mist \u2014 What grey market signals",
-      "link": "https://www.livemint.com/market/ipo/ipo-gmps-dhoot-transmission-molbio-diagnostics-shiprocket-behari-lal-engg-to-milky-mist-what-grey-market-signals-11786174589659.html",
-      "source": "Livemint",
-      "timestamp": "2026-08-08T14:29:13+05:30",
-      "score": 14,
-      "summary": "These five mainboard upcoming IPOs are going to hit the Indian primary market next week",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Machine learning predicts forest soil fungal diversity from drone images",
+      "link": "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-10T19:40:02-04:00",
+      "score": 10,
+      "summary": "Combining drone data and machine learning can help cover more ground in monitoring forest soil health, University of Alberta research shows. The findings are published in the journal Forest Ecology and Management. Using both tools to map and monitor soil fungal diversity\u2014a key...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "GMPs",
-        "Dhoot",
-        "Transmission",
-        "Molbio",
-        "Diagnostics",
-        "Shiprocket",
-        "Behari",
-        "Lal",
-        "Engg",
-        "Milky",
-        "Mist",
-        "What"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26577,15 +26601,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Traditional plastic forks shed harmful microplastics. Plastic created from sugar is an alternative",
       "link": "https://phys.org/news/2026-08-traditional-plastic-forks-microplastics-sugar.html",
@@ -32695,35 +32717,6 @@
         "Phys.org"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Rare ultra-magnetic star may be key to solving 90-year old quantum cold case",
-      "link": "https://phys.org/news/2026-08-rare-ultra-magnetic-star-key.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-06T10:20:06-04:00",
-      "score": 13,
-      "summary": "Astronomers may have just confirmed one of the quirkiest aspects of quantum mechanics: that seemingly empty space can alter the behavior of light. This phenomenon, called \"vacuum birefringence,\" was first predicted nearly 90 years ago by Werner Heisenberg, one of the founding ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -45099,6 +45092,37 @@
   ],
   "CrisisWatch": [
     {
+      "title": "Green forest fire notification in Brazil",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030350",
+      "source": "GDACS",
+      "timestamp": "2026-08-10T23:32:34+00:00",
+      "score": 12,
+      "summary": "On 30/07/2026, a forest fire started in Brazil, until 10/08/2026.",
+      "country": "Brazil",
+      "region": "Americas",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Brazil"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.6 - 14 km NNW of Avenal, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415492",
       "source": "USGS",
@@ -51593,38 +51617,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.4 - 46 km NW of Toyah, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026pplvyn",
-      "source": "USGS",
-      "timestamp": "2026-08-09T21:14:03.325000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-09 21:09:58 UTC2026-08-09 21:09:58 UTC at epicenterLocation31.619\u00b0N 104.124\u00b0WDepth4.83 km (3.00 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Toyah",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
       "heat_level": "LOW"
     }
   ]
