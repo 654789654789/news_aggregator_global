@@ -1,6 +1,35 @@
 {
   "Politics": [
     {
+      "title": "Panel recommends annual screening, additional test for chronic kidney disease",
+      "link": "https://www.thehindu.com/news/national/panel-recommends-annual-screening-additional-test-for-chronic-kidney-disease/article71332058.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-08-11T18:05:35+05:30",
+      "score": 10,
+      "summary": "Parliamentary committee report notes that CKD remains asymptomatic until substantial kidney function has been lost, resulting in complications, dialysis; agricultural workers and other outdoor labourers among those affected",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Supreme Court declines to intervene in Trinamool plea on frozen bank accounts",
       "link": "https://www.thehindu.com/news/national/supreme-court-declines-to-intervene-in-trinamool-plea-on-frozen-bank-accounts/article71332045.ece",
       "source": "The Hindu",
@@ -4180,7 +4209,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.3,
+      "trend_score": 10.2,
       "source_count": 19,
       "sources_reporting": [
         "AP",
@@ -6624,29 +6653,34 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Chief Minister Naidu to inaugurate 21.77-km Seed Access Road on Amaravati August 13",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-naidu-to-inaugurate-2177-km-seed-access-road-on-amaravati-august-13/article71327948.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-10T19:03:06+05:30",
-      "score": 17,
-      "summary": "The road, designated as E3, begins at Dondapadu and passes through Rayapudi, Venkatapalem, Penumaka, Undavalli, and Tadepalli before merging with NH-16 near Manipal Hospitals",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "A Zoom Screen-Sharing Bug Let Anyone Take Over Other Devices on a Call",
+      "link": "https://www.wired.com/story/a-zoom-screen-sharing-bug-let-anyone-take-over-other-devices-on-a-call/",
+      "source": "Wired",
+      "timestamp": "2026-08-11T12:37:12+00:00",
+      "score": 12,
+      "summary": "Researchers say it took fewer than 20 prompts for a public AI tool to find a flaw (now fixed) allowing anyone on a Zoom call to hijack another participants\u2019 device.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Minister",
-        "Naidu",
-        "Seed",
-        "Access",
-        "Road",
-        "Amaravati",
-        "August"
+        "Zoom",
+        "ScreenSharing",
+        "Bug",
+        "Let",
+        "Anyone",
+        "Take",
+        "Over",
+        "Other",
+        "Devices",
+        "Call"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6657,13 +6691,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "Wired"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+43%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Claude will apply invisible watermarks to AI text and images",
       "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
@@ -13212,35 +13244,6 @@
         "TechCrunch"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-04T20:05:26+00:00",
-      "score": 14,
-      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -19832,6 +19835,39 @@
   ],
   "Business": [
     {
+      "title": "S&P 500 futures tick higher as investors weigh Iran, Hormuz deal prospects: Live updates",
+      "link": "https://www.cnbc.com/2026/08/10/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-11T12:44:06+00:00",
+      "score": 17,
+      "summary": "Investors weighed signs of progress toward reopening the Strait of Hormuz against doubts that the U.S. and Iran can reach a broader resolution to the conflict.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Iran",
+        "Hormuz",
+        "Live"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Here are Tuesday's biggest analyst calls: SpaceX, Nvidia, Tesla, Apple, Best Buy, Boeing, First Solar & more",
       "link": "https://www.cnbc.com/2026/08/11/tuesday-top-stocks-by-analyst-calls-like-nvidia.html",
       "source": "CNBC",
@@ -26378,29 +26414,28 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Rotation From Leveraged ETFs Fuel 30% Jump in Korea Small Caps",
-      "link": "https://www.livemint.com/market/rotation-from-leveraged-etfs-fuel-30-jump-in-korea-small-caps-11786333692633.html",
-      "source": "Livemint",
-      "timestamp": "2026-08-10T09:18:12+05:30",
-      "score": 15,
-      "summary": "South Korea\u2019s small-cap stocks are regaining investor interest after lagging larger peers for much of the year, as restrictions on leveraged exchanged-traded funds tracking heavyweight chipmakers shift money toward Kosdaq names.",
-      "country": "India",
-      "region": "South Asia",
+      "title": "On These Motorcycles, the Thrill Is Electric",
+      "link": "https://www.nytimes.com/2026/08/11/climate/electric-motorcycles-pakistan.html",
+      "source": "NYT",
+      "timestamp": "2026-08-11T12:35:24+00:00",
+      "score": 12,
+      "summary": "With gas prices high, people in developing countries are racing to buy battery-powered bikes. The Iran war has made Trump \u201csalesman of the year,\u201d one executive in Pakistan said.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Newspaper",
-      "trust_score": 8,
+      "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Leveraged",
-        "ETFs",
-        "Fuel",
-        "Jump",
-        "Korea",
-        "Small",
-        "Caps"
+        "These",
+        "Motorcycles",
+        "Thrill",
+        "Electric"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26409,15 +26444,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "Livemint"
+        "NYT"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Last-minute scramble for eclipse safety glasses",
       "link": "https://www.bbc.co.uk/news/articles/cp8765yd84yo?at_medium=RSS&at_campaign=rss",
@@ -32565,37 +32598,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Q&A: Mushroom behind 'tiny people' hallucinations identified",
-      "link": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-06T18:50:01-04:00",
-      "score": 12,
-      "summary": "People in communities thousands of miles apart have described the same strange experience after eating a mysterious mushroom: vivid visions of tiny humans moving through and interacting with the physical world around them. Known as Lilliputian hallucinations\u2014a reference to the...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mushroom"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33321,6 +33323,45 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Seriesly Berlin Sets Paramount+\u2019s \u2018Jossi\u2019 & Disney+\u2019s \u2018City Of Blood\u2019 Among 13 Premieres",
+      "link": "https://deadline.com/2026/08/seriesly-berlin-premieres-paramount-disney-hulu-1237030957/",
+      "source": "Deadline",
+      "timestamp": "2026-08-11T12:31:47+00:00",
+      "score": 15,
+      "summary": "Seriesly Berlin has set a program of 13 series premieres, with shows from Paramount+ and Disney+ in the line-up. The Seriesly Berlin Premieres will run from September 14-17, running alongside the Seriesly Berlin Conference (September 15-16). Among the series are Jossi, a Germa...",
+      "country": "Germany",
+      "region": "Europe",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Berlin",
+        "Sets",
+        "Paramounts",
+        "Jossi",
+        "Disneys",
+        "City",
+        "Blood",
+        "Among",
+        "Premieres"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Lucy Liu Boards \u2018Reset,\u2019 Sci-Fi Short Being Developed Into a Feature, as EP (Exclusive)",
       "link": "https://www.hollywoodreporter.com/movies/movie-news/lucy-liu-boards-reset-sci-fi-short-film-exclusive-trailer-1236670803/",
@@ -41264,54 +41305,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "China Box Office: \u2018Spider-Man: Brand New Day\u2019 Retains Crown as \u2018Once Upon a Time in the Middle East,\u2019 \u2018The Odyssey\u2019 Surge in Previews",
-      "link": "https://variety.com/2026/film/box-office/china-box-office-spider-man-brand-new-day-the-odyssey-1236831057/",
-      "source": "Variety",
-      "timestamp": "2026-08-10T05:44:47+00:00",
-      "score": 14,
-      "summary": "Sony\u2019s blockbuster \u201cSpider-Man: Brand New Day\u201d held onto the top spot at the mainland China box office during the Aug. 7\u20139 weekend, pulling in RMB196.6 million ($28.9 million) in its second full frame. The film has now amassed a cumulative total of $185.4 million since its Jul...",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Box",
-        "Office",
-        "SpiderMan",
-        "Brand",
-        "New",
-        "Day",
-        "Retains",
-        "Crown",
-        "Once",
-        "Upon",
-        "Time",
-        "Middle",
-        "East",
-        "Odyssey",
-        "Surge",
-        "Previews"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45067,6 +45060,102 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.8 - 5 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415837",
+      "source": "USGS",
+      "timestamp": "2026-08-11T12:39:46.106000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-11 12:38:10 UTC2026-08-11 12:38:10 UTC at epicenterLocation38.810\u00b0N 122.796\u00b0WDepth3.57 km (2.22 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.8 - 2 km NW of Fontana, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670482",
+      "source": "USGS",
+      "timestamp": "2026-08-11T12:36:32+00:00",
+      "score": 15,
+      "summary": "Time2026-08-11 12:33:02 UTC2026-08-11 12:33:02 UTC at epicenterLocation34.113\u00b0N 117.474\u00b0WDepth6.75 km (4.19 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Fontana"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.3 - 58 km S of Whites City, New Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026psmcvr",
+      "source": "USGS",
+      "timestamp": "2026-08-11T12:35:28.300000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-11 12:31:22 UTC2026-08-11 12:31:22 UTC at epicenterLocation31.652\u00b0N 104.345\u00b0WDepth2.97 km (1.84 mi)",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Whites",
+        "City",
+        "New",
+        "Mexico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
       "heat_level": "LOW"
     },
     {
@@ -51440,104 +51529,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 20 km SE of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75017096",
-      "source": "USGS",
-      "timestamp": "2026-08-10T08:57:21.350000+00:00",
-      "score": 17,
-      "summary": "Time2026-08-10 08:53:50 UTC2026-08-10 08:53:50 UTC at epicenterLocation19.067\u00b0N 155.344\u00b0WDepth33.35 km (20.72 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 39 km WNW of Skwentna, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pswhrq",
-      "source": "USGS",
-      "timestamp": "2026-08-10T08:46:42.690000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-10 08:43:42 UTC2026-08-10 08:43:42 UTC at epicenterLocation62.183\u00b0N 152.030\u00b0WDepth35.20 km (21.87 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Skwentna",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 75 km WNW of Karluk, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pswgsp",
-      "source": "USGS",
-      "timestamp": "2026-08-10T08:44:02.681000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-10 08:42:35 UTC2026-08-10 08:42:35 UTC at epicenterLocation57.807\u00b0N 155.645\u00b0WDepth94.30 km (58.60 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Karluk",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
