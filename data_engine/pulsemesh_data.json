@@ -1,6 +1,73 @@
 {
   "Politics": [
     {
+      "title": "As search for thousands of missing pushes on, Colombia earthquake tests new president",
+      "link": "https://www.pbs.org/newshour/world/as-search-for-thousands-of-missing-pushes-on-colombia-earthquake-tests-new-president",
+      "source": "PBS",
+      "timestamp": "2026-08-11T17:36:53-04:00",
+      "score": 12,
+      "summary": "Rescue crews and civilians in Colombia painstakingly searched through rubble Tuesday in the hopes of finding survivors trapped under debris after a powerful earthquake left thousands missing in dozens of cities and towns.",
+      "country": "Colombia",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Seismic"
+      ],
+      "entities": [
+        "Colombia"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Amid backlash, Centre set to refer FCRA Bill to JPC",
+      "link": "https://www.thehindu.com/news/national/centre-likely-to-send-fcra-amendment-bill-to-jpc-amid-opposition-demand-for-withdrawal/article71333056.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-08-12T03:06:05+05:30",
+      "score": 12,
+      "summary": "Centre likely to move resolution in Lok Sabha on Wednesday; Tamil Nadu Assembly urges the Centre to withdraw Bill, undertake consultations with stakeholders; Mizoram Christians hold mass rally",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Centre",
+        "FCRA",
+        "Bill",
+        "JPC"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
       "link": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -22,14 +89,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 8.6,
+      "source_count": 12,
       "sources_reporting": [
-        "BBC"
+        "AP",
+        "BBC",
+        "Guardian",
+        "NPR",
+        "Reuters"
       ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
+      "trend_accel": "+68%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Democrats Accuse Trump Administration of Stonewalling Major Transit Projects",
@@ -6539,75 +6610,28 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "An Elaborate Ruse: Trump Secretly Used Military Jet to Leave Turkey Amid Threats",
-      "link": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html",
-      "source": "NYT",
-      "timestamp": "2026-08-11T00:17:29+00:00",
+      "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was \u2018cookie stuffing\u2019 for months",
+      "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-11T21:39:58+00:00",
       "score": 12,
-      "summary": "President Trump hid in an airport catering cart and was taken to a military jet for a secret flight out of country after the NATO summit last month.",
-      "country": "Turkey",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Elaborate",
-        "Ruse",
-        "Trump",
-        "Secretly",
-        "Used",
-        "Military",
-        "Jet",
-        "Leave",
-        "Turkey",
-        "Amid",
-        "Threats"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 8.9,
-      "source_count": 13,
-      "sources_reporting": [
-        "AP",
-        "Bloomberg",
-        "NYT",
-        "PBS",
-        "PBS"
-      ],
-      "trend_accel": "+74%",
-      "heat_level": "SURGING"
-    },
-    {
-      "title": "Trump Stokes Islamophobia by Calling Democratic Candidates \u2018Jihadists\u2019",
-      "link": "https://www.nytimes.com/2026/08/10/us/politics/trump-democrats-somalis-jihadists-muslim.html",
-      "source": "NYT",
-      "timestamp": "2026-08-11T00:00:51+00:00",
-      "score": 12,
-      "summary": "Along with his comments about Muslim candidates, Mr. Trump spoke disparagingly of Somalis in the United States, saying \u201cthey\u2019re not smart.\u201d",
+      "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Stokes",
-        "Islamophobia",
-        "Calling",
-        "Democratic",
-        "Candidates",
-        "Jihadists"
+        "Gates",
+        "Sophia",
+        "Kianni",
+        "Phia"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6618,13 +6642,42 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "NYT"
+        "TechCrunch"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-11T21:39:11+00:00",
+      "score": 15,
+      "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "India"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "An FCC filing points to new Sonos headphones coming soon",
       "link": "https://www.theverge.com/tech/978355/sonos-headphones-fcc-filing",
@@ -13099,18 +13152,53 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Anthropic is hiring an AI chip design team",
-      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-05T14:13:18+00:00",
-      "score": 14,
-      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "title": "A ferry capsizes on Zimbabwe's Lake Kariba, leaving at least 15 people dead and 27 missing",
+      "link": "https://www.pbs.org/newshour/world/a-ferry-capsizes-on-zimbabwes-lake-kariba-leaving-at-least-15-people-dead-and-27-missing",
+      "source": "PBS",
+      "timestamp": "2026-08-11T17:44:39-04:00",
+      "score": 15,
+      "summary": "An overloaded ferry capsized on Zimbabwe 's Lake Kariba on Tuesday, killing at least 15 people and leaving 27 missing, the national disaster management agency said. It said 77 people were rescued and made it to a small island on the lake, with boats now being dispatched to bri...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Zimbabwes",
+        "Lake",
+        "Kariba"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "After 80 years of dairying, no-one wants this farm's milk.",
+      "link": "https://www.abc.net.au/news/rural/2026-08-12/dairy-farmer-loses-supply-contract/107023390",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-11T21:36:48+00:00",
+      "score": 15,
+      "summary": "Despite Queensland importing half its milk, Jason Rozynski fears he will have to slaughter his 600 cows if a processor won't buy his milk.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
@@ -13122,29 +13210,31 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
     },
     {
-      "title": "Sunbird relaunched its iMessage app for Android users after three years away",
-      "link": "https://www.theverge.com/tech/975563/imessage-android-sunbird",
-      "source": "Verge",
-      "timestamp": "2026-08-05T10:13:15-04:00",
+      "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+      "link": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-08-11T21:34:55+00:00",
       "score": 12,
-      "summary": "Sunbird Messaging is back on the Google Play Store, offering Android users blue bubble privileges in iMessage complete with reactions and high quality videos for $2.99 a month. Apple and Google have made cross platform messaging better in recent years with support for RCS, but...",
-      "country": "US",
+      "summary": "BBC Mundo has gone to the site of Torres del Limonar, a collapsed building in Cali where rescue workers fight to free survivors.",
+      "country": "Colombia",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Seismic"
+      ],
       "entities": [
-        "Android"
+        "Colombian"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13155,13 +13245,44 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Verge"
+        "BBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "New partnership hopes DNA will help solve First Nations cold cases",
+      "link": "https://www.abc.net.au/news/2026-08-12/new-global-first-partnership-to-shed-light-on-missing-persons/106999426",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-11T21:33:28+00:00",
+      "score": 12,
+      "summary": "Cutting edge forensic science could help shine new light on current First Nations cold cases across Australia.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "DNA",
+        "First",
+        "Nations"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Australia politics live: Coalition promises to simplify construction code to help speed up housing builds",
       "link": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
@@ -19622,117 +19743,27 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Bird flu vaccine to be rolled out to vulnerable species in captivity",
-      "link": "https://www.abc.net.au/news/2026-08-11/federal-politics-agriculture-minister-bird-flu-vaccine-rollout/107023868",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-11T03:34:55+00:00",
-      "score": 10,
-      "summary": "A vaccine will be rolled out to protect Australia's native species from the deadly H5N1 bird flu, with a focus on birds in captivity.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Trump administration ends Medicaid, CHIP funding for gender-affirming care for children",
+      "link": "https://www.cnbc.com/2026/08/11/trump-medicaid-chip-funding-gender-affirming-care-children.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-11T21:36:03+00:00",
+      "score": 14,
+      "summary": "Federal dollars in the two health insurance programs would not go toward gender-affirming care, but states could still cover the treatments.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Australia news live: Taylor mounts parliamentary attack on Labor\u2019s \u2018wicked\u2019 widow tax; RBA interest rates decision due today",
-      "link": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-08-11T03:08:47+00:00",
-      "score": 12,
-      "summary": "Follow today\u2019s news liveGet our breaking news email, free app or daily news podcastTed O\u2019Brien says that just because the Japanese government has downplayed melon-gate, doesn\u2019t mean Anthony Albanese\u2019s gaffe isn\u2019t a \u201cnational embarrassment\u201d.We\u2019ve seen reports Japan sent a memo ...",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Taylor",
-        "Labors",
-        "RBA"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat - washingtonpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ19xNGhGZ0JaLTNDVWtsdmQxLW1WU0xOeG5iLTJjZ1QxUDdrYWZGMGR6TnJycWF2SkRzRHFlYzM4c2didkgwZjYzY2RPcmJENjR0bDl0VFlaSDBDR2xNQ3NuVENTalV5ei10eGpmZzVrbDBzTUtCOTZBSjh5V1RBOFN1emNPaVpkYXQxWGgzZEsxdkoyNVNMSk5VRTI1VXY1VUhrQlVuNkVrMDNBRFJYd0dya3RMNnd6amdLdlQtQWk?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-08-11T03:08:19+00:00",
-      "score": 12,
-      "summary": "Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat washingtonpost.comTrump used elaborate ruse to fly out of Turkey following summit because of Iran threat, report says The Boston GlobeTrump hid in catering cart to board secret flight in ...",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Aggregator",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Trump",
-        "Turkey",
-        "Iranian"
+        "Medicaid",
+        "CHIP"
       ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Children encountering extremism at 'disturbing' rate, inquiry told",
-      "link": "https://www.abc.net.au/news/2026-08-11/antisemitism-royal-commission-children-extremism-material-online/107023572",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-11T03:05:24+00:00",
-      "score": 10,
-      "summary": "Children at an increasingly young age are engaging with violent extremist material at a \"disturbing\" rate, Australia's counter-terrorism coordinator says.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19742,13 +19773,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Stocks making the biggest moves after hours: Super Micro Computer, CoreWeave, H&R Block and more",
       "link": "https://www.cnbc.com/2026/08/11/stocks-making-the-biggest-moves-after-hours-smci-crwv-hrb.html",
@@ -26247,25 +26276,25 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Portland\u2019s mall rink was this couple\u2019s \u2018happy place.\u2019 They were its last skaters. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXY0QVlzSk1PNUhCcFY5NkF5R3c5bzBza05lLWhQbHd0dGQ4bTN0R2drdGEyYTc1cmc4WkVHVmJqbFVmdDI4RWRRVDVkWGMwV0FMbDFMb2xUSXhUaFBzQXpFNFg0TUNmMThKb055cmgyanlidnc0aC1rYzNQeThIS2VjUGJweTNoR1hJQk9MN2haLVpaSmVRQy1YRkZaMkpnbWU3MktvNnlxVkp3T1p3T2hMcG1xZzBWaEQwSThjSVVfMTg?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-08-10T15:02:25+00:00",
+      "title": "New CERN measurement challenges conventional models of how gluons behave inside atomic nuclei",
+      "link": "https://phys.org/news/2026-08-cern-conventional-gluons-atomic-nuclei.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-11T17:40:04-04:00",
       "score": 12,
-      "summary": "Portland\u2019s mall rink was this couple\u2019s \u2018happy place.\u2019 They were its last skaters. The Washington PostAfter 66 years, Portlanders say goodbye to the Lloyd Center, old and new OregonLive.comThey fell in love on the ice. Now they\u2019ll be the last to skate at Lloyd Center. KATULloyd...",
+      "summary": "A University of Kansas physicist played a leading role in a CERN study showing that two rival explanations for how gluons behave inside atomic nuclei can now be experimentally distinguished.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "They",
-        "Washington",
-        "Post"
+        "CERN"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26276,13 +26305,43 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Google News"
+        "Phys.org"
       ],
-      "trend_accel": "+58%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "As New World screwworm returns to the US, a new dashboard tracks the risk",
+      "link": "https://phys.org/news/2026-08-world-screwworm-dashboard-tracks.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-11T17:40:01-04:00",
+      "score": 12,
+      "summary": "In the 1950s, the New World screwworm cost U.S. livestock producers tens of millions of dollars a year, reaching $50 million to $100 million annually in the hardest-hit Southwest, before it was eradicated from the United States and pushed south to Panama. Now the flesh-eating ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "New",
+        "World"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Himalayan grain demonstrates the potential of pangenome-guided breeding for higher yields and adaptability",
       "link": "https://phys.org/news/2026-08-himalayan-grain-potential-pangenome-higher.html",
@@ -32437,66 +32496,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Mega-study analyzes the impact of gratitude interventions",
-      "link": "https://phys.org/news/2026-08-mega-impact-gratitude-interventions.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-08T07:20:03-04:00",
-      "score": 10,
-      "summary": "Are some interventions designed to induce gratitude more effectively than others? In which countries and cultures do they work best to improve mood, strengthen bonds between people and promote social reciprocity? A study aimed at answering these questions\u2014conducted in 34 count...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Canada tries to adapt to a future of wildfires",
-      "link": "https://phys.org/news/2026-08-canada-future-wildfires.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-08T07:00:04-04:00",
-      "score": 10,
-      "summary": "Faced with another summer when wildfires have scorched millions of hectares of land and blankets of smoke have disrupted daily life nationwide, Canada is trying to limit the annual devastation.",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33253,6 +33252,46 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Julie Andrews Won\u2019t Be Returning For \u2018The Princess Diaries 3\u2019: \u201cI Think The Story Has To Continue In Princess Mia\u201d",
+      "link": "https://deadline.com/2026/08/julie-andrews-the-princess-diaries-3-wont-return-1237018985/",
+      "source": "Deadline",
+      "timestamp": "2026-08-11T21:40:00+00:00",
+      "score": 15,
+      "summary": "Julie Andrews has confirmed she is breaking away from The Princess Diaries and won\u2019t be reprising her role of Queen Clarisse Renaldi in the third installment. In several new interviews, Andrews has reiterated she won\u2019t be part of the third installment of the franchise she co-s...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Andrews",
+        "Wont",
+        "Returning",
+        "Princess",
+        "Diaries",
+        "Think",
+        "Story",
+        "Has",
+        "Continue",
+        "Mia"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure",
       "link": "https://variety.com/2026/music/news/rod-stewart-cancels-tour-dates-coronary-stent-procedure-1236832530/",
@@ -41284,43 +41323,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Bella Thorne Set to Direct, Write and Star in Spring Breakers 2",
-      "link": "https://www.eonline.com/news/1434871/spring-breakers-2-bella-thorne-set-to-direct-write-and-star?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-08-10T18:18:35+00:00",
-      "score": 15,
-      "summary": "Bella Thorne is shaking up the Spring Breakers sequel. The Disney Channel alum is officially set to write, direct and star in the upcoming Spring Breakers 2, which she has already finished the...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Thorne",
-        "Set",
-        "Direct",
-        "Write",
-        "Star",
-        "Spring",
-        "Breakers"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -44501,44 +44503,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "It\u2019s a Girl! Princess Eugenie Announces the Birth of Her Third Child",
-      "link": "https://www.vogue.com/article/princess-eugenie-announces-birth-of-third-child",
-      "source": "Vogue",
-      "timestamp": "2026-08-04T21:40:04+00:00",
-      "score": 12,
-      "summary": "As of August 3, the British royal family has a new member. See the first photo of Princess Eugenie and Jack Brooksbank\u2019s third child\u2014and first girl\u2014here.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Girl",
-        "Princess",
-        "Eugenie",
-        "Announces",
-        "Birth",
-        "Her",
-        "Third",
-        "Child"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -44571,6 +44535,100 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 1 km WNW of Brawley, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670754",
+      "source": "USGS",
+      "timestamp": "2026-08-11T21:44:55.874000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-11 21:42:32 UTC2026-08-11 21:42:32 UTC at epicenterLocation32.984\u00b0N 115.541\u00b0WDepth7.68 km (4.77 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Brawley"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 3.0 - 7 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416217",
+      "source": "USGS",
+      "timestamp": "2026-08-11T21:42:22.643000+00:00",
+      "score": 15,
+      "summary": "DYFI? - IIITime2026-08-11 21:34:57 UTC2026-08-11 21:34:57 UTC at epicenterLocation38.826\u00b0N 122.805\u00b0WDepth2.76 km (1.71 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.8 - 7 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416232",
+      "source": "USGS",
+      "timestamp": "2026-08-11T21:39:59.790000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-11 21:36:32 UTC2026-08-11 21:36:32 UTC at epicenterLocation38.826\u00b0N 122.807\u00b0WDepth2.64 km (1.64 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
       "heat_level": "LOW"
     },
     {
@@ -50921,104 +50979,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.4 - 11 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415277",
-      "source": "USGS",
-      "timestamp": "2026-08-10T18:38:42.637000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-10 18:37:05 UTC2026-08-10 18:37:05 UTC at epicenterLocation38.797\u00b0N 122.875\u00b0WDepth2.50 km (1.55 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 41 km WNW of Anchor Point, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ptqbvk",
-      "source": "USGS",
-      "timestamp": "2026-08-10T18:38:03.036000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-10 18:36:37 UTC2026-08-10 18:36:37 UTC at epicenterLocation59.910\u00b0N 152.530\u00b0WDepth89.40 km (55.55 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Anchor",
-        "Point",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.6 - 31 km NNW of Covelo, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75415272",
-      "source": "USGS",
-      "timestamp": "2026-08-10T18:30:10.170000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-10 18:26:02 UTC2026-08-10 18:26:02 UTC at epicenterLocation40.028\u00b0N 123.452\u00b0WDepth8.03 km (4.99 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Covelo"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
