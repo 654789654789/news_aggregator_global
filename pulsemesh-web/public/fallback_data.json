@@ -1,6 +1,42 @@
 {
   "Politics": [
     {
+      "title": "Contiguous U.S. broke its record for hottest month ever in July, NOAA says",
+      "link": "https://www.pbs.org/newshour/nation/contiguous-u-s-broke-its-record-for-hottest-month-ever-in-july-noaa-says",
+      "source": "PBS",
+      "timestamp": "2026-08-10T19:53:13-04:00",
+      "score": 12,
+      "summary": "Although it was unusually cool in Alaska, hotter-than-normal conditions blanketed the Lower 48, with the most excessive heat in the Mountain West, Southwest, Northern Plains and Southeast.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "July",
+        "NOAA"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 9.5,
+      "source_count": 15,
+      "sources_reporting": [
+        "AP",
+        "BBC",
+        "Bloomberg",
+        "PBS",
+        "The Hill"
+      ],
+      "trend_accel": "+75%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "American Academy of Pediatrics calls Trump vaccine order \u2018dangerous\u2019",
       "link": "https://thehill.com/policy/healthcare/6021511-aap-blasts-trump-vaccine-directive/",
       "source": "The Hill",
@@ -1441,14 +1477,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 9.4,
+      "source_count": 18,
       "sources_reporting": [
-        "PBS"
+        "AP",
+        "NPR",
+        "PBS",
+        "Reuters",
+        "The Hill"
       ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
+      "trend_accel": "+72%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Kerala will push organic farming in a big way: Agriculture Minister",
@@ -1506,8 +1546,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.0,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 10,
       "sources_reporting": [
         "Guardian",
@@ -6128,8 +6168,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -6624,25 +6664,26 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "\u2018Will pure petrol come from your father\u2019s house\u2019: BJP MP Janardan Mishra defends ethanol policy",
-      "link": "https://www.thehindu.com/news/national/will-pure-petrol-come-from-your-fathers-house-bjp-mp-janardan-mishra-defends-ethanol-policy/article71327064.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-10T11:01:02+05:30",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-10T23:56:15+00:00",
       "score": 14,
-      "summary": "A movement is underway claiming that ethanol won't work, pure petrol will. Will pure petrol come from your father's house? If there's no pure petrol in the country, where will it come from, asked BJP MP Janardan Mishra",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "BJP",
-        "Janardan",
-        "Mishra"
+        "AIled",
+        "OpenAI"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6651,15 +6692,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Jeff Bezos might finally get his hands on a sports team",
       "link": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
@@ -13196,24 +13235,26 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "TV Time co-founder launches Bingers to revive the beloved TV tracking app",
-      "link": "https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-04T17:05:48+00:00",
+      "title": "Limp Bizkit return to headline loud and proud Aussie festival",
+      "link": "https://www.abc.net.au/news/2026-08-11/good-things-festival-2026-line-up-limp-bizkit-spiritbox/107018298",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-11T00:00:00+00:00",
       "score": 12,
-      "summary": "After TV Time\u2019s shutdown left millions of users searching for an alternative, one of the app\u2019s original founders is back with Bingers, a new TV and movie tracker that revives the social features fans loved while adding support for importing their viewing history.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "Good Things has rallied another big selection of metal, punk, emo and more for the east coast this December.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Time",
-        "Bingers"
+        "Bizkit",
+        "Aussie"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13222,15 +13263,91 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
+      "link": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
+      "source": "NYT",
+      "timestamp": "2026-08-10T23:50:37+00:00",
+      "score": 15,
+      "summary": "The quake shook major cities, including Bogot\u00e1, Cali and Medell\u00edn. At least 111 people have died, the president said, and the death toll appeared likely to rise as rescuers searched damaged buildings.",
+      "country": "Colombia",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Seismic"
+      ],
+      "entities": [
+        "Earthquake",
+        "Strikes",
+        "Colombia",
+        "Killing",
+        "More",
+        "Than"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.6,
+      "source_count": 18,
+      "sources_reporting": [
+        "AP",
+        "Al Jazeera",
+        "France24",
+        "Guardian",
+        "NYT",
+        "PBS",
+        "Reuters"
+      ],
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "Potholes force cars off Calder Freeway as Victorian road anger rises",
+      "link": "https://www.abc.net.au/news/2026-08-11/potholes-calder-freeway-roads-gisborne-road-damage-drivers/107022594",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-10T23:49:55+00:00",
+      "score": 12,
+      "summary": "Maintenance crews are patching up potholes on the Calder Freeway between Gisborne and Sunbury after at least seven cars were damaged this morning.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Calder",
+        "Freeway",
+        "Victorian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Australia politics live: Coalition to work with Hanson on migration bill; Greens fear PM \u2018under the thumb\u2019 of gambling lobby",
       "link": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb",
@@ -15473,8 +15590,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 20,
       "sources_reporting": [
         "AP",
@@ -19860,108 +19977,6 @@
         "ABC Australia"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Australia news live: Two workers were temporarily stood down over airport near-miss; Albanese confirms Labor will amend gambling legislation",
-      "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-08-10T05:32:06+00:00",
-      "score": 14,
-      "summary": "Follow today\u2019s news liveGet our breaking news email, free app or daily news podcastPolice say the remains found in a suitcase near Goulburn are not human.Supt Linda Bradbury with NSW police said:Some good news here that we don\u2019t have a suspicious death of a human on our hands....",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Two",
-        "Albanese",
-        "Labor"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Middle East live: Houthis launch deadly strike on port city of Mocha in Yemen",
-      "link": "https://www.france24.com/en/middle-east/20260810-middle-east-live-houthis-launch-deadly-strike-on-port-city-of-mocha-in-yemen",
-      "source": "France24",
-      "timestamp": "2026-08-10T05:31:56+00:00",
-      "score": 12,
-      "summary": "Yemen's military said seven people were killed and 30 injured in a Houthi attack on the Red Sea port city of Mocha. Meanwhile, Iran said the Strait of Hormuz would remain closed until the US met certain demands made by Tehran. Follow our live blog for the latest developments.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "East",
-        "Houthis",
-        "Mocha",
-        "Yemen"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Demi Vollering wins second women's Tour de France in dominating fashion",
-      "link": "https://www.france24.com/en/tv-shows/sports/20260810-demi-vollering-wins-second-women-s-tour-de-france-in-dominating-fashion",
-      "source": "France24",
-      "timestamp": "2026-08-10T05:30:47+00:00",
-      "score": 12,
-      "summary": "Demi Vollering won the final stage of the Women\u2019s Tour de France and retained her yellow jersey. This is her second Tour victory, following her win in 2023.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Vollering",
-        "Tour",
-        "France"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ],
@@ -26580,6 +26595,35 @@
   ],
   "Science": [
     {
+      "title": "Microplastics may transport hazardous plastic additives through marine environments",
+      "link": "https://phys.org/news/2026-08-microplastics-hazardous-plastic-additives-marine.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-10T20:00:01-04:00",
+      "score": 10,
+      "summary": "Plastic pollution is not only a marine litter issue; it is also closely linked to resource circulation and chemical management. Plastic products contain a wide range of additives, including antioxidants, plasticizers, ultraviolet stabilizers and flame retardants. Some of these...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Machine learning predicts forest soil fungal diversity from drone images",
       "link": "https://phys.org/news/2026-08-machine-forest-soil-fungal-diversity.html",
       "source": "Phys.org",
@@ -32689,35 +32733,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Retailers collect data on their customers, which isn't always accurate",
-      "link": "https://phys.org/news/2026-08-retailers-customers-isnt-accurate.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-06T10:20:07-04:00",
-      "score": 12,
-      "summary": "Christo Wilson is a regular customer at Home Depot. You can reliably find him in the home improvement chain's aisles every spring, reupping his stock of perennials, shrubs, mulch and other gardening supplies to keep his extensive landscaping looking its best.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33443,6 +33458,170 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Demi Lovato To Make Surprise Cameo As Mitchie Torres In \u2018Camp Rock 3\u2019",
+      "link": "https://deadline.com/2026/08/demi-lovato-cameo-camp-rock-3-1237030407/",
+      "source": "Deadline",
+      "timestamp": "2026-08-11T00:00:00+00:00",
+      "score": 15,
+      "summary": "Camp Rock just wouldn\u2019t be the same without Mitchie Torres. Just days ahead of the Camp Rock 3 debut, Disney has revealed that Demi Lovato is not only executive producing the franchise\u2019s return but she will also make a cameo in the iconic role. It only makes sense given the ca...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lovato",
+        "Make",
+        "Surprise",
+        "Cameo",
+        "Mitchie",
+        "Torres",
+        "Camp",
+        "Rock"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 10.9,
+      "source_count": 15,
+      "sources_reporting": [
+        "Deadline",
+        "Guardian",
+        "NHK",
+        "NPR",
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+82%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "Demi Lovato to Make \u2018Camp Rock 3\u2019 Cameo Appearance",
+      "link": "https://variety.com/2026/tv/news/demi-lovato-camp-rock-3-cameo-1236831732/",
+      "source": "Variety",
+      "timestamp": "2026-08-11T00:00:00+00:00",
+      "score": 15,
+      "summary": "Demi Lovato will make a cameo appearance in \u201cCamp Rock 3,\u201d reprising the role of Mitchie Torres. The news comes just ahead of the Los Angeles premiere event on Monday. The movie will debut on Disney Channel on Thursday before streaming on Disney+ beginning Friday. Previously, ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lovato",
+        "Make",
+        "Camp",
+        "Rock",
+        "Cameo",
+        "Appearance"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 9,
+      "sources_reporting": [
+        "Deadline",
+        "Variety"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "\u2018Camp Rock 3\u2019 Surprise! Demi Lovato Reprises Role as Mitchie in Disney\u2019s Movie",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/camp-rock-3-demi-lovato-returns-mitchie-disney-movie-cameo-1236670533/",
+      "source": "THR",
+      "timestamp": "2026-08-11T00:00:00+00:00",
+      "score": 15,
+      "summary": "The singer-actress is also an executive producer on the film, which also sees the return of the Jonas Brothers.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Rock",
+        "Surprise",
+        "Demi",
+        "Lovato",
+        "Reprises",
+        "Role",
+        "Mitchie",
+        "Disneys",
+        "Movie"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Newlyweds\u2019 Jamie Lee Curtis On Why She \u201cBegged\u201d Her Agents To Get Her Sitcom & Why Multi-Cam Sitcoms Are Primed For Comeback",
+      "link": "https://deadline.com/2026/08/newlyweds-jamie-lee-curtis-sitcoms-nbc-1237030554/",
+      "source": "Deadline",
+      "timestamp": "2026-08-10T23:55:36+00:00",
+      "score": 12,
+      "summary": "Jamie Lee Curtis had just wrapped a movie when, during the 1988 pilot season, ABC offered her a half-hour multi-camera pilot. She did it and loved it, so she was bummed out when the network didn\u2019t pick it up to series that May. She went to do another movie, and, while she was ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Jamie",
+        "Lee",
+        "Curtis",
+        "Why",
+        "She",
+        "Begged",
+        "Her",
+        "Agents",
+        "Get",
+        "Sitcom",
+        "MultiCam",
+        "Sitcoms",
+        "Are",
+        "Primed",
+        "Comeback"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Sophie Turner Reveals Part of America She Misses After Moving to U.K.",
       "link": "https://www.eonline.com/news/1434890/sophie-turner-misses-sun-in-america-after-moving-back-to-london-u-k?cmpid=rss-syndicate-genericrss-us-top_stories",
@@ -34786,8 +34965,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -41283,164 +41462,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Bruce Willis\u2019 Daughter Tallulah Willis Marries Justin Acee",
-      "link": "https://www.eonline.com/news/1434839/tallulah-willis-marries-justin-acee-all-about-her-balenciaga-wedding-dress?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-08-09T17:22:59+00:00",
-      "score": 12,
-      "summary": "Tallulah Willis and Justin Acee\u2019s love is unbreakable. In fact, the pair are officially husband and wife, with the youngest daughter of Bruce Willis and Demi Moore having tied the knot with her...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Willis",
-        "Daughter",
-        "Tallulah",
-        "Marries",
-        "Justin",
-        "Acee"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+42%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Florian Hoffmann\u2019s U.N. Compound Drama \u2018Yazz\u2019 Takes Main Alliance 4 Development Prizes at Locarno Pro Awards",
-      "link": "https://variety.com/2026/film/global/florian-hoffmann-yazz-alliance-4-development-prizes-locarno-1236830871/",
-      "source": "Variety",
-      "timestamp": "2026-08-09T17:15:09+00:00",
-      "score": 17,
-      "summary": "Florian Hoffmann\u2019s \u201cYazz,\u201d about a teenager growing up in a UN compound in the Central African Republic, celebrated two major wins at this year\u2019s Locarno Pro Awards for the Alliance 4 Development co-development platform for projects from Austria, France, Germany, Italy and Swi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hoffmanns",
-        "Compound",
-        "Drama",
-        "Yazz",
-        "Takes",
-        "Main",
-        "Alliance",
-        "Development",
-        "Prizes",
-        "Locarno",
-        "Pro",
-        "Awards"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018The Odyssey\u2019 Is Christopher Nolan\u2019s Highest-Grossing Movie Ever With $1.1 Billion and Imax\u2019s Biggest Release of All Time With $289 Million",
-      "link": "https://variety.com/2026/film/box-office/the-odyssey-christopher-nolan-biggest-movie-imax-record-1236830867/",
-      "source": "Variety",
-      "timestamp": "2026-08-09T17:13:36+00:00",
-      "score": 15,
-      "summary": "\u201cThe Odyssey\u201d has notched two major box office milestones over the weekend. The big-budget adaptation of Homer\u2019s original epic is officially Christopher Nolan\u2019s biggest movie ever with $1.1 billion, ranking ahead of 2012\u2019s \u201cThe Dark Knight Rises\u201d with $1.08 billion, not adjust...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Odyssey",
-        "Christopher",
-        "Nolans",
-        "HighestGrossing",
-        "Movie",
-        "Ever",
-        "Billion",
-        "Imaxs",
-        "Biggest",
-        "Release",
-        "All",
-        "Time",
-        "Million"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Spring Story\u2019 and \u2018The Surub\u00ed\u2019 Win Big at Locarno\u2019s First Look",
-      "link": "https://variety.com/2026/film/global/locarno-first-look-winners-spring-story-the-surubi-1236830892/",
-      "source": "Variety",
-      "timestamp": "2026-08-09T17:11:05+00:00",
-      "score": 12,
-      "summary": "LOCARNO, Switzerland \u2014 Cross ocean love story \u201cSpring Story\u201d and miracle comedy \u201cEl Suburi,\u201d at Locarno\u2019s 2026 pix-in-post First Look focus on Uruguay, sharing two prizes a piece at a Sunday evening prize ceremony. The industry awards went to two of its most substantial offeri...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Story",
-        "Surub",
-        "Win",
-        "Big",
-        "Locarnos",
-        "First",
-        "Look"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45091,6 +45112,102 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.4 - 40 km SW of Ludlow, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670202",
+      "source": "USGS",
+      "timestamp": "2026-08-10T23:59:48.403000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-10 23:56:14 UTC2026-08-10 23:56:14 UTC at epicenterLocation34.476\u00b0N 116.485\u00b0WDepth2.14 km (1.33 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ludlow"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.8 - 19 km SW of Snyder, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026prnchd",
+      "source": "USGS",
+      "timestamp": "2026-08-10T23:59:37.001000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-10 23:56:23 UTC2026-08-10 23:56:23 UTC at epicenterLocation32.590\u00b0N 101.058\u00b0WDepth8.25 km (5.13 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Snyder",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.6 - 4 km ENE of Borrego Springs, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40670194",
+      "source": "USGS",
+      "timestamp": "2026-08-10T23:58:15.220000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-10 23:54:52 UTC2026-08-10 23:54:52 UTC at epicenterLocation33.272\u00b0N 116.338\u00b0WDepth2.91 km (1.81 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Borrego",
+        "Springs"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Green forest fire notification in Brazil",
       "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030350",
@@ -51520,103 +51637,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.5 - 6 km NNE of Lake Henshaw, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669538",
-      "source": "USGS",
-      "timestamp": "2026-08-09T21:44:01.246000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-09 21:40:35 UTC2026-08-09 21:40:35 UTC at epicenterLocation33.290\u00b0N 116.738\u00b0WDepth13.39 km (8.32 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Lake",
-        "Henshaw"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.5 - 13 km SE of Ridgecrest, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40669530",
-      "source": "USGS",
-      "timestamp": "2026-08-09T21:26:10.268000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-09 21:22:47 UTC2026-08-09 21:22:47 UTC at epicenterLocation35.543\u00b0N 117.570\u00b0WDepth-0.66 km (-0.41 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ridgecrest"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 79 km SE of King Salmon, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026przgwg",
-      "source": "USGS",
-      "timestamp": "2026-08-09T21:14:07.553000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-09 21:13:04 UTC2026-08-09 21:13:04 UTC at epicenterLocation58.278\u00b0N 155.556\u00b0WDepth7.80 km (4.85 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "King",
-        "Salmon",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
