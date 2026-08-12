@@ -1,6 +1,84 @@
 {
   "Politics": [
     {
+      "title": "White House press secretary leaving",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "source": "NPR",
+      "timestamp": "2026-08-12T16:05:54-04:00",
+      "score": 12,
+      "summary": "Karoline Leavitt will continue to be an outside adviser, Trump said",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "House"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 10.6,
+      "source_count": 17,
+      "sources_reporting": [
+        "AP",
+        "Bloomberg",
+        "Guardian",
+        "NPR",
+        "NYT",
+        "The Hill"
+      ],
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "Karoline Leavitt, Trump\u2019s Press Secretary, to Depart White House",
+      "link": "https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html",
+      "source": "NYT",
+      "timestamp": "2026-08-12T20:03:10+00:00",
+      "score": 12,
+      "summary": "President Trump said that Ms. Leavitt, who recently gave birth to her second child, would be leaving to spend time with her family.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Leavitt",
+        "Trumps",
+        "Press",
+        "Secretary",
+        "Depart",
+        "White",
+        "House"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.0,
+      "source_count": 19,
+      "sources_reporting": [
+        "BBC",
+        "NHK",
+        "NPR",
+        "NPR",
+        "NYT",
+        "The Hill"
+      ],
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "PHOTOS: Millions gather to watch Europe's first total solar eclipse in decades",
       "link": "https://www.pbs.org/newshour/world/photos-millions-gather-to-watch-europes-first-total-solar-eclipse-in-decades",
       "source": "PBS",
@@ -99,14 +177,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 10.9,
+      "source_count": 14,
       "sources_reporting": [
+        "BBC",
+        "NPR",
+        "NPR",
+        "NYT",
+        "PBS",
         "The Hill"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
+      "trend_accel": "+87%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Karnataka Bandh unlikely to disrupt normal life as most organisations extend only moral support",
@@ -2040,8 +2123,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.0,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "NHK",
@@ -6576,91 +6659,40 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Progressive Peggy Flanagan wins Democratic Senate primary in Minnesota",
-      "link": "https://www.npr.org/2026/08/11/nx-s1-5927473/2026-minnesota-senate-primary-election-peggy-flanagan",
-      "source": "NPR",
-      "timestamp": "2026-08-11T23:34:54-04:00",
-      "score": 12,
-      "summary": "Progressive Lt. Gov. Peggy Flanagan won the Democratic primary for Senate from Minnesota. It continues a series of wins for the progressive wing of the party over centrists.",
+      "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-12T20:10:40+00:00",
+      "score": 14,
+      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Peggy",
-        "Flanagan",
-        "Democratic",
-        "Senate",
-        "Minnesota"
+        "Twitch"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.3,
-      "source_count": 14,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
       "sources_reporting": [
-        "Bloomberg",
-        "Guardian",
-        "NHK",
-        "NPR",
-        "NYT",
-        "PBS"
+        "TechCrunch"
       ],
-      "trend_accel": "+87%",
-      "heat_level": "CRITICAL"
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
     },
-    {
-      "title": "Peggy Flanagan, a Progressive, Wins the Democratic Senate Primary in Minnesota",
-      "link": "https://www.nytimes.com/2026/08/11/us/politics/minnesota-democratic-senate-primary-flanagan-craig.html",
-      "source": "NYT",
-      "timestamp": "2026-08-12T03:31:49+00:00",
-      "score": 12,
-      "summary": "The victory by Minnesota\u2019s lieutenant governor was the latest for the left-wing movement in the Midwest. She could become the first Native woman in the Senate.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Flanagan",
-        "Progressive",
-        "Wins",
-        "Democratic",
-        "Senate",
-        "Primary",
-        "Minnesota"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 11.3,
-      "source_count": 14,
-      "sources_reporting": [
-        "BBC",
-        "Guardian",
-        "NPR",
-        "NYT",
-        "PBS",
-        "PBS"
-      ],
-      "trend_accel": "+89%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Tech": [
     {
       "title": "The next big indie game publisher is taking some exciting swings",
       "link": "https://www.theverge.com/games/977985/kinetic-publishing-showcase-sam-barlow-precognition",
@@ -13158,27 +13190,71 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Best Android Charger: Wireless, Portable, Cable (2026)",
-      "link": "https://www.wired.com/story/best-android-charger/",
-      "source": "Wired",
-      "timestamp": "2026-08-06T11:34:00+00:00",
-      "score": 15,
-      "summary": "Whether you\u2019re charging overnight at home or on the go, these are the fastest, most dependable Android chargers we\u2019ve tested.",
+      "title": "The Eclipse Is Coming, and Iceland Is Looking for a Break in the Clouds",
+      "link": "https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-iceland.html",
+      "source": "NYT",
+      "timestamp": "2026-08-12T20:13:08+00:00",
+      "score": 12,
+      "summary": "Rooms were booked years ago, and officials have been making plans. But there\u2019s no telling where, exactly, Icelanders might go to find the best possible view.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Android",
-        "Charger",
-        "Wireless",
-        "Portable",
-        "Cable"
+        "Eclipse",
+        "Coming",
+        "Iceland",
+        "Looking",
+        "Break",
+        "Clouds"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "As Europe Faces Heat Waves and Wildfires, Travelers Are Forced to Adapt",
+      "link": "https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html",
+      "source": "NYT",
+      "timestamp": "2026-08-12T20:06:39+00:00",
+      "score": 12,
+      "summary": "Soaring temperatures, widespread wildfires and dried-up rivers are transforming tourism across the continent. Here\u2019s how travelers are responding.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Europe",
+        "Faces",
+        "Heat",
+        "Waves",
+        "Wildfires",
+        "Travelers",
+        "Are",
+        "Forced",
+        "Adapt"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13189,13 +13265,84 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Wired"
+        "NYT"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Kennedy Center ordered to pay over $250K US to jazz musician who cancelled over Trump rebrand",
+      "link": "https://www.cbc.ca/news/entertainment/kennedy-centre-to-pay-jazz-musician-sued-cancelling-trump-9.7304866?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-08-12T16:04:29-04:00",
+      "score": 15,
+      "summary": "A Washington judge has ordered the Kennedy Center for the Performing Arts to pay jazz musician Chuck Redd more than $250,000 US in legal fees. The ruling comes just months after that same judge tossed the centre\u2019s lawsuit accusing Redd of breach of contract.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Center",
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CBC News"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "A Bright Spot in Colombia as Rescuers Free Quake Victim",
+      "link": "https://www.nytimes.com/2026/08/12/world/americas/colombia-earthquake-rescue.html",
+      "source": "NYT",
+      "timestamp": "2026-08-12T20:01:51+00:00",
+      "score": 12,
+      "summary": "A single image shows the obstacles facing emergency workers as they try to unearth people from the rubble.",
+      "country": "Colombia",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Seismic"
+      ],
+      "entities": [
+        "Bright",
+        "Spot",
+        "Colombia",
+        "Rescuers",
+        "Free",
+        "Quake",
+        "Victim"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "At Iceland\u2019s eclipse festival, a prayer for sea cucumbers and \u2018generosity from the sky.\u2019",
       "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/at-icelands-eclipse-festival-prayer-for-sea-cucumbers-and-generosity-from-the-sky",
@@ -19697,94 +19844,56 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Darline Graham advances to South Carolina Republican runoff for her late brother\u2019s US Senate seat \u2013 live",
-      "link": "https://www.theguardian.com/us-news/live/2026/aug/11/donald-trump-democrats-primaries-wisconsin-minnesota-south-carolina-vaccines-max-miller-latest-news-updates",
-      "source": "Guardian",
-      "timestamp": "2026-08-12T00:59:04+00:00",
-      "score": 12,
-      "summary": "Graham was sworn in as interim senator last month following Lindsey Graham\u2019s death; polls also close in Vermont, Alabama and ConnecticutSenator Darline Graham advances to runoff in South Carolina special primarySign up to the US Breaking News emailPete Hegseth\u2019s appointments t...",
+      "title": "S&P 500 closes higher after tame consumer inflation report, tech sector rises: Live updates",
+      "link": "https://www.cnbc.com/2026/08/11/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-12T20:09:53+00:00",
+      "score": 17,
+      "summary": "Investors are bracing for an important inflation report that could determine the near-term direction for interest rates.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Graham",
-        "South",
-        "Carolina",
-        "Republican",
-        "Senate"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "States ignore Supreme Court, differ on NEET-PG seat norms",
-      "link": "https://timesofindia.indiatimes.com/india/states-ignore-sc-differ-on-neet-pg-seat-norms/articleshow/133167501.cms",
-      "source": "Times of India",
-      "timestamp": "2026-08-12T06:22:49+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Supreme",
-        "Court",
-        "NEETPG"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Pentagon report reveals steep civilian toll of Trump\u2019s Yemen campaign - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckVBc3JYUXFQcW1HaUZ5ckJGRUo1b1BGSUZwUUxkQkFDME1CY2Z6ak9PTWxCQ0QzUEJvMmVNX0VmbUFRYVV0eEozS1R3cV9UaDdXZ3NoYmV5MGQ3R2M3SmVrWmZJaEg4TTRYV1BOYzJrenpqYVVxUWpEeUM3OXk1c0UzZ1ctaGRsOXIzUlFjSnhxdmFNTjJ2ZDV0ZzB6Ry1ER2RWMzdIWFF1NzRNUnhMRzdBSGVtQ200cnhteEJCLWU?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-08-12T00:49:47+00:00",
-      "score": 14,
-      "summary": "Pentagon report reveals steep civilian toll of Trump\u2019s Yemen campaign The Washington PostPentagon tells Congress US military airstrikes in Yemen resulted in 153 civilians killed The HillU.S. Strikes on Yemen Last Year Killed and Wounded Hundreds, Pentagon Finds WSJU.S. militar...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Trumps",
-        "Yemen",
-        "Washington",
-        "Post"
+        "Live"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Everything is going right for the financials sector. Why that is",
+      "link": "https://www.cnbc.com/2026/08/12/everything-is-going-right-for-the-financials-sector-why-that-is.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-12T20:01:52+00:00",
+      "score": 12,
+      "summary": "Financials are running away as a group, with just about every corner offering something compelling for investors.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Why"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19795,45 +19904,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Google News"
+        "CNBC"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
-    {
-      "title": "US court drops graft case against Gautam Adani",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/us-court-drops-graft-case-against-gautam-adani/articleshow/133167487.cms",
-      "source": "Times of India",
-      "timestamp": "2026-08-12T06:17:41+05:30",
-      "score": 14,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gautam",
-        "Adani"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "CoreWeave gains 19%, Nebius surges 34% in post-earnings neocloud rally",
       "link": "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
@@ -26263,53 +26338,21 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Credit card debt climbs to $1.26 trillion as \u2018K-shaped\u2019 divide persists, New York Fed research finds",
-      "link": "https://www.cnbc.com/2026/08/11/ny-fed-credit-card-debt-hits-1point26-trillion-k-shaped-divide-persists.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-11T15:08:48+00:00",
-      "score": 15,
-      "summary": "Credit card balances are ticking higher mid-way through the year, according to a new report on household debt from the Federal Reserve Bank of New York.",
+      "title": "Genetic switch could help tomatoes produce fruit in cold weather",
+      "link": "https://phys.org/news/2026-08-genetic-tomatoes-fruit-cold-weather.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-12T16:10:01-04:00",
+      "score": 10,
+      "summary": "Every tomato begins with a flower. But before a fruit can grow, an intricate sequence of events must happen in perfect order. The flower's male and female organs must develop together, pollen must be released at exactly the right time, and fertilization must occur.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kshaped",
-        "New",
-        "York",
-        "Fed"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "We're exiting our position in an industrial stock to make room for a new AI play",
-      "link": "https://www.cnbc.com/2026/08/11/were-exiting-our-position-in-industrial-stock-to-make-room-for-a-new-ai-play.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-11T15:05:44+00:00",
-      "score": 14,
-      "summary": "The company's disappointing quarter last month put the stock on the chopping block.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26322,13 +26365,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Negotiation is a routine part of daily life, not a rare high-stakes event",
       "link": "https://phys.org/news/2026-08-routine-daily-life-rare-high.html",
@@ -32434,41 +32475,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "The lasting impacts of West Nile virus on Pennsylvania bird populations",
-      "link": "https://phys.org/news/2026-08-impacts-west-nile-virus-pennsylvania.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-10T15:20:03-04:00",
-      "score": 12,
-      "summary": "A new study out of the University of Pennsylvania School of Veterinary Medicine suggests that West Nile virus (WNV) has had impacts on one in five Pennsylvania bird species, demonstrating how decades of community science data and mosquito surveillance can uncover the long-term...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "West",
-        "Nile",
-        "Pennsylvania"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33181,6 +33187,162 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Lionsgate Stock Falls To 4-Month Low After Activist Investor Pushes AI Agenda",
+      "link": "https://deadline.com/2026/08/lionsgate-stock-drops-activist-investor-ai-demands-1237032228/",
+      "source": "Deadline",
+      "timestamp": "2026-08-12T20:15:30+00:00",
+      "score": 17,
+      "summary": "Shares in Lionsgate extended their losses Wednesday after an activist investor expressed restlessness with the company\u2019s stance on AI. On above-average trading volume, the stock ended the day at $11.73, down 1% to its lowest level since April. It fell 4% on Tuesday when news o...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stock",
+        "Falls",
+        "Month",
+        "Low",
+        "After",
+        "Activist",
+        "Investor",
+        "Pushes",
+        "Agenda"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "White House Press Secretary Karoline Leavitt to Step Down, Trump Reveals",
+      "link": "https://www.hollywoodreporter.com/news/politics-news/trumps-karoline-leavitt-white-house-press-secretary-exit-1236672387/",
+      "source": "THR",
+      "timestamp": "2026-08-12T20:15:08+00:00",
+      "score": 12,
+      "summary": "The president wrote on Truth Social that Leavitt \"will be departing her role at the end of the month so she can spend more time with her beautiful young children and family, a decision I totally understand and respect!\"",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "House",
+        "Press",
+        "Secretary",
+        "Karoline",
+        "Leavitt",
+        "Step",
+        "Down",
+        "Trump",
+        "Reveals"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Apple\u2019s Eddy Cue On \u2018Ted Lasso\u2019 Season 5 Renewal Possibility: \u201cThere\u2019s Plenty Of Stories To Go On\u201d",
+      "link": "https://deadline.com/2026/08/eddy-cue-ted-lasso-season-5-renewal-apple-tv-1237032266/",
+      "source": "Deadline",
+      "timestamp": "2026-08-12T20:10:00+00:00",
+      "score": 15,
+      "summary": "The fourth season of Apple TV\u2019s Ted Lasso just premiered, and executive Eddy Cue is hopeful that more seasons are possible. It was believed that after the first three seasons, the Jason Sudeikis-starring comedy series had naturally concluded. However, the creative team regroup...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Eddy",
+        "Cue",
+        "Ted",
+        "Lasso",
+        "Season",
+        "Renewal",
+        "Possibility",
+        "Theres",
+        "Plenty",
+        "Stories"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Paramount Has Considered Creating Oversight Body for CNN in Warner Deal",
+      "link": "https://variety.com/2026/tv/news/paramount-cnn-oversight-committee-warner-deal-1236833271/",
+      "source": "Variety",
+      "timestamp": "2026-08-12T20:05:03+00:00",
+      "score": 14,
+      "summary": "Every day, governments, newsmakers and politicians scrutinize the news reporting of CNN. Paramount Skydance wants to add to the list. The media conglomerate, whose efforts to acquire CNN parent Warner Bros. Discovery have stalled in federal court after a group of 12 attorneys ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Has",
+        "Considered",
+        "Creating",
+        "Oversight",
+        "Body",
+        "CNN",
+        "Warner",
+        "Deal"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018The Lincoln Lawyer\u2019 Spinoff Starring Cobie Smulders In Fast-Track Development At Netflix \u2013 The Dish",
       "link": "https://deadline.com/2026/08/the-lincoln-lawyer-spinoff-cobie-smulders-emi-netflix-1237031468/",
@@ -41101,161 +41263,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Walt Disney Studios Second To Cross $4B WW In 2026 After Universal \u2013 Box Office",
-      "link": "https://deadline.com/2026/08/walt-disney-studios-2026-global-box-office-1237031236/",
-      "source": "Deadline",
-      "timestamp": "2026-08-11T17:37:35+00:00",
-      "score": 15,
-      "summary": "Walt Disney Studios today has just passed the $4 billion global benchmark at this year\u2019s box office, becoming the second studio after Universal to do so. Disney/Pixar\u2019s Toy Story 5 carries the torch as the studio\u2019s highest grossing movie YTD with more than $1.095B ($624.2M int...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Disney",
-        "Studios",
-        "Second",
-        "Cross",
-        "After",
-        "Universal",
-        "Box",
-        "Office"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Frank Miller Talks Arguing with Jim Shooter, Why His Doctor Strange Series Never Happened and \u2018Sin City\u2019 Future",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/frank-miller-brand-new-day-1236670605/",
-      "source": "THR",
-      "timestamp": "2026-08-11T17:31:57+00:00",
-      "score": 12,
-      "summary": "The 'Dark Knight Returns' creator, already having a banner summer, is seeing the digital release of documentary 'Frank Miller: American Genius' out Tuesday.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Miller",
-        "Talks",
-        "Arguing",
-        "Jim",
-        "Shooter",
-        "Why",
-        "His",
-        "Doctor",
-        "Strange",
-        "Series",
-        "Never",
-        "Happened",
-        "Sin",
-        "City",
-        "Future"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Kris Bowers Set to Compose Netflix Animated Feature \u2018Steps\u2019 (EXCLUSIVE)",
-      "link": "https://variety.com/2026/artisans/news/kris-bowers-compose-netflix-animated-feature-steps-1236832210/",
-      "source": "Variety",
-      "timestamp": "2026-08-11T17:28:00+00:00",
-      "score": 12,
-      "summary": "Emmy-nominated composer Kris Bowers is set to score Netflix\u2019s upcoming animated comedy \u201cSteps.\u201d The score was recorded in July and Aug. 2026 at London\u2019s Abbey Road Studios. Slated for release on Nov. 20, \u201cSteps\u201d marks the first film to be fully animated in-house within Netflix...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bowers",
-        "Set",
-        "Compose",
-        "Netflix",
-        "Animated",
-        "Feature",
-        "Steps",
-        "EXCLUSIVE"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Spotify Details Plan to Label AI Artists",
-      "link": "https://www.rollingstone.com/music/music-news/spotify-labeling-ai-artists-1235606855/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-08-11T17:24:16+00:00",
-      "score": 14,
-      "summary": "People will have the opportunity to self-disclose with an \"AI Persona\" badge. Otherwise, the streaming giant will start identifying and tagging relevant profiles",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Details",
-        "Plan",
-        "Label",
-        "Artists"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -44440,6 +44447,71 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.3 - 7 km NNW of La Mesa, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671426",
+      "source": "USGS",
+      "timestamp": "2026-08-12T20:13:13.827000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-12 20:11:08 UTC2026-08-12 20:11:08 UTC at epicenterLocation32.818\u00b0N 117.063\u00b0WDepth2.71 km (1.68 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Mesa"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 4 km ENE of Borrego Springs, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40671386",
+      "source": "USGS",
+      "timestamp": "2026-08-12T20:05:53.036000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-12 19:32:19 UTC2026-08-12 19:32:19 UTC at epicenterLocation33.269\u00b0N 116.338\u00b0WDepth3.08 km (1.91 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Borrego",
+        "Springs"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+62%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.7 - 4 km E of Uniontown, Washington",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714077551",
@@ -50841,70 +50913,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.6 - 7 km W of Lunca Jari\u0219tei, Romania",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk0c",
-      "source": "USGS",
-      "timestamp": "2026-08-11T17:43:40.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-11 17:21:15 UTC2026-08-11 17:21:15 UTC at epicenterLocation45.487\u00b0N 26.160\u00b0EDepth140.00 km (86.99 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lunca",
-        "Jaritei",
-        "Romania"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 6 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416012",
-      "source": "USGS",
-      "timestamp": "2026-08-11T17:37:56.029000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-11 17:36:21 UTC2026-08-11 17:36:21 UTC at epicenterLocation38.818\u00b0N 122.803\u00b0WDepth2.70 km (1.68 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+62%",
       "heat_level": "LOW"
     }
   ]
