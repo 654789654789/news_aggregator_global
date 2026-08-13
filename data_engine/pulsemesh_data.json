@@ -1,6 +1,46 @@
 {
   "Politics": [
     {
+      "title": "Appeals Court Sidesteps Key Question Over Trump\u2019s Use of Alien Enemies Act",
+      "link": "https://www.nytimes.com/2026/08/13/us/politics/alien-enemies-act-trump-appeals-court.html",
+      "source": "NYT",
+      "timestamp": "2026-08-13T21:49:23+00:00",
+      "score": 12,
+      "summary": "The court dismissed a case over the Alien Enemies Act in a messy conclusion to a long-running legal battle that had seemed destined to end up before the Supreme Court.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Court",
+        "Sidesteps",
+        "Key",
+        "Question",
+        "Over",
+        "Trumps",
+        "Use",
+        "Alien",
+        "Enemies",
+        "Act"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Jury selected for trial of former gang leader accused of ordering Tupac Shakur's fatal shooting",
       "link": "https://www.pbs.org/newshour/nation/jury-selected-for-trial-of-former-gang-leader-accused-of-ordering-tupac-shakurs-fatal-shooting",
       "source": "PBS",
@@ -6540,23 +6580,26 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Karnataka launches Tathyakosh.in, a public good data discovery platform",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-launches-tathyakoshin-a-public-good-data-discovery-platform/article71337556.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-13T09:08:00+05:30",
+      "title": "\u2018That is not acceptable\u2019: Judge orders Google to make rival app store installs easier",
+      "link": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
+      "source": "Verge",
+      "timestamp": "2026-08-13T17:53:04-04:00",
       "score": 12,
-      "summary": "Tathyakosh is expected to bring together public datasets from diverse sources, making them easier for researchers, developers, startups and policymakers to discover and assess",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "One month after Epic Games and Google seemingly stopped fighting over the future of Android app distribution, they were back in a San Francisco courtroom today - where Judge James Donato just ordered Google to make it easier to install rival app stores on Android. It's been ne...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Tathyakoshin"
+        "Judge",
+        "Google"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6565,15 +6608,76 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-13T21:50:11+00:00",
+      "score": 12,
+      "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Apple"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "The fight over Flock and other ALPRs",
+      "link": "https://www.theverge.com/tech/979869/flock-alpr-ai-surveillance-protest-privacy",
+      "source": "Verge",
+      "timestamp": "2026-08-13T17:46:21-04:00",
+      "score": 12,
+      "summary": "There are over 120,000 of Flock\u2019s automatic license plate reader (ALPR) cameras installed all over the US. Flock\u2019s cameras, and others like them, use AI to identify and track vehicles based on their license plate number, make, model, color, and other info, networked together t...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Flock",
+        "ALPRs"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Verge"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Microsoft\u2019s Clippy-like Mico character is no longer the face of Copilot",
       "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
@@ -12955,92 +13059,26 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Amazon Great Freedom Sale 2026: Best Deals on Smartphones Under Rs. 50,000",
-      "link": "https://www.gadgets360.com/mobiles/features/amazon-great-freedom-sale-2026-best-deals-smartphones-under-rs-50000-samsung-iqoo-oneplus-nothing-11880379",
-      "source": "Gadgets 360",
-      "timestamp": "2026-08-07T19:51:31+05:30",
-      "score": 17,
-      "summary": "For shoppers with a budget of Rs. 50,000, the ongoing Amazon Great Freedom Sale offers one of the best opportunities of the year to get the best discounts. Buyers can avail bank offers and exchange deals. Brands like Samsung, OnePlus, iQOO, and Nothing are offering compelling ...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Great",
-        "Freedom",
-        "Sale",
-        "Best",
-        "Deals",
-        "Smartphones",
-        "Under"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Gadgets 360"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "SpaceX\u2019s Terafab will rely on natural gas power plants, not Tesla solar panels",
-      "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-07T14:07:31+00:00",
+      "title": "Australia news live: Albanese says he argued for tariff exemption in \u2018productive and substantial\u2019 call with Trump",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-08-13T21:53:10+00:00",
       "score": 12,
-      "summary": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "summary": "PM says he also spoke with the US president about Aukus, which \u2018remains full steam ahead\u2019. Follow today\u2019s news liveGet our breaking news email, free app or daily news podcastAnthony Albanese is speaking in Canberra after he held a \u201cproductive\u201d and \u201csubstantial\u201d call with Donal...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Terafab",
-        "Tesla"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Werewolf transformed my old gadgets into USB-C powered ones",
-      "link": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
-      "source": "Verge",
-      "timestamp": "2026-08-07T10:05:00-04:00",
-      "score": 12,
-      "summary": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos\u2026 or want to play Japanese SNES games with friends\u2026 or lose the AC adapter for my old external hard disk\u2026 I can now power them with a USB battery instead. None of them came with USB-C ports; the en...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "USBC"
+        "Albanese",
+        "Trump"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13051,13 +13089,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Verge"
+        "Guardian"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Raul Castro makes rare public appearance at Fidel centenary event",
       "link": "https://www.france24.com/en/americas/20260813-raul-castro-makes-rare-public-appearance-at-fidel-centenary-event",
@@ -19508,40 +19544,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Breaking: Man missing near floodwater in northern Victoria",
-      "link": "https://www.abc.net.au/news/2026-08-13/man-missing-near-floodwater-northern-victoria/107032282",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-13T01:55:02+00:00",
-      "score": 12,
-      "summary": "The Victoria Police air wing is flying over the area to search for the man.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Man",
-        "Victoria"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -20992,7 +20994,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.4,
+      "trend_score": 10.3,
       "source_count": 12,
       "sources_reporting": [
         "CNBC",
@@ -21002,7 +21004,7 @@
         "NPR",
         "Reuters"
       ],
-      "trend_accel": "+78%",
+      "trend_accel": "+77%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26068,6 +26070,68 @@
     }
   ],
   "Science": [
+    {
+      "title": "Synchronized star pairs unleash radio bursts via a Jupiter-Io-like mechanism",
+      "link": "https://phys.org/news/2026-08-synchronized-star-pairs-unleash-radio.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-13T18:00:04-04:00",
+      "score": 14,
+      "summary": "Researchers have helped unravel the mystery of why certain pairs of stars pulse with regular, long-period bursts of radio waves. The particular class of objects observed comes in pairs that always include a compact dead star, called a white dwarf, locked in orbit with an M dwa...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "JupiterIolike"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Mutation hotspots help 'friendly' viruses outmaneuver the bacteria in your gut",
+      "link": "https://phys.org/news/2026-08-mutation-hotspots-friendly-viruses-outmaneuver.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-13T17:50:01-04:00",
+      "score": 10,
+      "summary": "Every 15 minutes, someone in the U.S. dies from a drug-resistant superbug. A few decades from now, antibiotic-resistant bacterial infections threaten to become the leading cause of death worldwide, outpacing cancer.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "While Great Lakes ice cover is slipping, a 'temporary respite' may be on the way",
       "link": "https://phys.org/news/2026-08-great-lakes-ice-temporary-respite.html",
@@ -32065,69 +32129,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Perceived naturalness emerges as key driver of public support for climate technology",
-      "link": "https://phys.org/news/2026-08-naturalness-emerges-key-driver-climate.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-11T16:40:01-04:00",
-      "score": 12,
-      "summary": "From nuclear energy to lab-grown meat, the list of effective but unpopular climate solutions is long. A new University of Colorado Boulder study sheds light on why people reject or accept some proposed sustainability technologies: If it doesn't seem natural, they won't go for ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Chinese label once tied to Boston Tea Party reveals 19th-century Pacific trade",
-      "link": "https://phys.org/news/2026-08-chinese-boston-tea-party-reveals.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-11T16:30:02-04:00",
-      "score": 15,
-      "summary": "When MIT historian Tristan Brown first examined a Chinese tea chest label displayed as a relic of the Boston Tea Party, he had no reason to doubt its story.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Boston",
-        "Tea",
-        "Party",
-        "Pacific"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32939,6 +32940,44 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Everything We Know About Universal\u2019s Live-Action \u2018How To Train Your Dragon 2\u2019",
+      "link": "https://deadline.com/feature/how-to-train-your-dragon-2-live-action-news-updates-1237033305/",
+      "source": "Deadline",
+      "timestamp": "2026-08-13T21:48:46+00:00",
+      "score": 17,
+      "summary": "Mason Thames\u2019 Hiccup will be back in the saddle for a live-action How To Train Your Dragon 2 next year. Universal first announced plans for the sequel film at CinemaCon 2025, before the first live-action remake even came out. The early green light signaled major confidence in ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Know",
+        "About",
+        "Universals",
+        "LiveAction",
+        "How",
+        "Train",
+        "Your",
+        "Dragon"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Paris Jackson Claps Back at Claim Her Tattoos Make Her Look \u201cDirty\u201d",
       "link": "https://www.eonline.com/news/1435018/paris-jackson-claps-back-at-dirty-tattoo-criticism?cmpid=rss-syndicate-genericrss-us-top_stories",
@@ -40971,45 +41010,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Astrologer Aliza Kelly Reveals How the Solar Eclipse Affects Your Sign",
-      "link": "https://www.eonline.com/news/1434965/solar-eclipse-in-leo-how-each-zodiac-sign-is-affected?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-08-12T20:34:36+00:00",
-      "score": 12,
-      "summary": "Once upon a time there was light in our lives. But now there's only love in the dark. OK, the totality of the Aug. 12 solar eclipse, in which the moon crosses in front of the sun, briefly...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Aliza",
-        "Kelly",
-        "Reveals",
-        "How",
-        "Solar",
-        "Eclipse",
-        "Affects",
-        "Your",
-        "Sign"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -44443,6 +44443,38 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.2 - 16 km NE of Milford, Utah",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80148666",
+      "source": "USGS",
+      "timestamp": "2026-08-13T22:00:33.230000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-13 21:34:52 UTC2026-08-13 21:34:52 UTC at epicenterLocation38.515\u00b0N 112.890\u00b0WDepth1.79 km (1.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Milford",
+        "Utah"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 2.0 - 13 km SE of P\u0101hala, Hawaii",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018227",
@@ -50948,38 +50980,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 36 km E of Balmorhea, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026puqlat",
-      "source": "USGS",
-      "timestamp": "2026-08-12T16:52:42.906000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-12 16:50:29 UTC2026-08-12 16:50:29 UTC at epicenterLocation31.032\u00b0N 103.364\u00b0WDepth0.00 km (0.00 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Balmorhea",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
