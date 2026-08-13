@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "Tahsildar held on bribery charge in Kochi",
+      "link": "https://www.thehindu.com/news/national/kerala/tahsildar-held-on-bribery-charge-in-kochi/article71342732.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-08-14T00:54:03+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kochi"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "TNSTC conductor suspended in Tirupattur for smoking inside bus",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/tnstc-conductor-suspended-in-tirupattur-for-smoking-inside-bus/article71341442.ece",
       "source": "The Hindu",
@@ -6586,23 +6617,56 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Nick Reiner indicted in parents\u2019 slayings, faces new \u2018lying in wait\u2019 allegation",
-      "link": "https://thehill.com/homenews/state-watch/6026007-nick-reiner-indicted-lying-in-wait/",
-      "source": "The Hill",
-      "timestamp": "2026-08-12T20:54:08+00:00",
-      "score": 14,
-      "summary": "Rob Reiner\u2019s son Nick Reiner will face two counts of first-degree murder with \u201clying in wait\u201d special circumstances for the death of his parents, according to an indictment made public Wednesday. The addition of a special circumstance to Reiner\u2019s charges suggests the Los Angel...",
+      "title": "OpenAI is losing its second executive this week",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "source": "Verge",
+      "timestamp": "2026-08-13T15:28:39-04:00",
+      "score": 12,
+      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, presi...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Verge"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT 5.6 Sol work at 14x the speed",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-13T19:22:40+00:00",
+      "score": 17,
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Reiner"
+        "Ultrafast",
+        "GPT",
+        "Sol"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6611,15 +6675,44 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "The Hill"
+        "TechCrunch"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-13T19:19:49+00:00",
+      "score": 14,
+      "summary": "IBM plans to train and certify tens and thousands of consultants on OpenAI's technologies as part of this deal.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "OpenAI"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "I finally found a robot lawnmower I\u2019d trust with my yard",
       "link": "https://www.theverge.com/tech/978664/robot-lawnmower-review-segway-mammotion-husqvarna-roborock-dreame",
@@ -13036,61 +13129,92 @@
       ],
       "trend_accel": "+70%",
       "heat_level": "SURGING"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Best Webcams (2026): My Honest Take After Testing the Best",
-      "link": "https://www.wired.com/story/best-webcams/",
-      "source": "Wired",
-      "timestamp": "2026-08-07T11:32:00+00:00",
-      "score": 15,
-      "summary": "I tested the best webcams across various prices to find the top option. Here\u2019s what I learned.",
+      "title": "Romania shuts only nuclear plant as heat causes drop in Danube River level",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PVHJaVVFpb1NyMzRIQkgzbnRwc09XVG51STNsbEtsUDRaclVPUC1qOWIwc3NiY2NUOXJVaDJWRHQ5Q0Z0MGJPQTNtck9KSUpTYW96MWswTFlmdw?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-08-13T19:20:58+00:00",
+      "score": 12,
+      "summary": "Romania shuts only nuclear plant as heat causes drop in Danube River level bbc.comRomania begins shutdown of nuclear plant\u2019s 2nd reactor amid low water levels on Danube River NBC NewsRomanian Nuclearelectrica starts shutting down sole working nuclear reactor ReutersRomania shu...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
+      "source_type": "Aggregator",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Webcams",
-        "Honest",
-        "Take",
-        "After",
-        "Testing",
-        "Best"
+        "Danube",
+        "River"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 10,
       "sources_reporting": [
-        "Wired"
+        "BBC",
+        "Google News"
       ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
+      "trend_accel": "+72%",
+      "heat_level": "SURGING"
     },
     {
-      "title": "Trying to explain One Night Only\u2019s tech-enforced sex dystopia",
-      "link": "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech",
-      "source": "Verge",
-      "timestamp": "2026-08-07T06:30:00-04:00",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-08-13T19:20:58+00:00",
+      "score": 12,
+      "summary": "The Cernavod\u0103 plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Danube",
+        "River"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 7,
+      "sources_reporting": [
+        "BBC",
+        "Google News"
+      ],
+      "trend_accel": "+71%",
+      "heat_level": "SURGING"
+    },
+    {
+      "title": "Kennedy Center board votes again to renovate building and inscribe Trump\u2019s name on it \u2013 report",
+      "link": "https://www.theguardian.com/us-news/2026/aug/13/kennedy-center-renovations-trump-name",
+      "source": "Guardian",
+      "timestamp": "2026-08-13T19:17:56+00:00",
       "score": 14,
-      "summary": "From the omnipresent One Night Only trailer, you'd be forgiven for thinking that the movie glosses over its terrifying and absurd premise - in otherwise normal modern New York, single people can only have sex one night a year - to deliver an entirely traditional romantic comed...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "summary": "The center has until next week to present plan to judge who had blocked earlier rehab and name changeUS politics live \u2013 latest updatesThe board of the John F Kennedy Center for the Performing Arts in Washington is said to have voted once again to move forward with Donald Trump...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "One",
-        "Night",
-        "Onlys"
+        "Center",
+        "Trumps"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13099,36 +13223,32 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "Guardian"
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
     },
     {
-      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-      "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-      "source": "Wired",
-      "timestamp": "2026-08-07T10:00:00+00:00",
+      "title": "US rushes new carrier to Middle East as sailors report burnout aboard USS Lincoln",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/us-rushes-new-carrier-to-middle-east-amid-reports-of-mental-health-crisis-on-uss-lincoln/articleshow/133223354.cms",
+      "source": "Times of India",
+      "timestamp": "2026-08-14T00:46:41+05:30",
       "score": 14,
-      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the \u201cstrange moment\u201d we\u2019re in.",
+      "summary": "Strategic intelligence signal ingested from Times of India.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Hottest",
-        "New",
-        "Chatbot",
-        "Just",
-        "Guy",
-        "Answering",
-        "Your",
-        "Questions"
+        "Middle",
+        "East",
+        "USS",
+        "Lincoln"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13137,20 +13257,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 17,
+      "source_count": 4,
       "sources_reporting": [
-        "BBC",
-        "Bloomberg",
-        "PBS",
-        "TechCrunch",
-        "Verge",
-        "Wired"
+        "Times of India"
       ],
-      "trend_accel": "+74%",
-      "heat_level": "SURGING"
-    }
-  ],
-  "World": [
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Six dead, 2 missing after water, debris enter under-construction tunnel in U'khand",
       "link": "https://timesofindia.indiatimes.com/city/dehradun/six-workers-dead-2-missing-after-water-debris-enter-under-construction-tunnel-in-uttarakhand/articleshow/133223387.cms",
@@ -19507,98 +19620,26 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "White House press secretary and Trump adviser Karoline Leavitt to leave role",
-      "link": "https://www.france24.com/en/americas/20260812-white-house-press-secretary-and-trump-adviser-karoline-leavitt-to-leave-role",
-      "source": "France24",
-      "timestamp": "2026-08-12T21:54:09+00:00",
-      "score": 12,
-      "summary": "White House press secretary Karoline Leavitt will leave her role at the end of the month, US President Donald Trump said on Wednesday, ending the tenure of one of his most prominent and trusted advisers as the administration heads towards November's midterm elections.",
+      "title": "Workday skyrockets 18%, trading halted multiple times on report of Silver Lake takeover",
+      "link": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-13T19:24:15+00:00",
+      "score": 15,
+      "summary": "Workday investors have been on edge over the prospect of AI disrupting its business model",
       "country": "US",
       "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "House",
-        "Trump",
-        "Karoline",
-        "Leavitt"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 15,
-      "sources_reporting": [
-        "AP",
-        "BBC",
-        "BBC",
-        "France24",
-        "Guardian",
-        "PBS",
-        "Times of India"
-      ],
-      "trend_accel": "+79%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Nick Reiner could face death penalty if convicted of murdering parents",
-      "link": "https://www.abc.net.au/news/2026-08-13/nick-reiner-indicted-murder-parents-rob-reiner-michelle-singer/107031098",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-12T21:51:42+00:00",
-      "score": 12,
-      "summary": "A grand jury has indicted Nick Reiner for the murder of his parents, celebrated Hollywood couple Rob Reiner and Michelle Singer Reiner.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Reiner"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "PSG win back-to-back UEFA Super Cups with victory over Aston Villa",
-      "link": "https://www.aljazeera.com/sports/2026/8/12/psg-win-back-to-back-uefa-super-cups-with-victory-over-aston-villa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-08-12T21:50:27+00:00",
-      "score": 12,
-      "summary": "Kvaratskhelia and Doue earn a win for Paris Saint-Germain as 17-year-old Brian Madjo's goal is in vain for Aston Villa.",
-      "country": "Qatar",
-      "region": "Middle East",
-      "source_type": "Newswire",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "UEFA",
-        "Super",
-        "Cups",
-        "Aston",
-        "Villa"
+        "Silver",
+        "Lake"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19609,45 +19650,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Al Jazeera"
+        "CNBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Moves to axe character references after Western Power rape case",
-      "link": "https://www.abc.net.au/news/2026-08-13/move-to-axe-character-references-in-wa/107030580",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-12T21:48:32+00:00",
-      "score": 12,
-      "summary": "There are growing calls for the WA government to ban positive character evidence after three Western Power staff were stood down for offering references to a former colleague convicted of rape.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Western",
-        "Power"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Workday skyrockets 19% before trading halted on report of Silver Lake takeover",
       "link": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
@@ -26140,40 +26147,69 @@
       ],
       "trend_accel": "+71%",
       "heat_level": "SURGING"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Burnham warned of Iran war impact on UK growth next year",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-08-12T13:14:45+00:00",
-      "score": 12,
-      "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
+      "title": "Heavy rain soaks eastern Japan, prompting highest-level warning",
+      "link": "https://phys.org/news/2026-08-heavy-eastern-japan-prompting-highest.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-13T15:20:04-04:00",
+      "score": 14,
+      "summary": "Torrential rain pummeled eastern Japan on Thursday, triggering landslides and power outages and prompting the weather authority to issue its highest-level heavy rain warning for the region for the first time.",
+      "country": "Japan",
+      "region": "East Asia",
+      "source_type": "Science Publication",
       "trust_score": 9,
-      "source_bias": "Low",
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Iran"
+        "Japan"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Copper's surprising melting behavior provides insights into future fusion design",
+      "link": "https://phys.org/news/2026-08-copper-behavior-insights-future-fusion.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-13T15:20:03-04:00",
+      "score": 10,
+      "summary": "Future fusion power plants aim to recreate the heart of a star here on Earth to power our future energy needs. While the core fusion plasma will burn at hundreds of millions of degrees, the surrounding structural components must handle sudden, punishing heat loads that rival t...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "BBC"
+        "Phys.org"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Three days of Ontario wildfire smoke brought unhealthy air to 106 million person-days",
       "link": "https://phys.org/news/2026-08-days-ontario-wildfire-brought-unhealthy.html",
@@ -32176,68 +32212,6 @@
         "Phys.org"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "New hurricane graphic helps people identify watch areas, doesn't change risk perception",
-      "link": "https://phys.org/news/2026-08-hurricane-graphic-people-areas-doesnt.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-11T15:20:04-04:00",
-      "score": 10,
-      "summary": "Hurricane warnings are only effective if people understand them. A new study by Florida State University faculty members in the School of Communication in the College of Communication and Information and the Department of Geography in the College of Social Sciences and Public ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Genome study reveals centromeres as one of the fastest-changing regions in human DNA",
-      "link": "https://phys.org/news/2026-08-genome-reveals-centromeres-fastest-regions.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-11T15:20:02-04:00",
-      "score": 12,
-      "summary": "A centromere is a specific region on a chromosome that ensures that, when a cell divides, the chromosome separates accurately so each new cell receives the correct amount of genetic material. Despite their essential role, centromeres remain one of the last major blind spots in...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "DNA"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
       "heat_level": "LOW"
     }
   ],
@@ -44465,42 +44439,74 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "Caro Editions Copenhagen Spring 2027",
-      "link": "https://www.vogue.com/fashion-shows/copenhagen-spring-2027/caro-editions",
-      "source": "Vogue",
-      "timestamp": "2026-08-06T19:18:11+00:00",
+      "title": "M 0.4 - 23 km ESE of Little Lake, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672058",
+      "source": "USGS",
+      "timestamp": "2026-08-13T19:20:09.283000+00:00",
       "score": 15,
-      "summary": "Strategic intelligence signal ingested from Vogue.",
-      "country": "Denmark",
-      "region": "Europe",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "summary": "Time2026-08-13 19:00:21 UTC2026-08-13 19:00:21 UTC at epicenterLocation35.874\u00b0N 117.663\u00b0WDepth11.52 km (7.16 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Editions",
-        "Copenhagen",
-        "Spring"
+        "ESE",
+        "Little",
+        "Lake"
       ],
-      "severity_score": 0,
+      "severity_score": 3,
       "alert_level": "low",
-      "mode": "normal",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Vogue"
+        "USGS"
       ],
-      "trend_accel": "+55%",
+      "trend_accel": "+56%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
+    {
+      "title": "M 1.9 - 4 km NE of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018042",
+      "source": "USGS",
+      "timestamp": "2026-08-13T19:19:25.870000+00:00",
+      "score": 17,
+      "summary": "Time2026-08-13 19:15:50 UTC2026-08-13 19:15:50 UTC at epicenterLocation19.240\u00b0N 155.452\u00b0WDepth31.02 km (19.27 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 0.9 - 23 km ESE of Little Lake, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40672066",
@@ -50963,71 +50969,6 @@
         "USGS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.3 - 8 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416847",
-      "source": "USGS",
-      "timestamp": "2026-08-12T14:00:47.390000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-12 13:59:09 UTC2026-08-12 13:59:09 UTC at epicenterLocation38.830\u00b0N 122.813\u00b0WDepth2.06 km (1.28 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 62 km ENE of Pedro Bay, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pwyvii",
-      "source": "USGS",
-      "timestamp": "2026-08-12T13:59:11.696000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-12 13:57:56 UTC2026-08-12 13:57:56 UTC at epicenterLocation60.084\u00b0N 153.164\u00b0WDepth114.60 km (71.21 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Pedro",
-        "Bay",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
