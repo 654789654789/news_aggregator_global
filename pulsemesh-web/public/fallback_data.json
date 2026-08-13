@@ -7475,7 +7475,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.3,
+      "trend_score": 10.2,
       "source_count": 14,
       "sources_reporting": [
         "Bloomberg",
@@ -13245,6 +13245,38 @@
     }
   ],
   "World": [
+    {
+      "title": "Oil prices slip as OPEC cuts demand forecast; Iran war keeps supply risks alive",
+      "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slip-as-opec-cuts-2026-demand-forecast-iran-war-keeps-supply-risks-alive/articleshow/133195863.cms",
+      "source": "Times of India",
+      "timestamp": "2026-08-13T07:50:04+05:30",
+      "score": 12,
+      "summary": "Oil prices have witnessed a decline due to lowered global demand forecasts and a notable increase in US inventories. Both OPEC and the IEA have adjusted their oil demand growth projections downward for the near future. Ongoing tensions in the Strait of Hormuz and Bab el-Mandeb...",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "OPEC",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Colombia earthquake deaths climb to 239; hundreds remain missing - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY0RCUTVEeWZQalh3MzEzZkg0WDV5ZGt0MTJtUm5rMzRNZS14NDVXTXhoSWEwY1pIOThxT1dyNkFFZEtWcFNWXzUwdFZyMl9Hak9WcEt5VnFVTGVpa3M0ME50Y09WSzBEM18wbW1qTUJ2dVBvQjhsS0Fma1RreC1Td1JBdEQ4U09jekNMS1A4SzlTMEdRVG5xQ2xPLWZNb0tkX3hqRUR4R1FEY2lwSkE?oc=5",
@@ -19864,22 +19896,29 @@
       ],
       "trend_accel": "+55%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Ex-NSW cop cleared of one sex offence, hung jury on other charges",
-      "link": "https://www.abc.net.au/news/2026-08-12/nsw-cop-cleared-of-sex-offence-hung-jury-on-four-charges/106965988",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-12T06:40:04+00:00",
-      "score": 10,
-      "summary": "A jury has found David Robert Blackbourne not guilty on one count of assault with act of indecency, but was unable to reach a verdict on multiple other sexual assault charges.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "Stock market today: Gift Nifty hints a weak start; eight day trading stocks to buy on Thursday, 13 August",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-weak-start-eight-day-trading-stocks-to-buy-on-thursday-13-august-11786586213156.html",
+      "source": "Livemint",
+      "timestamp": "2026-08-13T07:53:10+05:30",
+      "score": 17,
+      "summary": "The Indian stock market is expected to open lower on August 13 due to mixed global cues and concerns over high crude oil prices. The Nifty 50 finished below 24,500, highlighting ongoing investor caution amid geopolitical tensions affecting oil supply and market sentiment.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Gift",
+        "Nifty",
+        "Thursday",
+        "August"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19887,15 +19926,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "Livemint"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+59%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Buy or sell: Gift Nifty trades flat. Vaishali Parekh recommends three intraday stocks to buy today \u2014 13 August 2026",
       "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-trades-flat-vaishali-parekh-recommends-three-intraday-stocks-to-buy-today-13-august-2026-11786585475504.html",
@@ -26373,40 +26410,6 @@
       ],
       "trend_accel": "+72%",
       "heat_level": "SURGING"
-    },
-    {
-      "title": "Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI infrastructure",
-      "link": "https://www.cnbc.com/2026/08/11/riot-platforms-signs-anthropic-deal-as-miners-shift-to-ai-infrastructure-.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-11T18:45:40+00:00",
-      "score": 14,
-      "summary": "Bitcoin miner Riot Platform has struck a $9 billion, 20-year compute deal with Anthropic",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Platforms",
-        "Anthropic"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -33242,6 +33245,44 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Travis Barker Shares His One Marriage Rule With Kourtney Kardashian",
+      "link": "https://www.eonline.com/news/1434982/kourtney-kardashian-travis-barkers-marriage-secret-dont-go-to-bed-mad?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-08-13T02:18:04+00:00",
+      "score": 12,
+      "summary": "Travis Barker will not turn the lights off without Kourtney Kardashian. In fact, the Blink-182 rocker and the Kardashians star have made it a rule in their four-year marriage to never go to bed...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Barker",
+        "Shares",
+        "His",
+        "One",
+        "Marriage",
+        "Rule",
+        "Kourtney",
+        "Kardashian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Bob Iger\u2019s New Magic Kingdom: Fans & Media Wonder If He Can Bring That Disney Sparkle To The Lakers",
       "link": "https://deadline.com/2026/08/bob-iger-los-angeles-lakers-owner-disney-magic-1237032412/",
@@ -41310,45 +41351,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Rod Stewart Cancels Upcoming Tour Dates Following Coronary Stent Procedure",
-      "link": "https://variety.com/2026/music/news/rod-stewart-cancels-tour-dates-coronary-stent-procedure-1236832530/",
-      "source": "Variety",
-      "timestamp": "2026-08-11T21:31:02+00:00",
-      "score": 12,
-      "summary": "Rod Stewart has announced that he will be canceling the next four weeks of performances as part of his \u201cOne Last Time\u201d farewell tour and \u201cThe Encore Shows\u201d Las Vegas residency after undergoing a routine coronary stent procedure. The news comes just days after the singer postpo...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Stewart",
-        "Cancels",
-        "Upcoming",
-        "Tour",
-        "Dates",
-        "Following",
-        "Coronary",
-        "Stent",
-        "Procedure"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -44517,40 +44519,75 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "Interest and hobby-based communities are on the rise in Thiruvananthapuram",
-      "link": "https://www.thehindu.com/news/cities/Thiruvananthapuram/interest-hobby-based-communities-thiruvananthapuram-on-the-rise/article71304849.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-06T07:53:45+05:30",
-      "score": 12,
-      "summary": "The city has been witnessing a surge in the number of communities formed over shared interests in the last few years and MetroPlus catches up with the people behind it",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "M 2.0 - 11 km WNW of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018841",
+      "source": "USGS",
+      "timestamp": "2026-08-13T02:28:33.500000+00:00",
+      "score": 17,
+      "summary": "Time2026-08-13 02:24:57 UTC2026-08-13 02:24:57 UTC at epicenterLocation19.231\u00b0N 155.584\u00b0WDepth5.98 km (3.72 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Thiruvananthapuram"
+        "WNW",
+        "Phala",
+        "Hawaii"
       ],
-      "severity_score": 0,
+      "severity_score": 3,
       "alert_level": "low",
-      "mode": "normal",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "USGS"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
+    {
+      "title": "M 2.0 - 51 km ESE of Naalehu, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75018836",
+      "source": "USGS",
+      "timestamp": "2026-08-13T02:24:32.960000+00:00",
+      "score": 17,
+      "summary": "Time2026-08-13 02:20:58 UTC2026-08-13 02:20:58 UTC at epicenterLocation18.870\u00b0N 155.142\u00b0WDepth4.87 km (3.03 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Naalehu",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 2.6 - 2 km WSW of Fuig, Puerto Rico",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71528338",
@@ -50977,69 +51014,6 @@
         "GDACS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.3 - 7 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416342",
-      "source": "USGS",
-      "timestamp": "2026-08-11T22:55:15.394000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-11 22:53:38 UTC2026-08-11 22:53:38 UTC at epicenterLocation38.808\u00b0N 122.823\u00b0WDepth3.77 km (2.34 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 6 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75416337",
-      "source": "USGS",
-      "timestamp": "2026-08-11T22:50:55.473000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-11 22:49:19 UTC2026-08-11 22:49:19 UTC at epicenterLocation38.818\u00b0N 122.806\u00b0WDepth3.25 km (2.02 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
