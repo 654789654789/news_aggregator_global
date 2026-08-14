@@ -1743,7 +1743,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.4,
+      "trend_score": 9.3,
       "source_count": 12,
       "sources_reporting": [
         "Google News",
@@ -1752,7 +1752,7 @@
         "PBS",
         "Reuters"
       ],
-      "trend_accel": "+79%",
+      "trend_accel": "+78%",
       "heat_level": "CRITICAL"
     },
     {
@@ -9613,7 +9613,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.9,
+      "trend_score": 9.8,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -13068,6 +13068,40 @@
     }
   ],
   "World": [
+    {
+      "title": "Breaking: Young Talent Time host Johnny Young dies",
+      "link": "https://www.abc.net.au/news/2026-08-14/johnny-young-host-of-young-talent-time-has-died/107037572",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-14T01:41:09+00:00",
+      "score": 12,
+      "summary": "Young Talent Time host Johnny Young has died aged 79 following a brief battle with pancreatic cancer, his family has confirmed.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Young",
+        "Talent",
+        "Time",
+        "Johnny"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "West Asia war LIVE: Bessent says U.S. to apply measures never seen on Iran",
       "link": "https://www.thehindu.com/news/international/iran-us-war-west-asia-donald-trump-live-updates-august-14-2026/article71343866.ece",
@@ -19525,23 +19559,25 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "'Gang mentality': Former jihadist tells inquiry how he left extremism",
-      "link": "https://www.abc.net.au/news/2026-08-13/former-jihadist-deradicalisation-antisemitism-inquiry-extremism/107031946",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-13T05:34:17+00:00",
-      "score": 12,
-      "summary": "A former Salafi jihadist-turned undercover operative has told the royal commission on antisemitism how he became radicalised after an encounter with the Taliban.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Stock futures are little changed after S&P 500 sets record above 7,800, heads for winning week: Live updates",
+      "link": "https://www.cnbc.com/2026/08/13/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-14T01:43:40+00:00",
+      "score": 17,
+      "summary": "Thursday's gain put the S&P 500 and Nasdaq Composite on pace for their third straight weekly advances.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Former"
+        "Live"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19550,15 +19586,50 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Carry Traders Are Exploiting Intervention to Rebuild Yen Shorts",
+      "link": "https://www.livemint.com/market/carry-traders-are-exploiting-intervention-to-rebuild-yen-shorts-11786671755887.html",
+      "source": "Livemint",
+      "timestamp": "2026-08-14T07:12:35+05:30",
+      "score": 12,
+      "summary": "Every intervention to prop up the yen is also creating a fresh opportunity to sell it.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Traders",
+        "Are",
+        "Exploiting",
+        "Intervention",
+        "Rebuild",
+        "Yen",
+        "Shorts"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Stocks to watch: Ashok Leyland, Bharat Dynamics, Tata Motors PV among shares in focus today; check list here",
       "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-ashok-leyland-bharat-dynamics-tata-motors-pv-among-shares-in-focus-today-check-list-here-11786638933466.html",
@@ -26003,78 +26074,6 @@
         "MarketWatch"
       ],
       "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Inflation Eased Slightly in July but Prices Remain Elevated as War Drags On",
-      "link": "https://www.nytimes.com/2026/08/12/business/economy/what-to-know-about-the-report.html",
-      "source": "NYT",
-      "timestamp": "2026-08-12T15:53:33+00:00",
-      "score": 14,
-      "summary": "Though energy prices fell last month after their spring surge, other factors pushed up costs as the Fed considers raising interest rates.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Eased",
-        "Slightly",
-        "July",
-        "Prices",
-        "Remain",
-        "Elevated",
-        "War",
-        "Drags"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Successor\u2026 not Warren\u2019: Michael Burry says \u2018Berkshire is no longer attractive\u2019 over $400 billon cash pile concerns",
-      "link": "https://www.livemint.com/market/stock-market-news/successor-not-warren-michael-burry-says-berkshire-is-no-longer-attractive-over-400-billon-cash-pile-concerns-11786546125231.html",
-      "source": "Livemint",
-      "timestamp": "2026-08-12T21:20:51+05:30",
-      "score": 15,
-      "summary": "Berkshire Hathaway, once a market leader, has struggled since Warren Buffett's departure. New CEO Greg Abel is starting to utilise the company's $400 billion cash pile, but scepticism remains",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Warren",
-        "Michael",
-        "Burry",
-        "Berkshire"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
