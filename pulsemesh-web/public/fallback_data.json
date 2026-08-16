@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "Colombian president asks Trump to suspend tariffs to help earthquake recovery",
+      "link": "https://www.pbs.org/newshour/world/colombian-president-asks-trump-to-suspend-tariffs-to-help-earthquake-recovery",
+      "source": "PBS",
+      "timestamp": "2026-08-16T16:51:34-04:00",
+      "score": 12,
+      "summary": "De la Espriella took office earlier this month just days before the 7.4 magnitude quake struck.",
+      "country": "Colombia",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Seismic"
+      ],
+      "entities": [
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln",
       "link": "https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html",
       "source": "NYT",
@@ -6553,25 +6586,25 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Kalaburagi \u2018Sports Habba\u2019 from September 24 to 26",
-      "link": "https://www.thehindu.com/news/national/karnataka/kalaburagi-sports-habba-from-september-24-to-26/article71349450.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-15T19:47:47+05:30",
-      "score": 15,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-16T20:57:04+00:00",
+      "score": 17,
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Sports",
-        "Habba",
-        "September"
+        "OpenRouter"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6580,15 +6613,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Open Mike Eagle and Kenny Segal crafted a hip hop breakup masterpiece",
       "link": "https://www.theverge.com/entertainment/980799/open-mike-eagle-and-kenny-segal-doomed-review",
@@ -13056,23 +13087,71 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
+    }
+  ],
+  "World": [
+    {
+      "title": "Kushner Meets With Hamas to Advance Trump\u2019s Gaza Plan",
+      "link": "https://www.nytimes.com/2026/08/16/world/middleeast/kushner-hamas-talks.html",
+      "source": "NYT",
+      "timestamp": "2026-08-16T21:00:35+00:00",
+      "score": 12,
+      "summary": "The president\u2019s son-in-law met the Palestinian militant group\u2019s leaders in Egypt, officials said. He will soon see Benjamin Netanyahu, the Israeli leader.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Meets",
+        "Hamas",
+        "Advance",
+        "Trumps",
+        "Gaza",
+        "Plan"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.2,
+      "source_count": 13,
+      "sources_reporting": [
+        "Bloomberg",
+        "France24",
+        "Guardian",
+        "NPR",
+        "NYT",
+        "Reuters",
+        "The Hindu"
+      ],
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
     },
     {
-      "title": "YouTube is making it harder to earn money on YouTube",
-      "link": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
-      "source": "Verge",
-      "timestamp": "2026-08-10T13:26:46-04:00",
+      "title": "Live: Wall Street dips as consumer sentiment slumps, ASX to keep sliding",
+      "link": "https://www.abc.net.au/news/2026-08-17/asx-markets-business-live-news/107043886",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-16T20:51:10+00:00",
       "score": 12,
-      "summary": "Starting February 1st, 2027, creators who want to monetize their channel through YouTube's Partner Program (YPP) will need at least 1,000 subscribers and either 8,000 qualified watch hours over the past year, or 20 million qualified Shorts views in the last 90 days. That's a s...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "Wilting consumer confidence has halted Wall Street's recent rally and the ASX is priced to slide lower again today. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "YouTube"
+        "Wall",
+        "Street",
+        "ASX"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13083,13 +13162,45 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Verge"
+        "ABC Australia"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Aussie star Lani Pallister ends American GOAT's 16-year win streak",
+      "link": "https://www.abc.net.au/news/2026-08-17/lani-pallister-beats-katie-ledecky-in-800m-at-pan-pacs/107044782",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-16T20:49:33+00:00",
+      "score": 15,
+      "summary": "Lani Pallister becomes the first wimmer to beat American Katie Ledecky over 800m at a senior international swim meet as Australia wraps up a glittering Pan Pacific Swimming Championships.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lani",
+        "Pallister",
+        "American",
+        "GOATs"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Live updates: Jared Kushner meets with regional leaders as multiple conflicts roil the Middle East",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40V2dqMUJIcWdndGVfSXlVeDRKbmkzU3hrTTRyeXBrSWR3NGtUNzNkSm54X19kcDNBNzJBaVV0NEJTNVdLVVRrUlNHLXZETnFwMEIyekJhOTduVWxZQWZyVW5WQ0xua1ByTDc0OG1B?oc=5",
@@ -13213,8 +13324,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 21,
       "sources_reporting": [
         "AP",
@@ -13386,18 +13497,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 16,
+      "trending": true,
+      "trend_score": 11.2,
+      "source_count": 17,
       "sources_reporting": [
         "France24",
         "Guardian",
         "NHK",
         "NPR",
+        "NPR",
         "NYT",
         "The Hindu"
       ],
-      "trend_accel": "+81%",
+      "trend_accel": "+84%",
       "heat_level": "CRITICAL"
     },
     {
@@ -15716,8 +15828,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 10.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -19589,113 +19701,48 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Sedition to anthem: Many lives of \u2018Azadi\u2019 chants in India\u2019s youth protests",
-      "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-08-15T15:25:51+00:00",
-      "score": 12,
-      "summary": "A decade ago, student leaders were jailed for shouting 'Azadi', which means freedom.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Many",
-        "Azadi",
-        "Indias"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Al Jazeera"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Alaska candidate for US Senate seat rejects Kamala Harris\u2019s unsolicited support",
-      "link": "https://www.theguardian.com/us-news/2026/aug/15/alaska-mary-peltola-rejects-kamala-harris-unsolicited-support",
-      "source": "Guardian",
-      "timestamp": "2026-08-15T15:07:54+00:00",
-      "score": 12,
-      "summary": "Former VP sent fundraising appeal for Democrat Mary Peltola\u2019s campaign \u2013 with half of donations going to Harris\u2019s organizationAlaska US Senate candidate Mary Peltola has rejected the support of Kamala Harris, her fellow Democrat, after the 2024 presidential candidate sent out ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Senate",
-        "Kamala",
-        "Harriss"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Five injured, one critically, in shooting at Virginia State University",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-08-15T14:58:46+00:00",
-      "score": 12,
-      "summary": "Multiple suspects were involved in the incident in the early hours of Saturday, the university said.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Virginia",
-        "State",
-        "University"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 11,
-      "sources_reporting": [
-        "BBC",
-        "Guardian",
-        "NHK",
-        "NPR",
-        "PBS",
-        "The Hindu"
-      ],
-      "trend_accel": "+84%",
-      "heat_level": "CRITICAL"
     }
   ],
   "Business": [
+    {
+      "title": "Trump's envoys meet with Egyptian, Qatari and Turkish mediators in Cairo as Israel strikes Gaza",
+      "link": "https://www.cnbc.com/2026/08/16/trumps-envoys-meet-mediators-israel-strikes-gaza.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-16T20:55:24+00:00",
+      "score": 14,
+      "summary": "Hamas officials were present at some of the meetings that mediators held with Trump's envoy and son-in-law Jared Kushner, the diplomat said.",
+      "country": "Qatar",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "Egyptian",
+        "Qatari",
+        "Turkish",
+        "Cairo",
+        "Israel",
+        "Gaza"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
       "link": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
@@ -26284,37 +26331,6 @@
         "Livemint"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Oil prices fall as IEA sees lower demand on rising fuel prices",
-      "link": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-13T19:06:41+00:00",
-      "score": 12,
-      "summary": "Oil futures retreated early Wednesday morning after prices rose overnight.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "IEA"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ],
@@ -45160,6 +45176,68 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 2.8 - 6 km SE of Ontario, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674002",
+      "source": "USGS",
+      "timestamp": "2026-08-16T21:00:53.647000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-16 20:35:29 UTC2026-08-16 20:35:29 UTC at epicenterLocation34.012\u00b0N 117.589\u00b0WDepth5.59 km (3.47 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ontario"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 6 km SE of Ontario, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674010",
+      "source": "USGS",
+      "timestamp": "2026-08-16T20:51:13.400000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-16 20:36:30 UTC2026-08-16 20:36:30 UTC at epicenterLocation34.014\u00b0N 117.584\u00b0WDepth5.46 km (3.39 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ontario"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 0.6 - 7 km NW of The Geysers, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419637",
       "source": "USGS",
@@ -51575,70 +51653,6 @@
         "USGS"
       ],
       "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 7 km ESE of Cloverdale, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418827",
-      "source": "USGS",
-      "timestamp": "2026-08-15T15:42:22.211000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-15 15:09:01 UTC2026-08-15 15:09:01 UTC at epicenterLocation38.773\u00b0N 122.944\u00b0WDepth4.87 km (3.03 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Cloverdale"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 12 km ESE of Willits, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75418837",
-      "source": "USGS",
-      "timestamp": "2026-08-15T15:37:09.715000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-15 15:35:32 UTC2026-08-15 15:35:32 UTC at epicenterLocation39.370\u00b0N 123.231\u00b0WDepth6.59 km (4.09 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Willits"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
