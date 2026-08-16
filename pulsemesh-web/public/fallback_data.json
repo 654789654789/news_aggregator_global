@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+      "link": "https://www.pbs.org/newshour/politics/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea",
+      "source": "PBS",
+      "timestamp": "2026-08-16T18:01:52-04:00",
+      "score": 12,
+      "summary": "Trump said in a social media post that the exercises slated to begin this week are costly and \"send a signal that is totally inappropriate and hostile\" to North Korea, which he said \"has been unthreatening and respectful\" while Trump has been in the White House.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pentagon",
+        "South",
+        "Korea"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Lake Powell hits record low, threatening key water and electricity supply for millions",
       "link": "https://www.pbs.org/newshour/nation/lake-powell-hits-record-low-threatening-key-water-and-electricity-supply-for-millions",
       "source": "PBS",
@@ -6548,38 +6581,6 @@
       ],
       "trend_accel": "+66%",
       "heat_level": "SURGING"
-    },
-    {
-      "title": "Amid Onam supply gap, looms of Chendamangalam call for a tech update",
-      "link": "https://www.thehindu.com/news/national/kerala/amid-onam-supply-gap-looms-of-chendamangalam-call-for-a-tech-update/article71349849.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-15T20:06:24+05:30",
-      "score": 14,
-      "summary": "The traditional weavers of the famed handloom industry, in and around Chendamangalam village in North Paravur taluk of Ernakulam district, say the demand during the Onam season has been encouraging, though the cooperative-based sector finds it difficult to supply enough",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Onam",
-        "Chendamangalam"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Tech": [
@@ -13081,6 +13082,81 @@
   ],
   "World": [
     {
+      "title": "Jared Kushner meets with Hamas ahead of talks with Netanyahu on Gaza",
+      "link": "https://www.theguardian.com/us-news/2026/aug/16/jared-kushner-hamas-gaza-meeting",
+      "source": "Guardian",
+      "timestamp": "2026-08-16T22:07:32+00:00",
+      "score": 12,
+      "summary": "Trump\u2019s son-in-law and envoy held rare meeting with Hamas chief in Egypt in push for progress on ceasefireDonald Trump\u2019s son-in-law and envoy, Jared Kushner, held a rare meeting with Hamas\u2019s political chief on Sunday in Egypt, in a new diplomatic effort to make progress in the...",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Kushner",
+        "Hamas",
+        "Netanyahu",
+        "Gaza"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.3,
+      "source_count": 18,
+      "sources_reporting": [
+        "France24",
+        "Guardian",
+        "NHK",
+        "NPR",
+        "NPR",
+        "NYT",
+        "PBS",
+        "Reuters",
+        "The Hindu"
+      ],
+      "trend_accel": "+88%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "Broken zips, sleeve sewn shut: Union raises SA firefighter safety concerns",
+      "link": "https://www.abc.net.au/news/2026-08-17/union-raises-sa-firefighter-safety-concerns/107027622",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-16T22:04:36+00:00",
+      "score": 14,
+      "summary": "The United Firefighters Union has lodged a dispute with South Australia's independent workplace tribunal, arguing the SA Metropolitan Fire Serivce is not providing sufficient personal protective equipment.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Union"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
       "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -13398,10 +13474,11 @@
       "breaking": false,
       "trending": true,
       "trend_score": 11.2,
-      "source_count": 13,
+      "source_count": 14,
       "sources_reporting": [
         "Bloomberg",
         "France24",
+        "Guardian",
         "Guardian",
         "NPR",
         "NYT",
@@ -13601,20 +13678,21 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 21,
+      "trending": true,
+      "trend_score": 11.3,
+      "source_count": 22,
       "sources_reporting": [
         "AP",
         "BBC",
         "Bloomberg",
         "France24",
+        "Guardian",
         "NPR",
         "NYT",
         "PBS",
         "The Hindu"
       ],
-      "trend_accel": "+85%",
+      "trend_accel": "+88%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13774,8 +13852,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "France24",
@@ -16002,8 +16080,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 10.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "BBC",
@@ -19607,73 +19685,6 @@
         "The Hindu"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Street rallies held as Taliban government marks five years ruling Afghanistan",
-      "link": "https://www.thehindu.com/news/international/street-rallies-held-as-taliban-government-marks-five-years-ruling-afghanistan/article71350558.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-15T22:47:41+05:30",
-      "score": 12,
-      "summary": "Hundreds gathered around a square beside the former U.S. embassy, while fresh flowers were thrown from military helicopters over a parade of athletes that featured only men because women are banned from sport in Afghanistan",
-      "country": "Afghanistan",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Taliban",
-        "Afghanistan"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Iran calls for release of pilots captured in Qatar during West Asia war",
-      "link": "https://www.thehindu.com/news/international/iran-calls-for-release-of-pilots-captured-in-qatar-during-west-asia-war/article71350531.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-15T22:27:06+05:30",
-      "score": 12,
-      "summary": "\"Three Iranian pilots were captured alive by Qatari forces after their Su-24 fighter jets crashed during the war,\" said General Mohammad Bagherzadeh of the Iranian armed forces, Fars news agency reported",
-      "country": "Qatar",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Qatar",
-        "West",
-        "Asia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ],
@@ -41889,7 +41900,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.2,
+      "trend_score": 8.1,
       "source_count": 13,
       "sources_reporting": [
         "Bloomberg",
@@ -41898,7 +41909,7 @@
         "NPR",
         "Vogue"
       ],
-      "trend_accel": "+69%",
+      "trend_accel": "+68%",
       "heat_level": "SURGING"
     },
     {
@@ -45172,6 +45183,70 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 10 km NNE of Ridgecrest, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674082",
+      "source": "USGS",
+      "timestamp": "2026-08-16T22:13:07.108000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-16 22:09:39 UTC2026-08-16 22:09:39 UTC at epicenterLocation35.697\u00b0N 117.614\u00b0WDepth8.29 km (5.15 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Ridgecrest"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.1 - 11 km W of Forsan, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qcjmny",
+      "source": "USGS",
+      "timestamp": "2026-08-16T22:03:03.816000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-16 21:56:49 UTC2026-08-16 21:56:49 UTC at epicenterLocation32.099\u00b0N 101.484\u00b0WDepth4.14 km (2.57 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Forsan",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
@@ -51590,72 +51665,6 @@
         "USGS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 13 km ENE of Borrego Springs, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40673242",
-      "source": "USGS",
-      "timestamp": "2026-08-15T16:34:25.279000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-15 16:30:51 UTC2026-08-15 16:30:51 UTC at epicenterLocation33.286\u00b0N 116.246\u00b0WDepth9.98 km (6.20 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Borrego",
-        "Springs"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 17 km WSW of Anchorage, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qcrurq",
-      "source": "USGS",
-      "timestamp": "2026-08-15T16:26:32.307000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-15 16:25:13 UTC2026-08-15 16:25:13 UTC at epicenterLocation61.180\u00b0N 150.220\u00b0WDepth51.90 km (32.25 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Anchorage",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ]
