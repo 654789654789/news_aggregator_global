@@ -1,6 +1,79 @@
 {
   "Politics": [
     {
+      "title": "Goethe-Zentrum expands to north Keralam with new examination centre in Kozhikode",
+      "link": "https://www.thehindu.com/news/national/kerala/goethe-zentrum-expands-to-north-kerala-with-new-examination-centre-in-kozhikode/article71355960.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-08-17T18:21:20+05:30",
+      "score": 12,
+      "summary": "The facility aims to meet the rapidly rising demand for certified German language qualifications among students and young professionals across the Malabar region",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Keralam",
+        "Kozhikode"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Mark Kelly: Trump decision to reduce joint military exercises with South Korea \u2018shortsighted and a mistake\u2019",
+      "link": "https://thehill.com/homenews/senate/6032751-mark-kelly-donald-trump-pentagon-south-korea-military-exercise-reduction/",
+      "source": "The Hill",
+      "timestamp": "2026-08-17T12:46:51+00:00",
+      "score": 12,
+      "summary": "Sen. Mark Kelly (D-Ariz.), a retired U.S. Navy Captain, blasted President Trump\u2019s decision to reduce joint military exercises in South Korea as \u201cshortsighted\u201d and a \u201cmistake.\u201d \u201cNorth and South Korea are still technically at war,\u201d Kelly wrote Sunday in a post on social platform...",
+      "country": "South Korea",
+      "region": "East Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Kelly",
+        "Trump",
+        "South",
+        "Korea"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 10.5,
+      "source_count": 12,
+      "sources_reporting": [
+        "NHK",
+        "NPR",
+        "NYT",
+        "PBS",
+        "Reuters",
+        "The Hill"
+      ],
+      "trend_accel": "+80%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Reform proposes ban on most benefits for foreign nationals in UK",
       "link": "https://www.bbc.co.uk/news/articles/cly555430nno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -2863,17 +2936,18 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.8,
-      "source_count": 18,
+      "trend_score": 10.8,
+      "source_count": 19,
       "sources_reporting": [
         "AP",
         "Bloomberg",
         "NPR",
         "NYT",
-        "PBS"
+        "PBS",
+        "The Hill"
       ],
-      "trend_accel": "+76%",
-      "heat_level": "SURGING"
+      "trend_accel": "+86%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
@@ -2900,17 +2974,18 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.8,
-      "source_count": 12,
+      "trend_score": 10.8,
+      "source_count": 13,
       "sources_reporting": [
         "BBC",
         "Bloomberg",
         "NYT",
         "PBS",
-        "Reuters"
+        "Reuters",
+        "The Hill"
       ],
-      "trend_accel": "+77%",
-      "heat_level": "SURGING"
+      "trend_accel": "+87%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Lake Powell hits record low, threatening key water and electricity supply for millions",
@@ -5673,8 +5748,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "Livemint",
@@ -6557,30 +6632,24 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "1,082 beds, 300 ICU beds, 15 major OTs: MCR TIMS Sanathnagar in Hyderabad set to transform Telangana\u2019s public healthcare",
-      "link": "https://www.thehindu.com/news/cities/Hyderabad/1082-beds-300-icu-beds-15-major-ots-mcr-tims-sanathnagar-in-hyderabad-set-to-transform-telanganas-public-healthcare/article71352128.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-16T13:54:58+05:30",
-      "score": 15,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
+      "link": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-17T13:00:19+00:00",
+      "score": 10,
+      "summary": "The hacks at shipping companies used to mail out hardware wallets puts crypto owners at greater risk of real-world attacks.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "ICU",
-        "OTs",
-        "MCR",
-        "TIMS",
-        "Sanathnagar",
-        "Hyderabad",
-        "Telanganas"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6590,46 +6659,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Jharkhand job exam stir: protesters announce CM residence gherao on August 20 to seek Hemant Soren\u2019s resignation",
-      "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-students-demand-congress-to-withdraw-support-from-jmm-coalition-cm-sorens-resignation/article71350761.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-16T13:39:38+05:30",
-      "score": 15,
-      "summary": "The students accuse JMM-Congress of playing politics; ask Congress to withdraw support from JMM-led coalition",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "August",
-        "Hemant",
-        "Sorens"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "7 Best Cheap Laptops to Buy in 2026 (and Some to Avoid)",
       "link": "https://www.wired.com/gallery/best-cheap-laptops/",
@@ -13130,37 +13164,6 @@
         "TechCrunch"
       ],
       "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Mark Zuckerberg doesn\u2019t understand how to live",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "source": "Verge",
-      "timestamp": "2026-08-10T18:00:00-04:00",
-      "score": 12,
-      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Zuckerberg"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+45%",
       "heat_level": "LOW"
     }
   ],
@@ -19817,6 +19820,108 @@
   ],
   "Business": [
     {
+      "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+      "link": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-17T13:00:36+00:00",
+      "score": 14,
+      "summary": "Strategic intelligence signal ingested from CNBC.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Brockman",
+        "CNBC"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "The Mediterranean diet is the best one out there. Here\u2019s why Americans struggle with it.",
+      "link": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-08-17T12:54:00+00:00",
+      "score": 12,
+      "summary": "It\u2019s not just about eating well. It\u2019s about cooking at home and sharing those meals with friends and family.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mediterranean",
+        "Heres",
+        "Americans"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "US stock market today: S&P 500, Dow futures steady after 3-week winning streak; oil rises on Hormuz risks",
+      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-dow-futures-steady-after-3-week-winning-streak-oil-rises-on-hormuz-risks-11786969512356.html",
+      "source": "Livemint",
+      "timestamp": "2026-08-17T18:21:48+05:30",
+      "score": 17,
+      "summary": "US stock futures showed mixed results as Middle East tensions rise, keeping oil prices high. Major indices have performed well over three weeks, benefitting from strong earnings. Investors anticipate Fed guidance amid stalled US-Iran peace talks, while oil prices continue to c...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dow",
+        "Hormuz"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 10.4,
+      "source_count": 12,
+      "sources_reporting": [
+        "CNBC",
+        "Google News",
+        "Guardian",
+        "Livemint",
+        "NHK",
+        "NPR"
+      ],
+      "trend_accel": "+79%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Veteran strategist Jeff Currie turns bullish on gold. Here\u2019s why",
       "link": "https://www.cnbc.com/2026/08/17/gold-prices-jeff-currie-gold.html",
       "source": "CNBC",
@@ -20867,14 +20972,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 9.5,
+      "source_count": 18,
       "sources_reporting": [
-        "CNBC"
+        "AP",
+        "CNBC",
+        "Livemint",
+        "NPR",
+        "PBS"
       ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
+      "trend_accel": "+72%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "India's steel pipe makers tap West Asia as all eyes on energy transport",
@@ -21030,8 +21139,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 7.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -21261,14 +21370,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 9.4,
+      "source_count": 15,
       "sources_reporting": [
-        "CNBC"
+        "BBC",
+        "Bloomberg",
+        "CNBC",
+        "Livemint",
+        "Reuters"
       ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
+      "trend_accel": "+75%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Goldman Says Markets Too Hawkish on Betting Fed Will Hike Rates",
@@ -23501,8 +23614,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 10,
       "sources_reporting": [
         "Bloomberg",
@@ -24939,8 +25052,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 10,
       "sources_reporting": [
         "BBC",
@@ -26385,88 +26498,58 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Anthropic's investor talks, Workday's stock surge, Apple's new facility and more in Morning Squawk",
-      "link": "https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-14T12:09:59+00:00",
-      "score": 14,
-      "summary": "Here are five key things investors need to know to start the trading day.",
+      "title": "Young people more likely to hold hostile attitudes toward women, study finds",
+      "link": "https://phys.org/news/2026-08-young-people-hostile-attitudes-women.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-17T09:00:03-04:00",
+      "score": 10,
+      "summary": "Young people are significantly more likely than older generations to hold hostile attitudes toward women, and these attitudes are being reflected in classroom behavior, according to new research from the University of Melbourne.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Workdays",
-        "Apples",
-        "Morning",
-        "Squawk"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Applied Materials shares are down on guidance and margin concerns. Here\u2019s why analysts say it\u2019s time to buy.",
-      "link": "https://www.marketwatch.com/story/applied-materials-shares-are-down-on-elevated-expectations-heres-why-analysts-say-its-time-to-buy-bd34dd54?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-08-14T12:09:00+00:00",
-      "score": 12,
-      "summary": "Analysts see the semiconductor company continuing to grow from a boost in demand amid the race to dominate the artificial-intelligence industry.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Materials",
-        "Heres"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "AI\u2019s infrastructure boom is getting more leveraged \u2014 and harder to track",
-      "link": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-14T12:03:32+00:00",
-      "score": 12,
-      "summary": "AI\u2019s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 6.6,
+      "source_count": 16,
+      "sources_reporting": [
+        "BBC",
+        "Guardian",
+        "Phys.org",
+        "Reuters"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Two eyeless shrimp-like species found in Japan's groundwater are new to science",
+      "link": "https://phys.org/news/2026-08-eyeless-shrimp-species-japan-groundwater.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-17T09:00:01-04:00",
+      "score": 12,
+      "summary": "Researchers have identified two new species in the genus Bogidiella, small shrimp-like amphipods that live in subterranean aquatic environments, from cave waters on the Ryukyu Islands, a subtropical island chain in southwestern Japan. These creatures are clear products of thei...",
+      "country": "Japan",
+      "region": "East Asia",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Japans"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26476,13 +26559,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Dark matter may be gravitationally lensing a likely source of cosmic neutrinos",
       "link": "https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html",
@@ -26592,8 +26673,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -29519,7 +29600,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.0,
+      "trend_score": 6.9,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -29527,7 +29608,7 @@
         "NPR",
         "NYT"
       ],
-      "trend_accel": "+63%",
+      "trend_accel": "+62%",
       "heat_level": "HOT"
     },
     {
@@ -32540,66 +32621,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Models of glacial collapse in Antarctica improve predictions of sea-level rise",
-      "link": "https://phys.org/news/2026-08-glacial-collapse-antarctica-sea.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-12T19:00:02-04:00",
-      "score": 12,
-      "summary": "With approximately one-third of the world's population living within a day's walk of a coastline, sea-level rise poses a serious global threat. Every centimeter of sea-level rise could displace 1.5 million people, and current estimates range from half a meter (1.6 feet) to 2 m...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Antarctica"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Unsupervised free time increases the likelihood that adolescents will engage in violent behavior, 21-country study finds",
-      "link": "https://phys.org/news/2026-08-unsupervised-free-likelihood-adolescents-engage.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-12T18:40:05-04:00",
-      "score": 13,
-      "summary": "A study involving more than 58,000 adolescents from 21 countries found that \"unstructured free time\"\u2014defined as periods without adult supervision or activities guided by educational, cultural or athletic goals\u2014is strongly associated with delinquent behavior and exposure to vio...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32698,7 +32719,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.5,
+      "trend_score": 6.4,
       "source_count": 17,
       "sources_reporting": [
         "Google News",
@@ -32707,7 +32728,7 @@
         "Reuters"
       ],
       "trend_accel": "+59%",
-      "heat_level": "HOT"
+      "heat_level": "LOW"
     },
     {
       "title": "Tommy John, whose elbow surgery transformed baseball, dies at 83 - The Washington Post",
@@ -33619,6 +33640,166 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018The Terminal List\u2019 Reveals Season 2 Premiere Date & First-Look Photos",
+      "link": "https://deadline.com/2026/08/the-terminal-list-season-2-premiere-date-photos-1237042586/",
+      "source": "Deadline",
+      "timestamp": "2026-08-17T13:00:00+00:00",
+      "score": 15,
+      "summary": "Prime Video\u2019s The Terminal List is kick-starting promotions for Season 2 with a set of first-look photos featuring Chris Pratt as James Reece (above and below). All eight episodes will premiere on Wednesday, October 21. From the best-selling novels by Jack Carr of the same nam...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Terminal",
+        "List",
+        "Reveals",
+        "Season",
+        "Premiere",
+        "Date",
+        "FirstLook",
+        "Photos"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Johnnie To\u2019s English-Language Debut \u2018Two Gun Cohen\u2019 Launches Former XYZ Films Exec Todd Brown\u2019s Rawk Moving Pictures Corp (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/johnnie-to-english-debut-two-gun-cohen-todd-brown-rawk-1236836089/",
+      "source": "Variety",
+      "timestamp": "2026-08-17T13:00:00+00:00",
+      "score": 12,
+      "summary": "Film executive Todd Brown has launched Rawk Moving Pictures Corp, a new Canadian production house. One of the company\u2019s first titles is \u201cTwo Gun Cohen,\u201d the English-language debut of Hong Kong director Johnnie To. Brown, also a film critic and festival programmer, spent 17 yea...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tos",
+        "EnglishLanguage",
+        "Debut",
+        "Two",
+        "Gun",
+        "Cohen",
+        "Launches",
+        "Former",
+        "XYZ",
+        "Films",
+        "Exec",
+        "Todd",
+        "Browns",
+        "Rawk",
+        "Moving",
+        "Pictures",
+        "Corp",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Witney Carson Is Pregnant and Returning for \u2018Dancing With the Stars\u2019 Season 35",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/witney-carson-pregnant-dancing-with-the-stars-season-35-1236674102/",
+      "source": "THR",
+      "timestamp": "2026-08-17T13:00:00+00:00",
+      "score": 15,
+      "summary": "The professional dancer reflects on her first-of-its-kind casting in conversation with THR, and the announcement that Guillermo Rodriguez will be her celebrity partner for the upcoming season: \"If I can do both and the baby is healthy, then I am gonna try and do it all, becaus...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Carson",
+        "Pregnant",
+        "Returning",
+        "Dancing",
+        "Stars",
+        "Season"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Hayden Panettiere Shared Hopes of Returning to Acting Before Her Death",
+      "link": "https://www.eonline.com/news/1435096/hayden-panettiere-wanted-to-return-to-acting-before-her-death?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-08-17T12:49:03+00:00",
+      "score": 12,
+      "summary": "Hayden Panettiere had her sights set on the big screen again. The Heroes alum\u2014who died Aug. 16 at the age of 36\u2014had expressed a desire to recommit herself to her acting career months before her...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Panettiere",
+        "Shared",
+        "Hopes",
+        "Returning",
+        "Acting",
+        "Before",
+        "Her",
+        "Death"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Hayden Panetierre\u2019s Death: No Signs of \u2018Foul Play or Suspicious Circumstances,\u2019 Police Say",
       "link": "https://variety.com/2026/film/news/hayden-panetierre-death-no-foul-play-police-investigation-1236836204/",
@@ -41682,178 +41863,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Ahsoka\u2019 Season 2 Trailer: Ahsoka and Anakin Reunite as Grand Admiral Thrawn Declares War on the Rebels",
-      "link": "https://variety.com/2026/tv/news/ahsoka-season-2-release-date-star-wars-1236826698/",
-      "source": "Variety",
-      "timestamp": "2026-08-15T04:25:07+00:00",
-      "score": 17,
-      "summary": "Ahsoka Tano is returning to a galaxy far, far away as the Season 2 release date of her Disney+ series has finally been revealed. After Season 1 aired in 2023, the sophomore outing for \u201cAhsoka\u201d will release on Jan. 20, 2027. Rosario Dawson returns as the Jedi after debuting the...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Season",
-        "Trailer",
-        "Ahsoka",
-        "Anakin",
-        "Reunite",
-        "Grand",
-        "Admiral",
-        "Thrawn",
-        "Declares",
-        "War",
-        "Rebels"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018X-Men\u2019 Adds Christopher Abbott, Adam Driver, Inde Navarette & Maya Boyd; Marvel Studios Pic Set for May 2028 \u2013 D23",
-      "link": "https://deadline.com/2026/08/x-men-christopher-abbott-adam-driver-1237012957/",
-      "source": "Deadline",
-      "timestamp": "2026-08-15T04:17:00+00:00",
-      "score": 15,
-      "summary": "Christopher Abbott has been tapped to play Charles Xavier aka Professor X in Marvel Studios upcoming X-Men movie. But also Adam Driver beamed in to announce that he\u2019s playing\u2026\u201dMagneto,\u201d said the actor. But then the actor paused to say \u201cNo wait, Nathaniel Mayberry.\u201d The news wa...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Adds",
-        "Christopher",
-        "Abbott",
-        "Adam",
-        "Driver",
-        "Inde",
-        "Navarette",
-        "Maya",
-        "Boyd",
-        "Marvel",
-        "Studios",
-        "Pic",
-        "Set",
-        "May"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018X-Men\u2019 Movie Casts Inde Navarrette as Rogue, Christopher Abbott as Prof. X, Adam Driver as Mr. Sinister and Maya Boyd as Storm",
-      "link": "https://variety.com/2026/film/news/x-men-cast-inde-navarrette-rogue-christopher-abbott-prof-x-adam-driver-mr-sinister-1236817698/",
-      "source": "Variety",
-      "timestamp": "2026-08-15T04:16:48+00:00",
-      "score": 12,
-      "summary": "The MCU\u2019s X-Men team is taking shape. Marvel Studios exec Kevin Feige announced the inaugural members of the mutant team at D23 on Friday. The cast includes Sadie Sink as Jean Grey, Kit Connor as Cyclops, Samara Weaving as Emma Frost, Inde Navarrette as Rogue, Christopher Abbo...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Movie",
-        "Casts",
-        "Inde",
-        "Navarrette",
-        "Rogue",
-        "Christopher",
-        "Abbott",
-        "Prof",
-        "Adam",
-        "Driver",
-        "Sinister",
-        "Maya",
-        "Boyd",
-        "Storm"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Blue Bloods\u2019 Showrunner Rejects Bill O\u2019Reilly Labeling \u2018Boston Blue\u2019 A \u201cWoke Version\u201d: \u201cI Root For It\u201d",
-      "link": "https://deadline.com/2026/08/blue-bloods-showrunner-rejects-bill-oreilly-boston-blue-woke-1237041154/",
-      "source": "Deadline",
-      "timestamp": "2026-08-15T04:16:27+00:00",
-      "score": 12,
-      "summary": "Although the Reagans might not be in the same city anymore, Blue Bloods showrunner Kevin Wade supports the direction of the CBS spin-off. In a recent conversation with Bill O\u2019Reilly, the Golden Globe nominee rejected the No Spin News host\u2019s take that the offshoot is a \u201cwoke ve...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bloods",
-        "Showrunner",
-        "Rejects",
-        "Bill",
-        "OReilly",
-        "Labeling",
-        "Boston",
-        "Blue",
-        "Woke",
-        "Version",
-        "Root"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45611,6 +45620,73 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 5.3 - 75 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq",
+      "source": "USGS",
+      "timestamp": "2026-08-17T12:57:49.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-17 12:38:04 UTC2026-08-17 12:38:04 UTC at epicenterLocation52.913\u00b0N 159.726\u00b0EDepth67.50 km (41.94 mi)",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "ESE",
+        "PetropavlovskKamchatsky",
+        "Russia"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.1 - 1 km E of Loma Linda, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40674378",
+      "source": "USGS",
+      "timestamp": "2026-08-17T12:52:35.160000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-17 12:13:28 UTC2026-08-17 12:13:28 UTC at epicenterLocation34.049\u00b0N 117.251\u00b0WDepth16.18 km (10.05 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Loma",
+        "Linda"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
       "heat_level": "LOW"
     },
     {
@@ -51997,69 +52073,6 @@
         "USGS"
       ],
       "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 8 km ESE of Cloverdale, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419342",
-      "source": "USGS",
-      "timestamp": "2026-08-16T07:37:54.697000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-16 07:36:19 UTC2026-08-16 07:36:19 UTC at epicenterLocation38.777\u00b0N 122.935\u00b0WDepth3.63 km (2.26 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Cloverdale"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 10 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75419332",
-      "source": "USGS",
-      "timestamp": "2026-08-16T07:28:04.619000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-16 07:26:29 UTC2026-08-16 07:26:29 UTC at epicenterLocation38.829\u00b0N 122.854\u00b0WDepth1.91 km (1.19 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
