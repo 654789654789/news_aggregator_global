@@ -1,6 +1,35 @@
 {
   "Politics": [
     {
+      "title": "Trump administration moves to open up logging in national forests",
+      "link": "https://thehill.com/newsletters/energy-environment/6036699-trump-administration-moves-to-open-up-logging-in-national-forests/",
+      "source": "The Hill",
+      "timestamp": "2026-08-18T22:03:09+00:00",
+      "score": 10,
+      "summary": "{beacon} Energy & Environment Energy & Environment The Big Story Trump moves to open up logging in national forests The Trump administration on Tuesday moved to strip protections from 44 million acres of national forest. Jenny Kane, Associated Press file The U.S. Forest Servic...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Liberia Agrees to Take 1,200 Deportees From U.S.",
       "link": "https://www.nytimes.com/2026/08/18/us/politics/liberia-deportees.html",
       "source": "NYT",
@@ -4071,8 +4100,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
+      "trending": true,
+      "trend_score": 8.5,
       "source_count": 10,
       "sources_reporting": [
         "Bloomberg",
@@ -5588,8 +5617,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -6589,25 +6618,25 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Russia says UK 'will pay' for supplying drones to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-08-18T06:40:00+00:00",
-      "score": 14,
-      "summary": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-18T22:14:25+00:00",
+      "score": 12,
+      "summary": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Ukraine"
+        "Github"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6618,13 +6647,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "BBC"
+        "TechCrunch"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "DOJ\u2019s probe into Andreessen Horowitz over board seats baffles VCs",
       "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
@@ -13150,26 +13177,28 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Silkroad Innovation Hub\u2019s Road to Battlefield competition continues",
-      "link": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-12T15:02:00+00:00",
-      "score": 12,
-      "summary": "The Road to Battlefield competition is now in its second year, and its purpose is to give founders across Central Eurasia a direct route to Startup Battlefield",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Australia politics live: Hastie says fight for his seat against One Nation is already \u2018dirty and nasty\u2019; NDIS reforms to pass parliament today",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-08-18T22:12:16+00:00",
+      "score": 14,
+      "summary": "Bill passed Senate on Wednesday evening and is due back in lower house today. Follow today\u2019s news liveFollow our breaking news email, free app or daily news podcast\u2018Collapsing confidence\u2019 in housing market, Wilson saysTim Wilson has jumped on that reporting around rent increas...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Innovation",
-        "Hubs",
-        "Road",
-        "Battlefield"
+        "Hastie",
+        "One",
+        "Nation",
+        "NDIS"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13180,13 +13209,74 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "Guardian"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "GPs\u2019 advice service is causing cancer diagnoses to be missed, inquiry finds",
+      "link": "https://www.theguardian.com/society/2026/aug/18/gps-advice-service-is-causing-cancer-diagnoses-to-be-missed-inquiry-finds",
+      "source": "Guardian",
+      "timestamp": "2026-08-18T22:10:48+00:00",
+      "score": 10,
+      "summary": "Advice and guidance services for doctors in England found to be creating risk of missed or late detection of illnessCancer diagnoses have been missed or delayed because of a system designed for GPs to seek specialist advice before referring patients to hospital, according to a...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Tupac Shakur murder trial: \u2018You better treat me as a hostile witness,\u2019 Suge Knight associate testifies \u2013 latest updates",
+      "link": "https://www.theguardian.com/us-news/live/2026/aug/18/tupac-shakur-gang-killing-murder-trial-live",
+      "source": "Guardian",
+      "timestamp": "2026-08-18T22:09:02+00:00",
+      "score": 12,
+      "summary": "\u2018Me or anybody else bringing up the dead is wrong,\u2019 James McDonald tells Las Vegas courtroomWhat we know about Tupac Shakur\u2019s death and what to expect from murder trialDistrict Court Judge Carli Kierney relayed a few questions directly from the jury to medical examiner Dr. Lis...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Shakur",
+        "You",
+        "Suge",
+        "Knight"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Columbia House, which once promised 12 CDs for a penny, removes notice of closure",
       "link": "https://www.cbc.ca/news/entertainment/columbia-house-shutting-down-9.7311210?cmp=rss",
@@ -17547,7 +17637,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.1,
+      "trend_score": 11.0,
       "source_count": 16,
       "sources_reporting": [
         "ABC Australia",
@@ -19595,93 +19685,6 @@
         "Guardian"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Two builders jailed for two years for failing to hand over possession of flat to buyers",
-      "link": "https://timesofindia.indiatimes.com/legal/news/two-builders-jailed-for-two-years-for-failing-to-hand-over-possession-of-mumbai-flat-to-buyers/articleshow/133311525.cms",
-      "source": "Times of India",
-      "timestamp": "2026-08-18T10:06:53+05:30",
-      "score": 12,
-      "summary": "Two construction firm partners received two-year jail sentences for failing to complete a flat. They also faced a ten thousand rupee fine each from the commission. The builders were ordered to complete the flat and obtain occupancy certificates. Complainants approached the com...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Rupee slips 7 paise against US dollar as crude soars beyond $90 per barrel levels",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/rupee-slips-7-paise-against-us-dollar-as-crude-soars-beyond-90-per-barrel-levels/articleshow/133311523.cms",
-      "source": "Times of India",
-      "timestamp": "2026-08-18T10:02:28+05:30",
-      "score": 17,
-      "summary": "On Tuesday morning, the Indian rupee experienced a drop against the US dollar, influenced by rising crude oil prices and persistent demand for dollars. Brent crude futures remained above ninety-one dollars per barrel, amplifying the necessity for dollars. Compounding this issu...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Corruption watchdog questions loophole in policy disciplining police officers",
-      "link": "https://www.abc.net.au/news/2026-08-18/qld-corruption-watchdog-concerns-police-officers/107050476",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-18T04:25:45+00:00",
-      "score": 12,
-      "summary": "Queensland corruption watchdog says it is of \"enormous concern\" police officers who are found guilty of a crime but do not have a conviction recorded cannot be disciplined.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ],
@@ -26246,6 +26249,37 @@
   ],
   "Science": [
     {
+      "title": "Rare satellite data reveal major limits in flood models",
+      "link": "https://phys.org/news/2026-08-rare-satellite-reveal-major-limits.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-18T18:10:01-04:00",
+      "score": 10,
+      "summary": "The Kakhovka Dam in southern Ukraine was destroyed on June 6, 2023. The event unleashed a catastrophic flood that forced thousands of residents to evacuate their communities as water levels rose 10 feet (3 meters) above normal.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "New photonic crystal method improves single-photon sources for quantum networks",
       "link": "https://phys.org/news/2026-08-photonic-crystal-method-photon-sources.html",
       "source": "Phys.org",
@@ -32321,35 +32355,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Minnesota iron ore could be key to sustainable and lower cost semiconductor",
-      "link": "https://phys.org/news/2026-08-minnesota-iron-ore-key-sustainable.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-15T08:00:01-04:00",
-      "score": 12,
-      "summary": "For the first time, researchers at the University of Minnesota Twin Cities have demonstrated that the low-purity iron ore prevalent in Minnesota can be used to create semiconductor-quality iron sulfide, also known as \"fool's gold\" or pyrite. This discovery could have cost-effe...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33422,6 +33427,169 @@
   ],
   "Entertainment": [
     {
+      "title": "Walmart Touts Free Peacock Access for Walmart+ Members on Heels of Streamer\u2019s Latest Price Hike",
+      "link": "https://variety.com/2026/shopping/news/best-walmart-plus-deals-streaming-offers-1236040212/",
+      "source": "Variety",
+      "timestamp": "2026-08-18T22:11:00+00:00",
+      "score": 12,
+      "summary": "Walmart is offering up some new deals, discounts and special offers right now, including a way to get a Peacock streaming subscription for free. While Walmart is touting its back to school deals right now, the retailer is also offering access to its Walmart+ membership program...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Touts",
+        "Free",
+        "Peacock",
+        "Access",
+        "Walmart",
+        "Members",
+        "Heels",
+        "Streamers",
+        "Latest",
+        "Price",
+        "Hike"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Clive Barker Announces Kickstarter-Exclusive Anthology Book Series \u2018Library of the Dead\u2019 (EXCLUSIVE)",
+      "link": "https://variety.com/2026/digital/news/clive-barker-kickstarter-series-library-of-the-dead-1236837367/",
+      "source": "Variety",
+      "timestamp": "2026-08-18T22:10:15+00:00",
+      "score": 12,
+      "summary": "Horror master Clive Barker is set to release the new \u201cLibrary of the Dead\u201d anthology project Aug. 18 exclusively on Kickstarter. The three-book horror anthology consists of three books: \u201cFear Eternal,\u201d \u201cPyres of Bedlam\u201d and \u201cDark Descents.\u201d The project is collectively a spirit...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Barker",
+        "Announces",
+        "KickstarterExclusive",
+        "Anthology",
+        "Book",
+        "Series",
+        "Library",
+        "Dead",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Days of Our Lives\u2019 EP on Bringing John Oliver\u2019s Dream Soap Opera Role to Life: \u2018He Wanted to Be Slapped\u2019",
+      "link": "https://variety.com/2026/tv/news/john-oliver-wanted-to-be-slapped-days-of-our-lives-1236837667/",
+      "source": "Variety",
+      "timestamp": "2026-08-18T22:09:35+00:00",
+      "score": 12,
+      "summary": "Ken Corday, the executive producer of \u201cDays of Our Lives,\u201d knew John Oliver needed to make an appearance on his series. The host of the Emmy-winning HBO series \u201cLast Week Tonight\u201d publicly declared his desire to star in a soap opera during a March episode of his talk show, and...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Our",
+        "Lives",
+        "Bringing",
+        "John",
+        "Olivers",
+        "Dream",
+        "Soap",
+        "Opera",
+        "Role",
+        "Life",
+        "Wanted",
+        "Slapped"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "John Irvin, Director Of \u2018Hamburger Hill\u2019 & \u2018Tinker Tailor Soldier Spy\u2019 TV Drama, Dies Aged 86",
+      "link": "https://deadline.com/2026/08/john-irvin-hamburger-hill-raw-deal-director-dies-aged-86-1237044695/",
+      "source": "Deadline",
+      "timestamp": "2026-08-18T22:03:43+00:00",
+      "score": 17,
+      "summary": "British filmmaker John Irvin, known for action movies including Hamburger Hill and Raw Deal and BAFTA-winning TV series Tinker Tailor Soldier Spy, has died aged 86. According to Irvin\u2019s producers, the BAFTA-winning filmmaker died peacefully at the UK home of his sister-in-law ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Irvin",
+        "Director",
+        "Hamburger",
+        "Hill",
+        "Tinker",
+        "Tailor",
+        "Soldier",
+        "Spy",
+        "Drama",
+        "Dies",
+        "Aged"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Leslie Grossman Joins \u2018Power: Origins,\u2019 Reprising Returning As \u2018Raising Kanan\u2019 Character Flossie",
       "link": "https://deadline.com/2026/08/leslie-grossman-cast-power-origins-flossie-1237043664/",
       "source": "Deadline",
@@ -33923,7 +34091,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.6,
+      "trend_score": 11.5,
       "source_count": 21,
       "sources_reporting": [
         "AP",
@@ -33935,7 +34103,7 @@
         "THR",
         "Variety"
       ],
-      "trend_accel": "+89%",
+      "trend_accel": "+88%",
       "heat_level": "CRITICAL"
     },
     {
@@ -41294,168 +41462,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Chris Hansen Questions \u201cHollywood\u2019s Motive\u201d With \u2018Primetime,\u2019 Says He\u2019d Have Cast Denis Leary",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-primetime-movie-reaction-1236675459/",
-      "source": "THR",
-      "timestamp": "2026-08-17T20:40:48+00:00",
-      "score": 12,
-      "summary": "The former 'To Catch a Predator' host says he had a different actor in mind to play himself.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hansen",
-        "Questions",
-        "Hollywoods",
-        "Motive",
-        "Primetime",
-        "Says",
-        "Hed",
-        "Have",
-        "Cast",
-        "Denis",
-        "Leary"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Blake Levin Joins Independent Artist Group As Head Of Media Finance & Sales",
-      "link": "https://deadline.com/2026/08/blake-levin-joins-iag-media-finance-role-1237043412/",
-      "source": "Deadline",
-      "timestamp": "2026-08-17T20:37:20+00:00",
-      "score": 12,
-      "summary": "EXCLUSIVE: Independent Artist Group has appointed Blake Levin to the role of Head of Media Finance and Sales. At IAG, Levin will lead the media finance and content sales business, working with filmmakers, producers, production companies, financiers and rights holders to struct...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Levin",
-        "Joins",
-        "Independent",
-        "Artist",
-        "Group",
-        "Head",
-        "Media",
-        "Finance",
-        "Sales"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Theo Von Takes Break From Field of Dreams Game to Talk Road Trips, Staying Healthy And Loving Iowa",
-      "link": "https://www.hollywoodreporter.com/news/general-news/theo-von-interview-netflix-stand-up-last-weekend-podcast-1236674658/",
-      "source": "THR",
-      "timestamp": "2026-08-17T20:32:53+00:00",
-      "score": 12,
-      "summary": "The wildly popular comedian rarely does interviews outside of his own podcast but he did a quick one with THR from his seat in the stadium while rooting for the Minnesota Twins for a surprising reason.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Von",
-        "Takes",
-        "Break",
-        "Field",
-        "Dreams",
-        "Game",
-        "Talk",
-        "Road",
-        "Trips",
-        "Staying",
-        "Healthy",
-        "Loving",
-        "Iowa"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Beef\u2019 Isn\u2019t \u2018Veep.\u2019 Its Emmy-Nominated Editor Explains Why That Matters",
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/beef-editor-veep-differences-1236670580/",
-      "source": "THR",
-      "timestamp": "2026-08-17T20:30:00+00:00",
-      "score": 14,
-      "summary": "Laura Zempel breaks down the Netflix anthology\u2019s delicate balance of comedy and drama, from a clumsy Korean spa fight to a country-club showdown.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Isnt",
-        "Veep",
-        "Its",
-        "EmmyNominated",
-        "Editor",
-        "Explains",
-        "Why",
-        "That",
-        "Matters"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45642,6 +45648,104 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.3 - 2 km NNE of Silver Lake, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529664",
+      "source": "USGS",
+      "timestamp": "2026-08-18T22:09:40.486000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-18 21:40:44 UTC2026-08-18 21:40:44 UTC at epicenterLocation34.107\u00b0N 118.254\u00b0WDepth11.39 km (7.08 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Silver",
+        "Lake"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 20 km SSE of Lindsay, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qgbepq",
+      "source": "USGS",
+      "timestamp": "2026-08-18T22:07:08.788000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-18 22:04:09 UTC2026-08-18 22:04:09 UTC at epicenterLocation31.201\u00b0N 103.437\u00b0WDepth3.47 km (2.15 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Lindsay",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.5 - 17 km E of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020397",
+      "source": "USGS",
+      "timestamp": "2026-08-18T22:05:35.040000+00:00",
+      "score": 17,
+      "summary": "Time2026-08-18 22:02:01 UTC2026-08-18 22:02:01 UTC at epicenterLocation19.188\u00b0N 155.313\u00b0WDepth39.85 km (24.76 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
@@ -52012,102 +52116,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump blames vandals for damaged grass in the spot where he held his big July 4 celebration - apnews.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1RfM19TUU5waDI1Z1ZzRkdGQVlGdVQzdnRlWmVicXVjM0xMMHFRTjZ3QlVyVnVwSW9fa051bW9xRHRDX2NtaHVDNy13UVY3c1phelZmeWstVDQ5cTd1UEtYR2U0cEMwNE1rRU5sbXphMUIzV0hDYm01TlJURmZtZDM3YmRjdHZzeGRac3NubmVQNDlFUG04eHI2REVWTkFYdk56Mkpn?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-08-17T21:08:00+00:00",
-      "score": 15,
-      "summary": "Trump blames vandals for damaged grass in the spot where he held his big July 4 celebration apnews.com",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "July"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 9 km ESE of Coso Junction, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41528712",
-      "source": "USGS",
-      "timestamp": "2026-08-17T21:05:02.302000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-17 21:02:59 UTC2026-08-17 21:02:59 UTC at epicenterLocation36.025\u00b0N 117.848\u00b0WDepth2.07 km (1.29 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Coso",
-        "Junction"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 7 km ESE of Cloverdale, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75420242",
-      "source": "USGS",
-      "timestamp": "2026-08-17T20:57:44.048000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-17 20:56:05 UTC2026-08-17 20:56:05 UTC at epicenterLocation38.782\u00b0N 122.941\u00b0WDepth4.45 km (2.77 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Cloverdale"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
