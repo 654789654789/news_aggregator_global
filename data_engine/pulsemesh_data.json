@@ -1,6 +1,52 @@
 {
   "Politics": [
     {
+      "title": "Trump\u2019s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say",
+      "link": "https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html",
+      "source": "NYT",
+      "timestamp": "2026-08-20T09:04:19+00:00",
+      "score": 12,
+      "summary": "President Trump\u2019s decision to curtail the military exercises came as allies question the U.S. commitment to longstanding alliances.",
+      "country": "South Korea",
+      "region": "East Asia",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Order",
+        "Cut",
+        "Military",
+        "Exercises",
+        "South",
+        "Korea",
+        "Carries",
+        "Risks",
+        "Experts",
+        "Say"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 8.5,
+      "source_count": 17,
+      "sources_reporting": [
+        "BBC",
+        "NHK",
+        "NPR",
+        "NYT",
+        "The Hill"
+      ],
+      "trend_accel": "+75%",
+      "heat_level": "SURGING"
+    },
+    {
       "title": "Lotteries for Indiramma Houses in Hyderabad from August 27; draws to be livestreamed",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/lotteries-for-indiramma-houses-in-hyderabad-from-august-27-draws-to-be-livestreamed/article71368366.ece",
       "source": "The Hindu",
@@ -839,8 +885,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 10,
       "sources_reporting": [
         "Guardian",
@@ -6543,24 +6589,25 @@
       ],
       "trend_accel": "+58%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Retaliatory transfers of KSRTC staff won\u2019t be tolerated: CITU",
-      "link": "https://www.thehindu.com/news/national/kerala/retaliatory-transfers-of-ksrtc-staff-wont-be-tolerated-citu/article71364886.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-19T18:39:50+05:30",
+      "title": "LG\u2019s new OLED breakthrough can boost display lifespans",
+      "link": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+      "source": "Verge",
+      "timestamp": "2026-08-20T05:11:26-04:00",
       "score": 12,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "LG Display has unveiled a new OLED manufacturing method that reportedly results in panels that are brighter, longer-lasting, more efficient, and theoretically can be almost any size. This new technology is called FLiPP (FMM-Less innovative Pixel Patterning), which LG Display d...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "KSRTC",
-        "CITU"
+        "OLED"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6571,13 +6618,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Stripe didn\u2019t really buy OpenRouter because of the \u2018singularity\u2019",
       "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
@@ -7192,7 +7237,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.1,
+      "trend_score": 8.0,
       "source_count": 13,
       "sources_reporting": [
         "Guardian",
@@ -13115,22 +13160,26 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "OpenAI is losing its second executive this week",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "source": "Verge",
-      "timestamp": "2026-08-13T15:28:39-04:00",
+      "title": "Trump vows tougher economic measures on Iran and supporting countries",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-08-20T09:13:18+00:00",
       "score": 12,
-      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, presi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Iran"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13138,15 +13187,119 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "Verge"
+        "BBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Live: Storm host Panthers trying to avoid third straight loss in Cleary's milestone",
+      "link": "https://www.abc.net.au/news/2026-08-20/nrl-live-melbourne-storm-penrith-panthers/107060788",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-20T09:03:54+00:00",
+      "score": 14,
+      "summary": "The Penrith Panthers are trying to bounce back from back-to-back losses as they take on the Melbourne Storm in Ivan Cleary's milestone 500th game as a coach. Follow live.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Storm",
+        "Panthers",
+        "Clearys"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "The A.I.-Robotics Job Only a Human Can Do",
+      "link": "https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html",
+      "source": "NYT",
+      "timestamp": "2026-08-20T09:03:41+00:00",
+      "score": 12,
+      "summary": "In India, some people are strapping cameras to their bodies to collect data on how humans move and train A.I.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "AIRobotics",
+        "Job",
+        "Only",
+        "Human",
+        "Can"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "The Indian City Where AI Is Creating Jobs for Humans",
+      "link": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
+      "source": "NYT",
+      "timestamp": "2026-08-20T09:02:44+00:00",
+      "score": 14,
+      "summary": "In the fast-growing field of data annotation, workers in a small city in south India train A.I. to improve how it performs tasks traditionally done by people.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Indian",
+        "City",
+        "Where",
+        "Creating",
+        "Jobs",
+        "Humans"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Live: Saints, Suns kick off Round 24 at Docklands",
       "link": "https://www.abc.net.au/news/2026-08-20/afl-rd-24-live-saints-suns/107055120",
@@ -16612,9 +16765,8 @@
       "breaking": false,
       "trending": true,
       "trend_score": 11.4,
-      "source_count": 16,
+      "source_count": 15,
       "sources_reporting": [
-        "BBC",
         "France24",
         "Google News",
         "NHK",
@@ -19622,15 +19774,17 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "First Thing: Trump in Canada tariff backdown after \u2018substantial progress\u2019 made on trade deal",
-      "link": "https://www.theguardian.com/us-news/2026/aug/19/first-thing-trump-in-canada-tariff-backdown-after-substantial-progress-made-on-trade-deal",
-      "source": "Guardian",
-      "timestamp": "2026-08-19T12:54:14+00:00",
-      "score": 14,
-      "summary": "US president cancelled planned tariff imposition just hours before it was to come into force. Plus, why are people so obsessed with television vampires?Good morning. Donald Trump has paused his threatened punitive tariff on Canada just hours before it was due to come into effe...",
-      "country": "Canada",
+      "title": "Moderna\u2019s Shift to Cancer Company Lifts Stock Up 177%",
+      "link": "https://www.nytimes.com/2026/08/20/business/moderna-cancer-melanoma.html",
+      "source": "NYT",
+      "timestamp": "2026-08-20T09:04:12+00:00",
+      "score": 17,
+      "summary": "The company\u2019s fortunes cratered as demand for Covid-19 vaccines plummeted. But it was busy working on something else.",
+      "country": "US",
       "region": "Americas",
       "source_type": "Newspaper",
       "trust_score": 9,
@@ -19638,9 +19792,11 @@
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Thing",
-        "Trump",
-        "Canada"
+        "Shift",
+        "Cancer",
+        "Company",
+        "Lifts",
+        "Stock"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19649,99 +19805,32 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Former Fauci adviser pleads guilty to conspiracy to conceal Covid-19 records",
-      "link": "https://www.theguardian.com/us-news/2026/aug/19/former-fauci-covid-adviser-pleads-guilty",
-      "source": "Guardian",
-      "timestamp": "2026-08-19T12:50:37+00:00",
-      "score": 15,
-      "summary": "David Morens confessed to concealing government documents linked to grant research fundingA former adviser to infectious disease expert Anthony Fauci pleaded guilty on Tuesday to conspiring to evade public records laws and conceal government documents related to \u200bgrant researc...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fauci",
-        "Covid"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 9,
-      "sources_reporting": [
-        "Guardian",
-        "The Hindu"
-      ],
-      "trend_accel": "+63%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Chinese carmaker Chery to set up UK research centre",
-      "link": "https://www.theguardian.com/business/2026/aug/19/chinese-carmaker-chery-to-set-up-uk-research-centre",
-      "source": "Guardian",
-      "timestamp": "2026-08-19T12:46:40+00:00",
-      "score": 12,
-      "summary": "Manufacturer, which makes Jaecoo and Omoda brands, will open facility in Bedfordshire in autumnThe Chinese carmaker behind the irreverently nicknamed \u201cTemu Range Rover\u201d is plotting further UK expansion with a major research and development centre in England.Chery, which makes ...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chery"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Guardian"
+        "NYT"
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
     },
     {
-      "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-08-19T12:41:46+00:00",
-      "score": 12,
-      "summary": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "Wrestler Logan Paul lists California \u2018LSD ranch\u2019 for $3 million",
+      "link": "https://www.marketwatch.com/story/wrestler-logan-paul-lists-california-lsd-ranch-for-3-million-c870b5bf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-08-20T09:02:00+00:00",
+      "score": 15,
+      "summary": "Decades ago, the property was used as the headquarters of an LSD operation run by former Harvard professor Timothy Leary.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Palestinian",
-        "Hind",
-        "Rajab",
-        "Gaza"
+        "Logan",
+        "Paul",
+        "California",
+        "LSD"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19752,13 +19841,46 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "BBC"
+        "MarketWatch"
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Help! Lyft Charged Me $150 for Vomiting in a Car, but I Didn\u2019t Do It.",
+      "link": "https://www.nytimes.com/2026/08/20/travel/lyft-cleaning-charge.html",
+      "source": "NYT",
+      "timestamp": "2026-08-20T09:01:57+00:00",
+      "score": 15,
+      "summary": "A passenger who said he had an uneventful ride home from the airport was shocked to be hit with a cleaning fee for a mess in what appeared to be a different vehicle.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lyft",
+        "Charged",
+        "Vomiting",
+        "Car",
+        "Didnt"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Humanoid robots' 'ChatGPT moment' could be 10 years away, Unitree founder says",
       "link": "https://www.cnbc.com/2026/08/20/unitree-humanoid-robots-chatgpt-moment.html",
@@ -23798,14 +23920,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 10.2,
+      "source_count": 19,
       "sources_reporting": [
-        "MarketWatch"
+        "CNBC",
+        "Guardian",
+        "MarketWatch",
+        "NPR",
+        "NYT",
+        "Reuters"
       ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
+      "trend_accel": "+79%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "World\u2019s largest olive oil company surges over 20% as rivals circle in takeover battle",
@@ -24657,8 +24784,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 19,
       "sources_reporting": [
         "BBC",
@@ -25781,10 +25908,9 @@
       "breaking": false,
       "trending": true,
       "trend_score": 10.2,
-      "source_count": 15,
+      "source_count": 14,
       "sources_reporting": [
         "BBC",
-        "CNBC",
         "MarketWatch",
         "NPR",
         "NYT",
@@ -26129,60 +26255,27 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "From Gift Nifty to Asian tech stocks, crude oil prices: 7 key things that changed for Indian stock market overnight",
-      "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-asian-tech-stocks-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11787101690777.html",
-      "source": "Livemint",
-      "timestamp": "2026-08-19T07:07:55+05:30",
-      "score": 17,
-      "summary": "Gift Nifty was trading around the 24,187 level, down nearly 42.60 points from the Nifty futures\u2019 previous close, indicating a negative start for the Indian stock market indices.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gift",
-        "Nifty",
-        "Asian",
-        "Indian"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "China\u2019s backflipping robot maker Unitree pops 542% in Shanghai debut",
-      "link": "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-19T01:37:01+00:00",
-      "score": 17,
-      "summary": "Unitree Robotics shares rise 542% on their first day of trading in Shanghai",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Area affected by wildfires in Europe could almost triple due to climate change",
+      "link": "https://phys.org/news/2026-08-area-affected-wildfires-europe-triple.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-20T05:10:01-04:00",
+      "score": 12,
+      "summary": "Increasingly hot, dry and windy conditions could substantially extend the area affected by wildfires across Europe, according to a new study led by the Potsdam Institute for Climate Impact Research (PIK) with contributions from the Senckenberg Society for Nature Research. In a...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [
-        "Geopolitics"
+        "Climatic"
       ],
       "entities": [
-        "Unitree",
-        "Shanghai"
+        "Europe"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26193,45 +26286,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
     },
-    {
-      "title": "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
-      "link": "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-19T01:34:22+00:00",
-      "score": 14,
-      "summary": "Following opening arguments in the case against Meta, California Attorney General Bonta said the trial is not about extracting a massive payout.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bonta",
-        "Meta"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "Australia races to shield little penguins from H5N1 bird flu",
       "link": "https://phys.org/news/2026-08-australia-shield-penguins-h5n1-bird.html",
@@ -32282,35 +32341,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Nuking an asteroid on short notice could save us",
-      "link": "https://phys.org/news/2026-08-nuking-asteroid-short.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-18T08:00:09-04:00",
-      "score": 10,
-      "summary": "Readers of a certain age will remember a golden era of asteroid films, capped by two with very different endings. \"Deep Impact\" drove home the devastating consequences of letting a large piece of rock hit our planet, whereas \"Armageddon,\" though arguably the kitschier of the t...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33445,6 +33475,114 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "J.T. Harding on Crafting the Hits of Broadway\u2019s \u2018Music City\u2019",
+      "link": "https://www.nytimes.com/2026/08/20/theater/music-city-jt-harding-broadway.html",
+      "source": "NYT",
+      "timestamp": "2026-08-20T09:02:59+00:00",
+      "score": 12,
+      "summary": "The Nashville songsmith J.T. Harding gives the lowdown on writing with Keith Urban, Uncle Kracker, Shane McAnally and more.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Harding",
+        "Crafting",
+        "Hits",
+        "Broadways",
+        "Music",
+        "City"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Sullivan Fortner Can\u2019t Dodge the Spotlight Much Longer",
+      "link": "https://www.nytimes.com/2026/08/20/arts/music/sullivan-fortner-leave-it-in-there.html",
+      "source": "NYT",
+      "timestamp": "2026-08-20T09:02:46+00:00",
+      "score": 12,
+      "summary": "This standards-leaning pianist has made fans of jazz\u2019s heavyweights. On \u201cLeave That in There,\u201d out Aug. 28, his playful originals reveal another level of virtuosity.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Fortner",
+        "Cant",
+        "Dodge",
+        "Spotlight",
+        "Much",
+        "Longer"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Alabama Shakes Return With New Album \u2018I Must Be Dreaming\u2019",
+      "link": "https://www.nytimes.com/2026/08/20/arts/music/alabama-shakes-i-must-be-dreaming-interview.html",
+      "source": "NYT",
+      "timestamp": "2026-08-20T09:02:06+00:00",
+      "score": 12,
+      "summary": "One of the biggest rock bands of its time paused after two albums. A one-off gig led to a tour and then a new LP, \u201cI Must Be Dreaming.\u201d",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Shakes",
+        "Return",
+        "New",
+        "Album",
+        "Must",
+        "Dreaming"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "BFI To Launch Refreshed Film Academy Programme With 12 New Skills Hubs Across The UK",
       "link": "https://deadline.com/2026/08/bfi-film-academy-12-hubs-uk-1237045305/",
@@ -41372,131 +41510,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Yellowstone\u2019s Taylor Sheridan Shuts Door On Previously Announced \u20186666\u2019 Spinoff: \u201cI Would Never Do That\u201d",
-      "link": "https://deadline.com/2026/08/yellowstone-taylor-sheridan-6666-spinoff-update-1237044957/",
-      "source": "Deadline",
-      "timestamp": "2026-08-19T03:55:19+00:00",
-      "score": 15,
-      "summary": "Yellowstone co-creator Taylor Sheridan has limits on what spinoffs he will do and has shut the door on a fictionalized version based on the Four Sixes Ranch in Texas. In a new interview, Sheridan said that the previously announced 6666 spinoff was not happening. \u201cThere\u2019s never...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Taylor",
-        "Sheridan",
-        "Shuts",
-        "Door",
-        "Previously",
-        "Announced",
-        "Spinoff",
-        "Would",
-        "Never",
-        "That"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Ariana Madix Teases \u201cUnseen Footage\u201d At \u2018Love Island USA\u2019 Season 8 Reunion That \u201cCleared A Lot Of Things\u201d",
-      "link": "https://deadline.com/2026/08/ariana-madix-unseen-footage-love-island-usa-season-8-reunion-1237044945/",
-      "source": "Deadline",
-      "timestamp": "2026-08-19T03:30:00+00:00",
-      "score": 15,
-      "summary": "Ariana Madix is teasing the upcoming Love Island USA Season 8 reunion and revealing that there will be an unseen footage show. The special was filmed on August 10 and is set to stream on Peacock on Monday, August 31 at 9 p.m. ET / 6 p.m. PT, but the dating series host gave ins...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Madix",
-        "Teases",
-        "Unseen",
-        "Footage",
-        "Love",
-        "Island",
-        "USA",
-        "Season",
-        "Reunion",
-        "That",
-        "Cleared",
-        "Lot",
-        "Things"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Suge Knight Gang Associate Dodges Questions at Tupac Trial: \u2018Not Gonna Send Him to Prison\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-mcdonald-testimony-1235610596/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-08-19T03:19:43+00:00",
-      "score": 12,
-      "summary": "Former gang member James McDonald testified at the trial of Duane \"Keffe D\" Davis",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Knight",
-        "Gang",
-        "Associate",
-        "Dodges",
-        "Questions",
-        "Tupac",
-        "Trial",
-        "Not",
-        "Gonna",
-        "Send",
-        "Him",
-        "Prison"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45693,6 +45706,103 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 0.1 - 7 km SSW of Idyllwild, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531032",
+      "source": "USGS",
+      "timestamp": "2026-08-20T09:12:35.496000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-20 09:09:06 UTC2026-08-20 09:09:06 UTC at epicenterLocation33.675\u00b0N 116.740\u00b0WDepth13.42 km (8.34 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Idyllwild"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.8 - 63 km NNE of Ruteng, Indonesia",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2t",
+      "source": "USGS",
+      "timestamp": "2026-08-20T09:11:06.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-20 08:53:58 UTC2026-08-20 08:53:58 UTC at epicenterLocation8.066\u00b0S 120.656\u00b0EDepth38.01 km (23.62 mi)",
+      "country": "Indonesia",
+      "region": "Southeast Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Ruteng",
+        "Indonesia"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.3 - 15 km NNE of Chualar, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421692",
+      "source": "USGS",
+      "timestamp": "2026-08-20T09:03:25.636000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-20 09:01:49 UTC2026-08-20 09:01:49 UTC at epicenterLocation36.687\u00b0N 121.437\u00b0WDepth4.21 km (2.62 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Chualar"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.6 - 36 km W of Petersville, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qlifat",
@@ -52078,101 +52188,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.5 - 14 km N of Borrego Springs, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41529960",
-      "source": "USGS",
-      "timestamp": "2026-08-19T08:25:46.499000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-19 08:22:22 UTC2026-08-19 08:22:22 UTC at epicenterLocation33.383\u00b0N 116.399\u00b0WDepth11.77 km (7.31 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Borrego",
-        "Springs"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 8 km W of Templeton, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421102",
-      "source": "USGS",
-      "timestamp": "2026-08-19T08:17:10.451000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-19 08:14:30 UTC2026-08-19 08:14:30 UTC at epicenterLocation35.557\u00b0N 120.797\u00b0WDepth5.64 km (3.50 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Templeton"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 6 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421097",
-      "source": "USGS",
-      "timestamp": "2026-08-19T08:14:34.570000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-19 08:10:25 UTC2026-08-19 08:10:25 UTC at epicenterLocation38.808\u00b0N 122.817\u00b0WDepth2.98 km (1.85 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
