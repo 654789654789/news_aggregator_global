@@ -1,6 +1,40 @@
 {
   "Politics": [
     {
+      "title": "Paramount's Warner Bros. bid and threat to leave California divide Hollywood",
+      "link": "https://www.pbs.org/newshour/show/paramounts-warner-bros-bid-and-threat-to-leave-california-divide-hollywood",
+      "source": "PBS",
+      "timestamp": "2026-08-21T18:40:11-04:00",
+      "score": 12,
+      "summary": "The proposed $111 billion merger between Paramount and Warner Bros. Discovery hit a roadblock after California's attorney general and 11 other states sued to stop it. That move was followed by Paramount Skydance CEO David Ellison threatening to take his operations out of Calif...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Warner",
+        "Bros",
+        "California",
+        "Hollywood"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Watch live: Trump stumps for Darline Graham in South Carolina",
       "link": "https://thehill.com/video-clips/6043894-watch-live-donald-trump-darline-graham-south-carolina-campaign/",
       "source": "The Hill",
@@ -6666,32 +6700,25 @@
       ],
       "trend_accel": "+56%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Homeland Security Made a Big Claim About Noncitizen Voting. Now It Can\u2019t Prove It.",
-      "link": "https://www.nytimes.com/2026/08/20/us/politics/trump-nevada-voter-election-fraud.html",
-      "source": "NYT",
-      "timestamp": "2026-08-20T22:32:51+00:00",
-      "score": 14,
-      "summary": "The Department of Homeland Security told Nevada election officials that it identified 185 \u201cpotential\u201d noncitizens on the state\u2019s voter rolls, not the nearly 16,000 it claimed last month.",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-21T22:37:38+00:00",
+      "score": 12,
+      "summary": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Security",
-        "Made",
-        "Big",
-        "Claim",
-        "About",
-        "Noncitizen",
-        "Voting",
-        "Now",
-        "Cant",
-        "Prove"
+        "Cloverleaf"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6700,15 +6727,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "NYT"
+        "TechCrunch"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "HoverAir\u2019s transforming modular drone has already been halted in the US",
       "link": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
@@ -13122,32 +13147,56 @@
       ],
       "trend_accel": "+74%",
       "heat_level": "SURGING"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "OnePlus 16 Could Offer Major Display Upgrade With BOE X4 Material and Slim Bezels",
-      "link": "https://www.gadgets360.com/mobiles/news/oneplus-16-display-boe-x4-material-technology-bezel-specifications-leak-11920880",
-      "source": "Gadgets 360",
-      "timestamp": "2026-08-17T16:16:33+05:30",
-      "score": 15,
-      "summary": "OnePlus said to have worked with BOE to customise the new X4 light-emitting material for the OnePlus 16. This new material is said to offer improved power efficiency compared to the X3 material used in the OnePlus 15. The new display material could double the lifespan compared...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Two injured in stabbing attack at Canada Sikh temple",
+      "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-08-21T22:45:01+00:00",
+      "score": 12,
+      "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
+      "country": "Canada",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Could",
-        "Offer",
-        "Major",
-        "Display",
-        "Upgrade",
-        "BOE",
-        "Material",
-        "Slim",
-        "Bezels"
+        "Canada",
+        "Sikh"
       ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "'Sliding doors': The choices that could have saved a young man's life",
+      "link": "https://www.abc.net.au/news/2026-08-22/darcy-waud-car-crash-fatality-driver-cattle-crash/107014288",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-21T22:34:42+00:00",
+      "score": 12,
+      "summary": "A 20-year-old tradie went to watch friends play country football. He never made it home. His mother is still looking for answers.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13155,15 +13204,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "Gadgets 360"
+        "ABC Australia"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "History made as Tasmanian red wins top gong at prestigious wine show",
       "link": "https://www.abc.net.au/news/rural/2026-08-22/sydney-royal-wine-show-marks-200-years/106965776",
@@ -19719,66 +19766,6 @@
         "ABC Australia"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Family violence offenders must disclose new relationships under draft laws",
-      "link": "https://www.abc.net.au/news/2026-08-21/tasmania-family-violence-act-reforms/107057458",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-20T19:31:18+00:00",
-      "score": 10,
-      "summary": "Under proposed changes to Tasmania's family violence act, serial domestic violence perpetrators must tell police if they start a new relationship or join a dating site. Women's advocates say behavioural programs are critical for change.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-08-20T19:19:20+00:00",
-      "score": 14,
-      "summary": "The US treasury secretary says allies will need to decide whether they \"are with us or against us\".",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Irans"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
@@ -26371,7 +26358,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.8,
+      "trend_score": 6.7,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -26379,7 +26366,7 @@
         "Phys.org",
         "Reuters"
       ],
-      "trend_accel": "+64%",
+      "trend_accel": "+63%",
       "heat_level": "HOT"
     },
     {
@@ -33353,6 +33340,122 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Matt Damon Celebrates Daughter Gia's 18th Birthday at Disneyland",
+      "link": "https://www.eonline.com/news/1435284/matt-damon-marks-daughter-gias-18th-birthday-with-family-disneyland-trip?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-08-21T22:41:56+00:00",
+      "score": 15,
+      "summary": "You odyssey how Matt Damon rang in his daughter Gia's 18th birthday. The Oscar winner and his wife Luciana Barroso Damon brought their entire brood\u2014including kids Alexia, 27, Isabella, 20, and...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Damon",
+        "Celebrates",
+        "Daughter",
+        "Gias",
+        "Birthday",
+        "Disneyland"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Miss USA, Miss Teen USA Pageants Dropped By The CW Days Before Air",
+      "link": "https://deadline.com/2026/08/miss-usa-miss-teen-usa-pageants-dropped-by-the-cw-1237047893/",
+      "source": "Deadline",
+      "timestamp": "2026-08-21T22:41:41+00:00",
+      "score": 14,
+      "summary": "No stranger to controversy over the past several years, the Miss USA and Miss Teen USA pageants have just landed in another. Less than a week before the competitions were set to air on The CW, the network has pulled both from the schedule. It\u2019s not clear why, but in a brief st...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "USA",
+        "Miss",
+        "Teen",
+        "Pageants",
+        "Dropped",
+        "Days",
+        "Before",
+        "Air"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Mark Ruffalo Slams Ellisons\u2019 Ties To Oracle Amid Paramount-WBD Merger: \u201cReally Profoundly Scary People\u201d",
+      "link": "https://deadline.com/2026/08/mark-ruffalo-slams-ellisons-ties-oracle-paramount-wbd-1237047889/",
+      "source": "Deadline",
+      "timestamp": "2026-08-21T22:41:13+00:00",
+      "score": 12,
+      "summary": "As Mayor Karen Bass shows her support for the Paramount-Warner Bros merger, Mark Ruffalo is continuing to fight the acquisition. On Friday, the 4x Oscar nominee called out the Ellisons ties to Oracle, sharing a video of the tech company\u2019s executive vice chair Safra Catz discus...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ruffalo",
+        "Slams",
+        "Ellisons",
+        "Ties",
+        "Oracle",
+        "Amid",
+        "ParamountWBD",
+        "Merger",
+        "Really",
+        "Profoundly",
+        "Scary",
+        "People"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Paramount Sued By Ex-Distribution Chief Chris Aronson Over Millions of Dollars In Pay",
       "link": "https://www.hollywoodreporter.com/business/business-news/paramount-sued-by-ex-distribution-chief-chris-aronson-1236678740/",
@@ -41280,124 +41383,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Ron Perlman Latest To Join Amazon MGM\u2019s Horror Film \u2018Seasons\u2019 From Drew Hancock",
-      "link": "https://deadline.com/2026/08/seasons-ron-perlman-joins-amazon-horror-film-1237045435/",
-      "source": "Deadline",
-      "timestamp": "2026-08-20T18:15:00+00:00",
-      "score": 12,
-      "summary": "EXCLUSIVE: Ron Perlman (Apple\u2019s Cape Fear) is set for a role alongside Lily James and Jack Reynor in Seasons, Amazon MGM Studios\u2019 horror film marking the sophomore feature of Companion\u2018s Drew Hancock. Character details are being kept under wraps. Hancock\u2019s script is based on a...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Perlman",
-        "Latest",
-        "Join",
-        "Amazon",
-        "MGMs",
-        "Horror",
-        "Film",
-        "Seasons",
-        "Drew",
-        "Hancock"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Lola Blankets\u2019 Biggest Sale of the Year Means Half Off Hollywood\u2019s Favorite Faux Fur Throw",
-      "link": "https://www.hollywoodreporter.com/lifestyle/shopping/lola-blankets-50-off-discount-christmas-in-august-sale-2026-1236677484/",
-      "source": "THR",
-      "timestamp": "2026-08-20T18:09:40+00:00",
-      "score": 12,
-      "summary": "Selena Gomez, Simone Biles, Oprah Winfrey and Tate McRae are just a handful of the viral blanket brand's famous fans.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Blankets",
-        "Biggest",
-        "Sale",
-        "Year",
-        "Means",
-        "Half",
-        "Off",
-        "Hollywoods",
-        "Favorite",
-        "Faux",
-        "Fur",
-        "Throw"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Yungblud Crowdsurfs in a Wheelchair While Performing With Broken Leg",
-      "link": "https://www.rollingstone.com/music/music-news/yungblud-crowdsurfs-wheelchair-performing-broken-leg-1235612019/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-08-20T18:05:41+00:00",
-      "score": 14,
-      "summary": "\"Good way to break my leg \u2026,\" singer quips weeks after injuring himself before Sturgis Motorcycle Rally gig",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Crowdsurfs",
-        "Wheelchair",
-        "While",
-        "Performing",
-        "Broken",
-        "Leg"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -42976,7 +42961,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.0,
+      "trend_score": 7.9,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -42985,7 +42970,7 @@
         "PBS",
         "Vogue"
       ],
-      "trend_accel": "+73%",
+      "trend_accel": "+72%",
       "heat_level": "SURGING"
     },
     {
@@ -45436,6 +45421,70 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.6 - 46 km NW of Beatty, Nevada",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00923660",
+      "source": "USGS",
+      "timestamp": "2026-08-21T22:40:48.766000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-21 21:53:51 UTC2026-08-21 21:53:51 UTC at epicenterLocation37.214\u00b0N 117.120\u00b0WDepth8.28 km (5.14 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Beatty",
+        "Nevada"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.9 - 85 km NW of Karluk, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qogfxc",
+      "source": "USGS",
+      "timestamp": "2026-08-21T22:34:41.044000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-21 22:34:02 UTC2026-08-21 22:34:02 UTC at epicenterLocation58.175\u00b0N 155.336\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Karluk",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
       "heat_level": "LOW"
     },
     {
@@ -51836,69 +51885,6 @@
         "USGS"
       ],
       "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 8 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422002",
-      "source": "USGS",
-      "timestamp": "2026-08-20T20:33:42.637000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-20 20:32:05 UTC2026-08-20 20:32:05 UTC at epicenterLocation38.829\u00b0N 122.818\u00b0WDepth2.20 km (1.37 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.6 - 2 km NNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75421987",
-      "source": "USGS",
-      "timestamp": "2026-08-20T20:28:17.775000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-20 20:26:44 UTC2026-08-20 20:26:44 UTC at epicenterLocation38.793\u00b0N 122.761\u00b0WDepth3.52 km (2.19 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+62%",
       "heat_level": "LOW"
     }
   ]
