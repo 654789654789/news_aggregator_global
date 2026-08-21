@@ -5762,7 +5762,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.0,
+      "trend_score": 8.9,
       "source_count": 11,
       "sources_reporting": [
         "BBC",
@@ -5771,8 +5771,8 @@
         "NPR",
         "Reuters"
       ],
-      "trend_accel": "+75%",
-      "heat_level": "CRITICAL"
+      "trend_accel": "+74%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Patna High Court goes hard on noise pollution",
@@ -6637,6 +6637,39 @@
     }
   ],
   "Tech": [
+    {
+      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-21T00:23:36+00:00",
+      "score": 12,
+      "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Uber",
+        "Waymo",
+        "Nevada"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
@@ -13063,26 +13096,56 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-14T22:43:24+00:00",
-      "score": 12,
-      "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Once-secret son of Belgium royal becomes a prince at age 26",
+      "link": "https://www.abc.net.au/news/2026-08-21/belgiums-prince-laurent-officially-recognises-secret-son/107062106",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-21T00:25:34+00:00",
+      "score": 15,
+      "summary": "The 26-year-old's existence was first recognised last year by his father, who said the pair had \"spoken openly and honestly about this in recent years\".",
+      "country": "Belgium",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "PayPal",
-        "Stripe",
-        "Advent"
+        "Belgium"
       ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 10,
+      "sources_reporting": [
+        "ABC Australia",
+        "NYT"
+      ],
+      "trend_accel": "+67%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Sweat and spectacle of theatre makes it 'immortal' but challenges lurk",
+      "link": "https://www.abc.net.au/news/2026-08-21/gold-coast-draculas-says-musical-theatre-immortal/107054610",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-21T00:24:59+00:00",
+      "score": 10,
+      "summary": "Australia's musical theatre industry is facing mounting financial pressures, but performers and producers say the physical, immersive experience of live theatre is irreplaceable.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13092,13 +13155,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "U.S. Army moves to end drone battalion set up to absorb lessons from Ukraine war",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41TEhYVUlwVG9ZQWRFSzlKaTdVdHZwb0pmaFJfQ1V1S3R3R2JSMDBzSUowQ1ZTb0o2NUFUWlBXRW4xZ1AxZ3F1YUw2Vl9sT2hEQ3ZqR0VscEhrMlF6YmFhUThWTV93cVktd05nUTYxTG94X3l2OXVv?oc=5",
@@ -19628,71 +19689,6 @@
         "Times of India"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
-      "link": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-08-19T23:21:32+00:00",
-      "score": 12,
-      "summary": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad's government fell.",
-      "country": "Qatar",
-      "region": "Middle East",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Syrian",
-        "Damascus"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Al Jazeera"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump announces \u2018most crushing economic operation ever\u2019 against Iran",
-      "link": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-08-19T23:18:32+00:00",
-      "score": 14,
-      "summary": "US president also says any country that trades with Iran will 'face tremendous economic consequences'.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Iran"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Al Jazeera"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ],
@@ -45543,6 +45539,78 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 0.9 - 22 km ESE of Ridgecrest, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41531624",
+      "source": "USGS",
+      "timestamp": "2026-08-21T00:25:59.264000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-21 00:22:26 UTC2026-08-21 00:22:26 UTC at epicenterLocation35.526\u00b0N 117.462\u00b0WDepth2.34 km (1.45 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Ridgecrest"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Supply Customer Emergency Response Team Operator - McCall's Avenue, Ayr - SOA12927 - MyJobScotland",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNemVSZkJsdnBGUGhMUjRIam9XcGZoRzJxQ3Q1NkpwZVhFRkpiTkw1bWxZQlBrSG1CYUpiSHNqMVd3cGdtc19ELTJoeGQzMWhzUXdxN2cyMjdxbGJ5MlN5ckJFeVVVRElrUnFfaGUya2psRTlJSWRRTnd3RzRuZENUWEJlWmJJSUc3NmVyREtLeHVmTjFiTUgtMjlfM0VzQWpSZ0FPSm9VUHJqX29Va2dkNTlpNThrSW10SWFfcmtHcWVVN0xLT200Znd4YkF6ME1qTzNWN1I3MVBmbjRnbk50c1dIQQ?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-08-21T00:22:42+00:00",
+      "score": 15,
+      "summary": "Supply Customer Emergency Response Team Operator - McCall's Avenue, Ayr - SOA12927 MyJobScotland",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Customer",
+        "Emergency",
+        "Response",
+        "Team",
+        "Operator",
+        "McCalls",
+        "Avenue",
+        "Ayr",
+        "SOA",
+        "MyJobScotland"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.9 - 10 km SSW of Elmendorf Air Force Base, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qmnkgl",
       "source": "USGS",
@@ -51977,71 +52045,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 69 km S of King Cove, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qkikww",
-      "source": "USGS",
-      "timestamp": "2026-08-19T20:30:52.013000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-19 19:41:11 UTC2026-08-19 19:41:11 UTC at epicenterLocation54.438\u00b0N 162.320\u00b0WDepth9.20 km (5.72 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "King",
-        "Cove",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.2 - 13 km NE of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75020962",
-      "source": "USGS",
-      "timestamp": "2026-08-19T20:29:00.930000+00:00",
-      "score": 17,
-      "summary": "Time2026-08-19 20:25:25 UTC2026-08-19 20:25:25 UTC at epicenterLocation19.272\u00b0N 155.377\u00b0WDepth28.99 km (18.01 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
       "heat_level": "LOW"
     }
   ]
