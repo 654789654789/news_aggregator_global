@@ -6586,6 +6586,41 @@
   ],
   "Tech": [
     {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-22T16:30:34+00:00",
+      "score": 14,
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "California"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 8.3,
+      "source_count": 12,
+      "sources_reporting": [
+        "Guardian",
+        "NHK",
+        "NPR",
+        "TechCrunch",
+        "Wired"
+      ],
+      "trend_accel": "+72%",
+      "heat_level": "SURGING"
+    },
+    {
       "title": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
       "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "source": "TechCrunch",
@@ -10585,8 +10620,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 7.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 10,
       "sources_reporting": [
         "NHK",
@@ -13010,22 +13045,26 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-17T16:38:44+00:00",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-08-22T16:20:51+00:00",
       "score": 14,
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Trumps"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13033,19 +13072,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 18,
+      "source_count": 2,
       "sources_reporting": [
-        "AP",
-        "Ars",
-        "BBC",
-        "Reuters",
-        "TechCrunch"
+        "BBC"
       ],
-      "trend_accel": "+71%",
-      "heat_level": "SURGING"
-    }
-  ],
-  "World": [
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
@@ -19658,38 +19691,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "As bird flu ravages stocks, Kangaroo Island is 'sick of bloody disasters'",
-      "link": "https://www.abc.net.au/news/2026-08-21/bird-flu-mass-deaths-prompt-kangaroo-island-apprehension/107062734",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-21T05:43:26+00:00",
-      "score": 14,
-      "summary": "Fears about bird flu's potentially devastating impact on South Australia's penguins have fuelled calls for the creatures to be vaccinated against the virus, with Kangaroo Island's mayor saying the local population has \"taken a hammering\" in recent years.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kangaroo",
-        "Island"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -20565,7 +20566,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.8,
+      "trend_score": 10.7,
       "source_count": 11,
       "sources_reporting": [
         "CNBC",
@@ -20575,7 +20576,7 @@
         "NYT",
         "PBS"
       ],
-      "trend_accel": "+79%",
+      "trend_accel": "+78%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26274,6 +26275,38 @@
     }
   ],
   "Science": [
+    {
+      "title": "Heat wave-hit Europe logs over 30,000 excess summer deaths: First figures",
+      "link": "https://phys.org/news/2026-08-europe-excess-summer-deaths-figures.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-22T12:20:03-04:00",
+      "score": 15,
+      "summary": "Europe saw at least 30,000 excess deaths across a blistering summer of back-to-back heat waves and drought that scientists have blamed on man-made climate change, according to provisional figures.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Europe",
+        "First"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "AI decodes DNA initiator sequence found in about 60% of human genes",
       "link": "https://phys.org/news/2026-08-ai-decodes-dna-sequence-human.html",
@@ -32309,41 +32342,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Interworld Slingshot: Exploring a new way to find resources in space",
-      "link": "https://phys.org/news/2026-08-interworld-slingshot-exploring-resources-space.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-19T16:30:02-04:00",
-      "score": 12,
-      "summary": "Before people can mine resources on the moon, asteroids or Mars, they need to answer a few key questions: What is there? How much is there? And where can it be found? A team led by SETI Institute research scientist Pablo Sobron is looking into a new way to answer these questio...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Slingshot",
-        "Exploring"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 14,
-      "sources_reporting": [
-        "Guardian",
-        "NHK",
-        "PBS",
-        "Phys.org"
-      ],
-      "trend_accel": "+63%",
-      "heat_level": "HOT"
     }
   ],
   "Sports": [
@@ -33349,6 +33347,52 @@
   ],
   "Entertainment": [
     {
+      "title": "\u2018The Magic Faraway Tree\u2019 Review: Wholesome, Harmless Family Movie Aims to Give Enid Blyton the Paddington Treatment",
+      "link": "https://variety.com/2026/film/news/the-magic-faraway-tree-review-1236840728/",
+      "source": "Variety",
+      "timestamp": "2026-08-22T16:19:38+00:00",
+      "score": 14,
+      "summary": "If the children\u2019s books of Enid Blyton have fallen out of fashion in classrooms and libraries \u2014 largely due to the racism and regressive gender politics throughout the British author\u2019s oeuvre \u2014 they remain ripe for rehabilitation through adaptation. The BBC has churned out sev...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Magic",
+        "Faraway",
+        "Tree",
+        "Review",
+        "Wholesome",
+        "Harmless",
+        "Family",
+        "Movie",
+        "Aims",
+        "Give",
+        "Enid",
+        "Blyton",
+        "Paddington",
+        "Treatment"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Box Office: \u2018Insidious: Out of the Further\u2019 Takes First Place on Friday With $10.6 Million, But \u2018Spider-Man: Brand New Day\u2019 Will Win the Weekend",
       "link": "https://variety.com/2026/film/box-office/box-office-insidious-out-of-the-further-spider-man-1236840803/",
       "source": "Variety",
@@ -33577,7 +33621,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 19,
       "sources_reporting": [
         "AP",
@@ -41402,44 +41446,6 @@
       ],
       "trend_accel": "+82%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Prime Video Unveils Landmark $2 Billion-Plus Investment in Latin American Entertainment",
-      "link": "https://variety.com/2026/film/global/prime-video-2-billion-investment-latin-america-1236839446/",
-      "source": "Variety",
-      "timestamp": "2026-08-20T22:19:29+00:00",
-      "score": 17,
-      "summary": "Prime Video has unveiled a landmark $2 billion-plus investment plan in Latin American entertainment spanning 2027 to 2030 in a concerted bid to increase viewership and engagement. The move comes in what is considered the second fastest growing region for streaming in the world...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Video",
-        "Unveils",
-        "Landmark",
-        "BillionPlus",
-        "Investment",
-        "Latin",
-        "American",
-        "Entertainment"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45476,6 +45482,71 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.3 - 4 km NNW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75423022",
+      "source": "USGS",
+      "timestamp": "2026-08-22T16:30:05.557000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-22 16:28:30 UTC2026-08-22 16:28:30 UTC at epicenterLocation38.810\u00b0N 122.783\u00b0WDepth2.59 km (1.61 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+62%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.2 - 3 km S of Gu\u00e1nica, Puerto Rico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71529388",
+      "source": "USGS",
+      "timestamp": "2026-08-22T16:25:46.100000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-22 16:11:02 UTC2026-08-22 16:11:02 UTC at epicenterLocation17.937\u00b0N 66.910\u00b0WDepth14.46 km (8.99 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Gunica",
+        "Puerto",
+        "Rico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
       "heat_level": "LOW"
     },
     {
@@ -51873,69 +51944,6 @@
         "USGS"
       ],
       "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 7 km NW of Pinnacles, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422347",
-      "source": "USGS",
-      "timestamp": "2026-08-21T11:44:19.673000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-21 11:42:42 UTC2026-08-21 11:42:42 UTC at epicenterLocation36.571\u00b0N 121.199\u00b0WDepth2.59 km (1.61 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pinnacles"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.3 - 5 km SSW of Alameda, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75422342",
-      "source": "USGS",
-      "timestamp": "2026-08-21T11:43:43.480000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-21 11:38:49 UTC2026-08-21 11:38:49 UTC at epicenterLocation37.725\u00b0N 122.261\u00b0WDepth18.17 km (11.29 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Alameda"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
