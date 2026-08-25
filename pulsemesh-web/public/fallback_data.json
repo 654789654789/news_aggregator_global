@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "A tornado tears through a village in southern France, wrecking 300 homes",
+      "link": "https://www.pbs.org/newshour/world/a-tornado-tears-through-a-village-in-southern-france-wrecking-300-homes",
+      "source": "PBS",
+      "timestamp": "2026-08-25T16:19:10-04:00",
+      "score": 15,
+      "summary": "A tornado ripped through a small village in southern France, damaging about 300 homes, destroying several cars and injuring dozens of people, authorities said Tuesday.",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "France"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Senate Democrats question RFK Jr. on vaccine settlement divestment",
       "link": "https://thehill.com/policy/healthcare/6049217-senators-question-kennedy-gardasil-divestment/",
       "source": "The Hill",
@@ -6573,23 +6606,25 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "FDA approves new blood test for Alzheimer\u2019s disease",
-      "link": "https://thehill.com/policy/healthcare/6047899-fda-approves-roche-alzheimers-test/",
-      "source": "The Hill",
-      "timestamp": "2026-08-24T22:02:19+00:00",
-      "score": 12,
-      "summary": "The Food and Drug Administration (FDA) has granted approval for a new test for Alzheimer\u2019s disease, marking the fourth time such a blood test has been approved in less than two years. Roche announced Sunday that the FDA had granted approval to its Elecsys Phospho-Tau blood tes...",
+      "title": "The Witcher 3 is getting a remaster",
+      "link": "https://www.theverge.com/games/984680/the-witcher-3-wild-hunt-remastered-launch-date-trailer",
+      "source": "Verge",
+      "timestamp": "2026-08-25T16:24:24-04:00",
+      "score": 15,
+      "summary": "CD Projekt Red is remastering The Witcher 3: Wild Hunt, the hit RPG that first launched in 2015, and the updated game will be available starting September 29th. The Witcher 3: Wild Hunt - Remastered will bring improvements to visuals and combat, a \"reimagined\" skill tree, and ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Alzheimers"
+        "Witcher"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6598,15 +6633,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hill"
+        "Verge"
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Instagram\u2019s \u2018First Draft\u2019 feature aims to make editing Reels less tedious",
       "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
@@ -13032,23 +13065,56 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "T-Mobile \u2018chopped a cable\u2019 to expel Chinese hackers from its network",
-      "link": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-19T17:26:32+00:00",
-      "score": 12,
-      "summary": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "El-Sayed pushes to keep affordability message focus amid scrutiny from both sides",
+      "link": "https://www.theguardian.com/us-news/2026/aug/25/abdul-el-sayed-criticism-affordability-message",
+      "source": "Guardian",
+      "timestamp": "2026-08-25T20:29:12+00:00",
+      "score": 10,
+      "summary": "Democratic Senate candidate for Michigan distances himself from Hasan Piker and debates Fox News hostThe Democratic candidate for Senate in the swing state of Michigan has spent the week trying to keep his affordability message front and center as scrutiny mounts from both end...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Wife of US soldier deported after Trump rollback on military family protections",
+      "link": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
+      "source": "Guardian",
+      "timestamp": "2026-08-25T20:23:55+00:00",
+      "score": 12,
+      "summary": "Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0The wife of an active-duty US soldier was deported on Monday to her native Honduras, according to her family and the federal Department of Homeland Security (DHS).Cr...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
       "entities": [
-        "Chinese"
+        "Trump"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13057,15 +13123,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "Guardian"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "CIA director John Ratcliffe meets with Russian officials in Moscow, reports say",
       "link": "https://www.cbc.ca/news/world/cia-director-ratcliffe-moscow-meetings-9.7320041?cmp=rss",
@@ -19564,78 +19628,144 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-08-25T00:17:25+00:00",
-      "score": 12,
-      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda militant Ahmed al-Sharaa.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Syria"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Moment tornado tears through southern France",
-      "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-08-25T00:16:35+00:00",
-      "score": 12,
-      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "France"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 15,
-      "sources_reporting": [
-        "AP",
-        "BBC",
-        "Bloomberg",
-        "France24",
-        "NYT",
-        "Reuters"
-      ],
-      "trend_accel": "+83%",
-      "heat_level": "CRITICAL"
     }
   ],
   "Business": [
+    {
+      "title": "S&P 500 closes higher, Dow posts three-day win streak as Treasury yields retreat",
+      "link": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-25T20:30:14+00:00",
+      "score": 15,
+      "summary": "Treasury yields fell for another day. Chip stocks also moved higher, with investors looking ahead to Nvidia's earnings.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dow",
+        "Treasury"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "2 of our software stocks face major tests of whether their rallies are for real",
+      "link": "https://www.cnbc.com/2026/08/25/2-of-our-software-stocks-face-major-tests-of-whether-their-rallies-are-for-real.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-25T20:27:12+00:00",
+      "score": 15,
+      "summary": "Here are the questions we are looking to answer when CrowdStrike and Salesforce report earnings Wednesday evening.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nvidia's 'expectations premium' dogs the stock after earnings. Here's what analysts are watching",
+      "link": "https://www.cnbc.com/2026/08/25/nvidias-expectations-premium-dogs-the-stock-after-earnings.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-25T20:21:10+00:00",
+      "score": 14,
+      "summary": "Over the past year, Nvidia has topped estimates on all the topline metrics and has still been punished by investors the next trading day.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Heres"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Rises as Effects of Bessent's 'D-Day' Look Contained \u2014 Live Updates",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZEVVNkZ0Njctcnk0WUJ0SFMxME52QTNxNXVwR0RocHNDSFFaQldMSWZwekpJVEZaVW1RSGZBY3dnMk1LaWVPM2h0aENvbDZ3UXJRRGpTNERGOElQN09mR3JOdUo3cElVcFE2cnAya2ZvUXk1S0RGSVVLc2JjTkt5clFoaTBHSWc?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-08-25T20:20:00+00:00",
+      "score": 14,
+      "summary": "Stock Market Today: Nasdaq Rises as Effects of Bessent's 'D-Day' Look Contained \u2014 Live Updates WSJSee more headlines & perspectives on Google News",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Market",
+        "Today",
+        "Nasdaq",
+        "Rises",
+        "Effects",
+        "Bessents",
+        "DDay",
+        "Look",
+        "Contained",
+        "Live",
+        "Updates"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "S&P 500 closes higher, Dow posts three-day win streak as Treasury yields retreat: Live updates",
       "link": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
@@ -26048,29 +26178,25 @@
       ],
       "trend_accel": "+55%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Washington Post Ordered to Rehire Fired Columnist Karen Attiah",
-      "link": "https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html",
-      "source": "NYT",
-      "timestamp": "2026-08-24T11:20:26+00:00",
-      "score": 12,
-      "summary": "An arbitrator ordered the newspaper to reinstate Karen Attiah, who was fired after posting about \u201cwhite men who espouse hatred and violence\u201d following Charlie Kirk\u2019s killing.",
+      "title": "Even biodiversity-friendly policies may not halt declines in Europe's common birds and butterflies by 2050",
+      "link": "https://phys.org/news/2026-08-biodiversity-friendly-policies-halt-declines.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-25T16:20:03-04:00",
+      "score": 15,
+      "summary": "As part of its efforts to map out Europe's science-policy interface for biodiversity, a paper on the correlation between governance objectives for safeguarding the biosphere and on-the-ground realities for select species groups has been published. The work is in the journal Na...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Science Publication",
       "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Post",
-        "Ordered",
-        "Rehire",
-        "Fired",
-        "Columnist",
-        "Karen",
-        "Attiah"
+        "Europes"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26079,62 +26205,29 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Marvell Technology has nearly tripled in 2026. Wells Fargo says there are more gains ahead",
-      "link": "https://www.cnbc.com/2026/08/24/mrvl-has-nearly-tripled-in-2026-wells-fargo-says-there-are-more-gains-ahead.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-24T11:20:20+00:00",
-      "score": 17,
-      "summary": "Marvell Technology should continue to gain ground due as its business shows even more signs of growth, according to Wells Fargo.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Technology",
-        "Wells",
-        "Fargo"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
     },
     {
-      "title": "A media M&A chill: The Paramount-WBD antitrust challenge may hold up more deals than one",
-      "link": "https://www.cnbc.com/2026/08/24/paramount-wbd-antitrust-media-deals.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-24T11:10:15+00:00",
-      "score": 14,
-      "summary": "Paramount's proposed merger with WBD is delayed while an antitrust lawsuit plays out. The holdup could mean a freeze across the media industry.",
+      "title": "Machine learning method uncovers hidden patterns in DNA methylation",
+      "link": "https://phys.org/news/2026-08-machine-method-uncovers-hidden-patterns.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-25T16:20:01-04:00",
+      "score": 12,
+      "summary": "In a study recently published in Nature Communications, researchers from Berlin, Potsdam, and Jena present a new method for analyzing the epigenome. The machine-learning method identifies differentially methylated DNA regions without sample labels\u2014a prerequisite for many exist...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "ParamountWBD"
+        "DNA"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26143,53 +26236,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Research Firm\u2019s Founder Explains $6 Million Payment to Fired Forbes Editor",
-      "link": "https://www.nytimes.com/2026/08/24/business/media/forbes-randall-lane-shook.html",
-      "source": "NYT",
-      "timestamp": "2026-08-24T11:03:37+00:00",
-      "score": 17,
-      "summary": "RJ Shook of Shook Research said he paid Randall Lane, the former top editor at Forbes, for \u201cservices and guidance\u201d in partnering with Forbes and later selling his research firm.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Firms",
-        "Founder",
-        "Explains",
-        "Million",
-        "Payment",
-        "Fired",
-        "Forbes",
-        "Editor"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "'Buy now, pay later' may reshape retail prices, inventory, research finds",
       "link": "https://phys.org/news/2026-08-buy-pay-reshape-retail-prices.html",
@@ -32301,66 +32354,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "New ROOT method charts a path to reversing biological changes once thought irreversible",
-      "link": "https://phys.org/news/2026-08-root-method-path-reversing-biological.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-21T15:00:04-04:00",
-      "score": 12,
-      "summary": "Once a cell has locked into an abnormal state\u2014the way cancer cells do\u2014can it ever be restored to normal? A KAIST research team led by Professor Kwang-Hyun Cho of the Department of Bio and Brain Engineering has, for the first time, identified the causal circuits responsible for...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ROOT"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Hidden chemical pathway could keep phosphorus from fueling lake algal blooms",
-      "link": "https://phys.org/news/2026-08-hidden-chemical-pathway-phosphorus-fueling.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-21T14:40:01-04:00",
-      "score": 10,
-      "summary": "Why do some lakes remain plagued by harmful algal blooms even after phosphorus pollution has been reduced? Part of the answer lies beneath the surface. A new Concordia study has uncovered a previously overlooked chemical process that can help trap phosphorus in lake sediments,...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32629,7 +32622,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.6,
+      "trend_score": 6.5,
       "source_count": 15,
       "sources_reporting": [
         "AP",
@@ -33617,6 +33610,162 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "See Dolly Parton's Last Public Appearance 2 Months Before Her Death",
+      "link": "https://www.eonline.com/news/1435386/dolly-parton-dead-see-her-last-public-appearance-amid-health-issues?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-08-25T20:27:50+00:00",
+      "score": 15,
+      "summary": "Dolly Parton was working 9 to 5 until the very end. In the months before the country music legend died at the age of 80, she was still adding to the long list of varied accomplishments she had...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dolly",
+        "Partons",
+        "Last",
+        "Public",
+        "Appearance",
+        "Months",
+        "Before",
+        "Her",
+        "Death"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Jennifer Garner Details \u201cMourning\u201d Process After Losing \u2018The West Wing\u2019 Role Early in Career",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/jennifer-garner-acting-career-the-west-wing-podcast-1236680951/",
+      "source": "THR",
+      "timestamp": "2026-08-25T20:26:33+00:00",
+      "score": 14,
+      "summary": "The current star of 'The Five Star Weekend' opens up about paparazzi battles, strategic career moves and coming to terms with making money on a new episode of 'Aspire With Emma Grede.'",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Garner",
+        "Details",
+        "Mourning",
+        "Process",
+        "After",
+        "Losing",
+        "West",
+        "Wing",
+        "Role",
+        "Early",
+        "Career"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018The Flintstones\u2019 Live-Action Movie in the Works at Warner Bros. From Producer Ryan Gosling",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/the-flintstones-live-action-movie-warner-bros-ryan-gosling-1236681164/",
+      "source": "THR",
+      "timestamp": "2026-08-25T20:22:14+00:00",
+      "score": 12,
+      "summary": "The property originated as an ABC cartoon before being adapted for Universal's 1994 live-action hit that starred John Goodman and Rick Moranis.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Flintstones",
+        "LiveAction",
+        "Movie",
+        "Works",
+        "Warner",
+        "Bros",
+        "Producer",
+        "Ryan",
+        "Gosling"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Judge Says Sale of Titanic Artifacts Cannot Go Forward for Now",
+      "link": "https://www.nytimes.com/2026/08/25/arts/design/titanic-artifacts-sale-halted-judge.html",
+      "source": "NYT",
+      "timestamp": "2026-08-25T20:16:43+00:00",
+      "score": 12,
+      "summary": "The salvage company that has been awarded the rights to recover, but not sell, items that sunk with the ship, has proposed selling 100 of them.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Says",
+        "Sale",
+        "Titanic",
+        "Artifacts",
+        "Cannot",
+        "Forward",
+        "Now"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Bel-Air\u2019 Spinoff \u2018Hilary\u2019 Starring Coco Jones in Development at Peacock",
       "link": "https://variety.com/2026/tv/news/bel-air-spinoff-hilary-coco-jones-peacock-1236842971/",
@@ -41439,160 +41588,6 @@
       ],
       "trend_accel": "+42%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Transportation Secretary Sean Duffy\u2019s \u2018Road Trip\u2019 Highlights America, and Some of Its Sponsors",
-      "link": "https://www.nytimes.com/2026/08/20/us/politics/sean-duffy-american-road-trip.html",
-      "source": "NYT",
-      "timestamp": "2026-08-24T19:21:10+00:00",
-      "score": 12,
-      "summary": "The transportation secretary\u2019s six-part YouTube series is fueling ethical concerns over family adventures funded in large part by corporate sponsors regulated by his department.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Secretary",
-        "Sean",
-        "Duffys",
-        "Road",
-        "Trip",
-        "Highlights",
-        "America",
-        "Some",
-        "Its",
-        "Sponsors"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Warner Chappell Music Promotes Gabz Landman to Executive VP of A&R",
-      "link": "https://variety.com/2026/music/news/warner-chappell-promotes-gabz-landman-to-executive-vp-1236841814/",
-      "source": "Variety",
-      "timestamp": "2026-08-24T19:17:42+00:00",
-      "score": 12,
-      "summary": "Warner Chappell Music, the publishing arm of Warner Music Group, has announced the promotion of Gabz Landman to executive vice president of A&R. Based at the company\u2019s Los Angeles headquarters, she will continue to report to Ryan Press, President of A&R for North America. Land...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chappell",
-        "Music",
-        "Promotes",
-        "Gabz",
-        "Landman",
-        "Executive"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Emma Chamberlain Brings a Gen Z Twist to J. Crew\u2019s Signature Rollneck Sweater in New Campaign",
-      "link": "https://variety.com/2026/shopping/news/jcrew-tiny-rollneck-sweater-emma-chamberlain-shop-online-1236841782/",
-      "source": "Variety",
-      "timestamp": "2026-08-24T19:10:02+00:00",
-      "score": 14,
-      "summary": "J.Crew is giving one of its most recognizable \u201980s staples a Gen Z-sized makeover. The retailer has tapped Emma Chamberlain to front the launch of its new Tiny Rollneck, a shrunken, fitted take on the cotton sweater that has been a brand staple since 1988. The new silhouette o...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chamberlain",
-        "Brings",
-        "Gen",
-        "Twist",
-        "Crews",
-        "Signature",
-        "Rollneck",
-        "Sweater",
-        "New",
-        "Campaign"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "New York\u2019s AMC Kips Bay Movie Theater to Close at End of 2026",
-      "link": "https://variety.com/2026/film/news/amc-kips-bay-closing-new-york-movie-theater-1236841776/",
-      "source": "Variety",
-      "timestamp": "2026-08-24T18:53:47+00:00",
-      "score": 15,
-      "summary": "As all AMC moviegoers know, \u201cheartbreak feels good in a place like this.\u201d But for New Yorkers, this heartbreak is hitting close to home. Variety can report that the AMC Kips Bay 15, the movie theater chain\u2019s second-largest multiplex in Manhattan, will close at the end of the y...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Yorks",
-        "AMC",
-        "Kips",
-        "Bay",
-        "Movie",
-        "Theater",
-        "Close",
-        "End"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45220,48 +45215,76 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "Exactly How To Get The Sterling Point Curly Shag, According to Bo Bragason\u2019s Hairstylists",
-      "link": "https://www.vogue.com/article/sterling-point-curly-shag-bo-bragasons-hairstylist",
-      "source": "Vogue",
-      "timestamp": "2026-08-18T20:21:53+00:00",
-      "score": 14,
-      "summary": "Bragason\u2019s \u201cmodern shag\u201d is a a mass of tousled curls, choppy layers, and face-framing pieces. It'll be fall's hottest cut.",
-      "country": "US",
+      "title": "M 1.3 - 57 km S of Whites City, New Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qsubll",
+      "source": "USGS",
+      "timestamp": "2026-08-25T20:31:01.412000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-25 20:27:27 UTC2026-08-25 20:27:27 UTC at epicenterLocation31.658\u00b0N 104.335\u00b0WDepth6.52 km (4.05 mi)",
+      "country": "Mexico",
       "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "How",
-        "Get",
-        "Sterling",
-        "Point",
-        "Curly",
-        "Shag",
-        "According",
-        "Bragasons",
-        "Hairstylists"
+        "Whites",
+        "City",
+        "New",
+        "Mexico"
       ],
-      "severity_score": 0,
+      "severity_score": 3,
       "alert_level": "low",
-      "mode": "normal",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "Vogue"
+        "USGS"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+59%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
+    {
+      "title": "M 3.0 - 12 km NNE of Ocotillo Wells, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41536408",
+      "source": "USGS",
+      "timestamp": "2026-08-25T20:28:25.870000+00:00",
+      "score": 15,
+      "summary": "DYFI? - ITime2026-08-25 20:17:07 UTC2026-08-25 20:17:07 UTC at epicenterLocation33.239\u00b0N 116.069\u00b0WDepth2.88 km (1.79 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Ocotillo",
+        "Wells"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 4.3 - 169 km SSE of Vilyuchinsk, Russia",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tbtn",
@@ -51709,70 +51732,6 @@
         "USGS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 17 km SW of Toms Place, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75424262",
-      "source": "USGS",
-      "timestamp": "2026-08-24T16:52:02.154000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-24 16:50:27 UTC2026-08-24 16:50:27 UTC at epicenterLocation37.461\u00b0N 118.825\u00b0WDepth3.11 km (1.93 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Toms",
-        "Place"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+62%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 54 km NE of Chenega, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qtideq",
-      "source": "USGS",
-      "timestamp": "2026-08-24T16:30:48.440000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-24 16:29:07 UTC2026-08-24 16:29:07 UTC at epicenterLocation60.445\u00b0N 147.399\u00b0WDepth16.80 km (10.44 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chenega",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
