@@ -1251,7 +1251,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.8,
+      "trend_score": 10.7,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -1261,7 +1261,7 @@
         "PBS",
         "The Hill"
       ],
-      "trend_accel": "+87%",
+      "trend_accel": "+86%",
       "heat_level": "CRITICAL"
     },
     {
@@ -6674,6 +6674,37 @@
     }
   ],
   "Tech": [
+    {
+      "title": "Google\u2019s Gemini has a branding problem, and so does the rest of AI",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "source": "TechCrunch",
+      "timestamp": "2026-08-26T19:37:34+00:00",
+      "score": 14,
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Gemini"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Amazon knocks $150 off Pixel 11 phones, with up to $200 in gift cards",
       "link": "https://www.theverge.com/gadgets/984516/pixel-11-promo-code-doom-dark-ages-deal-sale",
@@ -13170,23 +13201,93 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Australia says Roblox hasn\u2019t fixed its child predator problem",
-      "link": "https://www.theverge.com/games/982885/roblox-australia-safety-regulator-child-safety",
-      "source": "Verge",
-      "timestamp": "2026-08-20T13:42:34-04:00",
+      "title": "Live: Hundreds missing, including Australians, in deadly Himalayan flash floods",
+      "link": "https://www.abc.net.au/news/2026-08-27/nepal-flooding-live-updates-australians-missing/107082946",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-26T19:37:25+00:00",
       "score": 12,
-      "summary": "Roblox is promising more changes to its child safety features following testing from Australia's online safety regulator, eSafety. eSafety has been looking into concerns that the company hasn't been in compliance with Australia's Online Safety Act, including \"allegedly failing...",
+      "summary": "Grave fears are held for hundreds of people missing after flash floods swept through mountainous parts of Nepal and Tibet. A Nepali tourism official says dozens of Australians are among those unaccounted for. Follow live.",
       "country": "Australia",
       "region": "Oceania",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Hundreds",
+        "Australians",
+        "Himalayan"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Testimony concludes in trial of U.S. mother accused of killing her 3 children",
+      "link": "https://www.cbc.ca/news/world/lindsay-clancy-trial-testimony-concludes-9.7321634?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-08-26T15:35:44-04:00",
+      "score": 15,
+      "summary": "Testimony concluded Wednesday in the murder trial of Lindsay Clancy, a mother accused of strangling her three young children in a case that has drawn attention to postpartum mental health.",
+      "country": "Canada",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CBC News"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Kremlin confirms CIA director's meeting with Russian counterparts in Moscow",
+      "link": "https://www.cbc.ca/news/world/ratcliffe-moscow-visit-kremlin-trump-9.7321655?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-08-26T15:35:00-04:00",
+      "score": 12,
+      "summary": "U.S. CIA Director John Ratcliffe spoke with Russian intelligence officials during a visit to Moscow but did not meet President Vladimir Putin, the Kremlin said on Wednesday \u200cof a trip that U.S. President Donald Trump described as \"semi-routine.\"",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Roblox"
+        "CIA",
+        "Russian",
+        "Moscow"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13197,13 +13298,42 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "CBC News"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Beneath the Bondi royal commission's calm surface lies a deep tension",
+      "link": "https://www.abc.net.au/news/2026-08-27/antisemitism-bondi-royal-commission-wrap-analysis/107081086",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-26T19:33:51+00:00",
+      "score": 12,
+      "summary": "The antisemitism royal commission has been about as far from a Judge Judy-style reality show as you could possibly imagine. But these proceedings have been anything but a sleepy affair.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bondi"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Live Updates: Hundreds Missing as Wall of Water Sweeps Away Villages in Nepal and Tibet",
       "link": "https://www.nytimes.com/live/2026/08/26/world/nepal-floods",
@@ -19745,126 +19875,6 @@
         "ABC Australia"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Woman felt 'like body on a table' after surgeries performed without consent",
-      "link": "https://www.abc.net.au/news/2026-08-26/nsw-dr-alan-lam-hccc-complaint-sydney-unwanted-surgeries/107053722",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-25T20:39:36+00:00",
-      "score": 10,
-      "summary": "Catherine Shakespeare said months after undergoing an operation she learned three further surgeries had been performed without her consent.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Backyard hen boom on the cards amid bird flu fears, seller says",
-      "link": "https://www.abc.net.au/news/2026-08-26/backyard-laying-hen-demand-h5n1-bird-flu/107064314",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-25T20:34:51+00:00",
-      "score": 10,
-      "summary": "A poultry market founder says bird flu fears could drive a spike in demand for backyard chooks to rival that seen during the COVID-19 pandemic if supermarket eggs become scarce.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "El-Sayed pushes to keep affordability message focus amid scrutiny from both sides",
-      "link": "https://www.theguardian.com/us-news/2026/aug/25/abdul-el-sayed-criticism-affordability-message",
-      "source": "Guardian",
-      "timestamp": "2026-08-25T20:29:12+00:00",
-      "score": 10,
-      "summary": "Democratic Senate candidate for Michigan distances himself from Hasan Piker and debates Fox News hostThe Democratic candidate for Senate in the swing state of Michigan has spent the week trying to keep his affordability message front and center as scrutiny mounts from both end...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Wife of US soldier deported after Trump rollback on military family protections",
-      "link": "https://www.theguardian.com/us-news/2026/aug/25/soldier-wife-deported-honduras",
-      "source": "Guardian",
-      "timestamp": "2026-08-25T20:23:55+00:00",
-      "score": 12,
-      "summary": "Cristy Maryori Villafranca-Trejo, deported to Honduras, is latest military spouse to face removal amid Trump 2.0The wife of an active-duty US soldier was deported on Monday to her native Honduras, according to her family and the federal Department of Homeland Security (DHS).Cr...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Trump"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ],
@@ -26453,6 +26463,35 @@
   ],
   "Science": [
     {
+      "title": "Permafrost thaws worldwide as active layers deepen from 2000 to 2024",
+      "link": "https://phys.org/news/2026-08-permafrost-worldwide-layers-deepen.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-26T15:40:09-04:00",
+      "score": 13,
+      "summary": "An international study led by researchers at the George Washington University indicates clear global evidence that permafrost is thawing across much of the planet. Using more than two decades of field observations from 156 monitoring sites across the Arctic, Antarctic and high...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Dry seeds preserve fully formed mitochondria, unlocking rapid energy at germination",
       "link": "https://phys.org/news/2026-08-dry-seeds-fully-mitochondria-rapid.html",
       "source": "Phys.org",
@@ -29776,7 +29815,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.1,
+      "trend_score": 8.0,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -32507,35 +32546,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "A 2-degree twist creates a nanoscale grid that traps light energy at room temperature",
-      "link": "https://phys.org/news/2026-08-degree-nanoscale-grid-energy-room.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-24T14:00:03-04:00",
-      "score": 13,
-      "summary": "You may have once tried taking a close-up picture of a computer screen and noticed a wavy, rippling effect. This optical effect occurs whenever two fine, repeating grids overlap and slightly misalign, such as when the pixel grid of your camera's sensor overlaps with the pixel ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32598,7 +32608,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.3,
+      "trend_score": 6.2,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -33718,6 +33728,157 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "The Good List: 6 Things to Add Some Delight to Your Day",
+      "link": "https://www.nytimes.com/2026/08/26/briefing/the-good-list-dolly-kermit-pelagic.html",
+      "source": "NYT",
+      "timestamp": "2026-08-26T19:41:58+00:00",
+      "score": 15,
+      "summary": "Dolly & Kermit, a beach finder and never landing.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Good",
+        "List",
+        "Things",
+        "Add",
+        "Some",
+        "Delight",
+        "Your",
+        "Day"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Dreamgirls\u2019 First-Ever Broadway Revival Postponed Beyond Fall 2026",
+      "link": "https://deadline.com/2026/08/dreamgirls-broadway-postponed-1237051711/",
+      "source": "Deadline",
+      "timestamp": "2026-08-26T19:38:33+00:00",
+      "score": 15,
+      "summary": "The first-ever Dreamgirls revival, originally planned for a fall 2026 Broadway staging, has been postponed. New dates, cast and venue have not yet been announced. News of the postponement was first reported by People magazine. In a statement to People, producers said, \u201cThe new...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "FirstEver",
+        "Broadway",
+        "Revival",
+        "Postponed",
+        "Beyond",
+        "Fall"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Magnolia Sets 4K Theatrical Reissue Of Documentary \u2018End Of The Century: The Story Of The Ramones\u2019",
+      "link": "https://deadline.com/2026/08/end-of-the-century-the-story-of-the-ramones-re-release-1237051742/",
+      "source": "Deadline",
+      "timestamp": "2026-08-26T19:38:23+00:00",
+      "score": 15,
+      "summary": "EXCLUSIVE: Magnolia Pictures will be releasing a brand new 4K restoration of Michael Gramaglia and Jim Field\u2019s 2003 documentary, End of the Century: The Story of the Ramones later this year. In addition, this year marks the 50th anniversary of the punk band\u2019s first album. Also...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sets",
+        "Theatrical",
+        "Reissue",
+        "Documentary",
+        "End",
+        "Century",
+        "Story",
+        "Ramones"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Dancing With the Stars: The Next Pro\u2019 Cast: All the Dancers Vying for a Spot on Season 35",
+      "link": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-next-pro-cast-judges/",
+      "source": "THR",
+      "timestamp": "2026-08-26T19:36:40+00:00",
+      "score": 15,
+      "summary": "Plus, The Hollywood Reporter breaks down all the judges and mentors who will appear on the spinoff.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stars",
+        "Next",
+        "Pro",
+        "Cast",
+        "All",
+        "Dancers",
+        "Vying",
+        "Spot",
+        "Season"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Jaye P. Morgan, Singer, Actress and Game Show Panelist, Dies at 94",
       "link": "https://variety.com/2026/tv/news/jaye-p-morgan-dead-gong-show-1236844264/",
@@ -41523,159 +41684,45 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Dollywood Theme Park Will Be Open Tomorrow \u201cAs Dolly Wanted\u201d",
-      "link": "https://deadline.com/2026/08/dollywood-dolly-parton-1237050316/",
-      "source": "Deadline",
-      "timestamp": "2026-08-25T21:34:29+00:00",
-      "score": 12,
-      "summary": "Dollywood, Dolly Parton\u2019s beloved theme park in Pigeon Forge, Tennessee, will be open tomorrow following today\u2019s previously scheduled closing. In a lengthy statement \u2013 read it below \u2013 the park\u2019s executives said, \u201cIn her spirit, Dollywood will be open Wednesday as Dolly wanted,...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Theme",
-        "Park",
-        "Will",
-        "Open",
-        "Tomorrow",
-        "Dolly",
-        "Wanted"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Dolly Parton\u2019s 10 Most Essential Hit Songs",
-      "link": "https://www.hollywoodreporter.com/lists/dolly-partons-most-essential-hit-songs/",
-      "source": "THR",
-      "timestamp": "2026-08-25T21:20:43+00:00",
-      "score": 15,
-      "summary": "From '9 to 5' to 'I Will Always Love You,' a look at Parton's biggest tunes in the country and pop worlds.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Partons",
-        "Most",
-        "Essential",
-        "Hit",
-        "Songs"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Dolly Parton Is Mourned by Reba McEntire, Lily Tomlin and More",
-      "link": "https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-celebrity-reaction.html",
-      "source": "NYT",
-      "timestamp": "2026-08-25T21:17:19+00:00",
-      "score": 12,
-      "summary": "After her death at 80, celebrities and politicians honored the country music star for her generosity and philanthropy.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Parton",
-        "Mourned",
-        "Reba",
-        "McEntire",
-        "Lily",
-        "Tomlin",
-        "More"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Doc\u2019 Adds Barrett Carnahan, Raffa Virago, Cecilia Lee & Kolton Stewart To Season 3 Cast",
-      "link": "https://deadline.com/2026/08/doc-cast-barrett-carnahan-kolton-stewart-season-3-cast-1237050285/",
-      "source": "Deadline",
-      "timestamp": "2026-08-25T21:13:27+00:00",
-      "score": 15,
-      "summary": "EXCLUSIVE: The Fox medical drama Doc has added four new actors to its recurring cast: Barrett Carnahan (For All Mankind, Cobra Kai), Raffa Virago (Star Trek: Starfleet Academy, Davey and Jonesie\u2019s Locker), Cecilia Lee (Star Trek: Starfleet Academy, Fear Street: Prom Queen), an...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Adds",
-        "Barrett",
-        "Carnahan",
-        "Raffa",
-        "Virago",
-        "Cecilia",
-        "Lee",
-        "Kolton",
-        "Stewart",
-        "Season",
-        "Cast"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
+    {
+      "title": "16 Best Sweatsuits for Men 2026: Snug, Sophisticated, and Stealthy",
+      "link": "https://www.gq.com/story/best-sweatsuits-for-men",
+      "source": "GQ",
+      "timestamp": "2026-08-26T19:35:30+00:00",
+      "score": 15,
+      "summary": "These days, the best are made for so much more than lounging.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Best",
+        "Sweatsuits",
+        "Men",
+        "Snug",
+        "Sophisticated",
+        "Stealthy"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "GQ"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "10 Weekend Outfits to Try on the Labor Day Weekend",
       "link": "https://www.vogue.com/article/what-to-wear-this-weekend",
@@ -45188,6 +45235,101 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.6 - 28 km NE of Igiugig, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026qxgqtu",
+      "source": "USGS",
+      "timestamp": "2026-08-26T19:44:35.876000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-26 19:43:19 UTC2026-08-26 19:43:19 UTC at epicenterLocation59.479\u00b0N 155.501\u00b0WDepth0.10 km (0.06 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Igiugig",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 5.6 - 212 km E of Onagawa Ch\u014d, Japan",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tc18",
+      "source": "USGS",
+      "timestamp": "2026-08-26T19:44:07.757000+00:00",
+      "score": 15,
+      "summary": "ShakeMap - IIITime2026-08-26 19:21:41 UTC2026-08-26 19:21:41 UTC at epicenterLocation38.129\u00b0N 143.848\u00b0EDepth10.00 km (6.21 mi)",
+      "country": "Japan",
+      "region": "East Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Onagawa",
+        "Japan"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Zambia",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031177",
+      "source": "GDACS",
+      "timestamp": "2026-08-26T19:34:32+00:00",
+      "score": 12,
+      "summary": "On 17/08/2026, a forest fire started in Zambia, until 26/08/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Zambia"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+54%",
       "heat_level": "LOW"
     },
     {
@@ -51560,104 +51702,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.3 - 239 km SE of Hihifo, Tonga",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tnd7",
-      "source": "USGS",
-      "timestamp": "2026-08-25T15:35:51.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-25 15:15:54 UTC2026-08-25 15:15:54 UTC at epicenterLocation17.294\u00b0S 172.037\u00b0WDepth10.00 km (6.21 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hihifo",
-        "Tonga"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 10 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75424872",
-      "source": "USGS",
-      "timestamp": "2026-08-25T15:27:23.806000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-25 15:10:14 UTC2026-08-25 15:10:14 UTC at epicenterLocation38.829\u00b0N 122.854\u00b0WDepth2.04 km (1.27 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Positive progress on flood resilience protecting Gloucestershire communities - Gloucestershire County Council",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVWpZbUNSTlpXUkpaMnNSY3o4TWFWajg5eW84N1FTaEo3eFVFWWdIQjRZOExiV0EtZGFpOEwyTkNmek1qZXMyR0JOTDBHdHo2b1FMbmU4Z2xvNkQwamNMcmpLWk9GckFvWW9HbFdNcV9SMUs2NEZlV3k4OEJraWlVdm8wWlRHNUVfZnlFQkJaR1BuOHg4RmNzTW5XX2M0TzExejRBNmJSb0R6RDRxcFhJTkR1UkRCUFRFYWhJa0VNM1JzdGgzamdNMk9fb29hVEUwaXJxVQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-08-25T15:24:47+00:00",
-      "score": 12,
-      "summary": "Positive progress on flood resilience protecting Gloucestershire communities Gloucestershire County Council",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Gloucestershire",
-        "County",
-        "Council"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
