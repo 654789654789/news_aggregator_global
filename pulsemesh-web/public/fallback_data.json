@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "Belagavi, Hubballi-Dharwad police commissioners transferred",
+      "link": "https://www.thehindu.com/news/national/karnataka/belagavi-hubballi-dharwad-police-commissioners-transferred/article71405218.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-08-29T23:48:19+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "HubballiDharwad"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Goods engine derails near Arakkonam railway station",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/goods-engine-derails-near-arakkonam-railway-station/article71405036.ece",
       "source": "The Hindu",
@@ -6625,24 +6656,28 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Trump can\u2019t appeal New York conviction in federal court, judge rules again",
-      "link": "https://thehill.com/regulation/court-battles/6057732-trump-criminal-conviction-removal-federal-court-denied/",
-      "source": "The Hill",
-      "timestamp": "2026-08-28T17:16:29+00:00",
-      "score": 14,
-      "summary": "A federal judge on Friday rejected President Trump\u2019s latest bid to fight his criminal conviction outside of New York\u2019s state courts, a strategy aimed at citing presidential immunity, under which Trump could potentially toss charges that stem from a 2016 hush money payment in t...",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "source": "Verge",
+      "timestamp": "2026-08-29T14:19:53-04:00",
+      "score": 12,
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instan...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "New",
-        "York"
+        "Music",
+        "Warner",
+        "Chappell",
+        "Anthropic"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6651,15 +6686,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hill"
+        "Verge"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "\u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",
       "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
@@ -13124,22 +13157,27 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Instinct\u2019s powerful AI assistant is raising privacy and security concerns",
-      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-24T18:03:55+00:00",
-      "score": 14,
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant\u2019s sweeping access, broad terms and ability to act on users\u2019 behalf come with uncomfortable trade-offs",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Woman transforms condemned 1888 San Diego mansion into a $4.5 million showpiece",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-1997-a-woman-bought-a-condemned-1888-san-diego-mansion-for-188500-after-an-8-year-restoration-it-has-30-plus-chandeliers-a-secret-bar-titanic-movie-set-columns-and-a-4-5-million-asking-price/articleshow/133568203.cms",
+      "source": "Times of India",
+      "timestamp": "2026-08-29T23:55:00+05:30",
+      "score": 15,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "San",
+        "Diego"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13147,15 +13185,45 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "TechCrunch"
+        "Times of India"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+43%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "From society to politics: Bhagwat lays out RSS route to change",
+      "link": "https://timesofindia.indiatimes.com/india/no-place-in-hindu-thought-for-excluding-muslims-bhagwat-in-new-york/articleshow/133617841.cms",
+      "source": "Times of India",
+      "timestamp": "2026-08-29T23:50:52+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bhagwat",
+        "RSS"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Colombia captures a suspected Tren de Aragua gang leader as U.S. security ties deepen",
       "link": "https://www.thehindu.com/news/colombia-captures-a-suspected-tren-de-aragua-gang-leader-as-us-security-ties-deepen/article71405844.ece",
@@ -19785,58 +19853,26 @@
       ],
       "trend_accel": "+66%",
       "heat_level": "HOT"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Nepal: A newly formed lake is sparking fears of more flooding along the Chinese border",
-      "link": "https://www.france24.com/en/video/20260828-nepal-a-newly-formed-lake-is-sparking-fears-of-more-flooding-along-the-chinese-border",
-      "source": "France24",
-      "timestamp": "2026-08-28T12:36:23+00:00",
+      "title": "Trump administration weighs Yosemite land swap for private developer\u2019s access road",
+      "link": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-29T18:21:49+00:00",
       "score": 12,
-      "summary": "Rescue operations are continuing after the devastating Nepal-China floods, but authorities have ordered emergency teams to stay on high alert as a newly formed upstream lake threatens to burst and trigger fresh flooding. Satellite imagery suggests the lake formed in the same a...",
-      "country": "China",
-      "region": "East Asia",
+      "summary": "The Trump administration is considering a Yosemite land exchange that could give a developer more direct park access.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics",
-        "Climatic"
-      ],
-      "entities": [
-        "Chinese"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Nepal monitoring two lakes, flood risk to remain until they're fully drained: official",
-      "link": "https://www.thehindu.com/news/international/nepal-flash-floods-risk-two-lakes-upstream-being-monitored-disaster-management-official/article71400209.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-28T17:47:15+05:30",
-      "score": 12,
-      "summary": "Nepalese authorities are relying on \u200csatellite imagery to track \u200bconditions, though monitoring is \u2060limited by the availability of images, \u200cthe official said",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
+      "topic_tags": [],
+      "entities": [
+        "Yosemite"
       ],
-      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19846,13 +19882,49 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "CNBC"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "40,000 Pounds of Pabst Blue Ribbon Beer Are Stolen in California",
+      "link": "https://www.nytimes.com/2026/08/29/business/pabst-beer-truck-stolen-california.html",
+      "source": "NYT",
+      "timestamp": "2026-08-29T18:18:39+00:00",
+      "score": 15,
+      "summary": "The company responded to the theft by setting a deadline for the return of the product. \u201cP.S., this is real and we are deadly serious,\u201d it said on social media.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pounds",
+        "Pabst",
+        "Blue",
+        "Ribbon",
+        "Beer",
+        "Are",
+        "Stolen",
+        "California"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "National Park Service backs Trump\u2019s 250-foot arch despite \u2018adverse effects\u2019 on historic sites",
       "link": "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
@@ -26410,73 +26482,38 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Josh Brown did a double-take when this travel name made it onto his Best Stocks list",
-      "link": "https://www.cnbc.com/2026/08/27/josh-brown-did-a-double-take-when-this-travel-name-made-it-onto-his-best-stocks-list.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-27T15:01:14+00:00",
-      "score": 14,
-      "summary": "Josh Brown and Sean Russo break down the travel name.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Brown",
-        "Best",
-        "Stocks"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
-      "link": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-27T14:41:08+00:00",
-      "score": 14,
-      "summary": "Strategic intelligence signal ingested from CNBC.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hammack"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
+      "link": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-08-29T18:30:32+00:00",
+      "score": 10,
+      "summary": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Most people would sacrifice some life satisfaction in exchange for a more equal society",
       "link": "https://phys.org/news/2026-08-people-sacrifice-life-satisfaction-exchange.html",
@@ -32586,35 +32623,6 @@
       "trending": false,
       "trend_score": 0.0,
       "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Observing the vibrations of neighboring atoms with an atomic-scale double slit",
-      "link": "https://phys.org/news/2026-08-vibrations-neighboring-atoms-atomic-scale.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-26T14:20:03-04:00",
-      "score": 10,
-      "summary": "Efficiently controlling heat generation has become a major challenge as the semiconductors used in smartphones, computers and similar devices have become higher-performing and more miniaturized. The way heat is transmitted is determined by the vibration of the atoms that const...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
       "sources_reporting": [
         "Phys.org"
       ],
@@ -45045,6 +45053,104 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 0.7 - 4 km NNE of Beaumont, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41538872",
+      "source": "USGS",
+      "timestamp": "2026-08-29T18:28:40.696000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-29 18:25:13 UTC2026-08-29 18:25:13 UTC at epicenterLocation33.965\u00b0N 116.960\u00b0WDepth9.67 km (6.01 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Beaumont"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.0 - 9 km N of Guaymate, Dominican Republic",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026241000",
+      "source": "USGS",
+      "timestamp": "2026-08-29T18:28:04.598000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-29 17:36:19 UTC2026-08-29 17:36:19 UTC at epicenterLocation18.674\u00b0N 68.992\u00b0WDepth106.00 km (65.87 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Guaymate",
+        "Dominican",
+        "Republic"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.8 - 6 km WNW of Mira Loma, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41538864",
+      "source": "USGS",
+      "timestamp": "2026-08-29T18:25:38.268000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-29 18:22:11 UTC2026-08-29 18:22:11 UTC at epicenterLocation34.010\u00b0N 117.576\u00b0WDepth5.04 km (3.13 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Mira",
+        "Loma"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.4 - 34 km SSW of Los Ybanez, Texas",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026qzxgaa",
       "source": "USGS",
@@ -51394,104 +51500,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 1 km WNW of Cabazon, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41538176",
-      "source": "USGS",
-      "timestamp": "2026-08-28T15:26:40.940000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-28 15:16:28 UTC2026-08-28 15:16:28 UTC at epicenterLocation33.920\u00b0N 116.800\u00b0WDepth17.22 km (10.70 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Cabazon"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 6 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426332",
-      "source": "USGS",
-      "timestamp": "2026-08-28T15:22:23.006000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-28 14:54:02 UTC2026-08-28 14:54:02 UTC at epicenterLocation38.815\u00b0N 122.812\u00b0WDepth2.74 km (1.70 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 Quarry Blast - 2 km ESE of Burbank, Oklahoma",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026qvvj",
-      "source": "USGS",
-      "timestamp": "2026-08-28T15:20:33.679000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-28 15:13:50 UTC2026-08-28 15:13:50 UTC at epicenterLocation36.688\u00b0N 96.705\u00b0WDepth0.00 km (0.00 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Quarry",
-        "Blast",
-        "ESE",
-        "Burbank",
-        "Oklahoma"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ]
