@@ -1,6 +1,35 @@
 {
   "Politics": [
     {
+      "title": "Hyderabad hospital performs 400 kidney transplants",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-performs-400-kidney-transplants/article71405294.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-08-30T00:47:46+05:30",
+      "score": 13,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Milo Yiannopoulos, Right-Wing Agitator, Deported Home to U.K.",
       "link": "https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html",
       "source": "NYT",
@@ -6624,39 +6653,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Bombay High Court grants bail to PFI accused, cites lack of evidence",
-      "link": "https://www.thehindu.com/news/national/maharashtra/bombay-high-court-grants-bail-to-pfi-accused-cites-lack-of-evidence/article71401112.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-28T23:24:29+05:30",
-      "score": 14,
-      "summary": "The Maharashtra Anti-Terrorism Squad arrested Mohammed Iqbal Ibrahim Khan in September 2022 under various sections of the IPC and UAPA",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "High",
-        "Court",
-        "PFI"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Tech": [
@@ -13160,6 +13156,37 @@
     }
   ],
   "World": [
+    {
+      "title": "'Absolutely emotional': Jewish community reflects as antisemitism hearings end",
+      "link": "https://www.abc.net.au/news/2026-08-30/bondi-antisemitism-social-cohesion-royal-commission-ends/107088820",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-29T19:27:07+00:00",
+      "score": 12,
+      "summary": "Sections of the Jewish community have responded as the antisemitism royal commission begins its toughest work yet.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Jewish"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Without this one interview technique Australian Story 'would have be dead'",
       "link": "https://www.abc.net.au/news/2026-08-30/australian-story-secrets-to-30-years-of-extraordinary-stories/106088384",
@@ -19817,24 +19844,28 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Rock en Seine: Visually impaired spectators enjoy festival with audio description",
-      "link": "https://www.france24.com/en/rock-en-seine-visually-impaired-spectators-enjoy-festival-with-audio-description",
-      "source": "France24",
-      "timestamp": "2026-08-28T13:02:40+00:00",
-      "score": 14,
-      "summary": "At Paris's Rock en Seine, visually impaired festival-goers can enjoy concerts through live audio description. The festival is offering dedicated platforms, as well as headphones and receivers provided by the Valentin Ha\u00fcy Association, a pioneer in audio description in France. ...",
-      "country": "France",
+      "title": "Russian strike on Kyiv-area ammunition depot triggers blast, killing 37",
+      "link": "https://www.cnbc.com/2026/08/29/russian-strike-on-kyiv-area-warehouse-causes-detonation-killing-27.html",
+      "source": "CNBC",
+      "timestamp": "2026-08-29T19:25:12+00:00",
+      "score": 15,
+      "summary": "Ukraine President Volodymyr Zelenskyy vowed to punish suspected negligence in the second such incident in two months.",
+      "country": "Ukraine",
       "region": "Europe",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
       "entities": [
-        "Seine",
-        "Visually"
+        "Kyivarea"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19843,15 +19874,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "France24"
+        "CNBC"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
       "link": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
@@ -24111,7 +24140,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.8,
+      "trend_score": 7.7,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -24120,8 +24149,8 @@
         "Livemint",
         "PBS"
       ],
-      "trend_accel": "+66%",
-      "heat_level": "SURGING"
+      "trend_accel": "+65%",
+      "heat_level": "HOT"
     },
     {
       "title": "Rupee opens 3 paise higher at 95.51 against US dollar",
@@ -26441,41 +26470,6 @@
         "CNBC"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Hy Tech IPO: Subscription hits massive 244x, eclipses Temescent by a wide margin; check latest GMP",
-      "link": "https://www.livemint.com/market/ipo/hy-tech-ipo-subscription-hits-massive-244x-eclipses-temescent-by-a-wide-margin-check-latest-gmp-11787842026749.html",
-      "source": "Livemint",
-      "timestamp": "2026-08-27T20:38:13+05:30",
-      "score": 17,
-      "summary": "The IPOs for Hy-Tech Engineers and Tempsens Instruments attracted high demand, with Hy-Tech booked 244 times vs. Tempsens at 184.07 times. Strong participation across investor categories also led to solid potential listing gains.&nbsp;",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tech",
-        "IPO",
-        "Subscription",
-        "Temescent",
-        "GMP"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+43%",
       "heat_level": "LOW"
     }
   ],
