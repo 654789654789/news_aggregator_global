@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "Airlines for America CEO says plane ticket prices will stabilize",
+      "link": "https://thehill.com/policy/transportation/6059843-airfare-to-stabilize-high-fuel/",
+      "source": "The Hill",
+      "timestamp": "2026-08-30T19:49:21+00:00",
+      "score": 14,
+      "summary": "Airlines for America CEO Chris Sununu on Sunday said the price of plane tickets will stabilize amid high jet fuel prices that have spiked in the six months since the Iran war began. \u201cPeople realize that demand is high,\u201d Sununu told \u201cThe Hill on Sunday\u201d host Chris Stirewalt on ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "America",
+        "CEO"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Tropical Storm Karina strengthens into a hurricane in the Pacific, could be a major storm",
       "link": "https://www.pbs.org/newshour/nation/tropical-storm-karina-strengthens-into-a-hurricane-in-the-pacific-could-be-a-major-storm",
       "source": "PBS",
@@ -6563,41 +6595,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Zee\u2019s Subhash Chandra accuses Mukesh Ambani of spreading misinformation, RIL denies allegations",
-      "link": "https://www.thehindu.com/business/Industry/zees-subhash-chandra-accuses-mukesh-ambani-of-spreading-misinformation-ril-denies-allegations/article71404770.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-08-29T18:56:18+05:30",
-      "score": 12,
-      "summary": "\u201cHis media company, TV18 Group, which includes CNBC, started this misinformation by broadcasting that NCLT has reduced Subhash Chandra\u2019s \u20b9 22,000 crore debt liability to only \u20b96.5 crore,\u201d says Subhash Chandra",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Subhash",
-        "Chandra",
-        "Mukesh",
-        "Ambani",
-        "RIL"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Tech": [
@@ -13091,6 +13088,84 @@
   ],
   "World": [
     {
+      "title": "Breaking: US reportedly strikes Iranian launchers on Larak Island",
+      "link": "https://www.abc.net.au/news/2026-08-31/middle-east-war-us-strikes-launched-iran-larak-island/107096404",
+      "source": "ABC Australia",
+      "timestamp": "2026-08-30T19:47:23+00:00",
+      "score": 12,
+      "summary": "US forces have struck two Iranian launchers \u200con Iran's Larak Island, Axios reports, citing \u200ca US \u200cofficial.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iranian",
+        "Larak",
+        "Island"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Ferry Carrying Hundreds Capsizes Off the Coast of Cyprus",
+      "link": "https://www.nytimes.com/2026/08/30/world/europe/cyprus-ferry-capsizes-turkey.html",
+      "source": "NYT",
+      "timestamp": "2026-08-30T19:46:10+00:00",
+      "score": 12,
+      "summary": "Local authorities said 267 people were aboard the catamaran-type vessel when it began taking on water shortly after its departure from Kyrenia.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Carrying",
+        "Hundreds",
+        "Capsizes",
+        "Off",
+        "Coast",
+        "Cyprus"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.5,
+      "source_count": 21,
+      "sources_reporting": [
+        "AP",
+        "BBC",
+        "BBC",
+        "CBC News",
+        "France24",
+        "NPR",
+        "NYT",
+        "The Hindu"
+      ],
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
       "link": "https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html",
       "source": "NYT",
@@ -14292,8 +14367,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "BBC",
@@ -19566,74 +19641,6 @@
         "Times of India"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Photos: See the aftermath of deadly flash floods in Nepal",
-      "link": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
-      "source": "NPR",
-      "timestamp": "2026-08-29T10:22:19-04:00",
-      "score": 12,
-      "summary": "Nepal officials say the death toll has continues to rise in Wednesday's floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both areas.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "See",
-        "Nepal"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "NPR"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Breaking: One Nation claims victory in Secret Harbour by-election",
-      "link": "https://www.abc.net.au/news/2026-08-30/one-nation-claims-win-secret-harbour-by-election/107094074",
-      "source": "ABC Australia",
-      "timestamp": "2026-08-29T14:20:20+00:00",
-      "score": 14,
-      "summary": "One Nation is claiming victory in the Secret Harbour by-election, and looks on track to secure its first lower house seat in Western Australia.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "One",
-        "Nation",
-        "Secret",
-        "Harbour"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -33507,6 +33514,41 @@
   ],
   "Entertainment": [
     {
+      "title": "Finneas O\u2019Connell and Claudia Sulewski Are Married",
+      "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/finneas-oconnell-claudia-sulewski-married-1236685263/",
+      "source": "THR",
+      "timestamp": "2026-08-30T19:49:59+00:00",
+      "score": 12,
+      "summary": "The couple got engaged during a romantic sunset proposal last year.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "OConnell",
+        "Claudia",
+        "Sulewski",
+        "Are",
+        "Married"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Kacey Musgraves Continues Boston Show As Fire Breaks Out On Stage",
       "link": "https://deadline.com/2026/08/kacey-musgraves-continues-boston-show-fire-on-stage-1237062905/",
       "source": "Deadline",
@@ -41493,49 +41535,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Ride the \u2018Meteorite\u2019! Two Women, Smuggling Mobiles Into a Prison, Journey Through an Amusement Park (Exclusive Trailer)",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/venice-critics-week-meteorite-film-trailer-amusement-park-1236683030/",
-      "source": "THR",
-      "timestamp": "2026-08-28T13:00:00+00:00",
-      "score": 14,
-      "summary": "Oh yeah, the amusement park is built on the grounds of a drug lord\u2019s former estate in Colombian filmmaker Sebasti\u00e1n M\u00fanera's feature directorial debut, which premieres in the Venice Critics' Week.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Meteorite",
-        "Two",
-        "Women",
-        "Smuggling",
-        "Mobiles",
-        "Into",
-        "Prison",
-        "Journey",
-        "Through",
-        "Amusement",
-        "Park",
-        "Exclusive",
-        "Trailer"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -44960,6 +44959,105 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.9 - 54 km S of Whites City, New Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rbxkhy",
+      "source": "USGS",
+      "timestamp": "2026-08-30T20:00:39.298000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-30 19:48:35 UTC2026-08-30 19:48:35 UTC at epicenterLocation31.689\u00b0N 104.308\u00b0WDepth6.03 km (3.75 mi)",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Whites",
+        "City",
+        "New",
+        "Mexico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 17 km WSW of Johannesburg, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41539360",
+      "source": "USGS",
+      "timestamp": "2026-08-30T19:58:51.953000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-30 19:55:28 UTC2026-08-30 19:55:28 UTC at epicenterLocation35.325\u00b0N 117.818\u00b0WDepth8.74 km (5.43 mi)",
+      "country": "South Africa",
+      "region": "Africa",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Johannesburg"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.9 - 11 km ESE of Willow Creek, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75427342",
+      "source": "USGS",
+      "timestamp": "2026-08-30T19:51:55.853000+00:00",
+      "score": 15,
+      "summary": "Time2026-08-30 19:50:19 UTC2026-08-30 19:50:19 UTC at epicenterLocation40.910\u00b0N 123.506\u00b0WDepth25.73 km (15.99 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Willow",
+        "Creek"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 0.7 - 7 km NW of The Geysers, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75427337",
@@ -51348,102 +51446,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 4 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426782",
-      "source": "USGS",
-      "timestamp": "2026-08-29T11:13:16.227000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-29 11:11:39 UTC2026-08-29 11:11:39 UTC at epicenterLocation38.793\u00b0N 122.804\u00b0WDepth3.22 km (2.00 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.4 - 77 km SW of Covenant Life, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rcdpmb",
-      "source": "USGS",
-      "timestamp": "2026-08-29T11:12:21.154000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-29 11:10:07 UTC2026-08-29 11:10:07 UTC at epicenterLocation59.007\u00b0N 137.115\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Covenant",
-        "Life",
-        "Alaska"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Australia",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031311",
-      "source": "GDACS",
-      "timestamp": "2026-08-29T11:01:06+00:00",
-      "score": 12,
-      "summary": "On 27/08/2026, a forest fire started in Australia, until 29/08/2026.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Australia"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+59%",
       "heat_level": "LOW"
     }
   ]
