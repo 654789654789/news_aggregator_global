@@ -13224,6 +13224,37 @@
   ],
   "World": [
     {
+      "title": "Victoria Police officer charged with assaulting teenager during arrest",
+      "link": "https://www.abc.net.au/news/2026-09-01/victoria-police-officer-ibac-assault-arrest/107101660",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-01T01:48:10+00:00",
+      "score": 12,
+      "summary": "Victoria's anti-corruption watchdog has charged a police officer with four counts of assault linked to an arrest in Melbourne's west last year.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Police"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Donald Trump vows to hit Iran \u2018hard\u2019 after first exchange of fire in weeks",
       "link": "https://www.thehindu.com/news/international/donald-trump-vows-to-hit-iran-hard-after-first-exchange-of-fire-in-weeks/article71413458.ece",
       "source": "The Hindu",
@@ -16527,15 +16558,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 7,
+      "trending": true,
+      "trend_score": 11.1,
+      "source_count": 13,
       "sources_reporting": [
+        "BBC",
         "CBC News",
-        "France24"
+        "France24",
+        "Guardian",
+        "NPR",
+        "PBS"
       ],
-      "trend_accel": "+70%",
-      "heat_level": "HOT"
+      "trend_accel": "+88%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Police arrest Swiss man over after deadly rave shooting",
@@ -19442,8 +19477,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "ABC Australia",
@@ -19854,26 +19889,30 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-08-30T22:14:37+00:00",
-      "score": 12,
-      "summary": "More than 20 people are thought to be unaccounted for after flash flooding on Saturday.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "From Gift Nifty to fall in South Korea's Kospi, oil prices: 6 key things that changed for Indian stock market overnight",
+      "link": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-fall-in-south-koreas-kospi-oil-prices-6-key-things-that-changed-for-indian-stock-market-overnight-11788225676272.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-01T07:19:29+05:30",
+      "score": 17,
+      "summary": "Gift Nifty was trading around the 24,212 level, down nearly 33 points from the Nifty futures\u2019 previous close, indicating a negative start for the Indian stock market indices.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Grand",
-        "Canyon"
+        "Gift",
+        "Nifty",
+        "South",
+        "Koreas",
+        "Kospi",
+        "Indian"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19882,21 +19921,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 18,
+      "source_count": 3,
       "sources_reporting": [
-        "ABC Australia",
-        "AP",
-        "Al Jazeera",
-        "BBC",
-        "CBC News",
-        "PBS",
-        "Reuters"
+        "Livemint"
       ],
-      "trend_accel": "+90%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Business": [
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Shein\u2019s Lackluster Debut Shows a Fast-Fashion Model Left Behind",
       "link": "https://www.nytimes.com/2026/08/31/business/shein-ipo-china.html",
@@ -26576,23 +26607,23 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Nepal seeks technical help and billions of dollars for flood as bad weather hampers rescue",
-      "link": "https://www.cnbc.com/2026/08/29/nepal-seeks-technical-help-and-billions-of-dollars-for-flood-recovery.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-29T12:16:51+00:00",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from CNBC.",
+      "title": "Cover crops could ease the shift from perennial seed to annual crops",
+      "link": "https://phys.org/news/2026-08-crops-ease-shift-perennial-seed.html",
+      "source": "Phys.org",
+      "timestamp": "2026-08-31T22:00:01-04:00",
+      "score": 10,
+      "summary": "Transitioning an aging perennial forage seed stand into annual cropping can be difficult, particularly when the original crop persists or weeds establish after termination. Preliminary Canadian research suggests cover crops could help by suppressing regrowth and weeds, retaini...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
+      "topic_tags": [],
       "entities": [],
       "severity_score": 0,
       "alert_level": "low",
@@ -26601,15 +26632,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Drones take farming to new heights",
       "link": "https://phys.org/news/2026-08-drones-farming-heights.html",
@@ -32734,23 +32763,37 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Sports": [
     {
-      "title": "Milky Way's own gravity can mimic dark matter clues, stellar stream simulations suggest",
-      "link": "https://phys.org/news/2026-08-milky-gravity-mimic-dark-clues.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-27T17:00:01-04:00",
-      "score": 12,
-      "summary": "Most of the stars in our Milky Way galaxy sit neatly on a flat plane. But the space around our galaxy is much more chaotic. Rogue bands of stars called \"stellar streams\" orbit the Milky Way much like planets in our solar system orbit the sun.",
+      "title": "Jack Pyburn Claimed by Chiefs After Being Waived by Bucs, Will Stay in NFL Amid LSU Buzz - bleacherreport.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXNHbEhEdURMU2hGcDh2bEt3OG9udzEyT2pFeEhZdy1mbjFMLVZnSXY1aFVTU18tTGlkUVRpX0JGOE5kM2VIbHFacnRSWE40VmV4aEl4QmZEYk9ta3ZFaHVMV3lOcTNDVlpOUUlqYWhFY0VrdkRYRW16Tlp4c18tNWlrZEJ0ejh6TFk2MFUzbW9jOEEwNjdZS2hpY3I2NzZ0Sk9mVzFiV2hCNHdIS1ViZ1ZkYlF5UDFEOW5GRUk5MFg?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-09-01T01:52:30+00:00",
+      "score": 14,
+      "summary": "Jack Pyburn Claimed by Chiefs After Being Waived by Bucs, Will Stay in NFL Amid LSU Buzz bleacherreport.comKansas City Chiefs may have ruined Jack Pyburn's plan to make big money at LSU by giving him a job in the NFL Fox NewsFormer LSU edge Jack Pyburn, primary plaintiff in Lo...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Ways"
+        "Pyburn",
+        "Claimed",
+        "Chiefs",
+        "After",
+        "Being",
+        "Waived",
+        "Bucs",
+        "Will",
+        "Stay",
+        "NFL",
+        "Amid",
+        "LSU",
+        "Buzz"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -32759,15 +32802,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "Phys.org"
+        "Google News"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+43%",
       "heat_level": "LOW"
-    }
-  ],
-  "Sports": [
+    },
     {
       "title": "Eagles practice squad tracker news: Signings, waiver claims, roster updates, and more - Bleeding Green Nation",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWXJaNVgxRk92cVZCNHYtR0pHZmxkSHBadXdLQlh5eE55Yzl5SE5Pa05DcHZ0WVMxU3VZRWhvZVFxQUxJR2NtSzJGckNnb2FVZ2NQd29jWnpwZ09oT19SY3p0aGtRVHhQMlJBSzBzdHhTaW1aZllKUW0tSU42cUdFTHdETlZfUzQ0MW5admNQOXdORTlNX3hBVThTdkRRVnRQbGtCMEw5MmFUX3RuVDJTNzg4YldLdFhYYldIMUVfSS1DN1FLNTQ2UA?oc=5",
@@ -33842,6 +33883,122 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Obsession\u2019 Producer Files Lawsuit Claiming She Was Cut Out of Profits Despite \u201cRescuing\u201d Cut",
+      "link": "https://www.hollywoodreporter.com/business/business-news/obsession-lawsuit-profits-producer-1236683252/",
+      "source": "THR",
+      "timestamp": "2026-09-01T01:55:05+00:00",
+      "score": 14,
+      "summary": "Producers James Harris and Mark Lane are accused by fellow producer Leonora Ann Darby of making compensation promises that they did not keep when the Curry Barker feature became a massive hit.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Producer",
+        "Files",
+        "Lawsuit",
+        "Claiming",
+        "She",
+        "Was",
+        "Cut",
+        "Out",
+        "Profits",
+        "Despite",
+        "Rescuing"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\"Jessie's Girl\" Singer Rick Springfield Shows Off Toned Body at 77",
+      "link": "https://www.eonline.com/news/1435602/rick-springfield-jessies-girl-singer-shows-shirtless-body-at-77-photo?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-09-01T01:52:15+00:00",
+      "score": 15,
+      "summary": "Where can you find a man like Rick Springfield? It seems you can find the \u201cJessie\u2019s Girl\u201d singer showing off his toned physique while performing on stage without his shirt, which has turned the...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Girl",
+        "Singer",
+        "Rick",
+        "Springfield",
+        "Shows",
+        "Off",
+        "Toned",
+        "Body"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Rob and Michele Reiner\u2019s Son Jake Marries Longtime Girlfriend",
+      "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/rob-reiner-son-jake-married-maria-gilfillan-1236686362/",
+      "source": "THR",
+      "timestamp": "2026-09-01T01:50:01+00:00",
+      "score": 12,
+      "summary": "The ceremony reportedly took place eight months after the brutal murder of his parents in December.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Michele",
+        "Reiners",
+        "Son",
+        "Jake",
+        "Marries",
+        "Longtime",
+        "Girlfriend"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Kelly Osbourne Addresses \"Cruel\" Body Shaming While She Was \u201cSo Sick\"",
       "link": "https://www.eonline.com/news/1435599/kelly-osbourne-addresses-body-shamers-over-weight-while-being-sick?cmpid=rss-syndicate-genericrss-us-top_stories",
@@ -41675,70 +41832,31 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "Laura Dern to Give George Clooney Venice Golden Lion for Lifetime Achievement",
-      "link": "https://variety.com/2026/film/festivals/laura-dern-george-clooney-venice-golden-lion-lifetime-1236846829/",
-      "source": "Variety",
-      "timestamp": "2026-08-30T13:48:56+00:00",
-      "score": 12,
-      "summary": "Laura Dern is set to give the Laudatio speech honoring George Clooney at Venice Film Festival where, as previously announced, he will be honored on Wed., Sept. 2, with a Golden Lion for Lifetime Achievement. Clooney \u2013 who is one of only three people to have been nominated in s...",
+      "title": "Shein Makes IPO Debut at $26.5B Valuation, a Fraction of Previous Estimates",
+      "link": "https://www.vogue.com/article/shein-makes-long-awaited-ipo-debut-at-dollar263-billion-valuation",
+      "source": "Vogue",
+      "timestamp": "2026-09-01T01:54:18+00:00",
+      "score": 15,
+      "summary": "Ultra-fast fashion giant Shein went public on the Hong Kong Stock Exchange this morning at a fraction of its former value. How did its IPO efforts go awry?",
       "country": "US",
       "region": "Americas",
-      "source_type": "Entertainment",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Dern",
-        "Give",
-        "George",
-        "Clooney",
-        "Venice",
-        "Golden",
-        "Lion",
-        "Lifetime",
-        "Achievement"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Harry Styles Makes Cheeky Comment About Ex Taylor Swift\u2019s MSG Wedding",
-      "link": "https://www.eonline.com/news/1435549/harry-styles-jokes-about-ex-taylor-swifts-msg-wedding-with-travis-kelce?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-08-30T13:39:52+00:00",
-      "score": 12,
-      "summary": "Harry Styles may kiss all the time, but he jokes occasionally. The Grammy winner poked fun at Madison Square Garden\u2019s multiple uses nearly two months after his ex Taylor Swift\u2014who he dated from...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Styles",
         "Makes",
-        "Cheeky",
-        "Comment",
-        "About",
-        "Taylor",
-        "Swifts",
-        "MSG",
-        "Wedding"
+        "IPO",
+        "Debut",
+        "Valuation",
+        "Fraction",
+        "Previous",
+        "Estimates"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -41747,60 +41865,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "E! News"
+        "Vogue"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Melinda French Gates Doubles Olivia Rodrigo\u2019s Daisy Chain Fields Donation to $20 Million",
-      "link": "https://www.rollingstone.com/music/music-news/melinda-french-gates-doubles-olivia-rodrigo-donation-1235617839/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-08-30T13:15:47+00:00",
-      "score": 17,
-      "summary": "\"What Daisy Chain Fields sets in motion will last far beyond a single night,\" philanthropist says in statement",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "French",
-        "Gates",
-        "Doubles",
-        "Olivia",
-        "Rodrigos",
-        "Daisy",
-        "Chain",
-        "Fields",
-        "Donation",
-        "Million"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 16,
-      "sources_reporting": [
-        "AP",
-        "NHK",
-        "PBS",
-        "Rolling Stone",
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+84%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Lifestyle": [
     {
       "title": "The Kiko Milano Eyeshadow Stick Simply Does Not Budge",
       "link": "https://www.vogue.com/article/kiko-milano-eyeshadow-stick",
@@ -45236,6 +45307,104 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.1 - 8 km ENE of Coso Junction, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41539968",
+      "source": "USGS",
+      "timestamp": "2026-09-01T01:57:48.716000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-01 01:54:16 UTC2026-09-01 01:54:16 UTC at epicenterLocation36.064\u00b0N 117.859\u00b0WDepth2.55 km (1.58 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Coso",
+        "Junction"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.1 - 23 km WNW of Petersville, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rgzckd",
+      "source": "USGS",
+      "timestamp": "2026-09-01T01:54:51.828000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-01 01:53:26 UTC2026-09-01 01:53:26 UTC at epicenterLocation62.574\u00b0N 151.200\u00b0WDepth91.30 km (56.73 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Petersville",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 59 km E of Egegik, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rgyzki",
+      "source": "USGS",
+      "timestamp": "2026-09-01T01:50:56.078000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-01 01:49:54 UTC2026-09-01 01:49:54 UTC at epicenterLocation58.136\u00b0N 156.368\u00b0WDepth4.20 km (2.61 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Egegik",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 4.8 - 292 km WNW of Houma, Tonga",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u",
@@ -51679,104 +51848,6 @@
       "trending": false,
       "trend_score": 0.0,
       "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.4 - 6 km S of Gu\u00e1nica, Puerto Rico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530388",
-      "source": "USGS",
-      "timestamp": "2026-08-30T18:50:23.802000+00:00",
-      "score": 15,
-      "summary": "DYFI? - ITime2026-08-30 18:35:20 UTC2026-08-30 18:35:20 UTC at epicenterLocation17.917\u00b0N 66.906\u00b0WDepth12.60 km (7.83 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gunica",
-        "Puerto",
-        "Rico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.6 - 3 km SW of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75026922",
-      "source": "USGS",
-      "timestamp": "2026-08-30T18:44:50.090000+00:00",
-      "score": 17,
-      "summary": "Time2026-08-30 18:41:19 UTC2026-08-30 18:41:19 UTC at epicenterLocation19.180\u00b0N 155.496\u00b0WDepth30.51 km (18.96 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.8 - 25 km NNW of Susitna, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026reoczv",
-      "source": "USGS",
-      "timestamp": "2026-08-30T18:26:41.347000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-30 18:25:38 UTC2026-08-30 18:25:38 UTC at epicenterLocation61.750\u00b0N 150.716\u00b0WDepth63.00 km (39.15 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Susitna",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
       "sources_reporting": [
         "USGS"
       ],
