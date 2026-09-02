@@ -1,6 +1,35 @@
 {
   "Politics": [
     {
+      "title": "Fatal crash police get \u00a32m to tackle serious crime",
+      "link": "https://www.bbc.co.uk/news/articles/c24j15d0jj6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-02T17:17:11+00:00",
+      "score": 13,
+      "summary": "The home secretary says the money will help support Cleveland Police in the wake of the A66 crash.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Employer health costs expected to see sharpest increase in 20+ years: Survey",
       "link": "https://thehill.com/policy/healthcare/6066452-employer-health-costs-spike-2027/",
       "source": "The Hill",
@@ -6614,24 +6643,28 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Tina Peters turns down job with California county\u2019s registrar of voters",
-      "link": "https://thehill.com/homenews/state-watch/6064127-tina-peters-declines-shasta-job/",
-      "source": "The Hill",
-      "timestamp": "2026-09-01T20:10:15+00:00",
-      "score": 12,
-      "summary": "Former Mesa County, Colorado elections clerk Tina Peters turned down a job offer to oversee elections in a conservative California county north of Sacramento, the Los Angeles Times reported Tuesday. \u201cShe declined the offer because she\u2019s running around the country right now try...",
+      "title": "Pangram\u2019s Max Spero on why AI detection is harder than \u2018Real or Fake\u2019",
+      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-02T17:18:13+00:00",
+      "score": 14,
+      "summary": "The internet has a trust problem, and it\u2019s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Peters",
-        "California"
+        "Max",
+        "Spero",
+        "Real",
+        "Fake"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6640,15 +6673,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hill"
+        "TechCrunch"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "X shifts US creator payouts from Stripe to X Money",
       "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
@@ -13152,30 +13183,25 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Netflix Failed at Video Games. Now It\u2019s Trying to Promote Them",
-      "link": "https://www.wired.com/story/netflix-failed-at-video-games-now-its-trying-to-promote-them/",
-      "source": "Wired",
-      "timestamp": "2026-08-27T17:25:30+00:00",
-      "score": 14,
-      "summary": "Netflix has walked back plans to put AAA games on its streaming platform. Instead, it's pivoting to marketing highly anticipated titles like Grand Theft Auto VI.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "California condo owners were suddenly handed a $26,000 HOA bill each",
+      "link": "https://timesofindia.indiatimes.com/world/us/california-condo-owners-were-suddenly-handed-a-26000-hoa-bill-each-an-81-year-old-resident-says-she-may-have-to-leave-the-home-she-worked-hard-to-keep/articleshow/133691190.cms",
+      "source": "Times of India",
+      "timestamp": "2026-09-02T22:53:00+05:30",
+      "score": 15,
+      "summary": "Residents of Vilamoura are grappling with an unanticipated $26,000 emergency roof assessment mandated by their HOA, causing considerable distress, especially among the retirees living on fixed incomes. Many homeowners argue that the board has neglected crucial repairs for far ...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Failed",
-        "Video",
-        "Games",
-        "Now",
-        "Its",
-        "Trying",
-        "Promote",
-        "Them"
+        "HOA"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13184,15 +13210,110 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Wired"
+        "Times of India"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump aides seek 'quiet' in Iran war, but say attacks may intensify after November midterm elections: report",
+      "link": "https://www.thehindu.com/news/international/trump-aides-seek-quiet-in-iran-war-but-say-attacks-may-intensify-after-november-midterm-elections-report/article71420569.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-02T22:50:38+05:30",
+      "score": 14,
+      "summary": "A tactical pause could also give the U.S. military some breathing room to replenish its heavily depleted munitions stockpiles, the sources said",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Iran",
+        "November"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nepal flash floods aftermath LIVE: Death toll near 1,250 as more than 4,000 still missing",
+      "link": "https://www.thehindu.com/news/international/nepal-flash-floods-live-updates-rescue-operations-relief-death-toll-missing-persons-news-september-2-2026/article71417912.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-02T22:49:33+05:30",
+      "score": 15,
+      "summary": "Among the missing people, 583 are foreigners, while the joint forces of security personnel, including the Nepal Army, have so far rescued 11,993 people using helicopters and land routes",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "LIVE",
+        "Death"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Chevron to double Venezuela oil production with $7bn pledge",
+      "link": "https://www.ft.com/content/a76721db-36e1-4198-aad8-8c90137aace9?syn-25a6b1a6=1",
+      "source": "FT",
+      "timestamp": "2026-09-02T17:17:20+00:00",
+      "score": 15,
+      "summary": "US major commits to expand its joint ventures as White House pushes for huge increase in production in the country",
+      "country": "Venezuela",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Venezuela"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "FT"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Russian strikes kill two Ukrainian civilians as Moscow and Kyiv threaten to raise stakes",
       "link": "https://www.thehindu.com/news/international/russian-strikes-kill-two-ukrainian-civilians-as-moscow-and-kyiv-threaten-to-raise-stakes/article71421037.ece",
@@ -17030,7 +17151,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.9,
+      "trend_score": 10.8,
       "source_count": 11,
       "sources_reporting": [
         "CBC News",
@@ -19694,140 +19815,47 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "US urges G20 to cut trade imbalances, focus on China",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWkV4WWhPZ3JYeUpwMUFmWTQ4eEJLMTRyUXdxMjk1VUtwQ2FaaG01aUhRWXBXUUQyVXZJQkwtWGV5RUpfbGYxRTJ1NFl1d29lSHpFNERCNDIzRGJ2YmRzdmdBODF0TE1yZURZMlJNemtjSkRVMXlTWmZHejFCZFVFVkdoOVJfZ1dvXzk5WDFldk5nYkREUmdNRVlB?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-01T20:36:38+00:00",
-      "score": 15,
-      "summary": "US urges G20 to cut trade imbalances, focus on China Reuters",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "China"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Aboriginal woman suing ACT government over illegal jail strip search",
-      "link": "https://www.abc.net.au/news/2026-09-02/woman-illegally-strip-searched-in-jail-suing-government/107104326",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-01T20:36:23+00:00",
-      "score": 14,
-      "summary": "A First Nations former detainee is suing the ACT government after her human rights were breached when she was illegally strip-searched while being held in remand at Canberra's jail.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ACT"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-09-01T20:24:28+00:00",
-      "score": 14,
-      "summary": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [
-        "Hamas",
-        "Gaza"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Injuyred Kokkinakis withdraws from US Open before hitting a ball",
-      "link": "https://www.abc.net.au/news/2026-09-02/thanasi-kokkinakis-withdraws-from-us-open/107102692",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-01T20:23:56+00:00",
-      "score": 12,
-      "summary": "Thanasi Kokkinakis concedes he may have contested his last US Open without even hitting a ball after the cursed star's body failed him once again.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kokkinakis",
-        "Open"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
+    {
+      "title": "Trump\u2019s Tactics to Lower Beef Prices and Appease Ranchers Fall Short",
+      "link": "https://www.nytimes.com/2026/09/02/business/trump-ranchers-beef-prices-cattle-supply.html",
+      "source": "NYT",
+      "timestamp": "2026-09-02T17:17:44+00:00",
+      "score": 12,
+      "summary": "The Agriculture Department offered new initiatives for ranchers after President Trump said he would import more beef. The moves aren\u2019t a quick fix.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tactics",
+        "Lower",
+        "Beef",
+        "Prices",
+        "Appease",
+        "Ranchers",
+        "Fall",
+        "Short"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "G20 live updates: OpenAI's Altman says the use of AI is 'non-negotiable'",
       "link": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
@@ -25222,7 +25250,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.3,
+      "trend_score": 10.2,
       "source_count": 15,
       "sources_reporting": [
         "AP",
@@ -26322,24 +26350,53 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
-      "link": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-01T12:50:57+00:00",
+      "title": "Whether you're an introvert or extravert may decide how you should use AI",
+      "link": "https://phys.org/news/2026-09-youre-introvert-extravert-ai.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-02T13:20:08-04:00",
       "score": 14,
-      "summary": "Last-mile delivery company OneRail is launching a new platform with Nvidia to use AI to help retailers make faster and more efficient delivery decisions.",
+      "summary": "More than a century ago, the Swiss psychiatrist Carl Jung made introversion and extraversion central to his theory of psychological types.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Nvidia"
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
       ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Sorry, this neutrino laser won't work, physicists say",
+      "link": "https://phys.org/news/2026-09-neutrino-laser-wont-physicists.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-02T13:20:04-04:00",
+      "score": 10,
+      "summary": "Neutrinos are pervasive yet intangible particles that permeate the universe, streaming through whole planets, stars and our bodies by the trillions each second. The elementary particles are often described as \"ghostly\" for their near-zero mass and elusive nature, as they have ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26349,13 +26406,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Weak sea-surface temperature gradients may fuel stronger tropical cyclones",
       "link": "https://phys.org/news/2026-09-weak-sea-surface-temperature-gradients.html",
@@ -32385,68 +32440,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "A snake-headed vessel hints at a mysterious Roman cult",
-      "link": "https://phys.org/news/2026-08-snake-vessel-hints-mysterious-roman.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-31T11:20:04-04:00",
-      "score": 12,
-      "summary": "The ancient Romans were a deeply religious and superstitious people, worshiping dozens of cults\u2014some official and others secretive. One of these was dedicated to Sabazios, a deity from Thrace and Phrygia (regions spanning parts of the modern-day Balkans and Turkey).",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Roman"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Caught right-handed: Mystery of coiling snake embryos explained",
-      "link": "https://phys.org/news/2026-08-caught-mystery-snake-embryos.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-31T11:00:09-04:00",
-      "score": 14,
-      "summary": "An international team led by Canadian researchers has found evidence explaining why snake embryos form a curious spiral. This ability to coil as embryos enables snakes to hatch with the longest bodies of all vertebrates.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mystery"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32552,7 +32545,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.3,
+      "trend_score": 6.2,
       "source_count": 16,
       "sources_reporting": [
         "Cricinfo",
@@ -33596,6 +33589,123 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Evan Rachel Wood Calls Out \u2018Practical Magic 2\u2019 For Not Reaching Out Amid Recasting, Calls Joey King A \u201cSweetheart\u201d",
+      "link": "https://deadline.com/2026/09/evan-rachel-wood-practical-magic-2-recasting-joey-king-1237065780/",
+      "source": "Deadline",
+      "timestamp": "2026-09-02T17:30:14+00:00",
+      "score": 15,
+      "summary": "Evan Rachel Wood starred in the original Practical Magic film alongside Sandra Bullock and Nicole Kidman. Although the film\u2019s leading stars reprised their roles for the sequel, Bullock\u2019s daughters were recast in Practical Magic 2, with Joey King now playing Kylie Owens. \u201cI rea...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Rachel",
+        "Wood",
+        "Calls",
+        "Out",
+        "Practical",
+        "Magic",
+        "Not",
+        "Reaching",
+        "Amid",
+        "Recasting",
+        "Joey",
+        "King",
+        "Sweetheart"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Patrick Gleeson, Who Made Synthesizers Part of Jazz, Dies at 91",
+      "link": "https://www.nytimes.com/2026/09/02/arts/music/patrick-gleeson-dead.html",
+      "source": "NYT",
+      "timestamp": "2026-09-02T17:29:03+00:00",
+      "score": 15,
+      "summary": "He abandoned a job teaching college English in the 1960s to become a pioneer of the instrument, playing onstage with Herbie Hancock\u2019s jazz band.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Gleeson",
+        "Who",
+        "Made",
+        "Synthesizers",
+        "Part",
+        "Jazz",
+        "Dies"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Alix Earle Is A Reality Television Star Now",
+      "link": "https://deadline.com/2026/09/alix-earle-reality-tv-star-earle-meets-world-netflix-1237065765/",
+      "source": "Deadline",
+      "timestamp": "2026-09-02T17:25:41+00:00",
+      "score": 12,
+      "summary": "There\u2019s a swarm of tween girls outside Netflix\u2019s Tudum theater, stealing glances at the Dunkin\u2019 Donut boxes and DoorDash signs that adorn the premiere of Alix Earle\u2019s new reality series Earle Meets World. Earle is clearly and inspiration for this younger generation; a young wo...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Earle",
+        "Reality",
+        "Television",
+        "Star",
+        "Now"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Wayne Brady & Selma Blair To Guest Star In Season 20 Of \u2018Criminal Minds: Evolution\u2019",
       "link": "https://deadline.com/2026/09/wayne-brady-selma-blair-guest-star-criminal-minds-evolution-1237064733/",
@@ -41582,122 +41692,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Bob Yari\u2019s Magenta Light Studios Acquires Anna Nicole Smith Feature Drama \u2018Hurricanna\u2019",
-      "link": "https://deadline.com/2026/09/anna-nicole-smith-movie-hurricanna-1237043367/",
-      "source": "Deadline",
-      "timestamp": "2026-09-01T18:31:14+00:00",
-      "score": 12,
-      "summary": "EXCLUSIVE: Bob Yari\u2019s Magenta Light Studios has picked up U.S. and Canadian theatrical rights to Emmy nominated filmmaker Francesca Gregorini\u2019s (Killing Eve, The Dropout, The Truth About Emanuel) Hurricanna about the chaotic final 48 hours of supermodel Anna Nicole Smith\u2019s lif...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Yaris",
-        "Magenta",
-        "Light",
-        "Studios",
-        "Acquires",
-        "Anna",
-        "Nicole",
-        "Smith",
-        "Feature",
-        "Drama",
-        "Hurricanna"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Toronto: Noomi Rapace Plays FBI Agent Hunting Suicidal Fugitive in \u2018In Alaska\u2019 Clip (Exclusive)",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-noomi-rapace-in-alaska-clip-exclusive-1236686701/",
-      "source": "THR",
-      "timestamp": "2026-09-01T18:25:01+00:00",
-      "score": 12,
-      "summary": "The cat-and-mouse thriller from directors Jaap van Heusden and Vinnie Karetak and also starring newcomer Leo Mathew Temela will have a world premiere at TIFF.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Noomi",
-        "Rapace",
-        "Plays",
-        "FBI",
-        "Agent",
-        "Hunting",
-        "Suicidal",
-        "Fugitive",
-        "Alaska",
-        "Clip",
-        "Exclusive"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Every \u2018Spider-Man\u2019 Movie Villain, Ranked",
-      "link": "https://www.hollywoodreporter.com/lists/spider-man-movie-villains-ranked/",
-      "source": "THR",
-      "timestamp": "2026-09-01T18:12:41+00:00",
-      "score": 14,
-      "summary": "With the release of 'Spider-Man: Brand New Day,' The Hollywood Reporter ranks Spidey\u2019s cinematic crooks and creeps \u2014 from worst to best, below.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SpiderMan",
-        "Movie",
-        "Villain",
-        "Ranked"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45280,51 +45274,56 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "Nikki Ogunnaike and Philippe Fonzin\u2019s Prospect Park Boathouse Wedding Blended New York and Nigerian Style",
-      "link": "https://www.vogue.com/slideshow/nikki-ogunnaike-and-philippe-fonzin-wedding",
-      "source": "Vogue",
-      "timestamp": "2026-08-26T17:22:03+00:00",
-      "score": 14,
-      "summary": "Marie Claire\u2019s editor-in-chief wore Brandon Maxwell, Christopher John Rogers, Calvin Klein Collection, Kallmeyer, and traditional Nigerian dress over the course of her Brooklyn wedding weekend.",
-      "country": "Nigeria",
-      "region": "Africa",
-      "source_type": "Lifestyle",
+      "title": "2026-09-02 Time of Issue: 20:33:00 hours IST (Night) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Feature - India Meteorological Department",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtMmZWbmVYWGZCM1pHTWs0Mmw4VEgxSXlESDRfd3VLa1dXYWtWYUdOT2Etbno2ZGxDT2QzMGE0VW5hZ2RTQ3ZDb1c1angzOWhtemo1YzBzQmZmM3pZMWpRN0w5T0g3MHd3bFhPdUliLWNDQQ?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-09-02T17:24:51+00:00",
+      "score": 15,
+      "summary": "2026-09-02 Time of Issue: 20:33:00 hours IST (Night) ALL INDIA WEATHER SUMMARY AND FORECAST BULLETIN Significant Weather Feature India Meteorological Department",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Aggregator",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Ogunnaike",
-        "Philippe",
-        "Fonzins",
-        "Prospect",
-        "Park",
-        "Boathouse",
-        "Wedding",
-        "Blended",
-        "New",
-        "York",
-        "Nigerian",
-        "Style"
+        "Time",
+        "Issue",
+        "IST",
+        "Night",
+        "ALL",
+        "INDIA",
+        "WEATHER",
+        "SUMMARY",
+        "AND",
+        "FORECAST",
+        "BULLETIN",
+        "Significant",
+        "Weather",
+        "Feature",
+        "India",
+        "Meteorological",
+        "Department"
       ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "Vogue"
+        "Google News"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+61%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
     {
       "title": "M 2.8 - 128 km E of Chignik, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjzpcc",
@@ -51926,43 +51925,6 @@
         "NHC"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tropical Storm Edouard Public Advisory Number 5",
-      "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/011445.shtml",
-      "source": "NHC",
-      "timestamp": "2026-09-01T14:45:17+00:00",
-      "score": 15,
-      "summary": "Issued at 1000 AM CDT Tue Sep 01 2026 147 WTNT35 KNHC 011445 TCPAT5 BULLETIN Tropical Storm Edouard Advisory Number 5 NWS National Hurricane Center Miami FL AL052026 1000 AM CDT Tue Sep 01 2026 ...AIR FORCE HURRICANE HUNTERS FIND EDOUARD IS STRENGTHENING... ...CONTINUED INTENS...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Storm",
-        "Edouard",
-        "Public",
-        "Advisory",
-        "Number"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "NHC"
-      ],
-      "trend_accel": "+59%",
       "heat_level": "LOW"
     }
   ]
