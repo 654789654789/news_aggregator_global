@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "Andhra University plans Centres of Excellence in quantum technology, AI and semiconductors",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-university-plans-centres-of-excellence-in-quantum-technology-ai-and-semiconductors/article71415663.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-02T10:48:35+05:30",
+      "score": 14,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "University",
+        "Centres",
+        "Excellence"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "BJP lawmakers compromised Odisha\u2019s interest by supporting mining law amendments: BJD",
       "link": "https://www.thehindu.com/news/national/odisha/bjp-lawmakers-compromised-odishas-interest-by-supporting-mining-law-amendments-bjd/article71415281.ece",
       "source": "The Hindu",
@@ -463,7 +496,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.9,
+      "trend_score": 10.8,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -786,7 +819,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.7,
+      "trend_score": 10.6,
       "source_count": 18,
       "sources_reporting": [
         "BBC",
@@ -6589,23 +6622,33 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Burnham holds cabinet meeting ahead of first address to Commons as PM",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BVURsUHV4cXVWN01rWXh2Uk5sUTg0YmQweFVEcWFyYVQyX3ZaRVpWbnNSTkluTXBYUnN5MklUaGxTeEc1UE41VU1yYi04V3pCNG83X1JR?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-01T09:46:07+00:00",
-      "score": 12,
-      "summary": "Burnham holds cabinet meeting ahead of first address to Commons as PM BBCMore public control is the way to grow UK economy, Burnham to tell MPs The GuardianAs Burnham\u2019s bounce falls flat, Labour must focus instead on fixing Britain The IndependentAndy Burnham\u2019s summer of quiet...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
+      "title": "Apple's New CEO John Ternus Signals Focus on Durability, Repairability and Sustainability",
+      "link": "https://www.gadgets360.com/mobiles/news/apple-ceo-john-ternus-biography-focus-on-durability-repairability-sustainability-11990540",
+      "source": "Gadgets 360",
+      "timestamp": "2026-09-02T10:46:13+05:30",
+      "score": 14,
+      "summary": "Apple\u2019s leadership change has finally taken place, with John Ternus taking over as Chief Executive Offers on September 1. While the company\u2019s former Senior Vice President of Hardware Engineering is expected to address the public for the first time at the September 9 event, the...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Commons"
+        "New",
+        "CEO",
+        "John",
+        "Ternus",
+        "Signals",
+        "Focus",
+        "Durability",
+        "Repairability",
+        "Sustainability"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6614,20 +6657,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 18,
+      "source_count": 3,
       "sources_reporting": [
-        "AP",
-        "BBC",
-        "Google News",
-        "Guardian",
-        "Guardian",
-        "Reuters"
+        "Gadgets 360"
       ],
-      "trend_accel": "+80%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Tech": [
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Larry Page\u2019s flying car company Pivotal loses its CEO",
       "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
@@ -6884,7 +6920,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.5,
+      "trend_score": 10.4,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -8047,14 +8083,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 10.3,
+      "source_count": 19,
       "sources_reporting": [
+        "AP",
+        "Bloomberg",
+        "Gadgets 360",
+        "NHK",
+        "TechCrunch",
         "Verge"
       ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
+      "trend_accel": "+82%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Florida blocks Flock cams on state highways",
@@ -9540,8 +9581,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -13132,23 +13173,93 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Amazon just tripled its order of Nvidia chips over \u2018surging demand\u2019",
-      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-26T23:47:18+00:00",
+      "title": "Woman killed in Times Square stabbing worked for Bank of America",
+      "link": "https://www.thehindu.com/news/international/woman-killed-in-times-square-stabbing-worked-for-bank-of-america/article71418158.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-02T10:56:28+05:30",
       "score": 12,
-      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+      "summary": "The other victim was a 68-year-old man whose identity hasn't been released. He was hospitalized, and no update on his condition was immediately available on Tuesday (September 1)",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
+      "source_type": "Newspaper",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Nvidia"
+        "Times",
+        "Square",
+        "Bank",
+        "America"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "The turquoise home that withstood a torrent",
+      "link": "https://www.abc.net.au/news/2026-09-02/turquoise-home-nepal-floods/107105650",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-02T05:25:08+00:00",
+      "score": 10,
+      "summary": "Inside the turquoise house close to the riverbank, a mother of two, her husband, daughter and in-laws remained stranded on their balcony as the flood tore through their Nepali town.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Xi visits Egypt as China seeks deeper influence across West Asia",
+      "link": "https://www.thehindu.com/news/international/xi-visits-egypt-as-china-seeks-deeper-influence-across-west-asia/article71418145.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-02T10:50:32+05:30",
+      "score": 12,
+      "summary": "China, the United States' top global rival, is cultivating an extensive relationship with one of America's key allies in West Asia, as it moves to expand its influence in the rapidly changing region",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Egypt",
+        "China",
+        "West",
+        "Asia"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13159,13 +13270,43 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "TechCrunch"
+        "The Hindu"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+43%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Australia news live: Jim Chalmers hails \u2018resilient\u2019 economy but expert says national accounts show \u2019too little growth and too much inflation\u2019",
+      "link": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-09-02T05:17:34+00:00",
+      "score": 14,
+      "summary": "Follow the day\u2019s news liveGet our breaking news email, free app or daily news podcastRide share driver charged on allegations of committing sexual acts during bookingA ride share driver will face court in Sydney today over multiple allegations of sexual acts, including one all...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Jim",
+        "Chalmers"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
@@ -19686,31 +19827,26 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "U.S. Sanctions on Iran Cut Off Students from Tests Needed for Study Abroad",
-      "link": "https://www.nytimes.com/2026/09/01/world/middleeast/iran-study-abroad-sanctions.html",
-      "source": "NYT",
-      "timestamp": "2026-09-01T09:03:01+00:00",
-      "score": 12,
-      "summary": "The latest measures have forced the cancellation of English proficiency and graduate exams, isolating many Iranians most eager to foster ties with the world.",
-      "country": "Iran",
-      "region": "Middle East",
+      "title": "Swiggy share price down today: Why food delivery stock is delivering 'red' today | Negative trigger explained",
+      "link": "https://www.livemint.com/market/stock-market-news/swiggy-share-price-down-today-why-food-delivery-stock-is-delivering-red-today-negative-trigger-explained-11788323868096.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-02T10:55:41+05:30",
+      "score": 14,
+      "summary": "Swiggy share price today opened with a downside gap at \u20b9270 per share on the NSE and touched an intraday low of \u20b9264.55 apiece within a few minutes of the Opening Bell",
+      "country": "India",
+      "region": "South Asia",
       "source_type": "Newspaper",
-      "trust_score": 9,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Sanctions",
-        "Iran",
-        "Cut",
-        "Off",
-        "Students",
-        "Tests",
-        "Needed",
-        "Study",
-        "Abroad"
+        "Why",
+        "Negative"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19721,35 +19857,36 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "NYT"
+        "Livemint"
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
     },
     {
-      "title": "In Scotland, Luxury Hotel Gleneagles Offers a Posh Summer Camp for Grown-Ups",
-      "link": "https://www.nytimes.com/2026/08/30/travel/scotland-summer-resort-gleneagles.html",
-      "source": "NYT",
-      "timestamp": "2026-09-01T09:02:27+00:00",
-      "score": 12,
-      "summary": "It\u2019s the mix of lush adventures by day and elegant dinners by night that makes the luxury hotel Gleneagles, outside Edinburgh, so tempting.",
-      "country": "US",
-      "region": "Americas",
+      "title": "Volume shocker stocks: Why share price of EMS, Expleo Solutions, Windlas Biotech, AKI India, Heritage Foods are up today",
+      "link": "https://www.livemint.com/market/stock-market-news/volume-shocker-stocks-why-share-price-of-ems-expleo-solutions-windlas-biotech-aki-india-heritage-foods-are-up-today-11788325656609.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-02T10:52:41+05:30",
+      "score": 14,
+      "summary": "Several stocks, including EMS Limited and Expleo Solutions, saw notable volume increases during market trading, reflecting strong investor activity. However, the broader Indian market faced pressure amid rising global crude oil prices and geopolitical concerns, leading to decl...",
+      "country": "India",
+      "region": "South Asia",
       "source_type": "Newspaper",
-      "trust_score": 9,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Scotland",
-        "Luxury",
-        "Hotel",
-        "Gleneagles",
-        "Offers",
-        "Posh",
-        "Summer",
-        "Camp",
-        "GrownUps"
+        "Why",
+        "EMS",
+        "Expleo",
+        "Solutions",
+        "Windlas",
+        "Biotech",
+        "AKI",
+        "India",
+        "Heritage",
+        "Foods"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19758,35 +19895,28 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "NYT"
+        "Livemint"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
     },
     {
-      "title": "Juan Tamariz, Master Magician of Misdirection and Joy, Dies at 83",
-      "link": "https://www.nytimes.com/2026/09/01/world/europe/juan-tamariz-dead.html",
-      "source": "NYT",
-      "timestamp": "2026-09-01T09:01:08+00:00",
-      "score": 15,
-      "summary": "A magician\u2019s magician, he was a philosopher of the craft. He didn\u2019t just want to fool people; he wanted to share in their awe of the inexplicable.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
+      "title": "School uniform costs hit families, say charities",
+      "link": "https://www.bbc.co.uk/news/articles/cp84q09mz77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-02T05:19:52+00:00",
+      "score": 10,
+      "summary": "New government rules limit the number of branded items schools can ask students to wear.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
       "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Tamariz",
-        "Master",
-        "Magician",
-        "Misdirection",
-        "Joy",
-        "Dies"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19796,47 +19926,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "NYT"
+        "BBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Authorities investigate reports former ADF soldier killed in Ukraine",
-      "link": "https://www.abc.net.au/news/2026-09-01/australian-soldier-killed-ukraine-mozzie/107104370",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-01T08:55:01+00:00",
-      "score": 14,
-      "summary": "The soldier, known by the nickname \"Mozzie\", was serving as a combat medic with Ukraine's 1st Foreign Legion Squadron.",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "ADF",
-        "Ukraine"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "School opens uniform shop to sell items 'at cost'",
       "link": "https://www.bbc.co.uk/news/articles/cz9zej4j2l4o?at_medium=RSS&at_campaign=rss",
@@ -25267,7 +25361,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.2,
+      "trend_score": 10.1,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -25277,7 +25371,7 @@
         "MarketWatch",
         "PBS"
       ],
-      "trend_accel": "+80%",
+      "trend_accel": "+79%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26296,103 +26390,6 @@
         "CNBC"
       ],
       "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages",
-      "link": "https://www.cnbc.com/2026/08/31/microsoft-outlook-and-openais-chatgpt-work-experience-outages-.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-31T19:30:10+00:00",
-      "score": 14,
-      "summary": "OpenAI's ChatGPT Work offering was down for some users on Monday, and Microsoft said it was having issues with Exchange Online.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Outlook",
-        "OpenAIs",
-        "ChatGPT",
-        "Work"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump strikes new drug pricing deals with nine midsized drugmakers",
-      "link": "https://www.cnbc.com/2026/08/31/trump-drug-pricing-deals.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-31T19:28:08+00:00",
-      "score": 12,
-      "summary": "The string of deals builds on the Trump administration's push to link the nation's drug prices to cheaper ones abroad.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Risk-reward outlook for stocks is getting worse as historically tough month kicks off, says Citadel Securities",
-      "link": "https://www.cnbc.com/2026/08/31/risk-reward-outlook-for-stocks-is-getting-worse-says-citadel.html",
-      "source": "CNBC",
-      "timestamp": "2026-08-31T19:25:54+00:00",
-      "score": 14,
-      "summary": "The risk-reward of buying protection in the equity market looks compelling.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Citadel",
-        "Securities"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+60%",
       "heat_level": "LOW"
     }
   ],
@@ -32633,7 +32630,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.2,
+      "trend_score": 6.1,
       "source_count": 13,
       "sources_reporting": [
         "Bloomberg",
@@ -32641,7 +32638,7 @@
         "Guardian",
         "NPR"
       ],
-      "trend_accel": "+58%",
+      "trend_accel": "+57%",
       "heat_level": "LOW"
     },
     {
@@ -45422,6 +45419,105 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 4.8 - 92 km SSW of Nikolski, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbrtv",
+      "source": "USGS",
+      "timestamp": "2026-09-02T05:29:36.649000+00:00",
+      "score": 15,
+      "summary": "ShakeMap - IIITime2026-09-02 05:10:27 UTC2026-09-02 05:10:27 UTC at epicenterLocation52.150\u00b0N 169.309\u00b0WDepth19.00 km (11.81 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Nikolski",
+        "Alaska"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 5.1 - 91 km SSW of Nikolski, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbuwk",
+      "source": "USGS",
+      "timestamp": "2026-09-02T05:27:29.387000+00:00",
+      "score": 15,
+      "summary": "ShakeMap - IIITime2026-09-02 05:14:00 UTC2026-09-02 05:14:00 UTC at epicenterLocation52.173\u00b0N 169.332\u00b0WDepth19.70 km (12.24 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Nikolski",
+        "Alaska"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.9 - 85 km SSW of Nikolski, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbwrf",
+      "source": "USGS",
+      "timestamp": "2026-09-02T05:24:47.586000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-02 05:16:05 UTC2026-09-02 05:16:05 UTC at epicenterLocation52.218\u00b0N 169.316\u00b0WDepth18.80 km (11.68 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Nikolski",
+        "Alaska"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 0.2 - 8 km NW of The Geysers, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75428607",
       "source": "USGS",
@@ -51975,100 +52071,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.5 - 23 km W of Petrolia, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75428002",
-      "source": "USGS",
-      "timestamp": "2026-09-01T01:08:42.958000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-01 01:07:07 UTC2026-09-01 01:07:07 UTC at epicenterLocation40.288\u00b0N 124.548\u00b0WDepth20.48 km (12.73 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Petrolia"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 4 km NNW of Pinnacles, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75427987",
-      "source": "USGS",
-      "timestamp": "2026-09-01T00:41:23.800000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-01 00:39:46 UTC2026-09-01 00:39:46 UTC at epicenterLocation36.568\u00b0N 121.160\u00b0WDepth7.82 km (4.86 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Pinnacles"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 7 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75427982",
-      "source": "USGS",
-      "timestamp": "2026-09-01T00:37:53.639000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-01 00:36:18 UTC2026-09-01 00:36:18 UTC at epicenterLocation38.825\u00b0N 122.807\u00b0WDepth2.69 km (1.67 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
