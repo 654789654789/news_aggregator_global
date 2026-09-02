@@ -881,7 +881,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 18,
       "sources_reporting": [
         "AP",
@@ -6675,6 +6675,35 @@
     }
   ],
   "Tech": [
+    {
+      "title": "The robot butler dream doesn\u2019t have legs",
+      "link": "https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa",
+      "source": "Verge",
+      "timestamp": "2026-09-02T07:00:00-04:00",
+      "score": 10,
+      "summary": "The idea of humanoid robots running our homes has been the stuff of science fiction for years. But unlike hoverboards and self-tying sneakers, a robot housekeeper has never felt close to rolling into our homes. Until now. This has been the year of the humanoid robot. At CES, t...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Verge"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "The 42 Best Deals From the REI Labor Day Sale",
       "link": "https://www.wired.com/story/rei-labor-day-sale-2026/",
@@ -13199,27 +13228,94 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
+    }
+  ],
+  "World": [
+    {
+      "title": "Bus Crash in Egypt Kills at Least 22",
+      "link": "https://www.nytimes.com/2026/09/02/world/africa/bus-crash-egypt-sinai.html",
+      "source": "NYT",
+      "timestamp": "2026-09-02T10:54:52+00:00",
+      "score": 15,
+      "summary": "The vehicle overturned in an area of the Sinai Peninsula that is popular with tourists. Another 28 people were injured, officials said.",
+      "country": "Egypt",
+      "region": "Africa",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Crash",
+        "Egypt",
+        "Kills",
+        "Least"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
     },
     {
-      "title": "Best Posture Correctors for Better Body Alignment (2026)",
-      "link": "https://www.wired.com/gallery/posture-correctors/",
-      "source": "Wired",
-      "timestamp": "2026-08-27T11:05:00+00:00",
+      "title": "Bus crash on Egypt's Red Sea coast kills 22",
+      "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-02T10:49:22+00:00",
       "score": 15,
-      "summary": "You\u2019re hunched over your desk and phone for hours. I rounded up gadgets, a DIY trick, and even some yoga advice to help you straighten up.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "Reports say Jordanian nationals are among those killed in the accident in the South Sinai governorate.",
+      "country": "Egypt",
+      "region": "Africa",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Posture",
-        "Correctors",
-        "Better",
-        "Body",
-        "Alignment"
+        "Egypts",
+        "Red",
+        "Sea"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nepal flash flood: Death toll rises to over 1,100, says police",
+      "link": "https://www.thehindu.com/videos/nepal-flash-flood-death-toll-rises-to-over-1100-says-police/article71419196.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-02T16:17:37+05:30",
+      "score": 15,
+      "summary": "Nepal\u2019s devastating flash floods have killed over 1,100 people, with nearly 4,000 still missing. Rescue and relief operations continue as authorities search for survivors and provide aid to affected communities.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Death"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13228,15 +13324,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "Wired"
+        "The Hindu"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+54%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "U.S. and Iran Survey the Damage After a Night of Intense Strikes",
       "link": "https://www.nytimes.com/2026/09/02/world/middleeast/us-iran-strikes.html",
@@ -19795,26 +19889,24 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "India needs to be more vocal on international law violations: Palestine Foreign Minister",
-      "link": "https://www.thehindu.com/videos/india-needs-to-be-more-vocal-on-international-law-violations-palestine-foreign-minister/article71416122.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-01T20:23:03+05:30",
-      "score": 12,
-      "summary": "In this exclusive conversation with The Hindu, the Palestinian Foreign Minister discusses the future of Gaza, the viability of the two-state solution, West Bank settler violence, Donald Trump\u2019s peace plan, and the role of the international community. The minister also shares h...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "MongoDB shares tumble despite strong earnings on \u2018disappointing\u2019 news for investors",
+      "link": "https://www.marketwatch.com/story/mongodb-shares-tumble-despite-strong-earnings-on-disappointing-news-for-investors-5ee13c7b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-09-02T10:58:00+00:00",
+      "score": 10,
+      "summary": "Investors were most likely disappointed by the company\u2019s Atlas multi-cloud database seeing the same revenue growth for the fifth quarter in a row.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Palestine",
-        "Foreign",
-        "Minister"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19824,28 +19916,64 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "MarketWatch"
       ],
-      "trend_accel": "+54%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
     },
     {
-      "title": "Data Darbar: Trump backs server farm boom as protests grow in US",
-      "link": "https://timesofindia.indiatimes.com/world/us/data-darbar-trump-backs-server-farm-boom-as-protests-grow-in-us/articleshow/133685260.cms",
-      "source": "Times of India",
-      "timestamp": "2026-09-01T20:20:39+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "title": "Markets Waver as Investors Assess War, Debt and Inflation",
+      "link": "https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html",
+      "source": "NYT",
+      "timestamp": "2026-09-02T10:55:35+00:00",
+      "score": 14,
+      "summary": "U.S. and Iranian forces traded attacks again, pushing oil prices higher as bond yields remained elevated.",
       "country": "US",
       "region": "Americas",
       "source_type": "Newspaper",
-      "trust_score": 7,
+      "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Darbar",
-        "Trump"
+        "Waver",
+        "Investors",
+        "Assess",
+        "War",
+        "Debt",
+        "Inflation"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Stocks that rise when the S&P 500 falls are weirdly keeping up with the rest of Wall Street",
+      "link": "https://www.marketwatch.com/story/stocks-that-rise-when-the-s-p-500-falls-are-weirdly-keeping-up-with-the-rest-of-wall-street-0cf76f31?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-09-02T10:55:00+00:00",
+      "score": 17,
+      "summary": "So-called \u2018negative-beta\u2019 stocks are thriving and offer a way to ride out volatility events, says one strategist.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Wall",
+        "Street"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19854,35 +19982,33 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "Times of India"
+        "MarketWatch"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
     },
     {
-      "title": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, White House says",
-      "link": "https://www.pbs.org/newshour/politics/army-secretary-dan-driscoll-is-stepping-down-after-18-months-on-the-job-white-house-says",
-      "source": "PBS",
-      "timestamp": "2026-09-01T10:43:33-04:00",
-      "score": 15,
-      "summary": "No reason was given for the departure of Driscoll, who is a friend of Vice President JD Vance, but tensions with Defense Secretary Pete Hegseth have been widely reported.",
+      "title": "G20 live updates: Lutnick to host AI policy talks with Huang, Altman in Chapel Hill",
+      "link": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-02T10:46:55+00:00",
+      "score": 17,
+      "summary": "Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade.",
       "country": "US",
       "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Secretary",
-        "Dan",
-        "Driscoll",
-        "White",
-        "House"
+        "Lutnick",
+        "Huang",
+        "Altman",
+        "Chapel",
+        "Hill"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19893,13 +20019,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "PBS"
+        "CNBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Chevron will expand Venezuela operations, more than doubling production through $7 billion investment",
       "link": "https://www.cnbc.com/2026/09/02/chevron-venezuela-operations.html",
@@ -21764,14 +21888,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 9.3,
+      "source_count": 17,
       "sources_reporting": [
-        "MarketWatch"
+        "AP",
+        "CNBC",
+        "MarketWatch",
+        "NHK",
+        "NPR"
       ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
+      "trend_accel": "+74%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "FPIs are back, but the market breakout may have to wait",
@@ -25918,7 +26046,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.0,
+      "trend_score": 9.9,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -25929,7 +26057,7 @@
         "NYT",
         "PBS"
       ],
-      "trend_accel": "+81%",
+      "trend_accel": "+75%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26309,149 +26437,41 @@
       ],
       "trend_accel": "+79%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 1 September",
-      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-1-september-11788224842857.html",
-      "source": "Livemint",
-      "timestamp": "2026-09-01T07:06:03+05:30",
-      "score": 17,
-      "summary": "Indian stock indices, the Sensex and the Nifty 50, are poised for a flat-to-negative start on 1 September amid weak global cues. Nifty 50 needs to sustain above 24,000 for a potential rebound, while 24,000 remains a crucial support level.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sensex",
-        "Check",
-        "Indian",
-        "September"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Fast-fashion giant Shein's shares drop 7% in Hong Kong market debut",
-      "link": "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-01T01:34:01+00:00",
-      "score": 17,
-      "summary": "Shein made its Hong Kong market debut on Tuesday after years of attempts to go public.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sheins",
-        "Hong",
-        "Kong"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 11.0,
-      "source_count": 13,
-      "sources_reporting": [
-        "BBC",
-        "CNBC",
-        "Livemint",
-        "NHK",
-        "NPR",
-        "NYT",
-        "PBS"
-      ],
-      "trend_accel": "+88%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
-      "link": "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-01T01:20:08+00:00",
-      "score": 15,
-      "summary": "Venezuelan interim authorities have granted North American Blue Energy Partners 100-year concessions for 17 oil fields, White House says.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "USbacked",
-        "NABEP",
-        "White",
-        "House"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today \u20141 September 2026",
-      "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-1-september-2026-11788224482286.html",
-      "source": "Livemint",
-      "timestamp": "2026-09-01T06:49:35+05:30",
-      "score": 17,
-      "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today \u2014Lumax AutoTechnologies, Vijaya Diagnostic Centre, Tamilnad Mercantile Bank, EPL, and Sansera Engineering.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sumeet",
-        "Bagadia",
-        "September"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Mountains may offer climate refugia for one of North America's most imperiled turtles",
+      "link": "https://phys.org/news/2026-09-mountains-climate-refugia-north-america.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-02T07:00:03-04:00",
+      "score": 14,
+      "summary": "As climate warming pushes many species toward cooler environments, high-elevation areas are expected to play an increasingly important role in biodiversity conservation. A new study by the Great Hollow Nature Preserve & Ecological Research Center (New Fairfield, Connecticut) s...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "North",
+        "Americas"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Bovine stem cells offer new approach to future cultivated steak research",
       "link": "https://phys.org/news/2026-08-bovine-stem-cells-approach-future.html",
@@ -32198,14 +32218,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 8.4,
+      "source_count": 11,
       "sources_reporting": [
-        "BBC"
+        "AP",
+        "BBC",
+        "NHK",
+        "NPR",
+        "Phys.org"
       ],
-      "trend_accel": "+60%",
-      "heat_level": "LOW"
+      "trend_accel": "+75%",
+      "heat_level": "SURGING"
     },
     {
       "title": "As super El Nino strengthens, study suggests that climate change is intensifying El Ninos",
@@ -32299,8 +32323,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -32404,14 +32428,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 8.4,
+      "source_count": 14,
       "sources_reporting": [
-        "BBC"
+        "AP",
+        "BBC",
+        "NPR",
+        "Phys.org",
+        "Reuters"
       ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
+      "trend_accel": "+74%",
+      "heat_level": "SURGING"
     },
     {
       "title": "NASA's newest Roman space telescope launches on a quest to explore the hidden universe",
@@ -32537,49 +32565,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "NASA\u2019s Nancy Grace Roman Telescope\u2019s Roman Telescope Leaves Earth to Chart the Stars",
-      "link": "https://www.nytimes.com/2026/08/30/science/spacex-roman-telescope-launch.html",
-      "source": "NYT",
-      "timestamp": "2026-08-30T14:36:24+00:00",
-      "score": 12,
-      "summary": "Astronomers will use data collected by Roman\u2019s wide, deep gaze to study the dark universe and hunt for new worlds.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nancy",
-        "Grace",
-        "Roman",
-        "Telescopes",
-        "Telescope",
-        "Leaves",
-        "Earth",
-        "Chart",
-        "Stars"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 8.9,
-      "source_count": 10,
-      "sources_reporting": [
-        "BBC",
-        "NHK",
-        "NPR",
-        "NYT",
-        "Phys.org"
-      ],
-      "trend_accel": "+70%",
-      "heat_level": "SURGING"
     }
   ],
   "Sports": [
@@ -32648,7 +32633,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.4,
+      "trend_score": 6.3,
       "source_count": 16,
       "sources_reporting": [
         "Cricinfo",
@@ -32656,7 +32641,7 @@
         "NPR",
         "Reuters"
       ],
-      "trend_accel": "+60%",
+      "trend_accel": "+59%",
       "heat_level": "LOW"
     },
     {
@@ -33762,6 +33747,134 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Forget the Red Carpet \u2014 Venice\u2019s Real Stars Are in the Documentaries This Year",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/venice-2026-real-stars-are-documentaries-1236687293/",
+      "source": "THR",
+      "timestamp": "2026-09-02T11:00:00+00:00",
+      "score": 12,
+      "summary": "From an Elon Musk expose to an intimate Oasis reunion, this year\u2019s non-fiction lineup might be the fest\u2019s biggest draw.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Red",
+        "Carpet",
+        "Venices",
+        "Real",
+        "Stars",
+        "Are",
+        "Documentaries",
+        "This",
+        "Year"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Maggie Gyllenhaal Takes on Venice Film Festival\u2019s Lack of Women in Competition: \u201cThere\u2019s a Systemic Problem\u201d",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/maggie-gyllenhaal-venice-jury-press-conference-women-1236687884/",
+      "source": "THR",
+      "timestamp": "2026-09-02T10:51:24+00:00",
+      "score": 12,
+      "summary": "The \u2018Lost Daughter\u2019 filmmaker met the press alongside her fellow Golden Lion jurors as the politically charged 83rd Venice Film Festival prepared to open Wednesday.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Gyllenhaal",
+        "Takes",
+        "Venice",
+        "Film",
+        "Festivals",
+        "Lack",
+        "Women",
+        "Competition",
+        "Theres",
+        "Systemic",
+        "Problem"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Venice Jury President Maggie Gyllenhaal Says Films Are \u2018Fundamentally, Unavoidably Political\u2019 and Questions Lack of Female Directors in Competition: \u2018There\u2019s a Systemic Problem\u2019",
+      "link": "https://variety.com/2026/film/festivals/maggie-gyllenhaal-films-political-venice-film-festival-1236848746/",
+      "source": "Variety",
+      "timestamp": "2026-09-02T10:49:17+00:00",
+      "score": 12,
+      "summary": "It didn\u2019t take long for politics to take the spotlight at this year\u2019s Venice Film Festival jury press conference. Amid the wars raging in Gaza and Ukraine, as well as the unrest in the United States, jury president Maggie Gyllenhaal was asked whether cinema should be political...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Jury",
+        "President",
+        "Maggie",
+        "Gyllenhaal",
+        "Says",
+        "Films",
+        "Are",
+        "Fundamentally",
+        "Unavoidably",
+        "Political",
+        "Questions",
+        "Lack",
+        "Female",
+        "Directors",
+        "Competition",
+        "Theres",
+        "Systemic",
+        "Problem"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Ruben \u00d6stlund\u2019s Plattform Produktion Boards Jessica Hausner\u2019s Satirical Drama \u2018Toxic\u2019 Ahead of Venice Gap-Financing Market (EXCLUSIVE)",
       "link": "https://variety.com/2026/film/global/ruben-ostlund-plattform-produktion-jessica-hausner-toxic-1236837048/",
@@ -41664,129 +41777,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Venice Film Festival to Kick Off With Steady Stream of Stars on Red Carpet and Politics Looming in the Background",
-      "link": "https://variety.com/2026/film/festivals/venice-film-festival-stars-red-carpet-politics-1236847105/",
-      "source": "Variety",
-      "timestamp": "2026-09-01T12:00:00+00:00",
-      "score": 12,
-      "summary": "The Venice Film Festival opens Wednesday with Danny Boyle\u2019s \u201cInk,\u201d a juicy expos\u00e9 of how British tabloid The Sun propelled Rupert Murdoch\u2019s rise to right-wing media baron, kicking off 11 days of buzzy movies, major stars and an unusually charged political debate on the Lido. V...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Film",
-        "Festival",
-        "Kick",
-        "Off",
-        "Steady",
-        "Stream",
-        "Stars",
-        "Red",
-        "Carpet",
-        "Politics",
-        "Looming",
-        "Background"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Howard Stern Hands Over One SiriusXM Channel to Andy Cohen",
-      "link": "https://www.hollywoodreporter.com/business/digital/howard-stern-siriusxm-channel-andy-cohen-1236686090/",
-      "source": "THR",
-      "timestamp": "2026-09-01T12:00:00+00:00",
-      "score": 12,
-      "summary": "Andy Cohen's Radio Andy empire will move to Channel 101, as Stern retains Channel 100.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Stern",
-        "Hands",
-        "Over",
-        "One",
-        "SiriusXM",
-        "Channel",
-        "Andy",
-        "Cohen"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Fewer Women Are Creating TV Shows Now Than They Were Nearly a Decade Ago, Study Finds",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/women-creators-directors-streaming-shows-decline-study-1236686018/",
-      "source": "THR",
-      "timestamp": "2026-09-01T12:00:00+00:00",
-      "score": 12,
-      "summary": "The latest \u201cBoxed In\u201d report spotlights a decline in female representation behind and in front of the camera.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Women",
-        "Are",
-        "Creating",
-        "Shows",
-        "Now",
-        "Than",
-        "They",
-        "Were",
-        "Nearly",
-        "Decade",
-        "Ago",
-        "Study",
-        "Finds"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45463,47 +45453,72 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "15 Charming Dolly Parton Quotes on Life, Love, and Everything In Between",
-      "link": "https://www.vogue.com/slideshow/dolly-parton-quotes-on-life-love-and-everything-in-between",
-      "source": "Vogue",
-      "timestamp": "2026-08-26T10:55:46+00:00",
+      "title": "M 1.8 - 11 km E of Tyonek, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjnhbp",
+      "source": "USGS",
+      "timestamp": "2026-09-02T10:59:50.635000+00:00",
       "score": 15,
-      "summary": "The country music icon Dolly Parton has passed away at the age of age: her love of dazzling rhinestones and great bon mots remain gifts to us all.",
+      "summary": "Time2026-09-02 10:57:51 UTC2026-09-02 10:57:51 UTC at epicenterLocation61.058\u00b0N 150.925\u00b0WDepth57.70 km (35.85 mi)",
       "country": "US",
       "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Charming",
-        "Dolly",
-        "Parton",
-        "Quotes",
-        "Life",
-        "Love",
-        "Everything",
-        "Between"
+        "Tyonek",
+        "Alaska"
       ],
-      "severity_score": 0,
+      "severity_score": 3,
       "alert_level": "low",
-      "mode": "normal",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Vogue"
+        "USGS"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+57%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
+    {
+      "title": "M 0.7 - 10 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75428682",
+      "source": "USGS",
+      "timestamp": "2026-09-02T10:58:53.188000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-02 10:57:14 UTC2026-09-02 10:57:14 UTC at epicenterLocation38.840\u00b0N 122.836\u00b0WDepth1.48 km (0.92 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 0.8 - 32 km W of Ester, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjmnza",
@@ -52098,75 +52113,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 5 km NNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75428097",
-      "source": "USGS",
-      "timestamp": "2026-09-01T08:52:22.947000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-01 08:29:57 UTC2026-09-01 08:29:57 UTC at epicenterLocation38.814\u00b0N 122.783\u00b0WDepth1.66 km (1.03 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+62%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tropical Storm Edouard Forecast Discussion Number 4",
-      "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDAT5+shtml/010848.shtml",
-      "source": "NHC",
-      "timestamp": "2026-09-01T08:48:32+00:00",
-      "score": 15,
-      "summary": "Issued at 400 AM CDT Tue Sep 01 2026 000 WTNT45 KNHC 010848 TCDAT5 Tropical Storm Edouard Discussion Number 4 NWS National Hurricane Center Miami FL AL052026 400 AM CDT Tue Sep 01 2026 It has been easy to track the center of Edouard this morning, showing up as a well-defined c...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Storm",
-        "Edouard",
-        "Forecast",
-        "Discussion",
-        "Number"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NHC"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
