@@ -1,6 +1,47 @@
 {
   "Politics": [
     {
+      "title": "Joint Chiefs Chairman Says Military Has \u2018No Plans\u2019 to Send Troops to the Polls",
+      "link": "https://www.nytimes.com/2026/09/01/us/politics/caine-military-elections.html",
+      "source": "NYT",
+      "timestamp": "2026-09-01T23:48:45+00:00",
+      "score": 14,
+      "summary": "Gen. Dan Caine, President Trump\u2019s top military adviser, appeared to renounce the possibility of the military interfering in the 2026 midterms.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Chiefs",
+        "Chairman",
+        "Says",
+        "Military",
+        "Has",
+        "Plans",
+        "Send",
+        "Troops",
+        "Polls"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "China dissents as Bessent says 19 finance ministers agree to address 'cheap exports'",
       "link": "https://www.pbs.org/newshour/economy/china-dissents-as-bessent-says-19-finance-ministers-agree-to-address-cheap-exports",
       "source": "PBS",
@@ -6525,26 +6566,27 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "SC to hear Delhi Police\u2019s plea to quash FIRs against NEET protesters",
-      "link": "https://www.thehindu.com/news/national/neet-protestors-fir-delhi-police-supreme-court-hearing-september-1-2026/article71414058.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-01T12:36:41+05:30",
-      "score": 14,
-      "summary": "The Delhi Police had filed an application urging the Supreme Court to invoke plenary powers under Article 142 of the Constotution to quash the FIRs",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Larry Page\u2019s flying car company Pivotal loses its CEO",
+      "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-01T23:59:59+00:00",
+      "score": 12,
+      "summary": "The company told TechCrunch he is \"pursuing new endeavors.\"",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Delhi",
-        "Polices",
-        "FIRs",
-        "NEET"
+        "Pages",
+        "Pivotal",
+        "CEO"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6553,15 +6595,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "The Range Rover Electric: Specs, Price, Availability",
       "link": "https://www.wired.com/story/the-range-rover-electric-has-finally-arrived/",
@@ -13064,22 +13104,34 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Meta\u2019s $18B child-safety deal hinges on age verification tech that doesn\u2019t work well",
-      "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-26T22:47:58+00:00",
-      "score": 15,
-      "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Putin Pledges Increased Strikes in Ukraine and Support for Iran",
+      "link": "https://www.nytimes.com/2026/09/01/world/europe/putin-ukraine-iran.html",
+      "source": "NYT",
+      "timestamp": "2026-09-02T00:00:07+00:00",
+      "score": 14,
+      "summary": "The Russian president promised continued retaliation against the Ukrainians and \u201cfull solidarity\u201d with Iran.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "Pledges",
+        "Increased",
+        "Strikes",
+        "Ukraine",
+        "Support",
+        "Iran"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13089,13 +13141,77 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "NYT"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-01T23:56:44+00:00",
+      "score": 12,
+      "summary": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Apple Maps follows Google, changes name of Lake Ontario to 'Lake America'",
+      "link": "https://www.cbc.ca/news/world/apple-maps-lake-america-9.7328843?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-09-01T19:50:56-04:00",
+      "score": 12,
+      "summary": "Apple changed the name of Lake Ontario to Lake America on the web version of its Apple Maps following U.S. President Donald \u200cTrump's executive order renaming the lake. The move by Apple on Tuesday followed a decision by Alphabet late on Saturday to change the name of the lake ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Maps",
+        "Google",
+        "Lake",
+        "Ontario",
+        "America"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CBC News"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "G20 backs final statement despite Russia tensions, China dissent",
       "link": "https://www.france24.com/en/americas/20260901-g20-backs-final-statement-despite-russia-tensions-china-dissent",
@@ -19588,86 +19704,21 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "'Next moment the most important' for Longmuir's dominant Dockers",
-      "link": "https://www.abc.net.au/news/2026-09-01/justin-longmuir-says-dockers-staying-in-the-moment-in-afl-finals/107102900",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-01T04:57:13+00:00",
+      "title": "FPIs are back, but the market breakout may have to wait",
+      "link": "https://www.livemint.com/market/stock-market-news/fpi-investment-inflows-in-indian-equities-nse-ipo-11788243609575.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-02T05:30:15+05:30",
       "score": 12,
-      "summary": "Fremantle is just three wins from the club's first-ever AFL premiership, but coach Justin Longmuir dismisses suggestions he will be using that as motivation heading into the finals.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Longmuirs",
-        "Dockers"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Russian finance minister, invited by Trump, draws objections at G-20 meeting - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1RpWE55TTJKbUtiNVdwcWk1SFAzTlJGQWFSZW92YS1QMUZVUE5nLVlzbzVMLU14Nm1SQVVIb3JSbjJMVU9VQVVWc002aVFZcG9IdjVPLUpiYko4NUN2N1FDanRFNndWR0JuZ2pQbVFVT2ZQVTZlY05SaUxQUTJLSnBLdmNYSXNXTExXY3Z4OEdJZ2pzVGNSaHRvVDRNSWxWUHVyWS1QU01aZm1icy0wRHgzVjdpVjlPUGNSdQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-01T04:56:55+00:00",
-      "score": 15,
-      "summary": "Russian finance minister, invited by Trump, draws objections at G-20 meeting The Washington PostUS irks G20 ministers by bringing back Russia, barring journalists ReutersBessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20 CNB...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
+      "summary": "A surge in IPOs, block trades and shareholder exits could keep the market rangebound in September by soaking up returning foreign demand.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
       "trust_score": 8,
       "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Trump",
-        "Washington",
-        "Post"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Police charge man with alleged serious assault of two-month old baby",
-      "link": "https://www.abc.net.au/news/2026-09-01/man-charged-with-alleged-assault-of-two-month-old/107102946",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-01T04:51:46+00:00",
-      "score": 10,
-      "summary": "Police charge a man with serious child harm offences following a more than year-long investigation into the alleged assault of a two-month-old baby.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -19678,15 +19729,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "Livemint"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
       "link": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
@@ -26194,27 +26243,24 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "The collapse of U.S.-Canada trade talks helped the American aluminum industry. Here\u2019s what Trump should do next.",
-      "link": "https://www.marketwatch.com/story/the-collapse-of-u-s-canada-trade-talks-helped-the-american-aluminum-industry-heres-what-trump-should-do-next-d027419d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-08-31T16:38:00+00:00",
-      "score": 12,
-      "summary": "Some in Washington see aluminum policy as a fight over smelters \u2014 the plants that actually make raw aluminum. But the numbers say otherwise.",
-      "country": "Canada",
+      "title": "Magnetic beads streamline large-scale analysis of disease-linked glycopeptides",
+      "link": "https://phys.org/news/2026-09-magnetic-beads-large-scale-analysis.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-01T20:00:01-04:00",
+      "score": 10,
+      "summary": "A research team has developed a reliable, economical laboratory method that uses tiny magnetic beads to study proteins with sugar molecules attached to them in blood and tissue samples. A better understanding of their pathological changes could help researchers diagnose and tr...",
+      "country": "US",
       "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "USCanada",
-        "American",
-        "Heres",
-        "Trump"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26222,15 +26268,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "MarketWatch"
+        "Phys.org"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "New high-temperature, high-pressure isotope ratio analysis method developed for halogenated compounds",
       "link": "https://phys.org/news/2026-09-high-temperature-pressure-isotope-ratio.html",
@@ -32344,35 +32388,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Strategic irrigation stress can lift lucerne seed yield and returns",
-      "link": "https://phys.org/news/2026-08-strategic-irrigation-stress-lucerne-seed.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-29T17:00:05-04:00",
-      "score": 10,
-      "summary": "More water does not necessarily produce more alfalfa seed. A five-year trial near Keith, South Australia, found that strategically delaying irrigation until plants showed early signs of leaf drop generally increased seed yield and consistently delivered the highest gross margin.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33475,6 +33490,86 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Ji Chang-wook and Imada Mio\u2019s Korean-Japanese Romcom \u2018Merry Berry Love\u2019 Sets October Disney+, Hulu Bow",
+      "link": "https://variety.com/2026/tv/news/ji-chang-wook-imada-mio-merry-berry-love-disney-hulu-october-1236848185/",
+      "source": "Variety",
+      "timestamp": "2026-09-02T00:00:00+00:00",
+      "score": 12,
+      "summary": "Korean-Japanese romantic comedy series \u201cMerry Berry Love,\u201d starring Ji Chang-wook and Imada Mio, is bowing on Disney+ and Hulu this October. Set on a picturesque Japanese island, the series follows Karin Shirahama, a strawberry farmer who pours everything into her land, and Le...",
+      "country": "Japan",
+      "region": "East Asia",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Changwook",
+        "Imada",
+        "Mios",
+        "KoreanJapanese",
+        "Romcom",
+        "Merry",
+        "Berry",
+        "Love",
+        "Sets",
+        "October",
+        "Disney",
+        "Hulu",
+        "Bow"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Apple Unveils Pay Package For New CEO John Ternus",
+      "link": "https://deadline.com/2026/09/apple-unveils-pay-package-for-new-ceo-john-ternus-1237064858/",
+      "source": "Deadline",
+      "timestamp": "2026-09-01T23:59:12+00:00",
+      "score": 12,
+      "summary": "Apple set a pay package worth $58 million for new CEO John Ternus, who formally took the reins from longtime chief executive Tim Cook today. His compensation includes a $3 million annual salary and equity awards valued at $55 million to be awarded in the company\u2019s fiscal 2027,...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Unveils",
+        "Pay",
+        "Package",
+        "New",
+        "CEO",
+        "John",
+        "Ternus"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Hard Knocks\u2019 Producer On What Makes Docuseries Special, Why The Seattle Seahawks Won The Super Bowl & Teases 2027\u2019s \u2018Offseason\u2019",
       "link": "https://deadline.com/2026/09/hard-knocks-docuseries-seattle-seahawks-2027-offseason-1237064727/",
@@ -41439,86 +41534,6 @@
       ],
       "trend_accel": "+83%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Tupac Shakur Murder Trial: Duane \u2018Keffe D\u2019 Davis Found Guilty",
-      "link": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-trial-keffe-d-guilty-1235617194/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-09-01T00:30:47+00:00",
-      "score": 12,
-      "summary": "The jury in Nevada took only a few hours to return the verdict",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Shakur",
-        "Murder",
-        "Trial",
-        "Duane",
-        "Keffe",
-        "Davis",
-        "Found",
-        "Guilty"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 13,
-      "sources_reporting": [
-        "NHK",
-        "NPR",
-        "NYT",
-        "Reuters",
-        "Rolling Stone",
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+85%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Duane \u201cKeffe D\u201d Davis Convicted in 1996 Killing of Tupac Shakur",
-      "link": "https://www.hollywoodreporter.com/music/music-news/duane-keffe-d-davis-convicted-1996-killing-tupac-shakur-1236686322/",
-      "source": "THR",
-      "timestamp": "2026-09-01T00:27:52+00:00",
-      "score": 15,
-      "summary": "The trial has revisited the night nearly 30 years ago when the rapper was shot while on his way to perform at a club in Las Vegas.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Keffe",
-        "Davis",
-        "Convicted",
-        "Killing",
-        "Tupac",
-        "Shakur"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45240,6 +45255,107 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "Tropical Storm Edouard Public Advisory Number 6a",
+      "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/012356.shtml",
+      "source": "NHC",
+      "timestamp": "2026-09-01T23:56:52+00:00",
+      "score": 15,
+      "summary": "Issued at 700 PM CDT Tue Sep 01 2026 000 WTNT35 KNHC 012356 TCPAT5 BULLETIN Tropical Storm Edouard Intermediate Advisory Number 6A NWS National Hurricane Center Miami FL AL052026 700 PM CDT Tue Sep 01 2026 ...CENTER OF EDOUARD PASSING OVER BEAUMONT METROPOLITAN AREA... ...GUST...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Storm",
+        "Edouard",
+        "Public",
+        "Advisory",
+        "Number"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NHC"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.5 - 87 km NW of Karluk, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rircuv",
+      "source": "USGS",
+      "timestamp": "2026-09-01T23:53:50.111000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-01 23:53:14 UTC2026-09-01 23:53:14 UTC at epicenterLocation58.186\u00b0N 155.370\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Karluk",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.8 - 4 km SE of Lytle Creek, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41540432",
+      "source": "USGS",
+      "timestamp": "2026-09-01T23:52:35.487000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-01 23:49:14 UTC2026-09-01 23:49:14 UTC at epicenterLocation34.228\u00b0N 117.472\u00b0WDepth8.28 km (5.14 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lytle",
+        "Creek"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 2.1 - 7 km SSE of Gu\u00e1nica, Puerto Rico",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71530563",
@@ -51796,106 +51912,6 @@
       "trending": false,
       "trend_score": 0.0,
       "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 1 km ESE of Spring Valley, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924044",
-      "source": "USGS",
-      "timestamp": "2026-08-31T20:08:57.043000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-31 20:04:49 UTC2026-08-31 20:04:49 UTC at epicenterLocation36.100\u00b0N 115.228\u00b0WDepth0.40 km (0.25 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Spring",
-        "Valley",
-        "Nevada"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 16 km NE of Milford, Utah",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80152866",
-      "source": "USGS",
-      "timestamp": "2026-08-31T19:47:46.350000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-31 19:23:51 UTC2026-08-31 19:23:51 UTC at epicenterLocation38.505\u00b0N 112.889\u00b0WDepth2.07 km (1.29 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Milford",
-        "Utah"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 17 km W of Four Mile Road, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rgmryj",
-      "source": "USGS",
-      "timestamp": "2026-08-31T19:42:35.875000+00:00",
-      "score": 15,
-      "summary": "Time2026-08-31 19:41:28 UTC2026-08-31 19:41:28 UTC at epicenterLocation64.600\u00b0N 149.485\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Four",
-        "Mile",
-        "Road",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
       "sources_reporting": [
         "USGS"
       ],
