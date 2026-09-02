@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "Trump coins already out of stock at US Mint",
+      "link": "https://thehill.com/homenews/administration/6067590-trump-gold-coins-sell-out/",
+      "source": "The Hill",
+      "timestamp": "2026-09-02T21:34:49+00:00",
+      "score": 14,
+      "summary": "One dollar gold-colored coins featuring President Trump\u2019s image sold out hours after they were released on Wednesday afternoon, according to the U.S. Mint\u2019s website. The currency, which the Trump administration advertised as an opportunity to \u201cown a piece of American History,\u201d...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mint"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Democrats block proposed constitutional amendment to keep Supreme Court justices to nine",
       "link": "https://thehill.com/homenews/house/6067506-house-supreme-court-packing-amendment/",
       "source": "The Hill",
@@ -6564,26 +6595,24 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Noida International Airport takes off, but the journey to Jewar remains a work in progress",
-      "link": "https://www.thehindu.com/news/national/uttar-pradesh/noida-international-airport-takes-off-but-the-journey-to-jewar-remains-a-work-in-progress/article71399703.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-02T08:39:24+05:30",
-      "score": 14,
-      "summary": "Two-and-a-half months after flights began, the new airport offers a smooth terminal experience, but patchy public transport, high travel costs and a still-developing ecosystem are shaping how passengers and staff use it",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+      "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-02T21:38:34+00:00",
+      "score": 10,
+      "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "International",
-        "Airport",
-        "Jewar"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6591,15 +6620,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
       "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
@@ -13099,29 +13126,27 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
-      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-27T19:52:52+00:00",
-      "score": 14,
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Live: ASX to open higher after sea of green on Wall Street",
+      "link": "https://www.abc.net.au/news/2026-09-03/asx-markets-business-news-live-updates-thursday-3-september/107109706",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-02T21:40:40+00:00",
+      "score": 12,
+      "summary": "The ASX is set to open higher after gains on Wall Street. The price of oil is above $US95/barrel as the bond market steadies. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Zoph",
-        "Thinking",
-        "Machines",
-        "OpenAI",
-        "Google"
+        "ASX",
+        "Wall",
+        "Street"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13132,13 +13157,75 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "U.S. oil giant Chevron confirms it will expand operations in Venezuela",
+      "link": "https://www.pbs.org/newshour/world/u-s-oil-giant-chevron-confirms-it-will-expand-operations-in-venezuela",
+      "source": "PBS",
+      "timestamp": "2026-09-02T17:39:57-04:00",
+      "score": 12,
+      "summary": "Oil giant Chevron confirmed that it will expand operations in Venezuela after President Donald Trump announced an ambitious deal to develop the nation's oil reserves and give the Pentagon a stake in the profits.",
+      "country": "Venezuela",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Chevron",
+        "Venezuela"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "A Korean pastor has attracted attention from the Trump administration",
+      "link": "https://www.npr.org/2026/09/02/nx-s1-5926558/a-korean-pastor-has-attracted-attention-from-the-trump-administration",
+      "source": "NPR",
+      "timestamp": "2026-09-02T17:37:43-04:00",
+      "score": 12,
+      "summary": "South Korea's government is trying to keep religious groups from interfering in politics. The case of one Korean pastor has attracted attention at the highest levels of the U.S. government.",
+      "country": "South Korea",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Korean",
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NPR"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "South African airline behind daring stadium stunt cancels next flyby",
       "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
@@ -19621,108 +19708,69 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Man shot dead in Sydney home invasion appears to be 'innocent'",
-      "link": "https://www.abc.net.au/news/2026-09-02/man-shot-dead-sydney-home-invasion-possible-mistaken-identity/107106194",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-02T02:37:18+00:00",
-      "score": 12,
-      "summary": "NSW police commissioner says a man shot dead in a Sydney home invasion appears to be an \"innocent life\" lost to organised crime.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sydney"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump says he's nominating acting Navy Secretary Hung Cao for permanent job",
-      "link": "https://www.thehindu.com/news/international/trump-says-hes-nominating-acting-navy-secretary-hung-cao-for-permanent-job/article71417964.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-02T07:54:30+05:30",
-      "score": 12,
-      "summary": "Mr. Cao has spent 25 years in the Navy as a special operations officer and went on to serve with SEAL teams and special forces in Iraq and Afghanistan",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Navy",
-        "Secretary",
-        "Hung",
-        "Cao"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Dangerous power grab\u2019: top Democrats decry USPS system that could thwart mail-in voting \u2013 as it happened",
-      "link": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
-      "source": "Guardian",
-      "timestamp": "2026-09-02T02:01:09+00:00",
-      "score": 14,
-      "summary": "This live blog is now closed.New system for screening mail-in ballots risks denying entire batches, says whistleblowerSign up for the US Breaking News emailDemocratic senator Chuck Schumer is introducing a bill that would reverse Donald Trump\u2019s most recent tariffs, among them ...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Democrats",
-        "USPS"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
+    {
+      "title": "G20 tech takeaways: Lutnick pitches adoption of U.S. AI, pushes data center buildout",
+      "link": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-02T21:45:17+00:00",
+      "score": 17,
+      "summary": "Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lutnick"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nvidia\u2019s stock is climbing as investors get more confidence in an expanding base of AI customers",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-climbing-as-investors-get-more-confidence-in-an-expanding-base-of-ai-customers-a6e297f1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-09-02T21:38:00+00:00",
+      "score": 14,
+      "summary": "Dell\u2019s earnings showed that demand for AI hardware extends beyond major cloud providers.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Travel industry presses Trump to target 100 million international visitors in Oval Office meeting",
       "link": "https://www.cnbc.com/2026/09/02/trump-travel-industry-world-cup-tourism-airlines-hotels.html",
@@ -26199,50 +26247,21 @@
       ],
       "trend_accel": "+82%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Crypto enters September with legislative policy gamble hanging by a thread",
-      "link": "https://www.cnbc.com/2026/09/01/crypto-enters-september-with-policy-gamble-hanging-by-a-thread.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-01T16:07:23+00:00",
-      "score": 14,
-      "summary": "Comprehensive industry legislation teeters on the brink amid growing doubts the bill will cross the finish line.",
+      "title": "Making superconductors thinner can change how they accommodate magnetic fields",
+      "link": "https://phys.org/news/2026-08-superconductors-thinner-accommodate-magnetic-fields.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-02T17:40:01-04:00",
+      "score": 10,
+      "summary": "What happens when a superconductor becomes so thin that electrons can no longer behave as if they were moving through an ordinary three-dimensional piece of metal? This question has been at the center of my recent work on quantum confinement in metallic films. Over the past fe...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "September"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "We're exiting a data center stock to protect big gains as the AI trade hits a rough patch",
-      "link": "https://www.cnbc.com/2026/09/01/were-exiting-a-data-center-stock-to-protect-big-gains-as-the-ai-trade-hits-a-rough-patch.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-01T15:54:28+00:00",
-      "score": 14,
-      "summary": "We are concerned about AI exposure, given how the group has even disregarded good news.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26253,15 +26272,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Hidden DNA in medieval gospels reveals history of deadly livestock virus",
       "link": "https://phys.org/news/2026-09-hidden-dna-medieval-gospels-reveals.html",
@@ -32310,37 +32327,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Small-plane fuel raises lead levels up to sevenfold near Oregon airports, study suggests",
-      "link": "https://phys.org/news/2026-08-small-plane-fuel-sevenfold-oregon.html",
-      "source": "Phys.org",
-      "timestamp": "2026-08-31T15:40:06-04:00",
-      "score": 14,
-      "summary": "Emissions from aircraft that use leaded aviation gasoline are a significant source of environmental pollution in neighborhoods near regional airports, according to a new study by researchers at Oregon State University and Portland State University. The findings were published ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Oregon"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32605,7 +32591,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.5,
+      "trend_score": 6.4,
       "source_count": 9,
       "sources_reporting": [
         "BBC",
@@ -32614,7 +32600,7 @@
         "PBS"
       ],
       "trend_accel": "+65%",
-      "heat_level": "HOT"
+      "heat_level": "LOW"
     },
     {
       "title": "Bumrah back in India squad for Afghanistan T20Is",
@@ -33569,6 +33555,116 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Matthew Morrison Signs With Echo Lake Entertainment",
+      "link": "https://deadline.com/2026/09/matthew-morrison-signs-echo-lake-entertainment-1237065721/",
+      "source": "Deadline",
+      "timestamp": "2026-09-02T21:44:00+00:00",
+      "score": 14,
+      "summary": "EXCLUSIVE: Matthew Morrison has signed with Echo Lake Entertainment for management across the talent and lit divisions. An actor, recording artist and writer/producer, Morrison is most widely known for his six-season run as Mr. Schuester on Fox\u2019s Glee, which earned him an Emmy...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Morrison",
+        "Signs",
+        "Echo",
+        "Lake",
+        "Entertainment"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Lindsay Clancy Trial: Woman Arrested for Allegedly Intimidating Jurors",
+      "link": "https://www.eonline.com/news/1435686/lindsay-clancy-trial-dawn-light-arrested-for-jury-intimidation-explained?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-09-02T21:36:34+00:00",
+      "score": 12,
+      "summary": "A new arrest has stemmed from the Lindsay Clancy murder trial. Dawn Light, a Boston woman who identifies as a \"crime junkie\" per CT Insider, was arrested on Sept. 1 after being seen filming...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Clancy",
+        "Trial",
+        "Woman",
+        "Arrested",
+        "Allegedly",
+        "Intimidating",
+        "Jurors"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+42%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Cher Slams Son Elijah's Wife Over \"Quest for Money\" in Conservatorship",
+      "link": "https://www.eonline.com/news/1435676/cher-slams-son-elijah-allmans-wife-over-conservatorship-request-money?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-09-02T21:35:00+00:00",
+      "score": 12,
+      "summary": "Cher is taking legal action against her daughter-in-law. Amid the \u201cBelieve\u201d singer\u2019s continued fight to appoint a guardian for son Elijah Blue Allman, 50, the 80-year-old filed a supplemental...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Slams",
+        "Son",
+        "Elijahs",
+        "Wife",
+        "Over",
+        "Quest",
+        "Money",
+        "Conservatorship"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Venice Film Festival: Ellen Burstyn to Recieve a Lifetime Achievement Award",
       "link": "https://www.nytimes.com/2026/08/30/movies/ellen-burstyn-venice-film-festival.html",
@@ -41548,127 +41644,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Entourage\u2019 Creator Slams Debi Mazar\u2019s Claims of a \u201cToxic\u201d Set After Her Second Birth: \u201cDisgusting\u201d",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/entourage-creator-debi-mazar-claims-pregnancy-weight-1236687428/",
-      "source": "THR",
-      "timestamp": "2026-09-01T23:19:27+00:00",
-      "score": 14,
-      "summary": "The writer-director responded to The Hollywood Reporter's post on X reporting on Mazar's comments given to The Times U.K., writing, \"Never, ever did myself or anyone that matters care or discuss Debi Mazar\u2019s body.\"",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Creator",
-        "Slams",
-        "Debi",
-        "Mazars",
-        "Claims",
-        "Toxic",
-        "Set",
-        "After",
-        "Her",
-        "Second",
-        "Birth",
-        "Disgusting"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Indian Streamer JioHotstar Launches in U.K., Canada and Singapore With Interactive Features",
-      "link": "https://variety.com/2026/tv/news/jiohotstar-uk-canada-singapore-launch-1236848067/",
-      "source": "Variety",
-      "timestamp": "2026-09-01T23:00:00+00:00",
-      "score": 12,
-      "summary": "India\u2019s leading streamer JioHotstar has launched internationally in the U.K., Canada and Singapore, bringing its catalog of more than 160,000 hours of entertainment across more than 12 Asian languages alongside interactive features, personalized recommendations and new subscri...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Streamer",
-        "JioHotstar",
-        "Launches",
-        "Canada",
-        "Singapore",
-        "Interactive",
-        "Features"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Wheel Of Fortune\u2019 Announcer Jim Thornton Suspended, Role Recast",
-      "link": "https://deadline.com/2026/09/wheel-of-fortune-announcer-jim-thornton-suspended-1237064760/",
-      "source": "Deadline",
-      "timestamp": "2026-09-01T22:52:58+00:00",
-      "score": 12,
-      "summary": "Sony Pictures Television has suspended Wheel of Fortune announcer Jim Thornton and is recasting his role. The studio made the decision after an alleged incident on an American Airlines flight in May, although details of what exactly happened are not clear. \u201cWe have recently be...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fortune",
-        "Announcer",
-        "Jim",
-        "Thornton",
-        "Suspended",
-        "Role",
-        "Recast"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 13,
-      "sources_reporting": [
-        "AP",
-        "Bloomberg",
-        "Deadline",
-        "NHK",
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+85%",
-      "heat_level": "CRITICAL"
     }
   ],
   "Lifestyle": [
@@ -44980,49 +44955,107 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "\u201cShe Doesn\u2019t Follow Trends\u201d; Dolly Parton\u2019s Longtime Stylist on Her One-of-a-Kind Style",
-      "link": "https://www.vogue.com/article/dolly-parton-steve-summers-stylist-interview",
-      "source": "Vogue",
-      "timestamp": "2026-08-26T21:39:24+00:00",
-      "score": 12,
-      "summary": "Steve Summers is responsible for delivering over 30 years of iconic Dolly looks.",
+      "title": "M 5.4 - 83 km S of Isangel, Vanuatu",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdr1",
+      "source": "USGS",
+      "timestamp": "2026-09-02T21:44:43.001000+00:00",
+      "score": 15,
+      "summary": "ShakeMap - IVTime2026-09-02 21:22:09 UTC2026-09-02 21:22:09 UTC at epicenterLocation20.292\u00b0S 169.319\u00b0EDepth98.10 km (60.96 mi)",
       "country": "US",
       "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Doesnt",
-        "Follow",
-        "Trends",
-        "Dolly",
-        "Partons",
-        "Longtime",
-        "Stylist",
-        "Her",
-        "OneofaKind",
-        "Style"
+        "Isangel",
+        "Vanuatu"
       ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "Vogue"
+        "USGS"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
+    {
+      "title": "M 1.0 - 4 km W of Farmers Loop, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rkikvi",
+      "source": "USGS",
+      "timestamp": "2026-09-02T21:32:56.228000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-02 21:31:54 UTC2026-09-02 21:31:54 UTC at epicenterLocation64.904\u00b0N 147.799\u00b0WDepth3.90 km (2.42 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Farmers",
+        "Loop",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 81 km ESE of Egegik, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rkijzu",
+      "source": "USGS",
+      "timestamp": "2026-09-02T21:32:25.911000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-02 21:30:58 UTC2026-09-02 21:30:58 UTC at epicenterLocation57.870\u00b0N 156.159\u00b0WDepth125.00 km (77.67 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Egegik",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.5 - 60 km S of Whites City, New Mexico",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rhnsaf",
@@ -51547,110 +51580,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.1 - 11 km SE of Katie, Oklahoma",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026rdje",
-      "source": "USGS",
-      "timestamp": "2026-09-01T18:11:26.608000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-01 18:09:24 UTC2026-09-01 18:09:24 UTC at epicenterLocation34.501\u00b0N 97.268\u00b0WDepth5.33 km (3.31 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Katie",
-        "Oklahoma"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.4 Quarry Blast - 7 km N of Mill Creek, Oklahoma",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026rdhv",
-      "source": "USGS",
-      "timestamp": "2026-09-01T17:54:04.969000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-01 17:27:48 UTC2026-09-01 17:27:48 UTC at epicenterLocation34.473\u00b0N 96.837\u00b0WDepth0.00 km (0.00 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Quarry",
-        "Blast",
-        "Mill",
-        "Creek",
-        "Oklahoma"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tropical Storm Edouard Public Advisory Number 5a",
-      "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/011748.shtml",
-      "source": "NHC",
-      "timestamp": "2026-09-01T17:48:48+00:00",
-      "score": 15,
-      "summary": "Issued at 100 PM CDT Tue Sep 01 2026 000 WTNT35 KNHC 011748 TCPAT5 BULLETIN Tropical Storm Edouard Intermediate Advisory Number 5A NWS National Hurricane Center Miami FL AL052026 100 PM CDT Tue Sep 01 2026 ...EDOUARD EXPECTED TO MAKE LANDFALL ALONG THE NORTHWESTERN GULF COAST ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Storm",
-        "Edouard",
-        "Public",
-        "Advisory",
-        "Number"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NHC"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
