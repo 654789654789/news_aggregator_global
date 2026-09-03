@@ -5452,7 +5452,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.5,
+      "trend_score": 9.4,
       "source_count": 11,
       "sources_reporting": [
         "BBC",
@@ -13152,6 +13152,37 @@
   ],
   "World": [
     {
+      "title": "Native food cafe teaches younger generation Indigenous cooking",
+      "link": "https://www.abc.net.au/news/2026-09-04/native-food-cafe-teaches-indigenous-cooking/107091088",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-03T20:26:04+00:00",
+      "score": 12,
+      "summary": "While Indigenous people reap little reward from Australia's native food industry, a regional Indigenous cafe is taking ownership of their traditions and passing on the knowledge to younger generations.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Indigenous"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Dutch Central Bank Cuts Gold Reserves in U.S., Citing \u2018Geopolitical Unrest\u2019",
       "link": "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html",
       "source": "NYT",
@@ -16416,7 +16447,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 20,
       "sources_reporting": [
         "BBC",
@@ -16427,7 +16458,7 @@
         "PBS",
         "Times of India"
       ],
-      "trend_accel": "+82%",
+      "trend_accel": "+81%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19718,47 +19749,136 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "In Small Iranian Town, a U.S. Attack Turns a Wedding Into a Tragedy",
-      "link": "https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html",
-      "source": "NYT",
-      "timestamp": "2026-09-02T23:38:27+00:00",
+      "title": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
+      "link": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-03T20:30:36+00:00",
       "score": 12,
-      "summary": "The bomb that hit the residential area was American, according to a weapons expert and a visual analysis by The Times. It killed five people and wounded 67 others, the Iranian authorities said.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "summary": "Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Small",
-        "Iranian",
-        "Town",
-        "Attack",
-        "Turns",
-        "Wedding",
-        "Into",
-        "Tragedy"
+        "Anil",
+        "Chakravarthy",
+        "CEO",
+        "Shantanu",
+        "Narayen"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "NYT"
+        "CNBC"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "An old stock-market adage applies this month \u2014 how you should play it",
+      "link": "https://www.marketwatch.com/story/an-old-stock-market-adage-applies-this-month-how-you-should-play-it-in-2026-ec4b9386?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-09-03T20:29:00+00:00",
+      "score": 12,
+      "summary": "How to profit from the adage \u201csell Rosh Hashanah, buy Yom Kippur.\u201d",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Zscaler stock rises on earnings beat, upbeat guidance",
+      "link": "https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-03T20:24:52+00:00",
+      "score": 12,
+      "summary": "CEO Jay Chaudhry said he's \"very bullish\" on Zscaler's agentic Zero Trust offering, which is gaining early momentum",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc2FYMnA1eEs4OGhIcmw4MTdSU3FBcmtJbkJjUHN2TDNCOUxOSnhYV0tfVWUwU2M2TnFieFBkX3dCS1phdjVKUTMtMVhGeVcwMVlkVV9BNVgyX3h5dVAwY1c5dlFMWVA3ZGxjU21od2ZIcFVBVWg5MjVtb1RrbzlDLW92Rkk0aDZaUHlXQXF1TmpFMy1vSk1wbVNIeGNiNnZuSEpWa2RNZ3ZsYm9BbWdUT191RXdNQXVaQ1QtU2Z0VF9vMFZwVlpzMnJZSzE3TFo1?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-09-03T20:18:03+00:00",
+      "score": 17,
+      "summary": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face Yahoo FinanceHugging Face approached Nvidia\u2019s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC CNBCHugging Face goes from a 'scrappy' startup named after an emoji to $13 billion Nvidia acqui...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hugging",
+        "Face",
+        "Yahoo",
+        "Finance"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Google News"
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Zscaler stock soars on earnings beat, upbeat guidance",
       "link": "https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html",
@@ -20863,11 +20983,12 @@
       "breaking": false,
       "trending": true,
       "trend_score": 10.5,
-      "source_count": 11,
+      "source_count": 12,
       "sources_reporting": [
         "BBC",
         "Bloomberg",
         "CNBC",
+        "Google News",
         "NYT",
         "PBS",
         "Reuters"
@@ -26191,115 +26312,21 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "A breast implant maker's stock could climb as GLP-1 market booms, TD Securities says",
-      "link": "https://www.cnbc.com/2026/09/02/a-breast-implant-stock-may-climb-as-glp-1-use-rises-per-td-securities.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-02T15:43:45+00:00",
-      "score": 17,
-      "summary": "Establishment Labs is poised to get a boost from widening GLP-1 use as it is set to expand its breast implant business in the U.S., per TD Securities.",
+      "title": "'Power of disorder' tames CF\u2084, a semiconductor greenhouse gas that can persist for 50,000 years",
+      "link": "https://phys.org/news/2026-09-power-disorder-cf-semiconductor-greenhouse.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-03T16:30:01-04:00",
+      "score": 15,
+      "summary": "Among the gases used in semiconductor manufacturing, tetrafluoromethane (CF\u2084) is a greenhouse gas more than 6,000 times as potent as carbon dioxide.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "GLP",
-        "Securities"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Fed\u2019s Williams \u2018is opening options\u2019 to interest-rate hikes. Why that could be \u2018a bad trade.\u2019",
-      "link": "https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-09-02T15:38:00+00:00",
-      "score": 12,
-      "summary": "Fed watchers say the upcoming jobs report and inflation data are key after seeing signs that Fed Chairman Kevin Warsh would be willing to see interest rates rise.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Williams",
-        "Why"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Swiggy shareholders' alert! Know why September 7 is a key date for you \u2014 food delivery stock on investors' radar",
-      "link": "https://www.livemint.com/market/stock-market-news/swiggy-shareholders-alert-know-why-september-7-is-a-key-date-for-you-food-delivery-stock-on-investors-radar-11788361060068.html",
-      "source": "Livemint",
-      "timestamp": "2026-09-02T21:07:45+05:30",
-      "score": 17,
-      "summary": "Swiggy faces challenges as MSCI removes it from key indices. The deletion could potentially trigger $340 million in selling from tracking funds, compounding Swiggy\u2019s 31% drop in 2026.&nbsp;",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Know",
-        "September"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Southwest to debut airport lounges in four cities, with more to come",
-      "link": "https://www.cnbc.com/2026/09/02/southwest-airport-lounges.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-02T15:32:36+00:00",
-      "score": 12,
-      "summary": "The airline is partnering with Chase on the effort, saying it wants to build on that company's Sapphire Reserve Lounge Network.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26310,15 +26337,74 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "'Empty nest' can trigger loneliness and loss in older parents, study finds",
+      "link": "https://phys.org/news/2026-09-trigger-loneliness-loss-older-parents.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-03T16:20:06-04:00",
+      "score": 10,
+      "summary": "Older parents can experience loneliness, emotional distress and a loss of purpose when their children leave home, according to a new pilot study by the University of Hertfordshire.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Antarctic expedition reveals why Southern Ocean clouds remain one of climate science's greatest challenges",
+      "link": "https://phys.org/news/2026-09-antarctic-reveals-southern-ocean-clouds.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-03T16:20:04-04:00",
+      "score": 14,
+      "summary": "The Southern Ocean plays a pivotal role in regulating Earth's climate, yet the clouds that blanket this remote region remain among the least understood features in atmospheric science. By controlling both incoming sunlight and outgoing heat, these clouds strongly influence Ear...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Southern",
+        "Ocean"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Early mammals weren't all loners\u2014some may have lived in pairs alongside the dinosaurs",
       "link": "https://phys.org/news/2026-09-early-mammals-werent-loners-pairs.html",
@@ -32283,100 +32369,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Geomagnetic superstorm shook GPS accuracy across the US\u2014its timing may have averted agricultural losses",
-      "link": "https://phys.org/news/2026-09-geomagnetic-superstorm-shook-gps-accuracy.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-01T12:30:01-04:00",
-      "score": 12,
-      "summary": "On Nov. 11, 2025, Earth experienced a severe geomagnetic storm triggered by solar flares and coronal mass ejections from an active sunspot region. While this kind of storm brings beautiful auroras admired in many areas around the world, it can also cause ionospheric disturbanc...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "GPS",
-        "USits"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Largest review finds formal ethics education improves students' moral reasoning",
-      "link": "https://phys.org/news/2026-09-largest-formal-ethics-students-moral.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-01T12:20:11-04:00",
-      "score": 10,
-      "summary": "How important is it that kids learn to tell right from wrong? Businessman and former university chancellor David Gonski recently called for ethics classes to be rolled out in all Australian schools to boost social cohesion.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Anti-influenza therapies that target the host",
-      "link": "https://phys.org/news/2026-09-anti-influenza-therapies-host.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-01T12:20:09-04:00",
-      "score": 10,
-      "summary": "A drug that targets the host rather than the virus could get around the problem of antiviral resistance. Every year, hundreds of thousands of people die of seasonal influenza caused by infection with influenza A and B viruses.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33604,6 +33596,45 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Asia Surpasses North America and Europe to Lead in Streaming Scripted Series Orders",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/asia-now-leads-streaming-scripted-series-orders-netflix-1236689714/",
+      "source": "THR",
+      "timestamp": "2026-09-03T20:20:28+00:00",
+      "score": 12,
+      "summary": "The APAC region now accounts for 36 percent of global greenlights across Prime Video, Apple TV+, Disney+, HBO Max, Netflix and Paramount+.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Surpasses",
+        "North",
+        "America",
+        "Europe",
+        "Lead",
+        "Streaming",
+        "Scripted",
+        "Series",
+        "Orders"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Dolly Parton Tributes Score Big Ratings for the Networks; ABC\u2019s \u20189 to 5\u2019 Airing Is Most-Watched Broadcast Movie in More Than Three Years",
       "link": "https://variety.com/2026/tv/news/dolly-parton-tributes-ratings-broadcast-networks-1236848984/",
@@ -41628,46 +41659,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Jawbreaker\u2019 Stage Musical Shines Spotlight On Vylette\u2019s \u201cTrans Narrative\u201d With Non-Binary Actor AJ Paramo",
-      "link": "https://deadline.com/2026/09/jawbreaker-stage-musical-vylette-trans-narrative-aj-paramo-1237061420/",
-      "source": "Deadline",
-      "timestamp": "2026-09-02T21:20:38+00:00",
-      "score": 12,
-      "summary": "As Jawbreaker makes its way from 1999 teen cult classic to modern stage musical, one character is getting an update that was a long time coming. While speaking with Deadline during a break from rehearsals for Jawbreaker The Musical, writer Darren Stein explained why he decided...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Stage",
-        "Musical",
-        "Shines",
-        "Spotlight",
-        "Vylettes",
-        "Trans",
-        "Narrative",
-        "NonBinary",
-        "Actor",
-        "Paramo"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45085,6 +45076,108 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 5.2 - 93 km SSW of Nikolski, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmcccm",
+      "source": "USGS",
+      "timestamp": "2026-09-03T20:29:40.752000+00:00",
+      "score": 15,
+      "summary": "ShakeMap - IIITime2026-09-03 20:21:17 UTC2026-09-03 20:21:17 UTC at epicenterLocation52.128\u00b0N 169.247\u00b0WDepth8.00 km (4.97 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Nikolski",
+        "Alaska"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 3.7 - 60 km NNW of Nelson Lagoon, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmcdsj",
+      "source": "USGS",
+      "timestamp": "2026-09-03T20:27:15.329000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-03 20:22:43 UTC2026-09-03 20:22:43 UTC at epicenterLocation56.484\u00b0N 161.650\u00b0WDepth194.60 km (120.92 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Nelson",
+        "Lagoon",
+        "Alaska"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 3 km ENE of Four Mile Road, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmcafj",
+      "source": "USGS",
+      "timestamp": "2026-09-03T20:20:01.907000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-03 20:19:01 UTC2026-09-03 20:19:01 UTC at epicenterLocation64.620\u00b0N 149.051\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Four",
+        "Mile",
+        "Road",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
@@ -51468,103 +51561,6 @@
         "USGS"
       ],
       "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 4 km N of Laguna Beach, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41540920",
-      "source": "USGS",
-      "timestamp": "2026-09-02T20:32:37.901000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-02 20:29:07 UTC2026-09-02 20:29:07 UTC at epicenterLocation33.581\u00b0N 117.782\u00b0WDepth19.97 km (12.41 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Laguna",
-        "Beach"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 19 km NW of Westbrook, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rhlwvv",
-      "source": "USGS",
-      "timestamp": "2026-09-02T20:31:37.834000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-02 20:27:53 UTC2026-09-02 20:27:53 UTC at epicenterLocation32.473\u00b0N 101.172\u00b0WDepth1.72 km (1.07 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Westbrook",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 6 km E of Lone Pine, California",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924122",
-      "source": "USGS",
-      "timestamp": "2026-09-02T20:26:37.669000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-02 20:22:41 UTC2026-09-02 20:22:41 UTC at epicenterLocation36.601\u00b0N 117.991\u00b0WDepth3.06 km (1.90 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lone",
-        "Pine",
-        "California"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
