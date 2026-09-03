@@ -1,6 +1,43 @@
 {
   "Politics": [
     {
+      "title": "JD Vance Says He Wouldn\u2019t Call Iran Conflict a War",
+      "link": "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html",
+      "source": "NYT",
+      "timestamp": "2026-09-03T21:51:49+00:00",
+      "score": 12,
+      "summary": "In the first White House press briefing since Karoline Leavitt left as press secretary, the vice president suggested that when the conflict would end was up to Tehran.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Vance",
+        "Says",
+        "Wouldnt",
+        "Call",
+        "Iran",
+        "Conflict",
+        "War"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "ISRO\u2019s GSLV-F17 carrying EOS-05 lifts off from Sriharikota",
       "link": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece",
       "source": "The Hindu",
@@ -6560,25 +6597,25 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Police remove vehicle used as \u2018makeshift station\u2019 from outside Pinarayi Vijayan's Kannur residence, but guards continue duty",
-      "link": "https://www.thehindu.com/news/national/kerala/police-vehicle-removed-from-outside-pinarayi-vijayans-kannur-residence-but-guards-continue-duty/article71422385.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-03T10:51:01+05:30",
+      "title": "You can watch the coolant flow inside Ugreen\u2019s liquid-cooled power bank",
+      "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+      "source": "Verge",
+      "timestamp": "2026-09-03T18:00:00-04:00",
       "score": 12,
-      "summary": "The police vehicle had been stationed outside Pinarayi Vijayan\u2019s residence, but had become unserviceable as it could not be started",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which puts it on the really expe...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Pinarayi",
-        "Vijayans",
-        "Kannur"
+        "Ugreens"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6589,13 +6626,84 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+55%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+      "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "source": "Wired",
+      "timestamp": "2026-09-03T21:56:21+00:00",
+      "score": 14,
+      "summary": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Saying",
+        "Why",
+        "OpenAI",
+        "Anthropic",
+        "Had",
+        "Outages",
+        "Today"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Wired"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+      "link": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+      "source": "Wired",
+      "timestamp": "2026-09-03T21:48:24+00:00",
+      "score": 14,
+      "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock\u2019s AI-powered police search tool, and how tech bros don\u2019t know how to talk about \u201crouge\u201d AI agents",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Market",
+        "Betting",
+        "Getting",
+        "People",
+        "Banned",
+        "Arrested"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Wired"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Startup ARR is less secure than ever, new research shows",
       "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
@@ -9692,8 +9800,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -12354,8 +12462,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
+      "trending": true,
+      "trend_score": 8.6,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -12364,8 +12472,8 @@
         "TechCrunch",
         "Verge"
       ],
-      "trend_accel": "+76%",
-      "heat_level": "CRITICAL"
+      "trend_accel": "+73%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
@@ -13037,93 +13145,25 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
-      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "source": "TechCrunch",
-      "timestamp": "2026-08-30T16:54:25+00:00",
-      "score": 10,
-      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else \u2014 but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
-      "link": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
-      "source": "Verge",
-      "timestamp": "2026-08-30T12:36:39-04:00",
+      "title": "Excavation work on Trump\u2019s towering, gilded arch to begin over next two weeks",
+      "link": "https://www.theguardian.com/us-news/2026/sep/03/trump-arch-washington-excavation-work",
+      "source": "Guardian",
+      "timestamp": "2026-09-03T21:49:51+00:00",
       "score": 12,
-      "summary": "After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. From this vantage point, Roman wi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "summary": "Project that critics say will disrupt historic sightlines in Washington DC is facing a lawsuitThe Trump administration said on Thursday that excavation work will start over the next two weeks on the site where it plans to build a towering, gilded arch, a project that is facing...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Nancy",
-        "Grace",
-        "Roman",
-        "Space",
-        "Telescope"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Google Maps Now Shows \u2018Lake America\u2019 Instead of Lake Ontario",
-      "link": "https://www.wired.com/story/google-maps-now-shows-lake-america-instead-of-lake-ontario/",
-      "source": "Wired",
-      "timestamp": "2026-08-30T16:16:24+00:00",
-      "score": 12,
-      "summary": "After Donald Trump\u2019s executive order demanding the name change, Google is the first major online maps provider to flip the switch.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Maps",
-        "Now",
-        "Shows",
-        "Lake",
-        "America",
-        "Instead",
-        "Ontario"
+        "Trumps"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13134,13 +13174,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Wired"
+        "Guardian"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "News live: Two more Australians confirmed safe in Nepal-Tibet floods; Hanson to make cost of living \u2018worse\u2019, union boss warns",
       "link": "https://www.theguardian.com/australia-news/live/2026/sep/04/anthony-albanese-pauline-hanson-actu-union-labor-one-nation-coalition-angus-taylor-ntwnfb",
@@ -19706,26 +19744,26 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Trump administration backs OpenAI in New York Times\u2019 copyright case over training of chatbots",
-      "link": "https://www.thehindu.com/news/international/trump-administration-backs-openai-in-new-york-times-copyright-case-over-training-of-chatbots/article71422156.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-03T07:19:22+05:30",
-      "score": 14,
-      "summary": "The Justice Department wrote that \u201cthe creative possibilities and public benefits\u201d of training large language models on such content \u201cfar outweigh any competitive harm\u201d",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Victoria\u2019s Secret sees strong sales for bras and Pink line, but not enough to satisfy investors",
+      "link": "https://www.marketwatch.com/story/victorias-secret-sees-strong-bras-and-pink-sales-but-not-enough-to-satisfy-investors-48bfe36c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-09-03T21:52:00+00:00",
+      "score": 12,
+      "summary": "The company delivered sales near the high end of its forecasted range, but Wall Street was expecting more, and the stock had its worst day in more than a year.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "OpenAI",
-        "New",
-        "York",
-        "Times"
+        "Secret",
+        "Pink"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19736,13 +19774,43 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "MarketWatch"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+58%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Oura files for IPO amid Americans\u2019 obsession with tracking their sleep, steps and heart rates",
+      "link": "https://www.marketwatch.com/story/oura-files-for-ipo-amid-americans-obsession-with-tracking-their-sleep-steps-and-heart-rates-093f85c4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-09-03T21:49:00+00:00",
+      "score": 12,
+      "summary": "The offering is part of a trend that pairs wearable technology with \u2018preventative healthcare\u2019",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "IPO",
+        "Americans"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
       "link": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
@@ -26249,25 +26317,25 @@
       ],
       "trend_accel": "+54%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Charts show Spotify shares could soon break out, Frank Cappelleri says",
-      "link": "https://www.cnbc.com/2026/09/02/charts-show-spotify-shares-could-soon-break-out-frank-cappelleri-says.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-02T17:09:13+00:00",
-      "score": 12,
-      "summary": "The founder of CappThesis breaks down what's going on with the audio streaming giant.",
+      "title": "The Arctic melt season is a week longer now than it was in the 1980s, new research on sea ice trends shows",
+      "link": "https://phys.org/news/2026-09-arctic-season-week-longer-1980s.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-03T18:00:06-04:00",
+      "score": 15,
+      "summary": "Relatively few people have been to the Arctic, and even fewer have set foot in Antarctica. Most people rely on imagination and the media to visualize these landscapes and the ways they are changing.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Spotify",
-        "Frank",
-        "Cappelleri"
+        "Arctic"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26278,29 +26346,26 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
     {
-      "title": "G20 live updates: OpenAI's Altman makes his case for countries to adopt AI",
-      "link": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-02T17:00:34+00:00",
-      "score": 17,
-      "summary": "Follow Day 2 of the G20 Innovation Ministerial in Chapel Hill, North Carolina, with Jensen Huang, Sam Altman, and ministers discussing AI, policy and trade.",
+      "title": "Microbes\u2014dead or alive\u2014can be early indicators of soil health under regenerative farming",
+      "link": "https://phys.org/news/2026-09-microbes-dead-alive-early-indicators.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-03T17:50:01-04:00",
+      "score": 10,
+      "summary": "Researchers have demonstrated a series of biological tests that could serve as \"proxies\" for measuring how different regenerative agriculture practices could improve soil carbon\u2014years before it would be possible to measure the carbon directly. The technique offers new insights...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "OpenAIs",
-        "Altman"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26308,15 +26373,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Even second graders can reason like scientists\u2014if we ask them the right way",
       "link": "https://phys.org/news/2026-09-graders-scientists.html",
@@ -32315,64 +32378,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Remote work offers flexibility, but at the cost of learning opportunities for young workers",
-      "link": "https://phys.org/news/2026-09-remote-flexibility-opportunities-young-workers.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-01T14:20:02-04:00",
-      "score": 10,
-      "summary": "Six years after the COVID-19 pandemic accelerated the shift to remote work, hybrid and remote arrangements have become an established part of the labor market. About one in five Canadians now works remotely some or all of the time.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Diatom sequencing project finds striking genetic differences among microscopic algae",
-      "link": "https://phys.org/news/2026-08-diatom-sequencing-genetic-differences-microscopic.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-01T14:00:09-04:00",
-      "score": 10,
-      "summary": "An international team of more than 100 scientists has taken a major step toward unlocking the secrets of some of Earth's tiniest but most important organisms.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33600,6 +33605,137 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Heated Rivalry\u2019 Author Rachel Reid Has Advice For Studios Circling Romance Adaptations, Teases \u2018Unrivaled\u2019 & Celebrates Harlequin Take Over At Fenway Park",
+      "link": "https://deadline.com/2026/09/heated-rivalry-author-rachel-reid-interview-teases-unrivaled-1237067327/",
+      "source": "Deadline",
+      "timestamp": "2026-09-03T22:00:00+00:00",
+      "score": 12,
+      "summary": "There was something wonderfully surreal about walking through Fenway Park on Aug. 31 and finding it overtaken by the world of Heated Rivalry. The home of the Boston Red Sox was transformed into a fan-centric celebration of Rachel Reid\u2019s bestselling queer hockey romance series,...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Rivalry",
+        "Author",
+        "Rachel",
+        "Reid",
+        "Has",
+        "Advice",
+        "Studios",
+        "Circling",
+        "Romance",
+        "Adaptations",
+        "Teases",
+        "Unrivaled",
+        "Celebrates",
+        "Harlequin",
+        "Take",
+        "Over",
+        "Fenway",
+        "Park"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Jane Fonda on Paramount-Warner Bros. Merger, Trump and Tech Bros\u2019 Desire for Longevity \u2018While They\u2019re Killing the Rest of Us\u2019",
+      "link": "https://variety.com/2026/film/global/jane-fonda-paramount-warner-bros-trump-tech-bros-longevity-1236850300/",
+      "source": "Variety",
+      "timestamp": "2026-09-03T22:00:00+00:00",
+      "score": 14,
+      "summary": "A feisty Jane Fonda on Thursday spoke out about her opposition to the Paramount-Warner Bros. merger, her aversion to Donald Trump, and the eerie desire that \u201ctech bros, oligarchs and billionaires\u201d have for longevity, \u201cwhile they\u2019re killing the rest of us,\u201d as she put it. Fonda...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Fonda",
+        "ParamountWarner",
+        "Bros",
+        "Merger",
+        "Trump",
+        "Tech",
+        "Desire",
+        "Longevity",
+        "While",
+        "Theyre",
+        "Killing",
+        "Rest"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Limited Time Offer\u2019 Competition Series Set At ABC From Eric Wattenberg & Gary Vaynerchuk\u2019s VaynerWatt",
+      "link": "https://deadline.com/2026/09/limited-time-offer-competition-series-abc-1237067471/",
+      "source": "Deadline",
+      "timestamp": "2026-09-03T21:56:00+00:00",
+      "score": 12,
+      "summary": "EXCLUSIVE: ABC is adding to its unscripted lineup. The Disney-owned network has greenlit competition series Limited Time Offer from VaynerWatt, the production company founded by marketing mogul Gary Vaynerchuk and former CAA agent Eric Wattenberg. The series is an arched compe...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Time",
+        "Offer",
+        "Competition",
+        "Series",
+        "Set",
+        "ABC",
+        "Eric",
+        "Wattenberg",
+        "Gary",
+        "Vaynerchuks",
+        "VaynerWatt"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "The Jay-Z\u2013Colin Kaepernick Rift Gets Personal as Ex-NFL Star Says Rapper Feels Guilty Over NFL Deal",
       "link": "https://www.hollywoodreporter.com/news/general-news/the-jay-z-colin-kaepernick-feels-guilty-nfl-deal-1236690192/",
@@ -34831,7 +34967,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 15,
       "sources_reporting": [
         "AP",
@@ -41532,120 +41668,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Cassandra Wilson Dead: Grammy-Winning Jazz Musician Was 70",
-      "link": "https://deadline.com/2026/09/cassandra-wilson-dead-1237066244/",
-      "source": "Deadline",
-      "timestamp": "2026-09-02T22:55:11+00:00",
-      "score": 15,
-      "summary": "Cassandra Wilson, the 2x Grammy-winning jazz musician, has died. She was 70. The singer/songwriter died on Wednesday in her native Jackson, Mississippi, where Hinds County coroner Jeramiah Howard confirmed her death to The New York Times. A cause of death was not immediately r...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Wilson",
-        "Dead",
-        "GrammyWinning",
-        "Jazz",
-        "Musician",
-        "Was"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 19,
-      "sources_reporting": [
-        "Deadline",
-        "Rolling Stone",
-        "Variety"
-      ],
-      "trend_accel": "+78%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Lawyer for Wheel of Fortune\u2019s Jim Thornton Speaks Out After Suspension",
-      "link": "https://www.eonline.com/news/1435690/jim-thornton-wheel-of-fortune-announcer-suspended-lawyer-speaks-out?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-09-02T22:28:19+00:00",
-      "score": 12,
-      "summary": "Jim Thornton is attempting to clear his name. After Wheel of Fortune announced that its longtime announcer was suspended from the ABC game show following undisclosed allegations, his lawyer spoke...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Wheel",
-        "Fortunes",
-        "Jim",
-        "Thornton",
-        "Speaks",
-        "Out",
-        "After",
-        "Suspension"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "OneSkin\u2019s Big Labor Day Sale Includes Jennifer Aniston-Approved Picks",
-      "link": "https://www.eonline.com/news/1435681/oneskins-big-labor-day-sale-includes-jennifer-aniston-approved-skincare?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-09-02T22:25:00+00:00",
-      "score": 12,
-      "summary": "Jennifer Aniston has admitted she\u2019s easily influenced by skincare ads\u2014and that\u2019s actually how she discovered OneSkin. Now, shoppers can take advantage of OneSkin\u2019s big Labor Day sale, with deals...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Big",
-        "Labor",
-        "Day",
-        "Sale",
-        "Includes",
-        "Jennifer",
-        "AnistonApproved",
-        "Picks"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45024,6 +45046,69 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 5 km SE of Ontario, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541488",
+      "source": "USGS",
+      "timestamp": "2026-09-03T21:55:34.033000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-03 21:40:42 UTC2026-09-03 21:40:42 UTC at epicenterLocation34.022\u00b0N 117.588\u00b0WDepth4.31 km (2.68 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ontario"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+63%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.9 - 98 km W of Gorontalo, Indonesia",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te55",
+      "source": "USGS",
+      "timestamp": "2026-09-03T21:54:42.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-03 21:05:15 UTC2026-09-03 21:05:15 UTC at epicenterLocation0.526\u00b0N 122.178\u00b0EDepth111.18 km (69.08 mi)",
+      "country": "Indonesia",
+      "region": "Southeast Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Gorontalo",
+        "Indonesia"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
       "heat_level": "LOW"
     },
     {
@@ -51444,75 +51529,6 @@
         "Google News"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.4 - 55 km NW of Skwentna, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rkkmbq",
-      "source": "USGS",
-      "timestamp": "2026-09-02T22:34:35.838000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-02 22:33:18 UTC2026-09-02 22:33:18 UTC at epicenterLocation62.361\u00b0N 152.110\u00b0WDepth21.00 km (13.05 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Skwentna",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Weather Alerts for: Vaughan - Richmond Hill - Markham - Environment Canada",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJTDhJc08wZkdTLUk5M1RaMl9QUk1ZVWZvWEpJSW5RaXc4U2ZvUGdXay1qZVZ3c0FVQUZHNWluWkRBUjMwYWVVNGtBQi1LZVRzV3lseWdCSDBPNWk2MEx3UXJB?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-02T22:27:58+00:00",
-      "score": 12,
-      "summary": "Weather Alerts for: Vaughan - Richmond Hill - Markham Environment Canada",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Alerts",
-        "Vaughan",
-        "Richmond",
-        "Hill",
-        "Markham",
-        "Environment",
-        "Canada"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
