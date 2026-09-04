@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "WATCH: Trump calls Iran war 'small potatoes' and 'very intermittent'",
+      "link": "https://www.pbs.org/newshour/world/watch-trump-calls-iran-war-small-potatoes-and-very-intermittent",
+      "source": "PBS",
+      "timestamp": "2026-09-04T17:18:55-04:00",
+      "score": 12,
+      "summary": "President Donald Trump said Friday that he calls the Iran war a \"military conflict\" because he thinks it's \"small potatoes\" for the United States.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "'Hidden tribunals:' Immigration court due process in tumult with new locations",
       "link": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
       "source": "NPR",
@@ -1278,7 +1310,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.8,
+      "trend_score": 8.7,
       "source_count": 14,
       "sources_reporting": [
         "Bloomberg",
@@ -1287,7 +1319,7 @@
         "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+72%",
+      "trend_accel": "+71%",
       "heat_level": "SURGING"
     },
     {
@@ -6536,24 +6568,24 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Fed governor Waller muddies outlook on possible rate hike later this month",
-      "link": "https://www.pbs.org/newshour/economy/fed-governor-waller-muddies-outlook-on-possible-rate-hike-later-this-month",
-      "source": "PBS",
-      "timestamp": "2026-09-03T20:08:19-04:00",
-      "score": 12,
-      "summary": "Federal Reserve governor Christopher Waller said Thursday that an inflation report next week will largely determine whether he supports an interest rate hike later this month or not.",
+      "title": "Audacity 4 is a complete revamp of the \u2018world\u2019s most popular\u2019 audio editor",
+      "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+      "source": "Verge",
+      "timestamp": "2026-09-04T17:23:50-04:00",
+      "score": 13,
+      "summary": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulating last October. But more im...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Waller"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6561,15 +6593,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "PBS"
+        "Verge"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
@@ -13051,24 +13081,33 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "The Google TV Streamer now costs $50 more",
-      "link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
-      "source": "Verge",
-      "timestamp": "2026-08-31T18:32:51-04:00",
-      "score": 15,
-      "summary": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a couple of weeks after Google l...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic",
+      "link": "https://www.nytimes.com/2026/09/03/world/europe/norway-russian-research-ship-arctic.html",
+      "source": "NYT",
+      "timestamp": "2026-09-04T21:22:29+00:00",
+      "score": 12,
+      "summary": "Empowered by an international court order, Norway captured the vessel as part of a global effort to seize Russian assets. The Russians called it \u201cpiracy.\u201d",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Google",
-        "Streamer"
+        "Seizes",
+        "Russian",
+        "Ship",
+        "Testing",
+        "Moscow",
+        "High",
+        "Arctic"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13077,15 +13116,44 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "Verge"
+        "NYT"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Just like an Italian piazza, this community garden has grown a community",
+      "link": "https://www.abc.net.au/news/2026-09-05/highbury-community-garden-celebrates-30-years/107111722",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-04T21:18:29+00:00",
+      "score": 12,
+      "summary": "The founder behind an community garden in suburban Adelaide is celebrating a legacy that has grown far beyond the garden beds.",
+      "country": "Italy",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Italian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Sabalenka interrupts US Open match over cannabis smell",
       "link": "https://www.abc.net.au/news/2026-09-05/us-open-tennis-aryna-sabalenka-cannabis-smell-new-york/107119676",
@@ -19652,67 +19720,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Tunisia court upholds prison sentences of up to 45 years for opposition figures",
-      "link": "https://www.france24.com/en/africa/20260903-tunisia-court-upholds-prison-sentences-of-up-to-45-years-for-opposition-figures",
-      "source": "France24",
-      "timestamp": "2026-09-03T22:17:25+00:00",
-      "score": 13,
-      "summary": "Tunisia's top court on Thursday upheld prison sentences of up to 45 years for opposition leaders, lawyers and businessmen convicted in a major conspiracy case, in a ruling opponents said further entrenches President Kais Saied's authoritarian rule.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "US charges ICE agent with lying about shooting of Venezuelan immigrant",
-      "link": "https://www.ft.com/content/1fed215c-49a6-4ac2-91ee-221972e0a10a?syn-25a6b1a6=1",
-      "source": "FT",
-      "timestamp": "2026-09-03T22:16:13+00:00",
-      "score": 12,
-      "summary": "Officer charged with false statements over circumstances of shooting that fuelled uprising in Minnesota early this year",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ICE",
-        "Venezuelan"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "FT"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -26265,6 +26272,35 @@
   ],
   "Science": [
     {
+      "title": "Magic-angle graphene provides evidence for unconventional superconductivity",
+      "link": "https://phys.org/news/2026-09-magic-angle-graphene-evidence-unconventional.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-04T17:20:03-04:00",
+      "score": 10,
+      "summary": "Researchers have completely suppressed superconductivity in magic-angle graphene by screening interactions between electrons, helping resolve a long-running debate about the origin of the phenomenon.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "New AI tool maps the hidden universe of small molecules",
       "link": "https://phys.org/news/2026-09-ai-tool-hidden-universe-small.html",
       "source": "Phys.org",
@@ -32305,35 +32341,6 @@
       ],
       "trend_accel": "+67%",
       "heat_level": "SURGING"
-    },
-    {
-      "title": "Health record analysis of one million cattle identifies early prevention as key to reducing feedlot respiratory deaths",
-      "link": "https://phys.org/news/2026-09-health-analysis-million-cattle-early.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-02T11:40:08-04:00",
-      "score": 10,
-      "summary": "New research involving more than 1 million Australian feedlot cattle has found that the strongest predictors of death from bovine respiratory disease (BRD) are established before animals even enter the feedlot, highlighting the importance of preventive measures on source prope...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33690,6 +33697,127 @@
   ],
   "Entertainment": [
     {
+      "title": "Nicolas Cage\u2019s \u2018Spider-Noir\u2019 Canceled by Prime Video After One Season",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/nicolas-cage-spider-noir-canceled-prime-video-1236691236/",
+      "source": "THR",
+      "timestamp": "2026-09-04T21:27:05+00:00",
+      "score": 12,
+      "summary": "The series received 11 Emmy nominations.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cages",
+        "SpiderNoir",
+        "Canceled",
+        "Prime",
+        "Video",
+        "After",
+        "One",
+        "Season"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.3,
+      "source_count": 13,
+      "sources_reporting": [
+        "AP",
+        "Bloomberg",
+        "Deadline",
+        "PBS",
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+84%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "17 Best Movies New to Streaming in September: \u2018Toy Story 5,\u2019 \u2018Backrooms,\u2019 \u2019Scary Movie 6,\u2019 \u2019The Mandalorian and Grogu\u2019",
+      "link": "https://variety.com/lists/best-movies-streaming-september-2026/",
+      "source": "Variety",
+      "timestamp": "2026-09-04T21:20:00+00:00",
+      "score": 15,
+      "summary": "Labor Day Weekend brings to a close the summer movie season, which became one of the biggest on record thanks to the mega-blockbusters \u201cThe Odyssey\u201d and \u201cSpider-Man: Brand New Day.\u201d But the season is just getting started on streaming platforms as some of the summer\u2019s buzziest ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Best",
+        "Movies",
+        "New",
+        "Streaming",
+        "September",
+        "Toy",
+        "Story",
+        "Backrooms",
+        "Scary",
+        "Movie",
+        "Mandalorian",
+        "Grogu"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Wheel of Fortune\u2019 Announcer Jim Thornton Fired",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/jim-thornton-fired-wheel-of-fortune-1236691232/",
+      "source": "THR",
+      "timestamp": "2026-09-04T21:16:02+00:00",
+      "score": 12,
+      "summary": "Thornton was suspended from the series on Tuesday, when an investigation into unspecified allegations was launched.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Fortune",
+        "Announcer",
+        "Jim",
+        "Thornton",
+        "Fired"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 9,
+      "sources_reporting": [
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+69%",
+      "heat_level": "HOT"
+    },
+    {
       "title": "Blue Fox Launches TIFF Sales On Tubi YA Movies Starring Brec Bassinger, Charlie Gillespie, Sky Katz & Case Walker",
       "link": "https://deadline.com/2026/09/brec-bassinger-charlie-gillespie-sky-katz-tubi-films-sales-1237068540/",
       "source": "Deadline",
@@ -33914,14 +34042,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 11.3,
+      "source_count": 15,
       "sources_reporting": [
+        "BBC",
+        "Deadline",
+        "NPR",
+        "PBS",
+        "THR",
         "Variety"
       ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
+      "trend_accel": "+84%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "\u2018Practical Magic\u2019s Alexandra Artrip Responds To \u201cNegativity\u201d Around Sequel Recasting: \u201cGive It A Shot\u201d",
@@ -37058,8 +37191,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "Deadline",
@@ -37212,8 +37345,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "Bloomberg",
@@ -41760,121 +41893,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Winnie the Pooh Celebrates 100 Years With $500 Cashmere Sweaters",
-      "link": "https://variety.com/2026/shopping/news/disney-winnie-the-pooh-redone-collection-shop-online-1236850931/",
-      "source": "Variety",
-      "timestamp": "2026-09-03T20:44:37+00:00",
-      "score": 15,
-      "summary": "Winnie the Pooh is turning 100, and the Hundred Acre Wood is getting a high-fashion makeover to celebrate. Los Angeles-based fashion brand Re/Done has teamed with Disney on a four-piece Winnie the Pooh capsule collection, arriving Sept. 3 as part of the yearlong celebration ma...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pooh",
-        "Celebrates",
-        "Years",
-        "Cashmere",
-        "Sweaters"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Dark Comedy \u2018Down to Die\u2019 Marks Actress Marta Pozzan Directorial Debut (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/columns/dark-comedy-down-to-die-marks-marta-pozzan-director-1236850677/",
-      "source": "Variety",
-      "timestamp": "2026-09-03T20:42:30+00:00",
-      "score": 12,
-      "summary": "Actress and producer Marta Pozzan will make her directorial debut with the dark comedy short \u201cDown to Die.\u201d The film follows two friends, Maria (Pozzan) and Gabriel (Andrew Matarazzo), whose seemingly ordinary afternoon at an exclusive members-only club in East Los Angeles Eas...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Comedy",
-        "Down",
-        "Die",
-        "Marks",
-        "Actress",
-        "Marta",
-        "Pozzan",
-        "Directorial",
-        "Debut",
-        "EXCLUSIVE"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Energy Shots Over Vodka Shots: 5-Hour Energy Makes Moves Into Mocktail Market",
-      "link": "https://www.hollywoodreporter.com/lifestyle/shopping/5-hour-energy-shot-mocktail-trend-ingredients-drink-recipes-1236688968/",
-      "source": "THR",
-      "timestamp": "2026-09-03T20:38:54+00:00",
-      "score": 17,
-      "summary": "5-Hour Energy is introducing a series of original drink creations designed to provide the same \u201cbuzz\u201d of alcohol \u2013 minus the hangover.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Shots",
-        "Over",
-        "Vodka",
-        "Hour",
-        "Energy",
-        "Makes",
-        "Moves",
-        "Into",
-        "Mocktail",
-        "Market"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45615,6 +45633,71 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.9 - 31 km NW of Toyah, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rleksd",
+      "source": "USGS",
+      "timestamp": "2026-09-04T21:24:56.952000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-04 21:00:33 UTC2026-09-04 21:00:33 UTC at epicenterLocation31.534\u00b0N 104.003\u00b0WDepth6.56 km (4.08 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Toyah",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.2 - 65 km ESE of Cantwell, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rnzxxw",
+      "source": "USGS",
+      "timestamp": "2026-09-04T21:19:50.471000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-04 21:15:42 UTC2026-09-04 21:15:42 UTC at epicenterLocation63.176\u00b0N 147.735\u00b0WDepth0.30 km (0.19 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Cantwell",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
       "heat_level": "LOW"
     },
     {
@@ -52005,72 +52088,6 @@
       ],
       "severity_score": 3,
       "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 8 km ESE of Mammoth Lakes, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429307",
-      "source": "USGS",
-      "timestamp": "2026-09-03T19:07:01.172000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-03 19:05:23 UTC2026-09-03 19:05:23 UTC at epicenterLocation37.613\u00b0N 118.896\u00b0WDepth3.12 km (1.94 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Mammoth",
-        "Lakes"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.3 - 104 km SSW of Nikolski, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2m",
-      "source": "USGS",
-      "timestamp": "2026-09-03T19:05:51.608000+00:00",
-      "score": 15,
-      "summary": "ShakeMap - IIITime2026-09-03 18:45:39 UTC2026-09-03 18:45:39 UTC at epicenterLocation52.030\u00b0N 169.222\u00b0WDepth10.00 km (6.21 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Nikolski",
-        "Alaska"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
       "mode": "strategic",
       "language": "en",
       "breaking": false,
