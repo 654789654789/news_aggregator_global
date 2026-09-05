@@ -3464,7 +3464,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.6,
+      "trend_score": 8.5,
       "source_count": 14,
       "sources_reporting": [
         "Bloomberg",
@@ -3473,7 +3473,7 @@
         "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+71%",
+      "trend_accel": "+70%",
       "heat_level": "SURGING"
     },
     {
@@ -13166,6 +13166,40 @@
   ],
   "World": [
     {
+      "title": "Trump envoys arrive in Moscow ahead of Ukraine talks, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-05T10:34:08+00:00",
+      "score": 14,
+      "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Moscow",
+        "Ukraine"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "U.S. Ambassador calls for \u2018severe consequences\u2019 to stop West Bank violence",
       "link": "https://www.thehindu.com/news/international/us-ambassador-calls-for-severe-consequences-to-stop-west-bank-violence/article71431595.ece",
       "source": "The Hindu",
@@ -19811,23 +19845,31 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-09-04T06:52:29+00:00",
+      "title": "U.S. envoys Witkoff and Kushner are in Moscow in a new push for peace between Russia and Ukraine",
+      "link": "https://www.cnbc.com/2026/09/05/witkoff-kushner-moscow-russia-ukraine.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-05T10:40:44+00:00",
       "score": 14,
-      "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-      "country": "Argentina",
-      "region": "Americas",
+      "summary": "Trump's push to end the fighting, now in its fifth year, has lost momentum as U.S. attention has been focused for the last six months on its war with Iran.",
+      "country": "Ukraine",
+      "region": "Europe",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Falklands"
+        "Witkoff",
+        "Kushner",
+        "Moscow",
+        "Russia",
+        "Ukraine"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19836,15 +19878,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "BBC"
+        "CNBC"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
       "link": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
@@ -26341,35 +26381,26 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Schools Giving Aid to Minority Students Could Lose Tax Exemptions Under Trump\u2019s New Rules",
-      "link": "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html",
-      "source": "NYT",
-      "timestamp": "2026-09-03T16:36:06+00:00",
-      "score": 14,
-      "summary": "The Treasury Department released rules that would prevent schools with race-based programs from qualifying for tax-exempt status, a threat to both higher education and other private schools.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
+      "title": "Indonesia rescues second orangutan mother and baby from wildfire",
+      "link": "https://phys.org/news/2026-09-indonesia-orangutan-mother-baby-wildfire.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-05T06:40:01-04:00",
+      "score": 10,
+      "summary": "An orangutan mother and her baby, threatened by wildfires encroaching on their habitat in Indonesia, were rescued earlier this week, authorities said in a statement Saturday.",
+      "country": "Indonesia",
+      "region": "Southeast Asia",
+      "source_type": "Science Publication",
       "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Giving",
-        "Aid",
-        "Minority",
-        "Students",
-        "Could",
-        "Lose",
-        "Tax",
-        "Exemptions",
-        "Under",
-        "Trumps",
-        "New",
-        "Rules"
+      "topic_tags": [
+        "Climatic"
       ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26377,15 +26408,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "NYT"
+        "Phys.org"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Spacecraft bound for Mercury begins 'tricky' arrival",
       "link": "https://phys.org/news/2026-09-spacecraft-bound-mercury-tricky.html",
@@ -32436,35 +32465,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Belonging, atmosphere key to attracting event-goers",
-      "link": "https://phys.org/news/2026-09-atmosphere-key-event-goers.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-02T14:40:02-04:00",
-      "score": 10,
-      "summary": "Venues that become entwined in the cultural fabric of a community can be as enticing as the events they hold, according to University of the Sunshine Coast research.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33749,6 +33749,51 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Everest: The Other Side\u2019 Review: The \u2018Free Solo\u2019 Directors Return With Another Extreme Sports Doc, This Time Tainted by Tragedy",
+      "link": "https://variety.com/2026/film/reviews/everest-the-other-side-review-1236852376/",
+      "source": "Variety",
+      "timestamp": "2026-09-05T10:35:43+00:00",
+      "score": 14,
+      "summary": "\u201cBecause it\u2019s there\u201d is the famous, possibly apocryphal, reply attributed to British mountaineer George Mallory when asked why he wanted to climb Mount Everest. Unlike present-day climber Jim Morrison, Mallory didn\u2019t also want to ski down it. But doesn\u2019t the same non-answer ap...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Other",
+        "Side",
+        "Review",
+        "Free",
+        "Solo",
+        "Directors",
+        "Return",
+        "Another",
+        "Extreme",
+        "Sports",
+        "Doc",
+        "This",
+        "Time",
+        "Tainted",
+        "Tragedy"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Miley Returns Without the Cyrus, and 8 Other Songs to Hear Now",
       "link": "https://www.nytimes.com/2026/09/05/arts/music/miley-cyrus-underscores-dahi-new-music.html",
@@ -41954,35 +41999,34 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "C\u00e9dric Kahn on Immersing Himself in an Adolescent Psychiatric Ward for His Venice Competition Film \u2018A Place to Heal\u2019 (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/global/cedric-kahn-venice-a-place-to-heal-interview-1236850060/",
-      "source": "Variety",
-      "timestamp": "2026-09-04T05:10:00+00:00",
+      "title": "Mariacarla Boscono on Wearing Chanel to Venice Film Festival: \u201cI Feel Like Matthieu\u2019s Princess\u201d",
+      "link": "https://www.vogue.com/article/mariacarla-boscono-chanel-venice-film-festival-2026",
+      "source": "Vogue",
+      "timestamp": "2026-09-05T10:39:35+00:00",
       "score": 12,
-      "summary": "Actor-turned-filmmaker C\u00e9dric Kahn has been wanting to make a movie about psychiatry for years. But when he finally found his way into the subject with \u201cA Place to Heal,\u201d he decided to turn away from doctors and diagnoses and put teenagers \u2014 and their startling capacity for re...",
+      "summary": "Supermodel Mariacarla Boscono marked her fifth time on the lido wearing the newspaper print gown from the Chanel resort 2027 collection.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Entertainment",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Kahn",
-        "Immersing",
-        "Himself",
-        "Adolescent",
-        "Psychiatric",
-        "Ward",
-        "His",
+        "Boscono",
+        "Wearing",
+        "Chanel",
         "Venice",
-        "Competition",
         "Film",
-        "Place",
-        "Heal",
-        "EXCLUSIVE"
+        "Festival",
+        "Feel",
+        "Like",
+        "Matthieus",
+        "Princess"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -41991,15 +42035,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "Variety"
+        "Vogue"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
+    },
     {
       "title": "Craftpreneur 2026 brings 20 Indian craft brands to Chennai after a six-year break",
       "link": "https://www.thehindu.com/life-and-style/fashion/craftpreneur-2026-brings-20-indian-craft-brands-to-chennai-after-a-six-year-break/article71418609.ece",
@@ -45706,6 +45748,102 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 2.7 - 4 km NE of Temecula, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541848",
+      "source": "USGS",
+      "timestamp": "2026-09-05T10:42:09.720000+00:00",
+      "score": 15,
+      "summary": "DYFI? - IIITime2026-09-05 10:31:43 UTC2026-09-05 10:31:43 UTC at epicenterLocation33.515\u00b0N 117.114\u00b0WDepth10.41 km (6.47 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Temecula"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.2 - 21 km N of Yucca Valley, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541856",
+      "source": "USGS",
+      "timestamp": "2026-09-05T10:41:14.011000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-05 10:37:43 UTC2026-09-05 10:37:43 UTC at epicenterLocation34.299\u00b0N 116.439\u00b0WDepth8.55 km (5.31 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Yucca",
+        "Valley"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 15 km NNW of Toyah, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rmffmn",
+      "source": "USGS",
+      "timestamp": "2026-09-05T10:31:10.019000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-05 10:29:03 UTC2026-09-05 10:29:03 UTC at epicenterLocation31.452\u00b0N 103.841\u00b0WDepth0.00 km (0.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Toyah",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 2.6 - 64 km ESE of Cantwell, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpaefz",
@@ -52113,102 +52251,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.6 - 41 km NW of Toyah, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rjykqs",
-      "source": "USGS",
-      "timestamp": "2026-09-04T05:00:24.936000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-04 04:54:54 UTC2026-09-04 04:54:54 UTC at epicenterLocation31.527\u00b0N 104.159\u00b0WDepth4.30 km (2.67 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Toyah",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 21 km SE of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029057",
-      "source": "USGS",
-      "timestamp": "2026-09-04T04:58:30.380000+00:00",
-      "score": 17,
-      "summary": "Time2026-09-04 04:54:58 UTC2026-09-04 04:54:58 UTC at epicenterLocation19.045\u00b0N 155.355\u00b0WDepth27.58 km (17.14 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.1 - 40 km NW of Toyah, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rjxsxm",
-      "source": "USGS",
-      "timestamp": "2026-09-04T04:54:20.593000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-04 04:35:25 UTC2026-09-04 04:35:25 UTC at epicenterLocation31.542\u00b0N 104.129\u00b0WDepth8.51 km (5.29 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Toyah",
-        "Texas"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ]
