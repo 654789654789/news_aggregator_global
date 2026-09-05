@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "Auto fare likely to go up in Telangana; Transport Dept proposes increase in minimum fares",
+      "link": "https://www.thehindu.com/news/national/telangana/auto-fare-likely-to-go-up-in-telangana/article71431591.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-05T16:21:50+05:30",
+      "score": 12,
+      "summary": "The existing fares remains unchanged for 12 years",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Telangana",
+        "Transport",
+        "Dept"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Couple along with two children attempt to end their lives, wife rescued",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/couple-along-with-two-children-attempt-to-end-their-lives-wife-rescued/article71431495.ece",
       "source": "The Hindu",
@@ -1934,7 +1967,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.3,
+      "trend_score": 8.2,
       "source_count": 12,
       "sources_reporting": [
         "NPR",
@@ -6615,29 +6648,24 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Tamil Nadu Finance Minister N. Marie Wilson receives charge sheet in assault case from Puducherry court",
-      "link": "https://www.thehindu.com/news/cities/puducherry/tamil-nadu-finance-minister-n-marie-wilson-receives-charge-sheet-in-assault-case-from-puducherry-court/article71427663.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-04T15:55:30+05:30",
+      "title": "Robotaxis enter their villain era",
+      "link": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+      "source": "Verge",
+      "timestamp": "2026-09-05T07:00:00-04:00",
       "score": 12,
-      "summary": "The court had previously directed the Minister to appear \u201cin person without fail\u201d to receive the charge sheet",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says something about the present ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Nadu",
-        "Finance",
-        "Minister",
-        "Marie",
-        "Wilson",
-        "Puducherry"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6645,15 +6673,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -13131,23 +13157,25 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
-      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-01T00:13:00+00:00",
-      "score": 9,
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "2,000 cases of suspected food poisoning from Indonesia's free school meals",
+      "link": "https://www.abc.net.au/news/2026-09-05/indonesia-prabowo-free-school-meals-food-poisoning-outbreak/107120472",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-05T10:47:54+00:00",
+      "score": 15,
+      "summary": "The outbreaks are the latest setback for the program, which has been rolled out across the archipelago despite repeated food poisoning incidents and corruption allegations.",
+      "country": "Indonesia",
+      "region": "Southeast Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
-      "headline_quality": 9.0,
+      "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "OpenAI"
+        "Indonesias"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13158,13 +13186,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Trump envoys arrive in Moscow ahead of Ukraine talks, reports say",
       "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
@@ -19814,37 +19840,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Former Monash lecturer pleads guilty to possessing child abuse material",
-      "link": "https://www.abc.net.au/news/2026-09-04/former-monash-university-lecturer-child-abuse-material/107117212",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-04T07:04:06+00:00",
-      "score": 12,
-      "summary": "Alan Boulton was charged after allegedly inadvertently showing child abuse images to university students in February this year.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Monash"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -26385,6 +26380,38 @@
   ],
   "Science": [
     {
+      "title": "New method predicts where massive earthquakes will strike",
+      "link": "https://phys.org/news/2026-09-method-massive-earthquakes.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-05T07:00:04-04:00",
+      "score": 10,
+      "summary": "UC Riverside scientists have developed a way to identify where Earth's biggest earthquakes are most likely to occur, offering a powerful new tool for improving disaster preparation in some of the most dangerous seismic regions.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Seismic"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Indonesia rescues second orangutan mother and baby from wildfire",
       "link": "https://phys.org/news/2026-09-indonesia-orangutan-mother-baby-wildfire.html",
       "source": "Phys.org",
@@ -32436,35 +32463,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "AI automates the creation of custom functional materials atom by atom",
-      "link": "https://phys.org/news/2026-09-ai-automates-creation-custom-functional.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-02T14:40:06-04:00",
-      "score": 12,
-      "summary": "Imagine a construction site where the bricks are individual molecules and the \"cranes\" are microscopic needles so sharp they can feel a single atom. For decades, building at this scale was a laborious, time-consuming task where a single human error could damage the delicate to...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -36225,7 +36223,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.2,
+      "trend_score": 11.1,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -36236,7 +36234,7 @@
         "THR",
         "Variety"
       ],
-      "trend_accel": "+88%",
+      "trend_accel": "+87%",
       "heat_level": "CRITICAL"
     },
     {
@@ -45749,6 +45747,39 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 2.6 - 73 km SSW of Kaktovik, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rpbhgy",
+      "source": "USGS",
+      "timestamp": "2026-09-05T10:59:26.879000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-05 10:55:26 UTC2026-09-05 10:55:26 UTC at epicenterLocation69.494\u00b0N 144.124\u00b0WDepth7.90 km (4.91 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Kaktovik",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 2.7 - 4 km NE of Temecula, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41541848",
       "source": "USGS",
@@ -52220,37 +52251,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 1 km NE of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429502",
-      "source": "USGS",
-      "timestamp": "2026-09-04T05:07:21.468000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-04 04:38:07 UTC2026-09-04 04:38:07 UTC at epicenterLocation38.788\u00b0N 122.747\u00b0WDepth1.85 km (1.15 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
