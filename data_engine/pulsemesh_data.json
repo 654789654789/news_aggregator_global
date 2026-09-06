@@ -1741,7 +1741,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.9,
+      "trend_score": 10.8,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -13058,6 +13058,67 @@
   ],
   "World": [
     {
+      "title": "Police searching for answers after tourist vanishes in two-hour window",
+      "link": "https://www.abc.net.au/news/2026-09-07/man-missing-dominic-o-connell-edith-falls-katherine-nitmiluk/107122900",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-06T22:36:25+00:00",
+      "score": 10,
+      "summary": "Northern Territory Police are appealing for help to find a 61-year-old man who went missing from Edith Falls in Nitmiluk National Park outside Katherine on Sunday.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "UN-backed map must depict India's territory accurately: Govt",
+      "link": "https://timesofindia.indiatimes.com/india/un-backed-map-must-depict-indias-territory-accurately-govt/articleshow/133855201.cms",
+      "source": "Times of India",
+      "timestamp": "2026-09-07T04:04:02+05:30",
+      "score": 12,
+      "summary": "'Not specific map', P 9",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Indias",
+        "Govt"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Forehand rocket shows Carlos Alcaraz back to 'full power' in US Open win",
       "link": "https://www.abc.net.au/news/2026-09-07/carlos-alcaraz-dominates-tommy-paul-at-us-open/107122800",
       "source": "ABC Australia",
@@ -14519,7 +14580,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.7,
+      "trend_score": 11.6,
       "source_count": 16,
       "sources_reporting": [
         "ABC Australia",
@@ -19691,54 +19752,33 @@
       ],
       "trend_accel": "+84%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "UN experts urge Sudan-wide arms embargo",
-      "link": "https://www.france24.com/en/video/20260905-un-experts-urge-sudan-wide-arms-embargo",
-      "source": "France24",
-      "timestamp": "2026-09-05T15:16:39+00:00",
+      "title": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes",
+      "link": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html",
+      "source": "NYT",
+      "timestamp": "2026-09-06T22:32:01+00:00",
       "score": 12,
-      "summary": "A weapons embargo must be extended to the whole of Sudan, and it must be enforced. That is, in essence, the conclusion of a UN experts' report presented to the Human Rights Council. The report also points to the responsibility of foreign entities in a conflict that has now bee...",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sudanwide"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Farage calls Reform conference protest backlash \u2018utter nonsense\u2019 amid police appeal \u2013 UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
-      "source": "Guardian",
-      "timestamp": "2026-09-05T15:09:07+00:00",
-      "score": 12,
-      "summary": "Party leader dismisses criticism after footage showing rough treatment of protesters who disrupted his speech No real mention by Anderson of the problems that overshadowed events yesterday. He ended his opening speech saying: \"Yesterday was great. Today is going to be absolute...",
-      "country": "UK",
-      "region": "Europe",
+      "summary": "Brent crude, the global benchmark for oil, was up about 1 percent as trading resumed on Sunday, while the national average price of gas was nearly $4.15 a gallon.",
+      "country": "Iran",
+      "region": "Middle East",
       "source_type": "Newspaper",
       "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Military"
+      ],
       "entities": [
-        "Reform"
+        "Prices",
+        "Rise",
+        "Slightly",
+        "After",
+        "Iran",
+        "Trade",
+        "Strikes"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19747,15 +19787,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "Guardian"
+        "NYT"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "At least 5 dead after Amazon cargo plane barreled off runway at Miami airport",
       "link": "https://www.cnbc.com/2026/09/06/amazon-cargo-plane-overrunns-runway-at-miami-international-airport.html",
@@ -26318,38 +26356,6 @@
         "Livemint"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Raja Venkatraman recommends three stocks for 4 September",
-      "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-4-september-11788454069781.html",
-      "source": "Livemint",
-      "timestamp": "2026-09-04T06:00:14+05:30",
-      "score": 17,
-      "summary": "Market expert Raja Venkatraman shares his top stock picks for 4 September. Here\u2019s his technical outlook and trade strategy.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Venkatraman",
-        "September"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ],
@@ -45524,6 +45530,37 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.0 - 7 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430872",
+      "source": "USGS",
+      "timestamp": "2026-09-06T22:36:57.006000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-06 22:35:20 UTC2026-09-06 22:35:20 UTC at epicenterLocation38.824\u00b0N 122.811\u00b0WDepth1.31 km (0.81 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 2.6 - 48 km SSE of Nelchina, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrtnhu",
       "source": "USGS",
@@ -51953,39 +51990,6 @@
         "GDACS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.1 - 69 km E of Antofagasta de la Sierra, Argentina",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tej2",
-      "source": "USGS",
-      "timestamp": "2026-09-05T11:58:52.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-05 11:37:12 UTC2026-09-05 11:37:12 UTC at epicenterLocation26.108\u00b0S 66.718\u00b0WDepth10.00 km (6.21 mi)",
-      "country": "Argentina",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Antofagasta",
-        "Sierra",
-        "Argentina"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
