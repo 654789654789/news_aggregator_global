@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "140 migrants in single dinghy rescued in English Channel",
+      "link": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-06T16:02:05+00:00",
+      "score": 15,
+      "summary": "They were transferred onto two lifeboats and taken to shore in the UK.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "English",
+        "Channel"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Zipline operator dies in accident at Ranipuram tourist spot in Keralam\u2019s Kasaragod district",
       "link": "https://www.thehindu.com/news/national/kerala/zipline-operator-dies-in-accident-at-ranipuram-tourist-spot-in-keralams-kasaragod-district/article71434515.ece",
       "source": "The Hindu",
@@ -6544,24 +6576,27 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Hyderabad airport bags three ACI World recognitions for passenger experience",
-      "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-airport-bags-three-aci-world-recognitions-for-passenger-experience/article71431517.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-05T18:55:49+05:30",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road \u2014 and a snag",
+      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-06T16:08:00+00:00",
       "score": 14,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "ACI",
-        "World"
+        "Mobility",
+        "Tesla",
+        "Cybercab"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6572,13 +6607,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Competitive Pok\u00e9mon is on phones now, but you still need a Switch to become a champion",
       "link": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
@@ -13027,23 +13060,34 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Mozilla launches ad blocking for Firefox on iOS",
-      "link": "https://www.theverge.com/news/987247/mozilla-firefox-ad-blocker-ios-launch",
-      "source": "Verge",
-      "timestamp": "2026-09-01T09:00:00-04:00",
-      "score": 12,
-      "summary": "Mozilla is officially launching ad blocking for Firefox on iOS today, after testing the feature over the past few weeks. The new built-in option will block most third-party ads and trackers before they load on an iPhone, reducing bandwidth use and decluttering mobile websites....",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Live Updates: Germany\u2019s Far Right Leads Regional Election, Exit Polls Show",
+      "link": "https://www.nytimes.com/live/2026/09/06/world/germany-election",
+      "source": "NYT",
+      "timestamp": "2026-09-06T16:11:53+00:00",
+      "score": 14,
+      "summary": "The Alternative for Germany party was projected to finish first in the eastern state of Saxony-Anhalt. But it was not clear whether it would win a majority \u2014 which would propel a far-right party into power for the first time since World War II.",
+      "country": "Germany",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Firefox"
+        "Updates",
+        "Germanys",
+        "Far",
+        "Right",
+        "Leads",
+        "Regional",
+        "Election",
+        "Exit",
+        "Polls",
+        "Show"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13052,15 +13096,77 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "Verge"
+        "NYT"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "AfD could lead \"the first far-right state government since the dark days of Nazism\"",
+      "link": "https://www.france24.com/en/video/20260906-afd-could-lead-the-first-far-right-state-government-since-the-dark-days-of-nazism",
+      "source": "France24",
+      "timestamp": "2026-09-06T16:07:44+00:00",
+      "score": 12,
+      "summary": "Voting is underway in the eastern German state of Saxony-Anhalt on Sunday in a closely watched election. \"If the AfD does form a government in Saxony-Anhalt, that would make it the first regional government headed by a far-right party since the end of the Second World War, sin...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nazism"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "France24"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Maitland-Niles stuns Manchester United as Everton claim last-ditch point",
+      "link": "https://www.aljazeera.com/sports/2026/9/6/maitland-niles-stuns-manchester-united-as-everton-claim-last-ditch-point?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-09-06T16:04:56+00:00",
+      "score": 14,
+      "summary": "Bryan Mbeumo and Benjamin Sesko goals cancelled out as Everton come from behind to win point in 2-2 draw with United.",
+      "country": "Qatar",
+      "region": "Middle East",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Manchester",
+        "United",
+        "Everton"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
       "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
@@ -19741,107 +19847,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Flames coming from Sydney-bound Qantas flight forces plane to be diverted",
-      "link": "https://www.abc.net.au/news/2026-09-05/sydney-bound-qantas-flight-diverted-as-flames-come-from-plane/107120414",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-05T08:58:26+00:00",
-      "score": 12,
-      "summary": "The Sydney-bound Boeing aircraft left the alpine ski town of Queenstown in New Zealand just before 3:30pm before it had to be diverted to Christchurch.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Sydneybound",
-        "Qantas"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "English Museum to Repatriate Colonial-Era Human Remains",
-      "link": "https://www.nytimes.com/2026/09/05/world/asia/museum-britain-naga-human-remains.html",
-      "source": "NYT",
-      "timestamp": "2026-09-05T08:48:35+00:00",
-      "score": 14,
-      "summary": "The skeletal remains will go back to the Indigenous Naga people of the Indian subcontinent, six years after formal repatriation efforts began.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Museum",
-        "Repatriate",
-        "ColonialEra",
-        "Human",
-        "Remains"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Flares set off, items thrown at players during Canberra junior AFL grand final",
-      "link": "https://www.abc.net.au/news/2026-09-05/act-flares-set-off-items-thrown-players-junior-afl-grand-final/107120130",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-05T07:43:08+00:00",
-      "score": 12,
-      "summary": "Two spectators were briefly taken into custody after reports of flares being set off and items being thrown at players at the Under 18s AFL Canberra Grand Final between Marist College and the Belconnen Magpies last night.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Canberra",
-        "AFL"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -26450,7 +26455,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.0,
+      "trend_score": 6.9,
       "source_count": 14,
       "sources_reporting": [
         "Guardian",
@@ -26458,7 +26463,7 @@
         "Phys.org",
         "Reuters"
       ],
-      "trend_accel": "+60%",
+      "trend_accel": "+59%",
       "heat_level": "HOT"
     },
     {
@@ -33646,6 +33651,157 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "I Dream of Jeannie's Barbara Eden Pulls Out of Appearance Amid Illness",
+      "link": "https://www.eonline.com/news/1435804/barbara-eden-cancels-public-appearance-due-to-sudden-illness?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-09-06T16:10:57+00:00",
+      "score": 12,
+      "summary": "Barbara Eden is taking a step back. Shortly before the I Dream of Jeannie star, 95, was set to appear at the Cinecon Classic Film Festival in Los Angeles Sept. 5, the event organizers provided an...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dream",
+        "Jeannies",
+        "Barbara",
+        "Eden",
+        "Pulls",
+        "Out",
+        "Appearance",
+        "Amid",
+        "Illness"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Audible Teases Jonathan Bailey\u2019s \u201dSeductive\u201d Performance In \u2018Dracula\u2019 At Venice Preview Of Ambitious Multilingual Adaptation",
+      "link": "https://deadline.com/2026/09/audible-jonathan-bailey-seductive-dracula-venice-preview-1237069408/",
+      "source": "Deadline",
+      "timestamp": "2026-09-06T16:10:56+00:00",
+      "score": 14,
+      "summary": "Audible set down at the Venice Film Festival over the weekend with a preview of its ambitious adaptation of Bram Stoker\u2019s 1897 gothic horror classic Dracula. The platform\u2019s biggest audio production to date, the adaptation is being rolled out in seven different languages, with ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Teases",
+        "Jonathan",
+        "Baileys",
+        "Seductive",
+        "Performance",
+        "Dracula",
+        "Venice",
+        "Preview",
+        "Ambitious",
+        "Multilingual",
+        "Adaptation"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "14 People Hospitalized During the Chainsmokers\u2019 Concert in San Jose",
+      "link": "https://www.rollingstone.com/music/music-news/14-people-hospitalized-the-chainsmokers-concert-san-jose-1235622325/",
+      "source": "Rolling Stone",
+      "timestamp": "2026-09-06T16:08:48+00:00",
+      "score": 17,
+      "summary": "Over a dozen concertgoers required medical attention for \"suspected alcohol intoxication and drug-related issues,\" authorities say",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "People",
+        "Hospitalized",
+        "During",
+        "Chainsmokers",
+        "Concert",
+        "San",
+        "Jose"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Rolling Stone"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Bringing Explosive Life to \u2018Coyote vs. Acme\u2019",
+      "link": "https://www.nytimes.com/video/movies/100000011088054/coyote-vs-acme-anatomy-of-a-scene.html",
+      "source": "NYT",
+      "timestamp": "2026-09-06T16:03:04+00:00",
+      "score": 12,
+      "summary": "The director Dave Green explains how he brought cartoons to life in \u201cCoyote vs. Acme.\u201d",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Explosive",
+        "Life",
+        "Coyote",
+        "Acme"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "In the Shadow of a Tragic Death, Jacob\u2019s Pillow Looks to Move Forward",
       "link": "https://www.nytimes.com/2026/09/06/arts/dance/jacobs-pillow-kat-sirico-accident.html",
@@ -41714,159 +41870,6 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Bunnie Xo Shares How Cameron Diaz Inspired Her Baby Plans",
-      "link": "https://www.eonline.com/news/1435766/jelly-rolls-ex-bunnie-xo-shares-how-cameron-diaz-inspired-her-baby-plans?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-09-04T20:28:09+00:00",
-      "score": 12,
-      "summary": "Bunnie Xo found an angel in Cameron Diaz. In fact, the Dumb Blonde podcast host revealed that the Charlie Angel\u2019s actress has helped her feel more confident about having a child at the age of 46...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Shares",
-        "How",
-        "Cameron",
-        "Diaz",
-        "Inspired",
-        "Her",
-        "Baby",
-        "Plans"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Kelsea Ballerini Defends Stella Lefty From Grand Ole Opry Backlash",
-      "link": "https://www.eonline.com/news/1435765/kelsea-ballerini-defends-stella-lefty-from-grand-ole-opry-backlash?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-09-04T20:21:23+00:00",
-      "score": 12,
-      "summary": "Kelsea Ballerini wants country music fans to roll out the welcome mat for Stella Lefty. After the \u201cBoston\u201d singer received criticism for her appearance at the Grand Ole Opry, the \u201cLove You Like...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ballerini",
-        "Defends",
-        "Stella",
-        "Lefty",
-        "Grand",
-        "Ole",
-        "Opry",
-        "Backlash"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The Cleaning & Kitchen Gadget Deals Worth Buying for Labor Day",
-      "link": "https://www.eonline.com/news/1435755/the-cleaning-and-kitchen-gadget-deals-worth-buying-for-labor-day-s30-up?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-09-04T20:06:00+00:00",
-      "score": 14,
-      "summary": "Labor Day weekend is technically the unofficial end of summer, but for us, its sale events are the perfect excuse for a home reset. Whether you're prepping for holiday hosting or just want...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Cleaning",
-        "Kitchen",
-        "Gadget",
-        "Deals",
-        "Worth",
-        "Buying",
-        "Labor",
-        "Day"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "21 Labor Day Sales Worth the Browse: Parke, Goop, Reformation and More",
-      "link": "https://www.hollywoodreporter.com/lifestyle/shopping/best-labor-day-sales-2026-furniture-clothing-deals-online-1236690989/",
-      "source": "THR",
-      "timestamp": "2026-09-04T20:05:12+00:00",
-      "score": 15,
-      "summary": "Not every sale is worth shopping. These 21 are.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Labor",
-        "Day",
-        "Sales",
-        "Worth",
-        "Browse",
-        "Parke",
-        "Goop",
-        "Reformation",
-        "More"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45574,6 +45577,103 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 9 km ESE of Ackerly, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026romilg",
+      "source": "USGS",
+      "timestamp": "2026-09-06T16:15:57.375000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-06 16:12:36 UTC2026-09-06 16:12:36 UTC at epicenterLocation32.486\u00b0N 101.629\u00b0WDepth4.12 km (2.56 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Ackerly",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 2 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430742",
+      "source": "USGS",
+      "timestamp": "2026-09-06T16:09:31.290000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-06 16:05:24 UTC2026-09-06 16:05:24 UTC at epicenterLocation38.789\u00b0N 122.772\u00b0WDepth3.58 km (2.22 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.2 - 9 km ESE of Ackerly, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rolzka",
+      "source": "USGS",
+      "timestamp": "2026-09-06T16:09:17.245000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-06 16:05:24 UTC2026-09-06 16:05:24 UTC at epicenterLocation32.481\u00b0N 101.631\u00b0WDepth3.91 km (2.43 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Ackerly",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
       "heat_level": "LOW"
     },
     {
@@ -51941,103 +52041,6 @@
       "trending": false,
       "trend_score": 0.0,
       "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 15 km WSW of Stanton, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rlzijf",
-      "source": "USGS",
-      "timestamp": "2026-09-05T07:34:46.782000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-05 07:31:29 UTC2026-09-05 07:31:29 UTC at epicenterLocation32.100\u00b0N 101.952\u00b0WDepth3.78 km (2.35 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Stanton",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.3 - 10 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430062",
-      "source": "USGS",
-      "timestamp": "2026-09-05T07:32:36.721000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-05 07:31:01 UTC2026-09-05 07:31:01 UTC at epicenterLocation38.826\u00b0N 122.852\u00b0WDepth2.34 km (1.45 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.3 - 53 km NE of Tonopah, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924206",
-      "source": "USGS",
-      "timestamp": "2026-09-05T07:26:24.135000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-05 07:23:48 UTC2026-09-05 07:23:48 UTC at epicenterLocation38.354\u00b0N 116.743\u00b0WDepth0.61 km (0.38 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tonopah",
-        "Nevada"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
       "sources_reporting": [
         "USGS"
       ],
