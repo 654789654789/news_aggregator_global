@@ -2767,7 +2767,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.5,
+      "trend_score": 10.4,
       "source_count": 12,
       "sources_reporting": [
         "Bloomberg",
@@ -7935,7 +7935,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.0,
+      "trend_score": 9.9,
       "source_count": 16,
       "sources_reporting": [
         "Bloomberg",
@@ -7945,7 +7945,7 @@
         "Verge",
         "Wired"
       ],
-      "trend_accel": "+75%",
+      "trend_accel": "+74%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13057,6 +13057,40 @@
     }
   ],
   "World": [
+    {
+      "title": "Australia news live: Chalmers says next election to be fought on super after One Nation reveals plan; Sydney to get urban solar farm",
+      "link": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-09-06T23:49:04+00:00",
+      "score": 14,
+      "summary": "Follow the day\u2019s news liveOne Nation has come up with a plan to give people their superannuation earlier, reducing the amount they\u2019ll have at retirement in exchange for a current cash boost.Pauline Hanson says under their plan anyone paying rent or a mortgage can take up to a ...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Chalmers",
+        "One",
+        "Nation",
+        "Sydney"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+62%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Young tractor drivers follow in grandathers' tracks to keep event alive",
       "link": "https://www.abc.net.au/news/2026-09-07/young-drivers-take-on-tractor-pull-tradition-red-cliffs/107116452",
@@ -19700,27 +19734,26 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Israel claims control of Lebanon\u2019s key Ali al-Taher ridge: What that means",
-      "link": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-09-05T16:04:01+00:00",
+      "title": "Asia-Pacific markets set to open mixed as Middle East worries dent sentiment",
+      "link": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-07T00:00:06+00:00",
       "score": 14,
-      "summary": "Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Newswire",
+      "summary": "Asia-Pacific markets were set to open broadly higher on Monday, after they closed mostly in the green from the last trading session on Friday.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Lebanons",
-        "Ali",
-        "What"
+        "Middle",
+        "East"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19729,15 +19762,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "Al Jazeera"
+        "CNBC"
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Five dead after Amazon-branded cargo plane overruns runway at Miami airport, striking multiple vehicles",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MXRyUE1WYVJYeldodkQzWEYwOGx2dHpWaHhMYjRjZlpILXpDbXBQUFFQR1c5akpHNTFDdWJMZkl5UU9oWklJYjZiWDNkUzYxQXBVeUhKNzM0eXhJaUE3cjVlMGdfbzV6UmFPZGYyZlg0UEtCNGEyUG1jOTE?oc=5",
@@ -26309,35 +26340,6 @@
       ],
       "trend_accel": "+85%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "A 'shakeout' in early-stage AI may be coming as VC money gets pickier on valuations",
-      "link": "https://www.cnbc.com/2026/09/04/ai-bubble-valuations-venture-capital.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-04T00:44:33+00:00",
-      "score": 14,
-      "summary": "Investors should keep an eye out for excessive valuations and focus on productivity when it comes to investing in AI companies, market watchers say.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -33453,6 +33455,162 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Hong Sangsoo\u2019s Locarno Winner \u2018Nowhere to Lay My Eyes\u2019 Anchors Wave of Sales Deals for Finecut Ahead of Toronto",
+      "link": "https://variety.com/2026/film/news/hong-sangsoonowhere-to-lay-my-eyes-finecut-sales-1236853161/",
+      "source": "Variety",
+      "timestamp": "2026-09-07T00:00:00+00:00",
+      "score": 14,
+      "summary": "Korean sales house Finecut has closed a string of international deals for three festival titles, including Hong Sangsoo\u2019s Locarno prizewinner \u201cNowhere to Lay My Eyes,\u201d ahead of the Toronto Film Festival. The film marks Hong\u2019s 35th feature. It competed in the Concorso Internazi...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sangsoos",
+        "Locarno",
+        "Winner",
+        "Nowhere",
+        "Lay",
+        "Eyes",
+        "Anchors",
+        "Wave",
+        "Sales",
+        "Deals",
+        "Finecut",
+        "Ahead",
+        "Toronto"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Creative Arts Emmys, Night Two: Winners List (Updating Live)",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/2026-creative-arts-emmys-winners-list-night-two-1236685041/",
+      "source": "THR",
+      "timestamp": "2026-09-06T23:54:14+00:00",
+      "score": 12,
+      "summary": "Sunday's ceremony includes the high-profile guest acting categories and the limited series supporting actor and actress awards.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Arts",
+        "Emmys",
+        "Night",
+        "Two",
+        "Winners",
+        "List",
+        "Updating",
+        "Live"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 9,
+      "sources_reporting": [
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+64%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Creative Arts Emmy Awards Night 2: Winners List (Updating Live)",
+      "link": "https://variety.com/2026/tv/news/emmy-awards-winners-list-night-two-creative-arts-1236853165/",
+      "source": "Variety",
+      "timestamp": "2026-09-06T23:51:05+00:00",
+      "score": 15,
+      "summary": "The 78th Emmys Night 2 was set to kick off on Sunday night with an opening monologue by \u201cThe Pitt\u201d star Noah Wyle, whose series is this year\u2019s most nominated \u2014 at 25 total. \u201cThis is a very special industry and I am so blessed to be a part of it,\u201d he said. \u201cAwards and [\u2026]",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Arts",
+        "Emmy",
+        "Awards",
+        "Night",
+        "Winners",
+        "List",
+        "Updating",
+        "Live"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 8,
+      "sources_reporting": [
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+67%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Ciara Is Pregnant With Baby No. 5, Her 4th With Russell Wilson",
+      "link": "https://www.eonline.com/news/1435813/ciara-pregnant-with-baby-no-5-her-4th-with-russell-wilson?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-09-06T23:48:00+00:00",
+      "score": 15,
+      "summary": "Ciara and Russell Wilson's team is growing once again. The \"Goodies\" singer revealed that she's expecting her fifth baby, her fourth with the NFL alum. Ciara\u2014who shares kids Sienna Princess,...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pregnant",
+        "Baby",
+        "Her",
+        "Russell",
+        "Wilson"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Edward Field, Bohemian New York Poet, Dies at 102",
       "link": "https://www.nytimes.com/2026/09/06/obituaries/edward-field-dead.html",
@@ -41523,162 +41681,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Victor Miller, \u2018Friday the 13th\u2019 Screenwriter, Dies at 86",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/victor-miller-dead-friday-the-13th-screenwriter-1236691486/",
-      "source": "THR",
-      "timestamp": "2026-09-05T03:33:17+00:00",
-      "score": 15,
-      "summary": "\"He was almost always the smartest, funniest person in whatever room he was in. He inspired in me, and many others, a love of photography, music, and storytelling,\" his son, Ian, wrote on Instagram.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Miller",
-        "Friday",
-        "Screenwriter",
-        "Dies"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Ben McKenzie Would \u201cBe Up For\u201d A Revival Of \u2018The O.C.\u2019: \u201cIt Was A Great Show\u201d",
-      "link": "https://deadline.com/2026/09/ben-mckenzie-up-for-revival-the-oc-1237068781/",
-      "source": "Deadline",
-      "timestamp": "2026-09-05T02:47:12+00:00",
-      "score": 12,
-      "summary": "California, here we come again. Ben McKenzie has addressed a potential return to The O.C., nearly 20 years after the show ended. The actor, who starred as Ryan Atwood for the Fox teen drama\u2019s four-season run from 2003 to 2007, recently commented on whether the hit show could g...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "McKenzie",
-        "Would",
-        "Revival",
-        "Was",
-        "Great",
-        "Show"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018A Long Winter\u2019 Review: Fred Hechinger and Ebon Moss-Bachrach Shine as Family Thrust Into Uneasy Isolation in Andrew Haigh\u2019s Fine-Grained Drama",
-      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/a-long-winter-review-fred-hechinger-ebon-moss-bachrach-1236690170/",
-      "source": "THR",
-      "timestamp": "2026-09-05T02:30:00+00:00",
-      "score": 14,
-      "summary": "Also featuring Caitr\u00edona Balfe, Kit Connor and D\u2019Pharaoh Woon-A-Tai, the film \u2014 adapted from Colm T\u00f3ib\u00edn's novella \u2014 measures the after-effects of a disappearance in the Rocky Mountains in the 1950s.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Long",
-        "Winter",
-        "Review",
-        "Fred",
-        "Hechinger",
-        "Ebon",
-        "MossBachrach",
-        "Shine",
-        "Family",
-        "Thrust",
-        "Into",
-        "Uneasy",
-        "Isolation",
-        "Andrew",
-        "Haighs",
-        "FineGrained",
-        "Drama"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Sandra Bullock Teases \u2018Practical Magic 3\u2019 Could Happen, Wants To \u201cPass The Torch\u201d",
-      "link": "https://deadline.com/2026/09/sandra-bullock-teases-practical-magic-3-could-happen-1237068776/",
-      "source": "Deadline",
-      "timestamp": "2026-09-05T02:04:57+00:00",
-      "score": 15,
-      "summary": "With the Owens sisters returning for another magical outing with Practical Magic 2, a trilogy could be in the cards. Sandra Bullock, who reprises her role as Sally Owens when the sequel premieres on Sept. 10, teased that a third movie could happen if the Susanne Bier-helmed fo...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bullock",
-        "Teases",
-        "Practical",
-        "Magic",
-        "Could",
-        "Happen",
-        "Wants",
-        "Pass",
-        "Torch"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -45471,6 +45473,39 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.8 - 48 km E of Pedro Bay, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rrxaqi",
+      "source": "USGS",
+      "timestamp": "2026-09-06T23:49:35.328000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-06 23:47:20 UTC2026-09-06 23:47:20 UTC at epicenterLocation59.787\u00b0N 153.241\u00b0WDepth132.00 km (82.02 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pedro",
+        "Bay",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
       "heat_level": "LOW"
     },
     {
@@ -51900,39 +51935,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 6 km SSE of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75029692",
-      "source": "USGS",
-      "timestamp": "2026-09-05T12:53:54.210000+00:00",
-      "score": 17,
-      "summary": "Time2026-09-05 12:50:21 UTC2026-09-05 12:50:21 UTC at epicenterLocation19.146\u00b0N 155.460\u00b0WDepth28.78 km (17.88 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
