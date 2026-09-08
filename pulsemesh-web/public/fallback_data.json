@@ -1,6 +1,43 @@
 {
   "Politics": [
     {
+      "title": "Pezeshkian's India visit: Iran eyes deeper trade ties, Chabahar cooperation at BRICS Summit",
+      "link": "https://www.livemint.com/politics/us-iran-war-pezeshkians-india-visit-iran-eyes-deeper-trade-ties-chabahar-cooperation-at-brics-summit-pm-modi-11788827730689.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-08T06:42:27+05:30",
+      "score": 14,
+      "summary": "Referring to President Pezeshkian's recent bilateral talks with Prime Minister Narendra Modi on the sidelines of the SCO Summit in Bishkek, Kyrgyzstan, Baghaei reaffirmed that Iran plans to leverage diplomatic engagements in India to expand economic collaboration.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "India",
+        "Iran",
+        "Chabahar",
+        "BRICS",
+        "Summit"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "U.K. recognises India's carbon credit scheme under its carbon tax mechanism: official",
       "link": "https://www.thehindu.com/sci-tech/energy-and-environment/uk-recognises-indias-carbon-credit-scheme-under-its-carbon-tax-mechanism-official/article71440204.ece",
       "source": "The Hindu",
@@ -6558,40 +6595,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Top House Republican backs Max Miller: \u2018I support anybody with an R by their name\u2019",
-      "link": "https://thehill.com/homenews/house/6074174-mcclain-backs-miller-abuse-allegations/",
-      "source": "The Hill",
-      "timestamp": "2026-09-06T21:06:24+00:00",
-      "score": 12,
-      "summary": "Rep. Lisa McClain (R-Mich.), the chair of the House Republican Conference, said Sunday she backs Rep. Max Miller (R-Ohio), despite two of his former partners accusing him of abuse. \u201cListen, divorces are ugly. And I\u2019m glad I\u2019m not \u2026 in his shoes right now,\u201d McClain told host Ma...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "House",
-        "Republican",
-        "Max",
-        "Miller"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "The Hill"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
     }
   ],
   "Tech": [
@@ -13147,6 +13150,37 @@
   ],
   "World": [
     {
+      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-08T01:07:47+00:00",
+      "score": 12,
+      "summary": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Police end investigation into former gynaecologist Simon Gordon",
       "link": "https://www.abc.net.au/news/2026-09-08/vic-victoria-police-simon-gordon-investigation/107127610",
       "source": "ABC Australia",
@@ -17198,15 +17232,20 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 7,
+      "trending": true,
+      "trend_score": 10.8,
+      "source_count": 13,
       "sources_reporting": [
+        "AP",
+        "BBC",
+        "Bloomberg",
         "CBC News",
+        "France24",
+        "Reuters",
         "The Hindu"
       ],
-      "trend_accel": "+61%",
-      "heat_level": "HOT"
+      "trend_accel": "+80%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Five dead after Amazon cargo plane crashes in Miami airport",
@@ -17231,8 +17270,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -19659,24 +19698,32 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Five killed as Amazon cargo plane overshoots runway in Miami",
-      "link": "https://www.ft.com/content/8077447c-b7db-4854-ba42-d2fb0dc65c76?syn-25a6b1a6=1",
-      "source": "FT",
-      "timestamp": "2026-09-06T23:05:00+00:00",
-      "score": 12,
-      "summary": "Crash of Prime Air 767-300 is latest in a string of recent US aviation accidents",
-      "country": "UK",
-      "region": "Europe",
+      "title": "Brent Oil Near $100 as Iran Says Hormuz Deal With Oman Close",
+      "link": "https://www.livemint.com/market/brent-oil-near-100-as-iran-says-hormuz-deal-with-oman-close-11788829819840.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-08T06:40:19+05:30",
+      "score": 17,
+      "summary": "Oil held gains near $100 a barrel as traders watched for details of an Iranian deal with Oman to manage shipping through the Strait of Hormuz, while strong Chinese buying tightened the market.",
+      "country": "Iran",
+      "region": "Middle East",
       "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Amazon",
-        "Miami"
+        "Oil",
+        "Near",
+        "Iran",
+        "Says",
+        "Hormuz",
+        "Deal",
+        "Oman",
+        "Close"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19685,15 +19732,46 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "FT"
+        "Livemint"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today \u20148 September 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-8-september-2026-11788828772209.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-08T06:39:35+05:30",
+      "score": 17,
+      "summary": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five breakout stocks to buy today \u2014 Kiri Industries, Gujarat Themis Biosyn, Supreme Petrochem, Man Industries (India), and Aeroflex Industries.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sumeet",
+        "Bagadia",
+        "September"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Yen extends rally to new seven-month high; dollar subdued ahead of CPI",
       "link": "https://www.livemint.com/market/yen-extends-rally-to-new-seven-month-high-dollar-subdued-ahead-of-cpi-11788828964221.html",
@@ -26267,72 +26345,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "WBNA Commissioner Cathy Engelbert to retire at the end of 2026",
-      "link": "https://www.cnbc.com/2026/09/04/wbna-commissioner-cathy-engelbert-to-retire-at-the-end-of-2026-.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-04T15:56:07+00:00",
-      "score": 15,
-      "summary": "Engelbert oversaw a period of unprecedented growth for the WNBA, but has faced criticism from players over her leadership.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Commissioner",
-        "Cathy",
-        "Engelbert"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Jobs and Iran add to Trump\u2019s midterm headaches. Why that\u2019s good for bonds and bad for energy stocks.",
-      "link": "https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-09-04T15:48:00+00:00",
-      "score": 14,
-      "summary": "The president needs lower gasoline prices and mortgage rates \u2014 fast.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Iran",
-        "Trumps",
-        "Why"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -32622,7 +32634,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 5.4,
+      "trend_score": 5.3,
       "source_count": 9,
       "sources_reporting": [
         "Bloomberg",
@@ -32630,7 +32642,7 @@
         "Guardian",
         "NHK"
       ],
-      "trend_accel": "+54%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
     },
     {
@@ -33295,6 +33307,43 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Space Force Uniform Is Inspired By Quasi-Satirical Film \u2018Starship Troopers\u2019",
+      "link": "https://deadline.com/2026/09/space-force-uniform-starship-troopers-1237070485/",
+      "source": "Deadline",
+      "timestamp": "2026-09-08T01:10:21+00:00",
+      "score": 12,
+      "summary": "Among a flurry of posts this weekend, Donald Trump revealed the service dress uniform designs for his Space Force. Without additional comment, the president shared photos and an overview of the uniforms on Truth Social, which include in their color palette \u201cspace gray\u201d and \u201cmi...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Force",
+        "Uniform",
+        "Inspired",
+        "QuasiSatirical",
+        "Film",
+        "Starship",
+        "Troopers"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Macklemore Responds to Backlash Over \u201cFree Palestine\u201d Plea: \u201cWanting All Humans to Be Treated Equal Should Never Be Controversial\u201d",
       "link": "https://www.hollywoodreporter.com/music/music-news/macklemore-responds-backlash-free-palestine-plea-ed-sheeran-1236693499/",
@@ -41486,47 +41535,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Wim Wenders Revisits Berlin Comments On Filmmakers & Politics That Led To A Firestorm",
-      "link": "https://deadline.com/2026/09/wim-wenders-revisits-berlin-comments-filmmakers-politics-1237069469/",
-      "source": "Deadline",
-      "timestamp": "2026-09-06T16:25:41+00:00",
-      "score": 12,
-      "summary": "Wim Wenders has returned to the comments that caused such a commotion at the Berlin Film Festival earlier this year. Speaking at the Venice Film Festival press conference today for new movie From inside out \u2013 The architecture of Peter Zumthor, the veteran German filmmaker was ...",
-      "country": "Germany",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Wenders",
-        "Revisits",
-        "Berlin",
-        "Comments",
-        "Filmmakers",
-        "Politics",
-        "That",
-        "Led",
-        "Firestorm"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -44943,6 +44951,39 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 5.1 - 96 km ESE of Isangel, Vanuatu",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf",
+      "source": "USGS",
+      "timestamp": "2026-09-08T01:07:52.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-08 00:52:02 UTC2026-09-08 00:52:02 UTC at epicenterLocation19.841\u00b0S 170.145\u00b0EDepth10.00 km (6.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Isangel",
+        "Vanuatu"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.8 - 15 km SSE of Balmorhea, Texas",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqyrug",
@@ -51383,38 +51424,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 5 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430792",
-      "source": "USGS",
-      "timestamp": "2026-09-06T18:52:23.297000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-06 18:28:51 UTC2026-09-06 18:28:51 UTC at epicenterLocation38.794\u00b0N 122.810\u00b0WDepth3.24 km (2.01 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
       "heat_level": "LOW"
     }
   ]
