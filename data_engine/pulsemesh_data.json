@@ -13147,6 +13147,37 @@
   ],
   "World": [
     {
+      "title": "Car plunges into suburban sinkhole in Perth's south",
+      "link": "https://www.abc.net.au/news/2026-09-08/car-falls-into-sinkhole-after-burst-water-main-in-canning-vale/107127632",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-08T00:31:55+00:00",
+      "score": 12,
+      "summary": "A burst water main in Canning Vale in Perth causes a car to plunge into a sinkhole overnight and impacts the water supply to nearby homes.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Perths"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Under pressure to explain super policy, Joyce says he is 'not Jesus Christ'",
       "link": "https://www.abc.net.au/news/2026-09-08/barnaby-joyce-one-nation-superannuation-policy-early-access/107127346",
       "source": "ABC Australia",
@@ -19660,24 +19691,30 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "UN-backed map must depict India's territory accurately: Govt",
-      "link": "https://timesofindia.indiatimes.com/india/un-backed-map-must-depict-indias-territory-accurately-govt/articleshow/133855201.cms",
-      "source": "Times of India",
-      "timestamp": "2026-09-07T04:04:02+05:30",
-      "score": 12,
-      "summary": "'Not specific map', P 9",
+      "title": "Deepa Jewellers IPO listing today: GMP at  \u20b925.5; Share price prediction ahead of NSE, BSE debut",
+      "link": "https://www.livemint.com/market/ipo/deepa-jewellers-ipo-listing-today-gmp-at-rs-25-5-share-price-prediction-ahead-of-nse-bse-debut-11788796202339.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-08T06:07:03+05:30",
+      "score": 15,
+      "summary": "Deepa Jewellers IPO is set to list today at 10:00 IST, with an estimated opening price of \u20b9202.5, reflecting a 14.41% increase over the IPO price of \u20b9177. The company is recognised for its strong financial growth and operational efficiency.",
       "country": "India",
       "region": "South Asia",
       "source_type": "Newspaper",
-      "trust_score": 7,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Indias",
-        "Govt"
+        "Jewellers",
+        "IPO",
+        "GMP",
+        "Share",
+        "NSE",
+        "BSE"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19686,15 +19723,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "Times of India"
+        "Livemint"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Gold Steadies as Traders Weigh Mideast Tensions and Dollar Moves",
       "link": "https://www.livemint.com/market/gold-steadies-as-traders-weigh-mideast-tensions-and-dollar-moves-11788824285127.html",
@@ -26302,40 +26337,43 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "S&P 500 changes are coming soon. These stocks could be named to the index today.",
-      "link": "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-09-04T15:39:00+00:00",
-      "score": 17,
-      "summary": "Twilio, Bloom Energy and Cheniere Energy are among the top contenders to join the S&P 500 in the upcoming quarterly rebalancing.",
+      "title": "Early Earth's auroral belts may have formed a natural ion-beam reactor for prebiotic chemistry",
+      "link": "https://phys.org/news/2026-09-early-earth-auroral-belts-natural.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-07T20:40:04-04:00",
+      "score": 12,
+      "summary": "We usually think of auroras as beautiful lights in the night sky. I see them as visible traces of a connection between the sun, Earth's magnetic field and the atmosphere. This led me to an origin-of-life question: Could the planetary structure that produces auroras also have o...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "These"
+        "Earths"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 6.6,
+      "source_count": 16,
       "sources_reporting": [
-        "MarketWatch"
+        "AP",
+        "BBC",
+        "NPR",
+        "Phys.org"
       ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+      "trend_accel": "+62%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Crime is falling\u2014but the public doesn't feel safer, UK study finds",
       "link": "https://phys.org/news/2026-09-crime-falling-doesnt-safer-uk.html",
@@ -27307,8 +27345,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -32482,35 +32520,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "'Power of disorder' tames CF\u2084, a semiconductor greenhouse gas that can persist for 50,000 years",
-      "link": "https://phys.org/news/2026-09-power-disorder-cf-semiconductor-greenhouse.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-03T16:30:01-04:00",
-      "score": 15,
-      "summary": "Among the gases used in semiconductor manufacturing, tetrafluoromethane (CF\u2084) is a greenhouse gas more than 6,000 times as potent as carbon dioxide.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33290,6 +33299,50 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Macklemore Responds to Backlash Over \u201cFree Palestine\u201d Plea: \u201cWanting All Humans to Be Treated Equal Should Never Be Controversial\u201d",
+      "link": "https://www.hollywoodreporter.com/music/music-news/macklemore-responds-backlash-free-palestine-plea-ed-sheeran-1236693499/",
+      "source": "THR",
+      "timestamp": "2026-09-08T00:44:51+00:00",
+      "score": 12,
+      "summary": "On Sunday, the Israeli-American Council launched a petition, calling for the rapper's removal from the remaining tour dates of Ed Sheeran's Loop Tour.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Responds",
+        "Backlash",
+        "Over",
+        "Free",
+        "Palestine",
+        "Plea",
+        "Wanting",
+        "All",
+        "Humans",
+        "Treated",
+        "Equal",
+        "Should",
+        "Never",
+        "Controversial"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Venice Home Crowd Gives Italian Horror \u2018The Spiral\u2019 9-Minute Standing Ovation",
       "link": "https://www.hollywoodreporter.com/movies/movie-news/venice-premiere-italian-horror-the-spiral-1236693484/",
@@ -38844,7 +38897,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 16,
       "sources_reporting": [
         "Bloomberg",
@@ -41477,45 +41530,6 @@
         "Deadline"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "I Dream of Jeannie's Barbara Eden Pulls Out of Appearance Amid Illness",
-      "link": "https://www.eonline.com/news/1435804/barbara-eden-cancels-public-appearance-due-to-sudden-illness?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-09-06T16:10:57+00:00",
-      "score": 12,
-      "summary": "Barbara Eden is taking a step back. Shortly before the I Dream of Jeannie star, 95, was set to appear at the Cinecon Classic Film Festival in Los Angeles Sept. 5, the event organizers provided an...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Dream",
-        "Jeannies",
-        "Barbara",
-        "Eden",
-        "Pulls",
-        "Out",
-        "Appearance",
-        "Amid",
-        "Illness"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+45%",
       "heat_level": "LOW"
     }
   ],
@@ -44933,6 +44947,103 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.8 - 15 km SSE of Balmorhea, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqyrug",
+      "source": "USGS",
+      "timestamp": "2026-09-08T00:40:01.166000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-08 00:34:32 UTC2026-09-08 00:34:32 UTC at epicenterLocation30.859\u00b0N 103.673\u00b0WDepth0.66 km (0.41 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Balmorhea",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 14 km SE of Balmorhea, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rqyqom",
+      "source": "USGS",
+      "timestamp": "2026-09-08T00:36:48.394000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-08 00:33:05 UTC2026-09-08 00:33:05 UTC at epicenterLocation30.912\u00b0N 103.622\u00b0WDepth4.70 km (2.92 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Balmorhea",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 19 km WNW of Progreso, B.C., MX",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542592",
+      "source": "USGS",
+      "timestamp": "2026-09-08T00:32:33.034000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-08 00:29:08 UTC2026-09-08 00:29:08 UTC at epicenterLocation32.641\u00b0N 115.776\u00b0WDepth8.65 km (5.37 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Progreso"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.0 - 5 km NNW of Beaumont, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542584",
@@ -51308,103 +51419,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 6 km NNW of Cabazon, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542192",
-      "source": "USGS",
-      "timestamp": "2026-09-06T18:40:11.253000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-06 18:36:43 UTC2026-09-06 18:36:43 UTC at epicenterLocation33.968\u00b0N 116.821\u00b0WDepth17.11 km (10.63 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Cabazon"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 6 km NNW of Cabazon, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41542184",
-      "source": "USGS",
-      "timestamp": "2026-09-06T18:40:05.500000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-06 18:29:02 UTC2026-09-06 18:29:02 UTC at epicenterLocation33.965\u00b0N 116.822\u00b0WDepth16.72 km (10.39 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Cabazon"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 8 km E of Hidden Valley Lake, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430802",
-      "source": "USGS",
-      "timestamp": "2026-09-06T18:32:25.014000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-06 18:30:49 UTC2026-09-06 18:30:49 UTC at epicenterLocation38.811\u00b0N 122.465\u00b0WDepth4.10 km (2.55 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hidden",
-        "Valley",
-        "Lake"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
