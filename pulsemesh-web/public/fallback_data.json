@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "Worker injured during White House construction rescued by emergency crew",
+      "link": "https://thehill.com/homenews/administration/6075446-worker-rescued-white-house-scaffolding/",
+      "source": "The Hill",
+      "timestamp": "2026-09-08T01:54:41+00:00",
+      "score": 12,
+      "summary": "An emergency crew rescued a construction worker from high up in scaffolding on the White House North Portico on Monday afternoon, responding to a dispatch saying that a worker had been injured. The worker was put into a stretcher and ambulance, which then went to the hospital,...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "White",
+        "House"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Uttar Pradesh to set up mental health support cells in all universities and colleges",
       "link": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-to-set-up-mental-health-support-cells-in-all-universities-and-colleges/article71439718.ece",
       "source": "The Hindu",
@@ -6564,23 +6596,26 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Duffy warns of delays and cancellations after plane overruns Miami runway",
-      "link": "https://thehill.com/policy/transportation/6074224-amazon-cargo-plane-overruns-mia-runway/",
-      "source": "The Hill",
-      "timestamp": "2026-09-06T22:09:09+00:00",
+      "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+      "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+      "source": "Verge",
+      "timestamp": "2026-09-07T22:00:00-04:00",
       "score": 12,
-      "summary": "Two of four runways at Miami International Airport (MIA) are open after an Amazon cargo plane overran the airport runway, according to airport officials. \u201cIf you\u2019re traveling through the area, please expect significant delays and potential cancellations,\u201d Transportation Secret...",
+      "summary": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's so special about that? Afte...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Miami"
+        "Xiaomi",
+        "Arm"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6591,13 +6626,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "The Hill"
+        "Verge"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Audi\u2019s new A2 E-tron is its most affordable and efficient EV yet",
       "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
@@ -13102,50 +13135,6 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "The Blood of Dawnwalker Review: Time Doesn't Heal All Wounds - Game Informer",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU096aVpQU2pKd3pnaXZmNGZMZmdMb1dqa3ZCMnlreWtzbko3MHJhTTVvdVRWNTN3VVY0OEdsV25uSkN0dWlxMkp5dE5mTDRqd1lBdXd5TzNNOFItUmlMRXA2VlVaTVB5Z0NYME56VVh5MlZXNHhFaDdqZzVjR2o5WW5KQ1d1SzBpdVBv?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-01T18:18:39+00:00",
-      "score": 12,
-      "summary": "The Blood of Dawnwalker Review: Time Doesn't Heal All Wounds Game InformerThe Blood of Dawnwalker Review IGNRadeon RX 9070 XT and the GeForce RTX 5080 can barely reach 30 FPS in The Blood of Dawnwalker in 4K GameGPUThe Blood of Dawnwalker Release Countdown: All Global Release ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Blood",
-        "Dawnwalker",
-        "Review",
-        "Time",
-        "Doesnt",
-        "Heal",
-        "All",
-        "Wounds",
-        "Game",
-        "Informer"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 15,
-      "sources_reporting": [
-        "AP",
-        "Google News",
-        "NPR",
-        "PBS",
-        "Verge"
-      ],
-      "trend_accel": "+78%",
-      "heat_level": "CRITICAL"
     }
   ],
   "World": [
@@ -19700,6 +19689,39 @@
     }
   ],
   "Business": [
+    {
+      "title": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
+      "link": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-08T01:50:07+00:00",
+      "score": 14,
+      "summary": "Canada had condemned Iran\u2019s \"destabilizing actions\" in the Middle East, saying that it would work with partners to maintain significant pressure on Iran.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Canada",
+        "Strait",
+        "Hormuz"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Oil extends gains as renewed Mideast hostilities raise worries of prolonged conflict",
       "link": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
@@ -26307,25 +26329,57 @@
       ],
       "trend_accel": "+82%",
       "heat_level": "CRITICAL"
+    }
+  ],
+  "Science": [
+    {
+      "title": "The incongruity of caste and science",
+      "link": "https://www.thehindu.com/opinion/op-ed/the-incongruity-of-caste-and-science/article71440072.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-08T07:24:49+05:30",
+      "score": 10,
+      "summary": "A student\u2019s ability to understand thermodynamics or solve a differential equation has nothing to do with the ritual status of their ancestors",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 6.6,
+      "source_count": 9,
+      "sources_reporting": [
+        "AP",
+        "Guardian",
+        "NPR",
+        "The Hindu"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "HOT"
     },
     {
-      "title": "Think of Nvidia\u2019s $13 billion deal for Hugging Face as a form of \u2018health insurance\u2019",
-      "link": "https://www.marketwatch.com/story/think-of-nvidias-13-billion-deal-for-hugging-face-as-a-form-of-health-insurance-04c37535?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-09-04T16:19:00+00:00",
-      "score": 17,
-      "summary": "As long as open-source AI models dominate, Nvidia\u2019s custom chip competitors won\u2019t be able to take over its share of the market, an analyst says",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
+      "title": "ISRO won\u2019t be \u2018diminished\u2019, says IN-SPACe chairman",
+      "link": "https://www.thehindu.com/sci-tech/science/isro-staff-bodies-seek-clarification-on-the-trajectory-of-privatisation/article71434745.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-08T07:18:23+05:30",
+      "score": 14,
+      "summary": "The clarification follows concerns raised by nine ISRO employee associations over privatisation",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Nvidias",
-        "Hugging",
-        "Face"
+        "INSPACe"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26334,15 +26388,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "MarketWatch"
+        "The Hindu"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Changing the antibiotic playbook to catch an ESKAPE artist",
       "link": "https://phys.org/news/2026-09-antibiotic-playbook-eskape-artist.html",
@@ -26399,8 +26451,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -32465,66 +32517,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "A molecular brake that keeps muscle architecture in check",
-      "link": "https://phys.org/news/2026-09-molecular-muscle-architecture.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-03T17:00:01-04:00",
-      "score": 10,
-      "summary": "Every movement we make, from blinking to sprinting, depends on the ability of muscle fibers to contract in a rapid and coordinated way. Achieving this precision requires an intricate internal membrane network known as the transverse tubule, or T-tubule, system. These narrow me...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Hot subdwarfs come into focus as AI scans thousands of stars in Gaia data",
-      "link": "https://phys.org/news/2026-09-hot-subdwarfs-focus-ai-scans.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-03T16:40:05-04:00",
-      "score": 14,
-      "summary": "There are myriad ways of \"being a star,\" and scientists spend years trying to uncover and understand them. One unusual type is the so-called hot subdwarf\u2014small stars that burn mysteriously hot for their size. Scientists from the Faculty of Physics and the Faculty of Mathematic...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gaia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33257,49 +33249,6 @@
         "NPR"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Jack Pyburn Claimed by Chiefs After Being Waived by Bucs, Will Stay in NFL Amid LSU Buzz - bleacherreport.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXNHbEhEdURMU2hGcDh2bEt3OG9udzEyT2pFeEhZdy1mbjFMLVZnSXY1aFVTU18tTGlkUVRpX0JGOE5kM2VIbHFacnRSWE40VmV4aEl4QmZEYk9ta3ZFaHVMV3lOcTNDVlpOUUlqYWhFY0VrdkRYRW16Tlp4c18tNWlrZEJ0ejh6TFk2MFUzbW9jOEEwNjdZS2hpY3I2NzZ0Sk9mVzFiV2hCNHdIS1ViZ1ZkYlF5UDFEOW5GRUk5MFg?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-01T01:52:30+00:00",
-      "score": 14,
-      "summary": "Jack Pyburn Claimed by Chiefs After Being Waived by Bucs, Will Stay in NFL Amid LSU Buzz bleacherreport.comKansas City Chiefs may have ruined Jack Pyburn's plan to make big money at LSU by giving him a job in the NFL Fox NewsFormer LSU edge Jack Pyburn, primary plaintiff in Lo...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pyburn",
-        "Claimed",
-        "Chiefs",
-        "After",
-        "Being",
-        "Waived",
-        "Bucs",
-        "Will",
-        "Stay",
-        "NFL",
-        "Amid",
-        "LSU",
-        "Buzz"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+43%",
       "heat_level": "LOW"
     }
   ],
@@ -44908,46 +44857,41 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "Shein Makes IPO Debut at $26.5B Valuation, a Fraction of Previous Estimates",
-      "link": "https://www.vogue.com/article/shein-makes-long-awaited-ipo-debut-at-dollar263-billion-valuation",
-      "source": "Vogue",
-      "timestamp": "2026-09-01T01:54:18+00:00",
+      "title": "M 2.8 - 76 km S of Kaktovik, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rtxhvg",
+      "source": "USGS",
+      "timestamp": "2026-09-08T01:58:56.296000+00:00",
       "score": 15,
-      "summary": "Ultra-fast fashion giant Shein went public on the Hong Kong Stock Exchange this morning at a fraction of its former value. How did its IPO efforts go awry?",
+      "summary": "Time2026-09-08 01:54:22 UTC2026-09-08 01:54:22 UTC at epicenterLocation69.448\u00b0N 143.492\u00b0WDepth5.70 km (3.54 mi)",
       "country": "US",
       "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Makes",
-        "IPO",
-        "Debut",
-        "Valuation",
-        "Fraction",
-        "Previous",
-        "Estimates"
+        "Kaktovik",
+        "Alaska"
       ],
-      "severity_score": 0,
+      "severity_score": 3,
       "alert_level": "low",
-      "mode": "normal",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "Vogue"
+        "USGS"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
     {
       "title": "M 2.0 - 20 km SSE of P\u0101hala, Hawaii",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030732",
@@ -51391,38 +51335,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 8 km NE of Lake Davis, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75430817",
-      "source": "USGS",
-      "timestamp": "2026-09-06T19:02:21.243000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-06 19:00:34 UTC2026-09-06 19:00:34 UTC at epicenterLocation39.924\u00b0N 120.408\u00b0WDepth8.98 km (5.58 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lake",
-        "Davis"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
