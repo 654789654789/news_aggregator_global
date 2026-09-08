@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "Gas prices reach Labor Day high amid Iran war",
+      "link": "https://thehill.com/policy/energy-environment/6075479-labor-day-gas-prices-rise/",
+      "source": "The Hill",
+      "timestamp": "2026-09-08T02:52:36+00:00",
+      "score": 12,
+      "summary": "The average price of gas going into this Labor Day weekend reached a record holiday high compared to past years at $4.14 a gallon, according to a national tracking average from AAA. The previous record for Labor Day was $3.82 in 2012. The high price for fuel comes as diesel hi...",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Labor",
+        "Day",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Maharashtra will shut down within 10 minutes if Maratha protesters are harmed: Manoj Jarange Patil",
       "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-will-shut-down-within-10-minutes-if-maratha-protesters-are-harmed-manoj-jarange-patil/article71439452.ece",
       "source": "The Hindu",
@@ -6570,40 +6603,6 @@
       ],
       "trend_accel": "+80%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Hawaii residents told to expect tropical storm conditions as Hurricane Lowell passes to the west",
-      "link": "https://www.pbs.org/newshour/nation/hawaii-residents-told-to-expect-tropical-storm-conditions-as-hurricane-lowell-passes-to-the-west",
-      "source": "PBS",
-      "timestamp": "2026-09-06T18:28:24-04:00",
-      "score": 14,
-      "summary": "The Miami-based center issued the warning for Kauai and Niihau as Lowell was forecast to pass the islands to the west late Monday and Tuesday while traveling north.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Hurricane",
-        "Lowell"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "PBS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Tech": [
@@ -13148,6 +13147,39 @@
   ],
   "World": [
     {
+      "title": "Border Force seizes 1.7m cigarettes, thousands of vapes in WA, NT raids",
+      "link": "https://www.abc.net.au/news/2026-09-08/wa-nt-illegal-cigarettes-tobacco-vapes-raids-police-border-force/107127594",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-08T02:55:57+00:00",
+      "score": 17,
+      "summary": "The Australian Border Force has seized more than 1.7 million illegal cigarettes and thousands of vapes with a street value of more than $800,000 in a joint operation across Western Australian and the Northern Territory.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Force"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Ishan Kishan signals red-ball intent with mammoth 270",
       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/duleep-trophy-final-ishan-kishan-signals-red-ball-intent-with-mammoth-270/articleshow/133904100.cms",
       "source": "Times of India",
@@ -19657,24 +19689,27 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Maternity unit problems persist at Toowoomba Hospital, review finds",
-      "link": "https://www.abc.net.au/news/2026-09-07/toowoomba-hospital-maternity-unit-issues-yet-to-be-fixed/107123242",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-07T01:01:29+00:00",
+      "title": "China's imports in August miss estimates as exports pick up pace amid calls for rebalancing trade",
+      "link": "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-08T02:58:58+00:00",
       "score": 12,
-      "summary": "Longstanding issues at Toowoomba Hospital's troubled maternity unit are yet to be resolved, according to an independent review of the ward.",
-      "country": "Australia",
-      "region": "Oceania",
+      "summary": "China's exports and imports gathered momentum in August, as the world's second-largest economy faces mounting pressure to rebalance trade.",
+      "country": "China",
+      "region": "East Asia",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Toowoomba",
-        "Hospital"
+        "August"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19683,15 +19718,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
       "link": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
@@ -26297,37 +26330,6 @@
       ],
       "trend_accel": "+59%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Japanese yen surged this week. Why the rally may not last",
-      "link": "https://www.cnbc.com/2026/09/04/japanese-yen-surged-this-week-why-the-rally-may-not-last.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-04T16:37:10+00:00",
-      "score": 12,
-      "summary": "The yen strengthened against the dollar following the July currency intervention, but weakened in the next month.",
-      "country": "Japan",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Why"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -32545,7 +32547,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.4,
+      "trend_score": 6.3,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -32553,7 +32555,7 @@
         "Guardian",
         "NPR"
       ],
-      "trend_accel": "+61%",
+      "trend_accel": "+60%",
       "heat_level": "LOW"
     },
     {
@@ -44818,6 +44820,37 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 0.3 - 19 km NW of Parkfield, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75431522",
+      "source": "USGS",
+      "timestamp": "2026-09-08T02:47:19.718000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-08 02:45:43 UTC2026-09-08 02:45:43 UTC at epicenterLocation36.021\u00b0N 120.582\u00b0WDepth1.38 km (0.86 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Parkfield"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 3.0 - 56 km N of Charlotte Amalie, U.S. Virgin Islands",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71531163",
       "source": "USGS",
@@ -51264,38 +51297,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.2 - 3 km SW of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75030182",
-      "source": "USGS",
-      "timestamp": "2026-09-06T19:27:44.610000+00:00",
-      "score": 17,
-      "summary": "Time2026-09-06 19:24:12 UTC2026-09-06 19:24:12 UTC at epicenterLocation19.178\u00b0N 155.497\u00b0WDepth1.70 km (1.06 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
