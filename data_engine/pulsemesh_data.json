@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "NHRC seeks DGP\u2019s report on ignoring complaint against Harish Rao",
+      "link": "https://www.thehindu.com/news/national/telangana/nhrc-seeks-dgps-report-on-ignoring-complaint-against-harish-rao/article71448704.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-09T23:51:21+05:30",
+      "score": 14,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "DGPs",
+        "Harish",
+        "Rao"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Republicans gather in Dallas for two-day midterm convention billed as 'Trump-a-Palooza'",
       "link": "https://www.pbs.org/newshour/politics/republicans-gather-in-dallas-for-two-day-midterm-convention-billed-as-trump-a-palooza",
       "source": "PBS",
@@ -6632,24 +6665,24 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Protesters seek recruitment notification for 72,000 vacancies in Karnataka",
-      "link": "https://www.thehindu.com/news/national/karnataka/protesters-seek-recruitment-notification-for-72000-vacancies-in-karnataka/article71442643.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-09T00:46:25+05:30",
+      "title": "Apple is raising iPhone prices by $100 on all of its old models",
+      "link": "https://www.theverge.com/tech/992551/apple-iphone-17-17e-air-price-increase",
+      "source": "Verge",
+      "timestamp": "2026-09-09T14:30:24-04:00",
       "score": 15,
-      "summary": "The All India Democratic Youth Organisation (AIDYO) and the Job Aspirants\u2019 Struggle Committee (JASC) staged a protest in front of Dharwad Deputy Commissioner\u2019s office in Dharwad on Tuesday, urging the State government to immediately issue recruitment notifications for the 72,0...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "Following Apple's \"Surprise and shine\" event that saw the announcement of the iPhone Duo and the iPhone 18 Pro, the company increased the price of all of its last-gen iPhones that are still available for purchase. The iPhone 16 sold for $699 just last week, and now it's up to ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Karnataka"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6659,13 +6692,104 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Apple iPhone Duo launch event: the 5 biggest announcements",
+      "link": "https://www.theverge.com/tech/991965/apple-iphone-duo-launch-event-biggest-announcements",
+      "source": "Verge",
+      "timestamp": "2026-09-09T14:24:59-04:00",
+      "score": 15,
+      "summary": "Apple just wrapped up its first iPhone launch event with CEO John Ternus at the helm, and it did not disappoint. We got a look at Apple's long-rumored foldable iPhone Duo, along with the next generation of AirPods and the Apple Watch. Here's a roundup of all the biggest announ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Duo"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Verge"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Apple brought ceramic back for the Series 12",
+      "link": "https://www.theverge.com/tech/989427/ceramic-apple-watch-series-12-edition",
+      "source": "Verge",
+      "timestamp": "2026-09-09T14:19:02-04:00",
+      "score": 15,
+      "summary": "The Apple Watch Series 12 is launching with a ceramic option, making it the company's first wearable since 2019's Series 5 that can be configured with the pricey, scratch-resistant material. It can be configured with either pearl white or night blue ceramic finishes, and it st...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Series"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Verge"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Apple\u2019s revamped Health app will calculate your \u2018health age\u2019 and readiness score",
+      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-09T18:16:29+00:00",
+      "score": 12,
+      "summary": "The update uses Apple Intelligence to make better sense of your health data.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Health"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "TechCrunch"
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Apple completely revamped iOS 27\u2019s controls and apps for the iPhone Duo",
       "link": "https://www.theverge.com/tech/989294/iphone-ultra-fold-multitasking-ios",
@@ -13025,24 +13149,25 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Lenovo\u2019s new MacBook Neo competitor comes in two sizes and seven colors",
-      "link": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs",
-      "source": "Verge",
-      "timestamp": "2026-09-03T12:00:00-04:00",
+      "title": "David Byrne never planned to be a musician",
+      "link": "https://www.abc.net.au/news/2026-09-10/david-byrne-talking-heads-take-5-interview/107125930",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-09T18:30:00+00:00",
       "score": 12,
-      "summary": "Lenovo is announcing the IdeaPad Vibe, a productivity laptop aimed at taking on the MacBook Neo with a similar starting price and a wider range of colors. The Vibe comes in 14- and 15-inch sizes, with AMD and Qualcomm chip options due out in October and November, respectively....",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "David Byrne wanted to see if he could write a song and ended up writing a classic. He's followed his curiosity ever since.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "MacBook",
-        "Neo"
+        "Byrne"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13051,32 +13176,29 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "Verge"
+        "ABC Australia"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
-      "title": "The Moto Watch Ultra is a return to Wear OS",
-      "link": "https://www.theverge.com/gadgets/988734/moto-watch-ultra-release-date-price-specs-wear-os-ifa",
-      "source": "Verge",
-      "timestamp": "2026-09-03T12:00:00-04:00",
-      "score": 12,
-      "summary": "Just a few months after getting back into the smartwatch game, Motorola is targeting the premium end of the market with the first Moto Watch Ultra. It comes with some upgrades from the recent Moto Watch - most obviously the jump to Wear OS - but lacks the outdoorsy features th...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Practical Magic 2 is practically magic, with a few missing ingredients",
+      "link": "https://www.abc.net.au/news/2026-09-10/practical-magic-2-review-nicole-kidman-sandra-bullock/107133486",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-09T18:30:00+00:00",
+      "score": 15,
+      "summary": "The Owens sisters return almost 30 years after the original enchanted a generation, but heavy handed nostalgia can't make up for a hollow story.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Moto",
-        "Watch",
-        "Ultra",
-        "Wear"
+        "Magic"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13087,58 +13209,34 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Verge"
+        "ABC Australia"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "source": "Verge",
-      "timestamp": "2026-09-03T12:00:00-04:00",
-      "score": 14,
-      "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardwa...",
+      "title": "14 Killed in Weapons Depot Blast in Northwest Syria",
+      "link": "https://www.nytimes.com/2026/09/09/world/middleeast/14-killed-in-weapons-depot-blast-in-northwest-syria.html",
+      "source": "NYT",
+      "timestamp": "2026-09-09T18:24:17+00:00",
+      "score": 15,
+      "summary": "Officials said they had not determined the cause of the explosion. Years of fighting have left Syria littered with weapons and ordnance left over from the civil war.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Verge"
+      "topic_tags": [
+        "Military"
       ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Google launches AI voice features in Gmail, Docs and Keep",
-      "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-03T16:00:00+00:00",
-      "score": 14,
-      "summary": "Users can search for emails or draft documents using the new conversational feature",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
       "entities": [
-        "Gmail",
-        "Docs",
-        "Keep"
+        "Killed",
+        "Weapons",
+        "Depot",
+        "Blast",
+        "Northwest",
+        "Syria"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13149,13 +13247,42 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "NYT"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Treasury yields jump as Bessent\u2019s $6bn buyback plan disappoints investors",
+      "link": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
+      "source": "FT",
+      "timestamp": "2026-09-09T18:22:29+00:00",
+      "score": 15,
+      "summary": "10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bessents"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "FT"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "US spy chief prepares for greater role in Russia-Ukraine talks",
       "link": "https://www.ft.com/content/d0557d25-78b5-45d8-bb33-d655e859d803?syn-25a6b1a6=1",
@@ -19606,53 +19733,26 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Man wanted over axe attack arrested in Victoria's east",
-      "link": "https://www.abc.net.au/news/2026-09-09/peter-oryan-arrested-after-tyers-axe-attack/107131518",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-08T19:25:59+00:00",
+      "title": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say",
+      "link": "https://www.cnbc.com/2026/09/09/fed-interest-rates-consumers-benefit-rates-stay-higher.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-09T18:29:51+00:00",
       "score": 12,
-      "summary": "Peter O'Ryan, 48, had been on the run since allegedly attacking family members with an axe at Tyers on Saturday.",
-      "country": "Australia",
-      "region": "Oceania",
+      "summary": "As the Trump administration ramps up pressure on the Federal Reserve, consumers may be better served if senior officials back off, experts say.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Victorias"
+        "Fed"
       ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Victims of serious youth crimes to be told when offenders leave prison",
-      "link": "https://www.abc.net.au/news/2026-09-09/victorian-offender-register-among-youth-justice-changes/107128348",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-08T19:25:07+00:00",
-      "score": 10,
-      "summary": "Victims of the most serious youth crimes could be notified when offenders leave prison under significant changes to Victoria's youth justice system due at the end of the month.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19662,27 +19762,28 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
     },
     {
-      "title": "Canada will move faster from US reliance as tariffs take effect and Trump response looms",
-      "link": "https://www.france24.com/en/canada-will-move-faster-from-us-reliance-as-tariffs-take-effect-and-trump-response-looms",
-      "source": "France24",
-      "timestamp": "2026-09-08T19:19:16+00:00",
-      "score": 12,
-      "summary": "Canadian Prime Minister Mark Carney said Tuesday that Canada would move faster to reduce its economic reliance on the United States as retaliatory tariffs took effect on about $20 billion worth of U.S. goods and the country braced for President Donald Trump\u2019s response. FRANCE ...",
+      "title": "Apple event live updates: The foldable iPhone Duo starts at $1,999 and hits stores on Oct. 23",
+      "link": "https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-09T18:20:08+00:00",
+      "score": 15,
+      "summary": "Follow Apple\u2019s Sept. 9 event live for new product announcements, prices, release dates and the company\u2019s first launch under CEO John Ternus.",
       "country": "US",
       "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Trump"
+        "Duo",
+        "Oct"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19693,48 +19794,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "France24"
+        "CNBC"
       ],
-      "trend_accel": "+53%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Trump tells Putin he wants swift end to Ukraine war, Kremlin says",
-      "link": "https://www.france24.com/en/europe/20260908-trump-tells-putin-he-wants-swift-end-to-ukraine-war-kremlin-says",
-      "source": "France24",
-      "timestamp": "2026-09-08T19:07:58+00:00",
-      "score": 14,
-      "summary": "US President Donald Trump told Russian President Vladimir Putin he wanted a swift end to the Ukraine war, the Kremlin said, arguing that peace could pave the way for a broad restoration of US-Russia ties. The hour-long call Tuesday followed weekend talks by US envoys Steve Wit...",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Putin",
-        "Ukraine",
-        "Kremlin"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Apple event live updates: Ternus reveals the foldable iPhone Duo",
       "link": "https://www.cnbc.com/2026/09/09/apple-event-today-live-updates.html",
@@ -26237,31 +26301,32 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Here are Tuesday's biggest analyst calls: Nvidia, SpaceX, Apple, Intel, Airbnb, Lockheed Martin, Tesla & more",
-      "link": "https://www.cnbc.com/2026/09/08/big-tuesday-wall-street-analyst-calls-include-nvidia-spacex-airbnb.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-08T12:16:19+00:00",
-      "score": 14,
-      "summary": "Here are Tuesday's biggest calls on Wall Street.",
+      "title": "Scientists Discover the Earliest Evidence of Drug Use in Really Old Teeth",
+      "link": "https://www.nytimes.com/2026/09/09/science/scientists-discover-the-earliest-evidence-of-drug-use-in-really-old-teeth.html",
+      "source": "NYT",
+      "timestamp": "2026-09-09T18:26:10+00:00",
+      "score": 12,
+      "summary": "A hunter-gatherer who lived in Indonesia as early as 25,000 years ago may have regularly sucked on betel nuts to release their psychoactive properties.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
+      "source_type": "Newspaper",
+      "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Tuesdays",
-        "Nvidia",
-        "SpaceX",
-        "Apple",
-        "Intel",
-        "Airbnb",
-        "Lockheed",
-        "Martin",
-        "Tesla"
+        "Discover",
+        "Earliest",
+        "Evidence",
+        "Drug",
+        "Use",
+        "Really",
+        "Old",
+        "Teeth"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26272,34 +26337,28 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "NYT"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
     {
-      "title": "No Luxury Spared: New High-End Cruise Ships Set Sail",
-      "link": "https://www.nytimes.com/2026/09/08/travel/new-luxury-cruise-ships.html",
-      "source": "NYT",
-      "timestamp": "2026-09-08T12:06:30+00:00",
-      "score": 14,
-      "summary": "The latest batch of yacht-like vessels sailing in Europe, the Caribbean and beyond offer personalized experiences, great food and spacious suites.",
+      "title": "You can't shield kids from scary news\u2014here's what 'Sesame Street' and other children's shows did after 9/11",
+      "link": "https://phys.org/news/2026-09-shield-kids-scary-news-sesame.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-09T14:20:07-04:00",
+      "score": 15,
+      "summary": "On back-to-school night in 2005, I eagerly entered my youngest child's first-grade classroom. The walls were festooned with brightly colored responses to the prompt: \"Draw something you remember.\"",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Science Publication",
       "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Luxury",
-        "Spared",
-        "New",
-        "HighEnd",
-        "Cruise",
-        "Ships",
-        "Set",
-        "Sail"
+        "Sesame",
+        "Street"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26308,15 +26367,42 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "NYT"
+        "Phys.org"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "AI reveals new class of cellular 'off switch' linked to cancer pathways",
+      "link": "https://phys.org/news/2026-09-ai-reveals-class-cellular-linked.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-09T14:20:03-04:00",
+      "score": 12,
+      "summary": "Cornell researchers have used artificial intelligence to uncover a previously unknown way cells control how proteins move inside them, a process essential for growth, communication and movement that is often disrupted in cancer.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Body-related TikTok content linked to self-objectification and mood",
       "link": "https://phys.org/news/2026-09-body-tiktok-content-linked-objectification.html",
@@ -32467,97 +32553,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Genomic analysis clarifies origin of unusual tail in endangered Tsushima leopard cat",
-      "link": "https://phys.org/news/2026-09-genomic-analysis-unusual-tail-endangered.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-07T10:00:09-04:00",
-      "score": 14,
-      "summary": "Tsushima leopard cats are an endangered species found only on this isolated island. The most recent government survey estimated the population at around 150 individuals, and because domestic cats also inhabit the same landscape, introgression is a legitimate conservation concern.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tsushima"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Isle of Jura research casts new light on how rivers carve through landscapes",
-      "link": "https://phys.org/news/2026-09-isle-jura-rivers-landscapes.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-07T10:00:07-04:00",
-      "score": 12,
-      "summary": "The waters of the remote Scottish island of Jura have long been famous for making whiskey. Now, the island's rivers have helped geologists learn more about how rivers erode rocks, providing new evidence that what streams carry plays an important role in how they carve through ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Jura"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Rare pulsar unleashes 114 giant pulses in a single hour",
-      "link": "https://phys.org/news/2026-08-rare-pulsar-unleashes-giant-pulses.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-07T09:50:01-04:00",
-      "score": 13,
-      "summary": "Astronomers have detected extreme, never-before-seen behavior from a rare kind of pulsar and stumbled on a surprising link to one of astronomy's biggest current mysteries. Using 174 hours of radio observations, researchers detected PSR J1227-4853, a rapidly spinning neutron st...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33353,6 +33348,84 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "CBS\u2019 \u201848 Hours\u2019 Moves Into Video Podcasting With New Show",
+      "link": "https://www.hollywoodreporter.com/business/digital/cbs-48-hours-video-podcasting-1236695658/",
+      "source": "THR",
+      "timestamp": "2026-09-09T18:19:32+00:00",
+      "score": 15,
+      "summary": "'The Woman in the Woods,' about the mysterious death of Mindi Kassotis, is the first in the new format.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hours",
+        "Moves",
+        "Into",
+        "Video",
+        "Podcasting",
+        "New",
+        "Show"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Practical Magic 2\u2019 Hopes To Weave Spell & Keep Box Office Alive; Global Outlook $58M-$63M \u2013 Box Office Preview",
+      "link": "https://deadline.com/2026/09/box-office-practical-magic-2-1237072094/",
+      "source": "Deadline",
+      "timestamp": "2026-09-09T18:17:50+00:00",
+      "score": 15,
+      "summary": "After summer hit a record $4.76 billion stateside, Warner Bros has a female destination in Practical Magic 2, the sequel to the 1998 Sandra Bullock and Nicole Kidman witchy romantic fantasy comedy which is eyeing around $40M domestic, and between $18-23M overseas in 77 territo...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Magic",
+        "Hopes",
+        "Weave",
+        "Spell",
+        "Keep",
+        "Box",
+        "Office",
+        "Alive",
+        "Global",
+        "Outlook",
+        "Preview"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018RuPaul\u2019s Drag Race UK: All Stars\u2019 Set to Premiere on WOW Presents Plus (EXCLUSIVE)",
       "link": "https://variety.com/2026/tv/global/rupauls-drag-race-uk-all-stars-wow-presents-plus-2027-1236854337/",
@@ -40475,7 +40548,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.0,
+      "trend_score": 10.9,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -40485,7 +40558,7 @@
         "THR",
         "Variety"
       ],
-      "trend_accel": "+87%",
+      "trend_accel": "+86%",
       "heat_level": "CRITICAL"
     },
     {
@@ -41286,83 +41359,6 @@
         "THR"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018The Gentleman\u2019 Returns To 45% Audience Decline For Season 2 Debut On Netflix",
-      "link": "https://deadline.com/2026/09/the-gentleman-season-2-premiere-viewership-netflix-top-10-1237071272/",
-      "source": "Deadline",
-      "timestamp": "2026-09-08T19:14:05+00:00",
-      "score": 15,
-      "summary": "The Gentleman has returned to Netflix for a second season, and similar to many of the streamer\u2019s continuing series lately, it couldn\u2019t quite attract the same audience it did with Season 1. Season 2 of The Gentleman, which debuted September 3, tallied 6.7 million views in its f...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gentleman",
-        "Returns",
-        "Audience",
-        "Decline",
-        "Season",
-        "Debut",
-        "Netflix"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "William Shatner Offers Tongue-In-Cheek Praise For Trump\u2019s Widely Derided Space Force Outfits",
-      "link": "https://deadline.com/2026/09/shatner-rips-trump-space-force-uniforms-1237070062/",
-      "source": "Deadline",
-      "timestamp": "2026-09-08T19:12:39+00:00",
-      "score": 14,
-      "summary": "William Shatner may be up for a well-deserved role in Mel Brooks\u2019 Spaceballs sequel after the Star Trek legend\u2019s latest roasting of Donald Trump. On a Labor Day long weekend that saw the former Apprentice host posting missives aiming to appropriate HBO\u2019s trending Lanterns, ren...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Shatner",
-        "Offers",
-        "TongueInCheek",
-        "Praise",
-        "Trumps",
-        "Widely",
-        "Derided",
-        "Space",
-        "Force",
-        "Outfits"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
