@@ -6606,6 +6606,42 @@
   ],
   "Tech": [
     {
+      "title": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "source": "Verge",
+      "timestamp": "2026-09-12T12:23:40-04:00",
+      "score": 14,
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "CEO"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 10.5,
+      "source_count": 15,
+      "sources_reporting": [
+        "BBC",
+        "NPR",
+        "Reuters",
+        "TechCrunch",
+        "Verge",
+        "Wired"
+      ],
+      "trend_accel": "+81%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Anthropic CEO outlines plan to \u2018pace the frontier\u2019",
       "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
       "source": "TechCrunch",
@@ -10275,8 +10311,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -13022,45 +13058,76 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Rocket Loses $287,000 in Attack Targeting Dormant Perpetual Market",
-      "link": "https://www.gadgets360.com/cryptocurrency/news/rocket-loses-usd-287000-in-attack-targeting-dormant-perpetual-market-crypto-hacks-scams-frauds-exploits-12013997",
-      "source": "Gadgets 360",
-      "timestamp": "2026-09-07T19:20:05+05:30",
-      "score": 17,
-      "summary": "Rocket has halted deposits, withdrawals, and trading after an attacker manipulated an inactive perpetual market to generate artificial profits. The attacker used a burner wallet to trade against itself at inflated prices before withdrawing around $287,000 (roughly Rs. 2.7 cror...",
+      "title": "India\u2019s central bank tells Tata Sons to take conglomerate public",
+      "link": "https://www.ft.com/content/6a173e7c-cfe8-4ab8-8c8f-b90871cc907e?syn-25a6b1a6=1",
+      "source": "FT",
+      "timestamp": "2026-09-12T16:20:04+00:00",
+      "score": 12,
+      "summary": "RBI rejects group\u2019s appeal against forced listing, setting the stage for what could become India\u2019s biggest IPO",
       "country": "India",
       "region": "South Asia",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Newspaper",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Loses",
-        "Attack",
-        "Targeting",
-        "Dormant",
-        "Perpetual",
-        "Market"
+        "Tata",
+        "Sons"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Gadgets 360"
+        "FT"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Russia\u2019s new drone strategy: How jet-powered Gerans are changing the economics of warfare",
+      "link": "https://timesofindia.indiatimes.com/defence/international/russias-new-drone-strategy-how-jet-powered-gerans-are-changing-the-economics-of-warfare/articleshow/134143305.cms",
+      "source": "Times of India",
+      "timestamp": "2026-09-12T21:46:52+05:30",
+      "score": 12,
+      "summary": "Throughout August, Russia ramped up its use of jet-powered Geran drones, presenting a formidable challenge to Ukraine's air defenses due to their increased speed. In response, Ukraine is actively pursuing new interceptor missiles to combat this shifting threat. Simultaneously,...",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "How",
+        "Gerans"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Death Toll From Ferry Fire in the Philippines Rises to 76",
       "link": "https://www.nytimes.com/2026/09/12/world/asia/death-toll-from-ferry-fire-in-the-philippines-rises-to-76.html",
@@ -19559,70 +19626,6 @@
         "France24"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Ugandan kingdom gripped by succession battle after monarch's death",
-      "link": "https://www.france24.com/en/video/20260911-ugandan-kingdom-gripped-by-succession-battle-after-monarch-s-death",
-      "source": "France24",
-      "timestamp": "2026-09-11T14:04:01+00:00",
-      "score": 10,
-      "summary": "The traditional Ugandan kingdom of \u200bTooro was plunged into a bitter succession battle on Thursday after the family of the late king, Oyo Nyimba, rejected clan members' choice of a television news anchor to succeed him.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "A cultural stroll through Paris with actor Alex Vizorek and singer H\u00e9l\u00e8ne S\u00e9gara",
-      "link": "https://www.france24.com/en/tv-shows/paris-des-arts/20260911-a-cultural-stroll-through-paris-with-actor-alex-vizorek-and-singer-h%C3%A9l%C3%A8ne-s%C3%A9gara",
-      "source": "France24",
-      "timestamp": "2026-09-11T14:04:00+00:00",
-      "score": 12,
-      "summary": "This week on Paris des Arts, Belgian comedian Alex Vizorek takes us to the Th\u00e9\u00e2tre des Mathurins to talk about his latest one-man show, \"Deux et demi.\" After putting on a series of shows about art, the comedian turns to more personal themes: the passage of time, his grandmothe...",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Paris",
-        "Alex",
-        "Vizorek",
-        "Hlne",
-        "Sgara"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ],
@@ -32376,7 +32379,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.9,
+      "trend_score": 7.8,
       "source_count": 9,
       "sources_reporting": [
         "Cricinfo",
@@ -33334,6 +33337,135 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Iranian \u2018A Bit Of Light\u2019 Filmmakers Discuss Timely Venice Contender: \u201cWe Have To Talk About The Reality\u2026 Of The Mass Killing That Happened\u201d",
+      "link": "https://deadline.com/2026/09/iranian-a-bit-of-light-filmmakers-venice-1237100036/",
+      "source": "Deadline",
+      "timestamp": "2026-09-12T16:30:10+00:00",
+      "score": 12,
+      "summary": "Iranian director Ali Asgari\u2019s contemporary Tehran-set drama A Bit Of Light premiered at the Venice Film Festival on Friday evening as the penultimate competition screening. The raw, timely drama was shot in the immediate aftermath of the Islamic Republic\u2019s brutal crackdown of ...",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bit",
+        "Light",
+        "Filmmakers",
+        "Discuss",
+        "Timely",
+        "Venice",
+        "Contender",
+        "Have",
+        "Talk",
+        "About",
+        "Reality",
+        "Mass",
+        "Killing",
+        "That",
+        "Happened"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Jeremy Thomas Remembered as a Filmmaker \u2018Full of Stories\u2019 Who \u2018Made Great Movies\u2019: \u2018The Canon of His Work is Unmatched\u2019",
+      "link": "https://variety.com/2026/film/global/jeremy-thomas-tributes-luca-guadagnino-1236859499/",
+      "source": "Variety",
+      "timestamp": "2026-09-12T16:28:38+00:00",
+      "score": 12,
+      "summary": "Tributes have begun flowing from across the film world for Jeremy Thomas, the legendary British producer who passed away on Friday at the age of 77. \u201cHe made great movies and was a loyal, dear friend,\u201d said producer and publisher Charles Finch. \u201cHis father, Ralph, made a film ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Thomas",
+        "Remembered",
+        "Filmmaker",
+        "Full",
+        "Stories",
+        "Who",
+        "Made",
+        "Great",
+        "Movies",
+        "Canon",
+        "His",
+        "Work",
+        "Unmatched"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Practical Magic 2\u2019 Leads Box Office as \u2018Spider-Man\u2019 Eyes All-Time Domestic Record",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/",
+      "source": "THR",
+      "timestamp": "2026-09-12T16:26:38+00:00",
+      "score": 15,
+      "summary": "Sandra Bullock and Nicole Kidman's sequel is set to end the six-week stretch at the top for 'Brand New Day,' as the frame also sees the debuts of 'Runner' and 'The Uprising.'",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Magic",
+        "Leads",
+        "Box",
+        "Office",
+        "SpiderMan",
+        "Eyes",
+        "AllTime",
+        "Domestic",
+        "Record"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Being Heumann\u2019 Producer Kevin Walsh Readies Star Vehicles For Paul Rudd & Sam Rockwell, Series With Casey Affleck: TIFF",
       "link": "https://deadline.com/2026/09/kevin-walsh-paul-rudd-sam-rockwell-casey-affleck-1237100028/",
@@ -41383,123 +41515,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u20189/11: Reunited\u2019 Firefighter on Giuliani\u2019s Mamdani Attack: \u201cLeave Politics Out of It\u201d",
-      "link": "https://www.hollywoodreporter.com/news/general-news/9-11-reunited-firefighter-giuliani-mamdani-politics-nat-geo-1236697089/",
-      "source": "THR",
-      "timestamp": "2026-09-11T12:45:00+00:00",
-      "score": 15,
-      "summary": "In the National Geographic docuseries, Bill Spade, the sole survivor of Staten Island\u2019s Rescue Company 5 crew, finally tells an NYPD officer\u2019s sons about their father\u2019s last moments.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Reunited",
-        "Firefighter",
-        "Giulianis",
-        "Mamdani",
-        "Attack",
-        "Leave",
-        "Politics",
-        "Out"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Toronto: Ex-Prime Minister Justin Trudeau Launches Film, TV Production Banner Hope & Hard Work",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/toronto-justin-trudeau-launches-producer-hope-and-hard-work-1236697524/",
-      "source": "THR",
-      "timestamp": "2026-09-11T12:32:02+00:00",
-      "score": 12,
-      "summary": "The former Canadian politician has found time away from partner and pop star Katy Perry to develop a scripted and unscripted slate alongside co-founder Katie Telford.",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ExPrime",
-        "Minister",
-        "Justin",
-        "Trudeau",
-        "Launches",
-        "Film",
-        "Production",
-        "Banner",
-        "Hope",
-        "Hard",
-        "Work"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "B2K\u2019s Raz B, Wife Mona Li Mourn Death of 3-Month-Old Baby Boy",
-      "link": "https://www.eonline.com/news/1435960/b2ks-raz-b-wife-mona-li-mourn-death-of-3-month-old-baby-boy?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-09-11T12:17:04+00:00",
-      "score": 15,
-      "summary": "De'Mario \"Raz B\" Thornton and Mona Li Thornton are navigating a heartbreaking loss. The B2K singer and his wife shared the death of their son Astro Monte Thornton just three months after welcoming...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Raz",
-        "Wife",
-        "Mona",
-        "Mourn",
-        "Death",
-        "MonthOld",
-        "Baby",
-        "Boy"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -47071,6 +47086,103 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 11 km SE of Pyote, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026rznbpo",
+      "source": "USGS",
+      "timestamp": "2026-09-12T16:30:46.016000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-12 16:24:08 UTC2026-09-12 16:24:08 UTC at epicenterLocation31.460\u00b0N 103.040\u00b0WDepth0.00 km (0.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pyote",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 8 km SSE of Redlands, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546200",
+      "source": "USGS",
+      "timestamp": "2026-09-12T16:23:16.940000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-12 16:12:36 UTC2026-09-12 16:12:36 UTC at epicenterLocation33.986\u00b0N 117.152\u00b0WDepth14.26 km (8.86 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Redlands"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.1 - 4 km SSW of Loma Linda, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546208",
+      "source": "USGS",
+      "timestamp": "2026-09-12T16:21:10.561000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-12 16:17:39 UTC2026-09-12 16:17:39 UTC at epicenterLocation34.016\u00b0N 117.274\u00b0WDepth26.23 km (16.30 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Loma",
+        "Linda"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
       "heat_level": "LOW"
     },
     {
@@ -53421,102 +53533,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 36 km W of Susitna, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026saqnun",
-      "source": "USGS",
-      "timestamp": "2026-09-11T17:30:27.989000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-11 17:29:31 UTC2026-09-11 17:29:31 UTC at epicenterLocation61.491\u00b0N 151.188\u00b0WDepth15.70 km (9.76 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Susitna",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 5 km WSW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75433732",
-      "source": "USGS",
-      "timestamp": "2026-09-11T17:19:12.845000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-11 17:17:34 UTC2026-09-11 17:17:34 UTC at epicenterLocation38.768\u00b0N 122.813\u00b0WDepth6.63 km (4.12 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.7 - 33 km SW of Sip\u00ed, Colombia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgpu",
-      "source": "USGS",
-      "timestamp": "2026-09-11T17:19:09.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-11 16:42:30 UTC2026-09-11 16:42:30 UTC at epicenterLocation4.419\u00b0N 76.833\u00b0WDepth61.09 km (37.96 mi)",
-      "country": "Colombia",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sip",
-        "Colombia"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ]
