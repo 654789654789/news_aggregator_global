@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "News in Frames: A village with no people",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/news-in-frames-a-village-with-no-people/article71462616.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-13T11:18:07+05:30",
+      "score": 12,
+      "summary": "Gattumeedapalle was once a bustling hub of groundnut cultivation in Andhra Pradesh; however, repeated crop failure due to lack of water has forced families to move away to find alternative sources of livelihood",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Frames"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Assam CM highlights \u2018big comeback\u2019 of \u2018small hog\u2019",
       "link": "https://www.thehindu.com/news/national/assam/assam-cm-highlights-big-comeback-of-small-hog/article71462548.ece",
       "source": "The Hindu",
@@ -5396,14 +5427,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 8.1,
+      "source_count": 18,
       "sources_reporting": [
+        "BBC",
+        "Guardian",
+        "Livemint",
+        "NPR",
         "The Hindu"
       ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
+      "trend_accel": "+68%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Bombay High Court declines to restrain Manoj Jarange Patil\u2019s march, notes right to protest",
@@ -5903,8 +5938,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -6566,8 +6601,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
+      "trending": true,
+      "trend_score": 8.0,
       "source_count": 11,
       "sources_reporting": [
         "BBC",
@@ -6576,42 +6611,7 @@
         "NYT",
         "The Hill"
       ],
-      "trend_accel": "+76%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Trump heads to Ireland to watch some golf at his club and conduct some diplomacy",
-      "link": "https://www.npr.org/2026/09/11/nx-s1-5958496/trump-heads-to-ireland-to-watch-some-golf-at-his-club-and-conduct-some-diplomacy",
-      "source": "NPR",
-      "timestamp": "2026-09-11T16:26:24-04:00",
-      "score": 12,
-      "summary": "President Trump heads to Ireland hoping for a little diplomacy as he watches a tournament at his golf club in Doonbeg.",
-      "country": "Ireland",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ireland"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 8.2,
-      "source_count": 13,
-      "sources_reporting": [
-        "Bloomberg",
-        "Guardian",
-        "NPR",
-        "NYT",
-        "Reuters"
-      ],
-      "trend_accel": "+74%",
+      "trend_accel": "+71%",
       "heat_level": "SURGING"
     }
   ],
@@ -13071,6 +13071,67 @@
   ],
   "World": [
     {
+      "title": "New social rental apartment building in Perth CBD underway",
+      "link": "https://www.abc.net.au/news/2026-09-13/wa-government-to-build-new-rental-apartment-in-cbd/107148268",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-13T05:56:04+00:00",
+      "score": 12,
+      "summary": "The building will include 174 one- and two-bedroom rentals, 139 of which will be used for affordable housing, with the rest for social housing, according to the government.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Perth",
+        "CBD"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Rescuers dispatched as passenger ship goes dark with 240 on board",
+      "link": "https://www.abc.net.au/news/2026-09-13/search-underway-for-indonesian-passenger-ship/107148298",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-13T05:46:46+00:00",
+      "score": 13,
+      "summary": "Communication has been lost with an Indonesian passenger ship carrying more than 240 people after it encountered bad weather in the Java Sea.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Live: Penrith pulls off shock switch for semifinal",
       "link": "https://www.abc.net.au/news/2026-09-13/nrl-live-updates-final-panthers-roosters/107148336",
       "source": "ABC Australia",
@@ -15917,15 +15978,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 9,
+      "trending": true,
+      "trend_score": 10.9,
+      "source_count": 16,
       "sources_reporting": [
+        "ABC Australia",
         "BBC",
-        "NYT"
+        "Bloomberg",
+        "NPR",
+        "NYT",
+        "PBS"
       ],
-      "trend_accel": "+63%",
-      "heat_level": "HOT"
+      "trend_accel": "+81%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "'I definitely know how his mind works': Shreyas Iyer on Gautam Gambhir",
@@ -16147,14 +16212,20 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 10.9,
+      "source_count": 13,
       "sources_reporting": [
-        "BBC"
+        "ABC Australia",
+        "BBC",
+        "Bloomberg",
+        "NPR",
+        "NYT",
+        "Reuters",
+        "The Hindu"
       ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
+      "trend_accel": "+80%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "French officials investigate if malicious act caused train derailment",
@@ -17092,8 +17163,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 11.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 15,
       "sources_reporting": [
         "ABC Australia",
@@ -19535,62 +19606,33 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Saudi Arabia closes oil pipeline after drone attack launched from Iraq",
-      "link": "https://www.abc.net.au/news/2026-09-12/drone-attack-on-saudi-oil-pipeline-from-iraq/107146218",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-11T23:53:16+00:00",
-      "score": 12,
-      "summary": "Drones launched from Iraq have hit a major Saudi oil pipeline and led to its closure, as Yemen's Iranian-backed Houthi rebels capture a strategic island at the southern entrance to the Red Sea.",
-      "country": "Saudi Arabia",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "Top stocks to buy under  \u20b9100 by Sumeet Bagadia: Inox Wind, South Indian Bank, Paisalo Digital; check stop-loss, target",
+      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-under-100-by-sumeet-bagadia-inox-wind-south-indian-bank-paisalo-digital-check-stop-loss-target-11789277605159.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-13T11:25:28+05:30",
+      "score": 17,
+      "summary": "Check Sumeet Bagadia's outlook for the market in the coming with, along with the three stocks under \u20b9100 that he feels are a buy in current situation.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Arabia",
-        "Iraq"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": true,
-      "trend_score": 11.0,
-      "source_count": 14,
-      "sources_reporting": [
-        "ABC Australia",
-        "Al Jazeera",
-        "BBC",
-        "BBC",
-        "NPR",
-        "Reuters",
-        "The Hindu"
-      ],
-      "trend_accel": "+84%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Growing pains in Rockingham before AUKUS subs even arrive",
-      "link": "https://www.abc.net.au/news/2026-09-12/aukus-already-testing-rockingham-resources/107145172",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-11T23:08:40+00:00",
-      "score": 14,
-      "summary": "With the WA city of Rockingham set to experience growth equivalent to hosting 10 Olympic Games, community leaders are questioning how the region south of Perth will cope and who will foot the bill.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rockingham",
-        "AUKUS"
+        "Sumeet",
+        "Bagadia",
+        "Inox",
+        "Wind",
+        "South",
+        "Indian",
+        "Bank",
+        "Paisalo",
+        "Digital"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19599,15 +19641,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "Livemint"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Ending rough sleeping is 'not just a housing issue'",
       "link": "https://www.bbc.co.uk/news/articles/ckg7qyl1yk9o?at_medium=RSS&at_campaign=rss",
@@ -26114,37 +26154,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "The future of retirement: Work until you die",
-      "link": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-09-10T17:41:00+00:00",
-      "score": 12,
-      "summary": "Social Security, once seen as \u201cold-age insurance,\u201d will eventually disappear, this author predicts.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Work"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -32372,7 +32381,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.7,
+      "trend_score": 7.6,
       "source_count": 9,
       "sources_reporting": [
         "Cricinfo",
@@ -47281,6 +47290,73 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 2.3 - 7 km WSW of Happy Valley, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sdloju",
+      "source": "USGS",
+      "timestamp": "2026-09-13T06:00:23.630000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-13 05:59:13 UTC2026-09-13 05:59:13 UTC at epicenterLocation59.910\u00b0N 151.852\u00b0WDepth77.50 km (48.16 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Happy",
+        "Valley",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.1 - 10 km ESE of Rampart, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sdlhks",
+      "source": "USGS",
+      "timestamp": "2026-09-13T05:52:22.466000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-13 05:51:10 UTC2026-09-13 05:51:10 UTC at epicenterLocation65.464\u00b0N 149.975\u00b0WDepth1.70 km (1.06 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Rampart",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 2.0 - 59 km S of Whites City, New Mexico",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026saljcd",
       "source": "USGS",
@@ -53700,72 +53776,6 @@
         "USGS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.7 - 94 km WNW of Ternate, Indonesia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgx2",
-      "source": "USGS",
-      "timestamp": "2026-09-12T05:24:42.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-12 05:08:24 UTC2026-09-12 05:08:24 UTC at epicenterLocation1.067\u00b0N 126.585\u00b0EDepth44.24 km (27.49 mi)",
-      "country": "Indonesia",
-      "region": "Southeast Asia",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Ternate",
-        "Indonesia"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.9 - 47 km E of Pedro Bay, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sbnvva",
-      "source": "USGS",
-      "timestamp": "2026-09-12T05:13:27.682000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-12 05:08:24 UTC2026-09-12 05:08:24 UTC at epicenterLocation59.823\u00b0N 153.262\u00b0WDepth130.60 km (81.15 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pedro",
-        "Bay",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
