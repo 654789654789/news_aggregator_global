@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "Live Results: Delaware midterm primaries",
+      "link": "https://www.pbs.org/newshour/politics/live-results-delaware-midterm-primaries",
+      "source": "PBS",
+      "timestamp": "2026-09-14T15:38:50-04:00",
+      "score": 12,
+      "summary": "Delaware's Democratic U.S. senator, U.S. representative and state attorney general will go before voters in a state primary Tuesday as they seek reelection.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Results",
+        "Delaware"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "10-year Treasury yield hits 5 percent",
       "link": "https://thehill.com/business/6088598-us-treasury-yields-surpass-five-percent/",
       "source": "The Hill",
@@ -6533,23 +6565,25 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "YSRCP accuses Narayana of \u2018involvement\u2019 in waste management scam worth \u20b91,200 crore",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-accuses-narayana-of-involvement-in-garbage-scam-worth-1200-crore/article71463854.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-13T21:01:26+05:30",
-      "score": 15,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "The best deals from Nintendo\u2019s \u2018customer appreciation\u2019 sale",
+      "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
+      "source": "Verge",
+      "timestamp": "2026-09-14T15:30:58-04:00",
+      "score": 14,
+      "summary": "As promised, Nintendo has marked down a wide variety of Switch games and accessories at Amazon, Best Buy, and Walmart, as well as its own digital storefront. Its \u201cCustomer Appreciation\u201d sale is happening because of tariff-related refunds it received from the US government, and...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Narayana"
+        "Nintendos"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6558,15 +6592,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Amazon Prime Video takes on TikTok with short-form news clips",
       "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
@@ -13019,23 +13051,36 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-08T21:10:27+00:00",
-      "score": 12,
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "title": "A.I. Queries From Abroad Raise Fears of a Biological Weapons Race - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sRTFFTlRvYjNlVGpBZkFweklUU1ZXcjMtbDBZc1lhbkI0ODFfZVdBQmlFeTZhbjBuWjFQVkd3SFI5Q3FZazhMazRfUTZtRmRCM2piRUgwcWZ1UG05YnF1WjFYLTJ3RFdHSUhqRFR3?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-09-14T19:36:43+00:00",
+      "score": 14,
+      "summary": "A.I. Queries From Abroad Raise Fears of a Biological Weapons Race The New York TimesHow Anthropic says Claude was used for weapons, spying and cyber operations ReutersDetecting and countering misuse of AI: September 2026 AnthropicAnthropic Says Iran Used Its American AI Model ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
+      "source_type": "Aggregator",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Military"
+      ],
       "entities": [
-        "Claude"
+        "Queries",
+        "Abroad",
+        "Raise",
+        "Fears",
+        "Biological",
+        "Weapons",
+        "Race",
+        "New",
+        "York",
+        "Times"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13044,15 +13089,109 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 8,
       "sources_reporting": [
-        "TechCrunch"
+        "Google News",
+        "NYT"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+69%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Bob Mackie, fashion designer for the stars, dies at 87",
+      "link": "https://www.thehindu.com/life-and-style/fashion/bob-mackie-fashion-designer-for-the-stars-dies-at-87/article71466423.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-15T01:06:31+05:30",
+      "score": 15,
+      "summary": "He received Academy Award nominations for costumes \u200bworn in the films \u201cLady \u200cSings the Blues,\u201d \u201cFunny Lady,\u201d and \u201cPennies From Heaven\u201d",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mackie"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Mahmoud Khalil sues Columbia University over years of alleged anti-Palestinian discrimination",
+      "link": "https://www.theguardian.com/us-news/2026/sep/14/mahmoud-khalil-columbia-university-lawsuit",
+      "source": "Guardian",
+      "timestamp": "2026-09-14T19:34:28+00:00",
+      "score": 12,
+      "summary": "Lawsuit accuses university of \u2018deliberate indifference\u2019 and failure to respond to \u2018persistent and coordinated harassment\u2019Mahmoud Khalil announced on Monday that he\u2019s sued Columbia University, accusing the New York City school he attended of a years-long history of anti-Palesti...",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Khalil",
+        "Columbia",
+        "University"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump says calls for more control on AI are a \u2018SICK conspiracy\u2019",
+      "link": "https://www.aljazeera.com/news/2026/9/14/trump-says-calls-for-more-control-on-ai-are-a-sick-conspiracy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-09-14T19:32:23+00:00",
+      "score": 14,
+      "summary": "US president says current oversight is adequate and regulations could allow China to win AI competition.",
+      "country": "Qatar",
+      "region": "Middle East",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SICK"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "'Two generations of planning failure': Life on Melbourne's booming fringe",
       "link": "https://www.abc.net.au/news/2026-09-15/migrants-on-life-in-booming-outer-suburbs-melbourne/107132328",
@@ -19465,115 +19604,27 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Disabled residents left shaken after police drug raid on NDIS home",
-      "link": "https://www.abc.net.au/news/2026-09-14/perth-disability-provider-shares-traumatic-experience-of-raid/107060848",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-13T21:18:53+00:00",
-      "score": 14,
-      "summary": "A disability support worker opens up about a terrifying police raid on the assisted-living home he was working in, which has left three vulnerable women needing ongoing help to deal with anxiety.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NDIS"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Politics live: electrifying push for Australians to save $5,000 a year; bumper weekend for auctions",
-      "link": "https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-09-13T21:18:05+00:00",
+      "title": "The 10-year Treasury yield just hit 5%. How income investors can profit",
+      "link": "https://www.cnbc.com/2026/09/14/the-10-year-treasury-yield-just-hit-5percent-how-income-investors-can-profit.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-14T19:35:53+00:00",
       "score": 15,
-      "summary": "Follow the day\u2019s news liveGet our new political email, free app or daily news podcastOne Nation is targeting international students and the families of skilled migrants in its proposal to cut 750,000 temporary visa holders in Australia over three years.The move would return te...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Australians"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Swedish party blocs tied after Sunday vote, projections say",
-      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-09-13T21:17:15+00:00",
-      "score": 12,
-      "summary": "With 50% of the votes counted, the two main blocs were separated by only 20,000 votes, Sweden public broadvasteer SVT said.",
-      "country": "Sweden",
-      "region": "Europe",
+      "summary": "Experts expect the volatility to continue. Here's where they see the best income opportunities.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sunday"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Sweden election forecast says vote too close to call - politico.eu",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmp1czdEc0VQY3NLcUMtVjZEU2hjNjBNMXNfWkktMUpQSUtBT0ZLTURGcjZjS3ZadzZFWW9hZVA4RmEtNEFOUGdScHJ3OUNldVBSZkNPYUZkU2tYZXlaQjM0S3hsS0tKMTBOeXl1c0NPNUtaOTZzYW9lUHFVYTBMU2xrQTNCcEZqNWIwY1VuYmM2QUtWQTBUNUV5dXdKUGZEcTgzbQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-13T21:16:10+00:00",
-      "score": 12,
-      "summary": "Sweden election forecast says vote too close to call politico.euSweden election live: results too close to call, with projections narrowing as more votes are counted The GuardianLeft-wing bloc leads Swedish vote after far-right lose support, exit polls say BBCSweden\u2019s left on ...",
-      "country": "Sweden",
-      "region": "Europe",
-      "source_type": "Aggregator",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Treasury",
+        "How"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19583,13 +19634,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Google News"
+        "CNBC"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Carney gambles on the world's biggest investors betting on Canada",
       "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
@@ -26258,22 +26307,26 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "TSX pares weekly decline as tech shares rally",
-      "link": "https://www.livemint.com/market/tsx-pares-weekly-decline-as-tech-shares-rally-11789157988195.html",
-      "source": "Livemint",
-      "timestamp": "2026-09-12T01:49:47+05:30",
-      "score": 12,
-      "summary": "CANADA-STOCKS/ (UPDATE 2):CANADA STOCKS-TSX pares weekly decline as tech shares rally",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Unused natural gas behind NYC's $300 million waste of a potent greenhouse gas",
+      "link": "https://phys.org/news/2026-09-unused-natural-gas-nyc-million.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-14T15:40:06-04:00",
+      "score": 15,
+      "summary": "Methane emissions from the New York City metropolitan area are largely driven by natural gas use, according to a new study published today in Atmospheric Chemistry and Physics by researchers at the Lamont-Doherty Earth Observatory, part of the Columbia Climate School. The find...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "NYCs"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26281,15 +26334,44 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "Only 1 out of every 5 amphibian type localities in Ecuador are in protected areas",
+      "link": "https://phys.org/news/2026-09-amphibian-localities-ecuador-areas.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-14T15:40:01-04:00",
+      "score": 15,
+      "summary": "In taxonomy, the location where specimens used to formally describe a new species are collected is called a type locality. These sites can be thought of as the species' formal birthplace, much as the scientific article containing the original description constitutes its scient...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ecuador"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "A painting signed 'L daVinci': Analysis reveals Renaissance pigments and later alterations",
       "link": "https://phys.org/news/2026-09-davinci-analysis-reveals-renaissance-pigments.html",
@@ -32279,64 +32361,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "New pulse-train method aims to improve precision in quantum control",
-      "link": "https://phys.org/news/2026-09-pulse-method-aims-precision-quantum.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-10T14:00:04-04:00",
-      "score": 12,
-      "summary": "Quantum technologies are poised to transform fields ranging from medicine and sensing to computing and communications by manipulating the energy states of atoms and molecules. These manipulations are achieved by controlling quantum states with laser pulses.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "1,000 times faster operations bring reliable quantum computing a step closer",
-      "link": "https://phys.org/news/2026-09-faster-reliable-quantum-closer.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-10T13:40:10-04:00",
-      "score": 13,
-      "summary": "So far, quantum computers have been held back by their extreme sensitivity to errors and external disturbances. The longer a quantum operation takes, the greater the risk of computational errors.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33920,6 +33944,159 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Ms. Pat & VH-1 To Team On \u2018America\u2019s Funniest People\u2019 As \u2018Ms. Pat Settles It\u2019 Renewed For Season 4",
+      "link": "https://deadline.com/2026/09/ms-pat-americas-funniest-people-paramount-partnersnip-1237102167/",
+      "source": "Deadline",
+      "timestamp": "2026-09-14T19:45:03+00:00",
+      "score": 15,
+      "summary": "EXCLUSIVE: Patricia \u201cMs. Pat\u201d Williams-Lee is expanding her relationship with Paramount under her new deal with BET Studios, spanning producing, writing, and performing across BET and Paramount platforms. VH-1 has ordered America\u2019s Funniest People from the producers of America...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pat",
+        "Team",
+        "Americas",
+        "Funniest",
+        "People",
+        "Settles",
+        "Renewed",
+        "Season"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Adults\u2019 Streaming Viewership Grows 40% In Season 2, Per FX",
+      "link": "https://deadline.com/2026/09/adults-streaming-viewership-growth-season-2-rating-fx-1237102135/",
+      "source": "Deadline",
+      "timestamp": "2026-09-14T19:42:00+00:00",
+      "score": 15,
+      "summary": "FX\u2019s Adults is posting rare Season 2 viewership gains amid a sophomore slump impacting most streaming series recently. Citing Disney internal streaming data, FX has revealed that Adults\u2018 viewership has grown more than 40% season over season across Hulu in the U.S. and Disney+ ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Streaming",
+        "Viewership",
+        "Grows",
+        "Season",
+        "Per"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "TikTok Influencer Pleads Not Guilty to Dark-Web Hit Plot Against Singer Jack Avery",
+      "link": "https://www.rollingstone.com/music/music-news/tiktok-gabbie-gonzalez-arraigned-why-dont-we-jack-avery-1235626190/",
+      "source": "Rolling Stone",
+      "timestamp": "2026-09-14T19:40:43+00:00",
+      "score": 14,
+      "summary": "Gabbie Gonzalez entered her plea alongside her father and ex-boyfriend after prosecutors accused the trio of conspiring to kill the Why Don't We singer amid a child custody dispute",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Influencer",
+        "Pleads",
+        "Not",
+        "Guilty",
+        "DarkWeb",
+        "Hit",
+        "Plot",
+        "Against",
+        "Singer",
+        "Jack",
+        "Avery"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Rolling Stone"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Tribeca Award Winner \u2018Labrador \u2013 Autopsy of Silence\u2019 Sells to TLA Releasing for the U.S. and the U.K. (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/tribeca-labrador-autopsy-of-silence-tla-releasing-1236861553/",
+      "source": "Variety",
+      "timestamp": "2026-09-14T19:35:07+00:00",
+      "score": 12,
+      "summary": "International sales house H264 has sold Rodrigue Jean\u2019s \u201cLabrador \u2013 Autopsy of Silence\u201d to TLA Releasing for the U.S. and the U.K. The deal follows the film\u2019s world premiere at the Tribeca Festival, where it won three awards, including best international narrative feature. At ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Award",
+        "Winner",
+        "Labrador",
+        "Autopsy",
+        "Silence",
+        "Sells",
+        "TLA",
+        "Releasing",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Alpha Gang\u2019 Review: The Zellner Brothers\u2019 Gleefully Gonzo All-Star Sci-Fi Comedy Is A Big Blast Of All Kinds Of Crazy \u2013 Toronto Film Festival",
       "link": "https://deadline.com/2026/09/alpha-gang-review-david-zellner-nathan-zellner-dave-bautista-1237102158/",
@@ -41866,72 +42043,27 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "Hollywood Ventures Group, Canada\u2019s Big Picture Cinema Group, and Morocco\u2019s Pink Sheep Team on Casablanca-Set Thriller \u2018The Final Bet\u2019 (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/markets-festivals/hollywood-ventures-big-picture-cinema-morocco-final-bet-1236859412/",
-      "source": "Variety",
-      "timestamp": "2026-09-13T16:21:39+00:00",
-      "score": 12,
-      "summary": "Hollywood Ventures Group (HVG), Canadian film finance and production outfit Big Picture Cinema Group, and Morocco\u2019s Pink Sheep Productions are teaming up to bring bestselling Moroccan crime thriller \u201cThe Final Bet\u201d to the big screen. The acclaimed Casablanca-set thriller by Mo...",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ventures",
-        "Group",
-        "Canadas",
-        "Big",
-        "Picture",
-        "Cinema",
-        "Moroccos",
-        "Pink",
-        "Sheep",
-        "Team",
-        "CasablancaSet",
-        "Thriller",
-        "Final",
-        "Bet",
-        "EXCLUSIVE"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Practical Magic 2\u2019 Summons $30M to End Spider-Man\u2019s Streak at No. 1",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/practical-magic-2-box-office-spider-man-domestic-record-1236698853/",
-      "source": "THR",
-      "timestamp": "2026-09-13T16:17:18+00:00",
-      "score": 15,
-      "summary": "Sandra Bullock and Nicole Kidman's sequel joined fellow newcomers 'Runner' and 'The Uprising' for the box office frame that was down more than 40 percent from the equivalent 2025 weekend.",
+      "title": "Private Policy Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/private-policy",
+      "source": "Vogue",
+      "timestamp": "2026-09-14T19:42:23+00:00",
+      "score": 17,
+      "summary": "Strategic intelligence signal ingested from Vogue.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Entertainment",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Magic",
-        "Summons",
-        "End",
-        "SpiderMans",
-        "Streak"
+        "Policy",
+        "Spring",
+        "ReadytoWear"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -41942,93 +42074,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "THR"
+        "Vogue"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Nike Unveils Alex Eala T-Shirt Inspired by Tennis Phenom\u2019s Filipino Heritage",
-      "link": "https://variety.com/2026/shopping/news/nike-alexandra-eala-t-shirt-sampaguita-shop-online-1236860470/",
-      "source": "Variety",
-      "timestamp": "2026-09-13T16:15:19+00:00",
-      "score": 12,
-      "summary": "Nike is honoring rising tennis star Alexandra Eala with her very own T-shirt, inspired by her Filipino heritage. Fresh off her maiden WTA 500 title at the Washington Open, and a third-round appearance at the recent U.S. Open, the 21-year-old\u2019s name adorns the back of this unis...",
-      "country": "Philippines",
-      "region": "Southeast Asia",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Unveils",
-        "Alex",
-        "Eala",
-        "TShirt",
-        "Inspired",
-        "Tennis",
-        "Phenoms",
-        "Filipino",
-        "Heritage"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Gerard Way Hints at New My Chemical Romance Album: \u2018You Guys Deserve Another Record\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/gerard-way-hints-new-my-chemical-romance-album-1235625884/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-09-13T16:12:51+00:00",
-      "score": 12,
-      "summary": "\"we kind of always wanted to make another record, so we hope to,\" singer told Alamodome fans of band's long-awaited follow-up to 2010\u2019s Danger Days: The True Lives of the Fabulous Killjoys",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Way",
-        "Hints",
-        "New",
-        "Chemical",
-        "Romance",
-        "Album",
-        "You",
-        "Guys",
-        "Deserve",
-        "Another",
-        "Record"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
     {
       "title": "Behind the Scenes: Henry Zankov Means Business",
       "link": "https://www.vogue.com/article/behind-the-scenes-henry-zankov-means-business",
@@ -48830,6 +48880,108 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.7 - 39 km ESE of Malaga, New Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdkzie",
+      "source": "USGS",
+      "timestamp": "2026-09-14T19:41:51.488000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-14 19:39:01 UTC2026-09-14 19:39:01 UTC at epicenterLocation32.078\u00b0N 103.685\u00b0WDepth6.38 km (3.96 mi)",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Malaga",
+        "New",
+        "Mexico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+62%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.1 - 15 km WNW of Happy Valley, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgiwnm",
+      "source": "USGS",
+      "timestamp": "2026-09-14T19:38:37.052000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-14 19:37:34 UTC2026-09-14 19:37:34 UTC at epicenterLocation59.994\u00b0N 151.999\u00b0WDepth74.50 km (46.29 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Happy",
+        "Valley",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.8 - 106 km WSW of Alianza Cristiana, Peru",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thg5",
+      "source": "USGS",
+      "timestamp": "2026-09-14T19:34:52.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-14 19:16:49 UTC2026-09-14 19:16:49 UTC at epicenterLocation3.730\u00b0S 77.361\u00b0WDepth106.20 km (65.99 mi)",
+      "country": "Peru",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Alianza",
+        "Cristiana",
+        "Peru"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.5 - 40 km ESE of Malaga, New Mexico",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sdkoeu",
       "source": "USGS",
@@ -55220,103 +55372,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 2 km WNW of Point MacKenzie, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026segzdk",
-      "source": "USGS",
-      "timestamp": "2026-09-13T16:42:57.811000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-13 16:41:20 UTC2026-09-13 16:41:20 UTC at epicenterLocation61.371\u00b0N 150.027\u00b0WDepth36.00 km (22.37 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Point",
-        "MacKenzie",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 5 km SW of Volcano, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75034962",
-      "source": "USGS",
-      "timestamp": "2026-09-13T16:36:19.330000+00:00",
-      "score": 17,
-      "summary": "Time2026-09-13 16:32:54 UTC2026-09-13 16:32:54 UTC at epicenterLocation19.404\u00b0N 155.264\u00b0WDepth0.41 km (0.25 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Volcano",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 10 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434957",
-      "source": "USGS",
-      "timestamp": "2026-09-13T16:28:12.324000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-13 16:26:40 UTC2026-09-13 16:26:40 UTC at epicenterLocation38.842\u00b0N 122.835\u00b0WDepth12.02 km (7.47 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
