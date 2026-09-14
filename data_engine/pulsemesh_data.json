@@ -13082,6 +13082,37 @@
   ],
   "World": [
     {
+      "title": "North Korea says its recent live-fire drill demonstrated 'huge destructive power'",
+      "link": "https://www.thehindu.com/news/international/north-korea-says-its-recent-live-fire-drill-demonstrated-huge-destructive-power/article71465327.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-14T08:37:42+05:30",
+      "score": 12,
+      "summary": "The firing drill marked North Korea's first public ballistic missile launches in about three weeks",
+      "country": "North Korea",
+      "region": "East Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Korea"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump says he will consider releasing 9/11 records after families request",
       "link": "https://www.thehindu.com/news/trump-says-he-will-consider-releasing-911-records-after-families-request/article71465334.ece",
       "source": "The Hindu",
@@ -19570,24 +19601,57 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
+    }
+  ],
+  "Business": [
+    {
+      "title": "Z.ai shares tumble over 10% after $5 billion fundraising, its second major raise in two months",
+      "link": "https://www.cnbc.com/2026/09/14/zai-shares-tumble-second-major-raise-two-months-.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-14T03:03:58+00:00",
+      "score": 15,
+      "summary": "Z.ai shares tumbled after the Chinese AI company announced its second major fundraising in two months.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
     },
     {
-      "title": "Former fire station crucial to Men's Shed faces government sell-off",
-      "link": "https://www.abc.net.au/news/2026-09-13/launceston-railway-group-mens-shed-karoola-fire-station-sale/107132516",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-12T22:19:34+00:00",
+      "title": "Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall",
+      "link": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-14T03:01:13+00:00",
       "score": 12,
-      "summary": "A volunteer group is desperate to keep its headquarters at the decommissioned Karoola fire station, near Launceston, but the Tasmanian government has other ideas.",
-      "country": "Australia",
-      "region": "Oceania",
+      "summary": "Trump said revenue from the Venezuela arrangement has \"paid for the war many times.\"",
+      "country": "Iran",
+      "region": "Middle East",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Mens",
-        "Shed"
+        "Iranian",
+        "Venezuela",
+        "GulfIran",
+        "Hormuz"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19596,15 +19660,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Important day today for South Korea stock markets - Timings changing from Monday | Know reason",
       "link": "https://www.livemint.com/market/stock-market-news/important-day-today-for-south-korea-stock-markets-timings-changing-from-monday-know-reason-11789351900615.html",
@@ -21336,7 +21398,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.6,
+      "trend_score": 8.5,
       "source_count": 12,
       "sources_reporting": [
         "BBC",
@@ -21345,7 +21407,7 @@
         "NHK",
         "PBS"
       ],
-      "trend_accel": "+75%",
+      "trend_accel": "+74%",
       "heat_level": "SURGING"
     },
     {
@@ -26096,74 +26158,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
-      "link": "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-11T01:53:08+00:00",
-      "score": 17,
-      "summary": "Chinese AI chipmaker Enflame, an Nvidia rival and one of China's \"four little dragons,\" made its Shanghai market debut.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nvidia",
-        "Enflame"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Y Combinator\u2019s Garry Tan says 'do nothing' about distillation as AI giants accuse China of copying their tech",
-      "link": "https://www.cnbc.com/2026/09/11/y-combinator-garry-tan-says-do-nothing-about-distillation.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-11T01:37:07+00:00",
-      "score": 14,
-      "summary": "At Y Combinator\u2019s annual Demo Day, CEO Garry Tan explained why he's less concerned about frontier AI model distillation and the existential risk of AI.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Combinators",
-        "Garry",
-        "Tan",
-        "China"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -26220,7 +26214,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.4,
+      "trend_score": 8.3,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -26229,7 +26223,7 @@
         "Phys.org",
         "Reuters"
       ],
-      "trend_accel": "+67%",
+      "trend_accel": "+66%",
       "heat_level": "SURGING"
     },
     {
@@ -33647,6 +33641,55 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018The Last Photograph\u2019 Review: DC\u2019s Zack Snyder Comes Back Down To Earth With A Violent But Surprisingly Human Action Drama \u2013 Toronto Film Festival",
+      "link": "https://deadline.com/2026/09/the-last-photograph-review-zack-snyder-stuart-martin-toronto-1237101249/",
+      "source": "Deadline",
+      "timestamp": "2026-09-14T03:14:12+00:00",
+      "score": 12,
+      "summary": "After so many years in the DC universe, Zack Snyder comes back down to earth again with a violent but surprisingly human action thriller set in the jungles of an unidentified Latin American country. Its plotline \u2014 more of which later \u2014 could go either way, and since the direct...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Last",
+        "Photograph",
+        "Review",
+        "DCs",
+        "Zack",
+        "Snyder",
+        "Comes",
+        "Back",
+        "Down",
+        "Earth",
+        "Violent",
+        "But",
+        "Surprisingly",
+        "Human",
+        "Action",
+        "Drama",
+        "Toronto",
+        "Film",
+        "Festival"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u201960 Minutes\u2019 Debuts New Season With A Pentagon Exclusive And Hidden Camera Expose \u2014 And Plenty Of Scrutiny Of The Show Itself",
       "link": "https://deadline.com/2026/09/60-minutes-debut-bari-weiss-1237101187/",
@@ -41796,47 +41839,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "In \u2018Magazine\u2019, Director Alexandra Pechman Brings a Bygone Era of Print Media (and the 2010s) to TIFF Audiences",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/in-magazine-director-alexandra-pechman-brings-a-bygone-era-of-print-media-and-the-2010s-to-tiff-audiences-1236696519/",
-      "source": "THR",
-      "timestamp": "2026-09-12T15:00:00+00:00",
-      "score": 15,
-      "summary": "A veteran of 'Vogue\u2019 and other glossies, the filmmaker talks about the joys and tumults of publishing and how the pre-iPhone era is appealing to Zoomer watchers.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Magazine",
-        "Director",
-        "Alexandra",
-        "Pechman",
-        "Brings",
-        "Bygone",
-        "Era",
-        "Print",
-        "Media",
-        "TIFF",
-        "Audiences"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -48113,6 +48115,101 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.2 - 13 km E of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035242",
+      "source": "USGS",
+      "timestamp": "2026-09-14T03:12:49.230000+00:00",
+      "score": 17,
+      "summary": "Time2026-09-14 03:09:13 UTC2026-09-14 03:09:13 UTC at epicenterLocation19.214\u00b0N 155.347\u00b0WDepth30.05 km (18.67 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.4 - 6 km E of Kapowsin, Washington",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714101641",
+      "source": "USGS",
+      "timestamp": "2026-09-14T03:03:55.240000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-14 03:02:21 UTC2026-09-14 03:02:21 UTC at epicenterLocation46.986\u00b0N 122.141\u00b0WDepth1.67 km (1.04 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kapowsin",
+        "Washington"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Angola",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031944",
+      "source": "GDACS",
+      "timestamp": "2026-09-14T03:02:24+00:00",
+      "score": 12,
+      "summary": "On 10/09/2026, a forest fire started in Angola, until 13/09/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Angola"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
@@ -54502,103 +54599,6 @@
         "USGS"
       ],
       "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 85 km NNW of Karluk, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sdarrh",
-      "source": "USGS",
-      "timestamp": "2026-09-13T00:33:51.904000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-13 00:33:09 UTC2026-09-13 00:33:09 UTC at epicenterLocation58.240\u00b0N 155.161\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Karluk",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 7 km ESE of St. Helena, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434607",
-      "source": "USGS",
-      "timestamp": "2026-09-13T00:30:45.212000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-13 00:29:09 UTC2026-09-13 00:29:09 UTC at epicenterLocation38.470\u00b0N 122.405\u00b0WDepth7.77 km (4.83 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Helena"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 1 km NNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75434597",
-      "source": "USGS",
-      "timestamp": "2026-09-12T23:53:04.810000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-12 23:51:28 UTC2026-09-12 23:51:28 UTC at epicenterLocation38.789\u00b0N 122.762\u00b0WDepth-0.13 km (-0.08 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
