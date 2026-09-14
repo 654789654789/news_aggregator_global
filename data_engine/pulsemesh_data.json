@@ -1,6 +1,104 @@
 {
   "Politics": [
     {
+      "title": "Hochul unveils energy rebate checks for 8M+ New York households",
+      "link": "https://thehill.com/homenews/state-watch/6088048-hochul-unveils-energy-rebates/",
+      "source": "The Hill",
+      "timestamp": "2026-09-14T14:25:12+00:00",
+      "score": 15,
+      "summary": "New York Gov. Kathy Hochul (D) on Monday unveiled energy rebate checks for over 8 million households in her state. More than eight million households in New York are going to be sent energy rebate checks worth a maximum of $200 beginning next Monday, with the stream of checks ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "New",
+        "York"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Amazon suspends use of 21 Air, the cargo carrier whose plane careened off Miami runway and killed 5",
+      "link": "https://www.pbs.org/newshour/nation/amazon-suspends-use-of-21-air-the-cargo-carrier-whose-plane-careened-off-miami-runway-and-killed-5",
+      "source": "PBS",
+      "timestamp": "2026-09-14T10:18:20-04:00",
+      "score": 17,
+      "summary": "The North Carolina carrier had flown packages for Amazon since 2024.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Air",
+        "Miami"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Telangana Minister offers support to family of deceased BRS leader",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-minister-offers-support-to-family-of-deceased-brs-leader/article71466144.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-14T19:47:30+05:30",
+      "score": 12,
+      "summary": "Minister Adluri Lakshman Kumar extends helping hand to family of former BRS mandal president; provides \u20b950,000 assistance and assures outsourcing job for widow",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Minister",
+        "BRS"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Saudi Leader Meets U.S. General as Widening Conflict Threatens Oil Markets",
       "link": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-leader-meets-centcom.html",
       "source": "NYT",
@@ -230,14 +328,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 8.8,
+      "source_count": 12,
       "sources_reporting": [
-        "Guardian"
+        "BBC",
+        "BBC",
+        "Guardian",
+        "NHK",
+        "Reuters"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
+      "trend_accel": "+73%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Live updates: Congress returns with AI top of mind",
@@ -2389,14 +2491,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 9.1,
+      "source_count": 15,
       "sources_reporting": [
-        "BBC"
+        "BBC",
+        "Guardian",
+        "Guardian",
+        "NHK",
+        "PBS"
       ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
+      "trend_accel": "+75%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "West Bengal government issues closure notice to 252 unaided and unrecognised madrasas",
@@ -5756,8 +5862,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -6444,24 +6550,26 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Revanth Reddy calls on Vaishya community to secure political share",
-      "link": "https://www.thehindu.com/news/national/telangana/revanth-reddy-calls-on-vaishya-community-to-secure-political-share/article71463078.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-13T16:41:01+05:30",
-      "score": 14,
-      "summary": "Addressing an Arya Vaishya community meetingevanth Reddy said members of the community were known for their soft-spoken nature, self-respect and foresight",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Hear how AI can engineer nature\u2019s comeback at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-14T14:30:00+00:00",
+      "score": 17,
+      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it\u2019s the mission of a billion-dollar startup. Advances in artificial intelligence, genetics, and computational biology are changing what\u2019s possible in conservation research, raising ques...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Reddy",
-        "Vaishya"
+        "TechCrunch",
+        "Disrupt"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6472,86 +6580,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Over 1,300 candidates get appointment letters at Cuddalore job fair",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/over-1300-candidates-get-appointment-letters-at-cuddalore-job-fair/article71462867.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-13T16:40:11+05:30",
-      "score": 17,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Cuddalore"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Wisconsin Representative Sustains Minor Injuries After Plane Lands in Lake",
-      "link": "https://www.nytimes.com/2026/09/13/us/politics/tom-tiffany-wisconsin-lake-wausau-plane-crash.html",
-      "source": "NYT",
-      "timestamp": "2026-09-13T11:06:38+00:00",
-      "score": 14,
-      "summary": "Representative Tom Tiffany, the Republican nominee for governor, said he and the pilot swam to safety after an emergency landing on Lake Wausau.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Representative",
-        "Sustains",
-        "Minor",
-        "Injuries",
-        "After",
-        "Plane",
-        "Lands",
-        "Lake"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 9.2,
-      "source_count": 16,
-      "sources_reporting": [
-        "AP",
-        "Bloomberg",
-        "NYT",
-        "Reuters",
-        "The Hill"
-      ],
-      "trend_accel": "+71%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Tech": [
     {
       "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
       "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
@@ -12998,24 +13031,25 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Pusheen\u2019s first game is coming to Apple Arcade",
-      "link": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
-      "source": "Verge",
-      "timestamp": "2026-09-08T11:07:13-04:00",
-      "score": 12,
-      "summary": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen, and other variations of th...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Ten-year Treasury yield hits 5% for first time since 2023",
+      "link": "https://www.ft.com/content/06cb850d-089a-4318-88d7-a410e9766b89?syn-25a6b1a6=1",
+      "source": "FT",
+      "timestamp": "2026-09-14T14:18:54+00:00",
+      "score": 15,
+      "summary": "Rise in US borrowing costs comes after Iran war sparked inflation shock",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Apple",
-        "Arcade"
+        "Treasury"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13026,13 +13060,42 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Verge"
+        "FT"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "CBS\u2019s 60 Minutes accused of peddling pro-Iran war propaganda in segment",
+      "link": "https://www.theguardian.com/media/2026/sep/14/cbs-60-minutes-iran-war-propaganda",
+      "source": "Guardian",
+      "timestamp": "2026-09-14T14:17:10+00:00",
+      "score": 15,
+      "summary": "Critics say segment on US rescue operation in Iran was made to boost public perception of Trump\u2019s unpopular warA US airman has spoken of climbing a 7,000ft ridge with a broken back, arm and shoulder after he was shot down in Iran \u2013 and of being rescued by a team of American sp...",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Minutes"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Countries turn to coal to avoid shipping disruptions in the Strait of Hormuz",
       "link": "https://www.france24.com/en/tv-shows/down-to-earth/20260914-countries-turn-to-coal-to-avoid-shipping-disruptions-in-the-strait-of-hormuz",
@@ -19497,57 +19560,26 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Piastri hit twice on first lap, Antonelli wins thanks to safety car luck",
-      "link": "https://www.abc.net.au/news/2026-09-14/f1-spanish-grand-prix-piastri-eighth-antonelli-wins/106998642",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-13T15:25:16+00:00",
-      "score": 12,
-      "summary": "Oscar Piastri and George Russell made contact with each other twice before the first corner, as Kimi Antonelli took full advantage of a fortunate safety car to win the Formula 1 Spanish Grand Prix.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "10-year Treasury yield hits 5% for first time since 2023 as traders brace for Fed decision this week",
+      "link": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-14T14:29:36+00:00",
+      "score": 15,
+      "summary": "The 10-year U.S. Treasury note yield rose to a multi-year high on Monday ahead of this week's Federal Reserve interest rate decision.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Antonelli"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Chinese FM Wang Yi stepped in for Xi at PM Modi\u2019s Brics gala dinner: Reports",
-      "link": "https://timesofindia.indiatimes.com/india/chinese-fm-wang-yi-stepped-in-for-xi-at-pm-modis-brics-gala-dinner-reports/articleshow/134208936.cms",
-      "source": "Times of India",
-      "timestamp": "2026-09-13T20:54:01+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Wang",
-        "Modis",
-        "Brics",
-        "Reports"
+        "Treasury",
+        "Fed"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19556,15 +19588,79 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "Times of India"
+        "CNBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Stocks drop after 10-year yield reaches 5%, oil jumps; Nasdaq falls 1% as AI names slide: Live updates",
+      "link": "https://www.cnbc.com/2026/09/13/stock-futures-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-14T14:27:11+00:00",
+      "score": 17,
+      "summary": "The three major averages are coming off a losing week.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nasdaq",
+        "Live"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
+      "link": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-14T14:19:38+00:00",
+      "score": 14,
+      "summary": "Trump lashed out at Anthropic CEO Dario Amodei following his urgent plea for an AI slowdown.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Anthropic",
+        "CEO",
+        "Dario",
+        "Amodei"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Monday, September 14, 2026: Jim Cramer discusses his next moves for the Investing Club",
       "link": "https://www.cnbc.com/search/?query=Monday,%20September%2014,%202026:%20Jim%20Cramer%20discusses%20his%20next%20moves%20for%20the%20Investing%20Club",
@@ -26095,52 +26191,21 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "$6 diesel should benefit Tesla's trucking ambitions, Morgan Stanley says",
-      "link": "https://www.cnbc.com/2026/09/11/6-diesel-should-benefit-teslas-trucking-ambitions-morgan-stanley-says-.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-11T13:40:29+00:00",
-      "score": 15,
-      "summary": "\"$6 Diesel...Enter Tesla Semi,\" the investment bank's Andrew Percoco told clients in a Friday note.",
+      "title": "Diagnosing parasites that pose health risks for dogs, humans",
+      "link": "https://phys.org/news/2026-09-parasites-pose-health-dogs-humans.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-14T10:20:04-04:00",
+      "score": 10,
+      "summary": "Parasites in wildlife don't just pose a risk to their wild hosts\u2014they can also spread to domestic animals and humans, making safe and reliable ways to screen for these pests critical to promoting better health for all.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Teslas",
-        "Morgan",
-        "Stanley"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Oracle's stock rises on earnings and revenue beat fueled by AI cloud demand",
-      "link": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-11T13:34:34+00:00",
-      "score": 14,
-      "summary": "Oracle's cloud infrastructure revenue jumped 121% from a year earlier, reflecting demand for AI cloud services.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26153,45 +26218,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+55%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point",
-      "link": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-11T13:22:59+00:00",
-      "score": 12,
-      "summary": "The advance raises the threat to shipping near the Bab el-Mandeb Strait, a waterway that connects the Red Sea to the Gulf of Aden to global markets.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Red",
-        "Sea"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "Physicists help uncover 'spooky' quantum effect in the Large Hadron Collider",
       "link": "https://phys.org/news/2026-09-physicists-uncover-spooky-quantum-effect.html",
@@ -32212,35 +32243,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Hungry scent detection dogs more likely to 'cry wolf'",
-      "link": "https://phys.org/news/2026-09-hungry-scent-dogs-cry-wolf.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-10T09:40:01-04:00",
-      "score": 10,
-      "summary": "Dogs trained in scent detection may be better at sniffing out the right smell after breakfast, with new research finding hungry dogs working for treats are more likely to falsely identify the wrong scent. The study, led by researchers from the University of Waikato and Adelaid...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33763,6 +33765,166 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Emily in Paris\u2019 Star Lucien Laviscount Joins Daisy Ridley in \u2018The Good Samaritan\u2019 as Action-Thriller Secures Key Deals (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/global/lucien-laviscount-daisy-ridley-the-good-samaritan-1236860984/",
+      "source": "Variety",
+      "timestamp": "2026-09-14T14:30:00+00:00",
+      "score": 14,
+      "summary": "Lucien Laviscount, the \u201cEmily in Paris\u201d breakout recently seen in the rom-com \u201cPeople We Meet on Vacation,\u201d has joined fellow Brit Daisy Ridley in upcoming action-thriller \u201cThe Good Samaritan.\u201d From \u201cTaken\u201d director Pierre Morel and based on an original screenplay by \u201cRambo: L...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Paris",
+        "Star",
+        "Lucien",
+        "Laviscount",
+        "Joins",
+        "Daisy",
+        "Ridley",
+        "Good",
+        "Samaritan",
+        "ActionThriller",
+        "Secures",
+        "Key",
+        "Deals",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018The Last Photograph\u2019 Review: Zack Snyder Tries Indie Filmmaking on for Size, With Painfully Ponderous Results",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/the-last-photograph-review-zack-snyder-1236699771/",
+      "source": "THR",
+      "timestamp": "2026-09-14T14:22:39+00:00",
+      "score": 14,
+      "summary": "The DC filmmaker's passion project stars Stuart Martin as an ex-DEA operative who ventures into the mountains of South America to track down the abducted children of his murdered brother and sister-in-law.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Last",
+        "Photograph",
+        "Review",
+        "Zack",
+        "Snyder",
+        "Tries",
+        "Indie",
+        "Filmmaking",
+        "Size",
+        "Painfully",
+        "Ponderous",
+        "Results"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Justin Bieber, Hailey Bieber Celebrate 8th Anniversary With Date Night",
+      "link": "https://www.eonline.com/news/1436032/justin-bieber-hailey-bieber-celebrate-8th-anniversary?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-09-14T14:21:35+00:00",
+      "score": 17,
+      "summary": "What do you mean it's been eight years since Justin Bieber and Hailey Bieber got married? The couple\u2014who share 2-year-old son Jack Blues\u2014celebrated their eighth wedding anniversary, and the...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bieber",
+        "Hailey",
+        "Celebrate",
+        "Anniversary",
+        "Date",
+        "Night"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Macklemore Dropped From Ed Sheeran Tour After \u2018Free Palestine\u2019 Speech",
+      "link": "https://variety.com/2026/music/news/macklemore-dropped-ed-sheeran-tour-free-palestine-speech-1236861137/",
+      "source": "Variety",
+      "timestamp": "2026-09-14T14:19:48+00:00",
+      "score": 12,
+      "summary": "Macklemore has been dropped from the remainder of Ed Sheeran\u2019s U.S. Loop Tour after making headlines for saying \u201cfree Palestine\u201d on stage and delivering a political speech during the Sept. 4 concert at MetLife Stadium in New Jersey. The Grammy winner told the audience at the s...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dropped",
+        "Sheeran",
+        "Tour",
+        "After",
+        "Free",
+        "Palestine",
+        "Speech"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 10,
+      "sources_reporting": [
+        "Rolling Stone",
+        "Variety"
+      ],
+      "trend_accel": "+70%",
+      "heat_level": "HOT"
+    },
     {
       "title": "SkyShowtime May Be Sold or Shut Down, Board Warns In Memo Shared With Staff (Exclusive)",
       "link": "https://www.hollywoodreporter.com/business/business-news/comcast-paramount-review-strategic-options-skyshowtime-1236698105/",
@@ -41774,172 +41936,6 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Everybody Wants to F\u2014 Me\u2019 Review: Giddily Genre-Crossing Comedy Sees Right Through Taron Egerton\u2019s Nice-Guy Act",
-      "link": "https://variety.com/2026/film/news/everybody-wants-to-fuck-me-review-taron-egerton-1236859572/",
-      "source": "Variety",
-      "timestamp": "2026-09-12T22:58:09+00:00",
-      "score": 12,
-      "summary": "Just when the victim/villain discourse about sleeper smash \u201cObsession\u201d was finally beginning to die down, along comes \u201cEverybody Wants to Fuck Me\u201d \u2014 another story of a young man\u2019s desires getting violently over-satisfied \u2014 to start it all up again. Merging romantic comedy, bod...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Wants",
-        "Review",
-        "Giddily",
-        "GenreCrossing",
-        "Comedy",
-        "Sees",
-        "Right",
-        "Through",
-        "Taron",
-        "Egertons",
-        "NiceGuy",
-        "Act"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Huge L.A. Job Losses If Paramount Exits California, County Warns; Ellison-Led Company Slams AGs & WGA\u2019s Antitrust Action In Official Rebuke",
-      "link": "https://deadline.com/2026/09/paramount-job-losses-california-exit-antitrust-lawsuit-1237099942/",
-      "source": "Deadline",
-      "timestamp": "2026-09-12T22:56:31+00:00",
-      "score": 12,
-      "summary": "There will be harsh job losses and severe economic pain if Paramount carries out its threat to leave California over the antitrust action a coalition of blue state Attorneys General are pursuing to stop David Ellison\u2019s $111 billion merger with Warner Bros Discovery, an interna...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Job",
-        "Losses",
-        "Paramount",
-        "Exits",
-        "California",
-        "County",
-        "Warns",
-        "EllisonLed",
-        "Company",
-        "Slams",
-        "AGs",
-        "WGAs",
-        "Antitrust",
-        "Action",
-        "Official",
-        "Rebuke"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Twilight\u2019 Star Kellan Lutz Leading Faith-Based Survival Thriller \u2018The Rescue\u2019, Sales Launch At TIFF",
-      "link": "https://deadline.com/2026/09/twilight-star-kellan-lutz-leading-faith-based-rescue-film-1237100384/",
-      "source": "Deadline",
-      "timestamp": "2026-09-12T22:42:47+00:00",
-      "score": 14,
-      "summary": "EXCLUSIVE: Premiere Entertainment Group is introducing faith-based survival thriller The Rescue, which has Kellan Lutz (Twilight franchise) attached, to international buyers at the TIFF market. The synopsis reads: \u201cAfter a violent storm leaves a rescue team stranded on a froze...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Star",
-        "Kellan",
-        "Lutz",
-        "Leading",
-        "FaithBased",
-        "Survival",
-        "Thriller",
-        "Rescue",
-        "Sales",
-        "Launch",
-        "TIFF"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Nicole Kidman, Daughter Faith Margaret Serve Up Style at US Open 2026",
-      "link": "https://www.eonline.com/news/1436018/nicole-kidman-daughter-faith-make-rare-joint-appearance-at-us-open?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-09-12T22:40:26+00:00",
-      "score": 17,
-      "summary": "Nicole Kidman and her daughter Faith Margaret are causing a racquet with their fashion. Indeed, the Oscar winner and her 15-year-old daughter\u2014whom she shares with ex Keith Urban\u2014served stylish...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kidman",
-        "Daughter",
-        "Faith",
-        "Margaret",
-        "Serve",
-        "Style",
-        "Open"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -48426,6 +48422,70 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 3.4 - 19 km WSW of Gerlach, Nevada",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924436",
+      "source": "USGS",
+      "timestamp": "2026-09-14T14:27:02.353000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-14 14:12:05 UTC2026-09-14 14:12:05 UTC at epicenterLocation40.607\u00b0N 119.580\u00b0WDepth12.60 km (7.83 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Gerlach",
+        "Nevada"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.6 - 8 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435572",
+      "source": "USGS",
+      "timestamp": "2026-09-14T14:22:28.168000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-14 14:20:52 UTC2026-09-14 14:20:52 UTC at epicenterLocation38.830\u00b0N 122.817\u00b0WDepth1.61 km (1.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+63%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 3.7 - 28 km WNW of Gerlach, Nevada",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924436",
       "source": "USGS",
@@ -54831,69 +54891,6 @@
         "GDACS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Brazil",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031936",
-      "source": "GDACS",
-      "timestamp": "2026-09-13T11:02:34+00:00",
-      "score": 12,
-      "summary": "On 09/09/2026, a forest fire started in Brazil, until 13/09/2026.",
-      "country": "Brazil",
-      "region": "Americas",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Brazil"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 4 km N of Ocotillo Wells, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546664",
-      "source": "USGS",
-      "timestamp": "2026-09-13T10:55:45.110000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-13 10:52:25 UTC2026-09-13 10:52:25 UTC at epicenterLocation33.177\u00b0N 116.128\u00b0WDepth10.12 km (6.29 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ocotillo",
-        "Wells"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
