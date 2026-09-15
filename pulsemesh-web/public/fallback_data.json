@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "Kochi to host Keralam\u2019s c0c0n 2026 cybersecurity conference in October",
+      "link": "https://www.thehindu.com/news/national/kerala/kochi-to-host-keralams-c0c0n-2026cybersecurity-conference-in-october/article71467296.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-15T14:19:31+05:30",
+      "score": 15,
+      "summary": "Organised by Kerala Police, the event will bring together cybersecurity professionals, government and law enforcement agencies, industry leaders, researchers, technology experts, academicians and students",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Keralams",
+        "October"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Regulation of educational institutes: SC issues notice to School Education Secretary on contempt plea",
       "link": "https://www.thehindu.com/news/national/regulation-of-educational-institutes-sc-issues-notice-to-school-education-secretary-on-contempt-plea/article71467293.ece",
       "source": "The Hindu",
@@ -1371,7 +1403,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.7,
+      "trend_score": 10.6,
       "source_count": 16,
       "sources_reporting": [
         "Bloomberg",
@@ -6617,44 +6649,40 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Donations law changes to be debated after Reform's \u00a372m windfall",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyjn9pdeeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-09-14T05:45:18+00:00",
+      "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+      "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+      "source": "Verge",
+      "timestamp": "2026-09-15T04:54:48-04:00",
       "score": 15,
-      "summary": "The government is seeking to change the law on donations to UK political parties from British expats.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "summary": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced some bugs that have affected b...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Reforms"
+        "Windows"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 11,
+      "source_count": 4,
       "sources_reporting": [
-        "AP",
-        "BBC",
-        "Bloomberg",
-        "Guardian",
-        "NHK"
+        "Verge"
       ],
-      "trend_accel": "+70%",
-      "heat_level": "SURGING"
-    }
-  ],
-  "Tech": [
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Jensen Huang took a call from Trump, and showed off something else, too",
       "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
@@ -13118,23 +13146,33 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-09T13:00:00+00:00",
-      "score": 14,
-      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran",
+      "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
+      "source": "NYT",
+      "timestamp": "2026-09-15T08:57:21+00:00",
+      "score": 12,
+      "summary": "The American presence in these countries has not shielded them from retaliation during the Iran war. Now they are hoping direct talks with Iran could help.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Cymphony"
+        "Arabs",
+        "Seek",
+        "Options",
+        "After",
+        "Bases",
+        "Did",
+        "Not",
+        "Deter",
+        "Iran"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13143,15 +13181,49 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "TechCrunch"
+        "NYT"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "US confirms for first time it has deployed space weapons",
+      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-15T08:48:28+00:00",
+      "score": 10,
+      "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.2,
+      "source_count": 17,
+      "sources_reporting": [
+        "BBC",
+        "France24",
+        "Guardian",
+        "NPR",
+        "Reuters",
+        "The Hindu"
+      ],
+      "trend_accel": "+82%",
+      "heat_level": "CRITICAL"
+    },
     {
       "title": "Western Renewables Link passes planning hurdle as cost review ordered",
       "link": "https://www.abc.net.au/news/2026-09-15/western-renewables-link-ees-approval-ben-carroll-cost-assessment/107154342",
@@ -14344,8 +14416,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "ABC Australia",
@@ -19626,68 +19698,6 @@
         "Times of India"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "US tech stocks fall after big AI groups call for slowdown",
-      "link": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
-      "source": "FT",
-      "timestamp": "2026-09-14T13:33:12+00:00",
-      "score": 14,
-      "summary": "Memory-chip makers and Nvidia slide at the start of trading in New York",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "FT"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "AIADMK targets Vijay over UK trip, claims he signed MoU with 'Noida-based' firm",
-      "link": "https://timesofindia.indiatimes.com/india/aiadmk-targets-vijay-over-uk-trip-claims-he-signed-mou-with-noida-based-firm/articleshow/134242017.cms",
-      "source": "Times of India",
-      "timestamp": "2026-09-14T18:51:20+05:30",
-      "score": 14,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Vijay",
-        "MoU",
-        "Noidabased"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -26335,6 +26345,70 @@
   ],
   "Science": [
     {
+      "title": "Responsibilities in close social relationships explain Eastern\u2013Western cultural differences",
+      "link": "https://phys.org/news/2026-09-responsibilities-social-relationships-easternwestern-cultural.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-15T05:00:15-04:00",
+      "score": 14,
+      "summary": "Do you think that a person who reorganizes their life so that their aging parents can live with them would be likely to push another out of the way on the subway? What about greeting strangers with a smile? The answers to these questions are at the heart of a puzzle social psy...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "EasternWestern"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Indigenous Australian population was much larger than previously thought and decimated after First Fleet's arrival",
+      "link": "https://phys.org/news/2026-09-indigenous-australian-population-larger-previously.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-15T05:00:02-04:00",
+      "score": 12,
+      "summary": "Australia had a much larger Indigenous population before the arrival of Europeans than previously thought, according to new research. The research also demonstrates much larger population losses resulting from colonization than previously believed, with an estimated 93% of the...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Australian",
+        "First",
+        "Fleets"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
       "link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
       "source": "NYT",
@@ -32335,67 +32409,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "DRC's cobalt exports contain unreported uranium\u2014our study estimates the global nuclear risk",
-      "link": "https://phys.org/news/2026-09-drc-cobalt-exports-unreported-uranium.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-10T23:20:04-04:00",
-      "score": 12,
-      "summary": "The southern region of the Democratic Republic of Congo (DRC) is known as the Copperbelt because of its rich deposits of copper and other minerals.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "London misperceptions: Study reveals what Britons get wrong",
-      "link": "https://phys.org/news/2026-09-london-misperceptions-reveals-britons-wrong.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-10T22:40:01-04:00",
-      "score": 12,
-      "summary": "London has one of the lowest violent crime rates of any region in England and Wales, tops a global ranking of the best cities, and pays more in taxes than it receives back in public spending\u2014but the public overestimates how likely Londoners are to become victims of crime, unde...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Study",
-        "Britons"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33866,38 +33879,6 @@
         "Guardian"
       ],
       "trend_accel": "+61%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Deepti rises to No. 6 on T20I bowling rankings",
-      "link": "https://www.cricinfo.com/ci/content/story/1553235.html?ex_cid=OTC-RSS",
-      "source": "Cricinfo",
-      "timestamp": "2026-09-08T08:56:26+00:00",
-      "score": 15,
-      "summary": "N Shree Charani continues to lead the T20I bowling table; Charlie Dean and Amy Hunter make big moves on the ODI rankings",
-      "country": "Global",
-      "region": "Global",
-      "source_type": "Custom Feed",
-      "trust_score": 7,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 12,
-      "sources_reporting": [
-        "AP",
-        "BBC",
-        "Cricinfo",
-        "NHK"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ],
@@ -49068,6 +49049,70 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 3.2 - 48 km NW of Toyah, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thkg",
+      "source": "USGS",
+      "timestamp": "2026-09-15T08:59:14.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-15 08:48:29 UTC2026-09-15 08:48:29 UTC at epicenterLocation31.649\u00b0N 104.121\u00b0WDepth8.05 km (5.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Toyah",
+        "Texas"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 25 km W of Volcano, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75036187",
+      "source": "USGS",
+      "timestamp": "2026-09-15T08:57:40.220000+00:00",
+      "score": 17,
+      "summary": "Time2026-09-15 08:54:07 UTC2026-09-15 08:54:07 UTC at epicenterLocation19.444\u00b0N 155.475\u00b0WDepth6.35 km (3.95 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Volcano",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.1 - 5 km SW of Brawley, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333055",
       "source": "USGS",
@@ -55514,69 +55559,6 @@
         "USGS"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.6 - 7 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75435402",
-      "source": "USGS",
-      "timestamp": "2026-09-14T03:17:24.467000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-14 03:01:04 UTC2026-09-14 03:01:04 UTC at epicenterLocation38.828\u00b0N 122.808\u00b0WDepth0.63 km (0.39 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+61%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.2 - 13 km E of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75035242",
-      "source": "USGS",
-      "timestamp": "2026-09-14T03:12:49.230000+00:00",
-      "score": 17,
-      "summary": "Time2026-09-14 03:09:13 UTC2026-09-14 03:09:13 UTC at epicenterLocation19.214\u00b0N 155.347\u00b0WDepth30.05 km (18.67 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
