@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "U.S. military says Iran war has led to munitions shortfall",
+      "link": "https://www.thehindu.com/news/national/us-military-says-iran-war-has-led-to-munitions-shortfall/article71466628.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-15T08:55:30+05:30",
+      "score": 12,
+      "summary": "The report noted \"the munitions expenditure on OEF has resulted in strategic inventory shortfalls and revealed industrial base bottlenecks for munitions resupply\u201d",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Nancy Mace calls for public execution of Lindsay Clancy",
       "link": "https://thehill.com/homenews/state-watch/6089505-nancy-mace-public-execution-clancy/",
       "source": "The Hill",
@@ -6623,37 +6656,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "GOP rep on AI: \u2018Let\u2019s get on top of it\u2019",
-      "link": "https://thehill.com/policy/technology/6086989-flood-calls-ai-safeguards/",
-      "source": "The Hill",
-      "timestamp": "2026-09-13T19:24:32+00:00",
-      "score": 14,
-      "summary": "GOP Rep. Mike Flood (Neb.) said Sunday the federal government should implement artificial intelligence safeguards to prevent the technology from falling into the wrong \u201chands.\u201d During an interview on NewsNation\u2019s \u201cThe Hill Sunday,\u201d Flood said the leaders of top AI companies sh...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lets"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "The Hill"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Tech": [
@@ -8437,7 +8439,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.7,
+      "trend_score": 9.6,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -13154,6 +13156,70 @@
     }
   ],
   "World": [
+    {
+      "title": "Whyalla's steelmaking gap could last years as potential job losses mount",
+      "link": "https://www.abc.net.au/news/2026-09-15/whyalla-steelmaking-gap-could-last-years/107153676",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-15T03:20:20+00:00",
+      "score": 10,
+      "summary": "A resumption of steelmaking in Whyalla could be several years away, following the announcement that hundreds of jobs will go because of the demise of the blast furnace.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Australian politics live: Pauline Hanson offers qualified apologies to Albanese and Indigenous Australians over podcast comments",
+      "link": "https://www.theguardian.com/australia-news/live/2026/sep/15/one-nation-pauline-hanson-immigration-coalition-andrew-hastie-angus-taylor-labor-anthony-albanese-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-09-15T03:19:40+00:00",
+      "score": 12,
+      "summary": "Follow the day\u2019s news liveGet our breaking news email, free app or daily news podcastThe South Australian premier, Peter Malinauskas, says there is optimism that steel making will continue in his state, after the closure of a major blast furnace at Whyalla was announced yester...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pauline",
+        "Hanson",
+        "Albanese",
+        "Indigenous",
+        "Australians"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "U.S. has weapons deployed in orbit, Space Force says",
       "link": "https://www.thehindu.com/news/international/us-has-weapons-deployed-in-orbit-space-force-says/article71466592.ece",
@@ -19647,14 +19713,16 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Indian-origin man wanted in U.S. for Medicare fraud",
-      "link": "https://www.thehindu.com/news/international/indian-origin-man-wanted-in-us-for-medicare-fraud/article71465581.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-14T12:56:33+05:30",
+      "title": "Dividend record date alert: Last chance to buy today for cash reward; Hindustan Copper, Bajaj Steel, VST Tillers, others",
+      "link": "https://www.livemint.com/market/stock-market-news/dividend-record-date-alert-last-chance-to-buy-today-for-dividend-hindustan-copper-bajaj-steel-vst-tillers-among-oth-11789440884559.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-15T08:51:45+05:30",
       "score": 12,
-      "summary": "The Department of Health and Human Services said Khadeer Khan Mohammed purportedly submitted, or directed others to submit, claims for laboratory genetic testing ineligible for reimbursement",
+      "summary": "Over 37 companies, including Hindustan Copper and Bajaj Steel are likely to remain in focus on Tuesday, which is the last day to qualify for dividend payouts set for September 16.",
       "country": "India",
       "region": "South Asia",
       "source_type": "Newspaper",
@@ -19663,7 +19731,81 @@
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Medicare"
+        "Last",
+        "Hindustan",
+        "Copper",
+        "Bajaj",
+        "Steel",
+        "VST",
+        "Tillers"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "LCC Projects IPO allotment to be out today. Issue subscribed 48.51x. GMP at  \u20b963 | Step-by-step guide",
+      "link": "https://www.livemint.com/market/ipo/lcc-projects-ipo-allotment-to-be-out-today-issue-subscribed-48-51x-gmp-at-rs-63-step-by-step-guide-11789439274923.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-15T08:51:04+05:30",
+      "score": 15,
+      "summary": "LCC Projects IPO share allotment will be finalized on 15 September. Investors can check their allotment status via Kfin Technologies. The IPO was 48.51 times subscribed, and shares will be credited to demat accounts. Refunds for unsuccessful applicants begin on 16 September.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Projects",
+        "IPO",
+        "Issue",
+        "GMP",
+        "Stepbystep"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Rentomojo IPO: Allotment today; check status online | 72.88x subscription - GMP signals 39% listing gains",
+      "link": "https://www.livemint.com/market/ipo/rentomojo-ipo-allotment-today-check-status-online-72-88x-subscription-gmp-signals-39-listing-gains-11789439343667.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-15T08:50:23+05:30",
+      "score": 17,
+      "summary": "Applicants can check the Rentomojo IPO allotment status on the official websites of BSE, NSE and KFin Technologies, the registrar to the issue.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "IPO",
+        "Allotment",
+        "GMP"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19674,42 +19816,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "Livemint"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Footballers accused of rape thought they 'could be on' for group sex",
-      "link": "https://www.abc.net.au/news/2026-09-14/footballers-deny-alleged-rape/107150286",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-14T07:20:01+00:00",
-      "score": 10,
-      "summary": "A jury hears two Scone footballers believed they \"could be on\" for group sex on the night they allegedly raped a woman.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Oil and Treasury yields haven\u2019t moved this closely in seven years. That\u2019s bad news for markets",
       "link": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
@@ -26269,106 +26380,6 @@
         "Livemint"
       ],
       "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
-      "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-12T21:58:17+00:00",
-      "score": 14,
-      "summary": "Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "IPO",
-        "Altman",
-        "Musk",
-        "Amodei"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Musk, Altman support Anthropic\u2019s Amodei as he shares plan to \u2018slow the pace\u2019 of advancing AI capabilities",
-      "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-12T20:55:55+00:00",
-      "score": 14,
-      "summary": "Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Altman",
-        "Anthropics",
-        "Amodei"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Anthropic\u2019s Amodei shares plan to \u2018slow the pace\u2019 of growing AI capabilities; Musk and Altman express support",
-      "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-12T19:59:20+00:00",
-      "score": 14,
-      "summary": "Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Amodei",
-        "Musk",
-        "Altman"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -33972,6 +33983,160 @@
   ],
   "Entertainment": [
     {
+      "title": "Jamie Lee Curtis Gives Emmys Tribute to Rob Reiner: \u201cHe Was Generous and Kind and Funny as Hell\u201d",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/jamie-lee-curtis-rob-reiner-emmys-2026-tribute-1236701697/",
+      "source": "THR",
+      "timestamp": "2026-09-15T03:30:47+00:00",
+      "score": 12,
+      "summary": "Reiner was honored as part of the In Memoriam segment and won a posthumous Emmy last week.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lee",
+        "Curtis",
+        "Gives",
+        "Emmys",
+        "Tribute",
+        "Rob",
+        "Reiner",
+        "Was",
+        "Generous",
+        "Kind",
+        "Funny",
+        "Hell"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Widow\u2019s Bay\u2019 Dominates, and 7 Other Takeaways From the 2026 Emmys",
+      "link": "https://www.nytimes.com/2026/09/14/arts/television/widows-bay-the-pitt-emmys-awards.html",
+      "source": "NYT",
+      "timestamp": "2026-09-15T03:22:53+00:00",
+      "score": 15,
+      "summary": "The Apple TV horror-comedy about a haunted island took home 14 Emmys, including the awards for best comedy, lead actor, writing, directing and supporting actor and actress.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bay",
+        "Dominates",
+        "Other",
+        "Takeaways",
+        "Emmys"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Emmys 2026: Allison Janney Has Shocked Reaction to Win in Must-See Pic",
+      "link": "https://www.eonline.com/news/1436075/emmys-2026-see-allison-janneys-shocked-reaction-to-win?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-09-15T03:17:00+00:00",
+      "score": 15,
+      "summary": "And the award for most priceless Emmys 2026 audience reaction goes to...Allison Janney. The Diplomat actress appeared utterly shocked upon hearing her name called during the Sept. 14 ceremony at...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Allison",
+        "Janney",
+        "Has",
+        "Shocked",
+        "Reaction",
+        "Win",
+        "MustSee",
+        "Pic"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Noah Kahan Performs \u201cBridge Over Troubled Water\u201d During 2026 Emmy In Memoriam",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/noah-kahan-bridge-over-troubled-water-2026-emmy-in-memoriam-1236701539/",
+      "source": "THR",
+      "timestamp": "2026-09-15T03:16:04+00:00",
+      "score": 15,
+      "summary": "The \"Orbiter\" singer recently wrapped the North American leg of his sold-out 'Great Divide' tour.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kahan",
+        "Performs",
+        "Bridge",
+        "Over",
+        "Troubled",
+        "Water",
+        "During",
+        "Emmy",
+        "Memoriam"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Seven Variety Cover Stars Win 2026 Emmys",
       "link": "https://variety.com/2026/tv/awards/variety-cover-stars-emmys-matthew-rhys-jean-smart-noah-wyle-1236862389/",
       "source": "Variety",
@@ -34915,7 +35080,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 18,
       "sources_reporting": [
         "Bloomberg",
@@ -41719,178 +41884,42 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Davika Hoorne and Banjong Pisanthanakun Reunite for Toronto Title \u2018Inherit\u2019",
-      "link": "https://variety.com/2026/film/festivals/davika-hoorne-banjong-pisanthanakun-inherit-toronto-1236855775/",
-      "source": "Variety",
-      "timestamp": "2026-09-14T12:13:56+00:00",
-      "score": 12,
-      "summary": "Davika Hoorne and director Banjong Pisanthanakun are opening up about \u201cInherit,\u201d the psychological horror film that reunites the pair and will have its world premiere in the Centrepiece program at the Toronto Film Festival, with Hoorne starring as a centuries-old, demon-posses...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hoorne",
-        "Banjong",
-        "Pisanthanakun",
-        "Reunite",
-        "Toronto",
-        "Title",
-        "Inherit"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Your Mother Your Mother Your Mother\u2019 Review: A Blistering Spiritual Actioner Finally Gives Mahershala Ali a Leading Role Worth His While",
-      "link": "https://variety.com/2026/film/news/your-mother-your-mother-your-mother-mahershala-ali-1236860755/",
-      "source": "Variety",
-      "timestamp": "2026-09-14T12:10:49+00:00",
-      "score": 12,
-      "summary": "Since winning two Oscars in three years less than a decade ago, Mahershala Ali has bided his time as one of Hollywood\u2019s great untapped commodities. Not counting some disposable franchise support duty, he\u2019s had only a fine performance in the gloopy sci-fi \u201cSwan Song\u201d to remind ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mother",
-        "Your",
-        "Review",
-        "Blistering",
-        "Spiritual",
-        "Actioner",
-        "Finally",
-        "Gives",
-        "Mahershala",
-        "Ali",
-        "Leading",
-        "Role",
-        "Worth",
-        "His",
-        "While"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018John Wick Cracked Out on Meth\u2019 Toronto Midnight Madness Film \u2018Kick On\u2019 Director Nick Kozakis Says Real Stunts Sell the Brutality",
-      "link": "https://variety.com/2026/film/festivals/nick-kozakis-real-stunts-brutality-kick-on-toronto-midnight-madness-1236859401/",
-      "source": "Variety",
-      "timestamp": "2026-09-14T12:09:27+00:00",
-      "score": 12,
-      "summary": "There\u2019s a severed head on set, a childhood friend swinging fists in an elevator, and a director who wanted every drop of blood shot for real. Australian filmmaker Nick Kozakis\u2019s action-horror film \u201cKick On\u201d makes its world premiere in the Toronto International Film Festival\u2019s ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Wick",
-        "Cracked",
-        "Out",
-        "Meth",
-        "Toronto",
-        "Midnight",
-        "Madness",
-        "Film",
-        "Kick",
-        "Director",
-        "Nick",
-        "Kozakis",
-        "Says",
-        "Real",
-        "Stunts",
-        "Sell",
-        "Brutality"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Beta Cinema Posts Fresh Deals For Trudie Styler\u2019s \u2018Up Against It\u2019 Ahead Of TIFF Debut",
-      "link": "https://deadline.com/2026/09/beta-cinema-new-deals-for-trudie-styler-up-against-it-1237101572/",
-      "source": "Deadline",
-      "timestamp": "2026-09-14T12:00:02+00:00",
-      "score": 14,
-      "summary": "Beta Cinema has unveiled a raft of new deals for Trudie Styler\u2019s comedy Up Against It ahead of its world premiere as a gala presentation in Toronto later this week. The fresh deals include to Spain (Youplanet Pictures/Caramel), Greece (Spentzos Film), Turkey (Mars Production),...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Cinema",
-        "Posts",
-        "Fresh",
-        "Deals",
-        "Trudie",
-        "Stylers",
-        "Against",
-        "Ahead",
-        "TIFF",
-        "Debut"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
+    {
+      "title": "Maria McManus Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/maria-mcmanus",
+      "source": "Vogue",
+      "timestamp": "2026-09-15T03:30:06+00:00",
+      "score": 15,
+      "summary": "Strategic intelligence signal ingested from Vogue.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "McManus",
+        "Spring",
+        "ReadytoWear"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Vogue"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Sequins and Butterflies: How Reba McEntire Honored Dolly Parton at the 2026 Emmy Awards",
       "link": "https://www.vogue.com/article/sequins-and-butterflies-how-reba-mcentire-honored-dolly-parton-at-the-2026-emmy-awards",
@@ -49039,46 +49068,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Just One Thing: Meet Cartier\u2019s New Clash de Cartier Bag",
-      "link": "https://www.vogue.com/article/just-one-thing-clash-de-cartier-bag",
-      "source": "Vogue",
-      "timestamp": "2026-09-08T19:07:36+00:00",
-      "score": 12,
-      "summary": "Blurring the line between leather goods and jewelry, Cartier\u2019s new Clash de Cartier bag turns one of the maison\u2019s signature studs into its defining clasp.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "One",
-        "Thing",
-        "Meet",
-        "Cartiers",
-        "New",
-        "Clash",
-        "Cartier",
-        "Bag"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -49111,6 +49100,105 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 72 km WNW of Happy Valley, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sgyncv",
+      "source": "USGS",
+      "timestamp": "2026-09-15T03:27:16.535000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-15 03:26:30 UTC2026-09-15 03:26:30 UTC at epicenterLocation60.163\u00b0N 152.969\u00b0WDepth11.50 km (7.15 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Happy",
+        "Valley",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.9 - 58 km S of Whites City, New Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026seacbl",
+      "source": "USGS",
+      "timestamp": "2026-09-15T03:21:57.546000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-15 03:17:57 UTC2026-09-15 03:17:57 UTC at epicenterLocation31.647\u00b0N 104.377\u00b0WDepth4.31 km (2.68 mi)",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Whites",
+        "City",
+        "New",
+        "Mexico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Tanzania",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031987",
+      "source": "GDACS",
+      "timestamp": "2026-09-15T03:19:28+00:00",
+      "score": 12,
+      "summary": "On 02/09/2026, a forest fire started in Tanzania, until 14/09/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tanzania"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+55%",
       "heat_level": "LOW"
     },
     {
@@ -55516,104 +55604,6 @@
         "USGS"
       ],
       "trend_accel": "+60%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Russian Federation",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031955",
-      "source": "GDACS",
-      "timestamp": "2026-09-13T23:16:21+00:00",
-      "score": 12,
-      "summary": "On 03/09/2026, a forest fire started in Russian Federation, until 13/09/2026.",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Russian",
-        "Federation"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.1 - 50 km N of Ruteng, Indonesia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8u",
-      "source": "USGS",
-      "timestamp": "2026-09-13T23:16:20.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-13 22:40:01 UTC2026-09-13 22:40:01 UTC at epicenterLocation8.160\u00b0S 120.382\u00b0EDepth10.00 km (6.21 mi)",
-      "country": "Indonesia",
-      "region": "Southeast Asia",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ruteng",
-        "Indonesia"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.2 - 27 km ESE of Avalon, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41546832",
-      "source": "USGS",
-      "timestamp": "2026-09-13T23:11:05.330000+00:00",
-      "score": 15,
-      "summary": "DYFI? - ITime2026-09-13 22:56:19 UTC2026-09-13 22:56:19 UTC at epicenterLocation33.243\u00b0N 118.058\u00b0WDepth4.65 km (2.89 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Avalon"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
