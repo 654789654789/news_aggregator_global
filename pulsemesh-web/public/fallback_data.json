@@ -1,6 +1,46 @@
 {
   "Politics": [
     {
+      "title": "U.S. Intelligence Warns of China Theft Over Sale of F-35 Jets to Saudis",
+      "link": "https://www.nytimes.com/2026/09/16/us/politics/us-intelligence-china-f35-jets-saudis.html",
+      "source": "NYT",
+      "timestamp": "2026-09-16T21:22:10+00:00",
+      "score": 15,
+      "summary": "Internal reports, including one from the Pentagon\u2019s Defense Intelligence Agency, say China could acquire U.S. jet technology through spying or cooperation with Saudi Arabia.",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Intelligence",
+        "Warns",
+        "China",
+        "Theft",
+        "Over",
+        "Sale",
+        "Jets",
+        "Saudis"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump offers fiery response to Federal Reserve rate hike",
       "link": "https://thehill.com/homenews/administration/6093973-trump-demands-lower-rates-federal-reserve/",
       "source": "The Hill",
@@ -6514,29 +6554,25 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Trump Plans Blitz of $138 Million and Counting to Save Midterm Republicans",
-      "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-maga-inc-midterm-spending.html",
-      "source": "NYT",
-      "timestamp": "2026-09-16T00:10:52+00:00",
-      "score": 15,
-      "summary": "His powerful super PAC is suddenly spending heavily on some races, after drawing fire from some Republicans that the group might not throw its weight behind the party\u2019s candidates.",
+      "title": "Pulley, a Carta rival, is shutting down",
+      "link": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-16T21:23:19+00:00",
+      "score": 12,
+      "summary": "Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund, announced that it's closing shop in December.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Plans",
-        "Blitz",
-        "Million",
-        "Counting",
-        "Save",
-        "Midterm",
-        "Republicans"
+        "Carta"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6545,15 +6581,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "NYT"
+        "TechCrunch"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+43%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "The AI data center e-waste problem is huge \u2014 and getting bigger",
       "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
@@ -13057,24 +13091,26 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "European founders and VCs urge lawmakers \u2018to get EU Inc right\u2019",
-      "link": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-10T12:25:08+00:00",
+      "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-16T21:24:24+00:00",
       "score": 12,
-      "summary": "Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc' shouldn\u2019t be watered down.",
+      "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result of Iranian strikes.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "VCs",
-        "Inc"
+        "Leaked",
+        "Gulf"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13083,15 +13119,77 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "BBC"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Top Trump military adviser says US must prepare to fight around moon",
+      "link": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
+      "source": "Guardian",
+      "timestamp": "2026-09-16T21:19:04+00:00",
+      "score": 12,
+      "summary": "Gen Dan Caine comments at Washington summit come after US revealed it has deployed weapons in spaceAmerican troops need to prepare for combat not only in Earth\u2019s orbit but around the moon, Donald Trump\u2019s top military adviser said on Wednesday, looking ahead to a new frontier i...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Homeless people given less than a week to move from camp in Perth's south",
+      "link": "https://www.abc.net.au/news/2026-09-17/government-gives-homeless-people-at-camp-less-than-week-to-move/107160738",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-16T21:17:13+00:00",
+      "score": 12,
+      "summary": "Roughly 50 people have been camped out in makeshift conditions at Memorial Drive in the City of Rockingham, with the state government telling them to leave.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Perths"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Live: Universities Australia boss 'deeply worried' about migration overhaul",
       "link": "https://www.abc.net.au/news/2026-09-17/federal-politics-live-blog-sept-17/107161304",
@@ -19610,103 +19708,47 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Trump threatens to keep Kennedy Centre shut if his name not added",
-      "link": "https://www.thehindu.com/news/international/trump-threatens-to-keep-kennedy-centre-shut-if-his-name-not-added/article71470969.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-16T09:27:50+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kennedy",
-        "Centre"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Breaking: At least three dead in LA helicopter crash near fatal bus accident",
-      "link": "https://www.abc.net.au/news/2026-09-16/helicopter-crashes-in-los-angeles-near-fatal-bus-crash/107159552",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-16T03:49:41+00:00",
-      "score": 12,
-      "summary": "At least three people have been killed in Los Angeles after a helicopter crashed near the site of a separate fatal bush crash, according to local authorities.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Saudi coalition says Houthi drone destroyed near Mecca",
-      "link": "https://www.thehindu.com/news/international/saudi-coalition-says-houthi-drone-destroyed-near-mecca/article71470972.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-16T09:18:42+05:30",
-      "score": 12,
-      "summary": "The drone, intercepted on September 15 was the second Houthi attempt to target Mecca after a ballistic missile launch in July 2017, spokesperson Turki al-Malki said in a statement",
-      "country": "Saudi Arabia",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Houthi",
-        "Mecca"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 7,
-      "sources_reporting": [
-        "ABC Australia",
-        "The Hindu"
-      ],
-      "trend_accel": "+65%",
-      "heat_level": "HOT"
     }
   ],
   "Business": [
+    {
+      "title": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
+      "link": "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html",
+      "source": "NYT",
+      "timestamp": "2026-09-16T21:16:50+00:00",
+      "score": 14,
+      "summary": "The Federal Reserve\u2019s first increase to interest rates since July 2023 comes less than two months before the midterm elections.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Raises",
+        "Rates",
+        "First",
+        "Major",
+        "Step",
+        "Warsh",
+        "Contain",
+        "Inflation"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
       "link": "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
@@ -26247,35 +26289,24 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Live Updates: Treasury Secretary Bessent Testifies Before House Panel on Economy - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zZ0VnYjg4YUhxZFdOTmMweVpuZGNta2tmR200bUQ2WXI0VEtwVi10bG5lX2toWnpzU29YLUJ1RGFjVjUwTXlJdi1Sb2F5amY5V0piYWM0R3RWSlYxOHFXU1AwNWFjUVVQU0lGMzhCLUEzUQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-15T15:22:15+00:00",
-      "score": 14,
-      "summary": "Live Updates: Treasury Secretary Bessent Testifies Before House Panel on Economy The New York TimesWhat to watch as Treasury Secretary Scott Bessent testifies before Congress cnbc.comScott Bessent testifies on Iran war, gas prices, inflation 2026 qz.comLive: Bessent testifies ...",
+      "title": "Iron, sulfur and purple light unlock greener carbon-carbon bond formation",
+      "link": "https://phys.org/news/2026-09-iron-sulfur-purple-greener-carbon.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-16T17:30:02-04:00",
+      "score": 10,
+      "summary": "Much of organic chemistry, including the type used to create and alter medicinal drugs, relies on modifying carbon bonds. Rice University's Julian West has been developing a less expensive, faster and more environmentally friendly way to catalyze these reactions, with a breakt...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Updates",
-        "Treasury",
-        "Secretary",
-        "Bessent",
-        "Testifies",
-        "Before",
-        "House",
-        "Panel",
-        "Economy",
-        "New",
-        "York",
-        "Times"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26283,15 +26314,74 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "Google News"
+        "Phys.org"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "Bacterial invasion proteins could improve detection of live crop pathogens",
+      "link": "https://phys.org/news/2026-09-bacterial-invasion-proteins-crop-pathogens.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-16T17:20:08-04:00",
+      "score": 10,
+      "summary": "Scientists, clinicians, seed companies and others may soon have a new tool in their toolkit for detecting bacterial pathogens, thanks to a new study by researchers in Penn State's College of Agricultural Sciences. The research\u2014published in Journal of Microbiological Methods\u2014de...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "AI can be more comforting than a person\u2014our research shows why",
+      "link": "https://phys.org/news/2026-09-ai-comforting-person.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-16T17:20:02-04:00",
+      "score": 12,
+      "summary": "Some of us now use generative artificial intelligence (gen AI) to talk through difficult feelings. We may ask a chatbot to write an email or plan a vacation, but we also tell it that we have had a rotten day or feel anxious about a presentation.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 6.6,
+      "source_count": 17,
+      "sources_reporting": [
+        "AP",
+        "Bloomberg",
+        "NHK",
+        "Phys.org"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Ultrathin membranes unlock nano-infrared views of biomolecules in water",
       "link": "https://phys.org/news/2026-09-ultrathin-membranes-nano-infrared-views.html",
@@ -26713,8 +26803,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "Bloomberg",
@@ -32328,97 +32418,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Peptide position determines whether gold nanoparticles branch or stay spherical",
-      "link": "https://phys.org/news/2026-09-peptide-position-gold-nanoparticles-stay.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-14T16:00:04-04:00",
-      "score": 10,
-      "summary": "The position of biomineralization peptides within liposomes can influence how gold nanoparticles grow, reports a research team from the Institute of Science Tokyo. Peptides localized at the membrane interface promote branched structures, while those confined to the liposome in...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Unused natural gas behind NYC's $300 million waste of a potent greenhouse gas",
-      "link": "https://phys.org/news/2026-09-unused-natural-gas-nyc-million.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-14T15:40:06-04:00",
-      "score": 15,
-      "summary": "Methane emissions from the New York City metropolitan area are largely driven by natural gas use, according to a new study published today in Atmospheric Chemistry and Physics by researchers at the Lamont-Doherty Earth Observatory, part of the Columbia Climate School. The find...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NYCs"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Only 1 out of every 5 amphibian type localities in Ecuador are in protected areas",
-      "link": "https://phys.org/news/2026-09-amphibian-localities-ecuador-areas.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-14T15:40:01-04:00",
-      "score": 15,
-      "summary": "In taxonomy, the location where specimens used to formally describe a new species are collected is called a type locality. These sites can be thought of as the species' formal birthplace, much as the scientific article containing the original description constitutes its scient...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ecuador"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32484,7 +32483,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.8,
+      "trend_score": 7.7,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -32492,8 +32491,8 @@
         "NHK",
         "NPR"
       ],
-      "trend_accel": "+71%",
-      "heat_level": "SURGING"
+      "trend_accel": "+70%",
+      "heat_level": "HOT"
     },
     {
       "title": "Naman Dhir, Aquib Nabi get maiden ODI call-ups for West Indies series",
@@ -34222,6 +34221,154 @@
   ],
   "Entertainment": [
     {
+      "title": "\u2018Dancing With the Stars\u2019 Season 35 Premiere Hits 6.7 Million Viewers, Best Opener in Six Years",
+      "link": "https://variety.com/2026/tv/news/dancing-with-the-stars-season-35-premiere-ratings-1236864750/",
+      "source": "Variety",
+      "timestamp": "2026-09-16T21:30:00+00:00",
+      "score": 15,
+      "summary": "\u201cDancing With the Stars\u201d returned to ABC for its Season 35 premiere on Tuesday night and reached a strong 6.7 million viewers. That\u2019s a 24% increase from the performance of the Season 34 premiere, which hit 5.4 million viewers in 2025. Even more, Tuesday\u2019s episode marks the se...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stars",
+        "Season",
+        "Premiere",
+        "Hits",
+        "Million",
+        "Viewers",
+        "Best",
+        "Opener",
+        "Six",
+        "Years"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018S.N.L.\u2019 Adds Grace Reiter and Saidah Belo-Osagie to Cast",
+      "link": "https://www.nytimes.com/2026/09/16/arts/television/snl-new-cast-members.html",
+      "source": "NYT",
+      "timestamp": "2026-09-16T21:29:33+00:00",
+      "score": 14,
+      "summary": "The upcoming season of \u201cSaturday Night Live\u201d will feature Saidah Belo-Osagie and Grace Reiter as new faces.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Adds",
+        "Grace",
+        "Reiter",
+        "Saidah",
+        "BeloOsagie",
+        "Cast"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Resident Evil\u2019 To Scorch The Earth With $80M Global Debut \u2013 Box Office Preview",
+      "link": "https://deadline.com/2026/09/box-office-resident-evil-global-opening-forecast-1237105692/",
+      "source": "Deadline",
+      "timestamp": "2026-09-16T21:25:28+00:00",
+      "score": 15,
+      "summary": "After a record $4.67B summer, last weekend\u2019s Warner Bros/Alcon\u2019s Practical Magic 2 didn\u2019t exactly light he fall on fire. But this weekend\u2019s Sony/Constantin\u2019s Zach Cregger revival of Resident Evil could very well do the trick with a $40M-$50M domestic start and another $31M ove...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Evil",
+        "Scorch",
+        "Earth",
+        "Global",
+        "Debut",
+        "Box",
+        "Office",
+        "Preview"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "The Best Streaming Deals on Sling TV",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/best-sling-tv-streaming-pricing-1236091936/",
+      "source": "THR",
+      "timestamp": "2026-09-16T21:24:00+00:00",
+      "score": 14,
+      "summary": "Plus, a breakdown of the streaming service's core plans and add-ons.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Best",
+        "Streaming",
+        "Deals",
+        "Sling"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Bell Media Chief Sean Cohan on Risky \u2018Heated Rivalry\u2019 Bet Paying Off: \u201cYou Got to Take Shots\u201d",
       "link": "https://www.hollywoodreporter.com/tv/tv-news/bell-media-chief-sean-cohan-1236703898/",
       "source": "THR",
@@ -34673,11 +34820,12 @@
       "breaking": false,
       "trending": true,
       "trend_score": 11.4,
-      "source_count": 16,
+      "source_count": 17,
       "sources_reporting": [
         "BBC",
         "Deadline",
         "NHK",
+        "NYT",
         "Reuters",
         "THR",
         "Variety"
@@ -41986,175 +42134,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018NCIS: New York\u2019 Trailer Reveals LL Cool J\u2019s Character Sam Hanna\u2019s Return & His New Team",
-      "link": "https://deadline.com/2026/09/ncis-new-york-trailer-ll-cool-j-1237104585/",
-      "source": "Deadline",
-      "timestamp": "2026-09-15T23:42:52+00:00",
-      "score": 14,
-      "summary": "NCIS: New York has dropped its first trailer (above), and there are so many details packed into the video, setting up the series premiere on October 6. In the pilot, after years of special assignments and covert ops, Special Agent Sam Hanna (LL Cool J) returns to his hometown ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "New",
-        "York",
-        "Trailer",
-        "Reveals",
-        "Cool",
-        "Character",
-        "Sam",
-        "Hannas",
-        "Return",
-        "His",
-        "Team"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Mikayla Matthews Says That \u201cThe Only Reason\u201d She\u2019s Leaving Hulu\u2019s \u2018Mormon Wives\u2019 Is \u201cBecause I Was Told A Certain Person Was Coming Back\u201d",
-      "link": "https://deadline.com/2026/09/mormon-wives-mikayla-matthews-taylor-frankie-paul-season-6-filming-return-1237104657/",
-      "source": "Deadline",
-      "timestamp": "2026-09-15T23:42:35+00:00",
-      "score": 14,
-      "summary": "Mikayla Matthews isn\u2019t mincing words, and a day after saying she was leaving The Secret Lives of Mormon Wives, she confirmed it was because Taylor Frankie Paul was returning to filming. The Hulu reality series is currently filming Season 6 after Season 5 was truncated due to P...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Matthews",
-        "Says",
-        "That",
-        "Only",
-        "Reason",
-        "Shes",
-        "Leaving",
-        "Hulus",
-        "Mormon",
-        "Wives",
-        "Because",
-        "Was",
-        "Told",
-        "Certain",
-        "Person",
-        "Coming",
-        "Back"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "It\u2019s a Date: Paramount, California AG and Writers Guild Agree on Meeting for Settlement Talks",
-      "link": "https://www.hollywoodreporter.com/business/business-news/paramount-sit-down-with-california-wga-talk-settlement-1236702941/",
-      "source": "THR",
-      "timestamp": "2026-09-15T23:33:44+00:00",
-      "score": 12,
-      "summary": "The Oct. 14 talks will be the first time the two sides formally sit down to discuss a resolution to the case.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Date",
-        "Paramount",
-        "California",
-        "Writers",
-        "Guild",
-        "Agree",
-        "Meeting",
-        "Settlement",
-        "Talks"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Steven Tyler Sexual Assault Case Judge Mysteriously Recuses Herself Two Weeks Before Trial",
-      "link": "https://www.rollingstone.com/music/music-news/steven-tyler-sexual-assault-case-judge-recuses-before-trial-1235627301/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-09-15T23:28:56+00:00",
-      "score": 12,
-      "summary": "The Sept. 28 trial date was vacated Tuesday as the judge said she recently discovered the basis for her disqualification and couldn't take further action",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tyler",
-        "Sexual",
-        "Assault",
-        "Case",
-        "Judge",
-        "Mysteriously",
-        "Recuses",
-        "Herself",
-        "Two",
-        "Weeks",
-        "Before",
-        "Trial"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49381,6 +49360,72 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.1 - 45 km NNW of Los Algodones, B.C., MX",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333847",
+      "source": "USGS",
+      "timestamp": "2026-09-16T21:30:27.925000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-16 21:28:25 UTC2026-09-16 21:28:25 UTC at epicenterLocation33.042\u00b0N 114.984\u00b0WDepth2.74 km (1.70 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Los",
+        "Algodones"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Weather Information - Environment Canada - Environment Canada",
+      "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5QVV9WTDB3WG5Yd1Q2TUIxX1g2bFBiZ1lHaW52UGFLSDJpUkRjc2RoektCczlFaWM2Nnc?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-09-16T21:24:17+00:00",
+      "score": 12,
+      "summary": "Weather Information - Environment Canada Environment Canada",
+      "country": "Canada",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Information",
+        "Environment",
+        "Canada"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.6 - 60 km S of Whites City, New Mexico",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026shfcrz",
       "source": "USGS",
@@ -55800,72 +55845,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 22 km S of Morton, Washington",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714102671",
-      "source": "USGS",
-      "timestamp": "2026-09-15T15:17:23.960000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-15 15:15:37 UTC2026-09-15 15:15:37 UTC at epicenterLocation46.355\u00b0N 122.297\u00b0WDepth15.73 km (9.77 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Morton",
-        "Washington"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 61 km S of Whites City, New Mexico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sextsa",
-      "source": "USGS",
-      "timestamp": "2026-09-15T15:12:46.485000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-15 15:09:13 UTC2026-09-15 15:09:13 UTC at epicenterLocation31.632\u00b0N 104.479\u00b0WDepth3.74 km (2.32 mi)",
-      "country": "Mexico",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Whites",
-        "City",
-        "New",
-        "Mexico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
       "heat_level": "LOW"
     }
   ]
