@@ -1,6 +1,78 @@
 {
   "Politics": [
     {
+      "title": "Officer Sues Capitol Police, Alleging Racial Bias",
+      "link": "https://www.nytimes.com/2026/09/16/us/politics/capitol-police-discrimination-lawsuit.html",
+      "source": "NYT",
+      "timestamp": "2026-09-16T18:21:03+00:00",
+      "score": 12,
+      "summary": "It was the latest in a string of discrimination complaints against the department, which has paid out nearly $1 million since 2022 for employment claims.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sues",
+        "Capitol",
+        "Police",
+        "Alleging",
+        "Racial",
+        "Bias"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Watch live: Warsh speaks after Fed hikes interest rates",
+      "link": "https://thehill.com/video-clips/6093192-watch-live-kevin-warsh-federal-reserve-interest-rates/",
+      "source": "The Hill",
+      "timestamp": "2026-09-16T18:20:00+00:00",
+      "score": 12,
+      "summary": "Federal Reserve Chair Kevin Warsh is set to give remarks Wednesday afternoon after the central bank opted to raise interest rates by 0.25 percent to tame inflation amid the Iran war. The Federal Open Market Committee voted unanimously to increase the rate to a range of 3.75 to...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Warsh",
+        "Fed"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 8.7,
+      "source_count": 15,
+      "sources_reporting": [
+        "BBC",
+        "Guardian",
+        "NHK",
+        "PBS",
+        "The Hill"
+      ],
+      "trend_accel": "+69%",
+      "heat_level": "SURGING"
+    },
+    {
       "title": "Massie says House GOP leaving to avoid Hegseth impeachment vote",
       "link": "https://thehill.com/homenews/house/6093389-massie-accuses-gop-avoid-hegseth/",
       "source": "The Hill",
@@ -625,8 +697,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 8.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -1957,7 +2029,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.9,
+      "trend_score": 8.8,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -6532,24 +6604,24 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "'One in, one out' scheme costs \u00a356,000 per person returned to France, home secretary says",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxz31105l4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-09-15T20:53:04+00:00",
-      "score": 15,
-      "summary": "Shabana Mahmood says the policy has been \"difficult\" to scale up and the numbers involved are still \"relatively small\".",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "title": "AI labs want in-house auditors \u2014 but maybe they should shut the front door first",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-16T18:25:25+00:00",
+      "score": 12,
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "France"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6557,30 +6629,34 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "BBC"
+        "TechCrunch"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
     },
     {
-      "title": "Democrats favored over Republicans on health care, immigration, economy: Survey",
-      "link": "https://thehill.com/homenews/campaign/6091429-poll-democrats-lead-key-issues/",
-      "source": "The Hill",
-      "timestamp": "2026-09-15T20:41:53+00:00",
-      "score": 14,
-      "summary": "Democrats are ahead of Republicans on some of the issues most important to voters \u2014immigration, health care and the economy\u2014according to a new poll. In the New York Times/Siena University poll, 51 percent of likely voter respondents said they trusted Democrats to excel in thei...",
+      "title": "The Best Movies to Stream This Month (September 2026)",
+      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "source": "Wired",
+      "timestamp": "2026-09-16T18:23:37+00:00",
+      "score": 15,
+      "summary": "The Mandalorian and Grogu, The Wild Robot, and Obsession are among the must-watch films arriving this month.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Republicans",
-        "Survey"
+        "Best",
+        "Movies",
+        "Stream",
+        "This",
+        "Month",
+        "September"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6591,13 +6667,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "The Hill"
+        "Wired"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+57%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Hackers publish thousands of drivers\u2019 data after breaching Florida motor vehicle database",
       "link": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
@@ -13081,27 +13155,30 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Automattic\u2019s board forces CEO Matt Mullenweg into leave of absence",
-      "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-09T23:14:29+00:00",
-      "score": 12,
-      "summary": "Matt Mullenweg, the founder and CEO of Automattic, best known as the parent company of WordPress.com, has been put on a leave of absence by his board against his will, according to a Slack message seen by TechCrunch. Earlier Wednesday, Mullenweg posted in a Slack channel visib...",
-      "country": "US",
+      "title": "Republican senator warns Carney against tightening Canada's links to European Union",
+      "link": "https://www.cbc.ca/news/politics/trump-canada-trade-us-congress-susan-collins-chris-coons-9.7346439?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-09-16T14:26:18-04:00",
+      "score": 14,
+      "summary": "A long-serving Republican senator from a border state is warning Prime Minister Mark Carney against strengthening Canada's economic and political ties to the European Union.",
+      "country": "Canada",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [
-        "Military"
+        "Geopolitics"
       ],
       "entities": [
-        "CEO",
-        "Matt",
-        "Mullenweg"
+        "Carney",
+        "Canadas",
+        "European",
+        "Union"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13110,29 +13187,30 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "TechCrunch"
+        "CBC News"
       ],
-      "trend_accel": "+53%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
     },
     {
-      "title": "There aren\u2019t AirPods with cameras yet and I hope it stays that way",
-      "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
-      "source": "Verge",
-      "timestamp": "2026-09-09T19:00:04-04:00",
-      "score": 14,
-      "summary": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model,...",
+      "title": "Democrats criticize Mike Johnson for sending lawmakers home for recess a day early \u2013 US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
+      "source": "Guardian",
+      "timestamp": "2026-09-16T18:19:33+00:00",
+      "score": 12,
+      "summary": "Move means that scheduled votes for Thursday have been canceled, including on a proposal to impeach Pete Hegseth, the defense secretarySign up for the US Breaking News emailReader Q&A: how united are the Democrats ahead of the US midterms?Later today, my colleagues and I will ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "AirPods"
+        "Mike",
+        "Johnson"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13143,13 +13221,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Verge"
+        "Guardian"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Gold Mine Collapse in Sudan Kills at Least 70",
       "link": "https://www.nytimes.com/2026/09/16/world/africa/sudan-gold-mine-collapse.html",
@@ -19702,24 +19778,26 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Swept away by Ganga 15 days ago, Bihar woman found in UP",
-      "link": "https://timesofindia.indiatimes.com/india/swept-away-by-ganga-15-days-ago-bihar-woman-found-in-up/articleshow/134275518.cms",
-      "source": "Times of India",
-      "timestamp": "2026-09-16T05:02:56+05:30",
-      "score": 15,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
+      "title": "S&P 500 is higher after Fed delivers widely expected rate hike to temper inflation: Live updates",
+      "link": "https://www.cnbc.com/2026/09/15/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-16T18:29:14+00:00",
+      "score": 17,
+      "summary": "Traders brace for the possibility of a new rate hiking cycle from the Federal Reserve.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Ganga",
-        "Bihar"
+        "Fed",
+        "Live"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19728,29 +19806,62 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "Times of India"
+        "CNBC"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+55%",
       "heat_level": "LOW"
     },
     {
-      "title": "Sleeping teen and camper wounded as Colorado bear attacks reach record high",
-      "link": "https://www.theguardian.com/us-news/2026/sep/15/colorado-bear-attacks",
-      "source": "Guardian",
-      "timestamp": "2026-09-15T23:31:50+00:00",
-      "score": 12,
-      "summary": "Bears came through bedroom window and swiped tent at campground, causing scratch marks and puncture woundA black bear burst through a Colorado teenage girl\u2019s window and scratched her, days after a bear also bit a camper in the state, according to wildlife officials.On Friday, ...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "Warsh\u2019s Fed rolls out first interest-rate hike in 3 years \u2014 with one more increase expected",
+      "link": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-09-16T18:29:00+00:00",
+      "score": 15,
+      "summary": "The Federal Reserve on Wednesday rolled out its decision on interest rates as the U.S. central bank tries to tame persistent inflation.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Colorado"
+        "Fed"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Watch live: Fed Chairman Warsh speaks after central bank rolls out first rate hike in three years",
+      "link": "https://www.cnbc.com/2026/09/16/fed-meeting-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-16T18:27:56+00:00",
+      "score": 14,
+      "summary": "The Federal Reserve raised its benchmark interest rate by a quarter percentage point.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Fed",
+        "Chairman",
+        "Warsh"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19761,13 +19872,40 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Guardian"
+        "CNBC"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+54%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Micron\u2019s stock could climb 70% higher thanks to a factor that\u2019s been largely absent so far",
+      "link": "https://www.marketwatch.com/story/microns-stock-could-climb-70-higher-thanks-to-a-factor-thats-been-largely-absent-so-far-2489f2cc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-09-16T18:26:00+00:00",
+      "score": 15,
+      "summary": "Shares of Micron trade at a stubbornly low valuation but a TD Cowen analyst thinks that could change.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Fed meeting live updates: Warsh's Fed forced to raise rates to deal with persistent inflation",
       "link": "https://www.cnbc.com/2026/09/16/fed-meeting-today-live-updates.html",
@@ -26210,60 +26348,23 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Hindustan Zinc, GMDC, NMDC to Vedanta | 6 stocks that could strike 'gold' in India\u2019s big critical minerals push",
-      "link": "https://www.livemint.com/market/stock-market-news/hindustan-zinc-gmdc-nmdc-to-vedanta-6-stocks-that-could-strike-gold-in-india-s-big-critical-minerals-push-11789471241301.html",
-      "source": "Livemint",
-      "timestamp": "2026-09-15T17:57:08+05:30",
-      "score": 17,
-      "summary": "Hindustan Copper, Hindustan Zinc, GMDC, and Vedanta are among key metal stocks poised to benefit from India's critical mineral push As demand for EVs and renewables rises, these companies are strategically positioned in the market.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Zinc",
-        "GMDC",
-        "NMDC",
-        "Vedanta",
-        "Indias"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "U.S. confirms for first time it has weapons deployed in space",
-      "link": "https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-15T12:15:22+00:00",
-      "score": 10,
-      "summary": "U.S. Air Force Secretary Troy Meink said Monday that the U.S. has \"on-orbit space control weapons,\" as he outlined a broader push to modernize the Air Force.",
+      "title": "Dogs show human-like brain activity when they restrain themselves",
+      "link": "https://phys.org/news/2026-09-dogs-human-brain-restrain.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-16T14:30:01-04:00",
+      "score": 12,
+      "summary": "When we tell a dog \"no\" and it resists temptation, what happens in its brain? New research from the Department of Ethology at ELTE and the HUN-REN Research Centre of Natural Sciences suggests that dogs may do more than respond automatically: When they restrain their behavior, ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
+      "topic_tags": [],
       "entities": [],
       "severity_score": 0,
       "alert_level": "low",
@@ -26274,28 +26375,29 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
     {
-      "title": "US market today: S&P 500, Nasdaq futures edge lower as oil, yields rise ahead of Fed decision",
-      "link": "https://www.livemint.com/market/stock-market-news/us-market-today-s-p-500-nasdaq-futures-edge-lower-as-oil-yields-rise-ahead-of-fed-decision-11789470062323.html",
-      "source": "Livemint",
-      "timestamp": "2026-09-15T17:44:48+05:30",
-      "score": 17,
-      "summary": "US stock futures fell on September 15 as investors await the Federal Reserve's policy decision. Rising Treasury yields and crude oil prices heightened expectations for a rate hike. All major indices closed lower, with chip and AI stocks facing a renewed sell-off amid ongoing i...",
+      "title": "Aqueduct deposits suggest Plague of Cyprian may have emptied N\u00eemes around 270 A.D.",
+      "link": "https://phys.org/news/2026-09-aqueduct-deposits-plague-cyprian-nmes.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-16T14:20:09-04:00",
+      "score": 15,
+      "summary": "Researchers at Johannes Gutenberg University Mainz (JGU) have gleaned new insights into ancient water management in the French region around N\u00eemes by analyzing carbonate deposits within the Roman aqueduct that features the famous Pont du Gard bridge. Among other findings, the ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Nasdaq",
-        "Fed"
+        "Plague",
+        "Cyprian",
+        "Nmes"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26304,54 +26406,45 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
     },
     {
-      "title": "Stock Market Today: 10-Year Yield at 5% With Dow Futures Lower \u2014 Live Updates",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkd6MWRHekVmaFBjWGJOWkl6QjdJWWRiTmxJQV9FMmdXcHdXaG92QUZodkp5dUIxOTY1N1ltZ2dUNmFsOFZPWl91OTdlTkFES3dud0V6bUphaE55WlE2N0N4R0NaSEJfandkZVNzQnpvaXlRUnpCNTFreG51OWZSTzlZR3gyLUU?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-15T12:01:00+00:00",
-      "score": 17,
-      "summary": "Stock Market Today: 10-Year Yield at 5% With Dow Futures Lower \u2014 Live Updates WSJStock futures slip as 10-year Treasury yield breaches 5% mark: Live updates CNBCWall Street Confronts Prospect of a New Era After Treasury Yield Hits 5% WSJBond selloff drives U.S. benchmark beyon...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Britain's most artificial landscape may not survive climate change",
+      "link": "https://phys.org/news/2026-09-britain-artificial-landscape-survive-climate.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-16T14:20:05-04:00",
+      "score": 12,
+      "summary": "Stretching across much of eastern England, the Fens produce a third of the country's vegetables and support tens of thousands of jobs. Yet around 33% of the region lies below average sea level, while 87% is below the highest spring tides.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Market",
-        "Today",
-        "Year",
-        "Yield",
-        "Dow",
-        "Futures",
-        "Lower",
-        "Live",
-        "Updates"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 6.7,
+      "source_count": 10,
       "sources_reporting": [
-        "Google News"
+        "AP",
+        "NPR",
+        "Phys.org",
+        "Reuters"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+      "trend_accel": "+66%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Incarceration may escalate criminal behavior in South Africa",
       "link": "https://phys.org/news/2026-09-incarceration-escalate-criminal-behavior-south.html",
@@ -27011,8 +27104,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "Guardian",
@@ -32371,95 +32464,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Getting photons into shape for reliable quantum communication",
-      "link": "https://phys.org/news/2026-09-photons-reliable-quantum-communication.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-14T12:20:06-04:00",
-      "score": 10,
-      "summary": "The vast majority of modern quantum technologies\u2014from quantum cryptography to the quantum internet to the quantum computer\u2014rely on one essential element: the transmission of photons. Two qubits (two atoms, for example) exchange information: One qubit emits a photon, and the ot...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Local industrial emissions linked to congressional election outcomes",
-      "link": "https://phys.org/news/2026-09-local-industrial-emissions-linked-congressional.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-14T12:00:09-04:00",
-      "score": 12,
-      "summary": "The Clean Air Act of 1970 helped standardize pollution limits at the national level, but individual politicians can wield significant influence over industrial emission rates in their districts, according to a new analysis conducted by a multi-institutional team that includes ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Scholarship increased degree attainment, projected earnings for low-income Michigan students",
-      "link": "https://phys.org/news/2026-09-scholarship-degree-income-michigan-students.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-14T11:40:04-04:00",
-      "score": 14,
-      "summary": "The University of Michigan's High-Achieving Involved Leader (HAIL) Scholarship program increased on-time bachelor's degree attainment rates by 4%, according to a study co-authored by researchers from U-M, Harvard University and elsewhere.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Michigan"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -34300,6 +34304,166 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Hannah Berner and Paige DeSorbo\u2019s \u2018Giggly Squad\u2019 Moves to SiriusXM In Multiyear Deal (Exclusive)",
+      "link": "https://www.hollywoodreporter.com/business/digital/hannah-berner-and-paige-desorbos-giggly-squad-moves-to-siriusxm-in-multiyear-deal-exclusive-1236703669/",
+      "source": "THR",
+      "timestamp": "2026-09-16T18:30:04+00:00",
+      "score": 14,
+      "summary": "The deal will also include a slate of new exclusive programming from Giggly Squad, which is yet to be announced, but expected to roll out in 2027.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Berner",
+        "Paige",
+        "DeSorbos",
+        "Giggly",
+        "Squad",
+        "Moves",
+        "SiriusXM",
+        "Multiyear",
+        "Deal",
+        "Exclusive"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Dakota Mortensen Not Returning to Secret Lives of Mormon Wives",
+      "link": "https://www.eonline.com/news/1436146/slomws-dakota-mortensen-jordan-ngatikaura-not-returning-to-film?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-09-16T18:25:28+00:00",
+      "score": 12,
+      "summary": "Secret Lives of Mormon Wives is down two more cast members. Shortly after Mikayla Matthews announced she won\u2019t be returning for season six of the Hulu series, cast member Jessi Draper confirmed...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mortensen",
+        "Not",
+        "Returning",
+        "Secret",
+        "Lives",
+        "Mormon",
+        "Wives"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "VidCon Is Leaving Anaheim After Creator Convention Combines With LIONS, Parent of Cannes Lions",
+      "link": "https://variety.com/2026/digital/news/vidcon-leaving-anaheim-lions-cannes-lions-1236864254/",
+      "source": "Variety",
+      "timestamp": "2026-09-16T18:23:31+00:00",
+      "score": 12,
+      "summary": "VidCon\u2019s flagship event for digital creators and their fans is leaving its Anaheim home after 16 years in Southern California. LIONS, the company that produces the Cannes Lions marketing festival, announced that it is merging VidCon with its creator-focused events in North Ame...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Leaving",
+        "Anaheim",
+        "After",
+        "Creator",
+        "Convention",
+        "Combines",
+        "LIONS",
+        "Parent",
+        "Cannes",
+        "Lions"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Naomi Watts, Demi Moore, Rachel Zegler and More Were Buzzing at Thom Browne\u2019s Bug-Filled NYFW Show",
+      "link": "https://variety.com/2026/shopping/fashion/thom-browne-nyfw-naomi-watt-sdemi-moore-rachel-zegler-1236864331/",
+      "source": "Variety",
+      "timestamp": "2026-09-16T18:22:24+00:00",
+      "score": 12,
+      "summary": "The Shed was abuzz Wednesday night for Thom Browne\u2019s Spring/Summer 2027 fashion show, which transformed the Hudson Yards arts venue into a lush garden for the finale of New York Fashion Week. Luckily for Browne, his A-list front row \u2014 Rachel Zegler, Demi Moore, Adam Scott, Bri...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Watts",
+        "Demi",
+        "Moore",
+        "Rachel",
+        "Zegler",
+        "More",
+        "Were",
+        "Buzzing",
+        "Thom",
+        "Brownes",
+        "BugFilled",
+        "NYFW",
+        "Show"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Nancy Meyers\u2019 Daughter Creates a Home as Chic as Her Mom\u2019s Movies: Inside Her Beverly Hill Renovation",
       "link": "https://www.hollywoodreporter.com/lifestyle/real-estate/nancy-meyers-daughter-hollywood-home-1236703556/",
@@ -42099,170 +42263,6 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Broadway Box Office: \u2018Hamilton\u2019 Hits $2.5M As Chris Jackson Returns, \u2018School Girls\u2019 Starts Previews",
-      "link": "https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-hamilton-chris-jackson-1236702450/",
-      "source": "THR",
-      "timestamp": "2026-09-15T19:35:10+00:00",
-      "score": 15,
-      "summary": "Meg Stalter also played her final week of performances in 'Oh, Mary!'",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Box",
-        "Office",
-        "Hamilton",
-        "Hits",
-        "Chris",
-        "Jackson",
-        "Returns",
-        "School",
-        "Girls",
-        "Starts",
-        "Previews"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The Surprising Spots Where Matthew Rhys & More Stars Keep Their Emmys",
-      "link": "https://www.eonline.com/news/1436112/where-stars-keep-their-emmys-matthew-rhys-sheryl-lee-ralph-more?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-09-15T19:34:39+00:00",
-      "score": 12,
-      "summary": "Ever the, uh, diplomat, Matthew Rhys made a declaration after he nabbed his first Emmy back in 2018. Though he was thrilled to notch a victory for his turn as one-half of a set of married spies...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Surprising",
-        "Spots",
-        "Where",
-        "Matthew",
-        "Rhys",
-        "More",
-        "Stars",
-        "Keep",
-        "Their",
-        "Emmys"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Kennedy Center Board Votes to Shut Down Facility Immediately After Judge Blocks Trump Again From Adding His Name to Building",
-      "link": "https://variety.com/2026/music/news/kennedy-center-shutdown-donald-trump-name-cannot-be-added-judge-1236863156/",
-      "source": "Variety",
-      "timestamp": "2026-09-15T19:32:31+00:00",
-      "score": 14,
-      "summary": "President Donald Trump said the board of the Kennedy Center voted Tuesday to shut down the building for \u201csafety reasons,\u201d coming shortly after a federal judge again ruled that the performing arts center was legally prohibited from adding Trump\u2019s name. In a post on Truth Social...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Center",
-        "Board",
-        "Votes",
-        "Shut",
-        "Down",
-        "Facility",
-        "Immediately",
-        "After",
-        "Judge",
-        "Blocks",
-        "Trump",
-        "Again",
-        "Adding",
-        "His",
-        "Name",
-        "Building"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Quentin Tarantino to Release \u2018The Adventures of Cliff Booth\u2019 Book in December",
-      "link": "https://www.hollywoodreporter.com/lifestyle/arts/quentin-tarantino-the-adventures-of-cliff-booth-book-1236702412/",
-      "source": "THR",
-      "timestamp": "2026-09-15T19:22:57+00:00",
-      "score": 12,
-      "summary": "\u201cHollywood, 1977. The Swinging Sixties are long gone \u2014 but Clifford Booth keeps on keeping on,\u201c the synopsis reads of the upcoming book centered on the character played by Brad Pitt in the 2019 film.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tarantino",
-        "Release",
-        "Adventures",
-        "Cliff",
-        "Booth",
-        "Book",
-        "December"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49485,6 +49485,71 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.4 - 2 km WSW of Charter Oak, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333743",
+      "source": "USGS",
+      "timestamp": "2026-09-16T18:30:33.034000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-16 18:27:02 UTC2026-09-16 18:27:02 UTC at epicenterLocation34.096\u00b0N 117.861\u00b0WDepth9.46 km (5.88 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Charter",
+        "Oak"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.8 - 2 km ENE of Banning, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41333735",
+      "source": "USGS",
+      "timestamp": "2026-09-16T18:29:32.999000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-16 18:26:02 UTC2026-09-16 18:26:02 UTC at epicenterLocation33.932\u00b0N 116.861\u00b0WDepth16.89 km (10.49 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Banning"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.8 - 12 km WNW of Toyah, Texas",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026sgxbxl",
       "source": "USGS",
@@ -55910,71 +55975,6 @@
         "USGS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 134 km WNW of Yakutat, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026shqvrg",
-      "source": "USGS",
-      "timestamp": "2026-09-15T12:37:17.515000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-15 12:36:08 UTC2026-09-15 12:36:08 UTC at epicenterLocation60.233\u00b0N 141.710\u00b0WDepth13.10 km (8.14 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Yakutat",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 35 km E of Chignik, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026shqong",
-      "source": "USGS",
-      "timestamp": "2026-09-15T12:28:48.724000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-15 12:27:52 UTC2026-09-15 12:27:52 UTC at epicenterLocation56.283\u00b0N 157.823\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chignik",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
