@@ -1,6 +1,40 @@
 {
   "Politics": [
     {
+      "title": "Nato chief: 'Let's not be naive about what Putin could do'",
+      "link": "https://www.bbc.co.uk/news/videos/cmn07zr8lzk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-17T20:31:24+00:00",
+      "score": 14,
+      "summary": "Nato chief Mark Rutte has said he is confident the UK government understands the need for a \"credible path\" to increase defence spending.",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Lets",
+        "Putin"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Jon Kyl, long-serving lawmaker from Arizona who shaped water policy, dies at 84",
       "link": "https://www.pbs.org/newshour/politics/jon-kyl-long-serving-lawmaker-from-arizona-who-shaped-water-policy-dies-at-84",
       "source": "PBS",
@@ -6549,25 +6583,57 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Peter Navarro says Fed\u2019s rate raise is \u2018a bad decision\u2019",
-      "link": "https://thehill.com/business/6094397-navarro-blasts-fed-rate-hike/",
-      "source": "The Hill",
-      "timestamp": "2026-09-17T00:55:41+00:00",
+      "title": "The fix for rogue AI agents could be more AI",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-17T20:34:47+00:00",
       "score": 14,
-      "summary": "White House adviser Peter Navarro on Wednesday blasted the Federal Reserve\u2019s move to raise interest rates in several years, calling it \u201ca bad decision.\u201d The central bank\u2019s Federal Open Market Committee (FOMC), led by Fed Chair Kevin Warsh, voted unanimously to increase the cen...",
+      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Navarro",
-        "Feds"
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 8.3,
+      "source_count": 16,
+      "sources_reporting": [
+        "Guardian",
+        "NHK",
+        "Reuters",
+        "TechCrunch",
+        "Wired"
       ],
+      "trend_accel": "+69%",
+      "heat_level": "SURGING"
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-17T20:34:24+00:00",
+      "score": 12,
+      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6577,13 +6643,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "The Hill"
+        "TechCrunch"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "26 Amazon Prime Perks You Might Know You Have (2026)",
       "link": "https://www.wired.com/story/amazon-prime-perks/",
@@ -7577,8 +7641,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "Bloomberg",
@@ -13058,18 +13122,20 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Meta says it\u2019s changing AI suggestions after posing invasive personal questions",
-      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "source": "Verge",
-      "timestamp": "2026-09-11T10:25:21-04:00",
-      "score": 14,
-      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the com...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "AUKUS architects say pact on track at five-year mark, but facing challenges",
+      "link": "https://www.abc.net.au/news/2026-09-18/aukus-on-track-but-faces-challenges-five-years-in/107166564",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-17T20:44:11+00:00",
+      "score": 10,
+      "summary": "Five years after the pact between Australia, the US, and the UK was announced, three of its key architects have assessed its progress toward its goals, including arming Australia with nuclear-powered submarines to deter Chinese aggression in the Indo-Pacific.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
@@ -13081,32 +13147,62 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "Verge"
+        "ABC Australia"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
     },
     {
-      "title": "Samsung says \u2018Tim Cook\u2019 bought a Galaxy Fold",
-      "link": "https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8",
-      "source": "Verge",
-      "timestamp": "2026-09-11T09:59:16-04:00",
+      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-17T20:34:30+00:00",
       "score": 12,
-      "summary": "That isn't Apple's former CEO promoting the Galaxy Z Fold 8 in a new Samsung ad - \"Tim Cook from Palmerston North\" just happens to have the same name and look a lot like him. Released right as Apple announced its iPhone Duo, the ad mimics Apple's cinematic product launch video...",
+      "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Suspect in \u2018Putney pusher\u2019 case told family that investigation was \u2018murdering him\u2019",
+      "link": "https://www.theguardian.com/uk-news/2026/sep/17/nicholas-brandram-suspect-putney-pusher-case-family-sisters",
+      "source": "Guardian",
+      "timestamp": "2026-09-17T20:33:37+00:00",
+      "score": 10,
+      "summary": "Exclusive: Sisters of Nicholas Brandram recount 44-year-old\u2019s deteriorating mental health in days before he took his lifeDays before Nicholas Brandram, the man suspected of being the \u201cPutney pusher\u201d, killed himself, he told his family that the police investigation was \u201cmurderi...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Tim",
-        "Cook",
-        "Galaxy",
-        "Fold"
+        "Putney"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13115,15 +13211,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "Verge"
+        "Guardian"
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Behind the overture from the European Union to Canada",
       "link": "https://www.npr.org/2026/09/17/nx-s1-5973029/behind-the-overture-from-the-european-union-to-canada",
@@ -15139,11 +15233,12 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 10.9,
-      "source_count": 14,
+      "trend_score": 10.8,
+      "source_count": 15,
       "sources_reporting": [
         "AP",
         "Al Jazeera",
+        "BBC",
         "NPR",
         "NPR",
         "PBS",
@@ -19515,53 +19610,56 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Housing Trust apologies to tenant after delays to remove black mould",
-      "link": "https://www.abc.net.au/news/2026-09-17/housing-trust-apologises-to-tenant-mould-removal-delay/107161272",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-16T22:08:06+00:00",
-      "score": 12,
-      "summary": "The South Australian Ombudsman has found the Housing Trust failed to ensure a property met \"reasonable standards of health and safety\" despite multiple reports of black mould from the tenant.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "House heads home to campaign amid calls for urgent AI action",
+      "link": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-17T20:41:54+00:00",
+      "score": 14,
+      "summary": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Trust"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
     },
     {
-      "title": "Cold case trial told tenant was murdered over $2k in rent arrears",
-      "link": "https://www.abc.net.au/news/2026-09-17/steven-johnson-trial-begins-cold-case-murder-christopher-jarvis/107149790",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-16T22:07:42+00:00",
-      "score": 13,
-      "summary": "Steven Johnson pleads not guilty to one charge of murder, in relation to the disappearance of 38-year-old Christopher Jarvis near Warrnambool, 20 years ago.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Chase celebrates the Sapphire Reserve\u2019s 10th anniversary with new credits and a 5.5 million-point grand prize",
+      "link": "https://www.cnbc.com/select/chase-sapphire-reserves-10th-anniversary-offer/",
+      "source": "CNBC",
+      "timestamp": "2026-09-17T20:33:39+00:00",
+      "score": 15,
+      "summary": "Want to recreate your favorite vacation? A winning Sapphire Reserve cardholder will receive 5.5 million points to do exactly that.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Sapphire",
+        "Reserves"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19571,46 +19669,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Australian politics live: Labor says people with child support debts to be banned from leaving Australia; Burke to reveal new immigration rules",
-      "link": "https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-09-16T22:04:51+00:00",
-      "score": 12,
-      "summary": "Follow the day\u2019s news liveGet our breaking news email, free app or daily news podcastBarnaby Joyce says Labor is copying and pasting One Nation\u2019s homework because the measures we know so far around blocking the families of international students and preventing visa hopping hav...",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Labor",
-        "Australia",
-        "Burke"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Tesla\u2019s upcoming product frenzy could leave investors disappointed",
       "link": "https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
@@ -26135,73 +26198,38 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Tropical Smoothie Cafe is getting a makeover as it prepares for its 'next 3,000' locations",
-      "link": "https://www.cnbc.com/2026/09/16/tropical-smoothie-cafe-announces-new-branding-plans-for-new-locations.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-16T12:57:41+00:00",
-      "score": 15,
-      "summary": "Tropical Smoothie Cafe unveiled new branding as it grows rapidly under the ownership of private equity firm Blackstone.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Smoothie",
-        "Cafe"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The data-center backlash is so fierce that Republican candidates are willing to cross Trump",
-      "link": "https://www.marketwatch.com/story/the-data-center-backlash-is-so-fierce-that-republican-candidates-are-willing-to-cross-trump-9a6eaa03?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-09-16T12:54:00+00:00",
-      "score": 12,
-      "summary": "President Trump has been a vocal supporter of data centers, but GOP candidates in tight midterm races are increasingly taking a different tack.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Republican",
-        "Trump"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Disorder is key to tuning a high-temperature superconductor",
+      "link": "https://phys.org/news/2026-09-disorder-key-tuning-high-temperature.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-17T16:40:01-04:00",
+      "score": 10,
+      "summary": "Cornell physicists have discovered that minimizing disorder, not varying electron count, is the key factor for controlling superconductivity in the unique material iron selenide (FeSe), a new insight for understanding high-temperature superconductors.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "A new bridge for quantum networks: Physicists convert microwaves to light using 2D magnets",
       "link": "https://phys.org/news/2026-09-bridge-quantum-networks-physicists-microwaves.html",
@@ -32321,35 +32349,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "New peanut genome map uncovers hidden gene, boosts dense-planting yields 20%",
-      "link": "https://phys.org/news/2026-09-peanut-genome-uncovers-hidden-gene.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-15T15:10:01-04:00",
-      "score": 13,
-      "summary": "An international team that includes researchers from Murdoch University's Centre for Crop and Food Innovation (CCFI) has built the most comprehensive genetic map of the peanut yet and used this new genomic resource to breed a higher-yielding dwarf peanut line.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33952,6 +33951,164 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "The View's Sara Haines Shares \"Brutal\" Reason for Show Absence",
+      "link": "https://www.eonline.com/news/1436201/the-views-sara-haines-shares-death-of-father-in-law-after-show-absence?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-09-17T20:40:05+00:00",
+      "score": 14,
+      "summary": "Sara Haines is leading with love amid her family's grief. After her abrupt absence from the Sept. 16 episode of The View, the panelist shared the reason for missing out on the taping was due to...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Views",
+        "Sara",
+        "Haines",
+        "Shares",
+        "Brutal",
+        "Reason",
+        "Show",
+        "Absence"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nintendo of America President on Switch 2 Life Cycle and \u2018The Legend of Zelda\u2019 Anniversary Plans: \u2018This Is Just Beginning\u2019",
+      "link": "https://variety.com/2026/gaming/news/nintendo-america-president-switch-2-zelda-anniversary-1236866097/",
+      "source": "Variety",
+      "timestamp": "2026-09-17T20:36:11+00:00",
+      "score": 15,
+      "summary": "It\u2019s a big year for Nintendo of America \u2014 and it\u2019s about to get bigger. On the heels of the one-year anniversary for the launch of the Nintendo Switch 2 gaming console and amid the 40th anniversary celebrations for \u201cThe Legend of Zelda\u201d franchise, Nintendo of America president...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "America",
+        "President",
+        "Switch",
+        "Life",
+        "Cycle",
+        "Legend",
+        "Zelda",
+        "Anniversary",
+        "Plans",
+        "This",
+        "Just",
+        "Beginning"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Miley Cyrus Reveals Final Conversation She Had With Dolly Parton: \u201cShe Was Always Right\u201d",
+      "link": "https://www.hollywoodreporter.com/music/music-news/miley-cyrus-final-conversation-dolly-parton-1236704716/",
+      "source": "THR",
+      "timestamp": "2026-09-17T20:34:27+00:00",
+      "score": 12,
+      "summary": "The Queen of Country music died in August at the age of 80 following a brief battle with cancer.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cyrus",
+        "Reveals",
+        "Final",
+        "Conversation",
+        "She",
+        "Had",
+        "Dolly",
+        "Parton",
+        "Was",
+        "Always",
+        "Right"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Lachlan Murdoch\u2019s Fox Pay Dipped to $31 Million Last Year",
+      "link": "https://www.hollywoodreporter.com/business/business-news/lachlan-murdoch-fox-pay-revealed-2026-1236704845/",
+      "source": "THR",
+      "timestamp": "2026-09-17T20:34:04+00:00",
+      "score": 15,
+      "summary": "Fox Corp.'s pay disclosure comes as the company seeks to complete its deal for Roku.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Murdochs",
+        "Fox",
+        "Pay",
+        "Dipped",
+        "Million",
+        "Last",
+        "Year"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "New York Knicks\u2019 Jalen Brunson To Guest Star on \u2018Law & Order: SVU\u2019",
       "link": "https://deadline.com/2026/09/jalen-brunson-guest-star-law-order-svu-ny-knicks-cast-1237106852/",
@@ -41873,163 +42030,75 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Dancing With The Stars\u2019 Season 35 Premieres To 24% Audience Boost With Ladies\u2019 First Routines Still To Come",
-      "link": "https://deadline.com/2026/09/dancing-with-the-stars-season-35-premiere-ratings-abc-1237105724/",
-      "source": "Deadline",
-      "timestamp": "2026-09-16T21:32:30+00:00",
-      "score": 15,
-      "summary": "Dancing with the Stars is off to a dazzling start with last night\u2019s Season 35 premiere on ABC and Disney+. The episode, which saw only the male celebrities and their pro partners compete, attracted 6.67 million total live + same-day viewers, according to preliminary data from ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Stars",
-        "Season",
-        "Premieres",
-        "Audience",
-        "Boost",
-        "Ladies",
-        "First",
-        "Routines",
-        "Still",
-        "Come"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Dancing With the Stars\u2019 Season 35 Premiere Hits 6.7 Million Viewers, Best Opener in Six Years",
-      "link": "https://variety.com/2026/tv/news/dancing-with-the-stars-season-35-premiere-ratings-1236864750/",
-      "source": "Variety",
-      "timestamp": "2026-09-16T21:30:00+00:00",
-      "score": 15,
-      "summary": "\u201cDancing With the Stars\u201d returned to ABC for its Season 35 premiere on Tuesday night and reached a strong 6.7 million viewers. That\u2019s a 24% increase from the performance of the Season 34 premiere, which hit 5.4 million viewers in 2025. Even more, Tuesday\u2019s episode marks the se...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Stars",
-        "Season",
-        "Premiere",
-        "Hits",
-        "Million",
-        "Viewers",
-        "Best",
-        "Opener",
-        "Six",
-        "Years"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018S.N.L.\u2019 Adds Grace Reiter and Saidah Belo-Osagie to Cast",
-      "link": "https://www.nytimes.com/2026/09/16/arts/television/snl-new-cast-members.html",
-      "source": "NYT",
-      "timestamp": "2026-09-16T21:29:33+00:00",
-      "score": 14,
-      "summary": "The upcoming season of \u201cSaturday Night Live\u201d will feature Saidah Belo-Osagie and Grace Reiter as new faces.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Adds",
-        "Grace",
-        "Reiter",
-        "Saidah",
-        "BeloOsagie",
-        "Cast"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Resident Evil\u2019 To Scorch The Earth With $80M Global Debut \u2013 Box Office Preview",
-      "link": "https://deadline.com/2026/09/box-office-resident-evil-global-opening-forecast-1237105692/",
-      "source": "Deadline",
-      "timestamp": "2026-09-16T21:25:28+00:00",
-      "score": 15,
-      "summary": "After a record $4.67B summer, last weekend\u2019s Warner Bros/Alcon\u2019s Practical Magic 2 didn\u2019t exactly light he fall on fire. But this weekend\u2019s Sony/Constantin\u2019s Zach Cregger revival of Resident Evil could very well do the trick with a $40M-$50M domestic start and another $31M ove...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Evil",
-        "Scorch",
-        "Earth",
-        "Global",
-        "Debut",
-        "Box",
-        "Office",
-        "Preview"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
+    {
+      "title": "Lauren Manoogian Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/lauren-manoogian",
+      "source": "Vogue",
+      "timestamp": "2026-09-17T20:46:38+00:00",
+      "score": 15,
+      "summary": "Strategic intelligence signal ingested from Vogue.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Manoogian",
+        "Spring",
+        "ReadytoWear"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Vogue"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Harris Reed Spring 2027 Ready-to-Wear",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/harris-reed",
+      "source": "Vogue",
+      "timestamp": "2026-09-17T20:46:38+00:00",
+      "score": 15,
+      "summary": "Strategic intelligence signal ingested from Vogue.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Reed",
+        "Spring",
+        "ReadytoWear"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Vogue"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
     {
       "title": "From SkinCeuticals P-Tiox to Medik8 Retinal\u2014These Are the Best Serums for Mature Skin",
       "link": "https://www.vogue.com/article/serum-for-mature-skin",
@@ -49205,85 +49274,6 @@
       ],
       "trend_accel": "+55%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u201cNew York Is My Paris\u201d: Conner Ives on Showing Across the Pond Ahead of His New York Fashion Week Debut",
-      "link": "https://www.vogue.com/article/new-york-is-my-paris-conner-ives-on-showing-across-the-pond-ahead-of-his-new-york-fashion-week-debut",
-      "source": "Vogue",
-      "timestamp": "2026-09-11T13:00:00+00:00",
-      "score": 12,
-      "summary": "For London-based Conner Ives, his New York Fashion Week debut represents all he has been working towards. Of course, this includes some gilded glamour and cheeky T-shirts, too.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "York",
-        "Paris",
-        "Conner",
-        "Ives",
-        "Showing",
-        "Across",
-        "Pond",
-        "Ahead",
-        "His",
-        "New",
-        "Fashion",
-        "Week",
-        "Debut"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Jury Announcement Mena Panorama Regional Open Call",
-      "link": "https://www.vogue.com/article/mena-panorama-open-call-the-jury",
-      "source": "Vogue",
-      "timestamp": "2026-09-11T13:00:00+00:00",
-      "score": 12,
-      "summary": "Meet the experts from the MENA region shaping this year\u2019s selection.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Announcement",
-        "Mena",
-        "Panorama",
-        "Regional",
-        "Open",
-        "Call"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -49316,6 +49306,71 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.3 - 27 km ENE of Pine Valley, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334239",
+      "source": "USGS",
+      "timestamp": "2026-09-17T20:45:59.120000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-17 20:42:33 UTC2026-09-17 20:42:33 UTC at epicenterLocation32.916\u00b0N 116.257\u00b0WDepth7.12 km (4.42 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Pine",
+        "Valley"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 3.1 - 4 km SSE of Compton, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41334231",
+      "source": "USGS",
+      "timestamp": "2026-09-17T20:43:54.300000+00:00",
+      "score": 15,
+      "summary": "ShakeMap - III DYFI? - IIITime2026-09-17 20:32:30 UTC2026-09-17 20:32:30 UTC at epicenterLocation33.865\u00b0N 118.209\u00b0WDepth13.21 km (8.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Compton"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
@@ -55717,68 +55772,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Botswana",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032037",
-      "source": "GDACS",
-      "timestamp": "2026-09-16T15:01:35+00:00",
-      "score": 12,
-      "summary": "On 14/09/2026, a forest fire started in Botswana, until 16/09/2026.",
-      "country": "EU",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Botswana"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Italy",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032033",
-      "source": "GDACS",
-      "timestamp": "2026-09-16T15:01:21+00:00",
-      "score": 12,
-      "summary": "On 14/09/2026, a forest fire started in Italy, until 15/09/2026.",
-      "country": "Italy",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Italy"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
