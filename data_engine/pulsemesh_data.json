@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "Future wars will be won by the force that can sense, decide, and adapt faster: Expert panel",
+      "link": "https://www.thehindu.com/news/national/karnataka/future-wars-will-be-won-by-the-force-that-can-sense-decide-and-adapt-faster-expert-panel/article71477818.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-17T23:51:31+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Expert"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump says he has a \u2018big decision coming up\u2019 on Iran",
       "link": "https://thehill.com/homenews/administration/6096198-trump-iran-annihilate-decision/",
       "source": "The Hill",
@@ -6583,24 +6614,28 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "The one issue where Republicans and Democrats are unified before the midterms, according to this poll",
-      "link": "https://www.pbs.org/newshour/politics/the-one-issue-where-republicans-and-democrats-are-unified-before-the-midterms-according-to-this-poll",
-      "source": "PBS",
-      "timestamp": "2026-09-16T16:52:30-04:00",
+      "title": "Waymo restarts San Antonio service five months after flooding troubles",
+      "link": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-17T18:30:30+00:00",
       "score": 12,
-      "summary": "Americans have grown more concerned about the environmental impacts of artificial intelligence over the last year, according to a new poll from The Associated Press-NORC Center for Public Affairs Research and the Energy Policy Institute at the University of Chicago.",
+      "summary": "The company suspended service in the city in April after one of its robotaxis got swept away.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Climatic"
+      ],
       "entities": [
-        "Republicans",
-        "Democrats"
+        "San",
+        "Antonio"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6609,15 +6644,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "PBS"
+        "TechCrunch"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Even the King of England has his hesitations about AI",
       "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
@@ -13122,23 +13155,30 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Apple addresses iPhone Duo copycats",
-      "link": "https://www.theverge.com/tech/993795/apple-addresses-iphone-duo-copycats",
-      "source": "Verge",
-      "timestamp": "2026-09-11T06:02:58-04:00",
+      "title": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUnJncHUxLTNvV25NTHFxQzVwcnljdzdsTkJCNFNjSlJybF95bFBhcW9DTWV1dnlYQ0prMkI0SmdnNjBrdXNLV0ZNM1pQNW1FcUxuaWpqd3NnRXJ6U2lkQWFqQlR0UVE2X3lYU0RXNXlBdno3QkRkSzB2SEwxUzdYV2NZWlc3SGhZdGRMbUFCVDJZeXZsTy0zOHF4R013c2xyMl8zNmVkaHlFOXM1MmtuZHJRREI3UQ?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-09-17T18:22:00+00:00",
       "score": 12,
-      "summary": "Apple was far from the first company to announce a passport-shaped folding phone this year, but that doesn't mean it wasn't copied. As my colleague Dom Preston already explained, it's almost impossible to keep product development secret when Apple and its competitors all share...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
+      "summary": "EXCLUSIVE: China presses Iran to help rein in Houthis after Saudi appeal, sources say ReutersLive updates \u2022 IDF sacks Gaza Division intelligence officer over October 7 failure HaaretzChina urges Iran to control Houthis post attack on Saudi Arabia- reports Seeking AlphaChina pr...",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Aggregator",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Duo"
+        "China",
+        "Iran",
+        "Houthis",
+        "Saudi"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13147,20 +13187,44 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 15,
+      "source_count": 3,
       "sources_reporting": [
-        "Bloomberg",
-        "NHK",
-        "Reuters",
-        "TechCrunch",
-        "Verge",
-        "Wired"
+        "Google News"
       ],
-      "trend_accel": "+73%",
-      "heat_level": "SURGING"
-    }
-  ],
-  "World": [
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "South Africa gender commissioner: women \u2018hunted\u2019 amid femicide crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/09-17-26-south-africa-femicide-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-09-17T18:18:48+00:00",
+      "score": 12,
+      "summary": "A ninth woman has been found dead amid a wave of killings in South Africa\u2019s Ekurhuleni region, east of Johannesburg.",
+      "country": "South Africa",
+      "region": "Africa",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Africa"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Major Iranian Airline Suspends Several Flights Abroad, Adding to Isolation",
       "link": "https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html",
@@ -19550,57 +19614,26 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Saudi Arabia accuses Houthis of targeting Mecca, calls it a 'red line'",
-      "link": "http://www.france24.com/en/middle-east/20260916-saudi-arabia-accuses-houthis-of-targeting-mecca-calling-it-a-red-line",
-      "source": "France24",
-      "timestamp": "2026-09-16T20:08:24+00:00",
+      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+      "link": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-17T18:23:25+00:00",
       "score": 12,
-      "summary": "Saudi Arabia accused Yemen\u2019s Houthis on Wednesday of launching an attack on the holy city of Mecca, which the Iran-backed rebels denied. Saudi Arabia, a US ally which has been the target of large-scale Houthi strikes since early September, declared Mecca a \u201cred line\u201d as it sli...",
-      "country": "Saudi Arabia",
-      "region": "Middle East",
+      "summary": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Arabia",
-        "Houthis",
-        "Mecca"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Charlie Kirk's family blame Utah university officials for his killing",
-      "link": "https://www.theguardian.com/us-news/2026/sep/16/charlie-kirk-family-utah-officials",
-      "source": "Guardian",
-      "timestamp": "2026-09-16T20:04:07+00:00",
-      "score": 12,
-      "summary": "String of \u2018reckless decisions\u2019 by Utah Valley University officials left him exposed to sniper, attorneys sayCharlie Kirk\u2019s family blamed Utah officials for failing to prevent the conservative political activist\u2019s fatal shooting at a state university, according to a wrongful de...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Kirks",
-        "Utah"
+        "Huang",
+        "Nvidia"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19609,15 +19642,45 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Guardian"
+        "CNBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "One cybersecurity stock has lagged of late. Jay Woods says the charts are now turning bullish",
+      "link": "https://www.cnbc.com/2026/09/17/one-cybersecurity-stock-has-lagged-of-late-jay-woods-says-the-charts-are-now-turning-bullish.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-17T18:23:02+00:00",
+      "score": 14,
+      "summary": "This stock has spent much of the year in Wall Street's penalty box, said the chief market strategist at Freedom Capital Markets.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Jay",
+        "Woods"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Rentomojo, Kanohar Electricals: Both IPOs make strong debut after stellar subscription; how shares performed",
       "link": "https://www.livemint.com/market/stock-market-news/rentomojo-kanohar-electricals-both-ipos-make-strong-debut-after-stellar-subscription-how-shares-performed-11789665278165.html",
@@ -26139,22 +26202,27 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Sebi grants 1% unhedged leeway to arbitrage funds to boost closing auction participation",
-      "link": "https://www.livemint.com/market/sebi-grants-1-unhedged-leeway-to-arbitrage-funds-to-boost-cas-participation-11789554658156.html",
-      "source": "Livemint",
-      "timestamp": "2026-09-16T17:12:28+05:30",
-      "score": 13,
-      "summary": "The temporary relief aims to resolve execution hurdles during closing auctions, though fund managers doubt it will drive significant participation.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Threatened bumblebee populations in England and Wales face severe genetic declines",
+      "link": "https://phys.org/news/2026-09-threatened-bumblebee-populations-england-wales.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-17T14:20:21-04:00",
+      "score": 12,
+      "summary": "A new study reveals that an important pollinator is rapidly losing genetic diversity in Britain. Moss carder bumblebees were once widespread across the UK, living in flower-rich meadows, marshes and heathlands, where they pollinated a wide variety of plants. However, the loss ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "England",
+        "Wales"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26162,27 +26230,29 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
     },
     {
-      "title": "Intel\u2019s stock rises as investors hope memory chips can mark the next step in its turnaround",
-      "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-09-16T11:39:00+00:00",
-      "score": 12,
-      "summary": "A report says Intel is in early talks with SK Hynix, which is considering some sort of partnership that would enable it to make memory chips in the U.S.",
+      "title": "Children from armed forces families have extra educational challenges",
+      "link": "https://phys.org/news/2026-09-children-armed-families-extra.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-17T14:20:01-04:00",
+      "score": 10,
+      "summary": "Service children are children of current or former armed forces personnel. Being a service child can be a source of pride, resilience and determination. Yet service life brings experiences and challenges their civilian peers may not face.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Military"
+      ],
       "entities": [],
       "severity_score": 0,
       "alert_level": "low",
@@ -26193,13 +26263,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "MarketWatch"
+        "Phys.org"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Real-time quantum jump in sound observed for first time",
       "link": "https://phys.org/news/2026-09-real-quantum.html",
@@ -32282,69 +32350,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "New research calls for more consistent, child-centered policing to build trust and protect children",
-      "link": "https://phys.org/news/2026-09-child-centered-policing-children.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-15T12:20:10-04:00",
-      "score": 10,
-      "summary": "New research co-led by the University of Bedfordshire and the University of Lancashire has highlighted the need for more consistent child-centered and safeguarding-led approaches across policing, with children and young people's experiences varying depending on where they live...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 9,
-      "sources_reporting": [
-        "Bloomberg",
-        "NPR",
-        "Phys.org",
-        "Reuters"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Examining Americans' complicated relationship with science",
-      "link": "https://phys.org/news/2026-09-americans-complicated-relationship-science.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-15T12:20:07-04:00",
-      "score": 12,
-      "summary": "A new study finds that while most Americans are interested in science and believe it benefits society, the public's relationship with science is more complicated than those positive views suggest.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Americans"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33945,26 +33950,120 @@
       ],
       "trend_accel": "+58%",
       "heat_level": "LOW"
+    }
+  ],
+  "Entertainment": [
+    {
+      "title": "Judge Allows Kennedy Center to Remain Temporarily Closed",
+      "link": "https://www.nytimes.com/2026/09/17/arts/music/kennedy-center-closure-emergency-hearing.html",
+      "source": "NYT",
+      "timestamp": "2026-09-17T18:22:44+00:00",
+      "score": 14,
+      "summary": "The federal judge denied a Democratic lawmaker\u2019s request for an emergency hearing on the closure, which began on Tuesday.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Allows",
+        "Kennedy",
+        "Center",
+        "Remain",
+        "Temporarily",
+        "Closed"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
     },
     {
-      "title": "Shafali, Deepti power India into 10th Asia Cup final",
-      "link": "https://www.cricinfo.com/ci/content/story/1553691.html?ex_cid=OTC-RSS",
-      "source": "Cricinfo",
-      "timestamp": "2026-09-10T18:22:55+00:00",
-      "score": 15,
-      "summary": "Both teams were sub-par with their fielding, but India comfortably prevailed over Bangladesh in Dubai",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Custom Feed",
-      "trust_score": 7,
+      "title": "A Generation Raised by \u2018Judge Judy\u2019: Judith Sheindlin Reflects on Her Long Run in TV, Shifting to Producing and Revving a \u2018Baby Judy\u2019 Series",
+      "link": "https://variety.com/2026/tv/news/judge-judy-sheindlin-baby-judy-meme-adam-levy-adams-law-1236865819/",
+      "source": "Variety",
+      "timestamp": "2026-09-17T18:21:40+00:00",
+      "score": 14,
+      "summary": "If Judge Judith Sheindlin had never been profiled in a \u201c60 Minutes\u201d segment that caught the eye of a TV producer, and if she\u2019d never made the segue into TV jurisprudence with \u201cJudge Judy,\u201d Sheindlin has no doubt what she would have done in the second half of her professional l...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Deepti",
-        "India",
-        "Asia",
-        "Cup"
+        "Generation",
+        "Raised",
+        "Judge",
+        "Judy",
+        "Judith",
+        "Sheindlin",
+        "Reflects",
+        "Her",
+        "Long",
+        "Run",
+        "Shifting",
+        "Producing",
+        "Revving",
+        "Baby",
+        "Series"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Empowering Content Libraries with AI is the New Future for Communal Fan Experiences, Execs Reveal: \u2018You Have Companies Sitting on Crown Jewels\u2019",
+      "link": "https://variety.com/2026/biz/news/content-ai-future-fan-experiences-variety-ent-tech-1236865849/",
+      "source": "Variety",
+      "timestamp": "2026-09-17T18:21:37+00:00",
+      "score": 14,
+      "summary": "Artificial intelligence has already made its mark on the screen. For some of the entertainment industry\u2019s players, AI\u2019s next playground is the real world. Such was the focus on Thursday morning at the panel \u201cBeyond the Screen: How AI is the Catalyst for Next-Gen Experiences\u201d d...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Content",
+        "Libraries",
+        "New",
+        "Future",
+        "Communal",
+        "Fan",
+        "Experiences",
+        "Execs",
+        "Reveal",
+        "You",
+        "Have",
+        "Companies",
+        "Sitting",
+        "Crown",
+        "Jewels"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -33975,13 +34074,53 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Cricinfo"
+        "Variety"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
+    {
+      "title": "\u2018Strange Neighbors\u2019 Review: A Pretty but Familiar-Feeling Environmental Doc Portrays Natural Beauty Jostled by Man-Made Ugliness",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/strange-neighbors-review-oldenburg-1236704521/",
+      "source": "THR",
+      "timestamp": "2026-09-17T18:18:15+00:00",
+      "score": 12,
+      "summary": "Mi Steinbach's Oldenburg Fest world premiere examines the disparity between the wildlife on a small island and the factories, ships, and refineries closely adjacent to it.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Neighbors",
+        "Review",
+        "Pretty",
+        "FamiliarFeeling",
+        "Environmental",
+        "Doc",
+        "Portrays",
+        "Natural",
+        "Beauty",
+        "Jostled",
+        "ManMade",
+        "Ugliness"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Bryan Kohberger\u2019s Family Speaks Out About His Filing to Change Guilty",
       "link": "https://www.eonline.com/news/1436188/bryan-kohberger-familys-statement-on-revoking-guilty-plea?cmpid=rss-syndicate-genericrss-us-top_stories",
@@ -41847,109 +41986,30 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "Madonna To Open 2026 VMAs, Her First Live Performance At Show In 23 Years",
-      "link": "https://deadline.com/2026/09/madonna-2026-vmas-open-performance-1237105262/",
-      "source": "Deadline",
-      "timestamp": "2026-09-16T19:45:00+00:00",
-      "score": 15,
-      "summary": "Madonna, who heads into the VMAS with a leading 11 nominations, will open the 2026 awards shindig, her first live performance at the show in 23 years. The Queen of Pop is coming off the release of her well-received album Confessions II, which debuted at No. 1 in July on the Bi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Open",
-        "VMAs",
-        "Her",
-        "First",
-        "Live",
-        "Performance",
-        "Show",
-        "Years"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Madonna to Open MTV Video Music Awards With First Show Performance in 23 Years",
-      "link": "https://variety.com/2026/music/news/madonna-performance-to-open-mtv-video-music-awards-1236864336/",
-      "source": "Variety",
-      "timestamp": "2026-09-16T19:45:00+00:00",
-      "score": 15,
-      "summary": "Madonna is set to open the MTV Video Music Awards with her first live performance at the show in 23 years. The pop star last graced the VMA stage as a performer with her iconic 2003 appearance with Britney Spears and Christina Aguilera. She already received a big look ahead of...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Open",
-        "MTV",
-        "Video",
-        "Music",
-        "Awards",
-        "First",
-        "Show",
-        "Performance",
-        "Years"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Growth of the Soil\u2019 Review: Norway\u2019s Oscar Entry Is a Robustly Classical, Weatherbeaten Rural Epic",
-      "link": "https://variety.com/2026/film/reviews/growth-of-the-soil-review-1236864341/",
-      "source": "Variety",
-      "timestamp": "2026-09-16T19:43:26+00:00",
+      "title": "Millie Bobby Brown Is Now Reportedly a Mom of Two",
+      "link": "https://www.vogue.com/article/millie-bobby-brown-mom-of-two-news",
+      "source": "Vogue",
+      "timestamp": "2026-09-17T18:24:06+00:00",
       "score": 12,
-      "summary": "The wind deserves above-the-title billing in \u201cGrowth of the Soil\u201d \u2014 even in the most serene scenes of Hans Petter Moland\u2019s muscular period epic, you can hear it rattling and wheezing and moaning away in the background, or at the very least, you think you can. The elements are ...",
-      "country": "Norway",
-      "region": "Europe",
-      "source_type": "Entertainment",
+      "summary": "According to reports, the actor and her husband have welcomed their second baby.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Soil",
-        "Review",
-        "Norways",
-        "Oscar",
-        "Entry",
-        "Robustly",
-        "Classical",
-        "Weatherbeaten",
-        "Rural",
-        "Epic"
+        "Bobby",
+        "Brown",
+        "Now",
+        "Reportedly",
+        "Mom",
+        "Two"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -41960,42 +42020,72 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Variety"
+        "Vogue"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
     },
     {
-      "title": "James McAvoy, Rebel Wilson and More Join Variety\u2019s Future in Focus at TIFF to Talk Directorial Debuts, Fall Films and New Technology",
-      "link": "https://variety.com/2026/film/news/james-mcavoy-rebel-wilson-tiff-1236861364/",
-      "source": "Variety",
-      "timestamp": "2026-09-16T19:30:00+00:00",
-      "score": 14,
-      "summary": "Actors James McAvoy and Rebel Wilson opened up about expanding their artistry behind the camera while filmmakers Rachel Morrison and Liz Garbus got candid about the barriers that still need breaking in the film business during Variety\u2019s Future in Focus panel, presented by Utop...",
+      "title": "Peso Pluma Gave Us a Ride in His Escalade to the Luar Show",
+      "link": "https://www.gq.com/story/peso-pluma-luar",
+      "source": "GQ",
+      "timestamp": "2026-09-17T18:20:18+00:00",
+      "score": 12,
+      "summary": "The Mexican singer, rapper and record label CEO schooled us on his style icons and the importance of good hygiene.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Entertainment",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "McAvoy",
-        "Rebel",
-        "Wilson",
-        "More",
-        "Join",
-        "Varietys",
-        "Future",
-        "Focus",
-        "TIFF",
-        "Talk",
-        "Directorial",
-        "Debuts",
+        "Pluma",
+        "Gave",
+        "Ride",
+        "His",
+        "Escalade",
+        "Luar",
+        "Show"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "GQ"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Needles Turned Our Favorite Winter Boots Into Trippy Fall Stompers",
+      "link": "https://www.gq.com/story/sorel-needles-collaboration-09-17-2026",
+      "source": "GQ",
+      "timestamp": "2026-09-17T18:17:34+00:00",
+      "score": 12,
+      "summary": "Sorel\u2019s ever-practical footwear has never looked freakier.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Turned",
+        "Our",
+        "Favorite",
+        "Winter",
+        "Boots",
+        "Into",
+        "Trippy",
         "Fall",
-        "Films",
-        "New",
-        "Technology"
+        "Stompers"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -42006,13 +42096,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Variety"
+        "GQ"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
+    },
     {
       "title": "H&M's Latest Atelier Collection Conjured Memories of My Own Style Journey",
       "link": "https://www.gq.com/story/h-and-m-atelier-collection-hit-the-racks",
@@ -49140,105 +49228,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Dakota Johnson Takes the Plunge Dress to New Places",
-      "link": "https://www.vogue.com/article/dakota-johnson-takes-the-plunge-dress-to-new-places",
-      "source": "Vogue",
-      "timestamp": "2026-09-11T10:13:46+00:00",
-      "score": 12,
-      "summary": "After a summer of denim and D\u00f4en, Dakota Johnson is back in full red carpet mode for the 2026 Kering Foundation Caring for Women dinner.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Johnson",
-        "Takes",
-        "Plunge",
-        "Dress",
-        "New",
-        "Places"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Pilitaxi comes to Hyderabad with 25+ homegrown fashion and lifestyle brands",
-      "link": "https://www.thehindu.com/life-and-style/fashion/pilitaxi-comes-to-hyderabad-with-25-homegrown-fashion-and-lifestyle-brands/article71451486.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-11T13:26:37+05:30",
-      "score": 15,
-      "summary": "From fashion and jewellery to craft-led lifestyle labels, Pilitaxi\u2019s Hyderabad edition brings together more than 25 independent brands",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hyderabad"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Malayalam film \u2018Ozhiyathey\u2019 highlights police action against schoolboys during the Emergency",
-      "link": "https://www.thehindu.com/entertainment/movies/malayalam-film-ozhiyathey-highlights-police-action-against-schoolboys-during-the-emergency/article71442576.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-11T13:09:58+05:30",
-      "score": 14,
-      "summary": "The film is based on real events that took place at a government school in Palakkad",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ozhiyathey",
-        "Emergency"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -49271,6 +49260,105 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.2 Quarry Blast - 3 km SW of Mill Creek, Oklahoma",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026sgpe",
+      "source": "USGS",
+      "timestamp": "2026-09-17T18:29:17.184000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-17 18:07:09 UTC2026-09-17 18:07:09 UTC at epicenterLocation34.379\u00b0N 96.849\u00b0WDepth0.00 km (0.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Quarry",
+        "Blast",
+        "Mill",
+        "Creek",
+        "Oklahoma"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.6 - 2 km ENE of Aromas, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75437317",
+      "source": "USGS",
+      "timestamp": "2026-09-17T18:27:24.674000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-17 18:14:23 UTC2026-09-17 18:14:23 UTC at epicenterLocation36.894\u00b0N 121.618\u00b0WDepth0.55 km (0.34 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Aromas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.8 - 0 km W of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75038112",
+      "source": "USGS",
+      "timestamp": "2026-09-17T18:27:12.570000+00:00",
+      "score": 17,
+      "summary": "Time2026-09-17 18:23:08 UTC2026-09-17 18:23:08 UTC at epicenterLocation19.203\u00b0N 155.486\u00b0WDepth28.04 km (17.42 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
@@ -55640,105 +55728,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Montr\u00e9al, QC - 7 Day Forecast - Environment Canada",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94V0Z3c1E3SzFVUF82NjRYSWtKcGpRTzhsTHpnYXE0YXlWMVItUmpPNXBYdi1ISk1rbjFUUEltbk1rZTNsZ3RiZUFRQXFTSjlOWlROQjhRWkxCQVVTdmY0RlFTaFZyenhzQ19peWdzYjh1S0Fq?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-16T12:49:25+00:00",
-      "score": 15,
-      "summary": "Montr\u00e9al, QC - 7 Day Forecast Environment Canada",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Day",
-        "Forecast",
-        "Environment",
-        "Canada"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 86 km NNW of Karluk, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sjncrh",
-      "source": "USGS",
-      "timestamp": "2026-09-16T12:44:09.800000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-16 12:43:32 UTC2026-09-16 12:43:32 UTC at epicenterLocation58.294\u00b0N 154.987\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Karluk",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 13 km E of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75037092",
-      "source": "USGS",
-      "timestamp": "2026-09-16T12:36:17.850000+00:00",
-      "score": 17,
-      "summary": "Time2026-09-16 12:32:11 UTC2026-09-16 12:32:11 UTC at epicenterLocation19.204\u00b0N 155.347\u00b0WDepth30.36 km (18.86 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
