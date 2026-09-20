@@ -2030,7 +2030,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.6,
+      "trend_score": 10.5,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -2040,7 +2040,7 @@
         "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+83%",
+      "trend_accel": "+82%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13171,6 +13171,71 @@
   ],
   "World": [
     {
+      "title": "Multiple bushfire alerts in Tasmania as winds make blazes difficult to control",
+      "link": "https://www.abc.net.au/news/2026-09-20/bushfire-tasmania-fire-service-high-winds-sunday/107173902",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-20T06:06:05+00:00",
+      "score": 12,
+      "summary": "Tasmania's fire service has issued bushfire alerts for several areas as wind gusts make conditions difficult for fire crews.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tasmania"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Hundreds of drones target Moscow on last day of voting in Russia\u2019s parliamentary election",
+      "link": "https://www.theguardian.com/world/2026/sep/20/hundreds-of-drones-target-moscow-on-last-day-of-voting-in-russias-parliamentary-election",
+      "source": "Guardian",
+      "timestamp": "2026-09-20T06:04:48+00:00",
+      "score": 14,
+      "summary": "Authorities accuse Ukraine of trying to disrupt poll and say 1,600 drones in total intercepted, while at least two people killed and oil refinery damagedHundreds of drones targeting Moscow and its surrounding region killed at least two people and damaged a major refinery on th...",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Moscow",
+        "Russias"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Russian election, cast as test of support for Ukraine war, enters final day",
       "link": "https://www.thehindu.com/news/international/russian-election-cast-as-test-of-support-for-ukraine-war-enters-final-day/article71487152.ece",
       "source": "The Hindu",
@@ -19625,53 +19690,26 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "US court blocks Trump plan to deport migrants to third countries",
-      "link": "https://www.aljazeera.com/news/2026/9/19/us-court-blocks-trump-plan-to-deport-migrants-to-third-countries?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-09-19T02:16:45+00:00",
+      "title": "Families missing out on NHS money for healthy food",
+      "link": "https://www.bbc.co.uk/news/articles/cme30e8zyvjno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-20T06:12:13+00:00",
       "score": 12,
-      "summary": "US judges affirm migrants must have opportunities to voice safety concerns before deportation to unfamiliar nations.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Trump"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Al Jazeera"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Aussie teen revving to take on world's best in sim racing championships",
-      "link": "https://www.abc.net.au/news/2026-09-19/sim-racing-australia-porsche-cup-mount-gambier/107159832",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-19T02:05:07+00:00",
-      "score": 10,
-      "summary": "Once a niche hobby for hardcore gamers, simulator racing is giving people around the world a chance to compete and make a living in motorsport.",
-      "country": "Australia",
-      "region": "Oceania",
+      "summary": "Figures show as few as 64% of eligible families are claiming NHS money to buy milk, fruit and veg.",
+      "country": "UK",
+      "region": "Europe",
       "source_type": "Broadcaster",
       "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "NHS"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19679,15 +19717,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "ABC Australia"
+        "BBC"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "India Equity Strategy by Jefferies with 2030 Targets: Top 6 themes - Space, Semiconductors, Aerospace, and 3 others",
       "link": "https://www.livemint.com/market/stock-market-news/india-equity-strategy-by-jefferies-with-2030-targets-top-6-themes-space-semiconductors-aerospace-and-3-others-11789879754848.html",
@@ -26323,41 +26359,6 @@
         "CNBC"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Thursday, September 17, 2026: Jim Cramer discusses his next moves for the Investing Club",
-      "link": "https://www.cnbc.com/search/?query=Thursday,%20September%2017,%202026:%20Jim%20Cramer%20discusses%20his%20next%20moves%20for%20the%20Investing%20Club",
-      "source": "CNBC",
-      "timestamp": "2026-09-17T14:12:00+00:00",
-      "score": 15,
-      "summary": "Strategic intelligence signal ingested from CNBC.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "September",
-        "Jim",
-        "Cramer",
-        "Investing",
-        "Club"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ],
@@ -49519,6 +49520,106 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.5 - 40 km ESE of Malaga, New Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026snkpgh",
+      "source": "USGS",
+      "timestamp": "2026-09-20T06:15:05.505000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-20 06:12:12 UTC2026-09-20 06:12:12 UTC at epicenterLocation32.077\u00b0N 103.682\u00b0WDepth8.27 km (5.14 mi)",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Malaga",
+        "New",
+        "Mexico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 22 km NNW of Borrego Springs, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41335423",
+      "source": "USGS",
+      "timestamp": "2026-09-20T06:14:14.390000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-20 06:03:43 UTC2026-09-20 06:03:43 UTC at epicenterLocation33.448\u00b0N 116.427\u00b0WDepth8.72 km (5.42 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Borrego",
+        "Springs"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 15 km NNE of Balmorhea, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026snkkpm",
+      "source": "USGS",
+      "timestamp": "2026-09-20T06:10:32.849000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-20 06:06:44 UTC2026-09-20 06:06:44 UTC at epicenterLocation31.113\u00b0N 103.686\u00b0WDepth4.39 km (2.72 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Balmorhea",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.4 - 77 km WNW of Karluk, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sqjjrs",
       "source": "USGS",
@@ -55915,106 +56016,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 83 km WNW of Karluk, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sokpyd",
-      "source": "USGS",
-      "timestamp": "2026-09-19T04:28:18.646000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-19 04:27:06 UTC2026-09-19 04:27:06 UTC at epicenterLocation57.837\u00b0N 155.769\u00b0WDepth32.50 km (20.19 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Karluk",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 55 km NNE of Van Horn, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026slkvdk",
-      "source": "USGS",
-      "timestamp": "2026-09-19T04:15:06.300000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-19 04:10:02 UTC2026-09-19 04:10:02 UTC at epicenterLocation31.466\u00b0N 104.522\u00b0WDepth0.00 km (0.00 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Van",
-        "Horn",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.8 - 3 km SSW of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75039922",
-      "source": "USGS",
-      "timestamp": "2026-09-19T04:05:28.040000+00:00",
-      "score": 17,
-      "summary": "Time2026-09-19 03:28:41 UTC2026-09-19 03:28:41 UTC at epicenterLocation19.169\u00b0N 155.488\u00b0WDepth13.79 km (8.57 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
       "heat_level": "LOW"
     }
   ]
