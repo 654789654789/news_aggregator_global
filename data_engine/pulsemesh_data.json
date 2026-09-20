@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "Zelensky to meet with Trump in New York this week",
+      "link": "https://thehill.com/policy/international/6100733-trump-zelensky-nyc-meeting/",
+      "source": "The Hill",
+      "timestamp": "2026-09-20T20:48:30+00:00",
+      "score": 12,
+      "summary": "President Trump and Ukrainian President Volodymyr Zelensky are meeting in New York City this week, the Ukrainian leader said Sunday. \u201cI just spoke with President Trump @POTUS. An important conversation, and we got through a lot. We agreed to meet in New York, and this meeting ...",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump",
+        "New",
+        "York"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "DDHQ director says Mike Rogers\u2019s time is \u2018running out\u2019",
       "link": "https://thehill.com/homenews/campaign/6100643-michigan-senate-race-forecast/",
       "source": "The Hill",
@@ -6541,26 +6574,26 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Will not remain spectator if CPI(M), LDF are politically hunted: Binoy Viswam",
-      "link": "https://www.thehindu.com/news/national/kerala/will-not-remain-spectator-if-cpim-ldf-are-politically-hunted-binoy-viswam/article71485416.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-19T21:19:58+05:30",
-      "score": 14,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "No Dogs in Space is back to feed your need for obsessive music history",
+      "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
+      "source": "Verge",
+      "timestamp": "2026-09-20T16:51:57-04:00",
+      "score": 12,
+      "summary": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to announce the show's return with season...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "CPIM",
-        "LDF",
-        "Binoy",
-        "Viswam"
+        "Dogs",
+        "Space"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6571,13 +6604,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Elon Musk\u2019s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
       "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
@@ -13071,24 +13102,29 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
-      "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-14T18:08:43+00:00",
+      "title": "Australia news live: Albanese names former News Corp executive as consul-general in New York",
+      "link": "https://www.theguardian.com/australia-news/live/2026/sep/21/anthony-albanese-new-york-jim-chalmers-intergenerational-report-coalition-one-nation-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-09-20T20:54:19+00:00",
       "score": 12,
-      "summary": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising 'ClickFix' security threat.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "summary": "Follow the day\u2019s news live.Good morning and welcome to Guardian Australia\u2019s live news coverage for Monday.Jim Chalmers will release the latest intergenerational report, while overseas Anthony Albanese has appointed a former Murdoch executive to a top diplomatic post. Continue ...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Mac",
-        "Windows"
+        "Albanese",
+        "News",
+        "Corp",
+        "New",
+        "York"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13099,13 +13135,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "TechCrunch"
+        "Guardian"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Hundreds recruited to help foster kids visit birth families in NSW",
       "link": "https://www.abc.net.au/news/2026-09-21/nsw-foster-care-system-children-supervised-visits-overhaul/107165324",
@@ -19680,35 +19714,6 @@
         "Guardian"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Couple bought 5 acres for $27,000; three cabins later made over $2.1 million",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-2015-a-connecticut-carpenter-and-his-wife-bought-5-acres-in-upstate-new-york-for-27000-he-built-three-cabins-and-the-rentals-generated-more-than-2-1-million/articleshow/134338499.cms",
-      "source": "Times of India",
-      "timestamp": "2026-09-19T22:04:53+05:30",
-      "score": 13,
-      "summary": "Chris Broomfield transformed five acres into a thriving hospitality business. His first A-frame cabin generated significant revenue after its 2018 listing. Subsequent unique cabins, like a treehouse, also achieved substantial financial success. Broomfield's ventures have now e...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+43%",
       "heat_level": "LOW"
     }
   ],
@@ -33967,29 +33972,38 @@
       ],
       "trend_accel": "+66%",
       "heat_level": "HOT"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Week 1 NFL scores, live updates: Saints, Tyler Shough stun, tie Lions to send game into OT - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMlUtWTFqMFZISlZfRHNhbWRmcEZaTVYySUdvU0FpUVJJN2tIVXpCMmFvRERLeW1OZmE3YUtxODlabm5lTmE1b3c3dEVfMlp0ck5Hc0UxT2oyV3lrZll2NDljTXA4X1FqSTJfRWtvcV9MUGFEMFdrNmNFRGRRYVJ0c0M2MnltaXN1amI4WjV6OVk5UWhmQmtnOWt5TTA0Z05nRzZVRmFEQ2RsMVg2TXFVN2FxQXp4RDJMQzdUbE53RVNJX0ZTbHljTDFPV3hjdGd3QmMtb1hsNXlYLTNkaVdITUM0U3l2Y2c?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-13T20:49:36+00:00",
-      "score": 17,
-      "summary": "Week 1 NFL scores, live updates: Saints, Tyler Shough stun, tie Lions to send game into OT Yahoo Sports2026 NFL season, Week 1: What We Learned from Sunday's games NFL.comNFL Week 1: Takeaways, questions, fantasy spin for Sunday games ESPNNFL 2026 season LIVE! Scores, results,...",
+      "title": "\u2018History Of Concrete\u2019 Rocks IFC Center As \u2018Daniel And The Fiery Furnace\u2019 Brings Biblical Heat To Top 10 \u2014 Specialty Box Office",
+      "link": "https://deadline.com/2026/09/indie-film-box-office-john-wilson-the-history-of-concrete-1237108942/",
+      "source": "Deadline",
+      "timestamp": "2026-09-20T21:00:00+00:00",
+      "score": 15,
+      "summary": "John Wilson\u2019s The History Of Concrete had a record-breaking IFC Center debut, grossing $90k in three days for the top doc opening and the second-highest weekend gross in the NYC theater\u2019s 21-year history after only Parasite ($119k in 2019). Nearly every available ticket sold f...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Aggregator",
+      "source_type": "Entertainment",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "NFL",
-        "Saints",
-        "Tyler",
-        "Shough",
-        "Lions",
-        "Yahoo",
-        "Sports"
+        "Concrete",
+        "Rocks",
+        "IFC",
+        "Center",
+        "Daniel",
+        "Fiery",
+        "Furnace",
+        "Brings",
+        "Biblical",
+        "Heat",
+        "Top",
+        "Specialty",
+        "Box",
+        "Office"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -33998,15 +34012,98 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "Google News"
+        "Deadline"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
+    {
+      "title": "\u2018The Assassin(s)\u2019 Review: A Riveting South Korean Popcorn Thriller About a Real Assassination",
+      "link": "https://variety.com/2026/film/news/the-assassins-review-1236869794/",
+      "source": "Variety",
+      "timestamp": "2026-09-20T20:58:41+00:00",
+      "score": 12,
+      "summary": "Hur Jin-ho\u2019s star-studded \u201cThe Assassin(s)\u201d turns the holes in a public investigation into an imaginative mystery along the lines of Oliver Stone\u2019s \u201cJFK.\u201d Like Stone\u2019s provocative thriller, Hur crafts a clockwork political saga sure to spark curiosities about the attempted ass...",
+      "country": "South Korea",
+      "region": "East Asia",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Assassins",
+        "Review",
+        "Riveting",
+        "South",
+        "Korean",
+        "Popcorn",
+        "Thriller",
+        "About",
+        "Real",
+        "Assassination"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Magazine\u2019 Review: Lily McInerny Scores Her Dream Internship in Alexandra Pechman\u2019s Warmly Nostalgic Study of a Bygone Literary Scene",
+      "link": "https://variety.com/2026/film/reviews/magazine-review-2-1236870524/",
+      "source": "Variety",
+      "timestamp": "2026-09-20T20:53:16+00:00",
+      "score": 12,
+      "summary": "In an era when glamorous writing jobs have acquired the unreality of folklore, it feels fitting that Alexandra Pechman\u2019s alluring and affectionate feature debut, \u201cMagazine,\u201d should portray its literary world as a fairy tale. Set in a faraway time \u2014 summer 2011 \u2014 when office fl...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Review",
+        "Lily",
+        "McInerny",
+        "Scores",
+        "Her",
+        "Dream",
+        "Internship",
+        "Alexandra",
+        "Pechmans",
+        "Warmly",
+        "Nostalgic",
+        "Study",
+        "Bygone",
+        "Literary",
+        "Scene"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Chad Gilbert Dead: New Found Glory Guitarist Was 45",
       "link": "https://deadline.com/2026/09/chad-gilbert-dead-new-found-glory-1237108950/",
@@ -42099,129 +42196,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Trump Says He Is Banning CNN, MS NOW and Politico from the White House",
-      "link": "https://www.hollywoodreporter.com/news/politics-news/trump-says-he-is-banning-cnn-ms-now-and-politico-from-the-white-house-1236705609/",
-      "source": "THR",
-      "timestamp": "2026-09-18T19:33:18+00:00",
-      "score": 12,
-      "summary": "The President did not give a rationale for the decision, aside from declaring them \u201cfake news.\u201d",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Says",
-        "Banning",
-        "CNN",
-        "NOW",
-        "Politico",
-        "White",
-        "House"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Wonder Man\u2019 Had 52% Audience Retention Yet Was Canceled As Broadcast TV Sees Higher Renewal Rates Than Streaming",
-      "link": "https://deadline.com/2026/09/wonder-man-most-watched-canceled-series-streaming-broadcast-1237107820/",
-      "source": "Deadline",
-      "timestamp": "2026-09-18T19:32:25+00:00",
-      "score": 15,
-      "summary": "In an interesting turn of events, broadcast series are more likely to be renewed than those on streaming, according to a new report from data intelligence company Luminate. The report, released Friday, found that the broadcast networks renewed 65% of their output in 2025 versu...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Man",
-        "Had",
-        "Audience",
-        "Retention",
-        "Yet",
-        "Was",
-        "Canceled",
-        "Broadcast",
-        "Sees",
-        "Higher",
-        "Renewal",
-        "Rates",
-        "Than",
-        "Streaming"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Navigating AI, Super-Serving Audiences, Engaging the Creator Economy and More at Variety\u2019s 2026 Entertainment and Technology Summit",
-      "link": "https://variety.com/2026/digital/news/variety-entertainment-and-technology-summit-2026-1236864312/",
-      "source": "Variety",
-      "timestamp": "2026-09-18T19:26:40+00:00",
-      "score": 17,
-      "summary": "Executives, marketing professionals, entrepreneurs and creators across the field of film, television and gaming came together for a day of keynote speakers, panels and networking on Thursday for the Variety Entertainment & Technology Summit presented by EY. Industry profession...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "SuperServing",
-        "Audiences",
-        "Engaging",
-        "Creator",
-        "Economy",
-        "More",
-        "Varietys",
-        "Entertainment",
-        "Technology",
-        "Summit"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49445,6 +49419,71 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 0.3 - 0 km W of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439067",
+      "source": "USGS",
+      "timestamp": "2026-09-20T21:00:04.070000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-20 20:58:29 UTC2026-09-20 20:58:29 UTC at epicenterLocation38.778\u00b0N 122.759\u00b0WDepth0.87 km (0.54 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 3.0 - 4 km WSW of Gu\u00e1nica, Puerto Rico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533593",
+      "source": "USGS",
+      "timestamp": "2026-09-20T20:54:49.592000+00:00",
+      "score": 15,
+      "summary": "DYFI? - IITime2026-09-20 20:32:36 UTC2026-09-20 20:32:36 UTC at epicenterLocation17.958\u00b0N 66.952\u00b0WDepth7.96 km (4.95 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Gunica",
+        "Puerto",
+        "Rico"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Tropical Storm Fay Forecast Discussion Number 6",
       "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/202035.shtml",
       "source": "NHC",
@@ -55913,68 +55952,6 @@
         "GDACS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Zambia",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032230",
-      "source": "GDACS",
-      "timestamp": "2026-09-19T19:01:49+00:00",
-      "score": 12,
-      "summary": "On 18/09/2026, a forest fire started in Zambia, until 19/09/2026.",
-      "country": "EU",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Zambia"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Vanuatu",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032229",
-      "source": "GDACS",
-      "timestamp": "2026-09-19T19:01:34+00:00",
-      "score": 12,
-      "summary": "On 19/09/2026, a forest fire started in Vanuatu, until 19/09/2026.",
-      "country": "EU",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Vanuatu"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
