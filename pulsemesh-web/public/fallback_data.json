@@ -1587,7 +1587,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.9,
+      "trend_score": 10.8,
       "source_count": 18,
       "sources_reporting": [
         "Bloomberg",
@@ -13116,6 +13116,72 @@
   ],
   "World": [
     {
+      "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+      "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+      "source": "Guardian",
+      "timestamp": "2026-09-21T01:09:23+00:00",
+      "score": 12,
+      "summary": "Two leaders meet in French territory off Canada as Ottawa seeks stronger relations with EU while fighting trade war with USThe leaders of France and Canada have pledged closer ties to grapple with rising geopolitical tensions, climate change and the erosion of democratic value...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Carney",
+        "FranceCanada",
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Investor saves Brisbane bowling club with $6m deal",
+      "link": "https://www.abc.net.au/news/2026-09-21/coorparoo-bowls-saved-from-demolition-griffin-hospitality-deal/107175696",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-21T01:07:14+00:00",
+      "score": 17,
+      "summary": "Griffin Hospitality Group buys Coorparoo Bowls Club vowing to renovate the clubhouse and keep the greens open.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Brisbane"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Patrick Clancy gives first TV interview after Lindsay Clancy mistrial",
       "link": "https://www.cbc.ca/news/world/patrick-clancy-60-minutes-interview-9.7351651?cmp=rss",
       "source": "CBC News",
@@ -19635,24 +19701,33 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "PM Modi pushes back on West\u2019s narrative over emissions",
-      "link": "https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms",
-      "source": "Times of India",
-      "timestamp": "2026-09-20T02:22:39+05:30",
+      "title": "U.S. and China Discuss System to Warn of A.I. National Security Issues",
+      "link": "https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html",
+      "source": "NYT",
+      "timestamp": "2026-09-21T01:07:07+00:00",
       "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
+      "summary": "In a meeting on Sunday, the U.S. Treasury secretary and China\u2019s vice premier talked about having a shared vision on the goals of artificial intelligence and the threats it poses.",
+      "country": "China",
+      "region": "East Asia",
       "source_type": "Newspaper",
-      "trust_score": 7,
+      "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Modi",
-        "Wests"
+        "China",
+        "Discuss",
+        "System",
+        "Warn",
+        "National",
+        "Security",
+        "Issues"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19663,55 +19738,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Times of India"
+        "NYT"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+54%",
       "heat_level": "LOW"
     },
-    {
-      "title": "White House turns away CNN, MS NOW, Politico reporters after Trump's ban",
-      "link": "https://www.abc.net.au/news/2026-09-20/white-house-bans-cnn-ms-now-politico-reporters-donald-trump/107173386",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-19T20:50:52+00:00",
-      "score": 12,
-      "summary": "The White House has denied access to journalists from CNN, MS NOW and Politico, following the US president's announcement he would ban them from the building.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "House",
-        "CNN",
-        "NOW",
-        "Politico",
-        "Trumps"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 13,
-      "sources_reporting": [
-        "ABC Australia",
-        "BBC",
-        "Bloomberg",
-        "CBC News",
-        "France24",
-        "Guardian",
-        "NHK",
-        "Times of India"
-      ],
-      "trend_accel": "+87%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Business": [
     {
       "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
       "link": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
@@ -26363,37 +26394,6 @@
         "MarketWatch"
       ],
       "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Stocks surge as oil and bond yields retreat, recovering from Fed-induced sell-off",
-      "link": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-17T20:12:53+00:00",
-      "score": 14,
-      "summary": "In a widely anticipated move, the Fed on Wednesday raised the overnight funds rate by a quarter percentage point and signaled another hike could come this year.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fedinduced"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -33849,6 +33849,86 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Charlize Theron on \u2018The Odyssey\u2019 Becoming Universal\u2019s Highest-Grossing Movie and Raising Millions to Fight Femicide in Africa With CTAOP",
+      "link": "https://variety.com/2026/scene/news/charlize-theron-the-odyssey-box-office-fast-forever-ctaop-block-party-1236870422/",
+      "source": "Variety",
+      "timestamp": "2026-09-21T01:09:52+00:00",
+      "score": 14,
+      "summary": "Last week, Christopher Nolan\u2019s \u201cThe Odyssey\u201d became Universal Pictures\u2019 highest-grossing film of all time, grossing $1.68 billion and counting. \u201cI feel like I got a great invitation to the best party in town, and I don\u2019t know how I got it, but I\u2019m really glad I got invited,\u201d O...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Theron",
+        "Odyssey",
+        "Becoming",
+        "Universals",
+        "HighestGrossing",
+        "Movie",
+        "Raising",
+        "Millions",
+        "Fight",
+        "Femicide",
+        "Africa",
+        "CTAOP"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Patrick Clancy Reveals He Had a \"Traumatic Panic Attack\" During Trial",
+      "link": "https://www.eonline.com/news/1436248/patrick-clancy-had-traumatic-panic-attack-during-lindsay-clancy-trial?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-09-21T01:04:18+00:00",
+      "score": 12,
+      "summary": "Patrick Clancy is sharing his perspective. The software salesman detailed his mental health struggles during his ex-wife Lindsay Clancy's murder trial over the deaths of their three children...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Clancy",
+        "Reveals",
+        "Had",
+        "Traumatic",
+        "Panic",
+        "Attack",
+        "During",
+        "Trial"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Ke Huy Quan Reveals The \u201cLife Changing\u201d Gesture From Spielberg & Lucas When He Was A Kid",
       "link": "https://deadline.com/2026/09/ke-huy-quan-spielberg-lucas-indiana-jones-payment-1237109016/",
@@ -41982,97 +42062,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Lea Michele, Matt Pinfield, \u2018Pose\u2019 Co-Creator Steven Canals Remember \u2018Spring Awakening\u2019 Composer Duncan Sheik: \u201cDoes Not Seem Real\u201d",
-      "link": "https://www.hollywoodreporter.com/music/music-news/duncan-sheik-dead-lea-michele-matt-pinfield-remember-1236705663/",
-      "source": "THR",
-      "timestamp": "2026-09-18T20:57:05+00:00",
-      "score": 12,
-      "summary": "The singer-songwriter known for his Grammy-nominated 1996 single \"Barely Breathing\" died Thursday of organ failure.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Michele",
-        "Matt",
-        "Pinfield",
-        "Pose",
-        "CoCreator",
-        "Steven",
-        "Canals",
-        "Remember",
-        "Spring",
-        "Awakening",
-        "Composer",
-        "Duncan",
-        "Sheik",
-        "Does",
-        "Not",
-        "Seem",
-        "Real"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Gerrit Graham, Actor in \u2018Phantom of the Paradise,\u2019 \u2018Pretty Baby\u2019 and \u2018Used Cars,\u2019 Dies at 77",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/gerrit-graham-dead-phantom-of-the-paradise-grateful-dead-1236705679/",
-      "source": "THR",
-      "timestamp": "2026-09-18T20:56:38+00:00",
-      "score": 15,
-      "summary": "He also came up with \u201cPatience runs out on the junkie,\u201d the first line in the Bob Weir/Grateful Dead song \u201cVictim or the Crime.\u201d",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Graham",
-        "Actor",
-        "Phantom",
-        "Paradise",
-        "Pretty",
-        "Baby",
-        "Used",
-        "Cars",
-        "Dies"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 13,
-      "sources_reporting": [
-        "Deadline",
-        "Guardian",
-        "NPR",
-        "Reuters",
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+80%",
-      "heat_level": "CRITICAL"
     }
   ],
   "Lifestyle": [
@@ -49296,6 +49285,39 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 1.7 - 2 km NNE of Pleasant Hill, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439207",
+      "source": "USGS",
+      "timestamp": "2026-09-21T01:07:20.490000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-21 00:44:24 UTC2026-09-21 00:44:24 UTC at epicenterLocation37.966\u00b0N 122.046\u00b0WDepth15.25 km (9.48 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Pleasant",
+        "Hill"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 2.9 - 14 km NNE of P\u0101hala, Hawaii",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75040987",
       "source": "USGS",
@@ -55798,39 +55820,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.6 - 4 km SW of Gu\u00e1nica, Puerto Rico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71533218",
-      "source": "USGS",
-      "timestamp": "2026-09-19T23:27:01.990000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-19 22:46:44 UTC2026-09-19 22:46:44 UTC at epicenterLocation17.941\u00b0N 66.940\u00b0WDepth9.49 km (5.90 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gunica",
-        "Puerto",
-        "Rico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
