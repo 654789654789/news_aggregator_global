@@ -1,6 +1,137 @@
 {
   "Politics": [
     {
+      "title": "CNN, MS NOW, Politico say they've notified Trump they're suing over denied White House access",
+      "link": "https://www.pbs.org/newshour/politics/cnn-ms-now-politico-say-theyve-notified-trump-theyre-suing-over-denied-white-house-access",
+      "source": "PBS",
+      "timestamp": "2026-09-21T07:39:54-04:00",
+      "score": 12,
+      "summary": "The actions were a clear escalation of President Donald Trump's long-running efforts \u2014 in the courts and through administrative action \u2014 to restrict news coverage by journalists he finds objectionable, and were the latest test of First Amendment protections in the United States.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NOW",
+        "Politico",
+        "Trump",
+        "White",
+        "House"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Heavy rainfall forecast in 14 Telangana districts on September 22",
+      "link": "https://www.thehindu.com/news/national/telangana/heavy-rainfall-forecast-in-14-telangana-districts-on-september-22/article71490919.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-21T17:08:12+05:30",
+      "score": 17,
+      "summary": "Hyderabad is forecast to be covered with cloudy sky",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Telangana",
+        "September"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Groundwater crisis in Punjab is widening social and economic divide, finds study",
+      "link": "https://www.thehindu.com/news/national/punjab/groundwater-crisis-in-punjab-is-widening-social-and-economic-divide-finds-study/article71490906.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-21T17:05:34+05:30",
+      "score": 12,
+      "summary": "At 76.47%, Punjab has highest percentage of over-exploited groundwater blocks among all States; the State\u2019s heavy reliance on groundwater for cultivating water-intensive crops, including wheat and rice, leads to rising costs for deeper wells, as well as land subsidence and det...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Punjab"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "News outlets banned from White House to sue Trump administration",
+      "link": "https://thehill.com/homenews/media/6101137-cnn-msnow-politico-sue-trump-administration-white-house-ban/",
+      "source": "The Hill",
+      "timestamp": "2026-09-21T11:33:02+00:00",
+      "score": 12,
+      "summary": "Officials from CNN, MS NOW and Politico said Monday the media organizations will file a lawsuit against the Trump administration, after their reporters were banned from the White House. \u201cThis morning, we notified the government that we are filing a lawsuit today to protect our...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "White",
+        "House",
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Around 20 'unauthorised' homes, farmhouses razed as part of road-widening drive in south Delhi",
       "link": "https://www.thehindu.com/news/national/around-20-unauthorised-homes-farmhouses-razed-as-part-of-road-widening-drive-in-south-delhi/article71491115.ece",
       "source": "The Hindu",
@@ -161,14 +292,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 10.8,
+      "source_count": 13,
       "sources_reporting": [
-        "NYT"
+        "NHK",
+        "NYT",
+        "PBS",
+        "PBS",
+        "Reuters",
+        "The Hill"
       ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
+      "trend_accel": "+85%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Music studio set up in 100-year-old home craved by builders in Belagavi",
@@ -3741,8 +3877,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "Bloomberg",
@@ -3842,7 +3978,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.8,
+      "trend_score": 10.7,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -3853,7 +3989,7 @@
         "PBS",
         "The Hill"
       ],
-      "trend_accel": "+80%",
+      "trend_accel": "+79%",
       "heat_level": "CRITICAL"
     },
     {
@@ -6441,135 +6577,6 @@
         "The Hindu"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Gem Granite\u2019 Veeramani \u2014 a stone cold perpetrator",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/a-stone-coldperpetrator-gem-granite-veeramani/article71485725.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-20T12:38:09+05:30",
-      "score": 12,
-      "summary": "\u2018Gem Granite\u2019 Veeramani, an influential industrialist now finds himself at the centre of a widening investigation under the POCSO Act into the allegations of paedophilia. While he was under investigation from last year, a fresh probe, ordered by the court, led the police to re...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Granite",
-        "Veeramani"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Nara Lokesh calls on students to face failures with courage and determination",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/nara-lokesh-calls-on-students-to-face-failures-with-courage-and-determination/article71487211.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-20T12:38:07+05:30",
-      "score": 14,
-      "summary": "The students have been told to respect soldiers, make them their real heroes during \u2018Bharateeyam\u2019 programme",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lokesh"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Senior journalist Payal Mehta passes away; PM Modi, Union Ministers offer condolences",
-      "link": "https://www.thehindu.com/news/national/senior-journalist-payal-mehta-passes-away-pm-modi-union-ministers-offer-condolences/article71487108.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-20T12:08:00+05:30",
-      "score": 12,
-      "summary": "Payal Mehta was known as a hard-working journalist who covered the Parliament, the government and the BJP",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Payal",
-        "Mehta",
-        "Modi",
-        "Union",
-        "Ministers"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Keralam minister K.M. Shaji faces controversy over use of \u2018loaned\u2019 luxury car as official vehicle",
-      "link": "https://www.thehindu.com/news/national/kerala/keralam-minister-km-shaji-faces-controversy-over-use-of-loaned-luxury-car-as-official-vehicle/article71487102.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-20T11:52:18+05:30",
-      "score": 12,
-      "summary": "Photographs of K.M. Shaji posing alongside the car, which flew the national flag from a staff mounted on the vehicle\u2019s bonnet, recently went viral on social and conventional media, drawing applause from his supporters and criticism from Communist Party of India (Marxist) [CPI(...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Shaji"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -13116,6 +13123,109 @@
   ],
   "World": [
     {
+      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-21T11:42:35+00:00",
+      "score": 14,
+      "summary": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NOW",
+        "Politico",
+        "Trumps",
+        "White",
+        "House"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "CNN, MS Now and Politico to sue over White House ban \u2013 US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2026/sep/21/donald-trump-arch-media-white-house-press-ban-mamdani-ai-unga-latest-news-updates",
+      "source": "Guardian",
+      "timestamp": "2026-09-21T11:38:41+00:00",
+      "score": 12,
+      "summary": "Three news outlets to sue in case that could come this week after Trump said he would ban them from White House groundsSign up for US Breaking News emailsThe United States has refused to issue visas for members of Iranian president Masoud Pezeshkian\u2019s delegation, including his...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Now",
+        "Politico",
+        "White",
+        "House"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Russia was building sanctions-proof ties with Iran before US attacked: Report",
+      "link": "https://timesofindia.indiatimes.com/business/international-business/from-finance-system-to-nuclear-tech-inside-russias-secret-plan-for-sanctions-proof-ties-with-iran/articleshow/134387884.cms",
+      "source": "Times of India",
+      "timestamp": "2026-09-21T17:01:10+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Iran",
+        "Report"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
       "link": "https://www.npr.org/2026/09/21/g-s1-144238/up-first-newsletter-united-nations-general-assembly-trump-arch-faa-ai-federal-agent-shooting",
       "source": "NPR",
@@ -14154,14 +14264,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 10.9,
+      "source_count": 11,
       "sources_reporting": [
-        "NPR"
+        "AP",
+        "Al Jazeera",
+        "BBC",
+        "CBC News",
+        "NPR",
+        "PBS"
       ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Germany's chancellor facing pressure after far right gains ground",
@@ -19334,7 +19449,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -19577,111 +19692,6 @@
         "The Hindu"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump arch to serve as 'military complex' housing drones and snipers",
-      "link": "https://www.abc.net.au/news/2026-09-21/trump-arch-to-serve-as-military-complex/107174554",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-20T14:03:15+00:00",
-      "score": 10,
-      "summary": "The US president says his announcement comes at the \"strong request\" of the military, though the project has not yet been approved.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 10.9,
-      "source_count": 11,
-      "sources_reporting": [
-        "ABC Australia",
-        "AP",
-        "BBC",
-        "Guardian",
-        "Reuters",
-        "The Hindu"
-      ],
-      "trend_accel": "+83%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Nepal flood toll crosses 1,450; over 6,000 still missing",
-      "link": "https://www.thehindu.com/news/international/nepal-flash-flood-death-toll-september-20/article71488152.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-20T19:17:46+05:30",
-      "score": 13,
-      "summary": "The search for those missing in Nepal has continued across river stretches, debris fields and damaged hydropower projects in Rasuwa and neighbouring districts.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Iran-US war latest: Trump cuts short Camp David visit amid Middle East tensions - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbTgtY0otTzJNQ1RmdVk4SzZLS0FpWWZNSUFNTmlOY2VtbkRwOEFWUUlSMDdON19BSklMaUhlRFJBQ2cxWmdXQ3FIRFpodUFuZmt4aTNGOVpmV0xpLUFMZnRramsxVTBzU2d3THM3aEFpLXNGZmtZTXpMQ2ZCUG5OckJJTEFpdlJLUWxqYUIzalJBcGxoR3N1aVFoTDBZMjFGNXVNdU1lMHc4b2NIWEdrZnhCaE9GYXIxZkE?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-20T13:17:54+00:00",
-      "score": 12,
-      "summary": "Iran-US war latest: Trump cuts short Camp David visit amid Middle East tensions The IndependentTrump returns to White House as State Department issues security alerts for Middle East The HillTrump cuts Camp David trip short as US issues Middle East travel alerts YahooTrump cut...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Trump",
-        "Camp",
-        "David",
-        "Middle",
-        "East",
-        "Independent"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ],
@@ -26398,6 +26408,37 @@
   ],
   "Science": [
     {
+      "title": "Administrative assistance and advocacy help Mumbai communities get essential services",
+      "link": "https://phys.org/news/2026-09-administrative-advocacy-mumbai-communities-essential.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-21T07:40:03-04:00",
+      "score": 14,
+      "summary": "Access to clean drinking water is a basic human need, yet many residents struggle to obtain it. In Mumbai, India, one of the world's largest and most populous cities, hundreds of informal settlements housing millions of residents face barriers to securing government-provided w...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mumbai"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Shoppers know fast fashion harms the environment but keep buying",
       "link": "https://phys.org/news/2026-09-shoppers-fast-fashion-environment-buying.html",
       "source": "Phys.org",
@@ -32492,35 +32533,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Tracking visits to public points of interest can inform community health measures",
-      "link": "https://phys.org/news/2026-09-tracking-community-health.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-16T21:20:02-04:00",
-      "score": 10,
-      "summary": "It's not so much where people live, but where they frequently spend their time, that can provide useful information for predicting community health measures. A team led by geographers in the Penn State College of Earth and Mineral Sciences found that adding place visitation da...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -36611,7 +36623,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 18,
       "sources_reporting": [
         "Deadline",
@@ -49365,6 +49377,110 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 1.7 - 6 km SW of Volcano, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041182",
+      "source": "USGS",
+      "timestamp": "2026-09-21T11:43:58.540000+00:00",
+      "score": 17,
+      "summary": "Time2026-09-21 11:40:31 UTC2026-09-21 11:40:31 UTC at epicenterLocation19.392\u00b0N 155.273\u00b0WDepth1.04 km (0.65 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Volcano",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.2 - 15 km SW of El Ramal (Porvenir), Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tix2",
+      "source": "USGS",
+      "timestamp": "2026-09-21T11:38:48.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-21 11:02:38 UTC2026-09-21 11:02:38 UTC at epicenterLocation15.754\u00b0N 93.035\u00b0WDepth142.84 km (88.76 mi)",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ramal",
+        "Porvenir",
+        "Mexico"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Emergency Planning & Business Continuity Officer in Harrow, United Kingdom - London Borough of Harrow",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sejJ3RlJrVzVlNW5ySnpzR1RLcVZIeUFyWjF3bFJKS2VwZFEwZ25OeVM0SFNZSnZsUG5mTlRra045alN0VUg4SzN0UWdiMlpqUFlSZ09oc3I4QnFsbUE?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-09-21T11:36:10+00:00",
+      "score": 12,
+      "summary": "Emergency Planning & Business Continuity Officer in Harrow, United Kingdom London Borough of Harrow",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Planning",
+        "Business",
+        "Continuity",
+        "Officer",
+        "Harrow",
+        "United",
+        "Kingdom",
+        "London",
+        "Borough"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.9 - 24 km ESE of Kasilof, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ssqscs",
       "source": "USGS",
@@ -55794,107 +55910,6 @@
       "topic_tags": [],
       "entities": [
         "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 27 km WSW of Coyanosa, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026snrqui",
-      "source": "USGS",
-      "timestamp": "2026-09-20T09:50:09.769000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-20 09:45:06 UTC2026-09-20 09:45:06 UTC at epicenterLocation31.119\u00b0N 103.320\u00b0WDepth0.00 km (0.00 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Coyanosa",
-        "Texas"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 6.4 - 49 km NNE of Kainantu, Papua New Guinea",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc",
-      "source": "USGS",
-      "timestamp": "2026-09-20T09:44:33.941000+00:00",
-      "score": 17,
-      "summary": "PAGER - GREEN ShakeMap - V DYFI? - VTime2026-09-20 09:17:35 UTC2026-09-20 09:17:35 UTC at epicenterLocation5.902\u00b0S 146.092\u00b0EDepth104.33 km (64.83 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Kainantu",
-        "Papua",
-        "New",
-        "Guinea"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.5 - 74 km WNW of Ninilchik, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sqqbej",
-      "source": "USGS",
-      "timestamp": "2026-09-20T09:12:59.089000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-20 09:09:19 UTC2026-09-20 09:09:19 UTC at epicenterLocation60.200\u00b0N 152.971\u00b0WDepth139.50 km (86.68 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Ninilchik",
-        "Alaska"
       ],
       "severity_score": 3,
       "alert_level": "low",
