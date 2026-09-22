@@ -5275,7 +5275,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.6,
+      "trend_score": 10.5,
       "source_count": 13,
       "sources_reporting": [
         "NHK",
@@ -5285,7 +5285,7 @@
         "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+84%",
+      "trend_accel": "+83%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19741,6 +19741,39 @@
   ],
   "Business": [
     {
+      "title": "Taiwan benchmark Taiex rises to record intraday high as tech stocks advance",
+      "link": "https://www.cnbc.com/2026/09/22/taiwans-taiex-hits-record-intraday-high-as-tech-stocks-advance.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-22T03:33:20+00:00",
+      "score": 14,
+      "summary": "Taiwan's benchmark Taiex rose to a record intraday high Tuesday, driven by gains in the tech sector, following an AI-driven rally on Wall Street.",
+      "country": "Taiwan",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Taiex"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Dividend countdown begins! Last chance to buy today GMDC, Titagarh Rail, AGI Infra, others ahead of record date",
       "link": "https://www.livemint.com/market/stock-market-news/dividend-countdown-begins-last-chance-to-buy-today-gmdc-titagarh-rail-agi-infra-others-ahead-of-record-date-11790046233344.html",
       "source": "Livemint",
@@ -21504,7 +21537,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -21514,7 +21547,7 @@
         "NYT",
         "Reuters"
       ],
-      "trend_accel": "+83%",
+      "trend_accel": "+82%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26378,27 +26411,24 @@
       ],
       "trend_accel": "+55%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "MS NOW journalists blocked from White House after Trump bans three media outlets",
-      "link": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-19T13:11:34+00:00",
-      "score": 12,
-      "summary": "Journalists from MS NOW were denied access to the White House grounds early Saturday, one day after Trump banned three media outlets over their coverage of him.",
+      "title": "Climate change also poses a threat to cultural heritage",
+      "link": "https://phys.org/news/2026-09-climate-poses-threat-cultural-heritage.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-21T23:40:01-04:00",
+      "score": 10,
+      "summary": "When we talk about climate change, the debate usually centers on energy, biodiversity, carbon emissions or the economic costs of the transition. But another aspect of the problem remains largely underestimated: the impact of climate change on our cultural heritage.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "NOW",
-        "White",
-        "House",
-        "Trump"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26406,15 +26436,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Fast-food brands may build loyalty through emotional experiences, not service alone",
       "link": "https://phys.org/news/2026-09-fast-food-brands-loyalty-emotional.html",
@@ -32507,35 +32535,6 @@
         "Phys.org"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Developing new asymmetric catalytic reactions for the synthesis of complex molecules",
-      "link": "https://phys.org/news/2026-09-asymmetric-catalytic-reactions-synthesis-complex.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-17T19:40:01-04:00",
-      "score": 10,
-      "summary": "Do Hyun Ryu's research team in the Department of Chemistry at Sungkyunkwan University (SKKU) has developed two new asymmetric catalytic methods for the precise synthesis of complex molecules using chiral organic catalysts.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ],
@@ -48552,6 +48551,103 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 4.0 - 14 km S of La Romana, Dominican Republic",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026265000",
+      "source": "USGS",
+      "timestamp": "2026-09-22T03:40:33.650000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-22 02:49:22 UTC2026-09-22 02:49:22 UTC at epicenterLocation18.301\u00b0N 68.976\u00b0WDepth174.00 km (108.12 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Romana",
+        "Dominican",
+        "Republic"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.2 - 17 km NW of Parkfield, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439832",
+      "source": "USGS",
+      "timestamp": "2026-09-22T03:37:47.248000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-22 03:36:10 UTC2026-09-22 03:36:10 UTC at epicenterLocation36.000\u00b0N 120.568\u00b0WDepth5.96 km (3.70 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Parkfield"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.8 - 56 km ESE of Naalehu, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75041752",
+      "source": "USGS",
+      "timestamp": "2026-09-22T03:35:49.570000+00:00",
+      "score": 17,
+      "summary": "Time2026-09-22 03:32:25 UTC2026-09-22 03:32:25 UTC at epicenterLocation18.825\u00b0N 155.105\u00b0WDepth16.01 km (9.95 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Naalehu",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 2.3 - 2 km SE of Pacifica, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439827",
       "source": "USGS",
@@ -55015,104 +55111,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.0 - 16 km WSW of Shikotan, Russia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiu3",
-      "source": "USGS",
-      "timestamp": "2026-09-20T23:41:59.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-20 23:25:38 UTC2026-09-20 23:25:38 UTC at epicenterLocation43.744\u00b0N 146.534\u00b0EDepth64.94 km (40.35 mi)",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "WSW",
-        "Shikotan",
-        "Russia"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 77 km W of Karluk, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srsuwu",
-      "source": "USGS",
-      "timestamp": "2026-09-20T23:32:38.903000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-20 23:31:39 UTC2026-09-20 23:31:39 UTC at epicenterLocation57.661\u00b0N 155.747\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Karluk",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 6 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75439177",
-      "source": "USGS",
-      "timestamp": "2026-09-20T23:23:34.290000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-20 23:21:57 UTC2026-09-20 23:21:57 UTC at epicenterLocation38.822\u00b0N 122.795\u00b0WDepth2.73 km (1.70 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+64%",
       "heat_level": "LOW"
     }
   ]
