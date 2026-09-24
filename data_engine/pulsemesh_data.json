@@ -1,6 +1,45 @@
 {
   "Politics": [
     {
+      "title": "Ex-F.B.I. Agents Crucial to \u2018Grand Conspiracy\u2019 Case Suggest Testimony Won\u2019t Help",
+      "link": "https://www.nytimes.com/2026/09/24/us/politics/ex-fbi-agents-grand-conspiracy-case.html",
+      "source": "NYT",
+      "timestamp": "2026-09-24T22:02:07+00:00",
+      "score": 12,
+      "summary": "Lawyers for the agents said that their clients would testify about \u201ca properly predicated allegation that then-citizen Trump had unlawfully retained hundreds of highly classified documents.\u201d",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Agents",
+        "Crucial",
+        "Grand",
+        "Conspiracy",
+        "Case",
+        "Suggest",
+        "Testimony",
+        "Wont",
+        "Help"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "White House TV pool in limbo amid high stakes Xi visit",
       "link": "https://thehill.com/homenews/administration/6110575-white-house-press-pool-limbo/",
       "source": "The Hill",
@@ -6680,23 +6719,26 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "MANUU in the thick of sexual harassment controversy, accused of suppressing ICC report, and not implementing recommendations",
-      "link": "https://www.thehindu.com/news/national/telangana/manuu-in-the-thick-of-sexual-harassment-controversy-accused-of-suppressing-icc-report-and-not-implementing-recommendations/article71500998.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-24T08:43:38+05:30",
+      "title": "Microsoft puts Brad Smith in charge of communications",
+      "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+      "source": "Verge",
+      "timestamp": "2026-09-24T18:08:22-04:00",
       "score": 12,
-      "summary": "The university refused to share the copy of the ICC report with the complainant, and the latter\u2019s letters to the Department of Higher Education and the Ministry of Women and Child Development reportedly have not yielded any action",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the company searches for a replacemen...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "ICC"
+        "Brad",
+        "Smith"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6705,15 +6747,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Inside the Network of Anonymous Men Destroying Young Women\u2019s Lives",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side/",
@@ -13234,22 +13274,26 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
-      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-18T23:25:01+00:00",
-      "score": 17,
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Nearly 200 people wrongly identified on Nevada\u2019s voter rolls as non-citizens",
+      "link": "https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error",
+      "source": "Guardian",
+      "timestamp": "2026-09-24T22:06:15+00:00",
+      "score": 15,
+      "summary": "State election officials said they reviewed 185 records homeland security sent them and confirmed they were US citizensThe Department of Homeland Security (DHS) wrongly identified 185 people on Nevada\u2019s voter rolls as non-citizens, state officials said this week, escalating co...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Nevadas"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13259,13 +13303,44 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "Guardian"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Site renowned for helping build Sydney Harbour Bridge in $1b energy showdown",
+      "link": "https://www.abc.net.au/news/2026-09-25/cenagen-kandos-cement-works-energy-waste-dispute/107175614",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-24T22:00:55+00:00",
+      "score": 15,
+      "summary": "The proponents of a $1 billion waste processing facility near Mudgee are preparing for a battle with the NSW government over its energy-from-waste framework, as locals are divided.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sydney",
+        "Harbour",
+        "Bridge"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "G4: UNSC losing its credibility, unable to maintain global peace",
       "link": "https://timesofindia.indiatimes.com/india/g4-unsc-losing-its-credibility-unable-to-maintain-global-peace/articleshow/134470070.cms",
@@ -19848,24 +19923,26 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Australia says OpenAI agent hacked Medicare portal",
-      "link": "https://www.aljazeera.com/news/2026/9/24/australia-says-openai-agent-hacked-medicare-portal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-09-24T02:34:58+00:00",
-      "score": 14,
-      "summary": "Canberra expressed extreme concern to Sam Altman after OpenAI took three months to report the breach.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Newswire",
+      "title": "Trump, Xi to attend state dinner after White House meeting",
+      "link": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-24T22:09:33+00:00",
+      "score": 12,
+      "summary": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "OpenAI",
-        "Medicare"
+        "White",
+        "House"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19876,42 +19953,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Al Jazeera"
+        "CNBC"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Coal mine owners walk away and leave rehabilitation to state",
-      "link": "https://www.abc.net.au/news/2026-09-24/bowen-coking-coal-walks-away-from-bluff-coal-mine-leaving-rehab/107189090",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-24T02:34:10+00:00",
-      "score": 10,
-      "summary": "Liquidators surrender the leases of a central Queensland coal mine, with questions around who will manage and pay for the rehabilitation of the site.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Bargain-seekers flood store, Route 1 as Frugal Fannie\u2019s closing sale begins",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc0w4cHdDMkFTVjN5TFNyZ2gtdW1NdHY1cWlpejlwX1NmWUxJRHFHMUZSbFVoZ3h6MlZlYWYtaEJuenFlTUptMERhd250NWZBNW1PTWFXZG50Zlg4bmRNOEJoSC1RcTI1dFlPT1FPUXI1NzI5aEJaT0FjWG4xU2RVdTRwd1hUSHY2QnluUTBURUpPWkUy?oc=5",
@@ -26481,14 +26527,16 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
-      "link": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
+      "title": "Toxic waste: 'Every person that played in the pool is dead'",
+      "link": "https://www.bbc.co.uk/news/videos/cqkgv3dr5gjeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "timestamp": "2026-09-23T19:10:22+00:00",
-      "score": 12,
-      "summary": "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
+      "timestamp": "2026-09-24T22:10:35+00:00",
+      "score": 10,
+      "summary": "Michael Phillips played at a lagoon as a child, oblivious to the toxic chemicals within.",
       "country": "UK",
       "region": "Europe",
       "source_type": "Broadcaster",
@@ -26497,8 +26545,7 @@
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Boom",
-        "Cycle"
+        "Every"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26507,15 +26554,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
         "BBC"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Ningaloo Reef corals reveal early fall spawning window for two key species",
       "link": "https://phys.org/news/2026-09-ningaloo-reef-corals-reveal-early.html",
@@ -32586,46 +32631,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Judge Dismisses Unusual Climate Suit Claiming Oil Giants Broke Antitrust Law",
-      "link": "https://www.nytimes.com/2026/09/22/climate/michigan-antitrust-lawsuit-oil-companies.html",
-      "source": "NYT",
-      "timestamp": "2026-09-22T20:32:11+00:00",
-      "score": 14,
-      "summary": "The lawsuit, filed by Michigan, claimed oil companies colluded to obstruct solar power and to misrepresent climate risks, making energy costlier.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Dismisses",
-        "Unusual",
-        "Climate",
-        "Suit",
-        "Claiming",
-        "Oil",
-        "Giants",
-        "Broke",
-        "Antitrust",
-        "Law"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33932,6 +33937,161 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Streaming Ratings: \u2018Reacher\u2019 Tops 1 Billion Viewing Minutes for Fifth Straight Week",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/streaming-ratings-sept-7-13-2026-1236709681/",
+      "source": "THR",
+      "timestamp": "2026-09-24T22:13:11+00:00",
+      "score": 17,
+      "summary": "Former TNT series 'Major Crimes' debuts on the Nielsen charts after being added to Netflix.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ratings",
+        "Reacher",
+        "Tops",
+        "Billion",
+        "Viewing",
+        "Minutes",
+        "Fifth",
+        "Straight",
+        "Week"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Stand-Up Comedian Takes Over Weather Forecast On Local L.A. Station",
+      "link": "https://deadline.com/2026/09/jo-koy-comedian-weather-forecast-local-news-1237113237/",
+      "source": "Deadline",
+      "timestamp": "2026-09-24T22:12:36+00:00",
+      "score": 12,
+      "summary": "You can catch comedian Jo Koy\u2019s latest special on Netflix, or you can just catch him on your local newscast. On Thursday, Koy basically took over the morning weather segment on L.A.\u2019s ABC 7 Eyewitness News. \u201cSo we\u2019re looking at Downtown L.A., very easy. What\u2019s going on?\u201d ABC 7...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Comedian",
+        "Takes",
+        "Over",
+        "Weather",
+        "Forecast",
+        "Local",
+        "Station"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "SCAD Savannah Film Fest: Directors of 10 of 2026\u2019s Top Documentaries Set for \u2018Docs to Watch\u2019 Panel (Exclusive)",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/scad-savannah-film-fest-2026-docs-to-watch-panel-1236705876/",
+      "source": "THR",
+      "timestamp": "2026-09-24T22:07:03+00:00",
+      "score": 15,
+      "summary": "'American Doctor,' 'Avedon,' 'Cookie Queens,' 'Everest: The Other Side,' 'The Last First: Winter K2,' 'My Undesirable Friends: Part II \u2013 Exile,' 'Once Upon a Time in Harlem,' 'One in a Million,' 'The Trial of Alec Baldwin' and 'You Can See Everything' will be represented at th...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Savannah",
+        "Film",
+        "Fest",
+        "Directors",
+        "Top",
+        "Documentaries",
+        "Set",
+        "Docs",
+        "Watch",
+        "Panel",
+        "Exclusive"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Backers of U.S. Film Incentive See Window to Pass Bill This Year",
+      "link": "https://variety.com/2026/film/news/film-incentive-window-pass-supporters-1236875089/",
+      "source": "Variety",
+      "timestamp": "2026-09-24T22:03:28+00:00",
+      "score": 12,
+      "summary": "Supporters of a federal film incentive are preparing an all-out push to pass the legislation by the end of the year, looking to take advantage of momentum before Congress potentially changes hands next term. A bipartisan group of senators and representatives unveiled the bill ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Film",
+        "Incentive",
+        "See",
+        "Window",
+        "Pass",
+        "Bill",
+        "This",
+        "Year"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018The Musical\u2019 Star Will Brill on His Dark, Surprisingly Delightful 9/11 Revenge Comedy",
       "link": "https://variety.com/2026/film/news/will-brill-the-musical-revenge-911-1236873720/",
@@ -41844,166 +42004,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Dynamic Duo\u2019 & Untitled \u2018Gremlins\u2019 Head To Fall 2028: Warner Bros Release Date Changes",
-      "link": "https://deadline.com/2026/09/dynamic-duo-gremlins-release-dates-1237111978/",
-      "source": "Deadline",
-      "timestamp": "2026-09-23T22:47:37+00:00",
-      "score": 15,
-      "summary": "Warner Bros has made some release date changes, unrelated to its pending marriage with Paramount. The DC Robins-origin puppet meets animation feature, Dynamic Duo, is moving from June 30, 2028 to Sept. 22, 2028. The reason being is because Warner Bros distribution believes thi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Duo",
-        "Untitled",
-        "Gremlins",
-        "Head",
-        "Fall",
-        "Warner",
-        "Bros",
-        "Release",
-        "Date",
-        "Changes"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Barry Diller Drops $18 Billion MGM Resorts Takeover Plan",
-      "link": "https://www.hollywoodreporter.com/business/business-news/barry-diller-drops-18-billion-mgm-resorts-takeover-plan-1236708925/",
-      "source": "THR",
-      "timestamp": "2026-09-23T22:43:16+00:00",
-      "score": 15,
-      "summary": "The mogul's People Inc had proposed to buy all shares in the Las Vegas casino giant that it didn't currently own.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Diller",
-        "Drops",
-        "Billion",
-        "MGM",
-        "Resorts",
-        "Takeover",
-        "Plan"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Inside the Legal Battle Surrounding Dolly Parton's Nephew Bryan Seaver",
-      "link": "https://www.eonline.com/news/1436373/dolly-partons-nephew-bryan-seaver-legal-battle-explained?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-09-23T22:37:42+00:00",
-      "score": 12,
-      "summary": "It looks like this drama could last longer than 9 to 5. Bryan Seaver, the nephew of the late Dolly Parton, was hit with a lawsuit and restraining order on Sept. 22 after he was fired from his...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Legal",
-        "Battle",
-        "Surrounding",
-        "Dolly",
-        "Partons",
-        "Nephew",
-        "Bryan",
-        "Seaver"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Monster: The Lizzie Borden Story\u2019 Finale Director Explains That Imagined Ending and Why Sarah Paulson Made Him Cry",
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/monster-the-lizzie-borden-story-finale-paulson-wuornos-1236708808/",
-      "source": "THR",
-      "timestamp": "2026-09-23T22:31:49+00:00",
-      "score": 14,
-      "summary": "Max Winkler, who helmed six episodes of season four, also dives into filming the \"viscerally upsetting\" axe murders of Borden's parents (played by Charlie Hunnam and Rebecca Hall) in the Netflix recreation.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lizzie",
-        "Borden",
-        "Story",
-        "Finale",
-        "Director",
-        "Explains",
-        "That",
-        "Imagined",
-        "Ending",
-        "Why",
-        "Sarah",
-        "Paulson",
-        "Made",
-        "Him",
-        "Cry"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49329,6 +49329,104 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 2.3 - 70 km SSE of Kokhanok, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026szaebw",
+      "source": "USGS",
+      "timestamp": "2026-09-24T22:14:28.654000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-24 22:09:56 UTC2026-09-24 22:09:56 UTC at epicenterLocation58.835\u00b0N 154.429\u00b0WDepth120.30 km (74.75 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Kokhanok",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.1 - 10 km ESE of Aguanga, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338719",
+      "source": "USGS",
+      "timestamp": "2026-09-24T22:08:36.583000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-24 22:05:13 UTC2026-09-24 22:05:13 UTC at epicenterLocation33.407\u00b0N 116.769\u00b0WDepth23.82 km (14.80 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Aguanga"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 3.0 - 6 km ENE of Superior, Wyoming",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80157946",
+      "source": "USGS",
+      "timestamp": "2026-09-24T22:04:37.030000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-24 21:34:17 UTC2026-09-24 21:34:17 UTC at epicenterLocation41.789\u00b0N 108.909\u00b0WDepth13.05 km (8.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Superior",
+        "Wyoming"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 2.7 - 6 km SW of Gu\u00e1nica, Puerto Rico",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71534443",
       "source": "USGS",
@@ -55774,103 +55872,6 @@
         "GDACS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.0 - 140 km NNE of Ba, Fiji",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx58",
-      "source": "USGS",
-      "timestamp": "2026-09-23T18:38:45.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-23 17:46:06 UTC2026-09-23 17:46:06 UTC at epicenterLocation16.307\u00b0S 178.019\u00b0EDepth10.00 km (6.21 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Fiji"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 5 km ESE of Interlaken, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440427",
-      "source": "USGS",
-      "timestamp": "2026-09-23T18:38:34.430000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-23 18:37:00 UTC2026-09-23 18:37:00 UTC at epicenterLocation36.931\u00b0N 121.686\u00b0WDepth12.13 km (7.54 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Interlaken"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 79 km SSE of Central, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026swxatz",
-      "source": "USGS",
-      "timestamp": "2026-09-23T18:37:41.649000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-23 18:36:36 UTC2026-09-23 18:36:36 UTC at epicenterLocation64.880\u00b0N 144.431\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Central",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
