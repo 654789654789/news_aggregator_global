@@ -13266,6 +13266,35 @@
   ],
   "World": [
     {
+      "title": "Father rejects coroner's conclusion on newborn son's death",
+      "link": "https://www.abc.net.au/news/2026-09-25/hugo-mcgregor-mackay-base-hospital-coronial-inquest-findings/107197162",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-25T08:17:22+00:00",
+      "score": 10,
+      "summary": "A Queensland father says he will seek to have the findings of an inquest into his five-day-old son's death set aside.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "'Evil' Catholic priest who sexually abused girls in foster care jailed",
       "link": "https://www.abc.net.au/news/2026-09-25/robert-hickman-priest-sexual-abuse-perth-girls-jail/107192978",
       "source": "ABC Australia",
@@ -19872,49 +19901,43 @@
       ],
       "trend_accel": "+58%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Saudi Arabia Downs Houthi Missiles Targeting Kingdom, Officials Say",
-      "link": "https://www.nytimes.com/2026/09/24/world/middleeast/saudi-arabia-houthi-missile-attack-yemen-war.html",
-      "source": "NYT",
-      "timestamp": "2026-09-24T13:51:28+00:00",
+      "title": "Russia could attack a NATO country within months, Danish intelligence warns",
+      "link": "https://www.cnbc.com/2026/09/25/russia-ukraine-war-nato-denmark-putin.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-25T08:26:07+00:00",
       "score": 12,
-      "summary": "The Iran-backed militia in Yemen fired six ballistic missiles at cities deep in Saudi Arabia, the authorities said, in what appeared to be a sharp escalation in fighting between the two sides.",
-      "country": "Saudi Arabia",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "summary": "The new threat assessment joins a growing chorus of Russia warnings from top European security officials and lawmakers in recent days.",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [
-        "Military"
+        "Geopolitics"
       ],
       "entities": [
-        "Arabia",
-        "Downs",
-        "Houthi",
-        "Missiles",
-        "Targeting",
-        "Kingdom",
-        "Officials",
-        "Say"
+        "NATO",
+        "Danish"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "NYT"
+        "CNBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "U.S. Treasury yields tick higher as global bond rout slows",
       "link": "https://www.cnbc.com/2026/09/25/treasury-yields-bonds-debt.html",
@@ -26517,24 +26540,27 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
-      "link": "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-24T01:16:34+00:00",
-      "score": 15,
-      "summary": "Shipping giant UPS was sending a cockpit canopy and weapons bay door to the U.S. from Australia in late May when it was diverted to Hong Kong.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
+      "title": "BrainyBotz STEM Challenge 2026: Young innovators to design cooler homes",
+      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/brainybotz-stem-challenge-2026-young-innovators-to-design-cooler-homes/article71475640.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-25T13:47:20+05:30",
+      "score": 17,
+      "summary": "BrainyBotz\u2019s STEM Innovation Challenge 2026 asks young innovators to find affordable, locally buildable ways to keep homes cool",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Hong",
-        "Kong"
+        "STEM",
+        "Challenge",
+        "Young"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26543,15 +26569,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "The Hindu"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Bacteria suspected in deaths of hundreds of baby whales off Argentina",
       "link": "https://phys.org/news/2026-09-bacteria-deaths-hundreds-baby-whales.html",
@@ -31331,7 +31355,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.3,
+      "trend_score": 7.2,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -32622,35 +32646,6 @@
         "Phys.org"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Analysis finds socioeconomic and health factors drive most disability approval disparities",
-      "link": "https://phys.org/news/2026-09-analysis-socioeconomic-health-factors-disability.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-23T03:10:04-04:00",
-      "score": 10,
-      "summary": "A study in Contemporary Economic Policy examined whether racial and ethnic differences in U.S. disability insurance approval rates reflect disparities in the determination process or broader differences in applicants' circumstances.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ],
@@ -49354,6 +49349,38 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 1.7 - 16 km NNW of Redway, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441467",
+      "source": "USGS",
+      "timestamp": "2026-09-25T08:27:53.395000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-25 08:26:18 UTC2026-09-25 08:26:18 UTC at epicenterLocation40.264\u00b0N 123.865\u00b0WDepth28.32 km (17.60 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Redway"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.1 - 6 km WSW of Brawley, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41338855",
       "source": "USGS",
@@ -55871,38 +55898,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.4 - 12 km WSW of Chester, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75440672",
-      "source": "USGS",
-      "timestamp": "2026-09-24T03:52:23.757000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-24 03:44:47 UTC2026-09-24 03:44:47 UTC at epicenterLocation40.279\u00b0N 121.364\u00b0WDepth8.58 km (5.33 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Chester"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ]
