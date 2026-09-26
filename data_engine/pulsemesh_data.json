@@ -1,6 +1,43 @@
 {
   "Politics": [
     {
+      "title": "Trump Proposes $810 Million in Education and Health Cuts, Defying Congress",
+      "link": "https://www.nytimes.com/2026/09/25/us/politics/white-house-rescissions-education-and-health-funds.html",
+      "source": "NYT",
+      "timestamp": "2026-09-26T01:05:34+00:00",
+      "score": 15,
+      "summary": "The attempted clawback represents the second time in as many years that the White House has sought to cancel funding approved by lawmakers.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Proposes",
+        "Million",
+        "Education",
+        "Health",
+        "Cuts",
+        "Defying",
+        "Congress"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "TikTok settles for over $100 million in mental health lawsuit, Alabama AG says",
       "link": "https://thehill.com/regulation/court-battles/6112693-tiktok-alabama-lawsuit-settlement/",
       "source": "The Hill",
@@ -6696,41 +6733,45 @@
       ],
       "trend_accel": "+56%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Inquiry into allegations of BJP trying to file bulk objections against eligible voters in Belagavi district",
-      "link": "https://www.thehindu.com/news/national/karnataka/dc-orders-inquiry-into-allegations-against-bjp-trying-to-file-bulk-objections-against-eligible-voters/article71504785.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-25T12:49:19+05:30",
-      "score": 14,
-      "summary": "The Deputy Commissioner said that, as per the ECI rules, there is nothing wrong in anyone filing objections against any inclusion, during the period of review",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "At Meta Connect, the company\u2019s smart glasses were everywhere",
+      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-26T01:08:57+00:00",
+      "score": 12,
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "BJP",
-        "Belagavi"
+        "Meta",
+        "Connect"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 8.3,
+      "source_count": 15,
       "sources_reporting": [
-        "The Hindu"
+        "Bloomberg",
+        "Guardian",
+        "Reuters",
+        "TechCrunch",
+        "Verge"
       ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+      "trend_accel": "+74%",
+      "heat_level": "SURGING"
+    },
     {
       "title": "Quince Luggage Is Affordable but Doesn\u2019t Feel Cheap (2026)",
       "link": "https://www.wired.com/story/quince-wants-to-be-your-new-away-luggage/",
@@ -7753,8 +7794,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -9687,14 +9728,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 9.6,
+      "source_count": 16,
       "sources_reporting": [
-        "Verge"
+        "AP",
+        "NHK",
+        "PBS",
+        "TechCrunch",
+        "Verge",
+        "Wired"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
+      "trend_accel": "+80%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
@@ -10656,8 +10702,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 7.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -13265,37 +13311,6 @@
         "Wired"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-21T16:38:51+00:00",
-      "score": 14,
-      "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients\u2019 paperwork as it gives them up-to-the-minute data on their business\u2019s profit and loss.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tabby"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -17763,7 +17778,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.7,
+      "trend_score": 10.6,
       "source_count": 19,
       "sources_reporting": [
         "AP",
@@ -33900,6 +33915,91 @@
   ],
   "Entertainment": [
     {
+      "title": "Kim Kardashian, Lewis Hamilton Share Steamy Kiss in Romantic Paris Pic",
+      "link": "https://www.eonline.com/news/1436475/kim-kardashian-lewis-hamilton-kiss-in-paris-vacation-photos?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-09-26T01:12:16+00:00",
+      "score": 12,
+      "summary": "Kim Kardashian and Lewis Hamilton aren't keeping their hands to themselves. The Kardashians star and the Formula One driver weren't afraid to put on some PDA during their recent getaway to Europe,...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kardashian",
+        "Lewis",
+        "Hamilton",
+        "Share",
+        "Steamy",
+        "Kiss",
+        "Romantic",
+        "Paris",
+        "Pic"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Love Hypothesis\u2019 Director Claire Scanlon Breaks Down the Biggest \u2018Star Wars\u2019 Easter Eggs, From Gracie Abrams\u2019 Song to Color-Coded Wardrobes",
+      "link": "https://variety.com/2026/film/features/the-love-hypothesis-star-wars-easter-eggs-1236875151/",
+      "source": "Variety",
+      "timestamp": "2026-09-26T01:09:17+00:00",
+      "score": 14,
+      "summary": "\u201cStar Wars\u201d has featured iconic locations throughout the franchise, taking audiences to Tatooine, Naboo and now, a campus biology lab at Stanford University. The romantic comedy \u201cLove Hypothesis\u201d premiered on Amazon Prime on Sept. 23, featuring Lili Reinhart and Tom Bateman as...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hypothesis",
+        "Director",
+        "Claire",
+        "Scanlon",
+        "Breaks",
+        "Down",
+        "Biggest",
+        "Star",
+        "Wars",
+        "Easter",
+        "Eggs",
+        "Gracie",
+        "Abrams",
+        "Song",
+        "ColorCoded",
+        "Wardrobes"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Ovrkast Speaks Out Against Outkast\u2019s Lawsuit, Says He Never Intended to \u2018Confuse Fans\u2019",
       "link": "https://www.rollingstone.com/music/music-news/outkast-ovrkast-speaks-out-trademark-infringement-lawsuit-1235632244/",
       "source": "Rolling Stone",
@@ -41940,71 +42040,26 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "Madonna and Charli XCX Are Forever Club Kids on Reworked \u2018Danceteria\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/madonna-charli-xcx-danceteria-afterhours-1235631551/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-09-25T00:16:28+00:00",
+      "title": "Singaporean collector Peter Lee on checks, chintz and multicultural ports",
+      "link": "https://www.thehindu.com/life-and-style/fashion/peter-lee-peranakan-chinese-singaporean-collector-baba-house-curator-chettinad-indian-textiles/article71498597.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-26T06:42:14+05:30",
       "score": 12,
-      "summary": "\"Danceteria Afterhours\" is a nonstop guided tour through nightclub lore",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
+      "summary": "Peter Lee talks about his favourite Indian textiles and how culture is shaped by trade routes",
+      "country": "Singapore",
+      "region": "Southeast Asia",
+      "source_type": "Newspaper",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Charli",
-        "XCX",
-        "Are",
-        "Forever",
-        "Club",
-        "Kids",
-        "Reworked",
-        "Danceteria"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Lili Reinhart Says Hollywood Is \u201cToo Afraid To Make\u201d Her Lesbian Vampire Book Adaptation",
-      "link": "https://deadline.com/2026/09/lili-reinhart-hollywood-afraid-lesbian-vampire-book-adaptation-1237113232/",
-      "source": "Deadline",
-      "timestamp": "2026-09-25T00:00:00+00:00",
-      "score": 14,
-      "summary": "As Lili Reinhart celebrates her role in The Love Hypothesis, she\u2019s ready to sink her teeth into another romantic book adaptation. Without revealing the title, the actress recently teased that she\u2019s trying to adapt a novella \u201cabout lesbian vampires\u201d but is having trouble findin...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Reinhart",
-        "Says",
-        "Hollywood",
-        "Too",
-        "Afraid",
-        "Make",
-        "Her",
-        "Lesbian",
-        "Vampire",
-        "Book",
-        "Adaptation"
+        "Peter",
+        "Lee"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -42015,13 +42070,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Deadline"
+        "The Hindu"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
+    },
     {
       "title": "The Best Korean Skin-Care Products People Actually Buy",
       "link": "https://www.vogue.com/article/korean-skin-care-products",
@@ -43535,7 +43588,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.3,
+      "trend_score": 10.2,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -49312,39 +49365,6 @@
         "Vogue"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Fact, fiction and flying objects: This new docufiction journeys across prehistory, colonial records and UFO encounters in Pavagada",
-      "link": "https://www.thehindu.com/entertainment/fact-fiction-and-flying-objects-this-new-docufiction-journeys-across-prehistory-colonial-records-and-ufo-encounters-in-pavagada/article71483457.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-19T15:43:23+05:30",
-      "score": 12,
-      "summary": "Bengaluru-based economist and documentary filmmaker Sashi Sivramkrishna\u2019s latest docufiction, The Incidents at Pawgur, 1830, blends fictional characters and stories with real history",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "This",
-        "UFO",
-        "Pavagada"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
