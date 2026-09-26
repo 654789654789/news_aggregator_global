@@ -1102,7 +1102,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.0,
+      "trend_score": 10.9,
       "source_count": 20,
       "sources_reporting": [
         "BBC",
@@ -1113,7 +1113,7 @@
         "PBS",
         "The Hill"
       ],
-      "trend_accel": "+83%",
+      "trend_accel": "+82%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13289,6 +13289,69 @@
   ],
   "World": [
     {
+      "title": "Major storm in US north-east knocks out power for 100,000 and floods roads",
+      "link": "https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us",
+      "source": "Guardian",
+      "timestamp": "2026-09-26T20:34:42+00:00",
+      "score": 15,
+      "summary": "Residents across New Jersey, Massachusetts, Delaware and New York without electricity as storm hitsA slow-moving, powerful storm known as a nor\u2019easter crept along the coast of the US north-east on Saturday, producing high winds that knocked out electricity to thousands of peop...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "China, US agree to AI dialogue, $42b in tariff cuts during state visit",
+      "link": "https://www.abc.net.au/news/2026-09-27/president-donald-trump-xi-jinping-washington-summit-tariffs-ai/107200436",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-26T20:33:49+00:00",
+      "score": 17,
+      "summary": "The tariff reductions are set to apply to US exports such as agricultural goods, wood and cosmetics, as well as US imports including small appliances, toys, decorations.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 9,
+      "sources_reporting": [
+        "ABC Australia",
+        "Google News"
+      ],
+      "trend_accel": "+65%",
+      "heat_level": "HOT"
+    },
+    {
       "title": "PM Modi gave energy access to more than anyone in history: Aus PM",
       "link": "https://timesofindia.indiatimes.com/india/pm-modi-gave-energy-access-to-more-than-anyone-in-history-aus-pm/articleshow/134510026.cms",
       "source": "Times of India",
@@ -14206,7 +14269,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.6,
+      "trend_score": 11.5,
       "source_count": 16,
       "sources_reporting": [
         "ABC Australia",
@@ -14218,7 +14281,7 @@
         "Reuters",
         "The Hindu"
       ],
-      "trend_accel": "+87%",
+      "trend_accel": "+86%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19775,22 +19838,26 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Alberta\u2019s \u2018rat patrol\u2019 ramps up operations as vermin makes inroads in province",
-      "link": "https://www.theguardian.com/world/2026/sep/25/alberta-canada-rat-patrol",
-      "source": "Guardian",
-      "timestamp": "2026-09-25T16:34:05+00:00",
-      "score": 10,
-      "summary": "\u2018Rat-free\u2019 Canadian province recently took a verminous hit when a dead rodent turned up in town of BowdenFor more than seven decades, residents of Alberta have shared something in common with Antarctica and the high Arctic: all locations are officially free of rats.But on Thur...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
+      "link": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-26T20:30:58+00:00",
+      "score": 15,
+      "summary": "Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Max"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19800,46 +19867,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Guardian"
+        "CNBC"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Chess Olympiad R9: Gukesh channels his world champion self to keep India in gold hunt",
-      "link": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-9-d-gukesh-channels-his-world-champion-self-overturns-almost-lost-game-to-keep-india-in-gold-hunt/articleshow/134489331.cms",
-      "source": "Times of India",
-      "timestamp": "2026-09-25T22:02:38+05:30",
-      "score": 15,
-      "summary": "D Gukesh produced a crucial comeback win over Germany\u2019s Alexander Donchenko in Round 9, helping India stay in the Chess Olympiad gold medal race. India\u2019s men beat Germany 2.5-1.5, while Vantika Agrawal and Divya Deshmukh powered the women\u2019s team to victory. India\u2019s men trail U...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Olympiad",
-        "Gukesh",
-        "India"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+42%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Hurricane Nolo expected to unleash powerful winds, flash flooding on Hawaii",
       "link": "https://www.cnbc.com/2026/09/26/hurricane-nolo-to-unleash-powerful-winds-flash-flooding-on-hawaii.html",
@@ -26433,42 +26465,6 @@
         "CNBC"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump Struggles to Find Leverage With Xi Over Chinese Exports",
-      "link": "https://www.nytimes.com/2026/09/24/business/trump-xi-china-exports.html",
-      "source": "NYT",
-      "timestamp": "2026-09-24T16:37:45+00:00",
-      "score": 12,
-      "summary": "The Trump administration, like its predecessors, has struggled to deal with China\u2019s excess industrial capacity.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Struggles",
-        "Find",
-        "Leverage",
-        "Over",
-        "Chinese",
-        "Exports"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -34159,6 +34155,175 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Israeli Americans Protest \u2018NAZA\u2019 by Screening October 7 Footage Outside New York Premiere: \u2018Compassion For Palestinian Civilians Doesn\u2019t Require Us to Erase October 7\u2019",
+      "link": "https://variety.com/2026/film/news/naza-protests-anti-israel-nyff-oct-7-1236876471/",
+      "source": "Variety",
+      "timestamp": "2026-09-26T20:44:47+00:00",
+      "score": 15,
+      "summary": "The Israeli-American Council organized a protest Saturday afternoon outside the New York Film Festival premiere of \u201cNAZA,\u201d which the organization has described as an \u201canti-Israel\u201d film that \u201cmakes serious allegations about the IDF\u2019s conduct in the Gaza Strip while ignoring fin...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Americans",
+        "Protest",
+        "NAZA",
+        "Screening",
+        "October",
+        "Footage",
+        "Outside",
+        "New",
+        "York",
+        "Premiere",
+        "Compassion",
+        "Palestinian",
+        "Civilians",
+        "Doesnt",
+        "Require",
+        "Erase"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "San Sebasti\u00e1n: Mike Leigh\u2019s \u2018Tender Loving Care\u2019 Wins Golden Shell & Best Screenplay",
+      "link": "https://deadline.com/2026/09/san-sebastian-mike-leigh-tender-loving-care-golden-shell-1237114543/",
+      "source": "Deadline",
+      "timestamp": "2026-09-26T20:43:35+00:00",
+      "score": 12,
+      "summary": "Mike Leigh\u2019s latest and potential last feature, Tender Loving Care, has won the San Sebasti\u00e1n Film Festival\u2019s top prize, the Golden Shell, alongside the award for Best Screenplay. Scroll down for the full list of winners. Leigh\u2019s Tender Loving Care also won the Silver Shell fo...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sebastin",
+        "Mike",
+        "Leighs",
+        "Tender",
+        "Loving",
+        "Care",
+        "Wins",
+        "Golden",
+        "Shell",
+        "Best",
+        "Screenplay"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Jalen Brunson and KATSEYE Are Kicking Off \u2018SNL\u2019 Season 52: Where to Watch the Premiere Online",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-jalen-brunson-host-snl-season-52-premiere-free-katseye-1236712478/",
+      "source": "THR",
+      "timestamp": "2026-09-26T20:43:16+00:00",
+      "score": 15,
+      "summary": "Both the Knicks star and girl group are set for their 'Saturday Night Live' debuts, the former as host and the latter as premiere week's musical guest.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Brunson",
+        "KATSEYE",
+        "Are",
+        "Kicking",
+        "Off",
+        "SNL",
+        "Season",
+        "Where",
+        "Watch",
+        "Premiere",
+        "Online"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Evil Dead Burn\u2019 Gets HBO Max Exclusive Streaming Premiere Date",
+      "link": "https://deadline.com/2026/09/evil-dead-burn-hbo-max-date-1237114538/",
+      "source": "Deadline",
+      "timestamp": "2026-09-26T20:36:21+00:00",
+      "score": 12,
+      "summary": "Evil Dead Burn, S\u00e9bastien Vani\u010dek latest contribution to the long-running Evil Dead franchise, will make its global streaming debut exclusively on HBO Max on Friday, October 2. The New Line Cinema/Warner Bros. Pictures chiller will debut on HBO linear on Saturday, October 3, a...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dead",
+        "Burn",
+        "Gets",
+        "HBO",
+        "Max",
+        "Exclusive",
+        "Streaming",
+        "Premiere",
+        "Date"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Marine Atlan\u2019s French Oscar Hopeful \u2018La Gradiva\u2019 Takes Top Prizes at 30th Queer Lisboa \u2013 the Biggest Edition to Date",
       "link": "https://variety.com/2026/film/global/marine-atlan-la-gradiva-queer-lisboa-1236876394/",
@@ -42105,171 +42270,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Tim Blake Nelson\u2019s \u2018The Life and Deaths of Wilson Shedd,\u2019 Jesse Eisenberg\u2019s \u2018The Debut\u2019 Among Rome Film Festival Standout Titles",
-      "link": "https://variety.com/2026/film/festivals/tim-blake-nelson-wilson-shedd-jesse-eisenbergs-the-debut-1236875474/",
-      "source": "Variety",
-      "timestamp": "2026-09-25T13:21:55+00:00",
-      "score": 12,
-      "summary": "Tim Blake Nelson\u2019s prison saga \u201cThe Life and Deaths of Wilson Shedd,\u201d Diego Luna\u2019s migration drama \u201cAshes,\u201d Boots Riley\u2019s anticapitalist satire \u201cI Love Boosters,\u201d and Jesse Eisenberg\u2019s latest film \u201cThe Debut\u201d are among standout international titles that will launch into Italy ...",
-      "country": "Italy",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Blake",
-        "Nelsons",
-        "Life",
-        "Deaths",
-        "Wilson",
-        "Shedd",
-        "Jesse",
-        "Eisenbergs",
-        "Debut",
-        "Among",
-        "Rome",
-        "Film",
-        "Festival",
-        "Standout",
-        "Titles"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "International Disruptors: Reta Guetg On Building Zurich Film Festival\u2019s \u201cTrendy\u201d Identity & Why New Owners Want To Keep It Small, Nimble & Close To Hollywood",
-      "link": "https://deadline.com/2026/09/reta-guetg-zurich-film-festival-zurich-summit-1237111093/",
-      "source": "Deadline",
-      "timestamp": "2026-09-25T13:12:16+00:00",
-      "score": 12,
-      "summary": "Welcome to Deadline\u2019s International Disruptors, a feature where we shine a spotlight on key executives and companies outside of the U.S. shaking up the offshore marketplace. This week we\u2019re talking to Zurich Film Festival Director & Co-Owner Reta Guetg about this year\u2019s editio...",
-      "country": "Switzerland",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Disruptors",
-        "Reta",
-        "Guetg",
-        "Building",
-        "Zurich",
-        "Film",
-        "Festivals",
-        "Trendy",
-        "Identity",
-        "Why",
-        "New",
-        "Owners",
-        "Want",
-        "Keep",
-        "Small",
-        "Nimble",
-        "Close",
-        "Hollywood"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "LISTEN: The Delicate Art of Releasing a Hit Streaming Series",
-      "link": "https://variety.com/2026/tv/news/strictly-business-luminate-wallenstein-streaming-series-1236875398/",
-      "source": "Variety",
-      "timestamp": "2026-09-25T13:01:00+00:00",
-      "score": 12,
-      "summary": "If you\u2019re a streaming service lucky enough to have a hit series on your hands, congratulations \u2014 now the hard part begins. Keeping that series on the air, let alone growing its audience over time, can be a daunting task. But there are data patterns worth taking note of that ca...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Delicate",
-        "Art",
-        "Releasing",
-        "Hit",
-        "Streaming",
-        "Series"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "NASA Astronaut Victor Glover Signs With CAA (Exclusive)",
-      "link": "https://www.hollywoodreporter.com/business/business-news/nasa-astronaut-victor-glover-caa-1236709704/",
-      "source": "THR",
-      "timestamp": "2026-09-25T12:23:56+00:00",
-      "score": 12,
-      "summary": "The veteran space explorer in spring 2026 piloted the Artemis II mission around the moon, and has now stepped back from active space exploration as he joins Cal Poly.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Astronaut",
-        "Victor",
-        "Glover",
-        "Signs",
-        "CAA",
-        "Exclusive"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49577,6 +49577,111 @@
   ],
   "CrisisWatch": [
     {
+      "title": "Tropical Depression Fay Forecast Discussion Number 27",
+      "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/262038.shtml",
+      "source": "NHC",
+      "timestamp": "2026-09-26T20:38:55+00:00",
+      "score": 15,
+      "summary": "Issued at 900 PM GMT Sat Sep 26 2026 000 WTNT41 KNHC 262038 TCDAT1 Tropical Depression Fay Discussion Number 27 NWS National Hurricane Center Miami FL AL062026 900 PM GMT Sat Sep 26 2026 The convection around Fay has been mostly stripped away by the wind shear and the dry air ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Depression",
+        "Fay",
+        "Forecast",
+        "Discussion",
+        "Number"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NHC"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Tropical Depression Fay Public Advisory Number 27",
+      "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/262037.shtml",
+      "source": "NHC",
+      "timestamp": "2026-09-26T20:37:58+00:00",
+      "score": 15,
+      "summary": "Issued at 900 PM GMT Sat Sep 26 2026 748 WTNT31 KNHC 262037 TCPAT1 BULLETIN Tropical Depression Fay Advisory Number 27 NWS National Hurricane Center Miami FL AL062026 900 PM GMT Sat Sep 26 2026 ...FAY SLOWLY MOVING SOUTHWARD... SUMMARY OF 900 PM GMT...2100 UTC...INFORMATION --...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Depression",
+        "Fay",
+        "Public",
+        "Advisory",
+        "Number"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NHC"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Tropical Depression Fay Forecast Advisory Number 27",
+      "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/262037.shtml",
+      "source": "NHC",
+      "timestamp": "2026-09-26T20:37:28+00:00",
+      "score": 15,
+      "summary": "Issued at 2100 UTC SAT SEP 26 2026 886 WTNT21 KNHC 262037 TCMAT1 TROPICAL DEPRESSION FAY FORECAST/ADVISORY NUMBER 27 NWS NATIONAL HURRICANE CENTER MIAMI FL AL062026 2100 UTC SAT SEP 26 2026 TROPICAL DEPRESSION CENTER LOCATED NEAR 29.8N 43.9W AT 26/2100Z POSITION ACCURATE WITHI...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Depression",
+        "Fay",
+        "Forecast",
+        "Advisory",
+        "Number"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NHC"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 2.6 - 17 km NE of P\u0101hala, Hawaii",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txux",
       "source": "USGS",
@@ -56050,101 +56155,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.2 - 62 km SW of San Antonio, Chile",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txme",
-      "source": "USGS",
-      "timestamp": "2026-09-25T15:52:41.736000+00:00",
-      "score": 15,
-      "summary": "DYFI? - IVTime2026-09-25 15:29:09 UTC2026-09-25 15:29:09 UTC at epicenterLocation33.966\u00b0S 72.108\u00b0WDepth29.07 km (18.06 mi)",
-      "country": "Chile",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "San",
-        "Antonio",
-        "Chile"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.4 - 1 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441652",
-      "source": "USGS",
-      "timestamp": "2026-09-25T15:41:20.667000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-25 15:39:44 UTC2026-09-25 15:39:44 UTC at epicenterLocation38.788\u00b0N 122.767\u00b0WDepth3.16 km (1.96 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+62%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.4 - 10 km NW of Parkfield, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75441642",
-      "source": "USGS",
-      "timestamp": "2026-09-25T15:27:05.564000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-25 15:25:30 UTC2026-09-25 15:25:30 UTC at epicenterLocation35.962\u00b0N 120.508\u00b0WDepth1.29 km (0.80 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Parkfield"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
