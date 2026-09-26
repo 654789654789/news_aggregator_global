@@ -732,7 +732,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.1,
+      "trend_score": 11.0,
       "source_count": 16,
       "sources_reporting": [
         "Bloomberg",
@@ -13289,6 +13289,38 @@
   ],
   "World": [
     {
+      "title": "Election panel backs Form 6 for SIR, says SC upheld its use",
+      "link": "https://timesofindia.indiatimes.com/india/new-form-6-enrolments-where-no-sir-is-under-way-wont-need-mapping/articleshow/134510074.cms",
+      "source": "Times of India",
+      "timestamp": "2026-09-27T02:21:19+05:30",
+      "score": 17,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Form",
+        "SIR"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Major storm in US north-east knocks out power for 100,000 and floods roads",
       "link": "https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us",
       "source": "Guardian",
@@ -19807,24 +19839,24 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Supreme Court revives controversial US data system for citizenship checks",
-      "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "title": "The ecstasy of buying our first home was short-lived after we found 150 faults",
+      "link": "https://www.bbc.co.uk/news/articles/c2dyxg0zkpko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "timestamp": "2026-09-25T16:35:01+00:00",
-      "score": 12,
-      "summary": "The system uses citizenship information and other sensitive data to filter alleged non-citizen voting.",
-      "country": "US",
-      "region": "Americas",
+      "timestamp": "2026-09-26T20:52:15+00:00",
+      "score": 13,
+      "summary": "Getting the keys to a new home felt like a dream come true, until this couple found 150 faults.",
+      "country": "UK",
+      "region": "Europe",
       "source_type": "Broadcaster",
       "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Court"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19836,11 +19868,42 @@
       "sources_reporting": [
         "BBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Trump says he approved new fuel economy standards rolling back Biden-era rules",
+      "link": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-26T20:50:06+00:00",
+      "score": 14,
+      "summary": "The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Bidenera"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
       "link": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
@@ -26397,59 +26460,21 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "The \u2018Monster\u2019 Behind Russia\u2019s Global Effort to Evade Western Sanctions",
-      "link": "https://www.nytimes.com/2026/09/24/business/russia-sanctions-evasion-a7.html",
-      "source": "NYT",
-      "timestamp": "2026-09-24T16:49:23+00:00",
-      "score": 12,
-      "summary": "A Moscow firm uses shell companies and cryptocurrency to launder money, and a custom app to forge trade records, to help Russia bypass sweeping financial restrictions.",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Monster",
-        "Behind",
-        "Russias",
-        "Global",
-        "Effort",
-        "Evade",
-        "Western",
-        "Sanctions"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Oracle sends 'force majeure' notice about data center project \u2014 stock sinks 4%",
-      "link": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-24T16:48:38+00:00",
-      "score": 15,
-      "summary": "Oracle is reportedly looking to delay payment on Project Jupiter if it the data center fails to come online in 2028",
+      "title": "Black hole jets reach far beyond galaxies' visible edges, potentially deciding their fate",
+      "link": "https://phys.org/news/2026-09-black-hole-jets-galaxies-visible.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-26T17:00:01-04:00",
+      "score": 10,
+      "summary": "Galaxies are enormous and hold hundreds of billions of stars. These stars form from cold, dense gas. Every large galaxy, including the Milky Way, is wrapped in a huge envelope of gas called the circumgalactic medium, or CGM. This reservoir of raw material stretches 10\u201320 times...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26460,15 +26485,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+54%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Pumpkin-derived enzyme weakens peanut proteins' binding to allergy antibodies in lab tests",
       "link": "https://phys.org/news/2026-09-pumpkin-derived-enzyme-weakens-peanut.html",
@@ -32616,37 +32639,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Combined satellite views offer clues to magma movement beneath Ethiopia's volcanoes",
-      "link": "https://phys.org/news/2026-09-combined-satellite-views-clues-magma.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-23T19:00:01-04:00",
-      "score": 12,
-      "summary": "Magma moving beneath a volcano can make the ground rise, sink or shift sideways. Measuring these changes gives scientists clues about where magma is stored and how it travels. A study published in Geodesy and Geodynamics used satellite radar to examine the November 2025 erupti...",
-      "country": "Ethiopia",
-      "region": "Africa",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ethiopias"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -34155,6 +34147,51 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Mike Leigh\u2019s \u2018Tender Loving Care\u2019 Sweeps San Sebastian Awards as \u2018La Bola Negra,\u2019 \u2018NAZA\u2019 Earn Audience Nods",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/mike-leigh-tender-loving-care-san-sebastian-awards-festival-1236712566/",
+      "source": "THR",
+      "timestamp": "2026-09-26T20:49:13+00:00",
+      "score": 12,
+      "summary": "Amanda Kernell's 'Brace Your Heart' won the Swedish-Sami filmmaker the Silver Shell for best director as the Spanish film fest wrapped up its 74th edition, the last for outgoing director Jose Luis Rebordinos.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Leighs",
+        "Tender",
+        "Loving",
+        "Care",
+        "Sweeps",
+        "San",
+        "Sebastian",
+        "Awards",
+        "Bola",
+        "Negra",
+        "NAZA",
+        "Earn",
+        "Audience",
+        "Nods"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 7,
+      "sources_reporting": [
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+65%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Israeli Americans Protest \u2018NAZA\u2019 by Screening October 7 Footage Outside New York Premiere: \u2018Compassion For Palestinian Civilians Doesn\u2019t Require Us to Erase October 7\u2019",
       "link": "https://variety.com/2026/film/news/naza-protests-anti-israel-nyff-oct-7-1236876471/",
@@ -42229,47 +42266,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Dolly Parton\u2019s \u20189 to 5\u2019 Returns to Theaters With Ticket Sales Donated to Dollywood Foundation After Star\u2019s Death",
-      "link": "https://variety.com/2026/film/news/dolly-parton-9-to-5-theaters-charity-death-1236875525/",
-      "source": "Variety",
-      "timestamp": "2026-09-25T13:22:46+00:00",
-      "score": 15,
-      "summary": "Dolly Parton\u2019s hit 1980 comedy \u201c9 to 5\u201d will return to theaters next month for one week in the wake of the country superstar\u2019s death on Aug. 25 at age 80. All U.S. ticket sales will be donated to The Dollywood Foundation to support its flagship program, Dolly Parton\u2019s Imaginat...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Partons",
-        "Returns",
-        "Theaters",
-        "Ticket",
-        "Sales",
-        "Donated",
-        "Dollywood",
-        "Foundation",
-        "After",
-        "Stars",
-        "Death"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49577,6 +49573,72 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 2.8 - 17 km W of Charlotte, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026szoalq",
+      "source": "USGS",
+      "timestamp": "2026-09-26T21:00:11.408000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-26 20:49:18 UTC2026-09-26 20:49:18 UTC at epicenterLocation28.848\u00b0N 98.884\u00b0WDepth6.31 km (3.92 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Charlotte",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 47 km SSE of King Salmon, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tcplnl",
+      "source": "USGS",
+      "timestamp": "2026-09-26T20:48:39.846000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-26 20:46:58 UTC2026-09-26 20:46:58 UTC at epicenterLocation58.336\u00b0N 156.216\u00b0WDepth168.90 km (104.95 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "King",
+        "Salmon",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Tropical Depression Fay Forecast Discussion Number 27",
       "link": "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/262038.shtml",
       "source": "NHC",
@@ -56088,73 +56150,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump told Xi that China helping Iran is unacceptable, US ambassador says",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3NaNENZd05ESDQwSFdrTGwyLUtGX3NzT1NiR0tzbWwtM282dHRxbkxLYTk2b1Rkd01xQldYM2ItTlNRV01wbnhDMWpZVkliRnBhMlFWYVg1VHh6bjRCVkQwVGFFamhhWWpJa0p5aHlVRkJpblI1UUZJeDN6VFg1Z1hhdGFBSklFN2ZyVjZ0b1IyNUpoMU5GN0tmTlZPMExVNFppU2ZSRGFwcW1QSElZaktmS3pXSElm?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-25T16:03:29+00:00",
-      "score": 12,
-      "summary": "Trump told Xi that China helping Iran is unacceptable, US ambassador says Reuters",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "China",
-        "Iran"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 63 km ESE of Tonopah, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00924873",
-      "source": "USGS",
-      "timestamp": "2026-09-25T16:02:39.433000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-25 16:00:06 UTC2026-09-25 16:00:06 UTC at epicenterLocation37.885\u00b0N 116.548\u00b0WDepth13.27 km (8.25 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Tonopah",
-        "Nevada"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ]
