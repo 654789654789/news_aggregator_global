@@ -13149,6 +13149,35 @@
   ],
   "World": [
     {
+      "title": "Woman handed suspended sentence over terminally ill husband's death",
+      "link": "https://www.abc.net.au/news/2026-09-28/kylie-truswell-mobbs-handed-suspended-sentence/107202772",
+      "source": "ABC Australia",
+      "timestamp": "2026-09-28T04:10:33+00:00",
+      "score": 10,
+      "summary": "Kylie Truswell-Mobbs was arrested in 2025 after her husband, who had an aggressive form of MND, was administered a lethal dose of painkillers.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Stock market crashes today: Sensex tumbles over 600 points, Nifty50 opens below 23,000",
       "link": "https://timesofindia.indiatimes.com/business/india-business/stock-market-live-updates-today-bse-sensex-tumbles-over-600-points-nse-nifty50-opens-below-23000/articleshow/134531143.cms",
       "source": "Times of India",
@@ -18844,7 +18873,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 15,
       "sources_reporting": [
         "ABC Australia",
@@ -19661,27 +19690,28 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "'Open your eyes': Why China's sixth Antarctic base is raising concerns",
-      "link": "https://www.abc.net.au/news/2026-09-27/china-sixth-base-antarctica-expansion-australia-concerns/107178622",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-27T04:20:20+00:00",
-      "score": 14,
-      "summary": "Some observers believe China's increasing presence in Antarctica is a geopolitical motive, while others say military fears are exaggerated.",
-      "country": "China",
-      "region": "East Asia",
+      "title": "Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait",
+      "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-28T04:14:51+00:00",
+      "score": 17,
+      "summary": "Iran offered to reopen the key shipping route and restart negotiations with the U.S. within seven days, if the Trump administration agreed to Tehran's conditions.",
+      "country": "Iran",
+      "region": "Middle East",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Why",
-        "Chinas",
-        "Antarctic"
+        "Trump",
+        "Iranian",
+        "Hormuz",
+        "Strait"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19690,15 +19720,44 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "SpaceX prepares to send Starship rocket to orbit for first time",
+      "link": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-28T04:12:20+00:00",
+      "score": 12,
+      "summary": "Elon Musk's SpaceX is poised to launch a historic test flight of its massive Starship rocket early Monday.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Starship"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Here\u2019s the List of Goods the US, China Agreed on for Tariff Cuts",
       "link": "https://www.livemint.com/market/heres-the-list-of-goods-the-us-china-agreed-on-for-tariff-cuts-11790567991637.html",
@@ -26286,29 +26345,63 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Trump Shared Concerns Over Weak Yen With Japan\u2019s Takaichi",
-      "link": "https://www.livemint.com/market/trump-shared-concerns-over-weak-yen-with-japan-s-takaichi-11790305723220.html",
-      "source": "Livemint",
-      "timestamp": "2026-09-25T08:38:42+05:30",
-      "score": 14,
-      "summary": "US President Donald Trump shared his concerns over the yen during a meeting with Japanese Prime Minister Sanae Takaichi earlier this week in New York, according to Japan\u2019s finance minister. The yen rose.",
-      "country": "Japan",
-      "region": "East Asia",
+      "title": "COP31 hosts Australia and T\u00fcrkiye face the fossil-fuel question",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/cop31-hosts-australia-and-turkiye-face-the-fossil-fuel-question/article71515307.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-09-28T09:41:00+05:30",
+      "score": 15,
+      "summary": "There is likely to be pressure on the COP31 presidencies to include fossil fuel language as part of the agenda",
+      "country": "Australia",
+      "region": "Oceania",
       "source_type": "Newspaper",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Shared",
-        "Concerns",
-        "Over",
-        "Weak",
-        "Yen",
-        "Japans",
-        "Takaichi"
+        "Australia",
+        "Trkiye"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "SpaceX\u2019s Starship Is Set to Make Its First Orbital Flight",
+      "link": "https://www.nytimes.com/2026/09/28/science/space/spacex-starship-first-orbital-flight.html",
+      "source": "NYT",
+      "timestamp": "2026-09-28T04:01:07+00:00",
+      "score": 12,
+      "summary": "If successful, the 14th test flight will be a crucial milestone toward the company\u2019s ambitions of sending people to the moon and Mars.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Starship",
+        "Set",
+        "Make",
+        "Its",
+        "First",
+        "Orbital",
+        "Flight"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26319,46 +26412,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Livemint"
+        "NYT"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Nifty earnings estimates ambitious but a weak rupee doesn\u2019t complicate outlook: Nuvama\u2019s Prateek Parekh",
-      "link": "https://www.livemint.com/market/mark-to-market/fy27-nifty-earnings-estimates-are-ambitious-but-a-weaker-rupee-doesn-t-complicate-outlook-11790247618134.html",
-      "source": "Livemint",
-      "timestamp": "2026-09-25T08:00:21+05:30",
-      "score": 12,
-      "summary": "A weak rupee acts as a net positive for earnings by boosting export-heavy sectors, even though it presents challenges for consumer-facing segments and margins facing broader supply shocks",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nuvamas",
-        "Prateek",
-        "Parekh"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "Late September warmth before wind and rain returns this week",
       "link": "https://www.bbc.co.uk/weather/articles/c8wyzzyxed3zo?at_medium=RSS&at_campaign=rss",
@@ -32505,68 +32563,6 @@
         "BBC"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Climate change: Laws and policies must change to prevent future statelessness",
-      "link": "https://phys.org/news/2026-09-climate-laws-policies-future-statelessness.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-24T07:40:04-04:00",
-      "score": 12,
-      "summary": "Australia and other nations should amend laws and practices to address the needs of millions of people expected to move because of climate-related hazards, according to a new report by the Peter McMullin Centre on Statelessness and the United Nations High Commissioner for Refu...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Laws"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "1 in 3 Tucsonans exposed to historic water contamination still report signs of psychological trauma",
-      "link": "https://phys.org/news/2026-09-tucsonans-exposed-historic-contamination-psychological.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-24T07:00:01-04:00",
-      "score": 15,
-      "summary": "Residents of Tucson's south side might remember drinking from the garden hose and bathing their children in tap water. For years, that water was contaminated with industrial solvents that had leaked into the groundwater their wells drew from.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tucsonans"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ],
@@ -50255,6 +50251,38 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 1.0 - 24 km NE of Paxson, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tezzsl",
+      "source": "USGS",
+      "timestamp": "2026-09-28T04:04:19.724000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-28 04:02:49 UTC2026-09-28 04:02:49 UTC at epicenterLocation63.257\u00b0N 145.306\u00b0WDepth7.60 km (4.72 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Paxson",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 5.1 - South Sandwich Islands region",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty2e",
       "source": "USGS",
@@ -56739,38 +56767,6 @@
         "GDACS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 2 km NNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442622",
-      "source": "USGS",
-      "timestamp": "2026-09-26T22:32:25.598000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-26 21:58:59 UTC2026-09-26 21:58:59 UTC at epicenterLocation38.791\u00b0N 122.761\u00b0WDepth1.93 km (1.20 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
       "heat_level": "LOW"
     }
   ]
