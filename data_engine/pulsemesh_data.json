@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "Burnham to unveil public body to invest in electricity grid",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-28T23:35:53+00:00",
+      "score": 10,
+      "summary": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 9.1,
+      "source_count": 14,
+      "sources_reporting": [
+        "AP",
+        "BBC",
+        "Guardian",
+        "Guardian",
+        "NHK"
+      ],
+      "trend_accel": "+74%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Vance, RFK Jr., Mike Tyson to speak at MAHA Summit in DC",
       "link": "https://thehill.com/homenews/administration/6116342-vance-kennedy-maha-summit/",
       "source": "The Hill",
@@ -1024,14 +1057,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 9.0,
+      "source_count": 16,
       "sources_reporting": [
+        "AP",
+        "BBC",
+        "BBC",
+        "Bloomberg",
         "Guardian"
       ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
+      "trend_accel": "+75%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Blood pressure medication recalled nationwide under FDA\u2019s Class II risk level",
@@ -2320,8 +2357,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -5173,8 +5210,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -6553,27 +6590,24 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Omar Abdullah\u2019s resolution on Statehood set for debate in J&K assembly; 6 NC MLAs move amendments to include Article 370, 35A",
-      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-resolution-on-statehood-debate-in-jampk-assembly/article71518226.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-28T08:38:32+05:30",
-      "score": 15,
-      "summary": "Jammu and Kashmir Chief Minister Omar Abdullah on Friday, September 25, moved a resolution on the restoration of Statehood \u201cin continuation of the 2000 autonomy resolution\u201d",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "source": "TechCrunch",
+      "timestamp": "2026-09-28T23:39:20+00:00",
+      "score": 12,
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Abdullahs",
-        "Statehood",
-        "MLAs",
-        "Article"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6583,13 +6617,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn\u2019t as far-fetched as it sounds",
       "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
@@ -13068,31 +13100,59 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
+    }
+  ],
+  "World": [
+    {
+      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-28T23:43:48+00:00",
+      "score": 12,
+      "summary": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur.",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Polo",
+        "Mexico"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
     },
     {
-      "title": "Beats 360 Headphones Launched With Interchangeable Cushions, 32 Hours of Battery Life: Price, Specifications",
-      "link": "https://www.gadgets360.com/audio/news/beats-360-price-in-india-launch-sale-date-features-specifications-12084456",
-      "source": "Gadgets 360",
-      "timestamp": "2026-09-23T09:18:26+05:30",
-      "score": 15,
-      "summary": "Beats 360 have been launched in India and global markets as the company\u2019s latest flagship over-ear headphones. The headphones feature interchangeable ear and headband cushions, allowing users to change both the colour and material of the cushioning. The Apple-owned company say...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Tech Publication",
+      "title": "UK: \u2018Too soon\u2019 to blame airbase plot on foreign state",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-too-soon-to-blame-airbase-plot-on-foreign-state?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-09-28T23:34:19+00:00",
+      "score": 12,
+      "summary": "UK Defence Minister Wes Streeting said it was \u2018too soon\u2019 to blame a foreign state for a suspected plot near RAF Fairford",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newswire",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Headphones",
-        "Launched",
-        "Interchangeable",
-        "Cushions",
-        "Hours",
-        "Battery",
-        "Life",
-        "Price",
-        "Specifications"
+        "Too"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13103,13 +13163,75 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Gadgets 360"
+        "Al Jazeera"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "SC gives poll panel 3 months to decide on symbol dispute between TMC factions",
+      "link": "https://timesofindia.indiatimes.com/india/sc-gives-poll-panel-3-months-to-decide-on-symbol-dispute-between-tmc-factions/articleshow/134553148.cms",
+      "source": "Times of India",
+      "timestamp": "2026-09-29T05:03:43+05:30",
+      "score": 15,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "TMC"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Pope Leo leans into statesman role, urging peace in an era of renewed war - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3g4c0RtM1lKMmZ0U19MaU9VNEh6NEtLREdhQXNzNmtVSS1FaU5GZHFNaVVoRmZXR1F0STJqNDNUVFBhN0d5eHh2SDUxSGxXc29vU205N0Nvc0J6Ty1fcC1rcmlyYktvTE5hd2pwZmdDclZ3SXM5MXh3UkdKZ2dnbmMtUXhnY3NMNVY3VWFXb2pUZ2V6LWpmRnRpc0dXVUpKcU9SOEliOHNJWUYxMGNnVFhqSlJNdw?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-09-28T23:31:22+00:00",
+      "score": 12,
+      "summary": "Pope Leo leans into statesman role, urging peace in an era of renewed war The Washington PostLeo\u2019s visit across France offers a more personal glimpse of the pope CNNPope Leo urges concessions for peace as Ukraine war drags on ReutersPope Leo draws massive crowds in France. Is ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Leo",
+        "Washington",
+        "Post"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "In-laws arrested on suspicion of murder after New York Times engineer shot dead in California",
       "link": "https://www.theguardian.com/us-news/2026/sep/28/new-york-times-engineer-california-shooting",
@@ -19516,23 +19638,25 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Ben-Gvir releases video threatening to kill senior Hamas figure in jail",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/ben-gvir-releases-video-threatening-to-kill-senior-hamas-figure-in-jail?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-09-28T01:33:52+00:00",
-      "score": 14,
-      "summary": "Israel\u2019s security minister Itamar Ben-Gvir has released a video in which he is seen threatening to kill Hassan Salameh.",
-      "country": "Qatar",
-      "region": "Middle East",
-      "source_type": "Newswire",
+      "title": "The Trump administration weakens fuel efficiency standards for new cars",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ2xWWW51bUhBYjNQSEM0SnRZM25RMGNPRmIwaTZuTXcxRmJUNEtTakNMMTY1c2NfWk81Qm1kSURrY3pzOGlqak9pWU5mRERTcXNBR2lGc1ZCdk5MQXJCaXJuWUl6cVhOVnZ5LTFXcG14WmZGNnpDWUdpVERBTnkzOXh5UldvNHFKUTJqUFZNaFd6QQ?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-09-28T23:36:28+00:00",
+      "score": 12,
+      "summary": "The Trump administration weakens fuel efficiency standards for new cars NPRPresident Trump & Transportation Secretary Duffy Finalize \u201cFreedom Means Affordable Cars\u201d Initiative to Reset Fuel Economy Standards, End Illegal EV Mandate | US Department of Transportation Department ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Hamas"
+        "Trump"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19543,117 +19667,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Al Jazeera"
+        "Google News"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
-    {
-      "title": "France\u2019s far-right National Rally surges in Senate elections",
-      "link": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections",
-      "source": "Guardian",
-      "timestamp": "2026-09-28T01:31:45+00:00",
-      "score": 14,
-      "summary": "Marine Le Pen hails \u2018historic victory\u2019 as her party and allies win enough seats to form caucus just months ahead of presidential pollFrance\u2019s far-right National Rally (RN) party and its allies have secured a record 14 seats in the rightwing-dominated Senate in elections, effec...",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "National",
-        "Rally",
-        "Senate"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump asked China\u2019s President if he wants to buy U.S. arms, Ambassador says",
-      "link": "https://www.thehindu.com/news/international/trump-asked-chinas-president-if-he-wants-to-buy-us-arms-ambassador-says/article71518145.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-09-28T06:59:08+05:30",
-      "score": 12,
-      "summary": "David Perdue said Mr. Trump raised the prospect of the arms sales from the U.S. to its ascendant geopolitical rival, an unlikely offer that, if consummated, would upend generations of U.S. policy toward China and Taiwan",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Chinas",
-        "President",
-        "Ambassador"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says",
-      "link": "https://www.theguardian.com/world/2026/sep/28/trump-xi-jinping-china-buy-weapons",
-      "source": "Guardian",
-      "timestamp": "2026-09-28T00:52:19+00:00",
-      "score": 12,
-      "summary": "David Perdue\u2019s remarks come after a Taiwanese minister spoke of the \u2018severe\u2019 military threat posed by Beijing to the self-ruled islandDonald Trump offered to sell weapons to China while hosting its leader, Xi Jinping, last week, the US ambassador to China said on Sunday.David ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [
-        "Jinping",
-        "China",
-        "American"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Stock futures are little changed after higher yields lead to losing session: Live updates",
       "link": "https://www.cnbc.com/2026/09/28/stock-market-today-live-updates.html",
@@ -26253,24 +26271,54 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Stephen Curry and Warriors agree to 2-year contract extension worth $116 million, AP source says",
-      "link": "https://www.cnbc.com/2026/09/26/stephen-curry-2-year-contract-extension.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-26T10:47:13+00:00",
-      "score": 15,
-      "summary": "Curry was eligible to command up to $136 million, so he is giving his team a discount.",
+      "title": "Dopamine-based nanotubes combine heat, electrical stimulation and antioxidant release for first time",
+      "link": "https://phys.org/news/2026-09-dopamine-based-nanotubes-combine-electrical.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-28T19:40:08-04:00",
+      "score": 10,
+      "summary": "The research group at the Istituto Italiano di Tecnologia in Pontedera (Pisa), led by Gianni Ciofani, has developed new organic nanoparticles that combine multiple therapeutic functions in a single material for the first time.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Party leaders widening Washington's political chasm",
+      "link": "https://phys.org/news/2026-09-party-leaders-widening-washington-political.html",
+      "source": "Phys.org",
+      "timestamp": "2026-09-28T19:40:01-04:00",
+      "score": 12,
+      "summary": "Most of the polarization currently roiling Congress comes from political parties rather than individual politicians, a study co-authored by University of Miami Business School associate professor Chad Kendall finds.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Curry",
-        "Warriors"
+        "Washingtons"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26279,15 +26327,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Plasma treatment helps reveal how molecular coatings dope silicon",
       "link": "https://phys.org/news/2026-09-plasma-treatment-reveal-molecular-coatings.html",
@@ -32500,69 +32546,6 @@
         "Phys.org"
       ],
       "trend_accel": "+62%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Europe's lab-to-market gap draws proposals from network of more than 120 scientist-innovators",
-      "link": "https://phys.org/news/2026-09-europe-lab-gap-network-scientist.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-24T21:20:01-04:00",
-      "score": 15,
-      "summary": "Europe could turn more of its scientific discoveries into new technologies, products and businesses by changing the way it funds innovation and supports researchers, according to a new Policy Forum published in Science.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Q&A: Grasslands in more diverse landscapes can suffer less from drought",
-      "link": "https://phys.org/news/2026-09-qa-grasslands-diverse-landscapes-drought.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-24T21:00:01-04:00",
-      "score": 12,
-      "summary": "During the heat wave of 2018, meadows and pastures also suffered from drought. Are grasslands in diverse landscapes more resilient to yield losses than those in monotonous regions? Researchers at the University of Bonn, led by Marco Ferro and Dr. Jan B\u00f6rner from the Institute ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Grasslands"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 11,
-      "sources_reporting": [
-        "AP",
-        "NPR",
-        "PBS",
-        "Phys.org"
-      ],
-      "trend_accel": "+65%",
       "heat_level": "HOT"
     }
   ],
@@ -50009,6 +49992,104 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 2.3 - 5 km SW of Gu\u00e1nica, Puerto Rico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71535018",
+      "source": "USGS",
+      "timestamp": "2026-09-28T23:42:00.370000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-28 23:19:34 UTC2026-09-28 23:19:34 UTC at epicenterLocation17.933\u00b0N 66.943\u00b0WDepth7.27 km (4.52 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Gunica",
+        "Puerto",
+        "Rico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 78 km W of Karluk, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tgncwg",
+      "source": "USGS",
+      "timestamp": "2026-09-28T23:36:31.118000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-28 23:35:37 UTC2026-09-28 23:35:37 UTC at epicenterLocation57.699\u00b0N 155.746\u00b0WDepth19.70 km (12.24 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Karluk",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.5 - 6 km SSW of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75044967",
+      "source": "USGS",
+      "timestamp": "2026-09-28T23:31:29.440000+00:00",
+      "score": 17,
+      "summary": "Time2026-09-28 23:27:45 UTC2026-09-28 23:27:45 UTC at epicenterLocation19.153\u00b0N 155.505\u00b0WDepth34.52 km (21.45 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.8 - 4 km S of P\u0101hala, Hawaii",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75044962",
       "source": "USGS",
@@ -56445,110 +56526,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tropical Depression Fay Public Advisory Number 31",
-      "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/272037.shtml",
-      "source": "NHC",
-      "timestamp": "2026-09-27T20:37:12+00:00",
-      "score": 15,
-      "summary": "Issued at 900 PM GMT Sun Sep 27 2026 000 WTNT31 KNHC 272037 TCPAT1 BULLETIN Tropical Depression Fay Advisory Number 31 NWS National Hurricane Center Miami FL AL062026 900 PM GMT Sun Sep 27 2026 ...FAY BARELY A TROPICAL CYCLONE... SUMMARY OF 900 PM GMT...2100 UTC...INFORMATION ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Depression",
-        "Fay",
-        "Public",
-        "Advisory",
-        "Number"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NHC"
-      ],
-      "trend_accel": "+61%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Summary for Tropical Depression Fay (AT1/AL062026)",
-      "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/272037.shtml",
-      "source": "NHC",
-      "timestamp": "2026-09-27T20:37:12+00:00",
-      "score": 15,
-      "summary": "...FAY BARELY A TROPICAL CYCLONE... As of 9:00 PM GMT Sun Sep 27 the center of Fay was located near 28.9, -44.0 with movement S at 5 mph. The minimum central pressure was 1011 mb with maximum sustained winds of about 35 mph.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tropical",
-        "Depression",
-        "Fay",
-        "ATAL"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NHC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tropical Depression Fay Forecast Advisory Number 31",
-      "link": "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/272036.shtml",
-      "source": "NHC",
-      "timestamp": "2026-09-27T20:36:41+00:00",
-      "score": 15,
-      "summary": "Issued at 2100 UTC SUN SEP 27 2026 368 WTNT21 KNHC 272036 TCMAT1 TROPICAL DEPRESSION FAY FORECAST/ADVISORY NUMBER 31 NWS NATIONAL HURRICANE CENTER MIAMI FL AL062026 2100 UTC SUN SEP 27 2026 TROPICAL DEPRESSION CENTER LOCATED NEAR 28.9N 44.0W AT 27/2100Z POSITION ACCURATE WITHI...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Depression",
-        "Fay",
-        "Forecast",
-        "Advisory",
-        "Number"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NHC"
-      ],
-      "trend_accel": "+61%",
       "heat_level": "LOW"
     }
   ]
