@@ -55,7 +55,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.1,
+      "trend_score": 9.0,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -13107,6 +13107,78 @@
   ],
   "World": [
     {
+      "title": "Netanyahu Visits Emirati Leader After Reports on Warning About Hamas Attack",
+      "link": "https://www.nytimes.com/2026/09/28/world/middleeast/netanyahu-emirati-leader-hamas-attack.html",
+      "source": "NYT",
+      "timestamp": "2026-09-29T00:39:17+00:00",
+      "score": 12,
+      "summary": "Official statements said bilateral relations were discussed. But the question of who bears responsibility for failing to prevent the Oct. 7 attack is a major election issue in Israel.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Visits",
+        "Emirati",
+        "Leader",
+        "After",
+        "Reports",
+        "Warning",
+        "About",
+        "Hamas",
+        "Attack"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+      "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-29T00:38:23+00:00",
+      "score": 12,
+      "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cornell",
+        "University"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 10,
+      "sources_reporting": [
+        "BBC",
+        "France24"
+      ],
+      "trend_accel": "+65%",
+      "heat_level": "HOT"
+    },
+    {
       "title": "Coast Guard saves sinking tanker with 23 crew off Odisha coast",
       "link": "https://timesofindia.indiatimes.com/india/coast-guard-saves-sinking-tanker-with-23-crew-off-odisha-coast/articleshow/134553396.cms",
       "source": "Times of India",
@@ -19569,56 +19641,29 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "World\u2019s worst-performing market slashes minimum price for stocks",
-      "link": "https://www.ft.com/content/04923b0e-a955-4cfa-bd05-cd828807f61d?syn-25a6b1a6=1",
-      "source": "FT",
-      "timestamp": "2026-09-28T02:51:26+00:00",
+      "title": "Smart Headlights Finally Trickle Down to Cars in the U.S.",
+      "link": "https://www.nytimes.com/2026/09/28/business/smart-headlights-adaptive.html",
+      "source": "NYT",
+      "timestamp": "2026-09-29T00:37:36+00:00",
       "score": 12,
-      "summary": "Indonesia is trying to boost liquidity by allowing shares to trade at a tiny fraction of a US cent",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "FT"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Australia news live: Chalmers says \u2018near universal expectation\u2019 interest rates will rise worldwide; Mike Baird resigns as Cricket Australia chair",
-      "link": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-09-28T02:39:51+00:00",
-      "score": 14,
-      "summary": "Follow the day\u2019s news liveGet our breaking news email, free app or daily news podcastRBA expected to hike cash rate to 4.6%, its highest level since 2011Australia\u2019s key interest rate is expected to hit its highest level since 2011, drag down house prices and add more than $100...",
-      "country": "Australia",
-      "region": "Oceania",
+      "summary": "Federal data shows that half of all traffic fatalities happen after dark, but only one-quarter of driving happens at night. So any help is welcome.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Newspaper",
       "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Chalmers",
-        "Mike",
-        "Baird",
-        "Cricket",
-        "Australia"
+        "Headlights",
+        "Finally",
+        "Trickle",
+        "Down",
+        "Cars"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19629,13 +19674,109 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Guardian"
+        "NYT"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets",
+      "link": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-29T00:33:48+00:00",
+      "score": 14,
+      "summary": "Luckin is weighing a push into Gulf markets while deepening its foothold in Southeast Asia, with backing from sovereign wealth funds in both regions.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Coffee",
+        "Persian",
+        "Gulf",
+        "Middle",
+        "East"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Talent crunch may hamper Sebi\u2019s PMS revamp",
+      "link": "https://www.livemint.com/market/talent-crunch-may-hamper-sebi-s-pms-revamp-11790578490810.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-29T06:00:55+05:30",
+      "score": 12,
+      "summary": "Demand for diversification beyond Indian markets is rising, but building teams with the expertise to invest across geographies, currencies and regulatory regimes will take time, as few Indian funds currently invest overseas.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sebis",
+        "PMS"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Four blue-chip stocks in India with expanding margins",
+      "link": "https://www.livemint.com/market/stock-market-news/four-blue-chip-stocks-in-india-with-expanding-margins-11790595838412.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-29T06:00:55+05:30",
+      "score": 14,
+      "summary": "Explore four blue-chip stocks in India that have reported improving operating and net profit margins",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "India"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "The Trump administration weakens fuel efficiency standards for new cars",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ2xWWW51bUhBYjNQSEM0SnRZM25RMGNPRmIwaTZuTXcxRmJUNEtTakNMMTY1c2NfWk81Qm1kSURrY3pzOGlqak9pWU5mRERTcXNBR2lGc1ZCdk5MQXJCaXJuWUl6cVhOVnZ5LTFXcG14WmZGNnpDWUdpVERBTnkzOXh5UldvNHFKUTJqUFZNaFd6QQ?oc=5",
@@ -26133,136 +26274,6 @@
       "source_count": 5,
       "sources_reporting": [
         "CNBC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Drone stock Ideaforge gets buy rating; Ashika sees 27% upside - check target price",
-      "link": "https://www.livemint.com/market/stock-market-news/drone-stock-ideaforge-gets-buy-rating-ashika-sees-27-upside-check-target-price-11790422161462.html",
-      "source": "Livemint",
-      "timestamp": "2026-09-26T17:57:36+05:30",
-      "score": 17,
-      "summary": "Ideaforge is set to capitalize on India's \u20b9200 billion drone procurement pipeline, with Ashika estimating substantial revenue growth and improved EBITDA margins. They have set target price of \u20b9942, highlighting strong potential in the defence market amid rising demand for dome...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ideaforge",
-        "Ashika"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
-      "link": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-26T12:19:38+00:00",
-      "score": 12,
-      "summary": "Flight disruptions were rising in Boston for Saturday.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+60%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The worst airports if you have a connecting flight - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0NfbDBZcDI1OXpLSGJOLTBXaFlla1JBYVJtd3g2QWJJX19DVWs2SzJYZjlNSWpFN2hRNk43WlV6WDJWX28wRExZR3pDdS1hZzZnSnBTbjRodldrWU9zcHhoYy0xbzEweVJWZGhPWW9WYXJjY0ZnWXoxdG1jOVVxVldLbTctNG5jQ2FV?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-26T12:01:31+00:00",
-      "score": 14,
-      "summary": "The worst airports if you have a connecting flight The Washington Post",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Washington",
-        "Post"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "After NSE IPO exchange debut, Macquarie calls stock \u2018The Dominator\u2019 - here\u2019s why | Check share price target",
-      "link": "https://www.livemint.com/market/stock-market-news/after-nse-ipo-exchange-debut-macquarie-calls-stock-the-dominator-here-s-why-check-share-price-target-11790419480001.html",
-      "source": "Livemint",
-      "timestamp": "2026-09-26T16:57:03+05:30",
-      "score": 14,
-      "summary": "Macquarie projects 12% revenue CAGR for NSE from FY26 to FY30, supported by high margins and strong cash generation. The brokerage anticipates significant growth in non-transaction revenues, driven by data and analytics, while expecting a robust return on equity of around 35%.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "NSE",
-        "IPO",
-        "Macquarie",
-        "Dominator",
-        "Check"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
@@ -32957,7 +32968,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.7,
+      "trend_score": 7.6,
       "source_count": 9,
       "sources_reporting": [
         "AP",
@@ -34667,6 +34678,47 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Hirayasumi\u2019 Anime Unveils Footage, Key Visual and Lead Voice Cast Ahead of NHK Debut",
+      "link": "https://variety.com/2026/tv/news/hirayasumi-anime-footage-voice-cast-nhk-debut-1236877801/",
+      "source": "Variety",
+      "timestamp": "2026-09-29T00:43:37+00:00",
+      "score": 12,
+      "summary": "New footage from the anime adaptation of Shinzo Keigo\u2019s manga \u201cHirayasumi\u201d has been unveiled, along with a key visual and the principal voice cast, ahead of the series\u2019 January 2027 premiere on Japan\u2019s NHK General TV. Viz Media and Shogakukan-Shueisha Productions (ShoPro) rele...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Anime",
+        "Unveils",
+        "Footage",
+        "Key",
+        "Visual",
+        "Lead",
+        "Voice",
+        "Cast",
+        "Ahead",
+        "NHK",
+        "Debut"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018ESPN Jeopardy!\u2019 Renewed For Season 2 On Hulu & Disney+, Pivots From Celebrities To Sports Fan",
       "link": "https://deadline.com/2026/09/espn-jeopardy-renewed-season-2-hulu-disney-1237115867/",
@@ -42608,44 +42660,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "2026 MTV Video Music Awards: Watch the Red Carpet Livestream",
-      "link": "https://www.hollywoodreporter.com/music/music-news/watch-2026-mtv-vmas-red-carpet-livestream-1236709846/",
-      "source": "THR",
-      "timestamp": "2026-09-27T21:30:00+00:00",
-      "score": 15,
-      "summary": "The awards ceremony, hosted by Snoop Dogg, airs live from the Peacock Theater in Los Angeles Sunday night.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "MTV",
-        "Video",
-        "Music",
-        "Awards",
-        "Watch",
-        "Red",
-        "Carpet",
-        "Livestream"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49984,6 +49998,40 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 1.9 - 11 km SSE of Portage Creek, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tgpkof",
+      "source": "USGS",
+      "timestamp": "2026-09-29T00:45:48.456000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-29 00:44:27 UTC2026-09-29 00:44:27 UTC at epicenterLocation58.809\u00b0N 157.638\u00b0WDepth6.80 km (4.23 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Portage",
+        "Creek",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 2.0 - 5 km SSW of P\u0101hala, Hawaii",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75044967",
       "source": "USGS",
@@ -56483,40 +56531,6 @@
         "USGS"
       ],
       "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.4 - 259 km S of Severo-Kuril\u2019sk, Russia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ty0g",
-      "source": "USGS",
-      "timestamp": "2026-09-27T21:08:53.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-27 20:49:22 UTC2026-09-27 20:49:22 UTC at epicenterLocation48.381\u00b0N 156.784\u00b0EDepth10.00 km (6.21 mi)",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "SeveroKurilsk",
-        "Russia"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ]
