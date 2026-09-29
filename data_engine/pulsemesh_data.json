@@ -4486,7 +4486,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.9,
+      "trend_score": 8.8,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -7875,7 +7875,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.5,
+      "trend_score": 8.4,
       "source_count": 16,
       "sources_reporting": [
         "Bloomberg",
@@ -13101,6 +13101,68 @@
     }
   ],
   "World": [
+    {
+      "title": "Australia news live: OpenAI apologises for Medicare hack, calling it a \u2018new kind of cyber incident\u2019",
+      "link": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-09-29T01:18:36+00:00",
+      "score": 14,
+      "summary": "Follow the day\u2019s news liveGet our breaking news email, free app or daily news podcastNew South Wales police say they are investigating the suspicious deaths of two men in the state\u2019s north.Police said they found the first man \u2013 who has since been identified as a 79-year-old \u2013 ...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "OpenAI",
+        "Medicare"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-09-29T01:18:24+00:00",
+      "score": 12,
+      "summary": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 6,
+      "sources_reporting": [
+        "BBC",
+        "Guardian"
+      ],
+      "trend_accel": "+65%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Anthropic warns of \u2018existential risks to humanity\u2019 in IPO prospectus",
       "link": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1",
@@ -19571,25 +19633,27 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Australia news live: Chalmers says \u2018near universal expectation\u2019 of global rate hikes; Australia to meet with OpenAI this week after breach",
-      "link": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-09-28T03:37:10+00:00",
+      "title": "Trump says new fuel economy rules will cut car prices. Analysts are doubtful. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSnY1SVdCcWdiMWZXdU53YS1hMVRsNkpMUXJPa25SZVpQTW5IVHdjaE9RQnQtYmZkRW52S1VuQmUwY3lXMFBJUlNnTjFQMEhFcWVQWkRHZlhVd3FLNmloV01iS3pJSEZkalA1WDNFWWJPdlpuQ1ZpVVFKM2NzU0ozaE4zXy14UHBDbzlUMlp4ZVlUVEZ6NFg3SnBvX3Q5WmJvdWp6N29tcmpBZ0FYdF81REpLcTVjVWFpVmtmWndGOHRSTldvMFNpN01TMl9KUQ?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-09-29T01:27:23+00:00",
       "score": 14,
-      "summary": "Follow the day\u2019s news liveGet our breaking news email, free app or daily news podcastRBA expected to hike cash rate to 4.6%, its highest level since 2011Australia\u2019s key interest rate is expected to hit its highest level since 2011, drag down house prices and add more than $100...",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "summary": "Trump says new fuel economy rules will cut car prices. Analysts are doubtful. The Washington PostPresident Trump & Transportation Secretary Duffy Finalize \u201cFreedom Means Affordable Cars\u201d Initiative to Reset Fuel Economy Standards, End Illegal EV Mandate | US Department of Tran...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Chalmers",
-        "Australia",
-        "OpenAI"
+        "Analysts",
+        "Washington",
+        "Post"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19598,31 +19662,30 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "Guardian"
+        "Google News"
       ],
-      "trend_accel": "+54%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
     },
     {
-      "title": "Hauser wins thrilling World Triathlon sprint, Parker breaks record",
-      "link": "https://www.abc.net.au/news/2026-09-28/matt-hauser-lauren-parker-world-triathlon-championship-finals/107203760",
-      "source": "ABC Australia",
-      "timestamp": "2026-09-28T03:32:56+00:00",
-      "score": 12,
-      "summary": "Matt Hauser barges his way through to claim victory in the World Triathlon Championship Finals, while Lauren Parker writes herself into the record books with a sixth world championship crown.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Anthropic warns AI may pose 'existential risks to humanity' in IPO filing: Reuters",
+      "link": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
+      "source": "CNBC",
+      "timestamp": "2026-09-29T01:23:15+00:00",
+      "score": 14,
+      "summary": "Anthropic plans to warn IPO investors that advanced AI could pose \u201ccatastrophic or existential risks to humanity.\u201d",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "World",
-        "Triathlon",
-        "Parker"
+        "IPO",
+        "Reuters"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19631,15 +19694,53 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for Tuesday, 29 Sept - GIFT Nifty, Kospi, Nikkei, Taiwan cues",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-prediction-today-stock-market-outlook-for-tuesday-29-sept-gift-nifty-kospi-nikkei-taiwan-cues-11790642406419.html",
+      "source": "Livemint",
+      "timestamp": "2026-09-29T06:49:39+05:30",
+      "score": 17,
+      "summary": "Stock market prediction for Tuesday, 29 September, 2026: Gift Nifty was trading around the 22,820 level, down nearly 4 points from the Nifty futures\u2019 previous close, indicating a flat start for the Indian stock market indices.",
+      "country": "Taiwan",
+      "region": "East Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Nifty",
+        "Stock",
+        "Tuesday",
+        "Sept",
+        "GIFT",
+        "Kospi",
+        "Nikkei",
+        "Taiwan"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Luckin Coffee, flush with investor cash, weighs entry into Middle East markets",
       "link": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
@@ -26182,97 +26283,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "The worst airports if you have a connecting flight - washingtonpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0NfbDBZcDI1OXpLSGJOLTBXaFlla1JBYVJtd3g2QWJJX19DVWs2SzJYZjlNSWpFN2hRNk43WlV6WDJWX28wRExZR3pDdS1hZzZnSnBTbjRodldrWU9zcHhoYy0xbzEweVJWZGhPWW9WYXJjY0ZnWXoxdG1jOVVxVldLbTctNG5jQ2FV?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-26T13:31:31+00:00",
-      "score": 12,
-      "summary": "The worst airports if you have a connecting flight washingtonpost.com",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Supply glut, lab-grown alternatives: What's behind the fall of diamond prices to record lows",
-      "link": "https://www.cnbc.com/2026/09/26/whats-behind-the-fall-of-diamond-prices-to-record-lows.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-26T13:09:33+00:00",
-      "score": 12,
-      "summary": "Diamond prices are falling, leading investors and others to wonder whether the gemstones are losing their luster.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Whats"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "27-year-old started a run club to meet new people\u2014now his NYC side hustle brings in $640K a year",
-      "link": "https://www.cnbc.com/2026/09/26/nyc-run-club-side-hustle.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-26T13:05:01+00:00",
-      "score": 15,
-      "summary": "When Owen Akhibi Herrera started his New York City-based run club in 2024, he craved community \u2014 and entrepreneurial opportunity.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NYC"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -27607,7 +27617,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -33031,7 +33041,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.7,
+      "trend_score": 7.6,
       "source_count": 10,
       "sources_reporting": [
         "BBC",
@@ -34673,6 +34683,126 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018School Girls; Or, The African Mean Girls Play\u2019 Broadway Review: When Escape Is Just A Clique Away",
+      "link": "https://deadline.com/2026/09/school-girls-or-the-african-mean-girls-play-broadway-review-when-escape-is-just-a-clique-away-1237114434/",
+      "source": "Deadline",
+      "timestamp": "2026-09-29T01:30:00+00:00",
+      "score": 12,
+      "summary": "The battle lines are drawn early and definitively in Jocelyn Bioh\u2019s School Girls; Or, The African Mean Girls Play. The cruelties come fast and cut deep in this Ghana school lunch room where all the unspoken rules of adolescent pick-or-be-picked-upon are as strict as they are i...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Girls",
+        "African",
+        "Mean",
+        "Play",
+        "Broadway",
+        "Review",
+        "When",
+        "Escape",
+        "Just",
+        "Clique",
+        "Away"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018School Girls; or, the African Mean Girls Play\u2019 Broadway Review: An Exceptional Portrait of Black Girlhood",
+      "link": "https://variety.com/2026/legit/reviews/school-girls-or-the-african-mean-girls-play-broadway-review-1236877325/",
+      "source": "Variety",
+      "timestamp": "2026-09-29T01:30:00+00:00",
+      "score": 14,
+      "summary": "Late girlhood has a sacredness that can\u2019t be replicated. It\u2019s a particular time in life between innocence and adulting, allowing young women to swing between the two. Jocelyn Bioh\u2019s sensational play, \u201cSchool Girls; or, the African Mean Girls Play,\u201d captures this magic and angu...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Girls",
+        "African",
+        "Mean",
+        "Play",
+        "Broadway",
+        "Review",
+        "Exceptional",
+        "Portrait",
+        "Black",
+        "Girlhood"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "BTS Superstar V Named Global Brand Ambassador for Nothing as He Models New Headphones",
+      "link": "https://www.hollywoodreporter.com/lifestyle/style/bts-superstar-v-global-brand-ambassador-nothing-headphones-1236714058/",
+      "source": "THR",
+      "timestamp": "2026-09-29T01:20:42+00:00",
+      "score": 12,
+      "summary": "Praised Nothing co-founder and CEO Carl Pei: \"V has an instinct for fearless experimentation. He's always pushing into different sounds and styles.\"",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Superstar",
+        "Named",
+        "Global",
+        "Brand",
+        "Ambassador",
+        "Nothing",
+        "Models",
+        "New",
+        "Headphones"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Apple TV Claims Largest Weekly Viewership Ever With \u2018Mayday\u2019, \u2018Ted Lasso\u2019 And Post-Emmys Bump For \u2018Widow\u2019s Bay\u2019 & \u2018Pluribus\u2019",
       "link": "https://deadline.com/2026/09/apple-tv-viewership-record-ted-lasso-mayday-widows-bay-1237115696/",
@@ -42549,125 +42679,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Love Island USA's Nic Shares Where He, Ex Olandria Stand After Breakup",
-      "link": "https://www.eonline.com/news/1436494/vmas-2026-love-island-usas-nic-shares-update-on-olandria-breakup?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-09-27T23:04:52+00:00",
-      "score": 12,
-      "summary": "There's only love between Nic Vansteenberghe and Olandria Carthen beyond the villa. Two months after E! News confirmed that the Love Island USA season seven runners-up split, Vansteenberghe shared...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Island",
-        "USAs",
-        "Nic",
-        "Shares",
-        "Where",
-        "Olandria",
-        "Stand",
-        "After",
-        "Breakup"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "MTV VMAs Red Carpet Gallery: See the Looks and Arrivals (Updating)",
-      "link": "https://www.hollywoodreporter.com/gallery/mtv-vmas-2026-red-carpet-looks-arrivals-photo-1236713034/",
-      "source": "THR",
-      "timestamp": "2026-09-27T23:03:06+00:00",
-      "score": 12,
-      "summary": "Madonna is opening the broadcast for the first time since 2003, while Taylor Swift is guaranteed at least one Moon Person trophy \u2014 and that\u2019s just the start of who is attending.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "VMAs",
-        "Red",
-        "Carpet",
-        "Gallery",
-        "See",
-        "Looks",
-        "Arrivals",
-        "Updating"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "MTV VMAs 2026: See the Complete Winners List",
-      "link": "https://www.rollingstone.com/music/music-news/2026-vmas-winners-list-1235631232/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-09-27T23:00:04+00:00",
-      "score": 15,
-      "summary": "The MTV Video Music Awards handed out trophies to the best of the best on Sunday night",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "VMAs",
-        "See",
-        "Complete",
-        "Winners",
-        "List"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 18,
-      "sources_reporting": [
-        "Deadline",
-        "E! News",
-        "NPR",
-        "PBS",
-        "Reuters",
-        "Rolling Stone",
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+84%",
-      "heat_level": "CRITICAL"
     }
   ],
   "Lifestyle": [
@@ -50006,6 +50017,38 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 1.0 - 85 km NW of Karluk, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tgqyaj",
+      "source": "USGS",
+      "timestamp": "2026-09-29T01:30:49.368000+00:00",
+      "score": 15,
+      "summary": "Time2026-09-29 01:29:57 UTC2026-09-29 01:29:57 UTC at epicenterLocation58.171\u00b0N 155.337\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Karluk",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 2.1 - 16 km WSW of Johannesburg, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41340415",
       "source": "USGS",
@@ -56509,38 +56552,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.4 - 2 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443407",
-      "source": "USGS",
-      "timestamp": "2026-09-27T21:41:53.977000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-27 21:40:16 UTC2026-09-27 21:40:16 UTC at epicenterLocation38.785\u00b0N 122.776\u00b0WDepth3.09 km (1.92 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
       "heat_level": "LOW"
     }
   ]
