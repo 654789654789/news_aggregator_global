@@ -1,6 +1,40 @@
 {
   "Politics": [
     {
+      "title": "Former cop who fatally shot Botham Jean in apartment that she mistook for hers gets parole",
+      "link": "https://www.pbs.org/newshour/nation/former-cop-who-fatally-shot-botham-jean-in-apartment-that-she-mistook-for-hers-gets-parole",
+      "source": "PBS",
+      "timestamp": "2026-10-01T17:09:43-04:00",
+      "score": 12,
+      "summary": "A white Dallas police officer convicted of killing a Black man in his apartment that she mistook for her own was granted parole Thursday after serving seven years of her 10-year sentence.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Botham",
+        "Jean"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Live updates: Trump stumps in Texas, Oklahoma",
       "link": "https://thehill.com/homenews/administration/6122030-live-updates-trump-texas-oklahoma-midterm-elections/",
       "source": "The Hill",
@@ -6587,24 +6621,27 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "White House blocks CNN from pool duty despite judge\u2019s order",
-      "link": "https://thehill.com/homenews/6122096-white-house-blocks-cnn-pool-trump/",
-      "source": "The Hill",
-      "timestamp": "2026-10-01T02:19:23+00:00",
-      "score": 12,
-      "summary": "The White House plans to keep CNN journalists from carrying out the network\u2019s previously scheduled duty providing television pool coverage of President Trump on Thursday, a source familiar with the situation confirmed to The Hill. The administration will prevent CNN from provi...",
-      "country": "US",
+      "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-01T21:08:11+00:00",
+      "score": 14,
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro.",
+      "country": "Venezuela",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "House",
-        "CNN"
+        "Grok",
+        "Trump",
+        "Venezuelas"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6613,15 +6650,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hill"
+        "TechCrunch"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Trump\u2019s \u2018Morally Binding\u2019 AI \u2018Accord,\u2019 the Rise of AI Agents, and Extremists on the Ballot",
       "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
@@ -12978,23 +13013,61 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Automattic has a new board after failed attempt to put CEO on leave",
-      "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-      "source": "TechCrunch",
-      "timestamp": "2026-09-25T23:04:34+00:00",
-      "score": 14,
-      "summary": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+      "title": "US deploys thousands of troops to Middle East as Trump weighs strikes on Iran",
+      "link": "https://www.ft.com/content/352e14c5-267d-4c8f-981d-6ae8bea531f9?syn-25a6b1a6=1",
+      "source": "FT",
+      "timestamp": "2026-10-01T21:05:29+00:00",
+      "score": 12,
+      "summary": "Aircraft carrier USS Theodore Roosevelt expected to arrive in the region by the end of November, a US official says",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Middle",
+        "East",
+        "Trump",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "FT"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Live: Gaming giants told to 'lift their game' on child safety",
+      "link": "https://www.abc.net.au/news/2026-10-02/federal-politics-live-blog-october-2/107219460",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-01T21:02:12+00:00",
+      "score": 12,
+      "summary": "The eSafety Commission says it has identified gaps in harmful content detection, repeat-offender prevention and information-sharing initiatives in some gaming platforms. Follow live.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "CEO"
+        "Gaming"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13005,13 +13078,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Australia news live: eSafety warns online gaming can cause \u2018serious harms\u2019 to children; Atlassian to power solar farm",
       "link": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
@@ -19525,24 +19596,25 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Victoria's election is nearly here \u2014 it's time to have Your Say",
-      "link": "https://www.abc.net.au/news/2026-10-01/vic-election-2026-your-say-abc-audience-callout/107182316",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-01T01:06:43+00:00",
-      "score": 14,
-      "summary": "We want to hear about the issues that matter to you most: the problems that need solving, the fresh ideas giving you hope and the message you want to send to the people in power.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "UK in talks with EU partners over fuel reserves after Trump diesel threat",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-01T21:14:13+00:00",
+      "score": 12,
+      "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US.",
+      "country": "UK",
+      "region": "Europe",
       "source_type": "Broadcaster",
       "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Your",
-        "Say"
+        "Trump"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19553,22 +19625,80 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "BBC"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+55%",
       "heat_level": "LOW"
     },
     {
-      "title": "\u2018Might as well disband you\u2019: SC slams UP police for cover-up job",
-      "link": "https://timesofindia.indiatimes.com/india/might-as-well-disband-you-sc-slams-up-police-for-cover-up-job/articleshow/134605724.cms",
-      "source": "Times of India",
-      "timestamp": "2026-10-01T06:21:24+05:30",
+      "title": "Nike\u2019s troubles are mounting, and sales could fall further",
+      "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-01T21:09:00+00:00",
+      "score": 10,
+      "summary": "The company has faced struggles in China and in its sneaker business.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
+      "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-01T21:05:18+00:00",
       "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
+      "summary": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "The stock market is anything but normal right now \u2014 and these charts show it",
+      "link": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-01T21:01:00+00:00",
+      "score": 12,
+      "summary": "The S&P 500 is trading just shy of record territory, even as most individual stocks are struggling.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
@@ -19582,13 +19712,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Times of India"
+        "MarketWatch"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Here\u2019s how much more groceries, clothing and household appliances could cost as diesel prices keep surging",
       "link": "https://www.marketwatch.com/story/heres-how-much-more-groceries-clothing-and-household-appliances-could-cost-as-diesel-prices-keep-surging-771c9247?mod=mw_rss_topstories",
@@ -26098,26 +26226,24 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Trump administration starts sending $500 Obamacare refund checks \u2014 who stands to benefit",
-      "link": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-30T16:19:47+00:00",
-      "score": 15,
-      "summary": "The refunds come after millions of people lost premium subsidies for their health insurance, and right before the midterm elections.",
+      "title": "Global pollination analysis reveals climate explains specialized partnerships better than latitude",
+      "link": "https://phys.org/news/2026-10-global-pollination-analysis-reveals-climate.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-01T17:10:01-04:00",
+      "score": 12,
+      "summary": "An international study led by researchers from Charles University in Prague (CUNI) and the Biology Centre of the Czech Academy of Sciences (BC CAS) has mapped how closely flowering plants and their pollinators depend on each other.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Obamacare"
-      ],
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26125,104 +26251,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Saving your retirement could come down to this simple writing exercise",
-      "link": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-09-30T16:11:00+00:00",
-      "score": 10,
-      "summary": "A \u201cretirement policy statement\u201d lays out instructions that you can stick to.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The market search for balance sheet 'cash cows' and 'quality' stocks is changing",
-      "link": "https://www.cnbc.com/2026/09/30/best-stocks-cash-flow-ai-spending.html",
-      "source": "CNBC",
-      "timestamp": "2026-09-30T16:09:52+00:00",
-      "score": 12,
-      "summary": "With AI spending consuming the cash of the market's richest companies, balance sheet metrics led by free cash flow are getting more investing attention.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
-      "link": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-09-30T15:55:00+00:00",
-      "score": 14,
-      "summary": "There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Americans"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "Salivary gland mini-organs grown from pluripotent stem cells offer potential path to treating severe dry mouth",
       "link": "https://phys.org/news/2026-10-salivary-gland-mini-grown-pluripotent.html",
@@ -32330,37 +32365,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Scientists call for protection and restoration of Africa's seagrass meadows",
-      "link": "https://phys.org/news/2026-09-scientists-africa-seagrass-meadows.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-29T15:10:01-04:00",
-      "score": 12,
-      "summary": "A team of African researchers has published the first comprehensive review of seagrass restoration activities across Africa's coastline.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Africas"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -34631,39 +34635,6 @@
         "Reuters"
       ],
       "trend_accel": "+62%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "49ers\u2019 Kyle Juszczyk fined nearly $15K after NFL says he pretended to chug beer on field",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbURsSmVCWTd4TTBXdGVOSFZmdTN1RjJiZEd5d2dUNHg3UGQyVDAyR3JhUll3Mnc2VVhScEhBRjVNOVdMZVpxcG1ubXdKTmRzMW5pNkgyMzNkQUNzNnItTmpvaUV5YU9qSG1DQlRqdjJwdzUwTnN5MEwtbWpWLUJTQmxjMEJISkdXRkhQbkg3bHFUajg3b1BzMW9VSUN2WGtlS0V3LTRNS0luX1VYbFZtbU9fbmxPdkU?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-24T21:01:45+00:00",
-      "score": 15,
-      "summary": "49ers\u2019 Kyle Juszczyk fined nearly $15K after NFL says he pretended to chug beer on field NBC NewsNFL fines player nicknamed 'Juice' $14,926 for using a drinking celebration, calling it offensive Fox NewsJason Kelce calls out NFL for ridiculous decision on 49ers veteran sports....",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kyle",
-        "Juszczyk",
-        "NFL"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -42658,6 +42629,43 @@
   ],
   "Lifestyle": [
     {
+      "title": "At Tom Ford, Reflective Beauty Looks Good In The Mirror",
+      "link": "https://www.vogue.com/article/tom-ford-ss27-beauty",
+      "source": "Vogue",
+      "timestamp": "2026-10-01T21:04:01+00:00",
+      "score": 12,
+      "summary": "How global makeup artist Lucy Bridges created reflective glam at Tom Ford's spring 2027 show.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tom",
+        "Ford",
+        "Reflective",
+        "Beauty",
+        "Looks",
+        "Good",
+        "Mirror"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Vogue"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "25+ Incredible Gifts to Give the Women in Your Life, From Pocket-Size Luxuries to Thoughtful Tokens",
       "link": "https://www.vogue.com/article/gifts-for-women",
       "source": "Vogue",
@@ -49187,75 +49195,6 @@
       ],
       "trend_accel": "+56%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Gabe Gordon Spring 2027 Ready-to-Wear",
-      "link": "https://www.vogue.com/fashion-shows/spring-2027-ready-to-wear/gabe-gordon",
-      "source": "Vogue",
-      "timestamp": "2026-09-24T21:15:16+00:00",
-      "score": 15,
-      "summary": "Strategic intelligence signal ingested from Vogue.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gordon",
-        "Spring",
-        "ReadytoWear"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "19 Best Men's Zip-Up Sweaters 2026, According to GQ Editors",
-      "link": "https://www.gq.com/story/best-mens-zip-up-sweaters",
-      "source": "GQ",
-      "timestamp": "2026-09-24T21:10:38+00:00",
-      "score": 15,
-      "summary": "The once-dweeby zip-up knit is ready to revolutionize your fits.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Best",
-        "Mens",
-        "ZipUp",
-        "Sweaters",
-        "According",
-        "Editors"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "GQ"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -49288,6 +49227,37 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.2 - 8 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442556",
+      "source": "USGS",
+      "timestamp": "2026-10-01T21:13:31.863000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-01 21:11:54 UTC2026-10-01 21:11:54 UTC at epicenterLocation38.833\u00b0N 122.817\u00b0WDepth1.40 km (0.87 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
       "heat_level": "LOW"
     },
     {
@@ -55737,40 +55707,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 20 km N of Four Mile Road, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tjumzo",
-      "source": "USGS",
-      "timestamp": "2026-09-30T18:17:14.032000+00:00",
-      "score": 15,
-      "summary": "Time2026-09-30 18:16:07 UTC2026-09-30 18:16:07 UTC at epicenterLocation64.789\u00b0N 149.106\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Four",
-        "Mile",
-        "Road",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
