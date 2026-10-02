@@ -1,6 +1,42 @@
 {
   "Politics": [
     {
+      "title": "Christa Pike on a ventilator and unconscious after failed Tennessee execution, attorneys say",
+      "link": "https://www.pbs.org/newshour/nation/christa-pike-on-a-ventilator-and-unconscious-after-failed-tennessee-execution-attorneys-say",
+      "source": "PBS",
+      "timestamp": "2026-10-02T16:24:43-04:00",
+      "score": 14,
+      "summary": "The stunning failure in Tennessee's execution chamber on Wednesday has left both sides of the death penalty debate demanding answers. Tennessee Gov. Bill Lee has ordered an independent review.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pike",
+        "Tennessee"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 8.4,
+      "source_count": 12,
+      "sources_reporting": [
+        "BBC",
+        "Guardian",
+        "NHK",
+        "NPR",
+        "PBS"
+      ],
+      "trend_accel": "+75%",
+      "heat_level": "SURGING"
+    },
+    {
       "title": "Swadeshi products can strengthen self-reliance, says BJP",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/swadeshi-products-can-strengthen-self-reliance-says-bjp/article71536795.ece",
       "source": "The Hindu",
@@ -686,8 +722,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.0,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "Guardian",
@@ -6595,49 +6631,38 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Military Leaders Will Examine Ways to Limit Civilian Deaths in War",
-      "link": "https://www.nytimes.com/2026/10/01/us/politics/military-civilian-deaths-in-war.html",
-      "source": "NYT",
-      "timestamp": "2026-10-01T23:22:47+00:00",
-      "score": 12,
-      "summary": "U.S. Central Command will hold a daylong conference at its Tampa headquarters after seven months of war in Iran.",
+      "title": "Netflix is pivoting away from prestige",
+      "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+      "source": "Verge",
+      "timestamp": "2026-10-02T16:30:26-04:00",
+      "score": 10,
+      "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Leaders",
-        "Will",
-        "Examine",
-        "Ways",
-        "Limit",
-        "Civilian",
-        "Deaths",
-        "War"
-      ],
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "NYT"
+        "Verge"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Apple will limit Mac disk access as AI agents \u2018substantially\u2019 increase risk",
       "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
@@ -12996,24 +13021,61 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Dreame\u2019s step-climbing X50 Ultra mopping vacuum is hundreds off",
-      "link": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
-      "source": "Verge",
-      "timestamp": "2026-09-28T10:55:12-04:00",
-      "score": 15,
-      "summary": "It\u2019s been a while since we\u2019ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame\u2019s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it\u2019s down to $899.99 at A...",
+      "title": "Coast Guard Says It Stopped Ships Carrying Fuel to Cuba",
+      "link": "https://www.nytimes.com/2026/10/02/world/americas/coast-guard-cuba-ships-oil.html",
+      "source": "NYT",
+      "timestamp": "2026-10-02T20:26:56+00:00",
+      "score": 12,
+      "summary": "The Coast Guard has intercepted two small boats it says was carrying illegal fuel to Cuba as the United States enforces an fuel blockade aimed at Cuba\u2019s Communist government.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Ultra"
+        "Guard",
+        "Says",
+        "Stopped",
+        "Ships",
+        "Carrying",
+        "Fuel",
+        "Cuba"
       ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "The G7 will release 100 million reserve barrels of diesel fuel over the next 4 months",
+      "link": "https://www.npr.org/2026/10/02/nx-s1-5989397/the-g7-will-release-100-million-reserve-barrels-of-diesel-fuel-over-the-next-4-months",
+      "source": "NPR",
+      "timestamp": "2026-10-02T16:23:49-04:00",
+      "score": 15,
+      "summary": "After increased pressure from Washington, the G7 held an emergency meeting on energy. The world's wealthiest nations say they will release 100 million barrels of oil and diesel fuel in their reserves.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13023,13 +13085,73 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Verge"
+        "NPR"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Mississippi couple wins $41,920 after loggers cut 1,299 trees on their land",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-2022-loggers-working-for-neighbours-crossed-onto-a-mississippi-couples-land-and-cut-1299-trees-their-handwritten-tally-helped-secure-a-41920-award-later-upheld-on-appeal/articleshow/134619743.cms",
+      "source": "Times of India",
+      "timestamp": "2026-10-03T01:50:00+05:30",
+      "score": 13,
+      "summary": "In a significant logging error, 1,299 trees were cut down on Gerald and Rhonda Smith's property in Mississippi. The Smiths meticulously recorded the extent of their loss through photographs and measurements, leading to legal proceedings. A court recognized the logging company'...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Hawaii\u2019s centuries-old sea arch collapses into Pacific after series of rough storms",
+      "link": "https://www.theguardian.com/us-news/2026/oct/02/hawaii-holei-sea-arch-collapses",
+      "source": "Guardian",
+      "timestamp": "2026-10-02T20:16:35+00:00",
+      "score": 14,
+      "summary": "H\u014dlei sea arch, formed 550 years ago by erosion from ocean waves, no longer standing, National Park Service confirmsA famed centuries-old sea arch on Hawaii\u2019s remote and rugged coastline has collapsed into the Pacific Ocean, the National Park Service confirmed on Friday, follo...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Pacific"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Christa Pike remains on ventilator after failed execution in Tennessee",
       "link": "https://www.theguardian.com/us-news/2026/oct/02/christa-pike-failed-execution-unconcious",
@@ -14449,13 +14571,14 @@
       "breaking": false,
       "trending": true,
       "trend_score": 11.2,
-      "source_count": 17,
+      "source_count": 18,
       "sources_reporting": [
         "ABC Australia",
         "AP",
         "CBC News",
         "Guardian",
         "NHK",
+        "NPR",
         "Reuters",
         "The Hindu"
       ],
@@ -14515,7 +14638,7 @@
       "breaking": false,
       "trending": true,
       "trend_score": 11.1,
-      "source_count": 13,
+      "source_count": 14,
       "sources_reporting": [
         "ABC Australia",
         "AP",
@@ -14523,6 +14646,7 @@
         "Guardian",
         "Guardian",
         "NHK",
+        "NPR",
         "The Hindu"
       ],
       "trend_accel": "+81%",
@@ -19476,19 +19600,21 @@
       ],
       "trend_accel": "+55%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Calls growing to fix country town's 800-truck-a-day problem",
-      "link": "https://www.abc.net.au/news/2026-10-02/pinjarra-heavy-haulage-bypass/107197274",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-01T23:22:29+00:00",
-      "score": 13,
-      "summary": "With hundreds of trucks rolling through the centre of Pinjarra each day, calls to construct a long-awaited bypass route have been reignited.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "Switching jobs to get higher pay works best in these industries",
+      "link": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-02T20:24:00+00:00",
+      "score": 10,
+      "summary": "Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -19501,98 +19627,26 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "KPSC recruitment row: BJP targets Rahul Gandhi over Karnataka government's SC plea",
-      "link": "https://timesofindia.indiatimes.com/india/bjp-slams-congress-accuses-rahul-of-hypocrisy-lying/articleshow/134629534.cms",
-      "source": "Times of India",
-      "timestamp": "2026-10-02T04:46:29+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "BJP",
-        "Rahul",
-        "Gandhi",
-        "Karnataka"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Times of India"
+        "MarketWatch"
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
     },
     {
-      "title": "Venu, Vijay Singh query Noel's merger plan to avoid Tata Sons IPO",
-      "link": "https://timesofindia.indiatimes.com/business/india-business/venu-vijay-singh-query-noels-merger-plan-to-avoid-tata-sons-ipo/articleshow/134629518.cms",
-      "source": "Times of India",
-      "timestamp": "2026-10-02T04:37:42+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
+      "title": "Saving your retirement could come down to this simple writing exercise",
+      "link": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-02T20:24:00+00:00",
+      "score": 10,
+      "summary": "A \u201cretirement policy statement\u201d lays out instructions that you can stick to.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Vijay",
-        "Singh",
-        "Noels",
-        "Tata",
-        "Sons",
-        "IPO"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Falling glass and \u2018decapitated\u2019 plants: the race to protect Edinburgh botanic garden\u2019s plants",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/02/falling-glass-and-decapitated-plants-the-race-to-protect-edinburgh-botanic-gardens-plants",
-      "source": "Guardian",
-      "timestamp": "2026-10-01T23:01:03+00:00",
-      "score": 12,
-      "summary": "After five years of work, 5,750 panels of toughened glass will help keep hundred of plants safe from Scottish winters \u2013 but more work needs to be doneIn the early autumn sunlight, Royal Botanic Garden Edinburgh\u2019s extensive plant collection appears safe in their glass enclosure...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Edinburgh"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19602,13 +19656,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Guardian"
+        "MarketWatch"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
       "link": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
@@ -26013,75 +26065,69 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Meta, ServiceNow and these 7 other tech stocks could lead the next leg of the AI trade",
-      "link": "https://www.marketwatch.com/story/meta-servicenow-and-these-7-other-tech-stocks-could-lead-the-next-leg-of-the-ai-trade-b8b68c93?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-10-01T11:54:00+00:00",
-      "score": 17,
-      "summary": "Deutsche Bank analysts just shared their top stock picks in the tech sector for the remainder of the year.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ServiceNow"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Stocks making the biggest moves premarket: Alphabet, Accenture, Rocket Lab, Micron and more",
-      "link": "https://www.cnbc.com/2026/10/01/stocks-making-the-biggest-moves-premarket-googl-acn-rklb-mu.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-01T11:51:58+00:00",
-      "score": 14,
-      "summary": "These are the stocks posting the largest moves in the premarket.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Alphabet",
-        "Accenture",
-        "Rocket",
-        "Lab",
-        "Micron"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "American beech trees may carry genetic resistance to deadly leaf disease",
+      "link": "https://phys.org/news/2026-10-american-beech-trees-genetic-resistance.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-02T16:20:06-04:00",
+      "score": 10,
+      "summary": "A study led by scientists at the Holden Arboretum has found evidence that beech leaf disease (BLD) symptom development is genetically controlled, providing the first evidence that some American beech trees may have genetic resistance. This finding supports further investigatio...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Plasma-activated water tests show concentration matters for effective bacterial disinfection",
+      "link": "https://phys.org/news/2026-10-plasma-effective-bacterial-disinfection.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-02T16:20:01-04:00",
+      "score": 10,
+      "summary": "In a study published in npj Clean Water, researchers from EPFL investigated how Escherichia coli responds to different concentrations of plasma-activated water (PAW) under nutrient-rich conditions. The team combined conventional colony-forming unit (CFU) counting with nanomoti...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Ultrafast X-rays reveal how the light-responsive molecular switch azobenzene changes shape",
       "link": "https://phys.org/news/2026-10-ultrafast-rays-reveal-responsive-molecular.html",
@@ -32171,66 +32217,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Butterflies use optical illusions to dodge predators",
-      "link": "https://phys.org/news/2026-09-butterflies-optical-illusions-dodge-predators.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-30T11:00:24-04:00",
-      "score": 10,
-      "summary": "A bird attacking a butterfly will often find its beak snapping at thin air. According to new research, that split-second miss isn't just bad luck. It's caused by a visual illusion from the butterfly's wings.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Little-studied Antarctic basin could raise sea levels, but melt timing remains unknown",
-      "link": "https://phys.org/news/2026-09-antarctic-basin-sea-unknown.html",
-      "source": "Phys.org",
-      "timestamp": "2026-09-30T11:00:01-04:00",
-      "score": 14,
-      "summary": "Over a century ago, Australian geologist Sir Douglas Mawson led a sledding expedition over hundreds of kilometers of ice into a remote part of East Antarctica. The party turned back after the tragic death of a party member. Fellow Australian Cecil Madigan led another group acr...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Antarctic"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -34567,6 +34553,121 @@
   ],
   "Entertainment": [
     {
+      "title": "Sony Circling \u2018Battlefield\u2019 Adaptation From Michael B. Jordan And Christopher McQuarrie",
+      "link": "https://deadline.com/2026/10/sony-battlefield-michael-b-jordan-christopher-mcquarrie-1237145723/",
+      "source": "Deadline",
+      "timestamp": "2026-10-02T20:30:03+00:00",
+      "score": 12,
+      "summary": "Sony Pictures is in talks to land the rights for a feature adaptation of the popular Electronic Arts video game Battlefield that has Michael B. Jordan attached produce and potentially star and Christopher McQuarrie on board to direct. McQuarrie would also pen the script as wel...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Circling",
+        "Battlefield",
+        "Adaptation",
+        "Michael",
+        "Jordan",
+        "Christopher",
+        "McQuarrie"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "American Cinematheque Award Skipping 2026 After Sked Conflict With Honoree Ryan Gosling",
+      "link": "https://deadline.com/2026/10/american-cinematheque-award-skips-2026-ryan-gosling-1237145690/",
+      "source": "Deadline",
+      "timestamp": "2026-10-02T20:26:39+00:00",
+      "score": 15,
+      "summary": "The American Cinematheque said Friday that its 40th annual American Cinematheque Awards Gala, which was set to honor Ryan Gosling, will not take place this year. Organizers said Gosling was no longer available to accept the award due to scheduling conflicts. Today, the AC only...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cinematheque",
+        "Award",
+        "Skipping",
+        "After",
+        "Sked",
+        "Conflict",
+        "Honoree",
+        "Ryan",
+        "Gosling"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Tilda Swinton to Release Debut Memoir \u2018Material Evidence\u2019: \u201cA Book About Curiosity\u201d",
+      "link": "https://www.hollywoodreporter.com/lifestyle/arts/tilda-swinton-debut-memoir-material-evidence-1236721153/",
+      "source": "THR",
+      "timestamp": "2026-10-02T20:19:33+00:00",
+      "score": 12,
+      "summary": "The book will not follow a chronological format and instead tell the actress' story through objects.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Swinton",
+        "Release",
+        "Debut",
+        "Memoir",
+        "Material",
+        "Evidence",
+        "Book",
+        "About",
+        "Curiosity"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Sony Pictures in Talks to Acquire Michael B. Jordan \u2018Battlefield\u2019 Video Game Movie",
       "link": "https://www.hollywoodreporter.com/movies/movie-news/sony-pictures-michael-b-jordan-battlefield-1236721166/",
       "source": "THR",
@@ -34596,15 +34697,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 9,
+      "trending": true,
+      "trend_score": 11.0,
+      "source_count": 13,
       "sources_reporting": [
+        "BBC",
+        "Bloomberg",
+        "Deadline",
+        "Guardian",
         "THR",
         "Variety"
       ],
-      "trend_accel": "+68%",
-      "heat_level": "HOT"
+      "trend_accel": "+88%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Sony in Talks to Land \u2018Battlefield\u2019 Video Game Movie From Christopher McQuarrie and Michael B. Jordan",
@@ -34637,14 +34742,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 11.0,
+      "source_count": 13,
       "sources_reporting": [
+        "BBC",
+        "Deadline",
+        "Guardian",
+        "NHK",
+        "THR",
         "Variety"
       ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
+      "trend_accel": "+84%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Steelers' Mike McCarthy Addresses Tense Exchange With Aaron Rodgers",
@@ -37331,8 +37441,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "Bloomberg",
@@ -38938,8 +39048,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 19,
       "sources_reporting": [
         "BBC",
@@ -42451,135 +42561,51 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Dexter: Resurrection\u2019 Trailer Reveals Brian Cox, Dan Stevens Serial Killer Roles",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/dexter-resurrection-season-2-trailer-brian-cox-dan-stevens-1236718351/",
-      "source": "THR",
-      "timestamp": "2026-10-01T17:40:33+00:00",
-      "score": 14,
-      "summary": "Meanwhile, Dexter Morgan (Michael C. Hall) is entering (a murderous) midlife crisis.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Resurrection",
-        "Trailer",
-        "Reveals",
-        "Brian",
-        "Cox",
-        "Dan",
-        "Stevens",
-        "Serial",
-        "Killer",
-        "Roles"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Grammys CEO: Best Asian Pop Music Performance Category to Debut in 2027 Despite Controversy",
-      "link": "https://www.rollingstone.com/music/music-news/grammys-ceo-best-asian-pop-category-debut-2027-controversy-1235635362/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-10-01T17:39:11+00:00",
-      "score": 15,
-      "summary": "\"By far, the loudest feedback we heard was from people who were enthusiastic supporters of the category,\" Harvey Mason Jr. says in statement",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "CEO",
-        "Best",
-        "Asian",
-        "Pop",
-        "Music",
-        "Performance",
-        "Category",
-        "Debut",
-        "Despite",
-        "Controversy"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Sony Pictures TV Exec Mike Wald to Retire After 32 Years; Jason Spivak, Paul Littmann Named Presidents of Distribution & Networks (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/sony-tv-mike-wald-retires-jason-spivak-paul-littmann-1236894466/",
-      "source": "Variety",
-      "timestamp": "2026-10-01T17:30:00+00:00",
-      "score": 15,
-      "summary": "Sony Pictures Television distribution and networks co-president Mike Wald is retiring after 32 years with the company, the studio was set to announce Thursday morning. The news comes as Sony Pictures\u2019 TV exec VP of North America Distribution Flory Bramnick also recently announ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pictures",
-        "Exec",
-        "Mike",
-        "Wald",
-        "Retire",
-        "After",
-        "Years",
-        "Jason",
-        "Spivak",
-        "Paul",
-        "Littmann",
-        "Named",
-        "Presidents",
-        "Distribution",
-        "Networks",
-        "EXCLUSIVE"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
+    {
+      "title": "The Best Early October Prime Day Clothing Deals You Can Shop Right Now",
+      "link": "https://www.gq.com/story/best-early-october-prime-day-clothing-deals",
+      "source": "GQ",
+      "timestamp": "2026-10-02T20:24:31+00:00",
+      "score": 14,
+      "summary": "Another Prime Day is around the corner, and we found the best early clothing deals actually worth paying attention to.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Best",
+        "Early",
+        "October",
+        "Prime",
+        "Day",
+        "Clothing",
+        "Deals",
+        "You",
+        "Can",
+        "Shop",
+        "Right",
+        "Now"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "GQ"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Belmont Cameli\u2019s Hairstylist on How to Get His Curly Saint Laurent Look",
       "link": "https://www.gq.com/story/belmont-cameli-saint-laurent-hair",
@@ -49032,6 +49058,104 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 1.8 - 5 km WSW of Volcano, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048562",
+      "source": "USGS",
+      "timestamp": "2026-10-02T20:27:06.480000+00:00",
+      "score": 17,
+      "summary": "Time2026-10-02 20:23:39 UTC2026-10-02 20:23:39 UTC at epicenterLocation19.415\u00b0N 155.282\u00b0WDepth-0.39 km (-0.24 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Volcano",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 57 km S of Whites City, New Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026tknhdk",
+      "source": "USGS",
+      "timestamp": "2026-10-02T20:24:20.552000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-02 20:16:19 UTC2026-10-02 20:16:19 UTC at epicenterLocation31.658\u00b0N 104.364\u00b0WDepth6.97 km (4.33 mi)",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Whites",
+        "City",
+        "New",
+        "Mexico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.2 - 6 km E of Ridgecrest, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342263",
+      "source": "USGS",
+      "timestamp": "2026-10-02T20:17:28.959000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-02 20:14:01 UTC2026-10-02 20:14:01 UTC at epicenterLocation35.620\u00b0N 117.610\u00b0WDepth8.21 km (5.10 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ridgecrest"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.9 - 5 km NW of Pinnacles, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75443011",
       "source": "USGS",
@@ -55427,104 +55551,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.3 - 0 km NNE of Y\u014dkaichiba, Japan",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tytg",
-      "source": "USGS",
-      "timestamp": "2026-10-01T12:58:17.805000+00:00",
-      "score": 17,
-      "summary": "DYFI? - IIITime2026-10-01 12:27:11 UTC2026-10-01 12:27:11 UTC at epicenterLocation35.703\u00b0N 140.551\u00b0EDepth41.65 km (25.88 mi)",
-      "country": "Japan",
-      "region": "East Asia",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Ykaichiba",
-        "Japan"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 8 km ESE of Cloverdale, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75442346",
-      "source": "USGS",
-      "timestamp": "2026-10-01T12:50:36.431000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-01 12:49:01 UTC2026-10-01 12:49:01 UTC at epicenterLocation38.776\u00b0N 122.934\u00b0WDepth4.75 km (2.95 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Cloverdale"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 57 km SSE of Cantwell, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tlffcq",
-      "source": "USGS",
-      "timestamp": "2026-10-01T12:38:39.551000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-01 12:36:31 UTC2026-10-01 12:36:31 UTC at epicenterLocation62.904\u00b0N 148.577\u00b0WDepth0.10 km (0.06 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Cantwell",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
