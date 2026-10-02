@@ -3112,7 +3112,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.8,
+      "trend_score": 7.7,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -3120,8 +3120,8 @@
         "Guardian",
         "The Hindu"
       ],
-      "trend_accel": "+72%",
-      "heat_level": "SURGING"
+      "trend_accel": "+71%",
+      "heat_level": "HOT"
     },
     {
       "title": "Drumcree talks break up without agreement on fifth day of standoff",
@@ -6629,6 +6629,35 @@
     }
   ],
   "Tech": [
+    {
+      "title": "Rivian\u2019s sales pop as the company\u2019s big R2 bet starts to pay off",
+      "link": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
+      "source": "Verge",
+      "timestamp": "2026-10-02T13:15:03-04:00",
+      "score": 15,
+      "summary": "Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced and 19,248 delivered. That represents an 85 percent year...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Verge"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
       "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
@@ -12980,22 +13009,33 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Philips\u2019 motion-tracking smart toothbrush uses AI to make you a better brusher",
-      "link": "https://www.theverge.com/tech/1000924/philips-sonicare-next-generation-diamondclean-9900-prestige-smart-toothbrush",
-      "source": "Verge",
-      "timestamp": "2026-09-28T09:00:00-04:00",
-      "score": 14,
-      "summary": "First announced in July with an expected limited launch later this year, the Philips Sonicare Next-Generation DiamondClean 9900 Prestige smart toothbrush is now available in Europe and the US, with a broader global rollout expected in 2027. While the previous iteration is stil...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Take a Historic Stroll Down Oxford Street, London\u2019s Shopping Artery",
+      "link": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
+      "source": "NYT",
+      "timestamp": "2026-10-02T17:01:37+00:00",
+      "score": 12,
+      "summary": "London is making a stretch of the street, long central to the city\u2019s identity and sense of style, car free.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Historic",
+        "Stroll",
+        "Down",
+        "Oxford",
+        "Street",
+        "Londons",
+        "Shopping",
+        "Artery"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13003,15 +13043,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "NYT"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "India Faces Fresh Protests, This Time Over Voter Rolls",
       "link": "https://www.nytimes.com/2026/10/02/world/asia/india-vote-theft-protest-police.html",
@@ -19546,29 +19584,24 @@
       ],
       "trend_accel": "+80%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Trump says Secret Service wants him to \u2018take down\u2019 Oval Office - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUNmbEgydnRNejk2QjhBX2JMSHdfdXlzd1VGbEF5X0p4Ukc1NndsWVF0N3g5NjlPRGRYY3RYZFM4MFhNNUZDT2EtNWNzRXE3Q0pLalVpb3d0NkRBY00tU2E2TlFKNl9aeTB1UTFHRFU4RHRXRG0ydVN4QmV0QmZSeXJoS3E1Um1qWTJMcVh0b3dyS2JoTC11bi1BVjY1UTA4YWhHc0M2bUpXRnVOMWc?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-10-01T19:32:25+00:00",
-      "score": 12,
-      "summary": "Trump says Secret Service wants him to \u2018take down\u2019 Oval Office The Washington PostSee more headlines & perspectives on Google News",
+      "title": "Oil prices mixed as G7 nations to release diesel stocks",
+      "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-02T17:04:08+00:00",
+      "score": 17,
+      "summary": "It comes after Reuters reported that EU nations were discussing a proposal to release diesel reserves following pressure from the Trump administration.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Aggregator",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Secret",
-        "Service",
-        "Oval",
-        "Office",
-        "Washington",
-        "Post"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19576,15 +19609,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "Google News"
+        "CNBC"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+54%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Stocks making the biggest moves midday: Tesla, Broadcom, Nike, ON Semiconductor & more",
       "link": "https://www.cnbc.com/2026/10/02/stocks-making-the-biggest-moves-midday-tsla-avgo-nke-on-more-.html",
@@ -26039,40 +26070,6 @@
         "Livemint"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Russia launches massive strikes on Ukraine\u2019s energy grid, forcing power cuts ahead of winter",
-      "link": "https://www.cnbc.com/2026/10/01/russia-ukraine-war-energy-power-winter.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-01T09:41:18+00:00",
-      "score": 14,
-      "summary": "Seven people were killed in the attack and emergency power cuts were imposed in Kyiv and three other regions.",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [
-        "Ukraines"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -34618,6 +34615,129 @@
   ],
   "Entertainment": [
     {
+      "title": "Jennifer Lawrence Reunites With \u2018No Hard Feelings\u2019 Director Gene Stupnitsky On Rom-Com \u2018One Month Mark\u2019 From Apple, Chernin And Sophie Fleur De Bruijn",
+      "link": "https://deadline.com/2026/10/jennifer-lawrence-gene-stupnitsky-one-month-mark-movie-1237145376/",
+      "source": "Deadline",
+      "timestamp": "2026-10-02T17:15:00+00:00",
+      "score": 12,
+      "summary": "EXCLUSIVE: Jennifer Lawrence has found a familiar face to direct her upcoming comedy One Month Mark, as sources tell Deadline that Gene Stupnitsky is in final negotiations to direct the Apple Original Films and Chernin Entertainment pic that has Lawrence attached to star and p...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lawrence",
+        "Reunites",
+        "Hard",
+        "Feelings",
+        "Director",
+        "Gene",
+        "Stupnitsky",
+        "RomCom",
+        "One",
+        "Month",
+        "Mark",
+        "Apple",
+        "Chernin",
+        "Sophie",
+        "Fleur",
+        "Bruijn"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Other Mommy,\u2019 \u2018Whalefall\u2019 and \u2018Victorian Psycho\u2019:  The Authors Behind the Page-to-Screen Nightmares Compare Notes",
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/other-mommy-whalefall-victorian-psycho-authors-interview-1236707921/",
+      "source": "THR",
+      "timestamp": "2026-10-02T17:15:00+00:00",
+      "score": 12,
+      "summary": "Ahead of their film adaptations releasing this fall, authors Josh Malerman, Daniel Kraus and Virginia Feito discuss their starry casts, why none of them writes with Hollywood in mind and their early adaptation buzz from a Cannes premiere to a viral trailer.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mommy",
+        "Whalefall",
+        "Victorian",
+        "Psycho",
+        "Authors",
+        "Behind",
+        "PagetoScreen",
+        "Nightmares",
+        "Compare",
+        "Notes"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Miranda Lambert Admits to Bar Fight With Nickelback's Chad Kroeger",
+      "link": "https://www.eonline.com/news/1436691/miranda-lambert-admits-to-bar-fight-with-nickelbacks-chad-kroeger?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-10-02T17:07:24+00:00",
+      "score": 12,
+      "summary": "Miranda Lambert isn't outrunnin' the memory of this altercation. More than 15 years after the \"House That Built Me\" singer was rumored to have gotten into a fight with Nickelback frontman Chad...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lambert",
+        "Admits",
+        "Bar",
+        "Fight",
+        "Nickelbacks",
+        "Chad",
+        "Kroeger"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Black Bear\u2019s President Of U.S. Distribution Ben Kramer Exiting",
       "link": "https://deadline.com/2026/10/ben-kramer-black-bear-head-of-us-distribution-exiting-1237145475/",
       "source": "Deadline",
@@ -42473,107 +42593,36 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "\u2018It\u2019s a Wonderful Life\u2019 Plans a Broadway Debut With Andrew Rannells",
-      "link": "https://www.nytimes.com/2026/10/01/theater/its-a-wonderful-life-broadway-andrew-rannells.html",
-      "source": "NYT",
-      "timestamp": "2026-10-01T15:39:16+00:00",
+      "title": "In Their \u2018Much Ado About Nothing,\u2019 Tom Hiddleston and Hayley Atwell Take the Bard to the Dancefloor",
+      "link": "https://www.vogue.com/article/much-ado-about-nothing-broadway-revival",
+      "source": "Vogue",
+      "timestamp": "2026-10-02T17:01:21+00:00",
       "score": 12,
-      "summary": "The show, \u201ca live radio play,\u201d will run during this year\u2019s holiday season. The cast includes Andrew Rannells, Megan Hilty, Tituss Burgess, Harry Hamlin and Lisa Rinna.",
+      "summary": "It\u2019s been more than four decades since Shakespeare\u2019s comedy of errors graced a major New York stage, and Lloyd\u2019s revival arrives at Winter Garden Theatre this autumn from a sellout run in London.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Wonderful",
-        "Life",
-        "Plans",
-        "Broadway",
-        "Debut",
-        "Andrew",
-        "Rannells"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Calder Sculpture \u2018Mountains and Clouds\u2019 Is Restored in Senate Office",
-      "link": "https://www.nytimes.com/2026/09/30/arts/design/calder-mountains-clouds-restoration-senate-building.html",
-      "source": "NYT",
-      "timestamp": "2026-10-01T15:32:24+00:00",
-      "score": 14,
-      "summary": "The effort to reunite two halves of Alexander Calder\u2019s monumental \u201cMountains and Clouds\u201d hit many snags, until donors and legislators from both parties stepped in.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sculpture",
-        "Mountains",
-        "Clouds",
-        "Restored",
-        "Senate",
-        "Office"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018La Bola Negra\u2019 Star Guitarricadelafuente to Receive Discovery Award at SCAD Savannah Film Festival (EXCLUSIVE)",
-      "link": "https://variety.com/2026/awards/awards/la-bola-negra-guitarricadelafuente-award-scad-savannah-film-festival-1236894165/",
-      "source": "Variety",
-      "timestamp": "2026-10-01T15:30:26+00:00",
-      "score": 12,
-      "summary": "\u201cLa Bola Negra\u201d star Guitarricadelafuente will be honored with the Discovery Award at this year\u2019s SCAD Savannah Film Festival. The musician is being recognized for his breakout feature acting debut in the Oscar-buzzy drama. In the movie, directed by Javier Calvo and Javier Amb...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Bola",
-        "Negra",
-        "Star",
-        "Guitarricadelafuente",
-        "Receive",
-        "Discovery",
-        "Award",
-        "SCAD",
-        "Savannah",
-        "Film",
-        "Festival",
-        "EXCLUSIVE"
+        "Their",
+        "Much",
+        "Ado",
+        "About",
+        "Nothing",
+        "Tom",
+        "Hiddleston",
+        "Hayley",
+        "Atwell",
+        "Take",
+        "Bard",
+        "Dancefloor"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -42582,15 +42631,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Variety"
+        "Vogue"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
+    },
     {
       "title": "The Vogue Business People Moves Tracker",
       "link": "https://www.vogue.com/article/the-vogue-business-people-moves-tracker",
@@ -48952,6 +48999,71 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.5 - 7 km N of Big Bear City, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342191",
+      "source": "USGS",
+      "timestamp": "2026-10-02T17:08:27.958000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-02 17:05:03 UTC2026-10-02 17:05:03 UTC at epicenterLocation34.328\u00b0N 116.839\u00b0WDepth3.13 km (1.94 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Big",
+        "Bear",
+        "City"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.0 - 3 km SW of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048432",
+      "source": "USGS",
+      "timestamp": "2026-10-02T17:06:45.240000+00:00",
+      "score": 17,
+      "summary": "Time2026-10-02 17:03:15 UTC2026-10-02 17:03:15 UTC at epicenterLocation19.184\u00b0N 155.506\u00b0WDepth32.42 km (20.14 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 5.8 - 165 km SSE of Vilyuchinsk, Russia",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tz62",
@@ -55395,71 +55507,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.6 - 4 km SW of Volcano, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046927",
-      "source": "USGS",
-      "timestamp": "2026-10-01T09:59:42.711000+00:00",
-      "score": 17,
-      "summary": "DYFI? - IITime2026-10-01 09:55:50 UTC2026-10-01 09:55:50 UTC at epicenterLocation19.421\u00b0N 155.268\u00b0WDepth0.40 km (0.25 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Volcano",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.3 - 5 km WSW of Volcano, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75046907",
-      "source": "USGS",
-      "timestamp": "2026-10-01T09:53:41.850000+00:00",
-      "score": 17,
-      "summary": "Time2026-10-01 09:50:11 UTC2026-10-01 09:50:11 UTC at epicenterLocation19.416\u00b0N 155.281\u00b0WDepth-0.14 km (-0.09 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Volcano",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+61%",
       "heat_level": "LOW"
     }
   ]
