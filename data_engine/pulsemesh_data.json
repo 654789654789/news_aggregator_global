@@ -13034,6 +13034,38 @@
   ],
   "World": [
     {
+      "title": "Nine injured in Australia as car crashes into crowd north of Sydney",
+      "link": "https://www.thehindu.com/news/international/car-drives-into-a-crowd-near-newcastle-north-of-sydney-australia/article71539520.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-10-03T08:54:59+05:30",
+      "score": 12,
+      "summary": "The driver was arrested \u200cat the scene in the \u200ccity about 110 km (68 \u200cmiles) \u2060north of the \u2060New South Wales state capital, Sydney",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Australia",
+        "Sydney"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Several people injured after vehicle hits crowd in Newcastle waiting to farewell Knights team bus",
       "link": "https://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle",
       "source": "Guardian",
@@ -14747,14 +14779,21 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 10.6,
+      "source_count": 13,
       "sources_reporting": [
-        "ABC Australia"
+        "ABC Australia",
+        "Bloomberg",
+        "CBC News",
+        "Guardian",
+        "NPR",
+        "NPR",
+        "Reuters",
+        "The Hindu"
       ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
+      "trend_accel": "+79%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Argentina\u2019s \u2018Golden Passport\u2019 Program Offers Citizenship in Exchange for Foreign Cash",
@@ -16180,7 +16219,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.0,
+      "trend_score": 10.9,
       "source_count": 14,
       "sources_reporting": [
         "ABC Australia",
@@ -16192,7 +16231,7 @@
         "NPR",
         "The Hindu"
       ],
-      "trend_accel": "+81%",
+      "trend_accel": "+80%",
       "heat_level": "CRITICAL"
     },
     {
@@ -18913,8 +18952,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "Al Jazeera",
@@ -19577,38 +19616,6 @@
         "France24"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-02T05:26:06+00:00",
-      "score": 12,
-      "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Europe",
-        "Trump"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ],
@@ -49050,6 +49057,71 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 0.7 - 64 km ENE of Pedro Bay, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026toeyfb",
+      "source": "USGS",
+      "timestamp": "2026-10-03T03:28:15.564000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-03 03:27:29 UTC2026-10-03 03:27:29 UTC at epicenterLocation60.041\u00b0N 153.077\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Pedro",
+        "Bay",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 10 km S of Idyllwild, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342367",
+      "source": "USGS",
+      "timestamp": "2026-10-03T03:20:13.110000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-03 03:09:27 UTC2026-10-03 03:09:27 UTC at epicenterLocation33.649\u00b0N 116.711\u00b0WDepth16.66 km (10.35 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Idyllwild"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 5.0 - 163 km SE of Petropavlovsk-Kamchatsky, Russia",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal",
       "source": "USGS",
@@ -55494,72 +55566,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 33 km WSW of Nanwalek, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tlraem",
-      "source": "USGS",
-      "timestamp": "2026-10-01T18:33:26.579000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-01 18:30:40 UTC2026-10-01 18:30:40 UTC at epicenterLocation59.234\u00b0N 152.452\u00b0WDepth66.30 km (41.20 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Nanwalek",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 49 km WNW of Karluk, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tlqtva",
-      "source": "USGS",
-      "timestamp": "2026-10-01T18:25:00.211000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-01 18:23:31 UTC2026-10-01 18:23:31 UTC at epicenterLocation57.709\u00b0N 155.242\u00b0WDepth86.10 km (53.50 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Karluk",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
