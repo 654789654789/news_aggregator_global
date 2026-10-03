@@ -6951,7 +6951,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.3,
+      "trend_score": 8.2,
       "source_count": 16,
       "sources_reporting": [
         "NPR",
@@ -13065,6 +13065,40 @@
     }
   ],
   "World": [
+    {
+      "title": "Accepted her as she was still PM: Indian envoy on Hasina's flight",
+      "link": "https://timesofindia.indiatimes.com/world/south-asia/accepted-her-as-she-was-still-pm-indian-envoy-on-hasinas-flight/articleshow/134668427.cms",
+      "source": "Times of India",
+      "timestamp": "2026-10-04T05:03:31+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Indian",
+        "Hasinas"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Yemen\u2019s Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
       "link": "https://www.thehindu.com/news/international/yemen-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones/article71541954.ece",
@@ -19607,24 +19641,30 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "From Shiv-on to off: Musk\u2019s half-Indian partner goes into ex space",
-      "link": "https://timesofindia.indiatimes.com/world/us/from-shiv-on-to-off-musks-half-indian-partner-goes-into-ex-space/articleshow/134645330.cms",
-      "source": "Times of India",
-      "timestamp": "2026-10-03T00:05:35+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
+      "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+      "link": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-03T23:37:23+00:00",
+      "score": 14,
+      "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Shivon",
-        "Musks"
+        "Director",
+        "National",
+        "Intelligence",
+        "Jay",
+        "Clayton",
+        "WSJ"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19633,15 +19673,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "Times of India"
+        "CNBC"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "\u2018Digger,\u2019 Warner Bros.\u2019 Last Release Before Merger, Is a Major Flop",
       "link": "https://www.nytimes.com/2026/10/03/business/media/digger-tom-cruise-box-office.html",
@@ -26103,39 +26141,6 @@
       ],
       "trend_accel": "+55%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
-      "link": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-01T16:40:23+00:00",
-      "score": 15,
-      "summary": "GM's sales of all-electric vehicles are down across the board, as enthusiasm for electric vehicles wanes.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Motor",
-        "Toyota",
-        "EVs"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -32327,6 +32332,41 @@
   ],
   "Sports": [
     {
+      "title": "Panthers elevate Ja\u2019Seem Reed amidst Coker injury - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNXJDMV9RQUlfUWF2TkRfSWZaeW8xVTRIVmZ0SS16V1k4N1JUWFA1WGdETFFCbmV4NjJGSkM2MVFyM09jUEJkNXJzNGExR2FQdHJCMVpNZ0xBOFFoRjBjVURZdGZ3WjFxWDBsM2dKQmVkZWFQOWtNQ0Q0STZ3dmJwNnNSNjBPcTRxbHJMOHlKQTFKSlVLUTk1SUpnU1NGUzNOMVlqb1lTZzl1MXJCUGhRLUtZZ3k?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-10-03T23:33:27+00:00",
+      "score": 12,
+      "summary": "Panthers elevate Ja\u2019Seem Reed amidst Coker injury NBC SportsSee more headlines & perspectives on Google News",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "JaSeem",
+        "Reed",
+        "Coker",
+        "NBC",
+        "Sports"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Former Penguins defenseman Lyle Odelein dies at 58 - post-gazette.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZTJjOUg2UTFTM3VnNFVJZGFFcmF2ZFdvVnFuZm1uVEIxT1AxX0cyZlpraFlfOE5yOHVrc3hxUmxNd2I4OG12eVVGdDYxNzRZUkJCcm1BREUxVHZha044V0szZ1ROTWh2Y1Q0X01TRzIwSWt2ZUlIMGIzM2ZEbTlfakdIYS05OHRjLTZQSlpGT0ZTaGNKWDRqXzFQMWFkN3k5dFhPWVk1WG91aExPYmc5YmRTbDhaanpyM1BzOVZVdw?oc=5",
       "source": "Google News",
@@ -34743,30 +34783,43 @@
       ],
       "trend_accel": "+64%",
       "heat_level": "HOT"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "BKFC 94 results: Bloodied Darren Till beats Yoel Romero before chaos breaks out in Manchester - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMEN5Z2YtZlhhVnVKaEM1ZDBwS29qaERKcGdTQ3JEYkc1N0xfVTk5eUVKMFVCQVh0cUstbElValpNam5BNEZSWVdTUXVSbGtXS1k1dWthdjg5Q1pjc282TU01YlY5SnlXdGtLdXFIZ2VSOTgyQnZuMVNWVlY0S1lJUVRvWHBhejBJYmd5MTRqN1dkVzE5SDBJNWltcy1kcXJHbngyd0xoNzlTV3BRRkhWRnEwdUFISFlBTGNVLVIwVGRhMzFnNW9HMDVLbEtIUDIyV29BeFNVRGxkSEt1RTdMd2xZeWo?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-09-26T23:33:06+00:00",
-      "score": 15,
-      "summary": "BKFC 94 results: Bloodied Darren Till beats Yoel Romero before chaos breaks out in Manchester Yahoo SportsBKFC 94 live blog: Darren Till vs. Yoel Romero MMA FightingBKFC 94 results: Darren Till outpoints Yoel Romero, has fiery exchange with Lorenzo Hunt MMA JunkieDarren Till: ...",
+      "title": "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He\u2019s \u2018Addicted Like Everybody Else\u2019: \u2018They\u2019re Facilitating Our Own Destruction\u2019",
+      "link": "https://variety.com/2026/film/news/paul-rudd-phone-addiction-a-statement-nyff-1236898348/",
+      "source": "Variety",
+      "timestamp": "2026-10-03T23:43:13+00:00",
+      "score": 12,
+      "summary": "Paul Rudd plays the moderator of the first-ever meeting dedicated to solving America\u2019s climate crisis in \u201cA Statement,\u201d the latest film from Oscar-winning director Tom McCarthy. Set at a Florida beachside resort in 1980, the film follows 20 experts who spend a weekend in a con...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Aggregator",
+      "source_type": "Entertainment",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Bloodied",
-        "Darren",
-        "Till",
-        "Yoel",
-        "Romero",
-        "Manchester",
-        "Yahoo",
-        "Sports"
+        "Rudd",
+        "Says",
+        "Stopped",
+        "Bringing",
+        "His",
+        "Phone",
+        "Film",
+        "Sets",
+        "Because",
+        "Hes",
+        "Addicted",
+        "Like",
+        "Everybody",
+        "Else",
+        "Theyre",
+        "Facilitating",
+        "Our",
+        "Own",
+        "Destruction"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -34775,15 +34828,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "Google News"
+        "Variety"
       ],
-      "trend_accel": "+53%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
     {
       "title": "Jeremy Strong Defends Method Acting, Says He Doesn\u2019t Feel the Need to \u2018Apologize\u2019 to Co-Stars Who May Think \u2018I\u2019m Taking It Too Seriously\u2019",
       "link": "https://variety.com/2026/film/news/jeremy-strong-defends-method-acting-social-reckoning-1236898328/",
@@ -42794,44 +42845,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Noah Kahan Delivers Heartache and Hope on New \u2018Hunger Games\u2019 Single",
-      "link": "https://www.rollingstone.com/music/music-news/noah-kahan-hunger-games-song-draw-you-out-1235635660/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-10-02T04:22:32+00:00",
-      "score": 12,
-      "summary": "\"Draw You Out\" will appear on the soundtrack for The Hunger Games: Sunrise on the Reaping",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kahan",
-        "Delivers",
-        "Heartache",
-        "Hope",
-        "New",
-        "Hunger",
-        "Games",
-        "Single"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49616,6 +49629,72 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 0.8 - 10 km ENE of Coso Junction, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41342679",
+      "source": "USGS",
+      "timestamp": "2026-10-03T23:43:47.300000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-03 23:40:14 UTC2026-10-03 23:40:14 UTC at epicenterLocation36.072\u00b0N 117.843\u00b0WDepth2.68 km (1.67 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Coso",
+        "Junction"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.5 - 293 km SSE of Tabiauan, Philippines",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzf7",
+      "source": "USGS",
+      "timestamp": "2026-10-03T23:39:45.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-03 23:14:35 UTC2026-10-03 23:14:35 UTC at epicenterLocation3.590\u00b0N 122.930\u00b0EDepth575.04 km (357.31 mi)",
+      "country": "Philippines",
+      "region": "Southeast Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Tabiauan",
+        "Philippines"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 5.9 - 39 km WSW of Tambolaka, Indonesia",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzer",
       "source": "USGS",
@@ -56023,71 +56102,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 25 km ESE of Naalehu, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75048247",
-      "source": "USGS",
-      "timestamp": "2026-10-02T13:41:24.750000+00:00",
-      "score": 17,
-      "summary": "Time2026-10-02 13:37:51 UTC2026-10-02 13:37:51 UTC at epicenterLocation18.996\u00b0N 155.348\u00b0WDepth14.80 km (9.20 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Naalehu",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.4 - 2 km NW of Central, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tnapxe",
-      "source": "USGS",
-      "timestamp": "2026-10-02T12:59:58.342000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-02 12:18:19 UTC2026-10-02 12:18:19 UTC at epicenterLocation65.584\u00b0N 144.842\u00b0WDepth3.40 km (2.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Central",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
