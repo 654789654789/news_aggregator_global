@@ -13072,6 +13072,41 @@
   ],
   "World": [
     {
+      "title": "Breaking: Police Commissioner Grant Stevens appointed SA's next governor",
+      "link": "https://www.abc.net.au/news/2026-10-06/grant-stevens-succeeds-frances-adamson-as-sa-governor/107233062",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-06T01:24:24+00:00",
+      "score": 12,
+      "summary": "Police Commissioner Grant Stevens has been appointed South Australia's new governor, succeeding the outgoing Frances Adamson.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Police",
+        "Commissioner",
+        "Grant",
+        "Stevens",
+        "SAs"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "OpenAI to reiterate apology to Australia over Medicare hack as inquiry told artists risk becoming \u2018roadkill\u2019",
       "link": "https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon",
       "source": "Guardian",
@@ -19645,38 +19680,52 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "NT man caught driving 100km/h over speed limit",
-      "link": "https://www.abc.net.au/news/2026-10-05/nt-police-catch-nt-man-speeding-100km-over-limit/107229326",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-05T01:53:57+00:00",
-      "score": 13,
-      "summary": "Northern Territory Police have charged a man with speeding and high-range drink driving after catching him allegedly driving at more than 100km/h over the limit before returning a blood-alcohol result of 0.153.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "Stock market outlook today, 6 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei, Taiwan cues",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-6-oct-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-nikkei-taiwan-cues-11791247193944.html",
+      "source": "Livemint",
+      "timestamp": "2026-10-06T06:49:59+05:30",
+      "score": 17,
+      "summary": "Stock market prediction for Tuesday, 6 October, 2026: Gift Nifty was trading around the 22,663 level, up nearly 81 points from the Nifty futures\u2019 previous close, indicating a positive start for the Indian stock market indices.",
+      "country": "Taiwan",
+      "region": "East Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Oct",
+        "Sensex",
+        "Nifty",
+        "DJIA",
+        "NASDAQ",
+        "GIFT",
+        "Nikkei",
+        "Taiwan"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 8.0,
+      "source_count": 13,
       "sources_reporting": [
-        "ABC Australia"
+        "AP",
+        "Guardian",
+        "Livemint",
+        "NHK"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+      "trend_accel": "+71%",
+      "heat_level": "SURGING"
+    },
     {
       "title": "Banks gain funding boost from FCNR deposits, but margins face near-term pressure",
       "link": "https://www.livemint.com/market/banks-gain-funding-boost-from-fcnr-deposits-but-margins-face-near-term-pressure-11791190047174.html",
@@ -22796,8 +22845,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 7.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "CNBC",
@@ -26354,32 +26403,27 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "US Sanctions A7, a Russia Firm That Helps Sidestep Economic Restrictions",
-      "link": "https://www.nytimes.com/2026/10/01/business/a7-russia-us-sanctions.html",
-      "source": "NYT",
-      "timestamp": "2026-10-03T00:34:29+00:00",
-      "score": 15,
-      "summary": "The move followed reports detailing how A7, a Moscow firm, uses shell companies around the world to move funds for clients who are themselves subject to sanctions.",
+      "title": "Neutrons, rotating black holes, and a galactic PeVatron at the center of the Milky Way",
+      "link": "https://phys.org/news/2026-10-neutrons-rotating-black-holes-galactic.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-05T21:20:01-04:00",
+      "score": 12,
+      "summary": "Galactic black holes are cosmic mitochondria, powerhouses of the universe. Most of the energy these supermassive black holes produce comes from the material surrounding them: superheated plasma in their accretion disks interacting with tremendous magnetic fields. But there is ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Science Publication",
       "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Sanctions",
-        "Russia",
-        "Firm",
-        "That",
-        "Helps",
-        "Sidestep",
-        "Economic",
-        "Restrictions"
+        "PeVatron",
+        "Milky",
+        "Way"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26388,15 +26432,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "NYT"
+        "Phys.org"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Global soil erosion outpaces natural recovery, report warns",
       "link": "https://phys.org/news/2026-10-global-soil-erosion-outpaces-natural.html",
@@ -32567,35 +32609,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Trehalose analog provides a new platform for designing water-soluble glycopolymers",
-      "link": "https://phys.org/news/2026-10-trehalose-analog-platform-soluble-glycopolymers.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-01T15:20:04-04:00",
-      "score": 10,
-      "summary": "Sugars are attractive building blocks for functional materials because of their high water affinity and diverse biological properties. Incorporating sugars into synthetic polymers can therefore provide materials that combine the processability of polymers with characteristics ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -35192,6 +35205,48 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Conan O\u2019Brien, Bowen Yang & Shane Gillis Podcasts Become Golden Globe Eligible As Shortlist Revealed",
+      "link": "https://deadline.com/2026/10/golden-globe-reveals-podcast-shortlist-conan-obrien-1237147495/",
+      "source": "Deadline",
+      "timestamp": "2026-10-06T01:25:15+00:00",
+      "score": 12,
+      "summary": "Amy Poehler\u2019s Good Hang won the inaugural award for Best Podcast at this year\u2019s Golden Globes. The awards show has now revealed the list of 30 eligible podcasts for its second award, to be handed out on Sunday, January 10, 2027. Making the shortlist for the first time are podc...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "OBrien",
+        "Bowen",
+        "Yang",
+        "Shane",
+        "Gillis",
+        "Podcasts",
+        "Become",
+        "Golden",
+        "Globe",
+        "Eligible",
+        "Shortlist",
+        "Revealed"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Artificial\u2019 First Reactions: Luca Guadagnino\u2019s OpenAI Drama is \u2018Provocative,\u2019 \u2018Downright Horrifying\u2019 and His \u2018Best Film in a Decade\u2019",
       "link": "https://variety.com/2026/film/news/artificial-first-reactions-sam-altman-open-ai-1236899622/",
@@ -43228,42 +43283,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Anne Hathaway Ends \u2018Renaissance\u2019 Year With Third No. 1 Movie",
-      "link": "https://www.nytimes.com/2026/10/04/movies/anne-hathaway-odyseey-devil-prada-verity.html",
-      "source": "NYT",
-      "timestamp": "2026-10-04T20:24:40+00:00",
-      "score": 17,
-      "summary": "\u201cVerity,\u201d Hathaway\u2019s fifth film of the year, opened this weekend with $33 million months after \u201cThe Devil Wears Prada 2\u201d and \u201cThe Odyssey\u201d also topped the box office.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hathaway",
-        "Ends",
-        "Renaissance",
-        "Year",
-        "Third",
-        "Movie"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49915,6 +49934,38 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 1.9 - 9 km SE of Sparks, Oklahoma",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026toas",
+      "source": "USGS",
+      "timestamp": "2026-10-06T01:27:51.112000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-06 01:26:23 UTC2026-10-06 01:26:23 UTC at epicenterLocation35.552\u00b0N 96.748\u00b0WDepth4.21 km (2.61 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sparks",
+        "Oklahoma"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 0.4 - 58 km ENE of Pedro Bay, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ttnoiv",
       "source": "USGS",
@@ -56384,37 +56435,6 @@
         "USGS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 3 km NE of Almanor, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75444306",
-      "source": "USGS",
-      "timestamp": "2026-10-04T18:24:13.233000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-04 18:22:37 UTC2026-10-04 18:22:37 UTC at epicenterLocation40.236\u00b0N 121.160\u00b0WDepth6.86 km (4.26 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Almanor"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
