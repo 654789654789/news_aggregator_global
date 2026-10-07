@@ -1,6 +1,43 @@
 {
   "Politics": [
     {
+      "title": "Trump Officials Ramp Up Investigations Into Voter Registration Groups",
+      "link": "https://www.nytimes.com/2026/10/07/us/politics/trump-voter-registration-noncitizens-investigation.html",
+      "source": "NYT",
+      "timestamp": "2026-10-07T10:01:06+00:00",
+      "score": 12,
+      "summary": "The Trump administration is investigating nonprofits that it says may be recruiting noncitizens for voter registration, documents show, even though noncitizen voting in the United States is rare.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Officials",
+        "Ramp",
+        "Investigations",
+        "Into",
+        "Voter",
+        "Registration",
+        "Groups"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "CEC row LIVE: Fight won't be easy, be prepared for prolonged agitation: CJP ahead of October 10 protest",
       "link": "https://www.thehindu.com/news/national/cec-row-gyanesh-kumar-india-bloc-march-election-commission-sir-delhi-police-cjp-jantar-mantar-protest-live-updates-october-7-2026/article71554188.ece",
       "source": "The Hindu",
@@ -6618,26 +6655,24 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Tamil Nadu bypolls: Madurantakam and Dharapuram record 83.86% and 78.53% polling as of 5 p.m.",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-bypolls-madurantakam-dharapuram-voting-percentage-turnout/article71550240.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-06T18:05:18+05:30",
-      "score": 15,
-      "summary": "Polling was halted in a booth in Dharapuram; technical glitches in EVMs were reported at two polling stations in Madurantakam",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Jaguar\u2019s first EV looks just like its divisive concept car",
+      "link": "https://www.theverge.com/transportation/1006536/jaguar-type-01-design-specs-price-reveal",
+      "source": "Verge",
+      "timestamp": "2026-10-07T06:03:46-04:00",
+      "score": 12,
+      "summary": "The Type 01, Jaguar's most important and divisive car in years, has arrived. The production follow-up to the polarising Type 00 concept, Jaguar says the electric, four-door grand tourer is its most powerful road car ever. Even though the Type 00's design chief was reportedly f...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Nadu",
-        "Madurantakam",
-        "Dharapuram"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6645,15 +6680,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+43%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Lenovo ThinkBook 14x Launched in India With Intel Core Ultra Series 2 Processors: Price, Specifications",
       "link": "https://www.gadgets360.com/laptops/news/lenovo-thinkbook-14x-price-in-india-launch-specifications-features-12150375",
@@ -13303,23 +13336,28 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "AI music maker Suno now generates spoken words",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "source": "Verge",
-      "timestamp": "2026-10-02T05:42:19-04:00",
-      "score": 14,
-      "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Russian missile, drone assault leaves at least 12 dead across Ukraine",
+      "link": "https://www.cbc.ca/news/world/ukraine-war-russia-1719-9.7372158?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-10-07T06:07:37-04:00",
+      "score": 17,
+      "summary": "Russian missiles and drones pounded Kyiv and a dozen other Ukrainian regions overnight into Wednesday, killing at least 12 civilians, including three children, and wounding more than 40 in Moscow's latest devastating barrage, Ukrainian officials said.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
       "entities": [
-        "Suno"
+        "Ukraine"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13330,13 +13368,110 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "CBC News"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "'Hard to describe': Melbourne Jewish community marks October 7",
+      "link": "https://www.abc.net.au/news/2026-10-07/october-7-israel-hamas-attacks-three-year-anniversary-melbourne/107239104",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-07T10:06:31+00:00",
+      "score": 15,
+      "summary": "About a thousand people have packed out a venue in Melbourne's south-east to honour the lives taken three years ago when Hamas militants attacked Israel.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Melbourne",
+        "Jewish",
+        "October"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
+      "link": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
+      "source": "NPR",
+      "timestamp": "2026-10-07T06:05:54-04:00",
+      "score": 14,
+      "summary": "Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kagan",
+        "Kenso",
+        "Soai",
+        "Nobel",
+        "Prize"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NPR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Badenoch expected to announce plan to cut inheritance tax in speech to Tory conference \u2013 UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates",
+      "source": "Guardian",
+      "timestamp": "2026-10-07T10:03:58+00:00",
+      "score": 12,
+      "summary": "Conservative leader to deliver keynote speech on final day of Tory conference Chris Philp, the shadow home secretary, is speaking now at the conference. He described Nick Timothy as the \u201cBob the Builder\u201d of the next parliament on the basis of the Tory pledge to build 50,000 pr...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tory"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Russia \u2018pursuing strategy of terror\u2019, EU\u2019s von der Leyen says after deadly strikes on Ukraine \u2013 Europe live",
       "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates",
@@ -19767,50 +19902,21 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-06T12:51:05+00:00",
-      "score": 13,
-      "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-      "country": "Nigeria",
-      "region": "Africa",
+      "title": "Treasury yields rise as oil moves higher, traders await key U.S. bond sale",
+      "link": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-07T10:08:22+00:00",
+      "score": 14,
+      "summary": "U.S. Treasury yields climbed Wednesday after retreating in the previous session, as oil prices moved higher.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Asos app users sent 'hacked' message from online retailer",
-      "link": "https://www.abc.net.au/news/2026-10-06/asos-app-users-sent-hacked-message/107236520",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-06T12:49:30+00:00",
-      "score": 12,
-      "summary": "\"Engage with us, or we will leak it,\" Asos shoppers warned in an alarming message sent from online retailer's app.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -19821,33 +19927,35 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
     },
     {
-      "title": "Plague epidemic risk in Russia low after death of lab technician, WHO says",
-      "link": "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who",
-      "source": "Guardian",
-      "timestamp": "2026-10-06T12:38:58+00:00",
-      "score": 14,
-      "summary": "World Health Organization detects no sign of further outbreak since Darya Shipilova died last weekThe World Health Organization has said the risk of an epidemic in Russia is lowafter the sudden death of a lab technician who worked at a plague research institute in Siberia.Dary...",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "125+ best October Prime Day deals: Record low prices on Apple, Lego, and Ninja",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KNXpLS19lRmtsS0xBaXgwWHdxcFNNS1ppNnlGT0JxWjZyRVJ0OXZzMnJ1NDFNalBuVUVZd1hVWjcweWxNOWN3RllfdVlzb21odC1HdFBFZ3Z6Ti1FamxqbGxPQVk3enVlYzd5dzRGbFVVZw?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-10-07T10:02:34+00:00",
+      "score": 17,
+      "summary": "125+ best October Prime Day deals: Record low prices on Apple, Lego, and Ninja MashableIt\u2019s Prime Day (Again). Here Are the Best Deals From Amazon\u2019s Prime Big Deal Days. The New York TimesThese are the best Lightning Deals to shop on Amazon Prime Day, but they won\u2019t last long ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics",
-        "Bio-Security"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Russia",
-        "WHO"
+        "October",
+        "Prime",
+        "Day",
+        "Record",
+        "Apple",
+        "Lego",
+        "Ninja"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19856,50 +19964,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Guardian"
+        "Google News"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
     },
-    {
-      "title": "K-8 attack jets, military vehicles spotted at new China-Laos air base: Report",
-      "link": "https://timesofindia.indiatimes.com/world/china/k-8-attack-jets-military-vehicles-spotted-at-new-china-laos-air-base-report/articleshow/134740777.cms",
-      "source": "Times of India",
-      "timestamp": "2026-10-06T18:07:01+05:30",
-      "score": 17,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [
-        "ChinaLaos",
-        "Report"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "'Get your house in order': IMF chief's stark warning for France over surging bond yields",
       "link": "https://www.cnbc.com/2026/10/07/imf-france-debt-student-protests-yields.html",
@@ -26450,24 +26521,91 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Wall Street rewards Microsoft's AI pivot. A longtime skeptic says it's just the beginning",
-      "link": "https://www.cnbc.com/investingclub/2026/10/05/wall-street-rewards-microsofts-ai-pivot-a-longtime-skeptic-flips-bullish.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-05T18:43:12+00:00",
+      "title": "Nobel Prize in chemistry awarded to Kagan and Soai for developing 'spectacular' chemical reactions",
+      "link": "https://phys.org/news/2026-10-nobel-prize-chemistry-awarded-kagan.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-07T06:12:46-04:00",
       "score": 14,
-      "summary": "Melius Research's Ben Reitzes has warned about AI disrupting legacy software providers for years. Now, he loves Microsoft's place in the AI race.",
+      "summary": "Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their efforts to resolve mysterious mirror images in chemical molecules.",
       "country": "US",
       "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Prize",
+        "Kagan",
+        "Soai"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-07T10:09:57+00:00",
+      "score": 12,
+      "summary": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+      "country": "UK",
+      "region": "Europe",
       "source_type": "Broadcaster",
-      "trust_score": 8,
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nobel"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nobel Prizes 2026: What to Know",
+      "link": "https://www.nytimes.com/article/nobel-prizes-2026.html",
+      "source": "NYT",
+      "timestamp": "2026-10-07T10:04:09+00:00",
+      "score": 15,
+      "summary": "The recipients of the six awards in science, literature, economics and peace work are being announced this week.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Street",
-        "Microsofts"
+        "Prizes",
+        "What",
+        "Know"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26478,46 +26616,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Starbucks recovery plan is working. Here's how Mike Khouw says to trade the coffee giant",
-      "link": "https://www.cnbc.com/2026/10/05/starbucks-recovery-plan-is-working-heres-how-mike-khouw-says-to-trade-the-coffee-giant.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-05T18:40:35+00:00",
-      "score": 12,
-      "summary": "Mike Khouw breaks down how he's trading Starbucks through options.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Heres",
-        "Mike",
-        "Khouw"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
+        "NYT"
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Chemistry Nobel 2026 awarded to Henri B. Kagan and Kenso Soai",
       "link": "https://www.thehindu.com/sci-tech/science/nobel-prize-in-chemistry-2026-winner/article71554613.ece",
@@ -26544,15 +26647,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 7,
+      "trending": true,
+      "trend_score": 11.1,
+      "source_count": 17,
       "sources_reporting": [
+        "BBC",
+        "Bloomberg",
         "NYT",
+        "PBS",
+        "Phys.org",
         "The Hindu"
       ],
-      "trend_accel": "+67%",
-      "heat_level": "HOT"
+      "trend_accel": "+87%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Nobel Prize in Chemistry Is Awarded to Henri Kagan and Kenso Soai",
@@ -26582,15 +26689,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 8,
+      "trending": true,
+      "trend_score": 11.2,
+      "source_count": 14,
       "sources_reporting": [
+        "Bloomberg",
+        "Guardian",
+        "NPR",
         "NYT",
+        "Phys.org",
         "The Hindu"
       ],
-      "trend_accel": "+67%",
-      "heat_level": "HOT"
+      "trend_accel": "+87%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Tamil Nadu may encounter El Ni\u00f1o differently from rest of India",
@@ -29465,8 +29576,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -29603,8 +29714,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -32597,102 +32708,6 @@
       ],
       "trend_accel": "+65%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "Queen's University students blast off to US for Nasa robotics competition",
-      "link": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-04T05:19:30+00:00",
-      "score": 12,
-      "summary": "The students will head to Florida to compete against university teams from Australia, India and the US.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "University",
-        "Nasa"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 14,
-      "sources_reporting": [
-        "BBC",
-        "NPR",
-        "PBS",
-        "Reuters"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Cities keep shelling out taxpayer money for sports stadiums, yet the economics almost never makes sense",
-      "link": "https://phys.org/news/2026-09-cities-shelling-taxpayer-money-sports.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-03T20:30:01-04:00",
-      "score": 10,
-      "summary": "Americans are crazy about sports. But whether that passion requires taxpayers to subsidize new facilities every time leagues and franchises ask for them needs rigorous scrutiny.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 17,
-      "sources_reporting": [
-        "BBC",
-        "Bloomberg",
-        "PBS",
-        "Phys.org"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Feeling secure in a group may help dissenters make stronger arguments",
-      "link": "https://phys.org/news/2026-09-group-dissenters-stronger-arguments.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-03T17:00:06-04:00",
-      "score": 10,
-      "summary": "When everyone in a meeting voices the same opinion, an organization can miss important warning signs and new ideas. A research team from KAIST suggests that when members feel securely accepted within their group, they can express dissenting opinions in greater detail and more ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -50252,6 +50267,101 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 0.7 - 4 km SSW of Redlands, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41344463",
+      "source": "USGS",
+      "timestamp": "2026-10-07T10:14:30.081000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-07 10:10:58 UTC2026-10-07 10:10:58 UTC at epicenterLocation34.017\u00b0N 117.197\u00b0WDepth3.32 km (2.06 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Redlands"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.6 - 1 km NE of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445906",
+      "source": "USGS",
+      "timestamp": "2026-10-07T10:11:40.347000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-07 10:10:03 UTC2026-10-07 10:10:03 UTC at epicenterLocation38.786\u00b0N 122.745\u00b0WDepth0.21 km (0.13 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.1 - 18 km N of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75051612",
+      "source": "USGS",
+      "timestamp": "2026-10-07T10:07:17.400000+00:00",
+      "score": 17,
+      "summary": "Time2026-10-07 10:03:48 UTC2026-10-07 10:03:48 UTC at epicenterLocation19.370\u00b0N 155.507\u00b0WDepth7.78 km (4.83 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Emergency Medication Administration - Gloucestershire County Council",
       "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQOWpZMnY4S0Q5T05fLTZDZUg1d0k4MWNTX2hibFFEQWg1cUllRFJYVzJVOGUtWnNjNHZYWVp1VWxZcEI3TzJtTEh0RFpna1ZpaTJSUGJIemVQTWdCM3c1SVhxVUIyWFIzX2IzR29GbGUxSTNia1UyRW5fSEhiQm1PRFZfeVgtLUYzc0hUekVLLTBVbG5RX2NDN0pPMTdmYklwMjhveFJXREl0bEZhTmt6ZUpwVUFGR1JRb2ppcEljUlNnZ294azNLOThLU3VVaWVTbmpPOTdtbmtyV1p4MWpaaGl6RktXQkV4UnZYbGhEb0lmWmZudlFGLW1PY24xc2RaeXpJanpROU8wN3B5UjI4c0VOYk15MldmWk9MS1hDamx0OS1RWVBodjk4QnRLZDJIMkxILXUzZWloakJZck1RRWdGV0s4Vko4emt3OWZsNFozR3p5RnBRdE82ODVLLTg?oc=5",
       "source": "Google News",
@@ -56680,102 +56790,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 12 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445336",
-      "source": "USGS",
-      "timestamp": "2026-10-06T07:03:33.576000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-06 07:01:57 UTC2026-10-06 07:01:57 UTC at epicenterLocation38.831\u00b0N 122.872\u00b0WDepth2.71 km (1.68 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Ethiopia",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032562",
-      "source": "GDACS",
-      "timestamp": "2026-10-06T07:00:58+00:00",
-      "score": 12,
-      "summary": "On 04/10/2026, a forest fire started in Ethiopia, until 04/10/2026.",
-      "country": "Ethiopia",
-      "region": "Africa",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ethiopia"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.6 - 20 km ESE of Little Lake, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41343943",
-      "source": "USGS",
-      "timestamp": "2026-10-06T06:59:49.415000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-06 06:56:30 UTC2026-10-06 06:56:30 UTC at epicenterLocation35.874\u00b0N 117.702\u00b0WDepth6.06 km (3.77 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Little",
-        "Lake"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
