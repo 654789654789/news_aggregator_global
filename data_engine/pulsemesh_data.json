@@ -1,6 +1,42 @@
 {
   "Politics": [
     {
+      "title": "Live updates: Trump holds science summit; Vance lays out work visa penalties for Microsoft, Adobe",
+      "link": "https://thehill.com/homenews/administration/6135113-live-updates-trump-midterm-elections-debates-tech-iran/",
+      "source": "The Hill",
+      "timestamp": "2026-10-08T18:13:10+00:00",
+      "score": 14,
+      "summary": "Vice President Vance on Thursday announced the Trump administration is penalizing Microsoft and Adobe, among other firms, alleging fraud in the use of H1-B work visas. The tech giants will no longer be allowed to apply for green cards for workers. The White House is hosting a ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Trump",
+        "Vance",
+        "Microsoft",
+        "Adobe"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump to campaign in Alaska amid midterm blitz",
       "link": "https://thehill.com/homenews/administration/6136988-trump-wasilla-alaska-rally/",
       "source": "The Hill",
@@ -6597,25 +6633,24 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Trump's $90 Medicare rebate rolls out, but millions aren't eligible. Critics see a political stunt",
-      "link": "https://www.pbs.org/newshour/politics/trumps-90-medicare-rebate-rolls-out-but-millions-arent-eligible-critics-see-a-political-stunt",
-      "source": "PBS",
-      "timestamp": "2026-10-07T17:53:23-04:00",
-      "score": 15,
-      "summary": "President Donald Trump says his administration will make one-time payments of $90 per person to help more than 20 million Medicare enrollees pay for their Part B premiums. It will cost about $2 billion.",
+      "title": "OpenAI\u2019s math solutions aren\u2019t meeting the field\u2019s standards yet",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-08T18:10:55+00:00",
+      "score": 12,
+      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Medicare",
-        "Critics"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6623,15 +6658,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "PBS"
+        "TechCrunch"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "USA Today becomes the latest publisher to sue OpenAI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
@@ -13368,24 +13401,30 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost",
-      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-05T19:33:53+00:00",
+      "title": "Houthi Attacks on Saudi Airports Prompt Mass Cancellations",
+      "link": "https://www.nytimes.com/2026/10/08/world/middleeast/saudi-yemen-houthis-attack.html",
+      "source": "NYT",
+      "timestamp": "2026-10-08T18:11:49+00:00",
       "score": 14,
-      "summary": "Nvidia-backed Reflection AI unveils Beam, its first open-weight model, which it says rivals GLM-5.2 on reasoning with far less inference compute. Weights are due this month.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "summary": "The Saudi authorities said they intercepted two missiles targeting Riyadh, a day after they said Houthi strikes on airports in the kingdom killed three people.",
+      "country": "Saudi Arabia",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Beam",
-        "Chinese"
+        "Attacks",
+        "Saudi",
+        "Airports",
+        "Prompt",
+        "Mass",
+        "Cancellations"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13394,15 +13433,86 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "NYT"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Russia\u2019s Silence on Possible Plague Outbreak Stokes Fears of a Cover-Up",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/russia-plague-outbreak.html",
+      "source": "NYT",
+      "timestamp": "2026-10-08T18:09:47+00:00",
+      "score": 12,
+      "summary": "As rumors spread about a possible plague outbreak in Siberia, the Kremlin turned to a familiar playbook: offering little information about potential bad news.",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics",
+        "Bio-Security"
+      ],
+      "entities": [
+        "Silence",
+        "Possible",
+        "Plague",
+        "Outbreak",
+        "Stokes",
+        "Fears",
+        "CoverUp"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Two Latvian men arrested inside UK military base after breach",
+      "link": "https://www.aljazeera.com/news/2026/10/8/two-latvian-men-arrested-inside-uk-military-base-after-breach?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-10-08T18:01:20+00:00",
+      "score": 12,
+      "summary": "Police say nothing so far suggests the incident at RAF Molesworth linked \u200bto events surrounding RAF Fairford last month.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Latvian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
       "link": "https://www.ft.com/content/79cef26a-e5e9-41d0-9af2-876dc23a9a7d?syn-25a6b1a6=1",
@@ -15570,8 +15680,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -16646,8 +16756,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
+      "trending": true,
+      "trend_score": 11.1,
       "source_count": 12,
       "sources_reporting": [
         "ABC Australia",
@@ -16657,7 +16767,7 @@
         "PBS",
         "Reuters"
       ],
-      "trend_accel": "+81%",
+      "trend_accel": "+80%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19963,60 +20073,29 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "\u2018Maricarmen,\u2019 Whose Eviction Enraged Spaniards, Dies at 87",
-      "link": "https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html",
-      "source": "NYT",
-      "timestamp": "2026-10-07T19:43:23+00:00",
-      "score": 15,
-      "summary": "Mar\u00eda del Carmen Abascal, aged and ailing, became a symbol of the country\u2019s housing crisis when she was evicted two weeks ago, prompting mass protests and triggering national elections.",
+      "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+      "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-08T18:08:00+00:00",
+      "score": 12,
+      "summary": "It doesn\u2019t matter if you are a Republican or Democrat. Math is math.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "source_type": "Financial Publication",
+      "trust_score": 8,
       "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Whose",
-        "Eviction",
-        "Enraged",
-        "Spaniards",
-        "Dies"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Bathurst 1000: How to watch, race start time and weather forecast",
-      "link": "https://www.abc.net.au/news/2026-10-08/bathurst-1000-how-to-watch-race-start-time-weather-forecast/107232620",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-07T19:33:22+00:00",
-      "score": 15,
-      "summary": "Here is what you need to know about this weekend's Bathurst 1000, including when the race begins and how you can follow the action.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "How"
+        "Paxton",
+        "Tax",
+        "Social",
+        "Security",
+        "Medicare"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -20027,19 +20106,19 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "MarketWatch"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
     },
     {
-      "title": "Hegseth tells USS Lincoln sailors controversial deployment \u2018wasn\u2019t easy\u2019",
-      "link": "https://www.theguardian.com/us-news/2026/oct/07/pete-hegseth-uss-abraham-lincoln",
-      "source": "Guardian",
-      "timestamp": "2026-10-07T19:32:50+00:00",
-      "score": 14,
-      "summary": "Pentagon chief tries to play down problems onboard carrier as it returns to dock after 260 days at sea without port callUS defense secretary Pete Hegseth told service members on the USS Abraham Lincoln on Wednesday that their deployment \u201cwasn\u2019t easy\u201d as the carrier prepares to...",
-      "country": "UK",
+      "title": "France Is Veering Toward a Potential Debt Crisis, a Warning to the World",
+      "link": "https://www.nytimes.com/2026/10/08/business/france-bond-yields.html",
+      "source": "NYT",
+      "timestamp": "2026-10-08T18:05:29+00:00",
+      "score": 12,
+      "summary": "French bond investors are demanding sharply higher interest rates, a cautionary development for other high-debt countries.",
+      "country": "France",
       "region": "Europe",
       "source_type": "Newspaper",
       "trust_score": 9,
@@ -20047,8 +20126,13 @@
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "USS",
-        "Lincoln"
+        "Veering",
+        "Toward",
+        "Potential",
+        "Debt",
+        "Crisis",
+        "Warning",
+        "World"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -20059,13 +20143,49 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Guardian"
+        "NYT"
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Shifting Eating Habits Have PepsiCo Investors Seeking Operational Changes",
+      "link": "https://www.nytimes.com/2026/10/08/business/pepsico-earnings-splitting.html",
+      "source": "NYT",
+      "timestamp": "2026-10-08T18:01:42+00:00",
+      "score": 12,
+      "summary": "Even though sales rose in the most recent quarter, the beverage and snack company is under increasing pressure to expand its business in North America, as consumers cut costs and calories.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Eating",
+        "Habits",
+        "Have",
+        "PepsiCo",
+        "Investors",
+        "Seeking",
+        "Operational",
+        "Changes"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Shifting Eating Habits Have PepsiCo Investors Seeking Bigger Operational Changes",
       "link": "https://www.nytimes.com/2026/10/08/business/pepsico-earnings-splitting.html",
@@ -26571,53 +26691,26 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Stocks made a record high. Two big bearish trades point to skepticism",
-      "link": "https://www.cnbc.com/2026/10/07/stocks-made-a-record-high-two-big-bearish-trades-point-to-skepticism.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-07T13:59:16+00:00",
-      "score": 14,
-      "summary": "In the State Street SPDR S&P 500 ETF Trust (SPY), about an hour after the opening bell on Tuesday, someone traded a 100,000-lot put spread.",
-      "country": "US",
-      "region": "Americas",
+      "title": "More than 800,000 hours of sewage spills in Wales last year, report claims",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy74e8nyggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-08T18:05:35+00:00",
+      "score": 17,
+      "summary": "It is equivalent to a sewage discharge happening every five minutes, according to campaigners.",
+      "country": "UK",
+      "region": "Europe",
       "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "trust_score": 9,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Two"
+        "Wales"
       ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Sebi expands debt maturity limits to help issuers manage cash flow",
-      "link": "https://www.livemint.com/market/sebi-expands-debt-maturity-limits-to-help-issuers-manage-cash-flow-11791377838349.html",
-      "source": "Livemint",
-      "timestamp": "2026-10-07T19:21:50+05:30",
-      "score": 10,
-      "summary": "The regulator raised the annual cap on privately placed debt ISINs from 14 to 17. Separately, it removed the merchant banker mandate for eligible small-value issuers.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26627,47 +26720,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Livemint"
+        "BBC"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
-      "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-07T13:45:34+00:00",
-      "score": 17,
-      "summary": "A congressional committee says trading platform Webull is not the ordinary U.S. company it claims, but exposes customer data to Chinese surveillance risk.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Webulls",
-        "China"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "Fading control over 'jumping genes' may explain why big dogs age faster",
       "link": "https://phys.org/news/2026-10-genes-big-dogs-age-faster.html",
@@ -32766,35 +32823,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Mathematical model makes image encryption more resilient to real-world uncertainty",
-      "link": "https://phys.org/news/2026-10-mathematical-image-encryption-resilient-real.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-06T16:40:07-04:00",
-      "score": 12,
-      "summary": "In today's digital world, everything from medical images and financial records to personal photos and secure communications depends on encryption systems that can protect sensitive information. But real-world technologies rarely operate under perfect conditions. Measurements c...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -35166,6 +35194,124 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Jenna Bans & Bill Krebs Drama \u2018Pimp\u2019 In Works At Peacock",
+      "link": "https://deadline.com/2026/10/jenna-bans-bill-krebs-pimp-series-peacock-1237150133/",
+      "source": "Deadline",
+      "timestamp": "2026-10-08T18:14:38+00:00",
+      "score": 12,
+      "summary": "EXCLUSIVE: Grosse Pointe Garden Society creators/executive producers Jenna Bans and Bill Krebs have teamed up for another twisty drama about everyday people dabbling into crime. The duo, who also worked together on Bans\u2019 Good Girls, is writing Pimp, which is in development at ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bans",
+        "Bill",
+        "Krebs",
+        "Drama",
+        "Pimp",
+        "Works",
+        "Peacock"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Brad Bird on Finally Making \u2018Ray Gunn,\u2019 His Live-Action Run and When Things Turned Political at Disney",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/brad-bird-discusses-ray-gunn-political-disney-1236725315/",
+      "source": "THR",
+      "timestamp": "2026-10-08T18:11:23+00:00",
+      "score": 12,
+      "summary": "During a BFI London Film Fest talk, he also discussed 'The Incredibles 3,' the \"800-pound gorilla\" Steven Spielberg, Steve Jobs and Tom Cruise, how Sideshow Bob is like politicians and his advice for directors.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bird",
+        "Finally",
+        "Making",
+        "Ray",
+        "Gunn",
+        "His",
+        "LiveAction",
+        "Run",
+        "When",
+        "Things",
+        "Turned",
+        "Political",
+        "Disney"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Fox Nation Docuseries Uses AI-Generated Imagery to Reanimate Harry Houdini",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/fox-nation-houdini-docuseries-ai-imagery-1236725532/",
+      "source": "THR",
+      "timestamp": "2026-10-08T18:09:28+00:00",
+      "score": 14,
+      "summary": "'Houdini: Back From the Dead' purports to have the famous magician tell his own life story.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nation",
+        "Docuseries",
+        "Uses",
+        "AIGenerated",
+        "Imagery",
+        "Reanimate",
+        "Harry",
+        "Houdini"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Jennifer Coolidge Returns For Season 2 Of \u2018The Watcher\u2019",
       "link": "https://deadline.com/2026/10/jennifer-coolidge-season-2-the-watcher-1237149519/",
@@ -43057,126 +43203,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Wicker\u2019 in 4DX at Black Bear One-Night-Only \u2013 Film News in Brief",
-      "link": "https://variety.com/2026/film/news/film-news-in-brief-oct-5-2026-1236899132/",
-      "source": "Variety",
-      "timestamp": "2026-10-07T19:00:00+00:00",
-      "score": 15,
-      "summary": "Black Bear studio announced Wednesday that \u201cWicker\u201d will be released in the immersive 4DX format in a one-night-only screening event on Oct. 28. Based on Ursula Wills\u2019 short story \u201cThe Wicker Husband,\u201d the film follows a fisherwoman (Olivia Colman) and her torrid romance with ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Black",
-        "Bear",
-        "OneNightOnly",
-        "Film",
-        "News",
-        "Brief"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Glen Powell Says He Doesn\u2019t Want to Talk Politics, Blames Paramount Marketing Cuts for \u2018The Running Man\u2019 Box Office Performance",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/glen-powell-politics-1236724656/",
-      "source": "THR",
-      "timestamp": "2026-10-07T18:58:49+00:00",
-      "score": 14,
-      "summary": "The actor told Esquire that engaging in political conversations was \"not presently possible\" and that Paramount \"let go of an entire marketing department a month before ['The Running Man'] came out in the middle of a merger.\"",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Powell",
-        "Says",
-        "Doesnt",
-        "Want",
-        "Talk",
-        "Politics",
-        "Blames",
-        "Paramount",
-        "Marketing",
-        "Cuts",
-        "Running",
-        "Man",
-        "Box",
-        "Office",
-        "Performance"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Mia Goth Files for Divorce From Shia LaBeouf One Year After Separation",
-      "link": "https://www.eonline.com/news/1436852/mia-goth-files-for-divorce-from-shia-labeouf?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-10-07T18:42:24+00:00",
-      "score": 12,
-      "summary": "Shia LaBeouf and Mia Goth are entering a new chapter. The Odyssey actress filed for divorced from the Holes star on Oct. 6 after nearly a decade of marriage, according to court documents obtained...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Goth",
-        "Files",
-        "Divorce",
-        "Shia",
-        "LaBeouf",
-        "One",
-        "Year",
-        "After",
-        "Separation"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49510,6 +49536,103 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.1 - 13 km SE of Tehachapi, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345159",
+      "source": "USGS",
+      "timestamp": "2026-10-08T18:15:00.901000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-08 18:11:35 UTC2026-10-08 18:11:35 UTC at epicenterLocation35.058\u00b0N 118.338\u00b0WDepth-0.82 km (-0.51 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tehachapi"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 3.2 - 72 km SE of Chignik, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tyojsd",
+      "source": "USGS",
+      "timestamp": "2026-10-08T18:11:29.608000+00:00",
+      "score": 15,
+      "summary": "ShakeMap - IITime2026-10-08 18:07:03 UTC2026-10-08 18:07:03 UTC at epicenterLocation55.784\u00b0N 157.670\u00b0WDepth14.70 km (9.13 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Chignik",
+        "Alaska"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.9 - 2 km ESE of Mountain View Acres, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345151",
+      "source": "USGS",
+      "timestamp": "2026-10-08T18:05:11.318000+00:00",
+      "score": 17,
+      "summary": "Time2026-10-08 18:01:51 UTC2026-10-08 18:01:51 UTC at epicenterLocation34.493\u00b0N 117.327\u00b0WDepth2.72 km (1.69 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Mountain",
+        "View",
+        "Acres"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 0.9 - 4 km NNW of The Geysers, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75446491",
@@ -56036,108 +56159,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 6 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75445956",
-      "source": "USGS",
-      "timestamp": "2026-10-07T13:58:02.170000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-07 13:56:25 UTC2026-10-07 13:56:25 UTC at epicenterLocation38.819\u00b0N 122.793\u00b0WDepth3.52 km (2.19 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 122 km NW of Arctic Village, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026twitdr",
-      "source": "USGS",
-      "timestamp": "2026-10-07T13:20:49.662000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-07 13:18:20 UTC2026-10-07 13:18:20 UTC at epicenterLocation68.920\u00b0N 147.597\u00b0WDepth2.50 km (1.55 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Arctic",
-        "Village",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tropical Storm Isaias Potential Storm Surge Flooding Map",
-      "link": "https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/112934.shtml?inundation",
-      "source": "NHC",
-      "timestamp": "2026-10-07T13:06:39+00:00",
-      "score": 14,
-      "summary": "Potential Storm Surge Flooding Map last updated Wed, 07 Oct 2026 13:06:39 GMT",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Storm",
-        "Isaias",
-        "Potential",
-        "Surge",
-        "Flooding",
-        "Map"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NHC"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
