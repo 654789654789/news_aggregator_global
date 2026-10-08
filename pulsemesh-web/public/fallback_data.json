@@ -7985,7 +7985,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -8815,7 +8815,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 16,
       "sources_reporting": [
         "Google News",
@@ -13436,6 +13436,44 @@
     }
   ],
   "World": [
+    {
+      "title": "Italy Weighs Controversial Law Giving Bonus Seats to Election Winners",
+      "link": "https://www.nytimes.com/2026/10/08/world/europe/italy-election-law-bonus.html",
+      "source": "NYT",
+      "timestamp": "2026-10-08T04:01:04+00:00",
+      "score": 14,
+      "summary": "Supporters of the law say it would bring stability to a country with a long history of short-lived governments, but critics see the measure as a threat to democracy.",
+      "country": "Italy",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Weighs",
+        "Controversial",
+        "Law",
+        "Giving",
+        "Bonus",
+        "Seats",
+        "Election",
+        "Winners"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Trump says he deserves Nobel Peace Prize ,but doubts he will get it",
       "link": "https://www.thehindu.com/news/international/trump-says-he-deserves-the-nobel-peace-prize-doubts-winning-this-year/article71558284.ece",
@@ -19931,14 +19969,50 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
+    }
+  ],
+  "Business": [
+    {
+      "title": "Oil gains as Middle East hostilities, potential escalation stoke supply worries",
+      "link": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-08T04:07:51+00:00",
+      "score": 14,
+      "summary": "President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran in the coming weeks, NBC News reported.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Middle",
+        "East"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
     },
     {
-      "title": "Sri Lanka arrests ex-First Lady in charity graft probe",
-      "link": "https://www.thehindu.com/news/international/sri-lanka-arrests-ex-first-lady-in-charity-graft-probe/article71554550.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-07T12:21:23+05:30",
-      "score": 12,
-      "summary": "The 73-year-old wife of former President Mahinda Rajapaksa was arrested in Colombo, and will be taken before a magistrate, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said",
+      "title": "TCS share price jumps 3% ahead of Q2 results - Tech experts decode what's next for the IT stock",
+      "link": "https://www.livemint.com/market/stock-market-news/tcs-share-price-jumps-3-ahead-of-q2-results-tech-experts-decode-whats-next-for-the-it-stock-11791431858306.html",
+      "source": "Livemint",
+      "timestamp": "2026-10-08T09:37:00+05:30",
+      "score": 17,
+      "summary": "TCS share price jumps 3% ahead of Q2 results - Tech experts decode what's next for the IT stock",
       "country": "India",
       "region": "South Asia",
       "source_type": "Newspaper",
@@ -19947,8 +20021,69 @@
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Lanka",
-        "Lady"
+        "Tech"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Stock futures are little changed after S&P 500 retreats from record: Live updates",
+      "link": "https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-08T04:06:52+00:00",
+      "score": 17,
+      "summary": "The stock market continues to remain resilient even as higher yields dent investor appetite.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Live"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "'Come all the way' back to EU, French finance minister tells UK",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-08T04:02:26+00:00",
+      "score": 12,
+      "summary": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "French"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19959,13 +20094,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "BBC"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Top stocks to buy for short term: Kotak Securities' expert suggests IndiGo, Union Bank of India, Sona BLW - Target price",
       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-for-short-term-kotak-securities-expert-suggests-indigo-union-bank-of-india-sona-blw-target-price-11791429990811.html",
@@ -20343,8 +20476,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.0,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "BBC",
@@ -23125,14 +23258,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 9.0,
+      "source_count": 12,
       "sources_reporting": [
-        "Google News"
+        "AP",
+        "BBC",
+        "CNBC",
+        "Google News",
+        "NHK"
       ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
+      "trend_accel": "+74%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock down nearly 30%",
@@ -26454,88 +26591,26 @@
       ],
       "trend_accel": "+55%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Boomers' dividend stocks take beating as bond yields rise, with retirement income on the line",
-      "link": "https://www.cnbc.com/2026/10/06/dividend-stocks-bond-yields-retirement-income.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-06T18:12:22+00:00",
-      "score": 12,
-      "summary": "As interest rates and bond yields rise, dividend stocks many boomers rely on for income are taking a beating. There are ways to blunt the portfolio impact.",
+      "title": "New collar sensor could reveal how wildfire smoke affects animal health",
+      "link": "https://phys.org/news/2026-10-collar-sensor-reveal-wildfire-affects.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-08T00:10:01-04:00",
+      "score": 10,
+      "summary": "When wildfire smoke fills the air, most people can go inside to avoid it. Wildlife does not have that option, and little is known about how animals living in remote areas respond to wildfires and smoke exposure.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Climatic"
+      ],
       "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Kratom, an opioid-like drug, remains legal in most states - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYnphYTdWMmFhZ2hyRjl3V0t4d1cyN1MyeUZMaktZNTFVVkJZOWJxWTMwZEFFYWl2M0JxRlNxQnl4WmZBRTR6NnE3RmdZQ1gzYlJ6MWdUTzdKUm5lVXdSZmJIV3k3REFxVlRzbFRaclJTT1pjN3dnZGswZkhqeF9ZRkd2MHp2QWEyU1ZxdnMwbWwzUXRCMDJrZWlIdkI1dVFaZEJJaVlHTzNxNmZFcEFHT2V2YzBiWDQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-10-06T18:09:01+00:00",
-      "score": 14,
-      "summary": "Kratom, an opioid-like drug, remains legal in most states The Washington PostHealth officials issue urgent warning after four Utah deaths tied to herbal supplements KUTVHealth officials issue warning after four deaths linked to illegal \u201ccat\u2019s claw\u201d and kratom products ABC4 Uta...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Washington",
-        "Post"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Gujarat Natural Resources sets November 5 as record date for the first-ever stock split. Details here",
-      "link": "https://www.livemint.com/market/stock-market-news/gujarat-natural-resources-sets-november-5-as-record-date-for-the-first-ever-stock-split-details-here-11791309160039.html",
-      "source": "Livemint",
-      "timestamp": "2026-10-06T23:37:00+05:30",
-      "score": 17,
-      "summary": "Gujarat Natural Resources announced a record date of November 5, 2026, for a proposed 1:10 stock split after shareholder approval. Each \u20b910 share will convert into 10 shares valued at Re 1, enhancing shareholder participation in the company's oil and gas exploration business.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Natural",
-        "Resources",
-        "November",
-        "Details"
-      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26545,42 +26620,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-06T17:50:19+00:00",
-      "score": 10,
-      "summary": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "Working around men may make women feel worse about mistakes, study finds",
       "link": "https://phys.org/news/2026-10-men-women-worse.html",
@@ -32649,47 +32693,47 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Sports": [
     {
-      "title": "Physics Nobel 2026 goes to Francis Halzen for  discovery of high-energy neutrinos of astrophysical origin",
-      "link": "https://www.thehindu.com/sci-tech/science/nobel-prize-in-physics-2026-winner-francis-halzen/article71550081.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-06T15:27:30+05:30",
-      "score": 15,
-      "summary": "Francis Halzen has received the 2026 NobelPrize in Physics for his decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Hurricane Isaias could impact Georgia-Alabama game with Trump set to attend",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjRhV2dRSUhlTzdmSHE3VnNobVdPV1lLeGhZYnRsSHRRYkVhckR6MGRsOFEzY3JqVDRvUVNwSHVMLUQydjJNbGFVNzk1UHM5cjhrVnBjcnNnM09FM21sUnhwQThDNUhJdlVmSWJOVTBaa2RtZEtXRjNqRFZhLXVsWkljVF84Tk9qLUhSSXJWRnFxelE?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-10-08T04:03:00+00:00",
+      "score": 14,
+      "summary": "Hurricane Isaias could impact Georgia-Alabama game with Trump set to attend AP NewsAlabama, Georgia prepare for storm to hit Saturday's game ESPNKirby Smart Reveals Georgia\u2019s Unusual Preparation for Rainy Alabama Game Amid Weather Threat Yahoo SportsTropical storm threat churn...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Climatic"
+      ],
       "entities": [
-        "Nobel",
-        "Francis",
-        "Halzen"
+        "Isaias",
+        "GeorgiaAlabama",
+        "Trump"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 11,
+      "trending": true,
+      "trend_score": 6.4,
+      "source_count": 10,
       "sources_reporting": [
-        "Bloomberg",
+        "Google News",
         "Guardian",
-        "NHK",
-        "NYT",
-        "Phys.org",
-        "The Hindu"
+        "NPR",
+        "Reuters"
       ],
-      "trend_accel": "+81%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Sports": [
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Stephen A. Smith Apologizes for Lane Johnson Retirement Comments on Mental Health - Bleacher Report",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1VHVmNma3ZIQmlnb3BRdkxhRWdvemd1OUhUblplTHVzTWhUdWJoYWs0VVY2VVFrV0ZsOU1zU1FxQllocmo4dS0xeGtCUU8wTzMtamIzLTBLdGVJTkptOWJ1M1N2TjUzMmF6dnZvOGZIMmN1aENuWGxrZmJZV1FXdUVyd3lZaUQ3Tkp4S1JmQ3U3U05XeGkxU2ROMW1OdDMwTHdHYkFhWkNxZlFWcmhBTm5qdG9JOFE?oc=5",
@@ -34207,8 +34251,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "Google News",
@@ -49696,6 +49740,44 @@
   ],
   "CrisisWatch": [
     {
+      "title": "Hurricane Isaias Potential Storm Surge Flooding Map",
+      "link": "https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/035000.shtml?inundation",
+      "source": "NHC",
+      "timestamp": "2026-10-08T04:01:02+00:00",
+      "score": 14,
+      "summary": "Potential Storm Surge Flooding Map last updated Thu, 08 Oct 2026 04:01:02 GMT",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Isaias",
+        "Potential",
+        "Storm",
+        "Surge",
+        "Flooding",
+        "Map"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NHC"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 4.9 - 81 km NNW of Malfa, Italy",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0w0",
       "source": "USGS",
@@ -56242,38 +56324,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.4 - 38 km NW of Karluk, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026tvhjdv",
-      "source": "USGS",
-      "timestamp": "2026-10-06T23:38:49.880000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-06 23:37:37 UTC2026-10-06 23:37:37 UTC at epicenterLocation57.776\u00b0N 154.982\u00b0WDepth81.20 km (50.46 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Karluk",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
