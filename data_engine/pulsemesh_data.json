@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "Delhi protest: Stopped at police barricades, daily-wage workers lose day\u2019s earnings",
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-protest-daily-wage-workers-prevented-from-reaching-workplace/article71567421.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-10-10T16:18:55+05:30",
+      "score": 14,
+      "summary": "As Delhi turned into a fortress ahead of the protest demanding Chief Election Commissioner Gyanesh Kumar\u2019s resignation, mostly only people with government ID cards were allowed to proceed towards Central Delhi",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stopped"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Anti-CEC protest: Police pelted with stones near Akashwani Bhawan; two injured",
       "link": "https://www.thehindu.com/news/national/anti-cec-protest-police-pelted-with-stones-near-akashwani-bhawan-two-injured/article71567467.ece",
       "source": "The Hindu",
@@ -6712,27 +6743,25 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Watch live: Trump touts Columbus Day at White House",
-      "link": "https://thehill.com/homenews/administration/6138551-watch-live-donald-trump-white-house-columbus-day-event/",
-      "source": "The Hill",
-      "timestamp": "2026-10-09T14:05:26+00:00",
+      "title": "The director of Fjord takes the \u2018risky position\u2019 of moderator",
+      "link": "https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview",
+      "source": "Verge",
+      "timestamp": "2026-10-10T07:00:00-04:00",
       "score": 12,
-      "summary": "President Trump is hosting a Columbus Day celebration at the White House on Friday, renewing his push to honor the Italian explorer amid years of debate over his legacy. The event comes months after Trump installed a 13-foot statue of Christopher Columbus on White House ground...",
+      "summary": "Cristian Mungiu's sixth feature, Fjord, concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway. There is Mamma (Renate Reinsve), Tata (a bald and bespectacled Sebastian Stan),...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Trump",
-        "Columbus",
-        "Day",
-        "White",
-        "House"
+        "Fjord"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6743,13 +6772,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "The Hill"
+        "Verge"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
       "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
@@ -13380,23 +13407,27 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Netflix expands TV game lineup with Conjuring spinoff",
-      "link": "https://www.theverge.com/streaming/1005942/netflix-the-conjuring-unspoken-games",
-      "source": "Verge",
-      "timestamp": "2026-10-06T13:43:59-04:00",
+      "title": "Hunger and malnutrition stalk Gazans, a year on from ceasefire",
+      "link": "https://www.france24.com/en/video/20261010-hunger-and-malnutrition-stalk-gazans-a-year-on-from-ceasefire",
+      "source": "France24",
+      "timestamp": "2026-10-10T11:00:08+00:00",
       "score": 12,
-      "summary": "Netflix just announced The Conjuring: Unspoken, a new horror game set in The Conjuring universe that you can play with your phone as a controller, and it will launch exclusively on the service on October 13th. Here's Netflix's description of the game: The Conjuring: Unspoken i...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "Every day, Gazan mother Niyaha al-Masri spends six exhausting hours or more queueing at a community kitchen in the hope of getting some food for her family. It has been a year since a ceasefire between Hamas and Israel was supposed to allow food to flood into the ruined territ...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Conjuring"
+        "Gazans"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13405,15 +13436,50 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "Verge"
+        "France24"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Russian attacks kill 11 in Ukraine after Trump strikes diesel deal with Putin",
+      "link": "https://www.thehindu.com/news/international/russian-attacks-kill-11-in-ukraine-after-trump-strikes-diesel-deal-with-putin/article71567786.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-10-10T16:24:35+05:30",
+      "score": 17,
+      "summary": "President Volodymyr Zelenskyy called the U.S.-Russia diesel deal a \u201cweak decision\u201d that would help Moscow prolong the war, as Russian strikes on Zaporizhzhia killed three children among the dead",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "Ukraine",
+        "Trump",
+        "Putin"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 10,
+      "sources_reporting": [
+        "ABC Australia",
+        "The Hindu"
+      ],
+      "trend_accel": "+66%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Cognizant, Infosys, Tata, Wipro and HCL among IT firms suspended from U.S. green card programme",
       "link": "https://www.thehindu.com/news/international/ussuspends-microsoft-adobe-and-major-it-firms-from-perm-green-card-programme/article71560826.ece",
@@ -20097,70 +20163,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Fiona O'Byrne wins 2026 Lester Prize with painting of daughter",
-      "link": "https://www.abc.net.au/news/2026-10-09/lester-prize-winners-announced-2026-fiona-obyrne-portrait/107238658",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-09T12:01:12+00:00",
-      "score": 17,
-      "summary": "The Melbourne-based artist, who has been painting her children for more than a decade, has won $50,000 for the artwork.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "OByrne",
-        "Lester",
-        "Prize"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Navi Pillay: A life dedicated to justice and human rights",
-      "link": "https://www.thehindu.com/news/international/navi-pillay-life-dedicated-to-justice-and-human-rights-timeline/article71563752.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-09T17:23:30+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pillay"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -22996,7 +22998,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.2,
+      "trend_score": 9.1,
       "source_count": 18,
       "sources_reporting": [
         "AP",
@@ -23005,7 +23007,7 @@
         "CNBC",
         "Google News"
       ],
-      "trend_accel": "+79%",
+      "trend_accel": "+78%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26852,6 +26854,35 @@
     }
   ],
   "Science": [
+    {
+      "title": "Hybrid quantum computer observes foundational quantum effect in a new setting",
+      "link": "https://phys.org/news/2026-10-hybrid-quantum-foundational-effect.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-10T06:57:07-04:00",
+      "score": 10,
+      "summary": "Physicists in the Department of Physics at the University of Oxford have used a hybrid quantum computer, made up of qubits and quantum oscillators, to observe the Aharonov\u2013Bohm effect in a quantum simulation. The effect is a quantum phenomenon in which a particle can acquire a...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Asbestos mystery leaves beloved beach closed",
       "link": "https://www.bbc.co.uk/news/articles/c574p9rdk2mko?at_medium=RSS&at_campaign=rss",
@@ -32932,35 +32963,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Acoustic experiments confirm topology can persist at gapless critical points",
-      "link": "https://phys.org/news/2026-10-acoustic-topology-persist-gapless-critical.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-07T16:40:20-04:00",
-      "score": 10,
-      "summary": "Two studies on critical topology have recently been published in the journal Nature. These studies were led by the teams of Prof. Baile Zhang at Nanyang Technological University, Singapore, and Prof. Jianhua Jiang at the University of Science and Technology of China, respectiv...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -35171,6 +35173,48 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Generative AI Still Needs Artists\u2019 Judgment, Says Netflix\u2019s Eyeline GenFX Chief James Rustad at Busan",
+      "link": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/",
+      "source": "Variety",
+      "timestamp": "2026-10-10T10:50:03+00:00",
+      "score": 14,
+      "summary": "Generative AI can widen the options for a visual effects shot, but artists still decide which of them serve the story, according to James Rustad, global head of GenFX at Eyeline, Netflix\u2019s in-house VFX studio. Rustad made the case at an InnoAsia session \u201cMaking What\u2019s Next: Ge...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Still",
+        "Needs",
+        "Artists",
+        "Judgment",
+        "Says",
+        "Netflixs",
+        "Eyeline",
+        "GenFX",
+        "Chief",
+        "James",
+        "Rustad",
+        "Busan"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Netflix\u2019s \u2018The Blue Road\u2019 Director Han Jun-hee on Why Playing It Safe Is the Real Risk",
       "link": "https://variety.com/2026/tv/festivals/netflixs-the-blue-road-director-han-jun-hee-1236907368/",
@@ -43197,44 +43241,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "UTA and Gold House Set Partnership to Build Asia-Hollywood Bridge (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/markets-festivals/uta-gold-house-partner-asia-hollywood-1236906321/",
-      "source": "Variety",
-      "timestamp": "2026-10-09T09:00:00+00:00",
-      "score": 12,
-      "summary": "UTA and Gold House are joining forces at the Busan International Film Festival and in Seoul this month, marking the Asian Pacific advocacy organization\u2019s first official foray into Korea as the two look to connect Asian creatives and investors with Hollywood. The partnership ki...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gold",
-        "House",
-        "Set",
-        "Partnership",
-        "Build",
-        "AsiaHollywood",
-        "Bridge",
-        "EXCLUSIVE"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49073,6 +49079,71 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.4 - 26 km NNW of Willow, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ubsdzx",
+      "source": "USGS",
+      "timestamp": "2026-10-10T11:00:22.931000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-10 10:59:24 UTC2026-10-10 10:59:24 UTC at epicenterLocation61.976\u00b0N 150.206\u00b0WDepth24.30 km (15.10 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Willow",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.8 - 4 km NE of R\u00edo Grande, Panama",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1e5",
+      "source": "USGS",
+      "timestamp": "2026-10-10T10:50:44.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-10 10:35:11 UTC2026-10-10 10:35:11 UTC at epicenterLocation7.746\u00b0N 81.309\u00b0WDepth10.00 km (6.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Grande",
+        "Panama"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.5 - 53 km SW of Tatitlek, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ubronn",
@@ -55643,69 +55714,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 8 km NNE of Beaumont, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345495",
-      "source": "USGS",
-      "timestamp": "2026-10-09T08:33:22.182000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-09 08:29:51 UTC2026-10-09 08:29:51 UTC at epicenterLocation33.995\u00b0N 116.931\u00b0WDepth27.60 km (17.15 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Beaumont"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 11 km E of Carpinteria, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41345463",
-      "source": "USGS",
-      "timestamp": "2026-10-09T08:30:19.345000+00:00",
-      "score": 15,
-      "summary": "DYFI? - ITime2026-10-09 08:23:35 UTC2026-10-09 08:23:35 UTC at epicenterLocation34.397\u00b0N 119.400\u00b0WDepth5.19 km (3.22 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Carpinteria"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
