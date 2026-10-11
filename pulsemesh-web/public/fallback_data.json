@@ -3539,7 +3539,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.0,
+      "trend_score": 8.9,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -3548,8 +3548,8 @@
         "NHK",
         "The Hindu"
       ],
-      "trend_accel": "+74%",
-      "heat_level": "CRITICAL"
+      "trend_accel": "+73%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Trump: I \u2018should have won\u2019 Nobel Peace Prize, award is \u2018forever discredited\u2019",
@@ -12698,7 +12698,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.1,
+      "trend_score": 10.0,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -48277,6 +48277,38 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 5.0 - 3 km NW of Flores, Panama",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1hw",
+      "source": "USGS",
+      "timestamp": "2026-10-11T02:15:12.041000+00:00",
+      "score": 15,
+      "summary": "DYFI? - IIITime2026-10-11 01:50:52 UTC2026-10-11 01:50:52 UTC at epicenterLocation7.514\u00b0N 80.428\u00b0WDepth10.00 km (6.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Flores",
+        "Panama"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.8 - 6 km NW of Houston, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ucvtwv",
       "source": "USGS",
@@ -54821,37 +54853,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Angola",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032618",
-      "source": "GDACS",
-      "timestamp": "2026-10-09T19:02:51+00:00",
-      "score": 12,
-      "summary": "On 05/10/2026, a forest fire started in Angola, until 07/10/2026.",
-      "country": "EU",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Angola"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ]
