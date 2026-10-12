@@ -13323,6 +13323,71 @@
   ],
   "World": [
     {
+      "title": "One Nation Vic deputy denies AI-generated campaign video was racist",
+      "link": "https://www.abc.net.au/news/2026-10-12/one-nation-denies-victorian-election-campaign-video-racist/107254888",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-12T02:25:13+00:00",
+      "score": 14,
+      "summary": "One Nation's Victorian deputy leader has defended an AI-generated campaign video featuring a suicide bomber and a home invader, denying it was racist.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nation",
+        "Vic",
+        "AIgenerated"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "El Nino sets temperature record in key Pacific zone: EU monitor",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/el-nino-sets-temperature-record-in-key-pacific-zone-eu-monitor/article71573644.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-10-12T07:52:02+05:30",
+      "score": 12,
+      "summary": "Global forecasters have been warning for months that this El Nino would likely become the strongest ever observed and the latest record has tumbled even before the episode\u2019s expected peak later this year",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nino",
+        "Pacific"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "El Nino breaks Pacific temperature record as weather pattern intensifies",
       "link": "https://www.france24.com/en/environment/20261012-el-nino-pacific-temperature-record-weather",
       "source": "France24",
@@ -19855,23 +19920,25 @@
       ],
       "trend_accel": "+57%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Five people shot and killed in apparent murder-suicide, Georgia police say",
-      "link": "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths",
-      "source": "Guardian",
-      "timestamp": "2026-10-11T00:01:55+00:00",
+      "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
+      "link": "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-12T02:28:54+00:00",
       "score": 12,
-      "summary": "Deceased were all members of the same family, officials say, and one of victims placed the initial emergency callFive people were shot and killed in an apparent murder-suicide at a residence in Georgia on Friday, authorities say.The deceased were family members who lived at th...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "summary": "The ads featuring President Trump have been criticized as government propaganda and as aimed at influencing the outcome of the midterm election.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Georgia"
+        "Trump"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19882,46 +19949,50 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Guardian"
+        "CNBC"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
     },
     {
-      "title": "Anthropic\u2019s Claude AI submits false tip on Philadelphia unsolved homicide case",
-      "link": "https://www.thehindu.com/news/international/anthropics-claude-ai-submits-false-tip-on-philadelphia-unsolved-homicide-case/article71569220.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-11T04:55:37+05:30",
+      "title": "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
+      "link": "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-12T02:27:04+00:00",
       "score": 14,
-      "summary": "Claude filled out a form on the police site PhillyUnsolvedMurders.com, indicating it might have information regarding an unsolved murder listed on the site",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "News of Iran reportedly offered to mediate between Yemen's Houthis and Saudi Arabia helped to bring oil prices lower.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Claude",
-        "Philadelphia"
+        "Trump",
+        "Russia",
+        "Ukraine"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 6,
+      "trending": true,
+      "trend_score": 8.8,
+      "source_count": 12,
       "sources_reporting": [
-        "CBC News",
-        "The Hindu"
+        "Bloomberg",
+        "CNBC",
+        "Livemint",
+        "NPR",
+        "Reuters"
       ],
-      "trend_accel": "+72%",
+      "trend_accel": "+77%",
       "heat_level": "SURGING"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Top stocks to watch today: HCL Tech, DMart, Poonawalla Fincorp shares in focus on Monday, 12 October",
       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-hcl-tech-dmart-poonawalla-fincorp-shares-in-focus-on-monday-12-october-full-list-11791768761109.html",
@@ -25095,8 +25166,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "CNBC",
@@ -26525,70 +26596,6 @@
         "BBC"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Vedanta dividend 2026 record date, payment timeline, dividend yield and history; share performance - Full details here",
-      "link": "https://www.livemint.com/market/stock-market-news/vedanta-dividend-2026-record-date-payment-timeline-dividend-yield-and-history-share-performance-full-details-here-11791525213511.html",
-      "source": "Livemint",
-      "timestamp": "2026-10-09T12:36:15+05:30",
-      "score": 17,
-      "summary": "Vedanta dividend 2026: Anil Agarwal-led Vedanta, on Thursday, announced its first interim dividend since its demerger for the financial year 2026-27.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Full"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Anand Rathi Wealth Q2 results 2026, dividend amount announcement today: Date, time, quarterly earnings schedule",
-      "link": "https://www.livemint.com/market/stock-market-news/anand-rathi-wealth-q2-results-2026-dividend-amount-announcement-today-date-time-quarterly-earnings-schedule-11791528239472.html",
-      "source": "Livemint",
-      "timestamp": "2026-10-09T12:17:57+05:30",
-      "score": 15,
-      "summary": "Anand Rathi Wealth is set to announce its Q2FY27 results on October 9, with its board also considering an interim dividend. October 15 is the revised record date for dividend eligibility. Shares were down 3.67% at \u20b92,065.25 on Friday.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rathi",
-        "Wealth",
-        "Date"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ],
@@ -34304,6 +34311,84 @@
   ],
   "Entertainment": [
     {
+      "title": "Pat McAfee Joins ESPN\u2019s In-Game Super Bowl LXI Coverage & Expands MNF Role",
+      "link": "https://deadline.com/2026/10/pat-mcafee-espn-super-bowl-lxi-mnf-1237154517/",
+      "source": "Deadline",
+      "timestamp": "2026-10-12T02:27:52+00:00",
+      "score": 12,
+      "summary": "Pat McAfee is taking his Field Pass show from college football to the NFL. The network\u2019s marquee talk show talent will be doing a version of Field Pass with the Pat McAfee Show during next year\u2019s Super Bowl LXI. It will be one of three alternate telecasts for the big game. The...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "McAfee",
+        "Joins",
+        "ESPNs",
+        "InGame",
+        "Super",
+        "Bowl",
+        "LXI",
+        "Coverage",
+        "Expands",
+        "MNF",
+        "Role"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Five Organizations Launch Asian Producers Alliance In Busan Market",
+      "link": "https://deadline.com/2026/10/asian-producers-alliance-busan-acfm-korea-indonesia-1237154518/",
+      "source": "Deadline",
+      "timestamp": "2026-10-12T02:22:22+00:00",
+      "score": 14,
+      "summary": "Five independent producer organizations from Korea, Indonesia, Philippines, Hong Kong and Taiwan launched a coalition, the Asian Producers Alliance (APA), at Busan\u2019s Asian Contents & Film Market (ACFM). The five bodies include the Producers Guild of Korea (PGK), Indonesian Fil...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Organizations",
+        "Launch",
+        "Asian",
+        "Producers",
+        "Alliance",
+        "Busan",
+        "Market"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "\u2018The Riverbank,\u2019 \u2018Elza\u2019 Top Rio Film Festival Awards as \u2018On Behalf of My Son,\u2019 \u2018The French Teacher\u2019 and \u2018London\u2019 Scoop Key Prizes",
       "link": "https://variety.com/2026/film/global/the-riverbank-elza-top-rio-film-festival-awards-1236908331/",
       "source": "Variety",
@@ -34711,7 +34796,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.9,
+      "trend_score": 10.8,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -42580,100 +42665,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "AI Tools Bring Efficiencies But Have Limitations, Says Weta CTO Kimball Thurston: \u201cTech Companies Should Collaborate More With Creatives\u201d",
-      "link": "https://deadline.com/2026/10/netflix-ai-weta-fx-kimball-thurston-run-to-the-west-1237153889/",
-      "source": "Deadline",
-      "timestamp": "2026-10-10T10:04:57+00:00",
-      "score": 14,
-      "summary": "Kimball Thurston, Weta FX\u2019s chief technology officer, Korean filmmaker Kang Yun-sung and Netflix\u2019s APAC Senior Director, Production, Sung Q Lee, discussed the advantages and limitations of using AI tools in production workflows during Netflix\u2019s Creative Asia day at Busan Inter...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tools",
-        "Bring",
-        "Efficiencies",
-        "But",
-        "Have",
-        "Limitations",
-        "Says",
-        "Weta",
-        "CTO",
-        "Kimball",
-        "Thurston",
-        "Tech",
-        "Companies",
-        "Should",
-        "Collaborate",
-        "More",
-        "Creatives"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Brad Bird Talks Long-Gestating Passion Project \u2018Ray Gunn\u2019 & Portraying \u201cCharacters Who Are Desperate\u201d In Utopia  \u2014 Contenders London",
-      "link": "https://deadline.com/2026/10/brad-bird-ray-gunn-scarlett-johansson-sam-rockwell-1237153907/",
-      "source": "Deadline",
-      "timestamp": "2026-10-10T09:46:37+00:00",
-      "score": 12,
-      "summary": "\u201cIt seems like the only way to look at the future these days is as dystopia,\u201d said director Brad Bird at Deadline\u2019s Contenders London this weekend. \u201cAnd that\u2019s fine. I love a lot of movies that take that thing, but there are other ways to look at the future too, and you can.\u201d ...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Bird",
-        "Talks",
-        "LongGestating",
-        "Passion",
-        "Project",
-        "Ray",
-        "Gunn",
-        "Portraying",
-        "Characters",
-        "Who",
-        "Are",
-        "Desperate",
-        "Utopia",
-        "Contenders",
-        "London"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -47791,6 +47782,72 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.8 - southern East Pacific Rise",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1nx",
+      "source": "USGS",
+      "timestamp": "2026-10-12T02:27:45.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-12 01:59:24 UTC2026-10-12 01:59:24 UTC at epicenterLocation49.946\u00b0S 114.249\u00b0WDepth10.00 km (6.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "East",
+        "Pacific",
+        "Rise"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 9 km WNW of Valdez, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ueszrk",
+      "source": "USGS",
+      "timestamp": "2026-10-12T02:26:20.557000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-12 02:23:19 UTC2026-10-12 02:23:19 UTC at epicenterLocation61.156\u00b0N 146.524\u00b0WDepth20.30 km (12.61 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Valdez",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
       "heat_level": "LOW"
     },
     {
@@ -54233,72 +54290,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.2 - 27 km NNW of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053602",
-      "source": "USGS",
-      "timestamp": "2026-10-10T19:05:53.690000+00:00",
-      "score": 17,
-      "summary": "Time2026-10-10 19:02:30 UTC2026-10-10 19:02:30 UTC at epicenterLocation19.430\u00b0N 155.593\u00b0WDepth39.73 km (24.69 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.4 - 63 km ESE of Chignik, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uchzpp",
-      "source": "USGS",
-      "timestamp": "2026-10-10T18:55:19.488000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-10 18:54:05 UTC2026-10-10 18:54:05 UTC at epicenterLocation55.995\u00b0N 157.527\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Chignik",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
