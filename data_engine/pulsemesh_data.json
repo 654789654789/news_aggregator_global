@@ -2093,7 +2093,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 13,
       "sources_reporting": [
         "Google News",
@@ -2103,7 +2103,7 @@
         "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+88%",
+      "trend_accel": "+87%",
       "heat_level": "CRITICAL"
     },
     {
@@ -6730,6 +6730,39 @@
     }
   ],
   "Tech": [
+    {
+      "title": "The founder\u2019s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-12T00:59:01+00:00",
+      "score": 17,
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "TechCrunch",
+        "Disrupt",
+        "Everything"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Aaron Sorkin\u2019s \u2018Social Reckoning\u2019 is off to a weak start",
       "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
@@ -13284,23 +13317,25 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-06T22:34:03+00:00",
-      "score": 17,
-      "summary": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
-      "country": "US",
+      "title": "Judge orders Trump administration to end taxpayer-funded TV ads",
+      "link": "https://www.cbc.ca/news/world/judge-orders-trump-ads-end-9.7377818?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-10-11T20:56:00-04:00",
+      "score": 12,
+      "summary": "U.S. President Donald Trump must cancel any remaining television commercials paid for with millions of dollars in taxpayer money to promote his political message, a federal judge ordered Sunday night, even as the administration said the ad campaign was coming to an end.",
+      "country": "Canada",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Melius"
+        "Trump"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13309,15 +13344,51 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "CBC News"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Australian politics live: Taylor defends CV after Hanson dubs him a \u2018smarmy management consultant\u2019; One Nation to preference Liberals in Victoria poll",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-10-12T00:47:32+00:00",
+      "score": 12,
+      "summary": "Follow the day\u2019s news liveGet our breaking news email, free app or daily news podcastLabor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino, says Labor is not watering down proposed changes to put a minimum 30% ...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Taylor",
+        "Hanson",
+        "One",
+        "Nation",
+        "Liberals",
+        "Victoria"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Hurricane Simon pounds resorts and vulnerable towns along Mexico\u2019s Pacific coast",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1JYNEFiNHpwMTFGZFVETFU1SG9OMXEzTzIzbWh1ZmxoVWY4bTNwTzlxZ1A1VWhmaFJ1bWNIbFEtc0VYVmJZZ0FIQ1JBdTkyU21wamtWdXh1azZUMnpWZ0JOVHc3emE3WVNmTlFBVXdjQ2xiX1FldkExelhnbFRJM1NBY0J6ZVJ4LUE?oc=5",
@@ -19839,28 +19910,27 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Puerto Vallarta boards up as Hurricane Simon hits Category 4 strength",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-10-10T21:49:00+00:00",
-      "score": 15,
-      "summary": "Puerto Vallarta boards up as Hurricane Simon hits Category 4 strength AP NewsCategory 4 Hurricane Simon barrels toward Mexico CBCHurricane Simon and Tropical Storm Rachel Target Mexico as Isaias Hits Gulf The New York TimesRare tale of two coasts unfolds as tropical systems ta...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
+      "title": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies",
+      "link": "https://www.livemint.com/market/oil-falls-on-hopes-russia-ukraine-energy-ceasefire-will-boost-supplies-11791766233476.html",
+      "source": "Livemint",
+      "timestamp": "2026-10-12T06:20:32+05:30",
+      "score": 14,
+      "summary": "GLOBAL-OIL:Oil falls on hopes Russia-Ukraine energy ceasefire will boost",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [
-        "Climatic"
+        "Geopolitics"
       ],
       "entities": [
-        "Vallarta",
-        "Hurricane",
-        "Simon",
-        "Category"
+        "RussiaUkraine"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19871,46 +19941,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-10-10T21:40:20+00:00",
-      "score": 17,
-      "summary": "Real Madrid forward Vinicius Junior sent off for pulling Villarreal player's hair in 1-0 La Liga victory.",
-      "country": "Spain",
-      "region": "Europe",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Madrid",
-        "Villarreal",
-        "Vinicius"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Al Jazeera"
+        "Livemint"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Raja Venkatraman recommends two stocks for 12 October",
       "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-two-stocks-for-12-october-11791720913726.html",
@@ -26537,39 +26572,6 @@
         "Livemint"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "New York City man shot in car with child present by ICE agents, mayor says",
-      "link": "https://www.cnbc.com/2026/10/09/new-york-city-man-shot-in-car-with-child-present-by-ice-agents-mayor.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-09T04:18:41+00:00",
-      "score": 12,
-      "summary": "ICE agents shot and wounded a man in a Bronx car with a 5-year-old inside during a targeted immigration operation, officials said.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "York",
-        "City",
-        "ICE"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -34399,6 +34401,96 @@
   ],
   "Entertainment": [
     {
+      "title": "\u2018The Sea Speaks His Name\u2019 Review: Absorbing Indonesian Political Thriller Is an Ode to Disappeared Activists",
+      "link": "https://variety.com/2026/film/reviews/the-sea-speaks-his-name-review-1236908499/",
+      "source": "Variety",
+      "timestamp": "2026-10-12T00:55:39+00:00",
+      "score": 12,
+      "summary": "In an age where some call themselves activists merely through social media posting, stories of the dangers, consequences and occasional, very hard-won rewards of boots-on-the-ground political activism have additional potency. Though Yosep Anggi Noen\u2019s compellingly angry and an...",
+      "country": "Indonesia",
+      "region": "Southeast Asia",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sea",
+        "Speaks",
+        "His",
+        "Name",
+        "Review",
+        "Absorbing",
+        "Indonesian",
+        "Political",
+        "Thriller",
+        "Ode",
+        "Disappeared",
+        "Activists"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Sylvia Chang Backs Malaysian Grief Drama \u2018One Fine Day,\u2019 About a Family Undone by Their Daughter\u2019s Murder, at Busan Asian Project Market",
+      "link": "https://variety.com/2026/film/markets-festivals/sylvia-chang-one-fine-day-busan-asian-project-market-1236908599/",
+      "source": "Variety",
+      "timestamp": "2026-10-12T00:52:12+00:00",
+      "score": 14,
+      "summary": "A family torn apart by the unsolved murder of their young daughter tries to keep living day to day in \u201cOne Fine Day,\u201d a Malaysian drama from director Tan Seng Kiat with Asian film icon Sylvia Chang aboard as executive producer. The project is part of the Asian Project Market, ...",
+      "country": "Malaysia",
+      "region": "Southeast Asia",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Chang",
+        "Backs",
+        "Malaysian",
+        "Grief",
+        "Drama",
+        "One",
+        "Fine",
+        "Day",
+        "About",
+        "Family",
+        "Undone",
+        "Their",
+        "Daughters",
+        "Murder",
+        "Busan",
+        "Asian",
+        "Project",
+        "Market"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Polygamy, Ghosts and Grief Collide in \u2018Marlina\u2019 Director Mouly Surya\u2019s Busan Asian Project Market Drama \u2018The Wife Who Can See Dead People (Or Jinn)\u2019",
       "link": "https://variety.com/2026/film/markets-festivals/mouly-surya-polygamy-ghost-drama-busan-asian-project-market-1236908594/",
       "source": "Variety",
@@ -35086,7 +35178,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.9,
+      "trend_score": 10.8,
       "source_count": 19,
       "sources_reporting": [
         "AP",
@@ -42646,86 +42738,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Deadline\u2019s Contenders Film: London Kicks Off With A Dozen Buzzy Awards-Season Movies",
-      "link": "https://deadline.com/2026/10/contenders-film-london-2026-lineup-panelists-1237147102/",
-      "source": "Deadline",
-      "timestamp": "2026-10-10T08:30:00+00:00",
-      "score": 12,
-      "summary": "Try telling Londoners that cinema is dead and they will direct you to the BFI Imax cinema on the Southbank, where Christopher Nolan\u2019s The Odyssey is still playing to sold-out houses nearly three months after its release. But if you\u2019ve been there, done that, 2026 still has some...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Contenders",
-        "Film",
-        "London",
-        "Kicks",
-        "Off",
-        "Dozen",
-        "Buzzy",
-        "AwardsSeason",
-        "Movies"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Vietnamese Supernatural Horror \u2018Bloodline: The Curse Within\u2019 Heads to Busan Market With Mockingbird Pictures (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324/",
-      "source": "Variety",
-      "timestamp": "2026-10-10T05:59:30+00:00",
-      "score": 14,
-      "summary": "Vietnamese supernatural horror film \u201cBloodline: The Curse Within\u201d will be introduced to international buyers by Mockingbird Pictures at the Asian Contents & Film Market (ACFM), the market of the Busan International Film Festival. The company holds worldwide distribution rights...",
-      "country": "Vietnam",
-      "region": "Southeast Asia",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Supernatural",
-        "Horror",
-        "Bloodline",
-        "Curse",
-        "Within",
-        "Heads",
-        "Busan",
-        "Market",
-        "Mockingbird",
-        "Pictures",
-        "EXCLUSIVE"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -47804,6 +47816,39 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 54 km NNE of Chase, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uepuxg",
+      "source": "USGS",
+      "timestamp": "2026-10-12T00:49:10.670000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-12 00:47:45 UTC2026-10-12 00:47:45 UTC at epicenterLocation62.883\u00b0N 149.602\u00b0WDepth75.60 km (46.98 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Chase",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
     {
@@ -54283,39 +54328,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 21 km ESE of Naalehu, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75053587",
-      "source": "USGS",
-      "timestamp": "2026-10-10T18:01:03.140000+00:00",
-      "score": 17,
-      "summary": "Time2026-10-10 17:57:32 UTC2026-10-10 17:57:32 UTC at epicenterLocation19.026\u00b0N 155.378\u00b0WDepth28.45 km (17.68 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Naalehu",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ]
