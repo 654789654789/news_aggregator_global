@@ -1,6 +1,71 @@
 {
   "Politics": [
     {
+      "title": "Congo's confirmed Ebola cases surpass 9,000 as containment efforts falter",
+      "link": "https://www.pbs.org/newshour/health/congos-confirmed-ebola-cases-surpass-9000-as-containment-efforts-falter",
+      "source": "PBS",
+      "timestamp": "2026-10-13T15:56:56-04:00",
+      "score": 17,
+      "summary": "Health workers are alarmed, as many deaths occur outside treatment centers.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ebola"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
+      "link": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response",
+      "source": "NPR",
+      "timestamp": "2026-10-13T15:52:52-04:00",
+      "score": 14,
+      "summary": "Six Democratic and six Republican senators wrote a letter calling on President Trump to withdraw from his recent deal with Russian President Vladimir Putin.",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Trump",
+        "Russian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NPR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Live updates: Trump heads to Alaska rally; White House asks Guilfoyle to quit",
       "link": "https://thehill.com/homenews/administration/6144742-live-updates-trump-alaska-zacharia-briefing-midterm-election-debates/",
       "source": "The Hill",
@@ -1618,7 +1683,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.9,
+      "trend_score": 10.8,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -6593,57 +6658,26 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Trump repeatedly attacks Minnesota, Omar during Ohio campaign stop",
-      "link": "https://thehill.com/homenews/6144416-trump-attacks-omar-ohio/",
-      "source": "The Hill",
-      "timestamp": "2026-10-13T01:48:31+00:00",
+      "title": "Licube wants to be the fuel provider to the fusion power industry \u2014 see how at TechCrunch Disrupt",
+      "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-13T20:00:00+00:00",
       "score": 14,
-      "summary": "President Trump repeatedly brought up Minnesota and Rep. Ilhan Omar (D-Minn.) on Monday night while stumping for Republicans in Ohio ahead of the midterms. Federal agents searched the home of Omar, a Somali-born American citizen, on Monday as part of a federal criminal investi...",
+      "summary": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Minnesota",
-        "Omar",
-        "Ohio"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hill"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Spicer says he\u2019s \u2018absolutely\u2019 concerned about Kansas Senate race",
-      "link": "https://thehill.com/homenews/campaign/6144357-spicer-worries-kansas-senate/",
-      "source": "The Hill",
-      "timestamp": "2026-10-13T01:03:52+00:00",
-      "score": 12,
-      "summary": "Former White House press secretary Sean Spicer on Monday said he is \u201cabsolutely\u201d concerned about Republicans losing the Kansas Senate race, which election handicappers say could flip in favor of the Democrats. NewsNation\u2019s \u201cThe Hill\u201d host Blake Burman asked Spicer if he had an...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kansas",
-        "Senate"
+        "TechCrunch",
+        "Disrupt"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6654,13 +6688,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "The Hill"
+        "TechCrunch"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Shopify opens its catalog up to more AI agents",
       "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
@@ -13149,30 +13181,26 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "The Best Prime Day Apple Deals (2026) Are About to Expire",
-      "link": "https://www.wired.com/story/best-prime-day-apple-deals-10-07-2026/",
-      "source": "Wired",
-      "timestamp": "2026-10-08T02:02:56+00:00",
-      "score": 17,
-      "summary": "MacBooks, iPads, AirPods, and just about every Apple accessory imaginable are on sale for Prime Day\u2014but only hours remain.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Former gang leader sentenced to 40 years to life for Tupac Shakur murder",
+      "link": "https://www.france24.com/en/americas/20261013-former-gang-leader-sentenced-to-40-years-to-life-for-tupac-shakur-murder",
+      "source": "France24",
+      "timestamp": "2026-10-13T19:57:31+00:00",
+      "score": 15,
+      "summary": "Duane \u201cKeffe D\u201d Davis, the former Los Angeles gang leader who boasted in books and interviews of his involvement in the killing of rapper Tupac Shakur, only to deny it when he came to trial, was sentenced to a minimum 40 years in prison on Tuesday.",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Best",
-        "Prime",
-        "Day",
-        "Apple",
-        "Deals",
-        "Are",
-        "About",
-        "Expire"
+        "Tupac",
+        "Shakur"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13181,20 +13209,112 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 11,
+      "source_count": 7,
       "sources_reporting": [
         "BBC",
-        "Google News",
-        "NPR",
-        "Reuters",
-        "Verge",
-        "Wired"
+        "France24"
       ],
-      "trend_accel": "+70%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "World": [
+      "trend_accel": "+66%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Selection critics silenced as Australia's old guard wins first Test",
+      "link": "https://www.abc.net.au/news/2026-10-14/australia-has-silenced-critics-of-its-test-selection-strategy/107259814",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-13T19:52:58+00:00",
+      "score": 14,
+      "summary": "Australia started the first Test against South Africa on the back foot, but its 214-run victory has silenced any critics of the selection strategy.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Australias",
+        "Test"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-13T19:51:14+00:00",
+      "score": 15,
+      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tupac",
+        "Shakurs"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 7,
+      "sources_reporting": [
+        "BBC",
+        "France24"
+      ],
+      "trend_accel": "+63%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Australian politics live: Chalmers urges against mocking, cancelling or talking down to One Nation supporters",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-10-13T19:47:02+00:00",
+      "score": 14,
+      "summary": "Follow the day\u2019s news live.Get our breaking news email, free app or daily news podcastThe treasurer, Jim Chalmers, has urged progressives not to disregard voters that are attracted to One Nation\u2019s message in the Bernie Fraser oration at the Shine Dome in Canberra last night.Ch...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Chalmers",
+        "One",
+        "Nation"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Iconic Iguazu Falls walkway dismantled amid record water levels",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/iconic-iguazu-falls-walkway-dismantled-amid-record-water-levels?traffic_source=rss",
@@ -19713,139 +19833,75 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Ministers and Aboriginal custodians divided over Darwin housing development",
-      "link": "https://www.abc.net.au/news/2026-10-13/lee-point-federal-governement-ministers-lobby-stop-development/107255460",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-13T01:08:05+00:00",
-      "score": 12,
-      "summary": "The federal Labor government is facing pressure to reconsider its housing development project at Lee Point. While some local Aboriginal Larrakia people argue the project will interfere with sacred sites, other Larrakia people say it's an illegitimate concern.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Aboriginal",
-        "Darwin"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Not ruled on Form 6 yet, neither approved nor disapproved it: SC",
-      "link": "https://timesofindia.indiatimes.com/india/not-ruled-on-form-6-yet-neither-approved-nor-disapproved-it-sc/articleshow/134905510.cms",
-      "source": "Times of India",
-      "timestamp": "2026-10-13T06:20:10+05:30",
-      "score": 15,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Form"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+42%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Breaking: Paedophile Ashley Paul Griffith to stand trial in NSW",
-      "link": "https://www.abc.net.au/news/2026-10-13/qld-ashley-paul-griffith-extradition-nsw/107259504",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-13T00:48:11+00:00",
-      "score": 12,
-      "summary": "A Brisbane magistrate accepted the application for the former childcare worker to be extradited to New South Wales.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Paedophile",
-        "Ashley",
-        "Paul",
-        "Griffith",
-        "NSW"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'We are not happy': Trump likely to fire Greece ambassador after misconduct reports",
-      "link": "https://timesofindia.indiatimes.com/world/us/we-are-not-happy-trump-likely-to-fire-greece-ambassador-guilfoyle-after-misconduct-reports/articleshow/134905403.cms",
-      "source": "Times of India",
-      "timestamp": "2026-10-13T05:55:38+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "Greece",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Trump",
-        "Greece"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
+    {
+      "title": "Midterm voters haven\u2019t seen this many housing proposals on the ballot in 20 years",
+      "link": "https://www.marketwatch.com/story/midterm-voters-havent-seen-this-many-housing-proposals-on-the-ballot-in-20-years-8cdf1405?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-13T19:59:00+00:00",
+      "score": 13,
+      "summary": "Ballot measures aim to fix the housing crisis in various ways, from making it easier to build new homes, to cutting property taxes.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Copper Slips as AI Selloff Saps Appetite for Risk Across Markets",
+      "link": "https://www.livemint.com/market/copper-slips-as-ai-selloff-saps-appetite-for-risk-across-markets-11791920971468.html",
+      "source": "Livemint",
+      "timestamp": "2026-10-14T01:19:31+05:30",
+      "score": 14,
+      "summary": "Copper wavered as traders weighed investor angst around overheated spending on metal-intensive AI infrastructure against continued supply risks.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Slips",
+        "Selloff",
+        "Saps",
+        "Appetite",
+        "Risk",
+        "Across",
+        "Markets"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Michael Dell says AI needs safeguards and controls, and government has a role to play",
       "link": "https://www.cnbc.com/2026/10/13/michael-dell-ai-safeguards-government.html",
@@ -26415,19 +26471,50 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Goldman upgrades stock and bond markets on strong earnings growth, little recession risk",
-      "link": "https://www.cnbc.com/2026/10/12/goldman-sachs-stocks-bonds-outlook.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-12T13:31:13+00:00",
-      "score": 12,
-      "summary": "Goldman Sachs is overweight stocks over three months and bonds over 12 months, citing strong earnings, lower valuations and low recession risk.",
+      "title": "New carbon calculator helps research labs pinpoint emissions and target reductions",
+      "link": "https://phys.org/news/2026-10-carbon-labs-emissions-reductions.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-13T16:00:07-04:00",
+      "score": 10,
+      "summary": "Research labs are among the most energy-hungry facilities at universities worldwide. According to both University College London and a Swiss initiative called Green Lab, these labs require anywhere from three to 10 times more power than standard offices of the same size.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "3D map of rice development charts gene activity across plant's entire life cycle",
+      "link": "https://phys.org/news/2026-10-3d-rice-gene-entire-life.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-13T16:00:01-04:00",
+      "score": 13,
+      "summary": "Rice is one of the world's most familiar staple foods, but how does a single cell develop into a rice plant with specialized tissues and organs? A new study offers a detailed look at this process through a three-dimensional (3D) spatiotemporal atlas covering 10 organs and 61 d...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26440,29 +26527,26 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
     },
     {
-      "title": "Stocks are little changed to start the week; Micron leads tech lower: Live updates",
-      "link": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-12T13:30:51+00:00",
-      "score": 14,
-      "summary": "Investors are looking ahead to a busy week of earnings results from the big banks and inflation data.",
+      "title": "A new way to replace carbon with nitrogen atoms could lead to better medicines",
+      "link": "https://phys.org/news/2026-10-carbon-nitrogen-atoms-medicines.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-13T15:50:07-04:00",
+      "score": 10,
+      "summary": "When drugmakers want to improve on compounds they have already created, they can replace a carbon atom with a nitrogen atom. While effective, the techniques they use to perform this chemical swap, known as skeletal editing, have some downsides. For example, older approaches of...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Micron",
-        "Live"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26470,15 +26554,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+54%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "The ocean circulation that persists even after a key AMOC component fails",
       "link": "https://phys.org/news/2026-10-ocean-circulation-persists-key-amoc.html",
@@ -32471,97 +32553,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Quantum chip holds multiple photons at once, opening path to scalable memory",
-      "link": "https://phys.org/news/2026-10-quantum-chip-multiple-photons-path.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-09T13:00:10-04:00",
-      "score": 10,
-      "summary": "For highly fragile quantum information systems, the ability to store quantum information is vital\u2014but also challenging. Quantum information is transported in particles of light called photons, which often must be temporarily paused (or \"stored\") while other, slower quantum ope...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Isaias becomes major category three storm before landfall",
-      "link": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-09T16:46:32+00:00",
-      "score": 12,
-      "summary": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "K\u012blauea's swelling summit helps scientists forecast lava fountain eruptions",
-      "link": "https://phys.org/news/2026-10-klauea-summit-scientists-lava-fountain.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-09T12:40:08-04:00",
-      "score": 12,
-      "summary": "Episodic lava fountaining is a rare volcanic behavior in which repeated, hours-long bursts of molten lava and gas are spewed from volcanic vents, with quiet pauses lasting days to weeks between episodes. These lava fountains have been observed in active volcanoes in places lik...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -34023,6 +34014,162 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Skydance\u2019s Sprawling TV Empire: 120 Series and Counting",
+      "link": "https://www.hollywoodreporter.com/business/business-news/skydance-tv-empire-warner-bros-cbs-paramount-studios-1236725009/",
+      "source": "THR",
+      "timestamp": "2026-10-13T19:55:20+00:00",
+      "score": 15,
+      "summary": "The merged company's TV operations are more than 50 percent larger than Warner Bros. TV's slate \u2014 some tough choices may be ahead on what to combine and bet on.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sprawling",
+        "Empire",
+        "Series",
+        "Counting"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "BondIt, Buffalo 8 and Sandaled Kid Productions Team Up on High-Concept Horror Film Slate (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/bondit-buffalo-8-sandaled-kid-productions-horror-film-slate-1236910380/",
+      "source": "Variety",
+      "timestamp": "2026-10-13T19:53:46+00:00",
+      "score": 15,
+      "summary": "BondIt Media Capital, Buffalo 8 Distribution and Sandaled Kid Productions have partnered on a new slate of horror films. The partnership will develop three commercial, high-concept horror films. BondIt will finance the slate, while Buffalo 8 will release the titles. Sandaled K...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Buffalo",
+        "Sandaled",
+        "Kid",
+        "Productions",
+        "Team",
+        "HighConcept",
+        "Horror",
+        "Film",
+        "Slate",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Raye Says Scalpers Used AI Bots to \u201cOverwhelm\u201d Sign Ups For Royal Albert Hall Show as 1.8 Million Register For Tickets",
+      "link": "https://www.hollywoodreporter.com/music/music-news/raye-scalpers-ai-bots-london-concert-sign-ups-1236729020/",
+      "source": "THR",
+      "timestamp": "2026-10-13T19:52:40+00:00",
+      "score": 17,
+      "summary": "\"I have never witnessed bots on this scale,\" the British singer-songwriter said.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Says",
+        "Scalpers",
+        "Used",
+        "Bots",
+        "Overwhelm",
+        "Sign",
+        "Ups",
+        "Royal",
+        "Albert",
+        "Hall",
+        "Show",
+        "Million",
+        "Register",
+        "Tickets"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "New York Public Radio CEO Christy Tanner Steps Down",
+      "link": "https://www.hollywoodreporter.com/business/digital/new-york-public-radio-ceo-christy-tanner-1236729121/",
+      "source": "THR",
+      "timestamp": "2026-10-13T19:47:34+00:00",
+      "score": 12,
+      "summary": "Jenna Weiss-Berman, Gary Knell and LaFontaine Oliver will temporarily lead the parent organization, which is home to the Gothamist, WNYC and more.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "York",
+        "Public",
+        "Radio",
+        "CEO",
+        "Christy",
+        "Tanner",
+        "Steps",
+        "Down"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Shane Harper Shares Rare Glimpse Into Samantha Boscarino Marriage",
       "link": "https://www.eonline.com/news/1437044/shane-harper-shares-rare-glimpse-into-samantha-boscarino-marriage?cmpid=rss-syndicate-genericrss-us-top_stories",
@@ -41867,159 +42014,6 @@
       ],
       "trend_accel": "+64%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "R.J. Mitte, Walter White\u2019s Son on \u2018Breaking Bad,\u2019 Dies at 34",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/rj-mitte-dead-breaking-bad-walter-white-jr-1236728210/",
-      "source": "THR",
-      "timestamp": "2026-10-12T20:43:21+00:00",
-      "score": 15,
-      "summary": "The actor and disability rights advocate appeared on all five seasons of the acclaimed AMC drama.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mitte",
-        "Walter",
-        "Whites",
-        "Son",
-        "Breaking",
-        "Bad",
-        "Dies"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 13,
-      "sources_reporting": [
-        "AP",
-        "BBC",
-        "Deadline",
-        "E! News",
-        "NHK",
-        "NYT",
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+80%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "RJ Mitte, \u2018Breaking Bad\u2019 Star, Dies at 34",
-      "link": "https://variety.com/2026/tv/news/rj-mitte-dead-breaking-bad-1236909451/",
-      "source": "Variety",
-      "timestamp": "2026-10-12T20:35:36+00:00",
-      "score": 15,
-      "summary": "RJ Mitte, who played Walter White Jr. on \u201cBreaking Bad,\u201d has died. He was 34. A representative for Mitte confirmed the news to Variety. A cause of death was not immediately disclosed. Like his \u201cBreaking Bad\u201d character Walt Jr., Mitte had cerebral palsy. Throughout his acting c...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mitte",
-        "Breaking",
-        "Bad",
-        "Star",
-        "Dies"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 8,
-      "sources_reporting": [
-        "Deadline",
-        "Variety"
-      ],
-      "trend_accel": "+64%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "RJ Mitte Dies: \u2018Breaking Bad\u2019 Actor Was 34",
-      "link": "https://deadline.com/2026/10/rj-mitte-dead-breaking-bad-actor-1237155037/",
-      "source": "Deadline",
-      "timestamp": "2026-10-12T20:29:34+00:00",
-      "score": 15,
-      "summary": "RJ Mitte, who played the son of Bryan Cranston\u2019s Walter White on the Emmy-winning series Breaking Bad and became a disability-rights activist from his experiences living with cerebral palsy, has died at age 34. Mitte\u2019s reps confirmed the news Monday, saying he died in Brownsvi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mitte",
-        "Dies",
-        "Breaking",
-        "Bad",
-        "Actor",
-        "Was"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "YouTuber Grace Helbig Undergoing Brain Surgery to Remove 2 Tumors",
-      "link": "https://www.eonline.com/news/1437008/youtuber-grace-helbig-undergoing-brain-surgery-to-remove-2-tumors?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-10-12T20:21:11+00:00",
-      "score": 17,
-      "summary": "Grace Helbig is shifting her focus to her health. Four days after the comedian canceled the Canada stops of her Let Me Get This Off My Chest tour due to what she described as \u201cnumbness\u201d in her...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Grace",
-        "Helbig",
-        "Undergoing",
-        "Brain",
-        "Surgery",
-        "Remove",
-        "Tumors"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -42792,7 +42786,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.4,
+      "trend_score": 8.3,
       "source_count": 15,
       "sources_reporting": [
         "GQ",
@@ -42801,7 +42795,7 @@
         "Reuters",
         "Vogue"
       ],
-      "trend_accel": "+73%",
+      "trend_accel": "+72%",
       "heat_level": "SURGING"
     },
     {
@@ -46490,6 +46484,72 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 0.8 - 11 km ENE of Fox, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uhyfuf",
+      "source": "USGS",
+      "timestamp": "2026-10-13T20:00:18.922000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-13 19:59:14 UTC2026-10-13 19:59:14 UTC at epicenterLocation64.981\u00b0N 147.372\u00b0WDepth5.80 km (3.60 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Fox",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.3 - 6 km SSW of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055487",
+      "source": "USGS",
+      "timestamp": "2026-10-13T19:51:30.900000+00:00",
+      "score": 17,
+      "summary": "Time2026-10-13 19:48:04 UTC2026-10-13 19:48:04 UTC at epicenterLocation19.147\u00b0N 155.509\u00b0WDepth33.06 km (20.54 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 0.7 - 11 km WSW of Searles Valley, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347159",
@@ -52985,70 +53045,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 13 km NW of Parkfield, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448361",
-      "source": "USGS",
-      "timestamp": "2026-10-12T15:36:53.080000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-12 15:33:34 UTC2026-10-12 15:33:34 UTC at epicenterLocation35.979\u00b0N 120.534\u00b0WDepth10.24 km (6.36 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Parkfield"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.5 - 57 km S of Ivanof Bay, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uftgts",
-      "source": "USGS",
-      "timestamp": "2026-10-12T15:32:50.165000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-12 15:31:05 UTC2026-10-12 15:31:05 UTC at epicenterLocation55.397\u00b0N 159.326\u00b0WDepth17.80 km (11.06 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ivanof",
-        "Bay",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
