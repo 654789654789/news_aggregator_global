@@ -6635,6 +6635,46 @@
   ],
   "Tech": [
     {
+      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+      "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+      "source": "Wired",
+      "timestamp": "2026-10-13T23:17:59+00:00",
+      "score": 14,
+      "summary": "Chatbot prompts reveal the engineer\u2019s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "OpenAI",
+        "Employee",
+        "Allegedly",
+        "Used",
+        "Chatbot",
+        "Help",
+        "Plant",
+        "Recording",
+        "Device",
+        "Office"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Wired"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
       "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
       "source": "TechCrunch",
@@ -6877,14 +6917,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 10.4,
+      "source_count": 18,
       "sources_reporting": [
-        "Verge"
+        "BBC",
+        "Guardian",
+        "Reuters",
+        "TechCrunch",
+        "Verge",
+        "Wired"
       ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
+      "trend_accel": "+85%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
@@ -12089,8 +12134,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -13081,27 +13126,25 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Last call to volunteer at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-08T13:00:00+00:00",
-      "score": 17,
-      "summary": "TechCrunch Founder Summit is gearing up to return to Boston on November 4! We\u2019re doing a last call for exceptional volunteers to join us in bringing this event to life. If you\u2019ve ever wondered about the inner workings of tech events, now\u2019s your chance to get involved. Voluntee...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Cornell University suspends fraternity parties after alleged gang rape",
+      "link": "https://www.abc.net.au/news/2026-10-14/cornell-university-fraternity-suspension/107263098",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-13T23:28:37+00:00",
+      "score": 12,
+      "summary": "The Ivy League university is adopting a number of measures aimed at improving its response to sexual assault allegations on campus.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "TechCrunch",
-        "Founder",
-        "Summit"
+        "University"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13112,13 +13155,75 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Open AI employee busted collecting 'super intelligence' technology",
+      "link": "https://www.abc.net.au/news/2026-10-14/open-ai-employee-charged-after-alleged-covert-recording/107263252",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-13T23:24:06+00:00",
+      "score": 14,
+      "summary": "An OpenAI employee with Saudi Arabian links has been busted collecting sensitive conversations from inside a conference room.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Rahul Gandhi peddling lies on SIR to cover Congress poll defeats: Amit Shah",
+      "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-peddling-lies-on-sir-to-cover-congress-poll-defeats-amit-shah/articleshow/134929223.cms",
+      "source": "Times of India",
+      "timestamp": "2026-10-14T04:48:08+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Gandhi",
+        "SIR",
+        "Congress",
+        "Amit",
+        "Shah"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "SC bar association to file contempt plea against Kerala Congress for CJI post",
       "link": "https://timesofindia.indiatimes.com/india/sc-bar-association-to-file-contempt-plea-against-kerala-congress-for-cji-post/articleshow/134929234.cms",
@@ -19708,95 +19813,6 @@
         "ABC Australia"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Former employee accused of defrauding auto parts business of $294,000",
-      "link": "https://www.abc.net.au/news/2026-10-13/timothy-ferris-pleads-not-guilty-alleged-fraud-dubbo/107260374",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-13T05:24:36+00:00",
-      "score": 13,
-      "summary": "Timothy Ferris is accused of stealing more than $90,000 and causing his former employer to lose more than $200,000 by cancelling orders and misdirecting EFTPOS payments.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Chinese trio avoid jail after attempt to smuggle husband and boyfriend",
-      "link": "https://www.abc.net.au/news/2026-10-13/truscott-airbase-people-smuggler-sentence-sydney-court-broome/107260286",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-13T05:20:32+00:00",
-      "score": 12,
-      "summary": "The trio were behind the arrival of a boatload of Chinese nationals found near a remote air base in Western Australia's far northern Kimberley in 2024.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
-      "link": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-13T05:02:57+00:00",
-      "score": 12,
-      "summary": "Women say they share stories of abuse to highlight the issue, despite social pressure and safety fears.",
-      "country": "Iraq",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Iraq"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ],
@@ -26428,6 +26444,74 @@
   ],
   "Science": [
     {
+      "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+      "link": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-13T23:26:54+00:00",
+      "score": 15,
+      "summary": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Winning",
+        "Wildlife",
+        "Photographer",
+        "Year"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Scientists discover 'D-rex', a giant fungus from Chinese forests whose unique lineage dates back 65 million years",
+      "link": "https://phys.org/news/2026-10-scientists-d-rex-giant-fungus.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-13T19:20:10-04:00",
+      "score": 15,
+      "summary": "Deep in the forests of Yunnan, China, scientists have discovered a \"fungal giant\" that challenges our understanding of how large fungi can become. The newly described species, Dianjunus rex, produces vertical fruiting bodies up to 50 cm (20 inches) high and weighing up to 2.2 ...",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Drex",
+        "Chinese"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Isle of Wight fossil Europe's first known long-clawed megaraptoran dinosaur",
       "link": "https://phys.org/news/2026-10-isle-wight-fossil-europe-clawed.html",
       "source": "Phys.org",
@@ -32449,70 +32533,6 @@
       ],
       "trend_accel": "+61%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "Mountaineer: 'Tenzing biopic made me wonder what he would think if he could return to the mountain today'",
-      "link": "https://phys.org/news/2026-10-mountaineer-tenzing-biopic-mountain-today.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-09T21:20:01-04:00",
-      "score": 12,
-      "summary": "Seventy-three years ago, Tenzing Norgay stood on top of Everest, known as Chomolungma in Tibetan, which roughly translates as \"Goddess Mother of the World.\"",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tenzing"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Geologists uncover evidence of a missing Late Cretaceous magmatic arc in northwestern Iran",
-      "link": "https://phys.org/news/2026-10-geologists-uncover-evidence-late-cretaceous.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-09T20:20:05-04:00",
-      "score": 12,
-      "summary": "Mountains preserve evidence of ancient oceans, moving continents and tectonic processes that have shaped Earth over millions of years. Later deformation, erosion and burial, however, can obscure important parts of this geological record. An international research team led by I...",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Late",
-        "Cretaceous",
-        "Iran"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -46367,6 +46387,106 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 0.6 - 6 km NW of Farmers Loop, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uifdyg",
+      "source": "USGS",
+      "timestamp": "2026-10-13T23:30:00.530000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-13 23:27:00 UTC2026-10-13 23:27:00 UTC at epicenterLocation64.957\u00b0N 147.777\u00b0WDepth26.40 km (16.40 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Farmers",
+        "Loop",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.2 - 2 km SSW of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75055687",
+      "source": "USGS",
+      "timestamp": "2026-10-13T23:24:07.290000+00:00",
+      "score": 17,
+      "summary": "Time2026-10-13 23:20:40 UTC2026-10-13 23:20:40 UTC at epicenterLocation19.178\u00b0N 155.488\u00b0WDepth30.70 km (19.08 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.2 - 9 km SW of Manley Hot Springs, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uietcl",
+      "source": "USGS",
+      "timestamp": "2026-10-13T23:16:11.311000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-13 23:14:30 UTC2026-10-13 23:14:30 UTC at epicenterLocation64.954\u00b0N 150.797\u00b0WDepth8.50 km (5.28 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Manley",
+        "Hot",
+        "Springs",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump says US still sharing intel, even as Ukraine reports attacks with no warnings",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVA2WjlXNVNqR1RhTzFnOFd4bGstWUFZMDhCbXBNUEsxNzU4b2N2Tktwck9tMlFvSERMbFVwcnNkMUFTSVBxMjlia2VhMlQwZVllRlo5ZFpaUnl6aWFxSWJGaXhIeFJFcVA1ZUUxRHJqWjNqalNrU1UwMUtfX1hKTXhtN3pNVHdOSW93WGh5NlRuZW5KdVJPOGtsWWVHbG9UMy1tUjZrcWxEWGZkUldicFVURDFjdmdza3Q0?oc=5",
       "source": "Google News",
@@ -52831,101 +52951,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 20 km E of Alum Rock, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448456",
-      "source": "USGS",
-      "timestamp": "2026-10-12T19:26:38.169000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-12 19:24:59 UTC2026-10-12 19:24:59 UTC at epicenterLocation37.333\u00b0N 121.603\u00b0WDepth6.23 km (3.87 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Alum",
-        "Rock"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 70 km NW of Skwentna, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugaqev",
-      "source": "USGS",
-      "timestamp": "2026-10-12T19:13:16.110000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-12 19:11:55 UTC2026-10-12 19:11:55 UTC at epicenterLocation62.404\u00b0N 152.417\u00b0WDepth13.90 km (8.64 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Skwentna",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Zambia",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032771",
-      "source": "GDACS",
-      "timestamp": "2026-10-12T19:06:09+00:00",
-      "score": 12,
-      "summary": "On 05/10/2026, a forest fire started in Zambia, until 12/10/2026.",
-      "country": "EU",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Zambia"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
