@@ -3782,7 +3782,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.6,
+      "trend_score": 9.5,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -3791,7 +3791,7 @@
         "Guardian",
         "PBS"
       ],
-      "trend_accel": "+76%",
+      "trend_accel": "+75%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19859,6 +19859,40 @@
   ],
   "Business": [
     {
+      "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+      "link": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-13T03:49:23+00:00",
+      "score": 12,
+      "summary": "Oil prices fell as investors assess potential supply disruptions against prospects of more Russian diesel entering global markets.",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Russian",
+        "SaudiHouthi"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Chip Selloff Triggers 7% Korea Rout After CEO\u2019s \u2018Casino\u2019 Warning",
       "link": "https://www.livemint.com/market/chip-selloff-triggers-7-korea-rout-after-ceo-s-casino-warning-11791863080322.html",
       "source": "Livemint",
@@ -26467,26 +26501,24 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Avenue Supermarts Q2 Results: DMart parent net profit jumps 8.5% to  \u20b9742.98 crore, revenue up 18%",
-      "link": "https://www.livemint.com/market/stock-market-news/avenue-supermarts-q2-results-dmart-parent-net-profit-jumps-8-5-to-rs-742-98-crore-revneue-up-18-11791626484306.html",
-      "source": "Livemint",
-      "timestamp": "2026-10-10T15:38:50+05:30",
+      "title": "100-year magazine study reveals 'narrowing' of U.K. seafood recipes",
+      "link": "https://phys.org/news/2026-10-year-magazine-reveals-narrowing-uk.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-13T00:00:07-04:00",
       "score": 15,
-      "summary": "Avenue Supermarts reported an 8.5% year-on-year rise in consolidated net profit to \u20b9742.98 crore for Q2FY27. Total income increased nearly 18% to \u20b919,657.50 crore.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "summary": "A century of recipes published in the magazine Good Housekeeping reveals how the variety of seafood presented to U.K. readers has \"narrowed,\" new research shows.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Supermarts",
-        "Results",
-        "DMart"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26494,15 +26526,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Snakebites are a far bigger problem than we knew: new study maps the hidden dangers",
       "link": "https://phys.org/news/2026-10-snakebites-bigger-problem-knew-hidden.html",
@@ -32567,45 +32597,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "21 Birds Are Found at Miami Airport Stuffed in Underwear and Hidden in a Belt",
-      "link": "https://www.nytimes.com/2026/10/08/us/birds-smuggled-cuba-miami.html",
-      "source": "NYT",
-      "timestamp": "2026-10-08T21:20:06+00:00",
-      "score": 17,
-      "summary": "Two men, who arrived separately from Cuba days apart, each carried clutches of live birds concealed in their clothes, the authorities said.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Birds",
-        "Are",
-        "Found",
-        "Miami",
-        "Airport",
-        "Stuffed",
-        "Underwear",
-        "Hidden",
-        "Belt"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -34127,6 +34118,88 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Golden Goose Teams With Disney for Mickey Mouse-Inspired Sneakers, Apparel and Global Customization Tour",
+      "link": "https://variety.com/2026/shopping/fashion/disney-golden-goose-mickey-mouse-collection-shop-online-1236909092/",
+      "source": "Variety",
+      "timestamp": "2026-10-13T04:00:00+00:00",
+      "score": 12,
+      "summary": "Golden Goose is teaming up with Disney for a new Mickey & Friends collection, featuring the Italian luxury brand\u2019s signature distressed sneakers alongside a lineup of apparel and accessories inspired by the iconic animated characters. Launching Oct. 13, the collaboration will ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Goose",
+        "Teams",
+        "Disney",
+        "Mickey",
+        "MouseInspired",
+        "Sneakers",
+        "Apparel",
+        "Global",
+        "Customization",
+        "Tour"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Ego Nwodim Reacts To Shane Gillis\u2019 Controversial \u2018SNL\u2019 Joke: \u201cWhore Reporting For Duty\u201d",
+      "link": "https://deadline.com/2026/10/ego-nwodim-reacts-shane-gillis-snl-joke-1237155339/",
+      "source": "Deadline",
+      "timestamp": "2026-10-13T03:50:09+00:00",
+      "score": 12,
+      "summary": "Ego Nwodim is firing back at Shane Gillis after a sexist joke during his Saturday Night Live monologue. The SNL alum took to Instagram to jab at the stand-up comedian after his controversial joke on the NBC late-night sketch show. \u201cWhore reporting for duty,\u201d Nwodim captioned h...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Nwodim",
+        "Reacts",
+        "Shane",
+        "Gillis",
+        "Controversial",
+        "SNL",
+        "Joke",
+        "Whore",
+        "Reporting",
+        "Duty"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Cannes Queer Animated Comedy \u2018Jim Queen\u2019 Scores New Sales at Busan (EXCLUSIVE)",
       "link": "https://variety.com/2026/film/news/cannes-queer-animated-comedy-jim-queen-sales-busan-1236909713/",
@@ -42089,88 +42162,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Judge Orders Trump Administration To Stop Running Taxpayer Funded Ads That Promote POTUS",
-      "link": "https://deadline.com/2026/10/judge-orders-halt-to-trump-ads-1237154527/",
-      "source": "Deadline",
-      "timestamp": "2026-10-12T03:34:17+00:00",
-      "score": 12,
-      "summary": "A federal judge ordered the Trump administration to stop running taxpayer-funded ads for at least 14 days, putting a halt to the spots that resemble campaign messaging. U.S. District Judge Jennifer L. Rochon granted a temporary restraining order that prohibits Trump officials ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Orders",
-        "Trump",
-        "Administration",
-        "Stop",
-        "Running",
-        "Taxpayer",
-        "Funded",
-        "Ads",
-        "That",
-        "Promote",
-        "POTUS"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Pat McAfee Joins ESPN\u2019s In-Game Super Bowl LXI Coverage & Expands MNF Role",
-      "link": "https://deadline.com/2026/10/pat-mcafee-espn-super-bowl-lxi-mnf-1237154517/",
-      "source": "Deadline",
-      "timestamp": "2026-10-12T02:27:52+00:00",
-      "score": 12,
-      "summary": "Pat McAfee is taking his Field Pass show from college football to the NFL. The network\u2019s marquee talk show talent will be doing a version of Field Pass with the Pat McAfee Show during next year\u2019s Super Bowl LXI. It will be one of three alternate telecasts for the big game. The...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "McAfee",
-        "Joins",
-        "ESPNs",
-        "InGame",
-        "Super",
-        "Bowl",
-        "LXI",
-        "Coverage",
-        "Expands",
-        "MNF",
-        "Role"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -47009,6 +47000,72 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.3 - 8 km ESE of Chickasha, Oklahoma",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026uazz",
+      "source": "USGS",
+      "timestamp": "2026-10-13T03:52:28.671000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-13 03:50:32 UTC2026-10-13 03:50:32 UTC at epicenterLocation35.029\u00b0N 97.848\u00b0WDepth2.80 km (1.74 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Chickasha",
+        "Oklahoma"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.2 - 2 km E of Yauco, Puerto Rico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71536558",
+      "source": "USGS",
+      "timestamp": "2026-10-13T03:51:33.460000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-13 03:26:05 UTC2026-10-13 03:26:05 UTC at epicenterLocation18.035\u00b0N 66.827\u00b0WDepth16.93 km (10.52 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Yauco",
+        "Puerto",
+        "Rico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
       "heat_level": "LOW"
     },
     {
@@ -53420,70 +53477,6 @@
         "GDACS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 7 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448016",
-      "source": "USGS",
-      "timestamp": "2026-10-11T22:41:51.434000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-11 22:40:16 UTC2026-10-11 22:40:16 UTC at epicenterLocation38.823\u00b0N 122.815\u00b0WDepth1.95 km (1.21 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 60 km SE of Pedro Bay, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uelntb",
-      "source": "USGS",
-      "timestamp": "2026-10-11T22:40:30.306000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-11 22:39:39 UTC2026-10-11 22:39:39 UTC at epicenterLocation59.368\u00b0N 153.435\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pedro",
-        "Bay",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
