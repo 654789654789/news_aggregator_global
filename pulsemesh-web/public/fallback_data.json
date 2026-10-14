@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "A gang rape allegation at Cornell highlights how Title IX guides campus sex assault cases",
+      "link": "https://www.pbs.org/newshour/nation/a-gang-rape-allegation-at-cornell-highlights-how-title-ix-guides-campus-sex-assault-cases",
+      "source": "PBS",
+      "timestamp": "2026-10-14T16:52:48-04:00",
+      "score": 12,
+      "summary": "Cornell University's handling of an alleged fraternity house gang rape is raising questions about how a decades-old federal civil rights law shapes colleges' treatment of campus sexual assault.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cornell",
+        "Title"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "GOP gets another Supreme Court win in TV political ad fight",
       "link": "https://thehill.com/regulation/court-battles/6148021-supreme-court-republicans-tv-ad-rates/",
       "source": "The Hill",
@@ -6572,36 +6604,25 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Anti-CEC protest LIVE | CJP's legal head Ratna Singh alleges Delhi Police arrested Saurav Das, Ashutosh Ranka and Ajinkya Shinde in Jantar Mantar case",
-      "link": "https://www.thehindu.com/news/national/anti-cec-protests-cjp-arrest-rahul-gandhi-india-bloc-gyanesh-kumar-resignation-saurav-das-ashutosh-ranka-live-updates/article71582057.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-14T07:04:14+05:30",
-      "score": 12,
-      "summary": "Delhi Police has filed an FIR against Cockroach Janta Party (CJP) leaders Saurav Das, Ashutosh Ranka and its other members for allegedly trespassing into the Jantar Mantar area without authorisation, officials said on Tuesday.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-14T21:00:00+00:00",
+      "score": 14,
+      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "LIVE",
-        "CJPs",
-        "Ratna",
-        "Singh",
-        "Delhi",
-        "Police",
-        "Saurav",
-        "Das",
-        "Ashutosh",
-        "Ranka",
-        "Ajinkya",
-        "Shinde",
-        "Jantar",
-        "Mantar"
+        "Biosciences"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6610,15 +6631,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Flock CEO: We haven\u2019t \u2018fired\u2019 any police departments as customers",
       "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
@@ -13087,22 +13106,29 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "source": "Verge",
-      "timestamp": "2026-10-08T17:53:51-04:00",
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-14T20:55:24+00:00",
       "score": 14,
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source pr...",
+      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Ukraines",
+        "Starlink"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13112,13 +13138,109 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Verge"
+        "BBC"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Australian politics live: Canavan denies he walked out on EU trade meeting; AEC warns about \u2018emerging\u2019 risk of AI in voting",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-10-14T20:54:29+00:00",
+      "score": 14,
+      "summary": "Follow the day\u2019s news live.Get our breaking news email, free app or daily news podcastPrivate health insurance changes \u2018recalibrating precious taxpayer dollars\u2019, says WellsThe health minister, Mark Butler, yesterday promised to reintroduce a bill to reduce private health insur...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Canavan",
+        "AEC"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "West Indies beat India to level T20 series as Hope continues record run",
+      "link": "https://www.aljazeera.com/sports/2026/10/14/west-indies-beat-india-to-level-series-as-hope-continues-record-run?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-10-14T20:52:25+00:00",
+      "score": 15,
+      "summary": "Shai Hope\u2019s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Indies",
+        "India",
+        "Hope"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Ex-fiance of Nancy Mace and two others charged with sex crimes she detailed in House speech",
+      "link": "https://www.theguardian.com/us-news/2026/oct/14/ex-fiance-nancy-mace-sex-crimes-speech",
+      "source": "Guardian",
+      "timestamp": "2026-10-14T20:49:48+00:00",
+      "score": 14,
+      "summary": "Republican representative described the assault in a nearly hourlong speech in February 2025 that named the menNancy Mace\u2019s former fiance and two of his business associates were charged with sex crimes and voyeurism on Wednesday over an episode the South Carolina representativ...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nancy",
+        "Mace",
+        "House"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Youth crime advocate charged with drug offences, stripped of funding",
       "link": "https://www.abc.net.au/news/2026-10-15/brodie-germaine-aboriginal-youth-crime-drug-offences/107259766",
@@ -15235,7 +15357,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -19570,124 +19692,21 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Trump asks US ambassador to Greece Kimberly Guilfoyle to resign over allegations",
-      "link": "https://www.france24.com/en/americas/20261014-trump-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-resign-over-allegations",
-      "source": "France24",
-      "timestamp": "2026-10-14T03:23:40+00:00",
-      "score": 12,
-      "summary": "President Donald Trump asked US ambassador to Greece Kimberly Guilfoyle to resign on Tuesday after reports alleged she sought $100,000 from a Trump supporter to pay personal credit card debt and accepted luxury trips and hotel stays from wealthy Greek businessmen. Guilfoyle de...",
+      "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
+      "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-14T20:57:00+00:00",
+      "score": 17,
+      "summary": "Fund-management giant BlackRock said Wednesday that assets under management are nearly $15.5 trillion after growth of 15%.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Greece",
-        "Kimberly",
-        "Guilfoyle"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 20,
-      "sources_reporting": [
-        "BBC",
-        "Bloomberg",
-        "France24",
-        "NHK",
-        "NPR",
-        "Reuters",
-        "The Hindu"
-      ],
-      "trend_accel": "+87%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Israel returns 22 stolen ancient artefacts to Greece",
-      "link": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-10-14T03:23:08+00:00",
-      "score": 15,
-      "summary": "The cultural exchange comes amid strengthening ties between the two countries.",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Newswire",
+      "source_type": "Financial Publication",
       "trust_score": 8,
       "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Greece"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Al Jazeera"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Australian politics live: King says gas reservation plan may \u2018push down\u2019 prices at some stage; Liberal \u2018reached out\u2019 to Aly over \u2018stoned\u2019 comment",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-10-14T03:06:56+00:00",
-      "score": 12,
-      "summary": "Follow the day\u2019s news live.Get our breaking news email, free app or daily news podcastAustralia missing out on $45bn of revenue from resources: GreensAs Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being le...",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "King",
-        "Liberal",
-        "Aly"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "National redress scheme needs extension to address backlog, inquiry says",
-      "link": "https://www.abc.net.au/news/2026-10-14/national-redress-scheme-extension-needed-politicians-say/107262290",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-14T03:06:22+00:00",
-      "score": 10,
-      "summary": "The scheme is scheduled to close in June 2028 but its backlog is outpacing processing.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -19698,15 +19717,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "ABC Australia"
+        "MarketWatch"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+59%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow",
       "link": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
@@ -26249,23 +26266,27 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "S&P 500 is little changed as traders mull over bank earnings; chip stocks slide: Live updates",
-      "link": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-13T18:30:34+00:00",
-      "score": 17,
-      "summary": "Traders digested a slew of corporate earnings reports from major banks along with a steep overnight decline in South Korea that put pressure on memory names.",
+      "title": "Engineered enzyme could improve detection of HIV and other viruses",
+      "link": "https://phys.org/news/2026-10-enzyme-hiv-viruses.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-14T17:00:11-04:00",
+      "score": 12,
+      "summary": "Scientists have long used a powerful gene-editing tool called CRISPR to make precise changes to DNA. But a different version of the technology, known as Cas13a, targets RNA, the genetic material found in viruses such as HIV. Now, researchers at Rice University have developed a...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Bio-Security"
+      ],
       "entities": [
-        "Live"
+        "HIV"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26274,15 +26295,71 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "Firms facing tariff shocks choose collaboration over conquest",
+      "link": "https://phys.org/news/2026-10-firms-tariff-collaboration-conquest.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-14T17:00:01-04:00",
+      "score": 10,
+      "summary": "New research has charted the way U.S. businesses adapted to market shocks caused by reductions in import tariffs and increased foreign competition, with greater innovation emerging as a longer-term benefit.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "AI-assisted math advance highlights gap between finding answers and judging their significance",
+      "link": "https://phys.org/news/2026-10-ai-math-advance-highlights-gap.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-14T16:50:01-04:00",
+      "score": 12,
+      "summary": "AI models are good at finding answers to mathematical puzzles but are not as good at research judgment, according to theoretical computer scientists.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "International business is influenced by local political climate, study finds",
       "link": "https://phys.org/news/2026-10-international-business-local-political-climate.html",
@@ -32269,96 +32346,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Primordial helium further confirms our understanding of the Big Bang",
-      "link": "https://phys.org/news/2026-10-primordial-helium-big.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-12T15:20:07-04:00",
-      "score": 12,
-      "summary": "In the early moments of the big bang, two elements were forged: hydrogen and helium. Technically, the tiniest traces of light elements such as lithium were produced as well, but nothing of consequence. The early universe was about three parts hydrogen to one part helium. All t...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Big",
-        "Bang"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Escape rooms give health care students a safe place to get things wrong",
-      "link": "https://phys.org/news/2026-10-rooms-health-students-safe-wrong.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-12T15:00:17-04:00",
-      "score": 10,
-      "summary": "The buzzer goes off. Three occupational therapy students are convinced they have worked out what should happen to their patient next. They are wrong.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Elephants continue to shape the savanna even after death",
-      "link": "https://phys.org/news/2026-10-elephants-savanna-death.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-12T15:00:11-04:00",
-      "score": 10,
-      "summary": "Elephants shape the African savanna. They consume huge amounts of forage, dig for water, topple trees and affect all the animals around them. So, what happens to their outsized presence after these iconic animals pass away?",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33784,32 +33771,113 @@
       ],
       "trend_accel": "+58%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Stephen A. Smith Apologizes for Lane Johnson Retirement Comments on Mental Health - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1VHVmNma3ZIQmlnb3BRdkxhRWdvemd1OUhUblplTHVzTWhUdWJoYWs0VVY2VVFrV0ZsOU1zU1FxQllocmo4dS0xeGtCUU8wTzMtamIzLTBLdGVJTkptOWJ1M1N2TjUzMmF6dnZvOGZIMmN1aENuWGxrZmJZV1FXdUVyd3lZaUQ3Tkp4S1JmQ3U3U05XeGkxU2ROMW1OdDMwTHdHYkFhWkNxZlFWcmhBTm5qdG9JOFE?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-10-07T20:48:45+00:00",
-      "score": 12,
-      "summary": "Stephen A. Smith Apologizes for Lane Johnson Retirement Comments on Mental Health Bleacher ReportStephen A. Smith embarrasses himself with Lane Johnson mental health \u2018First Take\u2019 The New York TimesStephen A. Smith addresses widely criticized Lane Johnson take: \u2018People misconst...",
+      "title": "Mark Ruffalo Really Hasn\u2019t Forgiven Gavin Newsom For Backing Paramount-WBD Merger; That Could Be A 2028 Problem For Potential POTUS Contender",
+      "link": "https://deadline.com/2026/10/mark-ruffalo-gavin-newsom-2028-1237157456/",
+      "source": "Deadline",
+      "timestamp": "2026-10-14T21:00:03+00:00",
+      "score": 15,
+      "summary": "Gavin Newsom and Mark Ruffalo haven\u2019t patched things up since David Ellison\u2019s contentious mega-bucks Paramount and Warner Bros Discovery merger was approved and completed earlier this month. The deep rift between the once pals could end up haunting the outgoing California gove...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Aggregator",
+      "source_type": "Entertainment",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Smith",
-        "Apologizes",
-        "Lane",
-        "Johnson",
-        "Retirement",
-        "Comments",
-        "Mental",
-        "Health",
-        "Bleacher",
-        "Report"
+        "Ruffalo",
+        "Really",
+        "Hasnt",
+        "Forgiven",
+        "Gavin",
+        "Newsom",
+        "Backing",
+        "ParamountWBD",
+        "Merger",
+        "That",
+        "Could",
+        "Problem",
+        "Potential",
+        "POTUS",
+        "Contender"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "CNN Targets Cord-Cutters In Canada With Streaming Launch",
+      "link": "https://www.hollywoodreporter.com/business/business-news/cnn-targets-cord-cutters-mobile-canada-1236730337/",
+      "source": "THR",
+      "timestamp": "2026-10-14T20:55:41+00:00",
+      "score": 12,
+      "summary": "The international rollout, including in the U.K., is looking to drive more digital subscribers as traditional cable TV revenue drops.",
+      "country": "Canada",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Targets",
+        "CordCutters",
+        "Canada",
+        "Streaming",
+        "Launch"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Frances Stonor Saunders, Who Detailed C.I.A. Propaganda, Dies at 60",
+      "link": "https://www.nytimes.com/2026/10/13/books/frances-stonor-saunders-dead.html",
+      "source": "NYT",
+      "timestamp": "2026-10-14T20:51:30+00:00",
+      "score": 17,
+      "summary": "In a 1999 book, she chronicled the spy agency\u2019s secret backing of Cold War culture projects to manipulate public opinion against Communism in Western Europe.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "Stonor",
+        "Saunders",
+        "Who",
+        "Detailed",
+        "CIA",
+        "Propaganda",
+        "Dies"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -33820,13 +33888,48 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Google News"
+        "NYT"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
+    {
+      "title": "Versant Is Bringing\u2019s E!\u2019s Red Carpet Coverage to the WNBA Finals (Exclusive)",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/versant-e-red-carpet-coverage-wnba-finals-1236730232/",
+      "source": "THR",
+      "timestamp": "2026-10-14T20:50:42+00:00",
+      "score": 12,
+      "summary": "'Live from the Orange Carpet: WNBA Finals' will bring E!'s flagship live coverage to perhaps the biggest event in USA Sports' calendar, with Lilly Singh set to host.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bringings",
+        "Red",
+        "Carpet",
+        "Coverage",
+        "WNBA",
+        "Finals",
+        "Exclusive"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Fox\u2019s $22 Billion Roku Deal Approved by Shareholders of Both Companies",
       "link": "https://variety.com/2026/tv/news/fox-roku-acquisition-approved-shareholders-1236912437/",
@@ -41688,163 +41791,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Druski Hosting \u2018SNL\u2019 Is the Show\u2019s Most Interesting Move in Years",
-      "link": "https://variety.com/2026/tv/columns/druski-hosting-snl-change-sketch-show-future-1236910425/",
-      "source": "Variety",
-      "timestamp": "2026-10-13T20:53:07+00:00",
-      "score": 12,
-      "summary": "As \u201cSaturday Night Live\u201d trudges on this season with a little-known cast, uneven sketches and yet another horrendous appearance by obvious misogynist Shane Gillis, news that comedian and internet personality Druski, aka Drew Desbordes, will host the Nov. 7 episode suddenly giv...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hosting",
-        "SNL",
-        "Shows",
-        "Most",
-        "Interesting",
-        "Move",
-        "Years"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Shane Harper's Shares What He Admires About Ex Bridgit Mendler",
-      "link": "https://www.eonline.com/news/1437051/shane-harper-shares-rare-comment-about-ex-bridgit-mendlers-career?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-10-13T20:50:32+00:00",
-      "score": 12,
-      "summary": "Shane Harper is over the moon about Bridgit Mendler's wins. Seven years after his Good Luck Charlie costar\u2014whom he dated from 2011 to 2015\u2014left Hollywood to attend college and focus on her...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Harpers",
-        "Shares",
-        "What",
-        "Admires",
-        "About",
-        "Bridgit",
-        "Mendler"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Amy Robach and T.J. Holmes Get Married 4 Years After GMA3 Scandal",
-      "link": "https://www.eonline.com/news/1436707/amy-robach-and-t-j-holmes-get-married-4-years-after-gma3-scandal?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-10-13T20:50:23+00:00",
-      "score": 15,
-      "summary": "Amy Robach and T.J. Holmes are saying good morning to married life. The former GMA3 hosts officially tied the knot almost four years after their romance was first made public. According to the...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Robach",
-        "Holmes",
-        "Get",
-        "Married",
-        "Years",
-        "After",
-        "GMA",
-        "Scandal"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018DWTS\u2019 Super Bowl Night Tackles Historic Halftime Shows by Kendrick Lamar, Bad Bunny and More: How to Watch Online",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-dancing-with-the-stars-super-bowl-night-2026-free-1236729028/",
-      "source": "THR",
-      "timestamp": "2026-10-13T20:45:15+00:00",
-      "score": 12,
-      "summary": "Each of the 11 remaining couples is tasked with reinterpreting some of the most iconic performances from Super Bowls past.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Super",
-        "Bowl",
-        "Night",
-        "Tackles",
-        "Historic",
-        "Halftime",
-        "Shows",
-        "Kendrick",
-        "Lamar",
-        "Bad",
-        "Bunny",
-        "More",
-        "How",
-        "Watch",
-        "Online"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -46278,6 +46224,39 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 4 km SSW of Anderson Springs, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449456",
+      "source": "USGS",
+      "timestamp": "2026-10-14T20:55:16.246000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-14 20:53:39 UTC2026-10-14 20:53:39 UTC at epicenterLocation38.745\u00b0N 122.716\u00b0WDepth1.48 km (0.92 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Anderson",
+        "Springs"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
@@ -52750,42 +52729,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Blue-Green Algae Alert at Loch Migdale - Highland Council",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObFBIQ2U3dHRhLXN1eGJ1a1dMWGhTM0xfc3hTTDg1WENUS214VmM2aVZzUU4wS09YblZVMktodEFzaVdSQnNGcTRLQk04WEJjLVlvcXZzOENOUFpZaGN0ZzA2aWxhczV2Vk4wVXoycnJPa0gwSUZqLU1kSUV1RDJkTWJsZGxETV9YN3FOek9B?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-10-13T14:31:23+00:00",
-      "score": 12,
-      "summary": "Blue-Green Algae Alert at Loch Migdale Highland Council",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Algae",
-        "Alert",
-        "Loch",
-        "Migdale",
-        "Highland",
-        "Council"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ]
