@@ -1,6 +1,64 @@
 {
   "Politics": [
     {
+      "title": "Netflix laying off 6 percent of its workforce, marking biggest round of job cuts in years",
+      "link": "https://thehill.com/business/6148310-netflix-layoffs-6-percent/",
+      "source": "The Hill",
+      "timestamp": "2026-10-14T17:24:59+00:00",
+      "score": 13,
+      "summary": "Netflix's product, tech, legal and human resources teams would be the most impacted, according to a memo from co-CEOs Greg Peters and Ted Sarandos.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Centre sets up panel to study problems of sugarcane farmers",
+      "link": "https://www.thehindu.com/business/agri-business/centre-sets-up-panel-to-study-problems-of-sugarcane-farmers/article71584866.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-10-14T22:50:48+05:30",
+      "score": 10,
+      "summary": "Representatives of sugarcane farmers from Karnataka and Maharashtra had met Union Ministers demanding that the government must increase remunerative returns to sugarcane farmers",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump right to share intel with Ukraine; don\u2019t turn off Starlink, Elon Musk!",
       "link": "https://thehill.com/opinion/robbys-radar/6148450-putin-must-end-war-ukraine/",
       "source": "The Hill",
@@ -6572,23 +6630,26 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Congo's confirmed Ebola cases surpass 9,000 as containment efforts falter",
-      "link": "https://www.pbs.org/newshour/health/congos-confirmed-ebola-cases-surpass-9000-as-containment-efforts-falter",
-      "source": "PBS",
-      "timestamp": "2026-10-13T15:56:56-04:00",
-      "score": 17,
-      "summary": "Health workers are alarmed, as many deaths occur outside treatment centers.",
+      "title": "Apple\u2019s new HomeView smart display is $10 cheaper at Amazon",
+      "link": "https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale",
+      "source": "Verge",
+      "timestamp": "2026-10-14T13:24:42-04:00",
+      "score": 15,
+      "summary": "Apple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $289.99 ($10 off) in gray and the creamy white \u201cstarlight\u201d colorway at Amazon. S...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Ebola"
+        "HomeView",
+        "Amazon"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6597,32 +6658,30 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "PBS"
+        "Verge"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
-      "title": "Bipartisan group of senators call on Trump to rescind Russian diesel deal",
-      "link": "https://www.npr.org/2026/10/13/g-s1-147871/trump-russia-diesel-deal-congressional-response",
-      "source": "NPR",
-      "timestamp": "2026-10-13T15:52:52-04:00",
-      "score": 14,
-      "summary": "Six Democratic and six Republican senators wrote a letter calling on President Trump to withdraw from his recent deal with Russian President Vladimir Putin.",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "title": "Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod",
+      "link": "https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod",
+      "source": "Verge",
+      "timestamp": "2026-10-14T13:19:11-04:00",
+      "score": 12,
+      "summary": "There's an entire cottage industry of iPod mods out there, but Sprout Pi and Sprout Pico are two of the few full motherboard replacements that combine many of the most popular mods into a single upgrade. Both versions add Bluetooth, Wi-Fi, USB-C, a microSD card slot, FLAC play...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Trump",
-        "Russian"
+        "Bluetooth",
+        "USBC"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6633,13 +6692,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "NPR"
+        "Verge"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Anbernic\u2019s next dual-screen handheld could replace your aging Nintendo 3DS",
       "link": "https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds",
@@ -6994,14 +7051,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 8.3,
+      "source_count": 10,
       "sources_reporting": [
-        "TechCrunch"
+        "NHK",
+        "NPR",
+        "PBS",
+        "TechCrunch",
+        "Verge"
       ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
+      "trend_accel": "+66%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last two days in San Francisco\u2019s Moscone West",
@@ -9190,8 +9251,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -13078,56 +13139,25 @@
       ],
       "trend_accel": "+71%",
       "heat_level": "SURGING"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Watch the trailer for \u2018The Altruists,\u2019 Netflix\u2019s show about the FTX scandal",
-      "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-08T18:30:00+00:00",
-      "score": 14,
-      "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-14T17:23:01+00:00",
+      "score": 12,
+      "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "country": "Kenya",
+      "region": "Africa",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Altruists",
-        "Netflixs",
-        "FTX"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-08T18:19:45+00:00",
-      "score": 17,
-      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Arena"
+        "Ebola"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13138,13 +13168,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "TechCrunch"
+        "BBC"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+58%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Student protests in Albania turn violent as demonstrators clash with police",
       "link": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
@@ -15114,7 +15142,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 19,
       "sources_reporting": [
         "BBC",
@@ -19695,37 +19723,6 @@
       "source_count": 5,
       "sources_reporting": [
         "Guardian"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "INDIA bloc challenges SIR process but not its validity",
-      "link": "https://timesofindia.indiatimes.com/india/india-bloc-challenges-sir-process-but-not-its-validity/articleshow/134929176.cms",
-      "source": "Times of India",
-      "timestamp": "2026-10-14T04:16:39+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SIR"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Times of India"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
@@ -26360,6 +26357,97 @@
   ],
   "Science": [
     {
+      "title": "Bacteria turn 3D-printed sand into solid building elements",
+      "link": "https://phys.org/news/2026-10-bacteria-3d-sand-solid-elements.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-14T13:20:24-04:00",
+      "score": 13,
+      "summary": "Cement manufacturing is one of the largest sources of CO\u2082 emissions in the construction industry. At the Department of Architecture, Karen Antorveza Paez, who has just completed her doctorate at ETH Zurich, is researching an alternative that works in a different way: instead o...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dprinted"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Gathering rare airborne observations of firestorm clouds",
+      "link": "https://phys.org/news/2026-10-rare-airborne-firestorm-clouds.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-14T13:20:17-04:00",
+      "score": 12,
+      "summary": "Just minutes into a planned research flight from Colorado to Oregon in August to study massive storm clouds fueled by intense wildfires, scientists discovered that a fire in Utah offered a more promising target. The mission support staff on the ground scrambled to draw up a ne...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "'Sundown towns' linked to lingering racial bias",
+      "link": "https://phys.org/news/2026-10-sundown-towns-linked-lingering-racial.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-14T13:20:01-04:00",
+      "score": 10,
+      "summary": "A sundown town is a community that prohibited Black people from staying within its borders after dark or from owning property. This was done through laws, signs, threats, harassment or violence. More than 150 years after the end of slavery and a generation after Civil Rights r...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Toothless 'hell chicken' dinosaur may have had a taste for fruit",
       "link": "https://phys.org/news/2026-10-toothless-hell-chicken-dinosaur-fruit.html",
       "source": "Phys.org",
@@ -32342,95 +32430,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "DNA reveals genetic divide in Australian brolgas, with southern birds facing greater diversity risks",
-      "link": "https://phys.org/news/2026-10-dna-reveals-genetic-australian-brolgas.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-12T08:40:04-04:00",
-      "score": 12,
-      "summary": "New research on the brolga, an iconic Australian crane species, has shown important genetic differences between northern and southeastern populations, with evidence that those in western Victoria are at increased risk, likely heightened by the loss of wetlands.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Australian"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Appeal for major energy storage system rejected",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdej69m2ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-12T12:10:34+00:00",
-      "score": 10,
-      "summary": "Plans for the battery system site near the Devon-Dorset border have again been dismissed.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "New sensor uses slowed light to detect gravitational pull of tiny objects",
-      "link": "https://phys.org/news/2026-10-sensor-gravitational-tiny.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-12T08:00:14-04:00",
-      "score": 10,
-      "summary": "Gravity, the attraction between objects with mass, is the weakest of the four fundamental forces governing physical processes. Detecting the tiny gravitational pull of objects that are just a few millimeters in size and have a very small mass is extremely challenging.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32498,7 +32497,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.8,
+      "trend_score": 6.7,
       "source_count": 16,
       "sources_reporting": [
         "Bloomberg",
@@ -32506,7 +32505,7 @@
         "Guardian",
         "PBS"
       ],
-      "trend_accel": "+60%",
+      "trend_accel": "+59%",
       "heat_level": "HOT"
     },
     {
@@ -33195,7 +33194,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.7,
+      "trend_score": 6.6,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -33203,7 +33202,7 @@
         "Guardian",
         "NPR"
       ],
-      "trend_accel": "+64%",
+      "trend_accel": "+63%",
       "heat_level": "HOT"
     },
     {
@@ -33800,6 +33799,162 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Red Sonja\u2019 Producer Christa Campbell Launches Film & TV Company XTA Media",
+      "link": "https://deadline.com/2026/10/red-sonja-producer-christa-campbell-launches-xta-media-1237156630/",
+      "source": "Deadline",
+      "timestamp": "2026-10-14T17:30:40+00:00",
+      "score": 12,
+      "summary": "EXCLUSIVE: LA-based producer-financier Christa Campbell has launched film, TV and media company XTA Media, which has seed funding from London and Denmark-based private investment firm Three Thousand Capital. Campbell\u2019s credits as a producer and exec producer include Hellboy, R...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sonja",
+        "Producer",
+        "Christa",
+        "Campbell",
+        "Launches",
+        "Film",
+        "Company",
+        "XTA",
+        "Media"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Everything We Know About \u2018The Gilded Age\u2019 Season 4 So Far",
+      "link": "https://deadline.com/feature/the-gilded-age-season-4-news-updates-everything-we-know-1236748421/",
+      "source": "Deadline",
+      "timestamp": "2026-10-14T17:24:17+00:00",
+      "score": 15,
+      "summary": "The culture clash will continue in Season 4 of Julian Fellowes\u2019 HBO period drama The Gilded Age, based on the turn-of-the-century time period in America that lasted between 1870 and 1900. Some familiar faces have been promoted to series regulars since Season 3, and some new fa...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Know",
+        "About",
+        "Gilded",
+        "Age",
+        "Season",
+        "Far"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Universal Music Undergoes Shake Up With Def Jam, Republic Top Execs Among Departures",
+      "link": "https://www.hollywoodreporter.com/music/music-industry-news/umg-restructuring-def-jam-republic-execs-leave-1236729933/",
+      "source": "THR",
+      "timestamp": "2026-10-14T17:20:37+00:00",
+      "score": 12,
+      "summary": "Among the top exits, sources say, are Def Jam CEO Tunji Balogun and Republic Records' Jim Roppo.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Music",
+        "Undergoes",
+        "Shake",
+        "Def",
+        "Jam",
+        "Republic",
+        "Top",
+        "Execs",
+        "Among",
+        "Departures"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Celine Dion Gets Her Own Barbie Doll Inspired by Iconic \u2018Titanic\u2019 Oscars Performance",
+      "link": "https://variety.com/2026/shopping/news/celine-dion-barbie-doll-buy-online-1236912126/",
+      "source": "Variety",
+      "timestamp": "2026-10-14T17:17:13+00:00",
+      "score": 12,
+      "summary": "Celine Dion\u2019s comeback year now includes a Barbie doll. Mattel has unveiled a new collectible doll honoring the Canadian superstar, recreating her look from the 1998 Academy Awards, where she performed \u201cMy Heart Will Go On\u201d from James Cameron\u2019s \u201cTitanic.\u201d The $60 doll is avail...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dion",
+        "Gets",
+        "Her",
+        "Own",
+        "Barbie",
+        "Doll",
+        "Inspired",
+        "Iconic",
+        "Titanic",
+        "Oscars",
+        "Performance"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Steve Hilton, Republican Candidate for Governor, Rolls Out Expanded Hollywood Plan",
       "link": "https://variety.com/2026/politics/news/steve-hilton-hollywood-plan-1236912024/",
@@ -41656,178 +41811,46 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Lucian Piane Dies: Former \u2018RuPaul\u2019s Drag Race\u2019 Music Producer Was 46",
-      "link": "https://deadline.com/2026/10/lucian-piane-dead-rupauls-drag-race-music-producer-1237155822/",
-      "source": "Deadline",
-      "timestamp": "2026-10-13T17:32:11+00:00",
-      "score": 15,
-      "summary": "Lucian Piane, a songwriter and music producer known best for his work on multiple seasons of RuPaul\u2019s Drag Race, died October 12, according to Los Angeles County medical examiner\u2019s office records. He was 46. The online records note Piane died in the street. Piane reportedly wa...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Piane",
-        "Dies",
-        "Former",
-        "RuPauls",
-        "Drag",
-        "Race",
-        "Music",
-        "Producer",
-        "Was"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 14,
-      "sources_reporting": [
-        "BBC",
-        "Deadline",
-        "E! News",
-        "NHK",
-        "Reuters",
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+88%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Parker Posey to Star in \u2018Sleepover\u2019 from Blumhouse Atomic Monster and Universal (EXCLUSIVE)",
-      "link": "https://variety.com/2026/film/news/parker-posey-sleepover-horror-movie-blumhouse-a-1236909242/",
-      "source": "Variety",
-      "timestamp": "2026-10-13T17:30:00+00:00",
-      "score": 12,
-      "summary": "Parker Posey will star in the upcoming horror movie \u201cSleepover\u201d from Blumhouse Atomic Monster and Universal Pictures, Variety can reveal exclusively. The film hits theaters on Oct. 8, 2027. \u201cInsidious: Out of the Further\u201d filmmaker Jacob Chase directs from a script he co-wrote...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Posey",
-        "Star",
-        "Sleepover",
-        "Blumhouse",
-        "Atomic",
-        "Monster",
-        "Universal",
-        "EXCLUSIVE"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Dropout Sets \u2018MP3\u2019 Starring Jeremy Culhane, Paul F. Tompkins as Its First Scripted Live-Action Series in Seven Years",
-      "link": "https://variety.com/2026/tv/news/dropout-mp3-tv-series-jeremy-culhane-paul-f-tompkins-1236908330/",
-      "source": "Variety",
-      "timestamp": "2026-10-13T17:30:00+00:00",
-      "score": 15,
-      "summary": "Dropout has ordered its first new original scripted live-action series since it became Dropout. The media company formerly known as CollegeHumor will launch a three-episode music video countdown spoof series titled \u201cMP3\u2033 on its comedy streaming service Dropout this November. P...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sets",
-        "Starring",
-        "Jeremy",
-        "Culhane",
-        "Paul",
-        "Tompkins",
-        "Its",
-        "First",
-        "Scripted",
-        "LiveAction",
-        "Series",
-        "Seven",
-        "Years"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "South Africa\u2019s Cash Rebate Bounces Back, African Verticals Lift Off and AI at a Crossroads: 10 Takeaways From the Durban FilmMart",
-      "link": "https://variety.com/2026/film/global/south-africa-10-takeaways-durban-filmmart-1236909788/",
-      "source": "Variety",
-      "timestamp": "2026-10-13T17:18:38+00:00",
-      "score": 17,
-      "summary": "The Durban FilmMart wrapped its 17th edition on Oct. 12 with a boisterous awards ceremony that offered a fitting exclamation point to a four-day event whose rousing turn-out \u2014 with more than 1,100 industry delegates in attendance from 56 countries \u2014 cemented its position as th...",
-      "country": "South Africa",
-      "region": "Africa",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Africas",
-        "Cash",
-        "Rebate",
-        "Bounces",
-        "Back",
-        "African",
-        "Verticals",
-        "Lift",
-        "Off",
-        "Crossroads",
-        "Takeaways",
-        "Durban",
-        "FilmMart"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
+    {
+      "title": "You Needed to Start Growing Out Your Sideburns Yesterday",
+      "link": "https://www.gq.com/story/sideburns-are-back",
+      "source": "GQ",
+      "timestamp": "2026-10-14T17:22:43+00:00",
+      "score": 12,
+      "summary": "You don\u2019t want to look like you\u2019re cosplaying as Wolverine, but playing with sideburn length can drastically improve your face shape. Here\u2019s what the experts say to do.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Needed",
+        "Start",
+        "Growing",
+        "Out",
+        "Your",
+        "Sideburns",
+        "Yesterday"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "GQ"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Fall Fashion Done Right\u2014Zo\u00eb Kravitz Is Our Cold-Weather Muse",
       "link": "https://www.vogue.com/article/zoe-kravitz-fall-outfit-ideas",
@@ -46139,44 +46162,6 @@
       ],
       "trend_accel": "+55%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "13 Best Prime Day Watch Deals 2026: Editor Selects Up to 45% Off",
-      "link": "https://www.gq.com/story/prime-day-watch-deals-10-07-2026",
-      "source": "GQ",
-      "timestamp": "2026-10-07T17:20:44+00:00",
-      "score": 17,
-      "summary": "For the next day or so, Amazon is offloading trusty Timex divers, rugged digital Seikos, and high-flying Citizen chronographs like there's no tomorrow.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Best",
-        "Prime",
-        "Day",
-        "Watch",
-        "Deals",
-        "Editor",
-        "Selects",
-        "Off"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "GQ"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -46209,6 +46194,37 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Two ships sink near Hormuz after being hit by projectiles amid surge in attacks",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlQtcHJibXBpYWEwWTQ4dFdfWUFJbTVteGY0WThGcTFybEdUTERvVG9DcGdoY09vUjh0TG1QeG5zMWx0LTFvV09teVNXY1NLdXZVNlpuMVBIV3pndWJKWVBRdENjLVd0dnVwdUxPTHFPU002S0ZqR0lkcjgyNVl2ZFFXc05MdTJHenM3LVNUSlBUb1RyeDVxY3VTdUxEamxrbS1OXzJJR3o3SlltandncHAwVXFNSTFYcmJXblh2U25vN2xMMW1ibQ?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-10-14T17:22:06+00:00",
+      "score": 12,
+      "summary": "Two ships sink near Hormuz after being hit by projectiles amid surge in attacks Reuters",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hormuz"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
@@ -52683,38 +52699,6 @@
         "USGS"
       ],
       "trend_accel": "+61%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 10 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75448781",
-      "source": "USGS",
-      "timestamp": "2026-10-13T11:47:50.197000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-13 11:46:12 UTC2026-10-13 11:46:12 UTC at epicenterLocation38.825\u00b0N 122.853\u00b0WDepth2.15 km (1.34 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
