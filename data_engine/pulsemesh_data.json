@@ -13169,6 +13169,141 @@
   ],
   "World": [
     {
+      "title": "Breaking: Recording device found in cabin of Australian navy ship",
+      "link": "https://www.abc.net.au/news/2026-10-14/queensland-navy-investigation-recording-device/107267072",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-14T05:54:46+00:00",
+      "score": 12,
+      "summary": "The recording device was discovered on board the HMAS Leeuwin while it was stationed near Cairns.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Recording",
+        "Australian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Rare earths company could be nationalised as China-linked investors fail to divest",
+      "link": "https://www.abc.net.au/news/2026-10-14/federal-politics-resources-minister-open-nationalising-company/107266624",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-14T05:54:38+00:00",
+      "score": 14,
+      "summary": "Resources Minister Madeleine King has left open the door to nationalising a Perth-based critical minerals company as several China-linked investors are defying federal government orders to divest from it.",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Chinalinked"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Air India Frankfurt-Delhi flight diverted to Jaipur after bomb threat",
+      "link": "https://timesofindia.indiatimes.com/india/air-india-frankfurt-delhi-flight-diverted-to-jaipur-after-bomb-threat/articleshow/134933627.cms",
+      "source": "Times of India",
+      "timestamp": "2026-10-14T11:22:24+05:30",
+      "score": 14,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "India",
+        "FrankfurtDelhi",
+        "Jaipur"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Champions League: Arsenal leave no chance to Lille and Olivier Giroud",
+      "link": "https://www.france24.com/en/tv-shows/sports/20261014-champions-league-arsenal-leave-no-chance-to-lille-and-olivier-giroud",
+      "source": "France24",
+      "timestamp": "2026-10-14T05:49:21+00:00",
+      "score": 12,
+      "summary": "Lille suffered heavy defeat at Arsenal (3-0) in Champions League matchday 2. Olivier Giroud made his return to Arsenal, his former club.",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "League",
+        "Arsenal",
+        "Lille",
+        "Olivier",
+        "Giroud"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "France24"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Mining giant BHP to cut hundreds of jobs at iron ore mines",
       "link": "https://www.abc.net.au/news/2026-10-14/bhp-slashing-jobs-iron-ore-mines-pilbara-/107266662",
       "source": "ABC Australia",
@@ -13997,14 +14132,21 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 10.9,
+      "source_count": 21,
       "sources_reporting": [
-        "France24"
+        "BBC",
+        "Bloomberg",
+        "CBC News",
+        "France24",
+        "Guardian",
+        "NHK",
+        "Reuters",
+        "The Hindu"
       ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
+      "trend_accel": "+87%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Israel returns 22 stolen ancient artefacts to Greece",
@@ -19625,8 +19767,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.0,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 19,
       "sources_reporting": [
         "Bloomberg",
@@ -19676,168 +19818,40 @@
       ],
       "trend_accel": "+58%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Pope Leo Prepares for Surgery to Remove Lung Nodule",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
-      "source": "NYT",
-      "timestamp": "2026-10-13T11:19:10+00:00",
-      "score": 12,
-      "summary": "The Vatican has said that the pontiff is expected to spend about a week recovering in the hospital.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Leo",
-        "Prepares",
-        "Surgery",
-        "Remove",
-        "Lung",
-        "Nodule"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 12,
-      "sources_reporting": [
-        "BBC",
-        "CBC News",
-        "France24",
-        "Guardian",
-        "NHK",
-        "NYT"
-      ],
-      "trend_accel": "+88%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Katie Zacharia Holds First WH Press Briefing, New Allegations Roil Ken Paxton's Campaign: Live Updates",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zUE5lRUQtTEtFMXVIWkV1VkJvUUc0Ukw3cUM3ZTNrWlREUVdJY24wRmplTnJ3dEpGUk5yNmZhUjRoT3RKTFVNN2lJczlCUUR1dFJSLXNpQmdjaXNEODBKQ3h2NzFlaThDaHhzcDVnZnZtMi0tejVaNXdB0gF_QVVfeXFMT2swYTJRZFNpSmU0cUJPY3pGWHE4Nk9rOUZXUl9SWmo3cUdWWnljeEFrb01QV1ZHazROQ2NtMUlRU0MwZjI5bW13M2o1TllSU2V6X3NyYUNtYk9uS25qUWN4blpLYUQyT0JBTkI0eVhaSUsyZlZfVlNSeExtNDdhRQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-10-13T11:19:00+00:00",
-      "score": 14,
-      "summary": "Katie Zacharia Holds First WH Press Briefing, New Allegations Roil Ken Paxton's Campaign: Live Updates HuffPostSee more headlines & perspectives on Google News",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Zacharia",
-        "Holds",
-        "First",
-        "Press",
-        "Briefing",
-        "New",
-        "Allegations",
-        "Roil",
-        "Ken",
-        "Paxtons",
-        "Campaign",
-        "Live",
-        "Updates"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Houthis say multiple airstrikes hit areas in Yemen under their control",
-      "link": "https://www.thehindu.com/news/international/houthis-say-multiple-airstrikes-hit-areas-in-yemen-under-their-control/article71578337.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-13T16:47:28+05:30",
-      "score": 14,
-      "summary": "Houthi rebels said on Tuesday that multiple airstrikes targeted areas under their control in Yemen, with blasts struck the Red Sea island of Kamaran and the Qanawis district near Hodeida, as well as sites in Jawf governorate, according to al-Masirah.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Yemen"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Bulgaria Summons Russian Ambassador After More Black Sea Drone Strikes",
-      "link": "https://www.nytimes.com/2026/10/13/world/europe/black-sea-drones-russia-bulgaria-nato.html",
-      "source": "NYT",
-      "timestamp": "2026-10-13T11:16:52+00:00",
-      "score": 12,
-      "summary": "Drones struck two ships off Bulgaria\u2019s Black Sea coast, according to the country\u2019s prime minister.",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military",
-        "Geopolitics"
-      ],
-      "entities": [
-        "Summons",
-        "Russian",
-        "Ambassador",
-        "After",
-        "More",
-        "Black",
-        "Sea",
-        "Drone",
-        "Strikes"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
+    {
+      "title": "Stock futures are mixed as traders await consumer inflation report: Live updates",
+      "link": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-14T05:54:33+00:00",
+      "score": 14,
+      "summary": "A slide in chip stocks and mixed bank results on Tuesday weighed on the major averages.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Live"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
     {
       "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
       "link": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
@@ -26472,35 +26486,6 @@
         "Livemint"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-13T01:36:36+00:00",
-      "score": 13,
-      "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
@@ -34004,45 +33989,6 @@
         "Cricinfo"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Brewers fall to Padres, 4-3, in tense Game 3 as NLDS series tightens - Milwaukee Journal Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUjN5ZmpBQWh2Q2ZGODhtN3lZWlB1REhhalJ4MXY3cmNXR3ZrRVlwSkU5ME9HR0dRdXd6ckhrX1BMMkF5XzVIMW5HSHNoaHAzcFVXcHRFUkVac2x5Z0JkR2NmcWRRM2FZUk5lT2dNQzN0b05DOVJaZ194WjlvWmhtcXJkVXJCTlE2YkFoT0ZPXzh1MHJkdklKQVBhVGJYMUY3QTdHU1B4SEJTT05VdTIwbnQyd3BuWnZ6ODYxQ0QxbkRpa2JxYXBnVFBqd19SSlBhcXlYUE1n?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-10-07T05:51:00+00:00",
-      "score": 15,
-      "summary": "Brewers fall to Padres, 4-3, in tense Game 3 as NLDS series tightens Milwaukee Journal SentinelLIVE: Brewers-Padres NLDS Game 3 (FS1 /FOX One) MLB.comBrewers vs Padres highlights, National League Division Series Game 3 Yahoo SportsNLDS Game 3 Discussion: Milwaukee Brewers (2-0...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Padres",
-        "Game",
-        "NLDS",
-        "Milwaukee",
-        "Journal",
-        "Sentinel"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 11,
-      "sources_reporting": [
-        "AP",
-        "Google News",
-        "NHK",
-        "PBS"
-      ],
-      "trend_accel": "+62%",
       "heat_level": "LOW"
     }
   ],
@@ -46372,6 +46318,101 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 0.5 - 10 km SSE of Idyllwild, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347391",
+      "source": "USGS",
+      "timestamp": "2026-10-14T05:55:55.243000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-14 05:52:23 UTC2026-10-14 05:52:23 UTC at epicenterLocation33.648\u00b0N 116.696\u00b0WDepth16.56 km (10.29 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Idyllwild"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 13 km SE of Livermore, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449216",
+      "source": "USGS",
+      "timestamp": "2026-10-14T05:51:47.679000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-14 05:50:07 UTC2026-10-14 05:50:07 UTC at epicenterLocation37.612\u00b0N 121.652\u00b0WDepth7.21 km (4.48 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Livermore"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.9 - 2 km NNW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449211",
+      "source": "USGS",
+      "timestamp": "2026-10-14T05:49:07.667000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-14 05:47:30 UTC2026-10-14 05:47:30 UTC at epicenterLocation38.792\u00b0N 122.761\u00b0WDepth1.06 km (0.66 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.8 - 37 km SSE of Ivanof Bay, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uirqqv",
       "source": "USGS",
@@ -52832,106 +52873,6 @@
         "USGS"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 49 km SSE of Nelchina, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ugrdfy",
-      "source": "USGS",
-      "timestamp": "2026-10-13T03:28:39.709000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-13 03:26:44 UTC2026-10-13 03:26:44 UTC at epicenterLocation61.585\u00b0N 146.372\u00b0WDepth19.10 km (11.87 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "SSE",
-        "Nelchina",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 8 km SW of Westlake Village, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346999",
-      "source": "USGS",
-      "timestamp": "2026-10-13T03:23:40.196000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-13 03:20:13 UTC2026-10-13 03:20:13 UTC at epicenterLocation34.103\u00b0N 118.878\u00b0WDepth16.86 km (10.48 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Westlake",
-        "Village"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 13 km ENE of Borrego Springs, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41346983",
-      "source": "USGS",
-      "timestamp": "2026-10-13T03:06:59.596000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-13 03:03:31 UTC2026-10-13 03:03:31 UTC at epicenterLocation33.311\u00b0N 116.255\u00b0WDepth8.97 km (5.57 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Borrego",
-        "Springs"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
