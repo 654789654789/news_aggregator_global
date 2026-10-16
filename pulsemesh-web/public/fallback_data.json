@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "Oil hits $110 per barrel for first time since May",
+      "link": "https://thehill.com/policy/energy-environment/6155062-brent-crude-hits-110/",
+      "source": "The Hill",
+      "timestamp": "2026-10-16T20:48:33+00:00",
+      "score": 15,
+      "summary": "An international oil benchmark hit $110 per barrel on Friday, as the industry faces persistent shocks from the U.S.-Iran and Russia-Ukraine wars. The price of Brent crude oil, the international standard, hit $110 on the nose during Friday trading. That marked the first time it...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "May"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Live updates: Zacharia exits White House post; Trump stumps for Collins in Georgia",
       "link": "https://thehill.com/homenews/administration/6152806-live-updates-trump-georgia-midterm-elections-katie-zacharia/",
       "source": "The Hill",
@@ -6591,24 +6622,30 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Four dead, 35 injured as Bengaluru-Kozhikode sleeper bus collides with truck near Periyapatna",
-      "link": "https://www.thehindu.com/news/national/karnataka/four-dead-35-injured-as-bengaluru-kozhikode-sleeper-bus-collides-with-truck-near-periyapatna/article71591215.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-16T11:46:28+05:30",
-      "score": 15,
-      "summary": "Police said the accident took place when the truck swerved to the right to avoid hitting a tree that had fallen by the roadside due to overnight rains.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "We can finally hear some of Wu-Tang Clan\u2019s Once Upon A Time in Shaolin album",
+      "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "source": "Verge",
+      "timestamp": "2026-10-16T16:50:27-04:00",
+      "score": 12,
+      "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Ti...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "BengaluruKozhikode",
-        "Periyapatna"
+        "WuTang",
+        "Clans",
+        "Once",
+        "Upon",
+        "Time",
+        "Shaolin"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6617,15 +6654,44 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "source": "Verge",
+      "timestamp": "2026-10-16T16:49:04-04:00",
+      "score": 12,
+      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to saf...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "FSD"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Verge"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It\u2019s Even Weirder Than It Sounds",
       "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
@@ -13026,70 +13092,6 @@
         "TechCrunch"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Meta has some Wonder Full new AI models",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "source": "Verge",
-      "timestamp": "2026-10-12T13:00:00-04:00",
-      "score": 14,
-      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Wonder",
-        "Full"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
-      "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-      "source": "Verge",
-      "timestamp": "2026-10-12T12:52:54-04:00",
-      "score": 15,
-      "summary": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American hi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Musk",
-        "Republican"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -19669,6 +19671,37 @@
     }
   ],
   "Business": [
+    {
+      "title": "Don\u2019t buy this dip: Several signs suggest there\u2019s more pain ahead for tech stocks",
+      "link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-16T20:58:00+00:00",
+      "score": 14,
+      "summary": "Thinking of buying the dip in technology stocks? The Nasdaq Composite\u2019s technical outlook suggests don\u2019t do it \u2014 at least not yet.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Several"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Wall Street ends down sharply, worries about AI trade and high oil prices weigh",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0xEdzRIMVNLYnAyTkhHSmVNTnRyMDJ3WGdOeFY0Vy1kRUtmWC1FZW42aDNfWTctUHM5X2hlWkhuOHFwblR1Q054a19YV3ZLNTlVVVlmMlRTZ0wxLWE2cmN3SWpjVHU4VDJZWU12Q0hPajE5cDdvQm9ic05PNHNRVG45bEI1ZFVHaEN5QnZjbHMxUDFVbHZ2cFNlMUZydw?oc=5",
@@ -26254,26 +26287,24 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "IRFC Q2 results 2026, dividend: Maharatna PSU declares highest-ever dividend; Profit rises 10% to  \u20b91,958 cr",
-      "link": "https://www.livemint.com/market/stock-market-news/irfc-q2-results-2026-dividend-maharatna-psu-declares-highest-ever-dividend-profit-rises-10-to-rs-1-958-cr-11792066355251.html",
-      "source": "Livemint",
-      "timestamp": "2026-10-15T17:46:11+05:30",
-      "score": 15,
-      "summary": "IRFC reported a 10% year-on-year rise in Q2FY27 net profit to \u20b91,958.48 crore, while quarterly revenue reached \u20b97,866.41 crore. Its board approved a record interim dividend of \u20b91.15 per share, with October 23, 2026, set as the record date.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Infrared light overcomes mirror coating obstacle in gravitational wave detector upgrades",
+      "link": "https://phys.org/news/2026-10-infrared-mirror-coating-obstacle-gravitational.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-16T17:00:05-04:00",
+      "score": 10,
+      "summary": "Researchers have developed and tested a new locking method for gravitational wave detectors that will advance the discovery of distant black holes and neutron stars colliding.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Maharatna",
-        "PSU",
-        "Profit"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26281,15 +26312,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "First comprehensive Mars soil classification offers framework for exploration and future farming",
       "link": "https://phys.org/news/2026-10-comprehensive-mars-soil-classification-framework.html",
@@ -32389,35 +32418,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Main factors in pornography use among adolescents identified",
-      "link": "https://phys.org/news/2026-10-main-factors-pornography-adolescents.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-14T14:00:48-04:00",
-      "score": 12,
-      "summary": "A study by the Universitat Rovira i Virgili (URV) has analyzed which factors are most associated with pornography use during adolescence. The results show that the most predictive variable is gender, followed by problematic internet use, cannabis and alcohol consumption, famil...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32588,7 +32588,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.6,
+      "trend_score": 6.5,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -33838,6 +33838,157 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Sharon Osbourne Says Plastic Surgery \"Mistake\" Left Dent in Her Face",
+      "link": "https://www.eonline.com/news/1437177/sharon-osbournes-plastic-surgery-left-dent-in-her-face?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-10-16T20:55:17+00:00",
+      "score": 12,
+      "summary": "Sharon Osbourne is sharing insight into a botched cosmetic procedure. The Talk alum detailed one of her plastic surgeries gone wrong, revealing that she woke up with a \u201cdent\u201d in her face. When her...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Osbourne",
+        "Says",
+        "Plastic",
+        "Surgery",
+        "Mistake",
+        "Left",
+        "Dent",
+        "Her",
+        "Face"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Child Sexual Abuse Charges Against Timothy Busfield Dismissed",
+      "link": "https://www.nytimes.com/2026/10/16/arts/television/timothy-busfield-indictment-dismissed.html",
+      "source": "NYT",
+      "timestamp": "2026-10-16T20:52:32+00:00",
+      "score": 14,
+      "summary": "Prosecutors in New Mexico had secured an indictment of the actor and director on charges he made sexual contact with a child actor. He had pleaded not guilty.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sexual",
+        "Abuse",
+        "Charges",
+        "Against",
+        "Timothy",
+        "Busfield",
+        "Dismissed"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "London Film Festival\u2019s Surprise Movie Is\u2026 \u2018I Play Rocky\u2019",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/london-film-festival-surprise-movie-i-play-rocky-ippolito-1236733561/",
+      "source": "THR",
+      "timestamp": "2026-10-16T20:47:52+00:00",
+      "score": 12,
+      "summary": "Filmmaker Peter Farrelly surprised attendees by joining LFF director Kristy Matheson on stage at Royal Festival Hall.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Film",
+        "Festivals",
+        "Surprise",
+        "Movie",
+        "Play",
+        "Rocky"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 7,
+      "sources_reporting": [
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+64%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Michael Forest, Actor in Roger Corman Movies and \u2018Star Trek,\u2019 Dies at 97",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/michael-forest-dead-roger-corman-star-trek-dick-van-dyke-1236733987/",
+      "source": "THR",
+      "timestamp": "2026-10-16T20:47:48+00:00",
+      "score": 15,
+      "summary": "He starred in \u2018Beast From Haunted Cave,\u2019 \u2018Ski Troop Attack\u2019 and \u2018Atlas\u2019 for the B-movie maven but also did lots of Shakespeare on the stage and films overseas.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Forest",
+        "Actor",
+        "Roger",
+        "Corman",
+        "Movies",
+        "Star",
+        "Trek",
+        "Dies"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Netflix Enters Box Office Era With \u2018La Bola Negra\u2019; \u2018You Can See Everything\u2019 & \u2018Musk\u2019 Face Off \u2013 Specialty Preview",
       "link": "https://deadline.com/2026/10/indie-films-opening-you-can-see-everything-la-bola-negra-netflix-1237165901/",
@@ -38665,7 +38816,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.3,
+      "trend_score": 11.2,
       "source_count": 12,
       "sources_reporting": [
         "Deadline",
@@ -41768,164 +41919,6 @@
         "E! News"
       ],
       "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Strand Releasing Takes North American For Hana\u00ebl El Yousfi\u2019s TIFF-Selected \u2018The Daughters Of Abraham\u2019",
-      "link": "https://deadline.com/2026/10/strand-releasing-north-american-daughters-abraham-1237158489/",
-      "source": "Deadline",
-      "timestamp": "2026-10-15T18:42:52+00:00",
-      "score": 12,
-      "summary": "Strand Releasing has acquired North American distribution rights to Hana\u00ebl El Yousfi\u2019s The Daughters of Abraham following its international premiere in the Discovery section at the 2026 Toronto International Film Festival. The debut feature of French director Hana\u00ebl El Yousfi,...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Releasing",
-        "Takes",
-        "North",
-        "American",
-        "Hanal",
-        "Yousfis",
-        "TIFFSelected",
-        "Daughters",
-        "Abraham"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018I Love Lucy\u2019 Treasures Acquired by the National Comedy Center",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/i-love-lucy-treasures-national-comedy-center-1236733094/",
-      "source": "THR",
-      "timestamp": "2026-10-15T18:42:35+00:00",
-      "score": 12,
-      "summary": "Behind-the-scenes photographs that \"have been sitting in boxes for many years,\" an early pilot script and 35mm film prints are part of the collection.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Love",
-        "Lucy",
-        "Treasures",
-        "Acquired",
-        "National",
-        "Comedy",
-        "Center"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Bowen Yang and Matt Rogers\u2019 \u2018Las Culturistas\u2019 to Stream On Disney+, Hulu",
-      "link": "https://www.hollywoodreporter.com/business/digital/bowen-yang-matt-rogers-las-culturistas-disney-hulu-1236733002/",
-      "source": "THR",
-      "timestamp": "2026-10-15T18:30:00+00:00",
-      "score": 12,
-      "summary": "The podcast is the latest from iHeart to join the streamer.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Yang",
-        "Matt",
-        "Rogers",
-        "Las",
-        "Culturistas",
-        "Stream",
-        "Disney",
-        "Hulu"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Mike Leigh Gets Standing Ovation at London Homecoming Premiere of \u2018Tender Loving Care,\u2019 Likely His Final Film",
-      "link": "https://variety.com/2026/film/global/mike-leigh-standing-ovation-london-tender-loving-care-1236913265/",
-      "source": "Variety",
-      "timestamp": "2026-10-15T18:27:04+00:00",
-      "score": 12,
-      "summary": "U.K. audiences aren\u2019t usually ones to give standing ovations, but when one of their most cherished filmmakers makes a final bow, unwritten rules are allowed to be broken. This was certainly the case for Mike Leigh, who on Thursday received a hero\u2019s welcome at the London Film F...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Leigh",
-        "Gets",
-        "Standing",
-        "Ovation",
-        "London",
-        "Homecoming",
-        "Premiere",
-        "Tender",
-        "Loving",
-        "Care",
-        "Likely",
-        "His",
-        "Final",
-        "Film"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -46286,6 +46279,71 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.5 - 18 km SE of Silver Springs, Nevada",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00925854",
+      "source": "USGS",
+      "timestamp": "2026-10-16T21:00:11.833000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-16 20:58:16 UTC2026-10-16 20:58:16 UTC at epicenterLocation39.320\u00b0N 119.051\u00b0WDepth10.51 km (6.53 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Silver",
+        "Springs",
+        "Nevada"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.3 - 40 km E of Chase, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026unoadx",
+      "source": "USGS",
+      "timestamp": "2026-10-16T20:52:59.516000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-16 20:50:44 UTC2026-10-16 20:50:44 UTC at epicenterLocation62.479\u00b0N 149.318\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Chase",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.1 - 2 km S of Rowland Heights, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348391",
@@ -52772,69 +52830,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 17 km WSW of Johannesburg, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41347823",
-      "source": "USGS",
-      "timestamp": "2026-10-15T08:33:36.310000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-15 08:30:10 UTC2026-10-15 08:30:10 UTC at epicenterLocation35.307\u00b0N 117.798\u00b0WDepth6.03 km (3.75 mi)",
-      "country": "South Africa",
-      "region": "Africa",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Johannesburg"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 16 km NW of Parkfield, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75449781",
-      "source": "USGS",
-      "timestamp": "2026-10-15T08:04:48.988000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-15 08:03:10 UTC2026-10-15 08:03:10 UTC at epicenterLocation35.998\u00b0N 120.556\u00b0WDepth7.65 km (4.75 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Parkfield"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
