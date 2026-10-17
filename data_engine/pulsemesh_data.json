@@ -1,6 +1,41 @@
 {
   "Politics": [
     {
+      "title": "Live updates: Trump rallies in Kentucky as Russia sanctions waiver backlash mounts",
+      "link": "https://thehill.com/homenews/administration/6155519-live-updates-trump-and-zelensky-relationship-rocky-over-russia-sanctions-starlink-obama-campaigns-in-michigan-ohio/",
+      "source": "The Hill",
+      "timestamp": "2026-10-17T19:35:04+00:00",
+      "score": 14,
+      "summary": "President Trump plans to travel back and forth Saturday between Mar-a-Lago and Highland Heights, Kentucky, where he is set to deliver remarks at 2 p.m. The visit comes ahead of a seven-day, seven-stop campaign tour for Trump. The president announced Friday he would campaign in...",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Trump",
+        "Kentucky",
+        "Russia"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Protests, match and festivals bring Bengaluru traffic  to a standstill",
       "link": "https://www.thehindu.com/news/cities/bangalore/protests-match-and-festivals-bring-bengaluru-traffic-to-a-standstill/article71597725.ece",
       "source": "The Hindu",
@@ -6563,25 +6598,25 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Kerala HC asks Centre if better health care in State is a \u201chandicap\u201d for establishing AIIMS",
-      "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-asks-centre-if-better-health-care-in-state-is-a-handicap-for-establishing-aiims/article71556515.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-17T05:17:51+05:30",
-      "score": 14,
-      "summary": "Court opines that Keralam should be considered on a priority basis considering the density of population, and asked the Union government to take a conscious decision concerning the proposal for the institute",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "TikTok bans Musk documentary account",
+      "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+      "source": "Verge",
+      "timestamp": "2026-10-17T15:32:23-04:00",
+      "score": 12,
+      "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street, wa...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Centre",
-        "State",
-        "AIIMS"
+        "Musk"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6590,15 +6625,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Mercedes-AMG\u2019s first ground-up SUV is a 1,150hp electric beast",
       "link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
@@ -12980,25 +13013,29 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Apple announces the HomePod Mini 2, but it isn\u2019t ready for Siri AI at launch",
-      "link": "https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai",
-      "source": "Verge",
-      "timestamp": "2026-10-13T09:00:00-04:00",
-      "score": 17,
-      "summary": "Apple is announcing the long-awaited HomePod Mini 2 with a new chip that can power Siri AI - but support for those new AI features won't be available at launch. The speaker is also getting a new sound glow feature that syncs its LED lights with a song's album art, and it can n...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Kenya Confirms Four New Ebola Cases",
+      "link": "https://www.nytimes.com/2026/10/17/world/africa/kenya-ebola.html",
+      "source": "NYT",
+      "timestamp": "2026-10-17T19:41:02+00:00",
+      "score": 12,
+      "summary": "Seven Ebola infections have now been confirmed in Kenya, which before this month had never recorded cases of the deadly virus.",
+      "country": "Kenya",
+      "region": "Africa",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "HomePod",
-        "Mini",
-        "Siri"
+        "Confirms",
+        "Four",
+        "New",
+        "Ebola",
+        "Cases"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13007,15 +13044,57 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "NYT"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+56%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
+      "link": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
+      "source": "NYT",
+      "timestamp": "2026-10-17T19:37:17+00:00",
+      "score": 12,
+      "summary": "Extremists assaulted residents and broke a European diplomatic vehicle\u2019s window, witnesses said, as settler violence surges in the territory during the olive harvest.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Settlers",
+        "Attack",
+        "Palestinians",
+        "European",
+        "Officials",
+        "West",
+        "Bank"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": true,
+      "trend_score": 11.4,
+      "source_count": 18,
+      "sources_reporting": [
+        "AP",
+        "Al Jazeera",
+        "Guardian",
+        "Guardian",
+        "NYT",
+        "PBS"
+      ],
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
+    },
     {
       "title": "Desperate civilians risk their lives along mined roads to escape from a Russian-held city",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUzRPOHN5Q0hpYldodW1lc21sazBqVnhNdHVtdlZrbHJrdWhLWUtFbkJxc0pLeHMtTmFHV2R4QVdnVW1QMXZQTHpkYkM2cG9hMUd2bWFzSS10b1pCcXNVVXZTLUdFYnRZaTE4bUk3SkstSmtwRWVieUJJMnBzSlRoU2l4T1pmR2JYSThzU0Zzb2pYX1AyWUFkTkJSWGh3dU55OXNv?oc=5",
@@ -14325,8 +14404,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -19530,76 +19609,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-16T18:11:29+00:00",
-      "score": 12,
-      "summary": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Australia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Katie Zacharia fired just days after starting role as Trump\u2019s press secretary",
-      "link": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-      "source": "Guardian",
-      "timestamp": "2026-10-16T18:10:03+00:00",
-      "score": 12,
-      "summary": "The ouster comes after President Donald Trump told reporters he asked Zacharia to \u201creconsider\u201d the job, following days of intense media scrutinySign up for the Breaking News US emailIn Maine, Troy Jackson, the Democratic nominee for US Senate, and Susan Collins, the five-term ...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Zacharia",
-        "Trumps"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 18,
-      "sources_reporting": [
-        "ABC Australia",
-        "FT",
-        "France24",
-        "Guardian",
-        "NPR",
-        "PBS",
-        "Reuters",
-        "Times of India"
-      ],
-      "trend_accel": "+88%",
-      "heat_level": "CRITICAL"
     }
   ],
   "Business": [
@@ -26509,7 +26518,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.7,
+      "trend_score": 6.6,
       "source_count": 9,
       "sources_reporting": [
         "BBC",
@@ -26517,7 +26526,7 @@
         "NHK",
         "Phys.org"
       ],
-      "trend_accel": "+60%",
+      "trend_accel": "+59%",
       "heat_level": "HOT"
     },
     {
@@ -42549,7 +42558,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.0,
+      "trend_score": 7.9,
       "source_count": 13,
       "sources_reporting": [
         "Bloomberg",
@@ -42558,7 +42567,7 @@
         "Reuters",
         "Vogue"
       ],
-      "trend_accel": "+72%",
+      "trend_accel": "+71%",
       "heat_level": "SURGING"
     },
     {
@@ -46517,6 +46526,107 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.5 - 1 km E of Summit Park, Utah",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80160531",
+      "source": "USGS",
+      "timestamp": "2026-10-17T19:44:57.621000+00:00",
+      "score": 17,
+      "summary": "DYFI? - IIITime2026-10-17 19:30:56 UTC2026-10-17 19:30:56 UTC at epicenterLocation40.744\u00b0N 111.598\u00b0WDepth6.67 km (4.14 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Summit",
+        "Park",
+        "Utah"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 11 km ENE of Fox, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uphtgp",
+      "source": "USGS",
+      "timestamp": "2026-10-17T19:44:10.060000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-17 19:42:10 UTC2026-10-17 19:42:10 UTC at epicenterLocation64.983\u00b0N 147.383\u00b0WDepth0.70 km (0.43 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Fox",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.3 - 7 km WSW of Volcano, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059776",
+      "source": "USGS",
+      "timestamp": "2026-10-17T19:37:27.470000+00:00",
+      "score": 17,
+      "summary": "Time2026-10-17 19:24:08 UTC2026-10-17 19:24:08 UTC at epicenterLocation19.409\u00b0N 155.291\u00b0WDepth0.89 km (0.55 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Volcano",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
       "heat_level": "LOW"
     },
     {
@@ -52909,105 +53019,6 @@
       "topic_tags": [],
       "entities": [
         "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 21 km SSW of Leilani Estates, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75057797",
-      "source": "USGS",
-      "timestamp": "2026-10-16T11:32:09.150000+00:00",
-      "score": 17,
-      "summary": "Time2026-10-16 11:28:41 UTC2026-10-16 11:28:41 UTC at epicenterLocation19.293\u00b0N 155.012\u00b0WDepth34.81 km (21.63 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Leilani",
-        "Estates",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.8 - 24 km N of Sutton-Alpine, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026umulqe",
-      "source": "USGS",
-      "timestamp": "2026-10-16T11:20:50.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-16 11:04:25 UTC2026-10-16 11:04:25 UTC at epicenterLocation62.000\u00b0N 148.828\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SuttonAlpine",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 13 km WNW of Bonny Doon, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75450421",
-      "source": "USGS",
-      "timestamp": "2026-10-16T11:18:57.988000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-16 11:17:20 UTC2026-10-16 11:17:20 UTC at epicenterLocation37.079\u00b0N 122.292\u00b0WDepth6.09 km (3.78 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Bonny",
-        "Doon"
       ],
       "severity_score": 3,
       "alert_level": "low",
