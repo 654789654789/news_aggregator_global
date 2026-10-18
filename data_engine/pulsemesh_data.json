@@ -897,7 +897,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.0,
+      "trend_score": 7.9,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -905,7 +905,7 @@
         "PBS",
         "The Hindu"
       ],
-      "trend_accel": "+73%",
+      "trend_accel": "+72%",
       "heat_level": "SURGING"
     },
     {
@@ -6609,6 +6609,35 @@
     }
   ],
   "Tech": [
+    {
+      "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-18T20:37:40+00:00",
+      "score": 13,
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Everyone\u2019s watching the Elizabeth Holmes documentary \u2018You Can See Everything\u2019",
       "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
@@ -12995,25 +13024,27 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
-      "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-13T15:02:00+00:00",
-      "score": 15,
-      "summary": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
-      "country": "US",
+      "title": "Planet Earth and Brazil\u2019s Election",
+      "link": "https://www.nytimes.com/2026/10/18/world/amazon-brazil-election-climate-france-alberta.html",
+      "source": "NYT",
+      "timestamp": "2026-10-18T20:41:18+00:00",
+      "score": 14,
+      "summary": "The Amazon rainforest has been a crucial battleground in the country\u2019s presidential runoff.",
+      "country": "Brazil",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Startup",
-        "Battlefield",
-        "Top"
+        "Earth",
+        "Brazils",
+        "Election"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13022,15 +13053,73 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "NYT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Macron calls for 'calm and order' after riots across France",
+      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-18T20:33:21+00:00",
+      "score": 12,
+      "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "France"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "BBC"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Man charged with attacking woman with iron bar has case shelved indefinitely",
+      "link": "https://www.abc.net.au/news/2026-10-19/legal-aid-nt-duty-lawyers-service-cuts-funding-limbo/107260510",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-18T20:31:19+00:00",
+      "score": 10,
+      "summary": "Northern Territory lawyers say victims of crime have been forced into the \"horrifying\" position of seeing perpetrators \u2014 including those facing child sex charges \u2014 have their cases postponed indefinitely amid an ongoing legal aid funding stoush.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "'Anxious' Smith's concussion admission after latest head knock",
       "link": "https://www.abc.net.au/news/2026-10-19/cricket-smith-concussion-admission-anxiety-after-head-knock/107281648",
@@ -19591,109 +19680,6 @@
       ],
       "trend_accel": "+86%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
-      "link": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
-      "source": "NYT",
-      "timestamp": "2026-10-17T15:50:19+00:00",
-      "score": 14,
-      "summary": "Abhijeet Dipke, the founder of the Cockroach Janta Party, was detained on his way to a protest called to demand the resignation of India\u2019s top election official.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gen",
-        "Protest",
-        "Leader",
-        "Released",
-        "Bail",
-        "After",
-        "Arrest"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Australia will do \u2018anything we can\u2019 to stop U.S. execution being shown online: PM Albanese",
-      "link": "https://www.thehindu.com/news/international/australia-will-do-anything-we-can-to-stop-us-execution-being-shown-online-pm-albanese/article71578210.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-17T21:17:37+05:30",
-      "score": 12,
-      "summary": "\u201cI do not know why anybody would want themselves to watch such an event, let alone sit back and allow potentially kids and families to get access to this,\u201d Australia PM Albanese said",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Albanese"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump\u2019s pause on Russia sanctions is \u2018reward\u2019 for Putin, Zelenskyy says",
-      "link": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
-      "source": "Guardian",
-      "timestamp": "2026-10-17T15:38:17+00:00",
-      "score": 12,
-      "summary": "Ukrainian president warns it will embolden Russian leader and intensify war as Moscow hits country\u2019s power plantsPower plant attacks reflect Russian blueprint to make Ukrainian cities unlivableVolodymyr Zelenskyy has described Donald Trump\u2019s decision to roll back sanctions on ...",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Russia",
-        "Putin",
-        "Zelenskyy"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -34060,44 +34046,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Week 5 NFL scores, live updates: Fernando Mendoza makes regular-season debut, relieving Kirk Cousins in blowout vs. Patriots - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObXJZZjd3U25fbjhfNncyU2RTUzhsMkp6UHRoV01QRTZSanVPYUEtMkNMX3JIczkwdkF3M0NKTGJ5dkhvYjdiWTRubVFyY3ByNnNpR1BLeVlpT2RnV0d4eVB4SHBzMzlDcmhTcm1hcGJfeGtWX1AteEZJZHktMWZ3XzItZU5BTW1PdUhjbnVIeThqTllfZ3FiRlI0SWZtczRQQkJPZDVKX2VXeFdJVDlWMUhnLUo3bXlNZTRWZEFmcGdjaDQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-10-11T20:36:00+00:00",
-      "score": 15,
-      "summary": "Week 5 NFL scores, live updates: Fernando Mendoza makes regular-season debut, relieving Kirk Cousins in blowout vs. Patriots Yahoo SportsRaiders' Fernando Mendoza makes NFL debut: A look at how No. 1 over pick performed CBS SportsWatch Fernando Mendoza Make NFL Debut for Raide...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NFL",
-        "Fernando",
-        "Mendoza",
-        "Kirk",
-        "Cousins",
-        "Patriots",
-        "Yahoo",
-        "Sports"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Entertainment": [
@@ -46620,6 +46568,72 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 2.5 - 17 km SSW of Jal, New Mexico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u37m",
+      "source": "USGS",
+      "timestamp": "2026-10-18T20:39:12.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-18 20:02:48 UTC2026-10-18 20:02:48 UTC at epicenterLocation31.976\u00b0N 103.286\u00b0WDepth4.45 km (2.77 mi)",
+      "country": "Mexico",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Jal",
+        "New",
+        "Mexico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.7 - 2 km NNW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451736",
+      "source": "USGS",
+      "timestamp": "2026-10-18T20:34:10.849000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-18 20:32:32 UTC2026-10-18 20:32:32 UTC at epicenterLocation38.798\u00b0N 122.763\u00b0WDepth3.43 km (2.13 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 0.7 - 80 km NW of Ninilchik, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026urfezh",
       "source": "USGS",
@@ -53045,73 +53059,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.0 - 55 km SSE of Kokhanok, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upboqb",
-      "source": "USGS",
-      "timestamp": "2026-10-17T16:40:49.493000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-17 16:36:25 UTC2026-10-17 16:36:25 UTC at epicenterLocation58.997\u00b0N 154.329\u00b0WDepth119.40 km (74.19 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Kokhanok",
-        "Alaska"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 3 km ENE of Big Lake, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026upawhg",
-      "source": "USGS",
-      "timestamp": "2026-10-17T16:17:02.583000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-17 16:15:45 UTC2026-10-17 16:15:45 UTC at epicenterLocation61.532\u00b0N 149.896\u00b0WDepth35.60 km (22.12 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Big",
-        "Lake",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
