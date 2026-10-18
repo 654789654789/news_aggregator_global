@@ -6750,7 +6750,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.1,
+      "trend_score": 9.0,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -13016,6 +13016,38 @@
     }
   ],
   "World": [
+    {
+      "title": "Market recap: Top-10 firms add Rs 3.65 lakh crore in mcap; TCS leads the gains",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/market-recap-top-10-firms-add-rs-3-65-lakh-crore-in-mcap-tcs-leads-the-gains/articleshow/135025500.cms",
+      "source": "Times of India",
+      "timestamp": "2026-10-18T12:55:29+05:30",
+      "score": 17,
+      "summary": "This past week witnessed a remarkable surge in the stock market, with India's top-10 firms enjoying a collective increase of Rs 3.65 lakh crore. TCS emerged as the star performer, enhancing its market capitalisation by Rs 1,08,542.63 crore. Both Bharti Airtel and Infosys also ...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Top",
+        "TCS"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Live: Australia, South Africa set for second Test in drizzly Gqeberha",
       "link": "https://www.abc.net.au/news/2026-10-18/live-updates-south-africa-vs-australia-second-test-day-one/107277420",
@@ -19611,24 +19643,29 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Sean \u2019Diddy\u2019 Combs moved to a new prison after reports of a luxury lifestyle behind bars",
-      "link": "https://www.thehindu.com/news/international/sean-diddy-combs-moved-to-a-new-prison-after-reports-of-a-luxury-lifestyle-behind-bars/article71595226.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-17T07:03:26+05:30",
-      "score": 12,
-      "summary": "Combs is serving a four-year, two-month sentence for his conviction last year on prostitution-related charges for transporting people across state lines for sexual encounters",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Trump's Russia diesel deal may offer Putin more than money \u2014 and spell trouble for Ukraine",
+      "link": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-18T07:22:07+00:00",
+      "score": 14,
+      "summary": "Trump's diesel deal may do little for Russia's finances, but it raises bigger questions about Ukraine's leverage, U.S. support and Putin's next moves.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Diddy",
-        "Combs"
+        "Russia",
+        "Putin",
+        "Ukraine"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19637,16 +19674,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 9,
+      "source_count": 4,
       "sources_reporting": [
-        "Guardian",
-        "The Hindu"
+        "CNBC"
       ],
-      "trend_accel": "+65%",
-      "heat_level": "SURGING"
-    }
-  ],
-  "Business": [
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Heating oil customers face tough winter",
       "link": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
@@ -26279,35 +26313,6 @@
         "CNBC"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'I paid thousands to a company for jobs that never came'",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-15T17:19:49+00:00",
-      "score": 12,
-      "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -34119,6 +34124,87 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "South Africa\u2019s Oscar Entry \u2018Variations on a Theme\u2019 Was Written With Microsoft Excel",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-south-africa-film-variations-on-a-theme-excel-1236734314/",
+      "source": "THR",
+      "timestamp": "2026-10-18T07:30:00+00:00",
+      "score": 12,
+      "summary": "Plus, an Estonian composer also has something to do with the film\u2019s musical vibes, co-writer and co-director Devon Delmar shared with THR at the BFI London Film Festival.",
+      "country": "South Africa",
+      "region": "Africa",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Africas",
+        "Oscar",
+        "Entry",
+        "Variations",
+        "Theme",
+        "Was",
+        "Written",
+        "Microsoft",
+        "Excel"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Ryan Gosling\u2019s Zero-G Stunts on \u2018Project Hail Mary\u2019 Broken Down by the Space Epic\u2019s VFX Supervisors",
+      "link": "https://variety.com/2026/film/global/ryan-gosling-zero-g-stunts-in-project-hail-mary-explained-1236915066/",
+      "source": "Variety",
+      "timestamp": "2026-10-18T07:28:23+00:00",
+      "score": 14,
+      "summary": "For Oscar-winning VFX supervisor Paul Lambert Lambert, of all the huge challenges presented by Ryan Gosling space epic \u201cProject Hail Mary,\u201d the most daunting was creating convincing zero gravity. \u201cZero-G was probably my personal biggest concern going into the movie,\u201d he said a...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Goslings",
+        "ZeroG",
+        "Stunts",
+        "Project",
+        "Hail",
+        "Mary",
+        "Broken",
+        "Down",
+        "Space",
+        "Epics",
+        "VFX",
+        "Supervisors"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "The Man Who Taught Us How to Pay Attention",
       "link": "https://www.nytimes.com/2026/10/18/magazine/john-berger-attention.html",
@@ -42164,85 +42250,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "El Gouna\u2019s Amr Mansi on CineGouna Expansion, New Partnerships and Making \u2018the Industry Our Hero\u2019",
-      "link": "https://variety.com/2026/film/global/el-gouna-film-festival-amr-mansi-cinegouna-1236913957/",
-      "source": "Variety",
-      "timestamp": "2026-10-16T13:53:37+00:00",
-      "score": 12,
-      "summary": "Egypt\u2019s El Gouna Film Festival heads into its ninth edition with a mix of major international titles, including Cannes prize winners \u201cAll of a Sudden\u201d and \u201cBen\u2019imana,\u201d major star power, and the Red Sea glitz woven into its DNA. Co-founder and executive director Amr Mansi wants...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gounas",
-        "Amr",
-        "Mansi",
-        "CineGouna",
-        "Expansion",
-        "New",
-        "Partnerships",
-        "Making",
-        "Industry",
-        "Our",
-        "Hero"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Jennifer Meyer Explains Having Ex Tobey Maguire Officiate Her Wedding",
-      "link": "https://www.eonline.com/news/1437152/why-tobey-maguire-officiated-ex-jennifer-meyer-geoffrey-ogunlesis-wedding?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-10-16T13:49:31+00:00",
-      "score": 14,
-      "summary": "He\u2019s just your friendly neighborhood wedding officiant\u2014even for his ex. Jennifer Meyer detailed her decision to have her ex-husband Tobey Maguire\u2014with whom she shares kids Ruby, 19, and Otis,...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Meyer",
-        "Explains",
-        "Having",
-        "Tobey",
-        "Maguire",
-        "Officiate",
-        "Her",
-        "Wedding"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -46559,6 +46566,102 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.1 - 16 km WSW of Johannesburg, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348839",
+      "source": "USGS",
+      "timestamp": "2026-10-18T07:29:37.245000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-18 07:26:06 UTC2026-10-18 07:26:06 UTC at epicenterLocation35.310\u00b0N 117.792\u00b0WDepth5.41 km (3.36 mi)",
+      "country": "South Africa",
+      "region": "Africa",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Johannesburg"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.8 - 6 km NE of Kenai, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uqfgnp",
+      "source": "USGS",
+      "timestamp": "2026-10-18T07:28:32.035000+00:00",
+      "score": 17,
+      "summary": "Time2026-10-18 07:27:06 UTC2026-10-18 07:27:06 UTC at epicenterLocation60.595\u00b0N 151.176\u00b0WDepth64.70 km (40.20 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kenai",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.9 - 8 km E of Ocotillo Wells, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41348831",
+      "source": "USGS",
+      "timestamp": "2026-10-18T07:21:19.242000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-18 07:17:48 UTC2026-10-18 07:17:48 UTC at epicenterLocation33.136\u00b0N 116.042\u00b0WDepth3.61 km (2.24 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ocotillo",
+        "Wells"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
       "heat_level": "LOW"
     },
     {
@@ -52922,107 +53025,6 @@
       ],
       "severity_score": 3,
       "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.7 - 21 km NNW of Whites City, New Mexico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2x1",
-      "source": "USGS",
-      "timestamp": "2026-10-17T00:46:37.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-17 00:23:41 UTC2026-10-17 00:23:41 UTC at epicenterLocation32.354\u00b0N 104.462\u00b0WDepth4.21 km (2.62 mi)",
-      "country": "Mexico",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Whites",
-        "City",
-        "New",
-        "Mexico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.3 - 5 km SSW of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75059406",
-      "source": "USGS",
-      "timestamp": "2026-10-17T00:44:12.430000+00:00",
-      "score": 17,
-      "summary": "Time2026-10-17 00:40:40 UTC2026-10-17 00:40:40 UTC at epicenterLocation19.160\u00b0N 155.501\u00b0WDepth32.17 km (19.99 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.6 - 6 km NNE of S\u00e1mi, Greece",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2ww",
-      "source": "USGS",
-      "timestamp": "2026-10-17T00:32:21.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-16 23:57:50 UTC2026-10-16 23:57:50 UTC at epicenterLocation38.305\u00b0N 20.686\u00b0EDepth10.00 km (6.21 mi)",
-      "country": "Greece",
-      "region": "Europe",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Smi",
-        "Greece"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
       "mode": "strategic",
       "language": "en",
       "breaking": false,
