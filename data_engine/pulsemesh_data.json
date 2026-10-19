@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "Delhi High Court permits 16-year-old rape survivor to terminate 31-week pregnancy",
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-permits-16-year-old-rape-survivor-to-terminate-31-week-pregnancy/article71602594.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-10-19T17:19:56+05:30",
+      "score": 15,
+      "summary": "Under the Medical Termination of Pregnancy Act, the procedure can be done till 20 weeks of gestation period in ordinary cases and 24 weeks in certain categories such as rape survivors",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "High",
+        "Court"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Australian lawmaker critically injured by car is 'no accident,' prime minister says",
       "link": "https://www.pbs.org/newshour/world/australian-lawmaker-critically-injured-by-car-is-no-accident-prime-minister-says",
       "source": "PBS",
@@ -1797,7 +1829,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.3,
+      "trend_score": 8.2,
       "source_count": 18,
       "sources_reporting": [
         "AP",
@@ -6562,26 +6594,24 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Stations of Metro Rail\u2019s Phase 2 network to get new names, better look",
-      "link": "https://www.thehindu.com/news/cities/chennai/stations-of-metro-rails-phase-2-network-to-get-new-names-better-look/article71592495.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-18T14:02:59+05:30",
-      "score": 17,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "source": "Verge",
+      "timestamp": "2026-10-19T08:00:00-04:00",
+      "score": 14,
+      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Metro",
-        "Rails",
-        "Phase"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6589,15 +6619,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "The Maeving RM2 is high-style electric riding with a few compromises",
       "link": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
@@ -12989,24 +13017,27 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "I tried out Apple\u2019s HomeView smart display",
-      "link": "https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on",
-      "source": "Verge",
-      "timestamp": "2026-10-13T12:55:02-04:00",
-      "score": 12,
-      "summary": "Apple has just announced the HomeView, its first smart home display - and I just got hands-on with the device, which features a gorgeous 7-inch square touchscreen and built-in Siri AI. It's designed as a smart home controller, personal assistant, and home hub for your househol...",
+      "title": "Third Ebola case in Kenya highlights US failures amid Trump cuts to key services",
+      "link": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
+      "source": "Guardian",
+      "timestamp": "2026-10-19T12:00:01+00:00",
+      "score": 14,
+      "summary": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHOA third person in Kenya has tested positive for Bundibugyo ebolavirus in the country\u2019s first-ever cluster of Ebola cases, as the second-largest outbreak in history kills more t...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Apples",
-        "HomeView"
+        "Ebola",
+        "Kenya",
+        "Trump"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13015,15 +13046,108 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "Guardian"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump brands federal judge a \u2018crazed lunatic\u2019 amid clashes over his golf course project \u2013 US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+      "source": "Guardian",
+      "timestamp": "2026-10-19T11:54:41+00:00",
+      "score": 12,
+      "summary": "East Potomac course in Washington DC among a number of projects Trump is pursuing to reshape landmarks Trump plans DC golf course renovation in defiance of judge\u2019s orderSign up for US Breaking News emailUS disaster survivors still await at least $10bn in federal aid: \u2018It\u2019s dev...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "France Officials Acknowledge \u2018Failure\u2019 Around Riots",
+      "link": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-riots.html",
+      "source": "NYT",
+      "timestamp": "2026-10-19T11:51:52+00:00",
+      "score": 14,
+      "summary": "The interior minister, Laurent Nu\u00f1ez, acknowledged that the police had been underprepared and said he had offered to resign.",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Officials",
+        "Acknowledge",
+        "Failure",
+        "Around",
+        "Riots"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Qatar to unveil regional defence partnership",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-10-19T11:51:01+00:00",
+      "score": 10,
+      "summary": "Qatar to unveil regional defence partnership",
+      "country": "Qatar",
+      "region": "Middle East",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Germany condemns France protest violence",
       "link": "https://www.thehindu.com/news/international/germany-condemns-france-protest-violence/article71602630.ece",
@@ -19471,97 +19595,23 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Iran's Parliament approves Mehrdad Akhlaqi as Minister of Defence",
-      "link": "https://www.thehindu.com/news/international/irans-parliament-approves-mehrdad-akhlaqi-as-minister-of-defence/article71600323.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-18T20:04:13+05:30",
+      "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+      "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-19T11:53:00+00:00",
       "score": 12,
-      "summary": "Mehrdad Akhlaqi Ketabchi replaces Majid Ebn al-Reza, who took over in an interim capacity after then Defence \u200cMinister Aziz Nasirzadeh was killed by U.S.-Israeli strikes in February",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
+      "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn\u2019t quite right, one strategist notes.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Parliament",
-        "Mehrdad",
-        "Akhlaqi",
-        "Minister",
-        "Defence"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Zelensky Says Trump Risks \u2018Historic Mistake\u2019 If He Backs Russia",
-      "link": "https://www.nytimes.com/2026/10/18/world/europe/ukraine-starshield-russia-war.html",
-      "source": "NYT",
-      "timestamp": "2026-10-18T14:30:49+00:00",
-      "score": 12,
-      "summary": "President Volodymyr Zelensky of Ukraine pressed Sunday for more information on possible restrictions to Starshield, a U.S.-provided satellite internet service used by the Ukrainian military.",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Says",
-        "Trump",
-        "Risks",
-        "Historic",
-        "Mistake",
-        "Backs",
-        "Russia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "French police arrest 1,800 after violent clashes and looting mar protests",
-      "link": "https://www.abc.net.au/news/2026-10-19/france-reels-from-protests-violence-as-1800-arrested/107281138",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-18T14:26:30+00:00",
-      "score": 13,
-      "summary": "France is reeling from widespread damage caused by violent protests that saw 1,800 people arrested",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
       "entities": [],
       "severity_score": 0,
       "alert_level": "low",
@@ -19570,54 +19620,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 12,
+      "source_count": 3,
       "sources_reporting": [
-        "ABC Australia",
-        "BBC",
-        "Bloomberg",
-        "Guardian",
-        "NPR",
-        "The Hindu"
+        "MarketWatch"
       ],
-      "trend_accel": "+90%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "60-day pause on Russia sanctions to analyse global impact: Rubio",
-      "link": "https://www.thehindu.com/news/international/secretary-of-state-marco-rubio-comments-before-departing-to-uzbekistan-and-india/article71599016.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-18T19:54:15+05:30",
-      "score": 15,
-      "summary": "U.S. Secretary of State Marco Rubio has said the waiver from sanctions on Russia and tariffs on other countries, including India, was a 60-day pause to analyse the global impact of the measure.",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Russia",
-        "Rubio"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+51%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "\u2018A Ticking Time Bomb\u2019: An Economic Crisis Looms in Indonesia",
       "link": "https://www.nytimes.com/2026/10/19/business/indonesia-economy-stocks.html",
@@ -26281,29 +26290,27 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Stock to buy after SEBI CAS new rule: Experts bullish on Groww brand parent Billionbrains Garage Ventures shares; target",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-to-buy-after-sebi-cas-new-rule-experts-bullish-on-groww-brand-parent-billionbrains-garage-ventures-shares-target-11792143458424.html",
-      "source": "Livemint",
-      "timestamp": "2026-10-16T16:12:55+05:30",
-      "score": 14,
-      "summary": "SEBI's CAS new rule: Regulator's move to restore final 30-minute continuous-session VWAP for derivatives settlement may benefit brokerages with higher trading activities, say experts",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Genomic study uncovers a new lace bug species on Japan's remote Ogasawara Islands",
+      "link": "https://phys.org/news/2026-10-genomic-uncovers-lace-bug-species.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-19T08:00:01-04:00",
+      "score": 12,
+      "summary": "Researchers have used genome-wide DNA data to identify a new insect species on the Ogasawara Islands, a remote Japanese archipelago roughly 900 to 1,000 kilometers (560 to 620 miles) south of Tokyo. The findings suggest that evolution among island insects is more intricate tha...",
+      "country": "Japan",
+      "region": "East Asia",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "SEBI",
-        "CAS",
-        "Experts",
-        "Groww",
-        "Billionbrains",
-        "Garage",
-        "Ventures"
+        "Japans",
+        "Ogasawara",
+        "Islands"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26312,15 +26319,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Japanese philosophy offers a new perspective on education",
       "link": "https://phys.org/news/2026-10-japanese-philosophy-perspective.html",
@@ -32474,35 +32479,6 @@
         "Phys.org"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Cortisol is a reproduction friend, not enemy",
-      "link": "https://phys.org/news/2026-10-cortisol-reproduction-friend-enemy.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-15T09:20:04-04:00",
-      "score": 10,
-      "summary": "A major international study of the role cortisol plays in reproduction has found it may not be the villain it has been depicted as, and it may actually promote healthy reproduction.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -42364,7 +42340,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.7,
+      "trend_score": 7.6,
       "source_count": 10,
       "sources_reporting": [
         "Bloomberg",
@@ -46612,82 +46588,43 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Gurdeep Loyal\u2019s quick and easy recipe for Turkish lamb and hot pepper paccheri | Quick and easy",
-      "link": "https://www.theguardian.com/food/2026/oct/12/gurdeep-loyal-quick-easy-recipe-turkish-lamb-hot-pepper-paccheri",
-      "source": "Guardian",
-      "timestamp": "2026-10-12T12:00:54+00:00",
-      "score": 12,
-      "summary": "A spicy Turkish dish with big flavours and big pasta, all topped with garlicky yoghurt sauceBiber sal\u00e7as\u0131 is a Turkish paste made from concentrated cooked red peppers and salt. It comes in two varieties: ac\u0131 (spicy) and tatl\u0131 (sweet). The hotter version adds a deep, umami heat...",
-      "country": "Turkey",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Loyals",
-        "Turkish",
-        "Quick"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Exclusive First Look: When Marc Quinn Made Kate Moss Into a Monument",
-      "link": "https://www.vogue.com/article/kate-by-marc-quinn-book-preview",
-      "source": "Vogue",
-      "timestamp": "2026-10-12T12:00:00+00:00",
-      "score": 12,
-      "summary": "\u201c\u2018Siren\u2019 is what collective belief looks like when it hardens into gold,\u201d Raven Smith writes in the introduction to \u201cKate by Marc\u201d from Idea Books.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "First",
-        "Look",
-        "When",
-        "Marc",
-        "Quinn",
-        "Made",
-        "Kate",
-        "Moss",
-        "Into",
-        "Monument"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.0 - 1 km ESE of Buffalo Soapstone, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uskbwo",
+      "source": "USGS",
+      "timestamp": "2026-10-19T11:52:09.271000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-19 11:51:00 UTC2026-10-19 11:51:00 UTC at epicenterLocation61.712\u00b0N 149.066\u00b0WDepth31.00 km (19.26 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Buffalo",
+        "Soapstone",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.9 - 72 km N of Chickaloon, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026usjqwc",
@@ -53174,39 +53111,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.2 - 55 km NNW of Ruteng, Indonesia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34e",
-      "source": "USGS",
-      "timestamp": "2026-10-18T08:14:46.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-18 08:00:06 UTC2026-10-18 08:00:06 UTC at epicenterLocation8.145\u00b0S 120.273\u00b0EDepth10.00 km (6.21 mi)",
-      "country": "Indonesia",
-      "region": "Southeast Asia",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Ruteng",
-        "Indonesia"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
