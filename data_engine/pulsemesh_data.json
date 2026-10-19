@@ -1,6 +1,40 @@
 {
   "Politics": [
     {
+      "title": "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again",
+      "link": "https://www.pbs.org/newshour/world/zelenskyy-says-ukraine-got-no-early-warning-from-partners-as-russia-hits-the-power-grid-again",
+      "source": "PBS",
+      "timestamp": "2026-10-19T08:25:53-04:00",
+      "score": 14,
+      "summary": "Ukrainian President Volodymyr Zelenskyy is grappling with the implications of recent Washington moves benefiting Russian President Vladimir Putin, including waiving U.S. sanctions on Moscow and signing a deal to import Russian diesel.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Ukraine",
+        "Russia"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Tributes paid to Rajiv Gandhi recalling his communal peace rally at Charminar",
       "link": "https://www.thehindu.com/news/national/telangana/tributes-paid-to-rajiv-gandhi-recalling-his-communal-peace-rally-at-charminar/article71602678.ece",
       "source": "The Hindu",
@@ -6563,24 +6597,24 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Kolkata pandal stampede: Adhikari orders independent probe, promises compensation for victims\u2019 families",
-      "link": "https://www.thehindu.com/news/national/west-bengal/kolkata-pandal-stampede-adhikari-orders-independent-probe-promises-compensation-for-victims-families/article71599475.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-18T14:19:09+05:30",
-      "score": 12,
-      "summary": "The Chief Minister announced that new crowd management guidelines will be drawn after the stampede\u2019s \u201clesson\u201d.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Vibe coding is turning the music gear world upside down",
+      "link": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+      "source": "Verge",
+      "timestamp": "2026-10-19T08:30:00-04:00",
+      "score": 10,
+      "summary": "If you spend any time on r/synthesizers or watch a lot of synth videos on YouTube, you've probably noticed the explosion of custom firmware for hardware synthesizers, samplers, and grooveboxes. What unites almost all of them is that they were made possible by increasingly soph...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Adhikari"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6588,18 +6622,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 16,
+      "source_count": 2,
       "sources_reporting": [
-        "Bloomberg",
-        "NPR",
-        "Reuters",
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+72%",
-      "heat_level": "SURGING"
-    }
-  ],
-  "Tech": [
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Democrats think cracking down on AI could give them an edge",
       "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
@@ -12989,23 +13018,32 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers; see it at Disrupt",
-      "link": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-13T17:00:00+00:00",
-      "score": 12,
-      "summary": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Trump Is Pushing Ukraine to Surrender to Russia, Zelensky Says",
+      "link": "https://www.nytimes.com/2026/10/19/world/europe/trump-zelensky-putin-ukraine-war.html",
+      "source": "NYT",
+      "timestamp": "2026-10-19T12:25:33+00:00",
+      "score": 14,
+      "summary": "President Volodymyr Zelensky said he didn\u2019t want to believe that Washington wanted an end to the war at Ukraine\u2019s expense. \u201cBut that\u2019s how it looks,\u201d he added.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Disrupt"
+        "Pushing",
+        "Ukraine",
+        "Surrender",
+        "Russia",
+        "Zelensky",
+        "Says"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13014,15 +13052,46 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "NYT"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Stop \u2018cash for trash\u2019 housebuilding in Norfolk Broads, says Labour MP",
+      "link": "https://www.theguardian.com/environment/2026/oct/19/stop-cash-for-trash-housebuilding-norfolk-broads-labour-mp-chris-hinchcliffe",
+      "source": "Guardian",
+      "timestamp": "2026-10-19T12:20:08+00:00",
+      "score": 12,
+      "summary": "Exclusive: Chris Hinchcliff urges environment watchdog to block rules that will allow almost 16,000 new homes in one of UK\u2019s most protected areasThe environment watchdog is being urged to intervene in \u201ccash to trash\u201d planning rules that will allow almost 16,000 new homes in th...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Norfolk",
+        "Broads",
+        "Labour"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "French PM blames \u2018ultra-left\u2019 for exploiting protests as he seeks partial curfews \u2013 Europe live",
       "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
@@ -19531,61 +19600,33 @@
       ],
       "trend_accel": "+54%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "US ambassador to Israel denounces West Bank settler attack on US photojournalist",
-      "link": "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
-      "source": "Guardian",
-      "timestamp": "2026-10-18T15:33:38+00:00",
+      "title": "Here are Monday's biggest analyst calls: SpaceX, Nvidia, Apple, CoreWeave, Amazon, Meta, Eli Lilly & more",
+      "link": "https://www.cnbc.com/2026/10/19/mondays-biggest-analyst-calls-include-coreweave.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-19T12:28:36+00:00",
       "score": 12,
-      "summary": "Mike Huckabee calls for arrest and prosecution of those responsible as Heidi Levine, 63, recovers in hospital in IsraelThe US ambassador to Israel, Mike Huckabee, has denounced the settler attack that left the Washington Post photojournalist Heidi Levine badly beaten and needi...",
+      "summary": "Here are the biggest calls on Wall Street on Monday.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Israel",
-        "West",
-        "Bank"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Multiple people killed as Canadian authorities tackle active blaze at Alberta military base",
-      "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "source": "Guardian",
-      "timestamp": "2026-10-18T15:31:33+00:00",
-      "score": 12,
-      "summary": "Situation in Wainwright a \u2018one in every 15 to 25-year disaster\u2019 with the injured taken to hospitals in EdmontonMultiple people have been killed and injured after a deadly blaze tore through one of Canada\u2019s busiest military training bases in Alberta, Canada\u2019s defence minister s...",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Canadian",
-        "Alberta"
+        "Mondays",
+        "SpaceX",
+        "Nvidia",
+        "Apple",
+        "CoreWeave",
+        "Amazon",
+        "Meta",
+        "Eli",
+        "Lilly"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19594,15 +19635,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "Guardian"
+        "CNBC"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+55%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
       "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
@@ -26259,29 +26298,24 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Hurricane Trudy strengthens to a Category 3 storm off Mexico's Pacific coast",
-      "link": "https://www.cnbc.com/2026/10/16/hurricane-trudy-mexicos-pacific-coast.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-16T10:50:50+00:00",
-      "score": 15,
-      "summary": "Hurricane Trudy strengthened to a major, Category 3 hurricane and was headed to the southwestern and west-central areas of Mexico's Pacific coast.",
-      "country": "Mexico",
+      "title": "Labeling foods with added sugar content may reduce demand and consumption",
+      "link": "https://phys.org/news/2026-10-foods-added-sugar-content-demand.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-19T08:20:02-04:00",
+      "score": 10,
+      "summary": "The labeling of added sugar on food labels, which became mandatory in the U.S. by 2021, may reduce demand for and consumption of certain types of food, according to a study led by researchers in Penn State's College of Agricultural Sciences.",
+      "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Trudy",
-        "Category",
-        "Mexicos",
-        "Pacific"
-      ],
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26289,15 +26323,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Genomic study uncovers a new lace bug species on Japan's remote Ogasawara Islands",
       "link": "https://phys.org/news/2026-10-genomic-uncovers-lace-bug-species.html",
@@ -32455,35 +32487,6 @@
         "Phys.org"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Research finds vegan honey could be made with similar antimicrobial properties to m\u0101nuka honey",
-      "link": "https://phys.org/news/2026-10-vegan-honey-similar-antimicrobial-properties.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-15T09:40:01-04:00",
-      "score": 10,
-      "summary": "Vegan honey alternatives could be engineered to have antimicrobial properties similar to those of prized m\u0101nuka honey from New Zealand, according to research at Aston University.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -42119,6 +42122,46 @@
   ],
   "Lifestyle": [
     {
+      "title": "The Real-Life Wardrobe of Quil Lemons, Who\u2019s Feeling Inspired by 'The Boondocks'",
+      "link": "https://www.gq.com/story/real-life-wardrobe-quil-lemons",
+      "source": "GQ",
+      "timestamp": "2026-10-19T12:30:00+00:00",
+      "score": 12,
+      "summary": "The photographer chats with GQ\u2019s Christopher Fenimore about making potent art, shopping at Buck Mason, and why he plays Rihanna\u2019s Anti at every shoot.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Bio-Security"
+      ],
+      "entities": [
+        "RealLife",
+        "Wardrobe",
+        "Quil",
+        "Lemons",
+        "Whos",
+        "Feeling",
+        "Inspired",
+        "Boondocks"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "GQ"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "\u201cWe Are Facing a Pandemic of People Shrinking\u201d: 3 Designers on the State of Size Inclusivity",
       "link": "https://www.vogue.com/article/we-are-facing-a-pandemic-of-people-shrinking-3-designers-on-the-state-of-size-inclusivity",
       "source": "Vogue",
@@ -46560,6 +46603,104 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 2.3 - 8 km WNW of Crescent, Oklahoma",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026umqb",
+      "source": "USGS",
+      "timestamp": "2026-10-19T12:29:23.137000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-19 12:27:46 UTC2026-10-19 12:27:46 UTC at epicenterLocation35.990\u00b0N 97.671\u00b0WDepth12.16 km (7.55 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Crescent",
+        "Oklahoma"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.8 - 56 km N of Ruteng, Indonesia",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3ch",
+      "source": "USGS",
+      "timestamp": "2026-10-19T12:22:21.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-19 12:06:01 UTC2026-10-19 12:06:01 UTC at epicenterLocation8.104\u00b0S 120.378\u00b0EDepth10.00 km (6.21 mi)",
+      "country": "Indonesia",
+      "region": "Southeast Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ruteng",
+        "Indonesia"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.7 - 84 km NNW of Karluk, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uslawy",
+      "source": "USGS",
+      "timestamp": "2026-10-19T12:20:40.003000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-19 12:19:53 UTC2026-10-19 12:19:53 UTC at epicenterLocation58.277\u00b0N 154.966\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Karluk",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.2 - 22 km N of Manley Hot Springs, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uskvmz",
@@ -52984,104 +53125,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.1 - 15 km WSW of Volcano, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060216",
-      "source": "USGS",
-      "timestamp": "2026-10-18T08:59:32.790000+00:00",
-      "score": 17,
-      "summary": "Time2026-10-18 08:55:51 UTC2026-10-18 08:55:51 UTC at epicenterLocation19.386\u00b0N 155.367\u00b0WDepth27.66 km (17.19 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Volcano",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.8 - 86 km SSW of Unalaska, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u34h",
-      "source": "USGS",
-      "timestamp": "2026-10-18T08:22:30.040000+00:00",
-      "score": 15,
-      "summary": "ShakeMap - IIITime2026-10-18 08:02:43 UTC2026-10-18 08:02:43 UTC at epicenterLocation53.151\u00b0N 167.005\u00b0WDepth39.80 km (24.73 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Unalaska",
-        "Alaska"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.4 - 6 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75451456",
-      "source": "USGS",
-      "timestamp": "2026-10-18T08:18:25.690000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-18 08:16:46 UTC2026-10-18 08:16:46 UTC at epicenterLocation38.805\u00b0N 122.822\u00b0WDepth2.30 km (1.43 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
