@@ -2139,7 +2139,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.5,
+      "trend_score": 10.4,
       "source_count": 19,
       "sources_reporting": [
         "BBC",
@@ -19632,6 +19632,70 @@
   ],
   "Business": [
     {
+      "title": "The world\u2019s finance chiefs see new risks \u2014 and less China angst",
+      "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-20T05:27:53+00:00",
+      "score": 12,
+      "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "China"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Stock futures mixed after tech shares rebound to start the week: Live updates",
+      "link": "https://www.cnbc.com/2026/10/19/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-20T05:16:13+00:00",
+      "score": 14,
+      "summary": "The S&P 500 and Nasdaq clawed back some of their steep losses from the week before.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Live"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Food aid charity under pressure from fuel costs",
       "link": "https://www.bbc.co.uk/news/articles/cqy0rxw37x2eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -26239,60 +26303,25 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "EchoStar\u2019s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
-      "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-10-16T20:05:00+00:00",
-      "score": 14,
-      "summary": "Investors aren\u2019t giving EchoStar enough credit for the value of its future SpaceX stake or its potential to strike more spectrum deals, an analyst argues.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
+      "link": "https://www.bbc.co.uk/news/articles/cxzd6j5q0g7eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-20T05:27:15+00:00",
+      "score": 12,
+      "summary": "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission.",
+      "country": "Ireland",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "SpaceX",
-        "Morgan"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-      "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-16T19:44:41+00:00",
-      "score": 17,
-      "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Iran",
-        "Hormuz",
-        "Ukraine",
-        "Russian"
+        "Ireland"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26303,13 +26332,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "BBC"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Synthetic public opinion polling: AI personas don't always change their minds like real voters do",
       "link": "https://phys.org/news/2026-10-synthetic-opinion-polling-ai-personas.html",
@@ -27181,7 +27208,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.8,
+      "trend_score": 8.7,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -27190,7 +27217,7 @@
         "NPR",
         "Phys.org"
       ],
-      "trend_accel": "+74%",
+      "trend_accel": "+73%",
       "heat_level": "SURGING"
     },
     {
@@ -32463,37 +32490,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Solving the gallium anomaly: New calculation may explain neutrino shortfall without invoking new particles",
-      "link": "https://phys.org/news/2026-10-gallium-anomaly-neutrino-shortfall-invoking.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-16T08:00:01-04:00",
-      "score": 14,
-      "summary": "Glimpses of the \"gallium anomaly\" were first seen in the mid-1990s, but it was first clearly discovered and stated in 2007 by neutrino physicist Carlo Giunti of Italy. The problem is simple to state but potentially very important: about 20% fewer electron neutrinos were seen t...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "New"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33926,6 +33922,46 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Human-AI Indian Music Label Raagverse Launches With \u2018Janaa Hai Toh Jao\u2019 (EXCLUSIVE)",
+      "link": "https://variety.com/2026/music/news/human-ai-music-label-raagverse-launches-janaa-hai-toh-jao-1236916309/",
+      "source": "Variety",
+      "timestamp": "2026-10-20T05:30:00+00:00",
+      "score": 14,
+      "summary": "Raagverse, a new Indian music label that pairs human songwriting with AI production tools, will release its first album, \u201cJanaa Hai Toh Jao,\u201d on Oct. 20. The label is the latest venture from Amita Madhvani, CEO of Equinox Virtual, which she co-founded with Ram Madhvani. Equino...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Indian",
+        "Music",
+        "Label",
+        "Raagverse",
+        "Launches",
+        "Janaa",
+        "Hai",
+        "Toh",
+        "Jao",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Anurag Kashyap and Vasan Bala Present Mumbai Cab Thriller \u2018Aakhri Ride\u2019 for Halloween Release (EXCLUSIVE)",
       "link": "https://variety.com/2026/film/news/anurag-kashyap-vasan-bala-mumbai-cab-thriller-aakhri-ride-1236915547/",
@@ -41880,45 +41916,6 @@
       "source_count": 5,
       "sources_reporting": [
         "THR"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Inde Navarrette on Meeting Pamela Anderson, Hosting \u2018SNL\u2019 and X-Men Stunt Training",
-      "link": "https://variety.com/2026/film/news/inde-navarrette-hosting-snl-x-men-stunt-training-1236916105/",
-      "source": "Variety",
-      "timestamp": "2026-10-19T00:40:41+00:00",
-      "score": 14,
-      "summary": "\u201cObsession\u201d star Inde Navarrette had quite the busy weekend, going from the Academy Museum Gala on Saturday to the Newport Beach Film Festival on Sunday. Navarrette attended the festival, which runs until Thursday in Newport Beach, as one of Variety\u2019s 10 Actors to Watch, who w...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Navarrette",
-        "Meeting",
-        "Pamela",
-        "Anderson",
-        "Hosting",
-        "SNL",
-        "XMen",
-        "Stunt",
-        "Training"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
