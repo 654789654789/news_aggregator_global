@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "'Let's move on': Albertans react to separatist movement setback",
+      "link": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-20T19:31:35+00:00",
+      "score": 12,
+      "summary": "Preliminary referendum results show that more than two-thirds of Alberta voters support remaining part of Canada, easing concerns over national unity.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Albertans"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Live updates: Trump, Vance roll out fraud initiative that pays whistleblowers",
       "link": "https://thehill.com/homenews/administration/6159401-live-updates-trump-midterm-elections-ukraine-russia/",
       "source": "The Hill",
@@ -1328,7 +1359,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.2,
+      "trend_score": 9.1,
       "source_count": 18,
       "sources_reporting": [
         "Bloomberg",
@@ -1337,7 +1368,7 @@
         "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+73%",
+      "trend_accel": "+72%",
       "heat_level": "CRITICAL"
     },
     {
@@ -6599,49 +6630,40 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
-      "link": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
-      "source": "NYT",
-      "timestamp": "2026-10-19T17:16:42+00:00",
+      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-20T19:32:43+00:00",
       "score": 12,
-      "summary": "The Justice Department clashed with Judge Ana C. Reyes over testimony by several government witnesses about the chain of decisions surrounding East Potomac Golf Links.",
+      "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Golf",
-        "Course",
-        "Dispute",
-        "Sparks",
-        "Clash",
-        "Between",
-        "Judge",
-        "DOJ"
+        "Detroit"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "NYT"
+        "TechCrunch"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "DJI\u2019s Osmo Pocket 3 vlogging camera is a good deal at under $400",
       "link": "https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale",
@@ -13010,22 +13032,31 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
-      "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-14T20:00:00+00:00",
-      "score": 10,
-      "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+      "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+      "link": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
+      "source": "Guardian",
+      "timestamp": "2026-10-20T19:32:28+00:00",
+      "score": 14,
+      "summary": "Advance warnings of missile attacks were seemingly suspended last week by the White House, but Ukraine\u2019s president says: \u2018Now it works\u2019The US has resumed sharing intelligence with Kyiv about Russian missile strikes, Volodymyr Zelenskyy said on Tuesday after a meeting with the ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "Ukraine",
+        "Russian",
+        "Zelenskyy"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13033,15 +13064,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "Guardian"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Firmus yet to secure full funding for AI data centre project",
       "link": "https://www.abc.net.au/news/2026-10-21/firmus-yet-to-secure-full-funding-for-tasmania-centre/107289594",
@@ -19575,22 +19604,28 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "California to recieve $6m settlement after 23andMe data breach",
-      "link": "https://www.theguardian.com/us-news/2026/oct/19/california-settlement-23andme-data-breach",
-      "source": "Guardian",
-      "timestamp": "2026-10-19T21:34:30+00:00",
-      "score": 13,
-      "summary": "The 2023 breach exposed millions of customers\u2019 genetic and personal information, including more than 855,000 CaliforniansCalifornia attorney general Rob Bonta on Monday announced the state will receive a $6m settlement payment in 23andMe\u2019s bankruptcy, resolving California\u2019s le...",
+      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+      "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-20T19:42:32+00:00",
+      "score": 14,
+      "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
       "country": "UK",
       "region": "Europe",
-      "source_type": "Newspaper",
+      "source_type": "Broadcaster",
       "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "CEO",
+        "Sam",
+        "Altman"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19600,13 +19635,75 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Guardian"
+        "BBC"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Boeing wins FAA approval for 737 Max 10 after years of delays",
+      "link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-20T19:41:23+00:00",
+      "score": 15,
+      "summary": "The 737 Max 10, the largest model in the family, was set to start flying in 2020, but increased scrutiny and other safety issues delayed its certification.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "FAA",
+        "Max"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Wall Street researchers just used Claude to design a drug. The experiment has spawned a new investment thesis.",
+      "link": "https://www.marketwatch.com/story/wall-street-researchers-just-used-claude-to-design-a-drug-the-experiment-has-spawned-a-new-investment-thesis-6a5c3710?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-20T19:35:00+00:00",
+      "score": 12,
+      "summary": "For years, artificial-intelligence evangelists have boasted about the technology\u2019s capacity to revolutionize drug development and medical research.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Street",
+        "Claude"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Dollar dips as traders weigh Iran, AI risks",
       "link": "https://www.livemint.com/market/dollar-dips-as-traders-weigh-iran-ai-risks-11792522097761.html",
@@ -20968,7 +21065,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.7,
+      "trend_score": 10.6,
       "source_count": 19,
       "sources_reporting": [
         "AP",
@@ -26031,94 +26128,21 @@
       ],
       "trend_accel": "+54%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "China\u2019s Export Boom Fuels Growth Despite Slump at Home",
-      "link": "https://www.nytimes.com/2026/10/18/business/china-economy-gdp.html",
-      "source": "NYT",
-      "timestamp": "2026-10-19T02:16:04+00:00",
+      "title": "The bioeconomy is gaining ground worldwide, report shows",
+      "link": "https://phys.org/news/2026-10-bioeconomy-gaining-ground-worldwide.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-20T15:40:10-04:00",
       "score": 12,
-      "summary": "A prolonged housing crash, sluggish consumer spending and plunging investment have left China dependent on exports to keep the economy growing.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Newspaper",
+      "summary": "Oil and natural gas still account for the vast majority of the world's energy and raw materials, with all the associated environmental and biodiversity consequences. The bioeconomy is an approach to overcoming this dependence: Instead of using fossil fuels, it uses renewable r...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
       "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Export",
-        "Boom",
-        "Fuels",
-        "Growth",
-        "Despite",
-        "Slump",
-        "Home"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-      "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-19T02:12:15+00:00",
-      "score": 13,
-      "summary": "Strategic intelligence signal ingested from CNBC.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 15,
-      "sources_reporting": [
-        "BBC",
-        "Bloomberg",
-        "CNBC",
-        "Guardian",
-        "NYT",
-        "PBS"
-      ],
-      "trend_accel": "+82%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
-      "link": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-19T02:06:45+00:00",
-      "score": 10,
-      "summary": "France\u2019s worst unrest in years saw thousands arrested, prompting President Macron to vow an \u201cuncompromising\u201d response ahead of a critical budget vote.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26131,13 +26155,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Filling the gaps in global rainfall maps",
       "link": "https://phys.org/news/2026-10-gaps-global-rainfall.html",
@@ -32291,37 +32313,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Astronomer leads global team on NASA mission to create unprecedented view of the early universe",
-      "link": "https://phys.org/news/2026-10-astronomer-global-team-nasa-mission.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-16T19:20:01-04:00",
-      "score": 12,
-      "summary": "A University of Missouri astronomer is leading a team of 130 researchers from 62 institutions\u2014including NASA, the California Institute of Technology, Princeton University and Harvard University\u2014on an ambitious mission to capture an unprecedented view of the early universe.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NASA"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33797,6 +33788,165 @@
   ],
   "Entertainment": [
     {
+      "title": "Andy Cohen Celebrates 20 Years of \u2018Real Housewives\u2019 With New Book Featuring 600 Never-Before-Seen Photos and Behind-the-Scenes Stories",
+      "link": "https://variety.com/2026/shopping/news/andy-cohen-bravo-book-real-housewives-20-year-anniversary-1236917946/",
+      "source": "Variety",
+      "timestamp": "2026-10-20T19:44:15+00:00",
+      "score": 15,
+      "summary": "Andy Cohen has spent two decades presiding over some of reality television\u2019s most memorable confrontations. Now, he\u2019s opening up his personal archives. The Bravo host and executive producer is marking the 20th anniversary of the \u201cReal Housewives\u201d franchise with a new book, \u201cAn...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cohen",
+        "Celebrates",
+        "Years",
+        "Real",
+        "Housewives",
+        "New",
+        "Book",
+        "Featuring",
+        "NeverBeforeSeen",
+        "Photos",
+        "BehindtheScenes",
+        "Stories"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Liongate Stock Jumps On Report Of Takeover Offer By Legendary",
+      "link": "https://deadline.com/2026/10/liongate-stock-jumps-takeover-offer-legendary-1237168877/",
+      "source": "Deadline",
+      "timestamp": "2026-10-20T19:38:10+00:00",
+      "score": 14,
+      "summary": "Shares of Lionsgate surged more than 15% in afternoon trade on a report the company had received a takeover offer from Legendary Entertainment, which has been kicking the tires of the standalone studio for months. Deadline reported Legendary\u2019s interest in June of 2025 after Li...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stock",
+        "Jumps",
+        "Report",
+        "Takeover",
+        "Offer",
+        "Legendary"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Publicist Emily Vespa Exits Kovert Creative and Joins Birch Public Relations",
+      "link": "https://www.hollywoodreporter.com/news/general-news/birch-public-relations-emily-vespa-client-list-1236735833/",
+      "source": "THR",
+      "timestamp": "2026-10-20T19:34:54+00:00",
+      "score": 12,
+      "summary": "Her talent roster includes D\u2019Pharaoh Woon-A-Tai, Adam Pally, Ed Weeks, Zarna Garg, Brandon Kyle Goodman and Fiona Dourif.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Emily",
+        "Vespa",
+        "Exits",
+        "Kovert",
+        "Creative",
+        "Joins",
+        "Birch",
+        "Public",
+        "Relations"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Josh Hartnett on Finding (and Shedding) His \u2018Below\u2019 Accent, and the Car Accident That Nearly Derailed Production",
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/josh-hartnett-below-interview-widows-bay-car-crash-season-2-1236730830/",
+      "source": "THR",
+      "timestamp": "2026-10-20T19:31:32+00:00",
+      "score": 14,
+      "summary": "Hartnett tells The Hollywood Reporter the 'Widow's Bay' comparisons created \"a little bit of a scary situation,\" but then he saw the trailer: \"Oh, thank God.\"",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hartnett",
+        "Finding",
+        "Shedding",
+        "His",
+        "Below",
+        "Accent",
+        "Car",
+        "Accident",
+        "That",
+        "Nearly",
+        "Derailed",
+        "Production"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Keanu Reeves in Talks to Star in James Wan\u2019s \u2018The Gangster, The Cop, The Devil\u2019 (Exclusive)",
       "link": "https://www.hollywoodreporter.com/movies/movie-news/keanu-reeves-james-wan-the-gangster-the-cop-the-devil-1236736550/",
       "source": "THR",
@@ -34379,15 +34529,14 @@
       "breaking": false,
       "trending": true,
       "trend_score": 11.2,
-      "source_count": 12,
+      "source_count": 11,
       "sources_reporting": [
         "BBC",
         "Deadline",
         "Guardian",
         "NHK",
         "NYT",
-        "THR",
-        "Variety"
+        "THR"
       ],
       "trend_accel": "+89%",
       "heat_level": "CRITICAL"
@@ -41627,167 +41776,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Richard Riehle, Character Actor in \u2018Office Space,\u2019 \u2018Star Trek,\u2019 \u2018Bridesmaids\u2019 and More, Dies at 78",
-      "link": "https://variety.com/2026/film/news/richard-riehle-dead-office-space-star-trek-bridesmaids-actor-1236916721/",
-      "source": "Variety",
-      "timestamp": "2026-10-19T19:17:38+00:00",
-      "score": 17,
-      "summary": "Richard Riehle, known for playing Tom Smykowski in \u201cOffice Space\u201d and many other character actor roles, died of natural causes Oct. 15 in Los Angeles, Variety has confirmed. He was 78. Riehle was born in Menomonee Falls, Wisconsin, on May 12, 1948. He attended the University o...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Riehle",
-        "Character",
-        "Actor",
-        "Office",
-        "Space",
-        "Star",
-        "Trek",
-        "Bridesmaids",
-        "More",
-        "Dies"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Justine Lupe To Lead Rom-Com Series In Development At Amazon, From Briana Pozner & Colin Lupe; Will Gluck To Direct",
-      "link": "https://deadline.com/2026/10/justine-lupe-cast-amazon-series-development-1237167905/",
-      "source": "Deadline",
-      "timestamp": "2026-10-19T19:13:20+00:00",
-      "score": 12,
-      "summary": "EXCLUSIVE: Amazon is developing the new romantic comedy series Settling, from creators Briana Pozner and Colin Lupe. Justine Lupe (Nobody Wants This, Succession) will lead the show, and Will Gluck (Anyone But You, Easy A) is attached to direct, sources tell Deadline. The pilot...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lupe",
-        "Lead",
-        "RomCom",
-        "Series",
-        "Development",
-        "Amazon",
-        "Briana",
-        "Pozner",
-        "Colin",
-        "Will",
-        "Gluck",
-        "Direct"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Charli xcx Brings Out Chappell Roan, Ad\u00e9la Across Two-Night Stand at Los Angeles\u2019 Kia Forum",
-      "link": "https://www.hollywoodreporter.com/music/music-news/charli-xcx-los-angeles-concerts-chappell-roan-adela-1236735509/",
-      "source": "THR",
-      "timestamp": "2026-10-19T19:12:40+00:00",
-      "score": 12,
-      "summary": "The singer-songwriter's arena tour is in support of her latest album, 'Music, Fashion, Film.'",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Brings",
-        "Out",
-        "Chappell",
-        "Roan",
-        "Adla",
-        "Across",
-        "TwoNight",
-        "Stand",
-        "Los",
-        "Angeles",
-        "Kia",
-        "Forum"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Netflix Orders Two Seasons of A24\u2019s \u2018The Apology\u2019 Starring Gwyneth Paltrow",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/gwyneth-paltrow-a24-show-the-apology-2-season-order-netflix-1236735579/",
-      "source": "THR",
-      "timestamp": "2026-10-19T19:08:45+00:00",
-      "score": 15,
-      "summary": "Thomas Vinterberg will direct.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Orders",
-        "Two",
-        "Seasons",
-        "Apology",
-        "Starring",
-        "Gwyneth",
-        "Paltrow"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -46273,6 +46261,73 @@
       "source_count": 3,
       "sources_reporting": [
         "NHC"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 3 km SE of Home Gardens, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349839",
+      "source": "USGS",
+      "timestamp": "2026-10-20T19:40:39.346000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-20 19:36:33 UTC2026-10-20 19:36:33 UTC at epicenterLocation33.858\u00b0N 117.502\u00b0WDepth1.43 km (0.89 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Home",
+        "Gardens"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.9 Explosion - 3 km ENE of Swede Heaven, Washington",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714122532",
+      "source": "USGS",
+      "timestamp": "2026-10-20T19:39:55.460000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-20 19:00:58 UTC2026-10-20 19:00:58 UTC at epicenterLocation48.301\u00b0N 121.685\u00b0WDepth-0.96 km (-0.60 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Explosion",
+        "ENE",
+        "Swede",
+        "Heaven",
+        "Washington"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
@@ -52715,70 +52770,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 1 km SW of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75060801",
-      "source": "USGS",
-      "timestamp": "2026-10-19T13:24:21.440000+00:00",
-      "score": 17,
-      "summary": "Time2026-10-19 13:20:48 UTC2026-10-19 13:20:48 UTC at epicenterLocation19.193\u00b0N 155.488\u00b0WDepth29.74 km (18.48 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 43 km SW of Chenega, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026usmnxf",
-      "source": "USGS",
-      "timestamp": "2026-10-19T13:06:09.073000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-19 13:04:51 UTC2026-10-19 13:04:51 UTC at epicenterLocation59.838\u00b0N 148.648\u00b0WDepth22.80 km (14.17 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chenega",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ]
