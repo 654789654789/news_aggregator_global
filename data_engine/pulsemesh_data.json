@@ -1,6 +1,74 @@
 {
   "Politics": [
     {
+      "title": "MAGA Inc. Unleashes Millions to Turn Out Republicans At the Polls",
+      "link": "https://www.nytimes.com/2026/10/20/us/politics/trump-maga-inc-super-pac.html",
+      "source": "NYT",
+      "timestamp": "2026-10-20T23:08:14+00:00",
+      "score": 12,
+      "summary": "MAGA Inc. is now flooding the social media platforms with targeted ads as it seeks to turn out Republicans amid the president\u2019s historically low approval ratings.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Inc",
+        "Unleashes",
+        "Millions",
+        "Turn",
+        "Out",
+        "Republicans",
+        "Polls"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Dasara gift for Singareni officers, Dy CM fulfils long-pending demand",
+      "link": "https://www.thehindu.com/news/national/telangana/dasara-gift-for-singareni-officers-dy-cm-fulfils-long-pending-demand/article71604614.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-10-21T04:34:31+05:30",
+      "score": 12,
+      "summary": "Singareni management issued orders on evening of October 19 implementing the revised pay structure after securing the approval of the company\u2019s Board. The orders were issued by Director (Personnel) Gautam Potru",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Singareni"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Zelenskyy seeks to mend ties with Trump ahead of Witkoff-Putin meeting",
       "link": "https://www.pbs.org/newshour/show/zelenskyy-seeks-to-mend-ties-with-trump-ahead-of-witkoff-putin-meeting",
       "source": "PBS",
@@ -1376,14 +1444,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 8.7,
+      "source_count": 13,
       "sources_reporting": [
-        "PBS"
+        "BBC",
+        "NHK",
+        "PBS",
+        "Reuters",
+        "The Hill"
       ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
+      "trend_accel": "+74%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Jackdaw North Sea gasfield to get go-ahead in blow to climate campaigners",
@@ -2425,8 +2497,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "Bloomberg",
@@ -6528,25 +6600,24 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Ex-OpenAI worker accused of bugging conference room planned to fly to Saudi Arabia, prosecutors say",
-      "link": "https://www.pbs.org/newshour/world/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say",
-      "source": "PBS",
-      "timestamp": "2026-10-19T16:35:15-04:00",
-      "score": 14,
-      "summary": "Prosecutors have not said what Abdulrahman Alfozan, a 35-year-old Saudi national, might have wanted to do with the recordings, but say he was in \"frequent communication\" with a member of the Saudi royal family.",
-      "country": "Saudi Arabia",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-20T23:01:23+00:00",
+      "score": 17,
+      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Saudi",
-        "Arabia"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6554,52 +6625,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "PBS"
+        "TechCrunch"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
     },
-    {
-      "title": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza",
-      "link": "https://www.pbs.org/newshour/politics/a-bitter-michigan-senate-race-rattles-jewish-and-muslim-voters-already-on-edge-over-the-war-in-gaza",
-      "source": "PBS",
-      "timestamp": "2026-10-19T16:26:07-04:00",
-      "score": 12,
-      "summary": "Michigan's closely contested Senate race has become deeply personal for some voters.",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Michigan",
-        "Senate",
-        "Jewish",
-        "Muslim",
-        "Gaza"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "PBS"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
     {
       "title": "SpaceX and Tesla boards form special committees to review merger",
       "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
@@ -12973,28 +13005,26 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Big Walk skipped Xbox to boycott Microsoft\u2019s involvement with Israel",
-      "link": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
-      "source": "Verge",
-      "timestamp": "2026-10-15T06:05:07-04:00",
+      "title": "Nigeria confirms case of Ebola in capital city of Abuja",
+      "link": "https://www.cbc.ca/news/health/nigeria-ebola-case-confirmed-abuja-9.7389261?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-10-20T19:05:51-04:00",
       "score": 12,
-      "summary": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on ...",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "Nigeria's government said on Tuesday there was a case of Ebola \u200cin the capital, Abuja, after laboratory tests confirmed the viral infection.",
+      "country": "Nigeria",
+      "region": "Africa",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Walk",
-        "Xbox",
-        "Microsofts",
-        "Israel"
+        "Ebola",
+        "Abuja"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13005,13 +13035,69 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Verge"
+        "CBC News"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Proposed depression subtype involves waking up tired or being a night owl",
+      "link": "https://www.abc.net.au/news/health/2026-10-21/circadian-depression-clinical-genetic-implications/107261644",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-20T23:01:00+00:00",
+      "score": 10,
+      "summary": "A new study suggests one in four people with severe, recurrent or persistent depression have a proposed subset called \"circadian depression\", where people often report waking up very tired and being a \"night owl\".",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Australian researchers identify new subtype of depression linked to body clock disruptions",
+      "link": "https://www.theguardian.com/society/2026/oct/21/australian-researchers-identify-new-subtype-of-depression-linked-to-body-clock-disruptions",
+      "source": "Guardian",
+      "timestamp": "2026-10-20T23:00:48+00:00",
+      "score": 10,
+      "summary": "Study identifies \u2018circadian depression\u2019 as affecting nearly a quarter of more than 11,000 participantsGet our breaking news email, free app or daily news podcastAustralian researchers have identified a new subtype of depression \u2013 termed \u201ccircadian depression\u201d \u2013 linked to disru...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Councillor who told woman it was a 'pity' she wasn't bashed won't resign",
       "link": "https://www.abc.net.au/news/2026-10-21/kempsey-shire-council-asks-noel-selby-to-resign-for-bash-comment/107282114",
@@ -14440,7 +14526,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 11.0,
+      "trend_score": 10.9,
       "source_count": 19,
       "sources_reporting": [
         "ABC Australia",
@@ -14450,7 +14536,7 @@
         "Guardian",
         "PBS"
       ],
-      "trend_accel": "+86%",
+      "trend_accel": "+85%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19500,112 +19586,46 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Migrants have taken over France, they must close the borders: Trump on France riots",
-      "link": "https://www.thehindu.com/news/international/migrants-have-taken-over-france-they-must-close-the-borders-trump-on-france-riots/article71603124.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-20T07:35:25+05:30",
-      "score": 12,
-      "summary": "At a rally in Kansas, the U.S. President launched into a lengthy tirade about France, which he said was being \u201cconquered, looted, and burned to the ground by migrants, jihadists, and communists\u201d",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "France",
-        "Trump"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Helen Haines live updates: MP critical but stable as AFP look into charges carrying up to 10 years\u2019 imprisonment",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-10-20T02:02:00+00:00",
-      "score": 17,
-      "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged \u2018wasn\u2019t an accident\u2019\u2018Deeply appalled\u2019: politicians condemn alleged attack after Helen Haines critically injuredHelen Haines, the principled MP respected across parliament\u2018It\u2019s ver...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Haines",
-        "AFP"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Gold mine collapse kills at least 14 in southwest Colombia",
-      "link": "https://www.thehindu.com/news/international/gold-mine-collapse-in-colombias-narino-province/article71603089.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-20T07:31:30+05:30",
-      "score": 15,
-      "summary": "At least six miners were killed Monday when an open-pit gold mine collapsed in a remote corner of Colombia\u2019s Nari\u00f1o province, authorities said",
-      "country": "Colombia",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Colombia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 16,
-      "sources_reporting": [
-        "Al Jazeera",
-        "Bloomberg",
-        "NPR",
-        "NYT",
-        "Reuters",
-        "The Hindu",
-        "Times of India"
-      ],
-      "trend_accel": "+82%",
-      "heat_level": "CRITICAL"
     }
   ],
   "Business": [
+    {
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-20T23:11:17+00:00",
+      "score": 12,
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Musk",
+        "TeslaSpaceX"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 10.8,
+      "source_count": 13,
+      "sources_reporting": [
+        "AP",
+        "BBC",
+        "Bloomberg",
+        "CNBC",
+        "MarketWatch",
+        "NHK"
+      ],
+      "trend_accel": "+81%",
+      "heat_level": "CRITICAL"
+    },
     {
       "title": "Oil Steadies as Traders Weigh Conflicting Signals on Iran Talks",
       "link": "https://www.livemint.com/market/oil-steadies-as-traders-weigh-conflicting-signals-on-iran-talks-11792537101821.html",
@@ -19805,14 +19825,20 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 10.8,
+      "source_count": 13,
       "sources_reporting": [
-        "BBC"
+        "AP",
+        "BBC",
+        "Bloomberg",
+        "CNBC",
+        "MarketWatch",
+        "NYT",
+        "Reuters"
       ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
+      "trend_accel": "+82%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates",
@@ -20678,8 +20704,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "CNBC",
@@ -21697,8 +21723,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 19,
       "sources_reporting": [
         "AP",
@@ -26090,25 +26116,27 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
-      "link": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-19T07:48:53+00:00",
-      "score": 15,
-      "summary": "CXMT shares fell nearly 8% on Monday after the company released its earnings forecast for the first nine months of 2026.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Mystery skeleton found in Roman sarcophagus at Westminster Abbey may finally have an identity",
+      "link": "https://phys.org/news/2026-10-mystery-skeleton-roman-sarcophagus-westminster.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-20T19:10:01-04:00",
+      "score": 12,
+      "summary": "The identity of a mysterious skeleton found in a Roman sarcophagus in the grounds of Westminster Abbey more than 150 years ago appears closer to being solved.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "CXMT"
+        "Roman",
+        "Westminster",
+        "Abbey"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26117,15 +26145,49 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+54%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "Germophobe Primates Want to Avoid Getting Sick, Too",
+      "link": "https://www.nytimes.com/2026/10/20/science/primates-germaphobe-avoid-sickness.html",
+      "source": "NYT",
+      "timestamp": "2026-10-20T23:05:04+00:00",
+      "score": 12,
+      "summary": "Some monkeys become significantly more cautious about food sources that appear contaminated after experiencing deadly outbreaks of disease.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Primates",
+        "Want",
+        "Avoid",
+        "Getting",
+        "Sick",
+        "Too"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Like humans, some primates become cautious of germs in the wake of a viral outbreak",
       "link": "https://phys.org/news/2026-10-humans-primates-cautious-germs-viral.html",
@@ -32173,76 +32235,6 @@
       ],
       "trend_accel": "+57%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "World's oldest shipwreck discovered off coast of Turkey",
-      "link": "https://phys.org/news/2026-10-world-oldest-shipwreck-coast-turkey.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-17T20:30:01-04:00",
-      "score": 12,
-      "summary": "A shipwreck off the coast of Turkey is the oldest shipwreck in the world, our team of archaeologists believes. There's little left of the ship itself, but based on clues from its cargo\u2014including pottery vessels\u2014a research team I was part of has tentatively dated the wreck to a...",
-      "country": "Turkey",
-      "region": "Middle East",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Turkey"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 11,
-      "sources_reporting": [
-        "Bloomberg",
-        "Guardian",
-        "NHK",
-        "Phys.org"
-      ],
-      "trend_accel": "+64%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-17T19:13:21+00:00",
-      "score": 12,
-      "summary": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "California"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 14,
-      "sources_reporting": [
-        "BBC",
-        "Guardian",
-        "NHK",
-        "Reuters"
-      ],
-      "trend_accel": "+66%",
-      "heat_level": "HOT"
     }
   ],
   "Sports": [
@@ -33715,6 +33707,86 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Doc Talk Podcast Live From Hot Springs Documentary Film Festival With Makers Of Four Oscar-Contending Films",
+      "link": "https://deadline.com/2026/10/doc-talk-hot-springs-documentary-film-festival-roundtable-1237168951/",
+      "source": "Deadline",
+      "timestamp": "2026-10-20T23:15:00+00:00",
+      "score": 12,
+      "summary": "Oscar documentary favorites are starting to emerge as critics and other arbiters begin to announce their nominees and shortlists, bringing some clarity to a wide-open awards race. Four of the documentary features gaining traction: American Doctor, To Hold a Mountain, Closure a...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Talk",
+        "Podcast",
+        "Live",
+        "Hot",
+        "Springs",
+        "Documentary",
+        "Film",
+        "Festival",
+        "Makers",
+        "Four",
+        "OscarContending",
+        "Films"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Kaley Cuoco\u2019s Daughter Matilda & Newborn Philomena Cuddle in New Photo",
+      "link": "https://www.eonline.com/news/1437301/kaley-cuocos-daughter-matilda-baby-girl-philomena-cuddle-photo?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-10-20T23:03:55+00:00",
+      "score": 12,
+      "summary": "Kaley Cuoco\u2019s daughters were destined to be besties since the Big Bang. One week after the Big Bang Theory actress gave birth to her and fianc\u00e9 Tom Pelphrey\u2019s second daughter Philomena, she gave a...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cuocos",
+        "Daughter",
+        "Matilda",
+        "Newborn",
+        "Philomena",
+        "Cuddle",
+        "New",
+        "Photo"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Hunter Schafer Reveals She Underwent Gender-Affirming Bottom Surgery",
       "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hunter-schafer-gender-affirming-bottom-surgery-1236736776/",
@@ -41659,82 +41731,6 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Netflix Faces Anxious Wall Street As Earnings Season Kicks Off",
-      "link": "https://deadline.com/2026/10/netflix-earnings-layoffs-future-1237167505/",
-      "source": "Deadline",
-      "timestamp": "2026-10-19T22:45:00+00:00",
-      "score": 12,
-      "summary": "Netflix\u2019s flurry of C-suite changes (Peter Rice in, Bela Bajaria and others out) along with its deepest round of layoffs since 2022 are setting the company on a new path \u2013 but to where? That\u2019s the question Wall Street is asking as the company preps its latest quarterly earning...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Faces",
-        "Anxious",
-        "Wall",
-        "Street",
-        "Earnings",
-        "Season",
-        "Kicks",
-        "Off"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Echo Lake Entertainment Promotes Dana Jackson & Matt Horwitz To Partner",
-      "link": "https://deadline.com/2026/10/echo-lake-entertainment-promotes-two-1237168180/",
-      "source": "Deadline",
-      "timestamp": "2026-10-19T22:41:03+00:00",
-      "score": 14,
-      "summary": "EXCLUSIVE: Dana Jackson and Matt Horwitz, a pair of longtime literary managers at Echo Lake Entertainment, have been elevated to partners in their division. Acknowledging \u201cthe extraordinary creativity and diligence with which Matt and Dana represent their clients,\u201d CEO Doug Ma...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lake",
-        "Entertainment",
-        "Promotes",
-        "Dana",
-        "Jackson",
-        "Matt",
-        "Horwitz",
-        "Partner"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -46296,6 +46292,103 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.3 - 6 km SE of Pitaloza Arriba, Panama",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3qu",
+      "source": "USGS",
+      "timestamp": "2026-10-20T23:15:24.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-20 22:51:44 UTC2026-10-20 22:51:44 UTC at epicenterLocation7.597\u00b0N 80.627\u00b0WDepth10.00 km (6.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pitaloza",
+        "Arriba",
+        "Panama"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Zimbabwe",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032978",
+      "source": "GDACS",
+      "timestamp": "2026-10-20T23:04:21+00:00",
+      "score": 12,
+      "summary": "On 15/10/2026, a forest fire started in Zimbabwe, until 20/10/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Zimbabwe"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Mozambique, South Africa",
+      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032974",
+      "source": "GDACS",
+      "timestamp": "2026-10-20T23:02:06+00:00",
+      "score": 12,
+      "summary": "On 18/10/2026, a forest fire started in Mozambique, South Africa, until 20/10/2026.",
+      "country": "South Africa",
+      "region": "Africa",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mozambique",
+        "South",
+        "Africa"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+59%",
       "heat_level": "LOW"
     },
     {
@@ -52711,101 +52804,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 10 km NNE of Banning, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349359",
-      "source": "USGS",
-      "timestamp": "2026-10-19T16:41:12.585000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-19 16:37:43 UTC2026-10-19 16:37:43 UTC at epicenterLocation34.008\u00b0N 116.840\u00b0WDepth17.06 km (10.60 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Banning"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.6 - south of the Fiji Islands",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3db",
-      "source": "USGS",
-      "timestamp": "2026-10-19T16:29:35.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-19 16:13:53 UTC2026-10-19 16:13:53 UTC at epicenterLocation23.550\u00b0S 179.871\u00b0EDepth536.11 km (333.12 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fiji",
-        "Islands"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 23 km W of Petrolia, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452156",
-      "source": "USGS",
-      "timestamp": "2026-10-19T16:15:17.975000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-19 16:13:37 UTC2026-10-19 16:13:37 UTC at epicenterLocation40.303\u00b0N 124.560\u00b0WDepth9.55 km (5.93 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Petrolia"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
