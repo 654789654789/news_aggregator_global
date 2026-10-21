@@ -13232,6 +13232,35 @@
   ],
   "World": [
     {
+      "title": "Amazon warns new cyber flaws detected using AI are being \u2018broadly exploited\u2019",
+      "link": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
+      "source": "FT",
+      "timestamp": "2026-10-21T23:20:30+00:00",
+      "score": 14,
+      "summary": "Researchers used OpenAI and Google models to find severe faults in software used on the majority of websites around the world",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "FT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Macron accuses Trump and other foreign leaders of \u2018stupid comments\u2019 about France unrest",
       "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
       "source": "Guardian",
@@ -19757,22 +19786,27 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "France arrests man, calls in anti-terror police over town hall protest fire",
-      "link": "https://www.thehindu.com/news/international/france-arrests-a-man-linked-to-ultra-left-groups-for-historic-limoges-town-hall-fire/article71606103.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-21T08:37:32+05:30",
-      "score": 10,
-      "summary": "Anti-terror police have been called in to investigate the suspected arson of the town hall in the central city of Limoges, a listed building dating back to 1883 whose roof and belfry collapsed when it was engulfed by fire on October 17",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Newspaper",
+      "title": "Tesla\u2019s stock falls as Elon Musk leaves investors wanting more",
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-21T23:29:00+00:00",
+      "score": 14,
+      "summary": "SpaceX merger commentary is arguably the biggest thing on the minds of Tesla investors right now \u2014 and Musk had nothing new to offer on Wednesday.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Elon",
+        "Musk"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19780,15 +19814,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "MarketWatch"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Meta\u2019s stock rises as investors glimpse an opportunity that could dwarf the ad business",
       "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
@@ -26380,24 +26412,24 @@
       ],
       "trend_accel": "+78%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "SpaceX reports after the bell. Here's what options traders expect",
-      "link": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-20T13:40:28+00:00",
-      "score": 12,
-      "summary": "It's been a busy three months for SpaceX. Traders think that means more gains for the stock after it reports earnings after the bell today.",
+      "title": "New optogenetic tool inhibits activity in neurons and heart muscle cells",
+      "link": "https://phys.org/news/2026-10-optogenetic-tool-inhibits-neurons-heart.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-21T19:20:01-04:00",
+      "score": 10,
+      "summary": "Researchers from Ruhr University Bochum have partnered with colleagues in G\u00f6ttingen, Berlin, Paris and Essen to develop new optogenetic tools that can selectively inhibit cellular activity through light. These tools could help investigate diseases in which the balance between ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Heres"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26405,15 +26437,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "U.K. exam board science specifications reveal gender gap that may influence girls' STEM choices",
       "link": "https://phys.org/news/2026-10-uk-exam-board-science-specifications.html",
@@ -32507,37 +32537,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Five ways El Ni\u00f1o is affecting the weather around the world",
-      "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-19T23:08:25+00:00",
-      "score": 12,
-      "summary": "As the strongest El Ni\u00f1o on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nio"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -34022,6 +34021,50 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Oscar Nu\u00f1ez, Marlene Forte, Otmara Marrero & Vivian Ruiz To Star In Adrian Cardenas\u2019 Directorial Debut \u2018In An Orderly Fashion\u2019",
+      "link": "https://deadline.com/2026/10/oscar-nunez-star-in-an-orderly-fashion-film-1237170213/",
+      "source": "Deadline",
+      "timestamp": "2026-10-21T23:25:04+00:00",
+      "score": 12,
+      "summary": "EXCLUSIVE: Writer Adrian Cardenas is making his directorial debut with the film In An Orderly Fashion, which just completed production in Miami with Oscar Nu\u00f1ez (The Office, The Paper), Marlene Forte (The Rookie, Star Trek), Otmara Marrero (Florida Man, StartUp), and Vivian Ru...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nuez",
+        "Marlene",
+        "Forte",
+        "Otmara",
+        "Marrero",
+        "Vivian",
+        "Ruiz",
+        "Star",
+        "Adrian",
+        "Cardenas",
+        "Directorial",
+        "Debut",
+        "Orderly",
+        "Fashion"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Alabama Barker Details Estrangement From Brother Landon Barker",
       "link": "https://www.eonline.com/news/1437350/travis-barkers-daughter-alabama-estranged-feuding-with-brother-landon?cmpid=rss-syndicate-genericrss-us-top_stories",
@@ -42075,33 +42118,35 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "\u2018Narnia: The Magician\u2019s Nephew\u2019 Trailer Clocks Massive 481M+ First Week Views, More Than \u2018Barbie\u2019",
-      "link": "https://deadline.com/2026/10/narnia-the-magicians-nephew-trailer-viewership-1237169108/",
-      "source": "Deadline",
-      "timestamp": "2026-10-20T22:30:00+00:00",
-      "score": 17,
-      "summary": "EXCLUSIVE: We just got wind after the Netflix earnings call, that the viewership for the trailer of their mega wide theatrical release next year, Greta Gerwig\u2019s Narnia: The Magician\u2019s Nephew, garnered over 481.3M views in its first seven days. This is all per WaveMetrix. That ...",
+      "title": "Teen Vogue and Wattpad Launched Their New Romance Series with Tarot Readings and Zodiac-Inspired Looks",
+      "link": "https://www.vogue.com/slideshow/teen-vogue-wattpad-launch-party-mcnally-jackson",
+      "source": "Vogue",
+      "timestamp": "2026-10-21T23:19:22+00:00",
+      "score": 12,
+      "summary": "Teen Vogue hosted an astrology-themed bash at downtown bookstore McNally Jackson to celebrate the launch of I Saw The Signs, its original romance fiction series in partnership with Wattpad Books.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Entertainment",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Magicians",
-        "Nephew",
-        "Trailer",
-        "Clocks",
-        "Massive",
-        "First",
-        "Week",
-        "Views",
-        "More",
-        "Than",
-        "Barbie"
+        "Vogue",
+        "Wattpad",
+        "Launched",
+        "Their",
+        "New",
+        "Romance",
+        "Series",
+        "Tarot",
+        "Readings",
+        "ZodiacInspired",
+        "Looks"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -42110,15 +42155,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "Deadline"
+        "Vogue"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
+    },
     {
       "title": "The Frick Collection\u2019s Autumn Dinner Honored Architect Annabelle Selldorf",
       "link": "https://www.vogue.com/slideshow/the-frick-collection-autumn-dinner-2026",
@@ -46630,6 +46673,70 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.6 - 7 km NNE of Greenfield, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453106",
+      "source": "USGS",
+      "timestamp": "2026-10-21T23:27:23.249000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-21 23:04:26 UTC2026-10-21 23:04:26 UTC at epicenterLocation36.383\u00b0N 121.221\u00b0WDepth2.49 km (1.55 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Greenfield"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 3 km SW of Anderson Springs, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453111",
+      "source": "USGS",
+      "timestamp": "2026-10-21T23:22:19.415000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-21 23:20:45 UTC2026-10-21 23:20:45 UTC at epicenterLocation38.757\u00b0N 122.720\u00b0WDepth2.23 km (1.39 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Anderson",
+        "Springs"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Green forest fire notification in South Sudan",
       "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033024",
@@ -53092,72 +53199,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.0 - 80 km SSE of Sand Point, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/attn7cbt",
-      "source": "USGS",
-      "timestamp": "2026-10-20T10:45:33.314000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-20 10:40:41 UTC2026-10-20 10:40:41 UTC at epicenterLocation54.634\u00b0N 160.218\u00b0WDepth51.00 km (31.69 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Sand",
-        "Point",
-        "Alaska"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 18 km WSW of Delta, B.C., MX",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349663",
-      "source": "USGS",
-      "timestamp": "2026-10-20T09:44:52.860000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-20 09:41:28 UTC2026-10-20 09:41:28 UTC at epicenterLocation32.311\u00b0N 115.374\u00b0WDepth1.36 km (0.85 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Delta"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
