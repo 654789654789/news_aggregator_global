@@ -1,6 +1,40 @@
 {
   "Politics": [
     {
+      "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval",
+      "source": "NPR",
+      "timestamp": "2026-10-21T16:56:07-04:00",
+      "score": 12,
+      "summary": "A new poll shows record support for Democratic congressional candidates ahead of the midterms, as voters feel the party is better attuned to handling their top issues.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Voters",
+        "Congress",
+        "Trump",
+        "Democrats"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NPR"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Russia sending first diesel shipment to US on Thursday",
       "link": "https://thehill.com/policy/international/6163838-russia-to-ship-diesel-us/",
       "source": "The Hill",
@@ -6698,23 +6732,26 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Supreme Court recusals over books raise questions about policy",
-      "link": "https://www.npr.org/2026/10/20/nx-s1-6008040/supreme-court-recusals-over-books-raise-questions-about-policy",
-      "source": "NPR",
-      "timestamp": "2026-10-20T18:38:37-04:00",
-      "score": 14,
-      "summary": "A publishing dispute has highlighted the issue of recusals by Supreme Court justices. We take a look at the court's policy and its impact.",
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-21T20:57:40+00:00",
+      "score": 17,
+      "summary": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Court"
+        "Flapping",
+        "Airplanes"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6723,15 +6760,73 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "NPR"
+        "TechCrunch"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "New York\u2019s first microdrama film festival searches for its audience",
+      "link": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
+      "source": "Verge",
+      "timestamp": "2026-10-21T16:49:07-04:00",
+      "score": 12,
+      "summary": "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival. Founded by former Tribeca Festiv...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Yorks"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Verge"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Meta says it would\u2019ve made over $22 billion if it didn\u2019t have to pay a child safety settlement",
+      "link": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
+      "source": "Verge",
+      "timestamp": "2026-10-21T16:46:56-04:00",
+      "score": 13,
+      "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 bi...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Verge"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Trump Isn\u2019t Even Good at TV Anymore",
       "link": "https://www.wired.com/story/trump-isnt-even-good-at-tv-anymore/",
@@ -8637,7 +8732,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.4,
+      "trend_score": 8.3,
       "source_count": 13,
       "sources_reporting": [
         "Bloomberg",
@@ -8646,7 +8741,7 @@
         "TechCrunch",
         "Verge"
       ],
-      "trend_accel": "+67%",
+      "trend_accel": "+66%",
       "heat_level": "SURGING"
     },
     {
@@ -13091,100 +13186,46 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-16T14:00:00+00:00",
-      "score": 10,
-      "summary": "Counterfeits of luxury goods are a major problem for fashion houses. Counterfeiters are getting better at replicating brands\u2019 marks and passing off dupes, known as \u201csuperfakes,\u201d as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verif...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "iPhone Duo orders are already delayed into 2027",
-      "link": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
-      "source": "Verge",
-      "timestamp": "2026-10-16T09:10:11-04:00",
-      "score": 15,
-      "summary": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website. The foldable is slated to lau...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Duo"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Replit\u2019s CEO says the future of work is the \u2018self-driving company\u2019",
-      "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-16T12:55:09+00:00",
-      "score": 12,
-      "summary": "Replit CEO Amjad Masad envisions a future of \u201cself-driving companies,\u201d where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "CEO"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "World": [
+    {
+      "title": "Th\u00e9lyson Or\u00e9lien's Quebec Publisher Cuts Ties Over A.I. Accusations",
+      "link": "https://www.nytimes.com/2026/10/21/world/canada/thelyson-orelien-ai-publisher.html",
+      "source": "NYT",
+      "timestamp": "2026-10-21T20:47:34+00:00",
+      "score": 12,
+      "summary": "Th\u00e9lyson Or\u00e9lien, a celebrated novelist, used artificial intelligence while writing a breakout book, his publisher says.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Orliens",
+        "Quebec",
+        "Publisher",
+        "Cuts",
+        "Ties",
+        "Over",
+        "Accusations"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Video shows Israeli settler assaulting Palestinian child",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss",
@@ -19635,42 +19676,72 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
+    }
+  ],
+  "Business": [
+    {
+      "title": "7 healthcare stocks that stand out as investors pay up for the sector",
+      "link": "https://www.marketwatch.com/story/7-healthcare-stocks-that-stand-out-as-investors-pay-up-for-the-sector-d9b0c173?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-21T20:59:00+00:00",
+      "score": 15,
+      "summary": "Investors have pushed the healthcare sector to a record high, and some favored stocks have high projected revenue growth rates through 2028.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
     },
     {
-      "title": "Breaking: Lawyer tells court Brendan Nugent has rare neurological condition",
-      "link": "https://www.abc.net.au/news/2026-10-21/brendan-nugent-faces-court-over-alleged-attack-on-helen-haines/107291248",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-20T23:35:55+00:00",
+      "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
+      "link": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-21T20:55:19+00:00",
       "score": 12,
-      "summary": "The 43-year-old charged with three offences over the alleged attack on independent MP for Indi Helen Haines has appeared in Wangaratta Magistrates' Court.",
-      "country": "Australia",
-      "region": "Oceania",
+      "summary": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Lawyer",
-        "Brendan",
-        "Nugent"
+        "CEO",
+        "Krishna",
+        "Super",
+        "Intelligence"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
       "link": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
@@ -26198,19 +26269,21 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Novo's next-generation obesity drug shows 25% weight loss in women in late-stage analysis",
-      "link": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-20T12:50:24+00:00",
-      "score": 13,
-      "summary": "Novo released new evidence that its experimental CagriSema injection can improve upon the weight loss with its blockbuster GLP-1 obesity injection, Wegovy.",
+      "title": "Hearing laughter may cause orangutans to value rewards more",
+      "link": "https://phys.org/news/2026-10-laughter-orangutans-rewards.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-21T17:00:12-04:00",
+      "score": 10,
+      "summary": "A new study from Indiana University shows that being in a positive mood leads orangutans to value what they learned more strongly. The study comes from the lab of Erica Cartmill, professor of animal behavior, anthropology and cognitive science in the College of Arts and Scienc...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26221,33 +26294,30 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
     },
     {
-      "title": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
-      "link": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-20T12:45:30+00:00",
-      "score": 12,
-      "summary": "Best Buy is launching a new gaming experience for customers as it leans into the business ahead of this fall's big launches.",
+      "title": "El Ni\u00f1o is threatening California's fragile coast again\u2014the 1982\u201383 El Ni\u00f1o opened eyes to the serious erosion risks",
+      "link": "https://phys.org/news/2026-10-el-nio-threatening-california-fragile.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-21T17:00:07-04:00",
+      "score": 17,
+      "summary": "California's coastal bluffs and beaches look rugged, but they can be surprisingly fragile in the face of a powerful El Ni\u00f1o.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Buy",
-        "Zelda",
-        "Grand",
-        "Theft",
-        "Auto"
+        "Nio",
+        "Californias"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26256,15 +26326,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Japan's expensive funerals and declining birthrates are transforming ancestral traditions",
       "link": "https://phys.org/news/2026-10-japan-expensive-funerals-declining-birthrates.html",
@@ -32335,66 +32403,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Planting trees is not enough: Lasting climate benefits depend on land rights and livelihoods",
-      "link": "https://phys.org/news/2026-10-trees-climate-benefits-rights-livelihoods.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-19T17:40:01-04:00",
-      "score": 12,
-      "summary": "A new LMU study shows that three-quarters of the estimated global potential for new forests to capture CO\u2082 is threatened by significant social and institutional challenges.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lasting"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Expanded earned income tax credit improved housing security for childless young adults",
-      "link": "https://phys.org/news/2026-10-income-tax-credit-housing-childless.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-19T17:20:07-04:00",
-      "score": 10,
-      "summary": "A temporary expansion to the earned income tax credit improved housing security for young workers who don't have children, a new study shows.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33842,6 +33850,45 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Maeve Touhey, Ta\u2019imua & Freddie O\u2019Donahue Join Disney+ Pilot \u2018Spaceship Earth\u2019",
+      "link": "https://deadline.com/2026/10/spaceship-earth-pilot-cast-maeve-touhey-taimua-1237170119/",
+      "source": "Deadline",
+      "timestamp": "2026-10-21T20:54:32+00:00",
+      "score": 12,
+      "summary": "EXCLUSIVE: Three have joined Disney+\u2019s Spaceship Earth pilot to fill out remaining series regular roles: Up-and-comers Maeve Touhey, Ta\u2019imua, and Freddie O\u2019Donahue, who are set to star alongside the previously announced Catherine Laga\u2019aia and Deacon Phillippe. Character detail...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Touhey",
+        "Taimua",
+        "Freddie",
+        "ODonahue",
+        "Join",
+        "Disney",
+        "Pilot",
+        "Spaceship",
+        "Earth"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Taraji P. Henson Encourages Artists To \u2018Knock Down\u2019 Walls, Sarah Finn Celebrates Casting Community & More At 2026 Newport Beach Film Festival Honors",
       "link": "https://deadline.com/2026/10/newport-beach-film-festival-2026-honors-brunch-1237170107/",
@@ -38699,7 +38746,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 18,
       "sources_reporting": [
         "Bloomberg",
@@ -38709,7 +38756,7 @@
         "THR",
         "Variety"
       ],
-      "trend_accel": "+86%",
+      "trend_accel": "+85%",
       "heat_level": "CRITICAL"
     },
     {
@@ -41882,53 +41929,6 @@
         "Deadline"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018NCIS: Origins\u2019 Producer on the Show\u2019s Historic Mark Harmon/Michael Weatherly Reunion: \u2018It Was a Special Day in My Life, Seeing That Happen After a Decade\u2019",
-      "link": "https://variety.com/2026/tv/news/ncis-origins-mark-harmon-michael-weatherly-reunion-producer-1236917961/",
-      "source": "Variety",
-      "timestamp": "2026-10-20T20:30:35+00:00",
-      "score": 12,
-      "summary": "When the characters of Jethro Gibbs and Tony DiNozzo reunite for the first time in a decade in Tuesday night\u2019s episode of \u201cNCIS: Origins,\u201d there will be no head slaps \u2014 something that may disappoint a few original \u201cNCIS\u201d but will probably be a relief to most. After all, there\u2019...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Origins",
-        "Producer",
-        "Shows",
-        "Historic",
-        "Mark",
-        "HarmonMichael",
-        "Weatherly",
-        "Reunion",
-        "Was",
-        "Special",
-        "Day",
-        "Life",
-        "Seeing",
-        "That",
-        "Happen",
-        "After",
-        "Decade"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ],
@@ -46368,6 +46368,112 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 4.8 - 81 km NNW of Khorixas, Namibia",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u3y1",
+      "source": "USGS",
+      "timestamp": "2026-10-21T20:54:58.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-21 20:34:49 UTC2026-10-21 20:34:49 UTC at epicenterLocation19.721\u00b0S 14.599\u00b0EDepth4.90 km (3.05 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Khorixas",
+        "Namibia"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Subtropical Storm Josephine Public Advisory Number 1",
+      "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/212046.shtml",
+      "source": "NHC",
+      "timestamp": "2026-10-21T20:46:59+00:00",
+      "score": 15,
+      "summary": "Issued at 500 PM AST Wed Oct 21 2026 000 WTNT35 KNHC 212046 TCPAT5 BULLETIN Subtropical Storm Josephine Advisory Number 1 NWS National Hurricane Center Miami FL AL102026 500 PM AST Wed Oct 21 2026 ...SUBTROPICAL STORM JOSEPHINE FORMS... ...FORECAST TO MOVE NORTHEASTWARD AWAY F...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Storm",
+        "Josephine",
+        "Public",
+        "Advisory",
+        "Number"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NHC"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Summary for Subtropical Storm Josephine (AT5/AL102026)",
+      "link": "https://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/212046.shtml",
+      "source": "NHC",
+      "timestamp": "2026-10-21T20:46:59+00:00",
+      "score": 15,
+      "summary": "...SUBTROPICAL STORM JOSEPHINE FORMS... ...FORECAST TO MOVE NORTHEASTWARD AWAY FROM THE UNITED STATES... As of 5:00 PM AST Wed Oct 21 the center of Josephine was located near 37.4, -69.5 with movement N at 6 mph. The minimum central pressure was 990 mb with maximum sustained w...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Subtropical",
+        "Storm",
+        "Josephine",
+        "ATAL"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NHC"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 2.6 - 70 km N of Petersville, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uwtlhl",
@@ -52784,103 +52890,6 @@
         "USGS"
       ],
       "trend_accel": "+60%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.8 - 39 km SSW of Qualeys Camp, NV",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452411",
-      "source": "USGS",
-      "timestamp": "2026-10-20T07:57:57.110000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-20 07:52:08 UTC2026-10-20 07:52:08 UTC at epicenterLocation37.976\u00b0N 118.669\u00b0WDepth11.33 km (7.04 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Qualeys",
-        "Camp"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.6 - 16 km ESE of Julian, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41349615",
-      "source": "USGS",
-      "timestamp": "2026-10-20T07:51:25.444000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-20 07:47:57 UTC2026-10-20 07:47:57 UTC at epicenterLocation33.028\u00b0N 116.437\u00b0WDepth8.14 km (5.06 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Julian"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.1 - 80 km WNW of Ferndale, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75452406",
-      "source": "USGS",
-      "timestamp": "2026-10-20T07:41:06.512000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-20 07:39:03 UTC2026-10-20 07:39:03 UTC at epicenterLocation40.881\u00b0N 125.130\u00b0WDepth4.63 km (2.88 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Ferndale"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ]
