@@ -4087,7 +4087,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 8.7,
+      "trend_score": 8.6,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -13100,6 +13100,35 @@
   ],
   "World": [
     {
+      "title": "NSW's second-largest national park created to protect koalas",
+      "link": "https://www.abc.net.au/news/2026-10-23/great-koala-national-park-legislation-passed/107296314",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-23T05:01:59+00:00",
+      "score": 10,
+      "summary": "Spanning from Coffs Harbour to Kempsey, New South Wales's second-largest national park has been created after years of campaigning to protect koalas and their habitat.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Jim Chalmers faces a world of hard choices where the solution to one problem makes the other worse",
       "link": "https://www.theguardian.com/business/2026/oct/23/jim-chalmers-hard-choices-economy-inflation-unemployment",
       "source": "Guardian",
@@ -19637,24 +19666,31 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "French city of Lyon bans \u2018all protests\u2019 on October 24",
-      "link": "https://www.thehindu.com/news/international/french-city-of-lyon-bans-all-protests-on-october-24/article71611024.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-22T15:47:30+05:30",
-      "score": 15,
-      "summary": "The mayor of Lyon, Gregory Doucet, has said that his city experienced hours of \u201cchaos\u201d during the riots, with between 150 and 200 shops looted and a tourist office torched",
-      "country": "France",
-      "region": "Europe",
+      "title": "Top stocks to buy: IT stocks soar! TCS, Infosys, HCL Tech, Wipro - Nifty IT up over 3% today, jumps 22% from July low",
+      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-it-stocks-soar-tcs-infosys-hcl-tech-wipro-nifty-it-up-over-3-today-jumps-22-from-july-low-11792729456440.html",
+      "source": "Livemint",
+      "timestamp": "2026-10-23T10:34:05+05:30",
+      "score": 17,
+      "summary": "Indian IT stocks rallied after stronger-than-expected September-quarter results eased concerns about demand and AI disruption. The Nifty IT index rose as much as 3.3%, though analysts say sustained gains depend on revenue growth, earnings delivery and AI spending.&nbsp;",
+      "country": "India",
+      "region": "South Asia",
       "source_type": "Newspaper",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Lyon",
-        "October"
+        "TCS",
+        "Infosys",
+        "HCL",
+        "Tech",
+        "Wipro",
+        "Nifty",
+        "July"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19663,15 +19699,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "Livemint"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Stock futures trade mixed after tech sector sell-off: Live updates",
       "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
@@ -26296,23 +26330,58 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "SpaceX gives the AI trade a shot in the arm. What it means for our stocks",
-      "link": "https://www.cnbc.com/investingclub/2026/10/21/spacex-gives-the-ai-trade-a-shot-in-the-arm-what-it-means-for-our-stocks-.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-21T19:01:23+00:00",
-      "score": 14,
-      "summary": "SpaceX indicated there's been no slowdown in demand for AI computing.",
-      "country": "US",
-      "region": "Americas",
+      "title": "'Shock' of first England farmer hit by bird flu this season",
+      "link": "https://www.bbc.co.uk/news/articles/crpdg235g76no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-23T05:10:30+00:00",
+      "score": 12,
+      "summary": "The first farmer in England hit by bird flu this season tells of the \"emotional roller coaster\" of losing 32,000 hens.",
+      "country": "UK",
+      "region": "Europe",
       "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "trust_score": 9,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "What"
+        "England"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+      "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-23T05:05:03+00:00",
+      "score": 12,
+      "summary": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Planet",
+        "III",
+        "Moment"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26323,13 +26392,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "CNBC"
+        "BBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Mother bats' hearts beat faster at the sound of their own babies' cries",
       "link": "https://phys.org/news/2026-10-mother-hearts-faster-babies-cries.html",
@@ -31407,7 +31474,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.3,
+      "trend_score": 8.2,
       "source_count": 10,
       "sources_reporting": [
         "Bloomberg",
@@ -32409,64 +32476,6 @@
         "Phys.org"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Massive wasps' nest in wildlife office dismantled",
-      "link": "https://www.bbc.co.uk/news/articles/cwx28pkn8p8yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-21T05:35:38+00:00",
-      "score": 10,
-      "summary": "The insects lived in a nature reserve office for four months.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Estate records 'abundance' of wildlife despite drought",
-      "link": "https://www.bbc.co.uk/news/articles/crgqw4lg3y83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-21T05:25:33+00:00",
-      "score": 10,
-      "summary": "Wimpole's \"long-term approach to nature recovery\" has seen more than 5,000 species recorded.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ],
@@ -46790,6 +46799,106 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 2.1 - 63 km SW of Cantwell, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzgoxm",
+      "source": "USGS",
+      "timestamp": "2026-10-23T05:06:52.592000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-23 05:04:19 UTC2026-10-23 05:04:19 UTC at epicenterLocation63.078\u00b0N 150.002\u00b0WDepth85.70 km (53.25 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cantwell",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 23 km SSE of Clam Gulch, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzgogo",
+      "source": "USGS",
+      "timestamp": "2026-10-23T05:05:52.341000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-23 05:04:16 UTC2026-10-23 05:04:16 UTC at epicenterLocation60.041\u00b0N 151.226\u00b0WDepth27.20 km (16.90 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Clam",
+        "Gulch",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.7 - 95 km ESE of King Salmon, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzgnmj",
+      "source": "USGS",
+      "timestamp": "2026-10-23T05:02:56.446000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-23 05:02:08 UTC2026-10-23 05:02:08 UTC at epicenterLocation58.368\u00b0N 155.135\u00b0WDepth6.80 km (4.23 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "King",
+        "Salmon",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.1 - 3 km SW of Redlands, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350887",
       "source": "USGS",
@@ -53215,100 +53324,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Mozambique",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033029",
-      "source": "GDACS",
-      "timestamp": "2026-10-22T03:05:45+00:00",
-      "score": 12,
-      "summary": "On 18/10/2026, a forest fire started in Mozambique, until 21/10/2026.",
-      "country": "EU",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mozambique"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+60%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Madagascar",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033028",
-      "source": "GDACS",
-      "timestamp": "2026-10-22T03:03:36+00:00",
-      "score": 12,
-      "summary": "On 19/10/2026, a forest fire started in Madagascar, until 21/10/2026.",
-      "country": "EU",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Madagascar"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Burkina Faso",
-      "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033027",
-      "source": "GDACS",
-      "timestamp": "2026-10-22T03:03:04+00:00",
-      "score": 12,
-      "summary": "On 19/10/2026, a forest fire started in Burkina Faso, until 21/10/2026.",
-      "country": "EU",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Burkina",
-        "Faso"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+58%",
       "heat_level": "LOW"
     }
   ]
