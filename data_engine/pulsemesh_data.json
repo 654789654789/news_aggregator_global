@@ -166,7 +166,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.6,
+      "trend_score": 8.5,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -175,7 +175,7 @@
         "PBS",
         "The Hill"
       ],
-      "trend_accel": "+74%",
+      "trend_accel": "+73%",
       "heat_level": "SURGING"
     },
     {
@@ -6611,6 +6611,39 @@
   ],
   "Tech": [
     {
+      "title": "Mark Zuckerberg\u2019s creative plan to pay California\u2019s proposed billionaire tax without losing control of Meta",
+      "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-22T23:50:41+00:00",
+      "score": 14,
+      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Zuckerbergs",
+        "Californias",
+        "Meta"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
       "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
       "source": "TechCrunch",
@@ -13035,24 +13068,56 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Huge DMV data breach impacted current and former Florida residents",
-      "link": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
-      "source": "Ars",
-      "timestamp": "2026-10-19T16:38:13+00:00",
-      "score": 12,
-      "summary": "Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Dozens arrested over illegal casino operations, drug trafficking",
+      "link": "https://www.abc.net.au/news/2026-10-23/dozens-arrested-over-illegal-casinos-drug-manufacturing/107300172",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-22T23:57:32+00:00",
+      "score": 10,
+      "summary": "Police arrest 29 people after uncovering two illegal casinos operating in Melbourne's eastern suburbs, as part of a wider investigation into alleged drug manufacturing.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Deadly fire at Canadian military base caused by live grenade exercise",
+      "link": "https://www.abc.net.au/news/2026-10-23/deadly-fire-at-canadian-military-base-caused-by-grenade-exercise/107300328",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-22T23:56:16+00:00",
+      "score": 12,
+      "summary": "A fast-moving fire that killed at least four soldiers at a Canadian military base was sparked by a live grenade exercise, defence officials have confirmed.",
+      "country": "Canada",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
       "entities": [
-        "DMV",
-        "Florida"
+        "Canadian"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13063,13 +13128,75 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Ars"
+        "ABC Australia"
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Australia offers astronaut Katherine Bennell-Pegg for space mission to International Space Station",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/23/australian-astronaut-katherine-bennell-pegg-2028-space-mission",
+      "source": "Guardian",
+      "timestamp": "2026-10-22T23:51:24+00:00",
+      "score": 12,
+      "summary": "Australian of the Year would become the first astronaut in space to qualify under the Australian flag if she embarks on the 2028 missionGet our breaking news email, free app or daily news podcastThe federal government has sent an offer to the European Space Agency (ESA) to sen...",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Katherine",
+        "BennellPegg",
+        "International",
+        "Space",
+        "Station"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Companies cutting jobs as investments shift toward AI",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTzk5bDFrWVpNb3dlZ1ZMR2ZhU1NYTkJYRzh2c3JXWHcwQVBVNDhtLUo3QU1XNGFXU3kzZWFvdjdEMnd3TDc4eTI2T2NXemhfcEg5U0dISVRBRE9RUW0yMngyQy1tOXFfZ1kyZUhCa2JoOVBWcm55QWVXekVnWC1HUmw3WmI1Mm9MUE1yNEUyeXZhOXpXMnlWSzZIX3AxMHpYdjBEcXZZQmhwR2lKc2c?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-10-22T23:47:17+00:00",
+      "score": 14,
+      "summary": "Companies cutting jobs as investments shift toward AI Reuters",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Breaking: Family rift among lines of inquiry for police investigating Brendan Nugent",
       "link": "https://www.abc.net.au/news/2026-10-23/helen-haines-police-inquiries-commissioner/107299604",
@@ -19517,132 +19644,6 @@
         "Times of India"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "North Korea says it will resume propaganda broadcasts across border into South Korea",
-      "link": "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts",
-      "source": "NPR",
-      "timestamp": "2026-10-22T02:36:07-04:00",
-      "score": 12,
-      "summary": "North Korea plans to resume anti-Seoul propaganda broadcasts along the heavily armed border with South Korea, leader Kim Jong Un's sister said, reviving a psychological warfare campaign.",
-      "country": "South Korea",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Korea",
-        "South"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NPR"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Mariska Hargitay helped fund Detroit rape kit tests; 263 convictions by 2025",
-      "link": "https://timesofindia.indiatimes.com/world/us/mariska-hargitay-helped-fund-detroits-effort-to-test-abandoned-sexual-assault-kits-by-april-2025-the-wider-project-had-secured-263-convictions-as-investigations-continued-across-decades/articleshow/135071488.cms",
-      "source": "Times of India",
-      "timestamp": "2026-10-22T12:05:31+05:30",
-      "score": 15,
-      "summary": "American actress Mariska Hargitay helped support a project to test 11,341 sexual assault evidence kits discovered in a Detroit police warehouse in 2009. The kits had remained untested for years, with cases dating back to 1984. Led by Wayne County Prosecutor Kym Worthy, the ini...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hargitay",
-        "Detroit"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Lincoln's signed photo found in old desk later sold for $149,020",
-      "link": "https://timesofindia.indiatimes.com/world/us/in-1864-abraham-lincoln-donated-a-signed-photograph-to-help-union-soldiers-families-generations-later-it-surfaced-in-an-old-desk-with-a-forgotten-newspaper-clipping-and-sold-for-149020-at-auction/articleshow/135075675.cms",
-      "source": "Times of India",
-      "timestamp": "2026-10-22T12:05:07+05:30",
-      "score": 13,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Helen Haines remains critical, three days after car attack",
-      "link": "https://www.abc.net.au/news/2026-10-22/helen-haines-three-days-since-attack/107297946",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-22T06:22:53+00:00",
-      "score": 14,
-      "summary": "Floral tributes have continued to be added outside Ms Haines's Wangaratta office, with grief still raw among local and interstate visitors alike.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Haines"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -26284,6 +26285,38 @@
   ],
   "Science": [
     {
+      "title": "Acupuncture and mutual exchange in Chinese and Soviet science",
+      "link": "https://phys.org/news/2026-10-acupuncture-mutual-exchange-chinese-soviet.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-22T20:00:05-04:00",
+      "score": 12,
+      "summary": "Previous accounts of the scientific relationship between communist China and the Soviet Union have depicted it as one of subordination, with the Russians exporting knowledge to the Chinese or scavenging from their bodies of knowledge. A new article in Isis, however, posits tha...",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Chinese",
+        "Soviet"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Light-activated catalyst makes sustainable production of hydrogen peroxide more efficient",
       "link": "https://phys.org/news/2026-10-catalyst-sustainable-production-hydrogen-peroxide.html",
       "source": "Phys.org",
@@ -32387,37 +32420,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Shortening Canadian teacher education risks devaluing the profession of teaching",
-      "link": "https://phys.org/news/2026-10-shortening-canadian-teacher-devaluing.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-20T20:40:09-04:00",
-      "score": 12,
-      "summary": "Recently, shorter teacher certification programs have been introduced in different Canadian provinces. These programs are being implemented in Alberta, Nova Scotia, Ontario and Qu\u00e9bec.",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Canadian"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33944,6 +33946,47 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Charli XCX to Cameo in Martin Scorsese\u2019s New Horror Film With Leonardo DiCaprio, Jennifer Lawrence",
+      "link": "https://www.rollingstone.com/music/music-news/charli-xcx-martin-scorsese-horror-film-1235646987/",
+      "source": "Rolling Stone",
+      "timestamp": "2026-10-22T23:58:03+00:00",
+      "score": 12,
+      "summary": "The artist will feature in the gothic film based on Peter Cameron's novel, What Happens at Night",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "XCX",
+        "Cameo",
+        "Martin",
+        "Scorseses",
+        "New",
+        "Horror",
+        "Film",
+        "Leonardo",
+        "DiCaprio",
+        "Jennifer",
+        "Lawrence"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Rolling Stone"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Michael Gray, Star of \u2018Shazam!\u2019 TV Series, Dies at 75",
       "link": "https://variety.com/2026/tv/people-news/michael-gray-dead-shazam-1236921937/",
@@ -41878,46 +41921,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Meta Ordered To Pay New Mexico $25 Billion For Deceiving Facebook Users About Privacy",
-      "link": "https://deadline.com/2026/10/meta-facebook-penalty-new-mexico-cambridge-analytica-1237170258/",
-      "source": "Deadline",
-      "timestamp": "2026-10-21T23:49:47+00:00",
-      "score": 15,
-      "summary": "A judge in New Mexico has ordered Meta to pay $25 billion in civil penalties for deceiving users about privacy on Facebook. The ruling Wednesday by state District Court Judge Francis J. Mathew came in the state\u2019s landmark Cambridge Analytica case against Facebook for violation...",
-      "country": "Mexico",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ordered",
-        "Pay",
-        "New",
-        "Mexico",
-        "Billion",
-        "Deceiving",
-        "Facebook",
-        "Users",
-        "About",
-        "Privacy"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -46529,6 +46532,38 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.0 - 16 km NNE of Indio, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41350823",
+      "source": "USGS",
+      "timestamp": "2026-10-22T23:57:20.201000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-22 23:53:56 UTC2026-10-22 23:53:56 UTC at epicenterLocation33.847\u00b0N 116.131\u00b0WDepth2.57 km (1.60 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Indio"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.7 - 6 km NW of The Geysers, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453636",
@@ -53045,41 +53080,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 14 km N of Summit Park, Utah",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80161266",
-      "source": "USGS",
-      "timestamp": "2026-10-21T21:29:12.974000+00:00",
-      "score": 17,
-      "summary": "ShakeMap - III DYFI? - ITime2026-10-21 21:05:50 UTC2026-10-21 21:05:50 UTC at epicenterLocation40.880\u00b0N 111.603\u00b0WDepth6.57 km (4.08 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Summit",
-        "Park",
-        "Utah"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
