@@ -1452,7 +1452,7 @@
       "language": "en",
       "breaking": true,
       "trending": true,
-      "trend_score": 8.9,
+      "trend_score": 8.8,
       "source_count": 11,
       "sources_reporting": [
         "BBC",
@@ -6640,6 +6640,40 @@
   ],
   "Tech": [
     {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-23T04:00:00+00:00",
+      "score": 17,
+      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Central",
+        "Asia",
+        "Ponyai",
+        "Nvidia"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Left alone with nothing to do, AI agents started playing",
       "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
       "source": "TechCrunch",
@@ -9440,7 +9474,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.7,
+      "trend_score": 10.6,
       "source_count": 15,
       "sources_reporting": [
         "Bloomberg",
@@ -13062,40 +13096,51 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
-      "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-19T18:00:39+00:00",
-      "score": 14,
-      "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+      "title": "Powerful Earthquake in Tibet Kills at Least 16",
+      "link": "https://www.nytimes.com/2026/10/22/world/asia/earthquake-tibet-china.html",
+      "source": "NYT",
+      "timestamp": "2026-10-23T03:56:56+00:00",
+      "score": 15,
+      "summary": "Dozens were injured and more than 300 homes were toppled by the 7.0-magnitude quake, which sent residents fleeing into the cold night air, state media said.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Seismic"
+      ],
       "entities": [
-        "Town"
+        "Earthquake",
+        "Tibet",
+        "Kills",
+        "Least"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 11.4,
+      "source_count": 20,
       "sources_reporting": [
-        "TechCrunch"
+        "BBC",
+        "Bloomberg",
+        "CBC News",
+        "NPR",
+        "NYT",
+        "Reuters",
+        "The Hindu"
       ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    }
-  ],
-  "World": [
+      "trend_accel": "+86%",
+      "heat_level": "CRITICAL"
+    },
     {
       "title": "Tibet earthquake LIVE | Injuries in Tibet rise to 65 after 7.0 earthquake, death toll at 16",
       "link": "https://www.thehindu.com/news/international/70-magnitude-earthquake-hit-chinas-tibet-region-killing-many/article71613335.ece",
@@ -13888,14 +13933,20 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 11.3,
+      "source_count": 12,
       "sources_reporting": [
-        "CBC News"
+        "AP",
+        "BBC",
+        "CBC News",
+        "France24",
+        "NPR",
+        "NYT",
+        "Reuters"
       ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
+      "trend_accel": "+85%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Massive student-led rally marches in Belgrade ahead of Serbian election",
@@ -16339,8 +16390,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "ABC Australia",
@@ -18312,8 +18363,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.0,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "BBC",
@@ -19621,38 +19672,6 @@
         "Guardian"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes",
-      "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-22T09:06:48+00:00",
-      "score": 14,
-      "summary": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "New",
-        "Yorkers"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -26322,6 +26341,67 @@
   ],
   "Science": [
     {
+      "title": "Mother bats' hearts beat faster at the sound of their own babies' cries",
+      "link": "https://phys.org/news/2026-10-mother-hearts-faster-babies-cries.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-23T00:00:01-04:00",
+      "score": 10,
+      "summary": "A mother bat has one crucial challenge: find her own babies among hundreds of other bats in the colony. Making sure she cares for and nurses only her own offspring is important to ensuring their survival. Among Japanese house bats, mothers keep track of their pups using the ba...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "A ferocious El Ni\u00f1o is brewing thanks to record Pacific heat",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/a-ferocious-el-nino-is-brewing-thanks-to-record-pacific-heat/article71610222.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-10-23T09:19:29+05:30",
+      "score": 12,
+      "summary": "Since the modern era of instrumental records began, there have only been three very strong El Ni\u00f1o events, in 2015-16, 1997-98, and 1982-83, with the three-month averages of the temperature anomaly being 2.6\u00b0, 2.4\u00b0, and 2.1\u00b0C, respectively. The 2026-27 El Ni\u00f1o is projected to ...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nio",
+        "Pacific"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
       "link": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
       "source": "SciDaily",
@@ -27406,7 +27486,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.5,
+      "trend_score": 8.4,
       "source_count": 11,
       "sources_reporting": [
         "Guardian",
@@ -32398,66 +32478,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Farmer lost out by minutes in race for wildlife funding",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qznp3gdvdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-21T05:23:26+00:00",
-      "score": 10,
-      "summary": "Richard Peace is among thousands of farmers who missed out as funding was snapped up in hours.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
-      "link": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-21T04:44:56+00:00",
-      "score": 12,
-      "summary": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Windermeres"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32571,7 +32591,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.8,
+      "trend_score": 6.7,
       "source_count": 9,
       "sources_reporting": [
         "AP",
@@ -32579,7 +32599,7 @@
         "Google News",
         "PBS"
       ],
-      "trend_accel": "+66%",
+      "trend_accel": "+65%",
       "heat_level": "HOT"
     },
     {
@@ -44028,7 +44048,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.5,
+      "trend_score": 7.4,
       "source_count": 15,
       "sources_reporting": [
         "GQ",
@@ -46667,6 +46687,71 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.7 - 72 km SSE of Perryville, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzeduo",
+      "source": "USGS",
+      "timestamp": "2026-10-23T03:51:57.980000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-23 03:50:49 UTC2026-10-23 03:50:49 UTC at epicenterLocation55.272\u00b0N 158.893\u00b0WDepth23.50 km (14.60 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Perryville",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.1 - 45 km NW of Tatitlek, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzebdw",
+      "source": "USGS",
+      "timestamp": "2026-10-23T03:51:02.332000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-23 03:48:07 UTC2026-10-23 03:48:07 UTC at epicenterLocation61.174\u00b0N 147.235\u00b0WDepth21.30 km (13.24 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tatitlek",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 0.3 - 66 km ENE of Pedro Bay, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026uzdyhc",
@@ -53167,69 +53252,6 @@
         "USGS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.2 - 27 km E of Honaunau-Napoopoo, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75061946",
-      "source": "USGS",
-      "timestamp": "2026-10-22T01:50:58.360000+00:00",
-      "score": 17,
-      "summary": "Time2026-10-22 01:47:31 UTC2026-10-22 01:47:31 UTC at epicenterLocation19.486\u00b0N 155.604\u00b0WDepth33.32 km (20.70 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "HonaunauNapoopoo",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 14 km SE of Petrolia, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75453191",
-      "source": "USGS",
-      "timestamp": "2026-10-22T01:45:28.893000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-22 01:43:51 UTC2026-10-22 01:43:51 UTC at epicenterLocation40.236\u00b0N 124.163\u00b0WDepth13.53 km (8.41 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Petrolia"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
