@@ -9988,7 +9988,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.0,
+      "trend_score": 9.9,
       "source_count": 18,
       "sources_reporting": [
         "AP",
@@ -9998,7 +9998,7 @@
         "TechCrunch",
         "Verge"
       ],
-      "trend_accel": "+83%",
+      "trend_accel": "+82%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13111,6 +13111,42 @@
     }
   ],
   "World": [
+    {
+      "title": "'Ignore strike calls': LPG distributor body ahead of Rahul Gandhi's rally in Delhi",
+      "link": "https://timesofindia.indiatimes.com/india/ignore-strike-calls-lpg-distributor-body-ahead-of-rahul-gandhis-rally-in-delhi/articleshow/135182318.cms",
+      "source": "Times of India",
+      "timestamp": "2026-10-25T08:55:17+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "LPG",
+        "Rahul",
+        "Gandhis",
+        "Delhi"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Military ups death toll in Mali attack to 54",
       "link": "https://www.thehindu.com/news/international/military-ups-death-toll-in-mali-attack-to-54/article71622485.ece",
@@ -19731,22 +19767,33 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Rediscovering civility, respect and the art of disagreeing well",
-      "link": "https://www.abc.net.au/news/2026-10-24/helen-haines-public-discourse-civility-respect-disagreeing/107301488",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-24T00:58:11+00:00",
-      "score": 10,
-      "summary": "The attack on federal MP Helen Haines has Australians contemplating the state of our public and political discourse. Experts explain how to respectfully disagree with someone.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
+      "title": "For Clues About How A.I. Will Change Work, Look to the Past",
+      "link": "https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html",
+      "source": "NYT",
+      "timestamp": "2026-10-25T03:18:02+00:00",
+      "score": 12,
+      "summary": "Economists hope earlier episodes of labor disruption, from the Industrial Revolution to the Great Depression, can help us prepare for the age of artificial intelligence.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
       "trust_score": 9,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Clues",
+        "About",
+        "How",
+        "Will",
+        "Change",
+        "Work",
+        "Look",
+        "Past"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19754,15 +19801,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "ABC Australia"
+        "NYT"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Trump announces Audi will build $4 billion U.S. factory in Georgia",
       "link": "https://www.cnbc.com/2026/10/24/trump-audi-factory-georgia.html",
@@ -21909,7 +21954,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.1,
+      "trend_score": 9.0,
       "source_count": 18,
       "sources_reporting": [
         "Bloomberg",
@@ -26425,35 +26470,6 @@
         "CNBC"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
-      "link": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-22T17:48:43+00:00",
-      "score": 17,
-      "summary": "Prices for the social media giant's five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
@@ -34337,6 +34353,53 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018KPop Demon Hunters,\u2019 \u2018Squid Game\u2019 Stars Fete Netflix\u2019s Korea Decade as Ted Sarandos Teases \u2018Tantara,\u2019 \u2018All of Us Are Dead\u2019 Season 2",
+      "link": "https://variety.com/2026/tv/news/kpop-demon-hunters-squid-game-stars-netflix-korea-decade-1236930528/",
+      "source": "Variety",
+      "timestamp": "2026-10-25T03:21:03+00:00",
+      "score": 15,
+      "summary": "Stars of \u201cSquid Game\u201d and \u201cKPop Demon Hunters\u201d took the stage in Seoul on Oct. 24 as Netflix celebrated 10 years in Korea with a fan festival, where co-CEO Ted Sarandos previewed upcoming titles including \u201cTantara\u201d and \u201cAll of Us Are Dead\u201d Season 2. \u201cSquid Game\u201d was represente...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Demon",
+        "Hunters",
+        "Squid",
+        "Game",
+        "Stars",
+        "Fete",
+        "Netflixs",
+        "Korea",
+        "Decade",
+        "Ted",
+        "Sarandos",
+        "Teases",
+        "Tantara",
+        "All",
+        "Are",
+        "Dead",
+        "Season"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Nobody Wants This\u2019 Creator Erin Foster Has \u201cMore Story To Tell\u201d With A Season 4, But Isn\u2019t Getting \u201cToo Attached\u201d",
       "link": "https://deadline.com/2026/10/nobody-wants-this-erin-foster-more-story-to-tell-season-4-1237172691/",
@@ -42398,51 +42461,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "France Riots Put Hollywood Shoots on Alert as Curfews Disrupt Movie Theaters: It \u2018Has Now Been Flagged as a Problem Area\u2019",
-      "link": "https://variety.com/2026/film/global/france-riots-hollywood-shoots-alert-theaters-curfew-1236921624/",
-      "source": "Variety",
-      "timestamp": "2026-10-23T12:01:43+00:00",
-      "score": 12,
-      "summary": "In the same year that France has hosted two of television\u2019s most glamorous and escapist international hits \u2014 the final season of Netflix\u2019s \u201cEmily in Paris\u201d and Season 4 of HBO\u2019s \u201cThe White Lotus\u201d \u2014 the country has been shaken by one of its most violent waves of rioting in deca...",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Riots",
-        "Put",
-        "Hollywood",
-        "Shoots",
-        "Alert",
-        "Curfews",
-        "Disrupt",
-        "Movie",
-        "Theaters",
-        "Has",
-        "Now",
-        "Been",
-        "Flagged",
-        "Problem",
-        "Area"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -46748,6 +46766,40 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.8 - 14 km SSE of Fern Forest, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063441",
+      "source": "USGS",
+      "timestamp": "2026-10-25T03:22:19.760000+00:00",
+      "score": 17,
+      "summary": "Time2026-10-25 03:18:55 UTC2026-10-25 03:18:55 UTC at epicenterLocation19.343\u00b0N 155.097\u00b0WDepth-0.11 km (-0.07 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Fern",
+        "Forest",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+62%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.7 - 4 km SSW of Muir Beach, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75454516",
@@ -53232,39 +53284,6 @@
         "GDACS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 33 km SSE of Volcano, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75063046",
-      "source": "USGS",
-      "timestamp": "2026-10-23T23:00:46.380000+00:00",
-      "score": 17,
-      "summary": "Time2026-10-23 22:57:18 UTC2026-10-23 22:57:18 UTC at epicenterLocation19.160\u00b0N 155.130\u00b0WDepth37.98 km (23.60 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Volcano",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
