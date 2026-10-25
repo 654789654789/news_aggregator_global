@@ -19165,7 +19165,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 11,
       "sources_reporting": [
         "ABC Australia",
@@ -19175,7 +19175,7 @@
         "NPR",
         "NYT"
       ],
-      "trend_accel": "+85%",
+      "trend_accel": "+84%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19725,6 +19725,38 @@
     }
   ],
   "Business": [
+    {
+      "title": "Lula, Bolsonaro rally supporters on final day before Brazil presidential runoff",
+      "link": "https://www.cnbc.com/2026/10/25/lula-bolsonaro-rally-supporters-before-brazil-presidential-runoff.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-25T08:48:04+00:00",
+      "score": 12,
+      "summary": "The two candidates have remained neck and neck in polls following a stronger-than-expected performance by the right-wing senator in the first round.",
+      "country": "Brazil",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bolsonaro",
+        "Brazil"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Exclusive | JetBlue Creditors Hire Advisers as Airline\u2019s Shares, Bonds Sink",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGNXMUZPOXJzRVEySm1hY2trdEJ5MGhJWlN0eUlPLU11WEZSTlJ5WG16TFdLQjg2aU43bDZRakRBYXJTb2hKZ3pyQmRBNFBfLUx0Mlh5UDZDN1JjWHF0alUyamwyVEt2bExqZjN0VW81NjYtNnlwLUpyTTZSdHRHWU9GNFVCTHhHSnNjZTRVcHhTTnFiQ1MwZk54MnRpUzVnSDlXZG1Dc0RUMkpEb2lPY2JNcnpIZFk?oc=5",
@@ -26402,26 +26434,28 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Tesla, Meta, IBM: 3 earnings call shout-outs that left us thinking - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN0hXN0VfZEZvaWVHUFU4T09NSUVINjgyZkxOYmdnMW0yVkdsN09VSVBBQnY0WkxjX3VLalZIcGl5ZjVReUpPWnh5eU5TdERUY3kwSnc0LW1CMTV5WWtVM0s0Y2toQ3JhdUNiN28taFY3azMyaHRpRmxYOGgzX3JjWkhsUlFhU19Ucmszd3lHNjFVd2lOUXhXSzRFMHNQV2VTSFNaQWhVMjJMcVd1REhmLVZIZU5qRjJyY0R1TVQyUHN2ckE4?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-10-22T19:01:38+00:00",
+      "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-25T09:00:55+00:00",
       "score": 15,
-      "summary": "Tesla, Meta, IBM: 3 earnings call shout-outs that left us thinking Yahoo FinanceTesla beats on earnings and sales even as auto revenue declines CNBCTesla's AI-Related Investments Drive Operating Margin Miss, Truist Says Yahoo FinanceTesla shares slip after capex cut raises dou...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "summary": "More than 500 homes are without power and flooding and felled trees have been reported on roads.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Climatic"
+      ],
       "entities": [
-        "Meta",
-        "IBM",
-        "Yahoo",
-        "Finance"
+        "Storm",
+        "Boelo"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26430,15 +26464,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "Google News"
+        "BBC"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
       "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
@@ -32589,37 +32621,6 @@
         "Phys.org"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Parental benefit encouraged people to have children in Estonia, but fathers mainly applied for financial reasons",
-      "link": "https://phys.org/news/2026-10-parental-benefit-people-children-estonia.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-22T07:30:01-04:00",
-      "score": 14,
-      "summary": "A generous parental leave reform was introduced in Estonia in 2004. This increased the likelihood of a second or third child being born into the family and also shortened the interval between births, according to Sanan Abdullayev's doctoral thesis, defended at Tallinn Universi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Estonia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -46835,6 +46836,70 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 5.4 - 205 km NW of Port-Olry, Vanuatu",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4tc",
+      "source": "USGS",
+      "timestamp": "2026-10-25T08:59:29.750000+00:00",
+      "score": 15,
+      "summary": "ShakeMap - ITime2026-10-25 08:41:00 UTC2026-10-25 08:41:00 UTC at epicenterLocation13.885\u00b0S 165.577\u00b0EDepth10.00 km (6.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "PortOlry",
+        "Vanuatu"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.5 - 63 km N of Chickaloon, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdgkew",
+      "source": "USGS",
+      "timestamp": "2026-10-25T08:58:03.258000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-25 08:56:45 UTC2026-10-25 08:56:45 UTC at epicenterLocation62.365\u00b0N 148.589\u00b0WDepth28.70 km (17.83 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Chickaloon",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 4.3 - 81 km SSE of Akutan, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4t9",
       "source": "USGS",
@@ -53287,70 +53352,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 43 km NW of Tatitlek, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vbcwkr",
-      "source": "USGS",
-      "timestamp": "2026-10-24T05:14:03.252000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-24 05:11:42 UTC2026-10-24 05:11:42 UTC at epicenterLocation61.153\u00b0N 147.223\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tatitlek",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.1 - 217 km NW of Port-Olry, Vanuatu",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4k1",
-      "source": "USGS",
-      "timestamp": "2026-10-24T05:06:18.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-24 04:49:21 UTC2026-10-24 04:49:21 UTC at epicenterLocation13.852\u00b0S 165.467\u00b0EDepth10.00 km (6.21 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "PortOlry",
-        "Vanuatu"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
