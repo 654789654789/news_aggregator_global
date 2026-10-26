@@ -1,6 +1,35 @@
 {
   "Politics": [
     {
+      "title": "Carers allowed to earn over the weekly limit without losing out as \u2018cliff-edge\u2019 abolished in the budget",
+      "link": "https://www.theguardian.com/society/2026/oct/26/carers-allowance-cliff-edge-abolished-in-the-budget",
+      "source": "Guardian",
+      "timestamp": "2026-10-26T22:30:53+00:00",
+      "score": 10,
+      "summary": "Controversial mechanism that hit unpaid carers with huge penalties to be scrapped following Guardian investigationThe controversial rule that led to unpaid carers being punished with penalties amounting to thousands of pounds is to be abolished, the Guardian can reveal.The cha...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Lula bucks prediction markets with Brazilian presidential win",
       "link": "https://thehill.com/policy/technology/6173602-lula-brazil-election-prediction-markets/",
       "source": "The Hill",
@@ -6596,23 +6625,32 @@
       ],
       "trend_accel": "+70%",
       "heat_level": "SURGING"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
-      "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-25T22:37:36+00:00",
-      "score": 12,
-      "summary": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "title": "Grok Says Its AI-Generated Version of \u2018The Odyssey\u2019 Is \u2018Not Historically Accurate\u2019",
+      "link": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+      "source": "Wired",
+      "timestamp": "2026-10-26T22:40:37+00:00",
+      "score": 14,
+      "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan\u2019s mythological epic, the bot itself admitted defeat.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Christmas"
+        "Says",
+        "Its",
+        "AIGenerated",
+        "Version",
+        "Odyssey",
+        "Not",
+        "Historically",
+        "Accurate"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6621,15 +6659,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "BBC"
+        "Wired"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+54%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
       "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
@@ -13043,42 +13079,49 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Cyberpunk 2077\u2019s update for Edgerunners 2 brings mods to PS5, Switch 2, and Xbox",
-      "link": "https://www.theverge.com/games/1015755/cyberpunk-2077-2-5-edgerunners-mods-dual-wield",
-      "source": "Verge",
-      "timestamp": "2026-10-21T14:39:52-04:00",
-      "score": 15,
-      "summary": "Cyberpunk 2077 is getting a big new 2.5 update that, among other features, brings cross-platform mod support to consoles and content inspired by the new season of the Cyberpunk: Edgerunners anime on Netflix. There's a lot to unpack in the full patch notes. The Edgerunners-spec...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Netanyahu Pushed for Attack on Iran Ahead of Israeli Election, Officials Say",
+      "link": "https://www.nytimes.com/2026/10/26/world/middleeast/netanyahu-iran-israel-election.html",
+      "source": "NYT",
+      "timestamp": "2026-10-26T22:44:39+00:00",
+      "score": 14,
+      "summary": "Israel\u2019s military chief resisted the prime minister, who then pressed in recent days for a separate action, short of an overt strike, according to an official and a person briefed on the matter.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Edgerunners",
-        "Switch",
-        "Xbox"
+        "Pushed",
+        "Attack",
+        "Iran",
+        "Ahead",
+        "Israeli",
+        "Election",
+        "Officials",
+        "Say"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "NYT"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Australian politics live: Lambie awaiting Hanson apology over cartoon; security crackdown for nine MPs after alleged Haines attack",
       "link": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
@@ -16288,7 +16331,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 19,
       "sources_reporting": [
         "ABC Australia",
@@ -16299,7 +16342,7 @@
         "PBS",
         "Reuters"
       ],
-      "trend_accel": "+88%",
+      "trend_accel": "+87%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19607,40 +19650,6 @@
         "Guardian"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Rome demonstrators storm Colosseum as Europe's youth protests spread",
-      "link": "https://www.abc.net.au/news/2026-10-26/italy-protests-colosseum-cost-of-living/107308262",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-26T02:16:31+00:00",
-      "score": 12,
-      "summary": "Later in the evening, clashes erupted between protesters and police elsewhere in central Rome, with officers using water cannons to disperse the crowd.",
-      "country": "Italy",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Colosseum",
-        "Europes"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -34729,6 +34738,130 @@
   ],
   "Entertainment": [
     {
+      "title": "\u2018Man\u2019s Search For Meaning\u2019 Adaptation Sparks Breach of Contract Lawsuit Over Film Rights",
+      "link": "https://www.hollywoodreporter.com/business/business-news/mans-search-for-meaning-adaptation-lawsuit-film-rights-1236740412/",
+      "source": "THR",
+      "timestamp": "2026-10-26T22:42:12+00:00",
+      "score": 12,
+      "summary": "Marisa Polvino accuses her former partners of cutting her out of the project.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Search",
+        "Meaning",
+        "Adaptation",
+        "Sparks",
+        "Breach",
+        "Contract",
+        "Lawsuit",
+        "Over",
+        "Film",
+        "Rights"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "WNBA Moves Game 6 Of Final Series To Mid-Day Thursday Timeslot Due To Arena Shuffle",
+      "link": "https://deadline.com/2026/10/wnba-moves-game-6-final-series-midday-thursday-usa-network-1237201077/",
+      "source": "Deadline",
+      "timestamp": "2026-10-26T22:41:47+00:00",
+      "score": 15,
+      "summary": "The WNBA has shifted Game 6 of its championship series to 12:30 p.m. ET on Thursday, meaning the sport\u2019s ultimate winner could be crowned in a daypart better known for soap operas than live sports. The best-of-seven series between the Atlanta Dream and Golden State Valkyries i...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Moves",
+        "Game",
+        "Final",
+        "Series",
+        "MidDay",
+        "Thursday",
+        "Timeslot",
+        "Due",
+        "Arena",
+        "Shuffle"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Indio Downey Books First Lead Movie Role With Addiction Drama \u2018Love In Vein\u2019; \u2018American Psycho\u2019 Producer Aboard",
+      "link": "https://deadline.com/2026/10/indio-downey-cast-addiction-drama-love-in-vein-1237200705/",
+      "source": "Deadline",
+      "timestamp": "2026-10-26T22:39:06+00:00",
+      "score": 12,
+      "summary": "Indio Downey, son of Robert Downey Jr, has booked his first lead role in a movie with indie pic Love In Vein. Written and directed by Will De Los Santos (Spun), adapted from the Ryan Leone\u2019s novel Wasting Talent, the film is being produced by Muse Productions in association wi...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Downey",
+        "Books",
+        "First",
+        "Lead",
+        "Movie",
+        "Role",
+        "Addiction",
+        "Drama",
+        "Love",
+        "Vein",
+        "American",
+        "Psycho",
+        "Producer",
+        "Aboard"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "\u2018One Job Away\u2019 Campaign Highlights SAG-AFTRA Actors\u2019 Struggle to Qualify for Health Insurance: \u201cThis Is Systemic\u201d",
       "link": "https://www.hollywoodreporter.com/business/business-news/one-job-away-campaign-sagaftra-actors-health-insurance-1236740396/",
       "source": "THR",
@@ -42649,126 +42782,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "ESPN Taps Marvel\u2019s Vision to Boost ElCl\u00e1sico\u2019s Debut on ABC",
-      "link": "https://variety.com/2026/tv/news/espn-taps-marvel-vision-elclasico-debut-abc-1236930598/",
-      "source": "Variety",
-      "timestamp": "2026-10-25T14:00:00+00:00",
-      "score": 12,
-      "summary": "The Vision, the Marvel super-hero, must tackle two important missions on Sunday. Not only does the character have a new streaming series on Disney+ that needs promotion, but he\u2019s been tapped by Disney sibling ESPN to lend some pizzazz to Sunday\u2019s telecast of ElCl\u00e1sico, the fie...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Taps",
-        "Marvels",
-        "Vision",
-        "Boost",
-        "ElClsicos",
-        "Debut",
-        "ABC"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018A Court of Thorns and Roses\u2019 Gets a Fittingly Sexy Fashion Collection Ahead of Sarah J. Maas\u2019s Latest Book",
-      "link": "https://variety.com/2026/shopping/news/a-court-of-thorns-and-roses-for-love-and-lemons-collection-1236930606/",
-      "source": "Variety",
-      "timestamp": "2026-10-25T13:43:16+00:00",
-      "score": 12,
-      "summary": "In an age of endless brand partnerships and collaborations, it always feels good seeing a team-up that doesn\u2019t feel forced. Such is the case with For Love & Lemons very sexy collaboration with \u201cA Court of Thorns and Roses\u201d \u2014 a collection of corsetry, lace, romantic florals and...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Court",
-        "Thorns",
-        "Roses",
-        "Gets",
-        "Fittingly",
-        "Sexy",
-        "Fashion",
-        "Collection",
-        "Ahead",
-        "Sarah",
-        "Maass",
-        "Latest",
-        "Book"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "See Jay-Z Bring Out Snoop Dogg and Dr. Dre for Medley at Los Angeles Show",
-      "link": "https://www.rollingstone.com/music/music-news/jay-z-snoop-dogg-dr-dre-medley-los-angeles-show-1235647696/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-10-25T13:41:44+00:00",
-      "score": 12,
-      "summary": "Too Short also joined rapper onstage for \"Blow the Whistle\" at final gig of the Jay-Z 30 Tour",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "JayZ",
-        "Bring",
-        "Out",
-        "Snoop",
-        "Dogg",
-        "Dre",
-        "Medley",
-        "Los",
-        "Angeles",
-        "Show"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -46984,6 +46997,70 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 9 km SSW of Idyllwild, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41353239",
+      "source": "USGS",
+      "timestamp": "2026-10-26T22:45:23.850000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-26 22:35:01 UTC2026-10-26 22:35:01 UTC at epicenterLocation33.673\u00b0N 116.767\u00b0WDepth18.62 km (11.57 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Idyllwild"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.4 - 58 km SE of Chignik, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vgdsgu",
+      "source": "USGS",
+      "timestamp": "2026-10-26T22:36:12.373000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-26 22:35:02 UTC2026-10-26 22:35:02 UTC at epicenterLocation55.980\u00b0N 157.647\u00b0WDepth38.90 km (24.17 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Chignik",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
@@ -53416,71 +53493,6 @@
       "entities": [
         "SSE",
         "Tehachapi"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Tanzania",
-      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033187",
-      "source": "GDACS",
-      "timestamp": "2026-10-25T16:18:49+00:00",
-      "score": 12,
-      "summary": "On 19/10/2026, a forest fire started in Tanzania, until 25/10/2026.",
-      "country": "EU",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tanzania"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.4 - 61 km ENE of Pedro Bay, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vdundu",
-      "source": "USGS",
-      "timestamp": "2026-10-25T16:02:42.221000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-25 15:59:58 UTC2026-10-25 15:59:58 UTC at epicenterLocation60.017\u00b0N 153.110\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Pedro",
-        "Bay",
-        "Alaska"
       ],
       "severity_score": 3,
       "alert_level": "low",
