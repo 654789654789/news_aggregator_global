@@ -6639,6 +6639,48 @@
   ],
   "Tech": [
     {
+      "title": "Former DOGE Staffers\u2019 Startup Reportedly Claims to Have Accessed Sensitive Anthropic Data Using AI Agents",
+      "link": "https://www.gadgets360.com/ai/news/cathedral-startup-accessed-sensitive-anthropic-claude-data-ai-agents-report-12240830",
+      "source": "Gadgets 360",
+      "timestamp": "2026-10-27T09:39:54+05:30",
+      "score": 14,
+      "summary": "Anthropic is said to be facing fresh scrutiny after a cybersecurity startup founded by former US Department of Government Efficiency (DOGE) staffers allegedly accessed sensitive internal systems at the company. Cathedral, a months-old startup, reportedly claimed that its resea...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "DOGE",
+        "Staffers",
+        "Startup",
+        "Reportedly",
+        "Claims",
+        "Have",
+        "Accessed",
+        "Sensitive",
+        "Anthropic",
+        "Data",
+        "Using",
+        "Agents"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Gadgets 360"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
       "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
       "source": "TechCrunch",
@@ -6729,14 +6771,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 8.5,
+      "source_count": 11,
       "sources_reporting": [
+        "Bloomberg",
+        "NHK",
+        "PBS",
+        "TechCrunch",
         "Wired"
       ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
+      "trend_accel": "+74%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
@@ -7680,14 +7726,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 8.3,
+      "source_count": 14,
       "sources_reporting": [
-        "Gadgets 360"
+        "BBC",
+        "Gadgets 360",
+        "Guardian",
+        "NHK",
+        "TechCrunch"
       ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
+      "trend_accel": "+67%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Anthropic\u2019s IPO filing lays out a plan to \u2018revolutionize every area of human endeavor\u2019 with AI",
@@ -11687,8 +11737,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "AP",
@@ -12940,8 +12990,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 15,
       "sources_reporting": [
         "Bloomberg",
@@ -13043,24 +13093,28 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
-      "link": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
-      "source": "Verge",
-      "timestamp": "2026-10-21T15:02:49-04:00",
-      "score": 15,
-      "summary": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it'...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
+      "title": "U.S.-brokered truce begins in Ukraine city occupied by Russia",
+      "link": "https://www.thehindu.com/news/international/us-brokered-truce-begins-in-ukraine-city-occupied-by-russia/article71629729.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-10-27T09:44:15+05:30",
+      "score": 14,
+      "summary": "Both Russia and Ukraine said they would observe the truce starting at 3:00 a.m. local time (0100 GMT)",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Cambridge",
-        "Analytica"
+        "Ukraine",
+        "Russia"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13069,20 +13123,122 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 15,
+      "source_count": 5,
       "sources_reporting": [
-        "AP",
-        "BBC",
-        "Gadgets 360",
-        "Guardian",
-        "TechCrunch",
-        "Verge"
+        "The Hindu"
       ],
-      "trend_accel": "+78%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "World": [
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Israel votes in first election since October 7 attack as Netanyahu faces crucial test",
+      "link": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7",
+      "source": "France24",
+      "timestamp": "2026-10-27T04:12:41+00:00",
+      "score": 17,
+      "summary": "Israelis head to the polls on Tuesday for the first time since Hamas's October 7, 2023 attack, in a closely contested election seen as a referendum on Prime Minister Benjamin Netanyahu. The vote follows three years of regional wars, with Netanyahu running neck and neck with ce...",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "October",
+        "Netanyahu"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "France24"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Two Candidates, Two Israels, One Nation in the Balance",
+      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
+      "source": "NYT",
+      "timestamp": "2026-10-27T04:01:17+00:00",
+      "score": 12,
+      "summary": "As Israel votes, hard-right nationalism competes with the country\u2019s founding ideals. The outcome could shape Israel\u2019s identity for years.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Candidates",
+        "Two",
+        "Israels",
+        "One",
+        "Nation",
+        "Balance"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "King Charles Faces High Stakes Test With Caribbean Tour",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
+      "source": "NYT",
+      "timestamp": "2026-10-27T04:01:06+00:00",
+      "score": 12,
+      "summary": "The king will confront calls for reparations and apologies for his country\u2019s colonial past as he attends the Commonwealth heads of government meeting.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Charles",
+        "Faces",
+        "High",
+        "Stakes",
+        "Test",
+        "Caribbean",
+        "Tour"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Australian politics live: Coalition tells Albanese to \u2018stop the spin\u2019 on $6m golf grant; Labor promises \u2018swift response\u2019 on MP safety",
       "link": "https://www.theguardian.com/australia-news/live/2026/oct/27/one-nation-pauline-hanson-independent-jacqui-lambie-labor-anthony-albanese-coalition-ntwnfb",
@@ -19496,148 +19652,6 @@
         "Al Jazeera"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Flash floods inundate several areas of Thailand\u2019s Phuket island after heavy rain",
-      "link": "https://www.thehindu.com/news/international/flash-floods-inundate-several-areas-of-thailands-phuket-island-after-heavy-rain/article71625917.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-26T12:51:10+05:30",
-      "score": 14,
-      "summary": "All three districts of the southern island province, including its capital, Phuket City, were impacted by the flooding",
-      "country": "Thailand",
-      "region": "Southeast Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Thailands",
-        "Phuket"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "99 runs leaked in 2 T20Is! Bhuvneshwar Kumar gets a message from Morne Morkel",
-      "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/99-runs-leaked-in-2-t20is-bhuvneshwar-kumar-gets-a-message-from-morne-morkel/articleshow/135205561.cms",
-      "source": "Times of India",
-      "timestamp": "2026-10-26T12:47:05+05:30",
-      "score": 15,
-      "summary": "Bhuvneshwar Kumar's comeback has not gone as planned. The 36-year-old conceded 49 runs in the first T20I against New Zealand and 50 in the second, taking just one wicket across the two matches. His economy rate of 12.37 has been the highest among India's bowlers in the series.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "TIs",
-        "Bhuvneshwar",
-        "Kumar",
-        "Morne",
-        "Morkel"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Kim Jong Un Makes Surprise Trip to China, Crosses New Bridge",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjBPZ3dxSHBGNGpJN0dCX1JYT09lUDgyQW1SSUZKRHNRWF90SW5NVENhZEtQRHZjUzYyVnVYLXdRWkxuVmt2RGtTSDVSalVrVURxbFlTQzZ5UFd3b2dxelVhVkNuS3J6cmF2Y2h4NEJfQWNsSklmZk1MSWxtbEFOb3lIUTV0RzNwenNCZVVYUGxSUVZIblpUS2VYdzMxZ1RX?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-10-26T07:16:08+00:00",
-      "score": 12,
-      "summary": "Kim Jong Un Makes Surprise Trip to China, Crosses New Bridge WSJWhy North Korean leader Kim Jong-un toured a Chinese bus factory in Dandong South China Morning PostKim Jong Un says North Korea \u2018inspired\u2019 by China\u2019s success in border city visit NK News[COVER STORY] Kim Jong-un'...",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Jong",
-        "Makes",
-        "Surprise",
-        "Trip",
-        "China",
-        "Crosses",
-        "New",
-        "Bridge"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Defence personnel begin packing as Sydney's Victoria Barracks sale looms",
-      "link": "https://www.abc.net.au/news/2026-10-26/sydney-victoria-barracks-christmas-eviction-chris-minns/107309632",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-26T07:11:24+00:00",
-      "score": 12,
-      "summary": "Defence personnel based at Victoria Barracks in Sydney have begun \"packing boxes\" for a Christmas eviction, despite the NSW premier calling on the federal government to reverse its move to sell the historic site.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sydneys",
-        "Victoria",
-        "Barracks"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -26322,6 +26336,44 @@
   ],
   "Science": [
     {
+      "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
+      "link": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-10-27T04:13:56+00:00",
+      "score": 12,
+      "summary": "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Boelo",
+        "Met",
+        "Office"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 7.9,
+      "source_count": 13,
+      "sources_reporting": [
+        "BBC",
+        "Bloomberg",
+        "Guardian",
+        "NHK"
+      ],
+      "trend_accel": "+64%",
+      "heat_level": "SURGING"
+    },
+    {
       "title": "Social media analysis reveals how international solidarity shifts during prolonged conflict",
       "link": "https://phys.org/news/2026-10-social-media-analysis-reveals-international.html",
       "source": "Phys.org",
@@ -29230,8 +29282,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 7.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 10,
       "sources_reporting": [
         "BBC",
@@ -32509,38 +32561,46 @@
       ],
       "trend_accel": "+67%",
       "heat_level": "HOT"
-    },
+    }
+  ],
+  "Sports": [
     {
-      "title": "Elusive uranium 'sandwich' molecule isolated after more than 50 years",
-      "link": "https://phys.org/news/2026-10-elusive-uranium-sandwich-molecule-isolated.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-23T12:00:12-04:00",
-      "score": 13,
-      "summary": "In a study published in Nature Communications, researchers from The University of Manchester and Lancaster University have isolated and characterized uranocenium, the positively charged form of a landmark uranium compound called uranocene. The work shows that this long-sought ...",
+      "title": "Brewers ride 8-run fifth to Game 3 rout of Rays, take 3-0 World Series lead",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdVZDblJRUmR0bDdLdmdpN1MwN2w2UGRDUW9YRER1T2daRXQ0MlgtR1dVVnhrTERuamZtX0E1QkdJOEwzSkhoVE5vSXBpMnZQSmtxWDdEbVRBTnhfWmlMaWItQ3V3MExmWTM2SnhHNEJ3c0EzbHhoWDZaVkMyUzZxTjRPS3k4cTF1U3NMaF91S1F5TVV5X1MyV05fa05nbmZtdkE?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-10-27T04:03:15+00:00",
+      "score": 15,
+      "summary": "Brewers ride 8-run fifth to Game 3 rout of Rays, take 3-0 World Series lead ESPNWorld Series Game 3: Brewers on Brink of First Title After Rout Sports IllustratedAn 8-run inning, a roaring road crowd and 1 win to go: The Brewers are almost there The New York TimesRays on brink...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Game",
+        "Rays",
+        "World",
+        "Series"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 6.7,
+      "source_count": 12,
       "sources_reporting": [
-        "Phys.org"
+        "AP",
+        "Google News",
+        "Guardian",
+        "PBS"
       ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Sports": [
+      "trend_accel": "+61%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Texas Tech billionaire said quiet part out loud: College football has owners now",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRVFNcENIT0xpZ09DQWxObnlwMHdqQzBINkRVWVNHanNVR2RvVE85cUtkckc0R3N5ZTZaREdsZVJ1blpOQXpCdC1hU2gybHdQSjhQTklGQzhVYVdJaTdwcGw1MVE5YnBCcjNyNVN4ZjB1eFNNQVdCd3hrS2FjNzdJb0l2TUtpZzNnNGhxM183eHB3LWV0MG1MRm1pVmd0TERXeWE2NG14Y2RpcXhabWo5c3ctMW1wdjhsUzhDdDBZdVMxeThHOGpNaHdxYmllems?oc=5",
@@ -32607,7 +32667,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.5,
+      "trend_score": 6.6,
       "source_count": 16,
       "sources_reporting": [
         "Bloomberg",
@@ -32641,8 +32701,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -34770,6 +34830,44 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Owners of Elvis Presley\u2019s Music Sue Anthropic for Copyright Infringement",
+      "link": "https://www.nytimes.com/2026/10/25/arts/music/anthropic-lawsuit-elvis-presley-songs.html",
+      "source": "NYT",
+      "timestamp": "2026-10-27T04:05:30+00:00",
+      "score": 12,
+      "summary": "The $41 million lawsuit contends that the A.I. company used Presley\u2019s music to train its models without permission. Anthropic disagrees with the claims.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Elvis",
+        "Presleys",
+        "Music",
+        "Sue",
+        "Anthropic",
+        "Copyright",
+        "Infringement"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 6,
+      "sources_reporting": [
+        "NYT",
+        "Variety"
+      ],
+      "trend_accel": "+67%",
+      "heat_level": "HOT"
+    },
     {
       "title": "\u2018Gilded Age\u2019 Creator Julian Fellowes Calls HBO\u2019s Casey Bloys \u201cOur Protector & Our Defender From Very Early Days\u201d During Season 4 Premiere",
       "link": "https://deadline.com/2026/10/gilded-age-julian-fellowes-hbo-casey-bloys-premiere-1237205924/",
@@ -42753,42 +42851,6 @@
       ],
       "trend_accel": "+64%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "\u2018Obsession\u2019 And \u2018Backrooms\u2019 Win Big at Fangoria Chainsaw Awards",
-      "link": "https://variety.com/2026/awards/news/obsession-backrooms-win-fangoria-chainsaw-awards-1236919175/",
-      "source": "Variety",
-      "timestamp": "2026-10-26T02:30:00+00:00",
-      "score": 14,
-      "summary": "\u201cObsession\u201d led this year\u2019s Fangoria Chainsaw Awards with the most amount of wins, taking home five awards including Best Director for Curry Barker and Best Lead Performance for Inde Navarrette. Celebrating achievements in horror film, television and gaming, the fan-voted awar...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Backrooms",
-        "Win",
-        "Big",
-        "Fangoria",
-        "Chainsaw",
-        "Awards"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -46973,6 +47035,73 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.1 - 5 km SW of Azogues, Ecuador",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tteg",
+      "source": "USGS",
+      "timestamp": "2026-10-27T04:06:33.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-27 03:55:23 UTC2026-10-27 03:55:23 UTC at epicenterLocation2.771\u00b0S 78.886\u00b0WDepth75.45 km (46.88 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Azogues",
+        "Ecuador"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.2 - 11 km SW of Eielson Air Force Base, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vgopne",
+      "source": "USGS",
+      "timestamp": "2026-10-27T04:02:31.805000+00:00",
+      "score": 17,
+      "summary": "Time2026-10-27 04:01:42 UTC2026-10-27 04:01:42 UTC at epicenterLocation64.603\u00b0N 147.256\u00b0WDepth21.30 km (13.24 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Eielson",
+        "Air",
+        "Force",
+        "Base",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+49%",
       "heat_level": "LOW"
     },
     {
@@ -53413,74 +53542,6 @@
         "USGS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.1 - 4 km WSW of Gu\u00e1nica, Puerto Rico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537673",
-      "source": "USGS",
-      "timestamp": "2026-10-25T21:58:37.530000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-25 21:34:55 UTC2026-10-25 21:34:55 UTC at epicenterLocation17.955\u00b0N 66.951\u00b0WDepth8.33 km (5.18 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Gunica",
-        "Puerto",
-        "Rico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.3 - 69 km NE of Cruz Bay, U.S. Virgin Islands",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537658",
-      "source": "USGS",
-      "timestamp": "2026-10-25T21:57:37.220000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-25 21:17:39 UTC2026-10-25 21:17:39 UTC at epicenterLocation18.849\u00b0N 64.423\u00b0WDepth8.26 km (5.13 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Cruz",
-        "Bay",
-        "Virgin",
-        "Islands"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
       "heat_level": "LOW"
     }
   ]
