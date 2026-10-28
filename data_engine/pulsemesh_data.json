@@ -1,6 +1,78 @@
 {
   "Politics": [
     {
+      "title": "Iran War Cost Rises to $47.1 Billion, Pentagon Told Lawmakers",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/iran-war-cost-rises.html",
+      "source": "NYT",
+      "timestamp": "2026-10-28T01:09:55+00:00",
+      "score": 15,
+      "summary": "The estimate through Oct. 16 shows that bombs, missiles and other munitions accounted for more than 60 percent of expenses.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "War",
+        "Cost",
+        "Rises",
+        "Billion",
+        "Pentagon",
+        "Told",
+        "Lawmakers"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": true,
+      "trend_score": 8.9,
+      "source_count": 14,
+      "sources_reporting": [
+        "BBC",
+        "NYT",
+        "PBS",
+        "Reuters",
+        "The Hill"
+      ],
+      "trend_accel": "+72%",
+      "heat_level": "SURGING"
+    },
+    {
+      "title": "Johnson says there will be \u2018peaceful transfer of power\u2019 on Jan 3",
+      "link": "https://thehill.com/homenews/house/6176705-johnson-promises-peaceful-transfer-power/",
+      "source": "The Hill",
+      "timestamp": "2026-10-28T01:03:50+00:00",
+      "score": 15,
+      "summary": "House Speaker Mike Johnson (R-La.) said Tuesday that there will be a \u201cpeaceful transfer of power\u201d when new House members are set to join the lower chamber next year. \u201cOf course, we\u2019ll have a peaceful transfer of power, but it will not be transferring because we are going to ke...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Jan"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Judge Questions Trump Administration\u2019s Need to Target Noncitizen Voters",
       "link": "https://www.nytimes.com/2026/10/27/us/politics/california-ballots-noncitizens.html",
       "source": "NYT",
@@ -167,14 +239,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 8.8,
+      "source_count": 17,
       "sources_reporting": [
+        "AP",
+        "NPR",
+        "NYT",
+        "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
+      "trend_accel": "+69%",
+      "heat_level": "SURGING"
     },
     {
       "title": "EXCLUSIVE: Hackers target US FEC system, disrupting campaign finance disclosures days before midterms",
@@ -1654,8 +1730,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -2065,8 +2141,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -6624,24 +6700,27 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Delhi traders flag potential impact on 21 markets from November 1 Congress rally, seek postponement",
-      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-traders-flag-potential-impact-on-21-markets-from-november-1-congress-rally-seek-postponement/article71630172.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-27T13:03:48+05:30",
-      "score": 17,
-      "summary": "It projected that the November 1 rally could bring commercial activity across Old Delhi to a standstill, resulting in losses of up to \u20b910,000 crore",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-28T01:15:28+00:00",
+      "score": 12,
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "November",
-        "Congress"
+        "Anthropics",
+        "IPO",
+        "Amazon"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6650,50 +6729,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Theni jailbreak: Human error led to escape of prisoners, says DGP-Prisons Sandeep Rai Rathore",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/theni-jailbreak-human-error-led-to-escape-of-prisoners-says-dgp-prisons/article71629966.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-27T12:53:15+05:30",
-      "score": 14,
-      "summary": "Security audit of all prisons had been ordered after the escape of a prisoner in Puzhal recently",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Human",
-        "DGPPrisons",
-        "Sandeep",
-        "Rai",
-        "Rathore"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
     {
       "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
       "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
@@ -13114,38 +13156,6 @@
         "TechCrunch"
       ],
       "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "You could just get a refurbished Samsung phone on Amazon",
-      "link": "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon",
-      "source": "Verge",
-      "timestamp": "2026-10-22T10:55:29-04:00",
-      "score": 12,
-      "summary": "I recently bought a used Galaxy phone, and now Samsung is leaning into that market on Amazon after raising prices on its newest phones. Its certified renewed phones are available on Amazon for the first time, with a new battery and a one-year warranty. They currently start at ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Samsung",
-        "Amazon"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -19919,6 +19929,72 @@
   ],
   "Business": [
     {
+      "title": "SK Hynix announces over $25 billion in dividends and buyback as third-quarter profit beats estimates",
+      "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-28T01:14:41+00:00",
+      "score": 15,
+      "summary": "South Korean chipmaker SK Hynix on Wednesday announces over 25 billion in dividends and buyback as third-quarter profit sharply beats estimates.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hynix"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Jio Platforms IPO listing today: Check exact time of shares trading; expected debut stock price at NSE, BSE",
+      "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-listing-today-check-exact-time-of-shares-trading-expected-debut-stock-price-at-nse-bse-11793147869799.html",
+      "source": "Livemint",
+      "timestamp": "2026-10-28T06:33:33+05:30",
+      "score": 14,
+      "summary": "Jio Platforms IPO listing today: The shares of the Jio Platforms IPO will be listed on the National Stock Exchange (NSE) and the BSE after successful allotment on Monday, 27 October.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Platforms",
+        "IPO",
+        "Check",
+        "NSE",
+        "BSE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Raja Venkatraman recommends three stocks for 28 October",
       "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-28-october-11793147193737.html",
       "source": "Livemint",
@@ -26437,14 +26513,16 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+      "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+      "link": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "timestamp": "2026-10-26T17:20:54+00:00",
-      "score": 13,
-      "summary": "Anthropic\u2019s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "timestamp": "2026-10-28T01:01:02+00:00",
+      "score": 14,
+      "summary": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
       "country": "UK",
       "region": "Europe",
       "source_type": "Broadcaster",
@@ -26460,51 +26538,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
         "BBC"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Stocks making the biggest moves midday: Lockheed Martin, JetBlue, CoreWeave, Surgery Partners & more",
-      "link": "https://www.cnbc.com/2026/10/26/stocks-making-the-biggest-moves-midday-lockheed-jetblue-coreweave-surgery-partners-more.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-26T17:17:07+00:00",
-      "score": 14,
-      "summary": "These are some of the stocks posting the largest moves midday.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lockheed",
-        "Martin",
-        "JetBlue",
-        "CoreWeave",
-        "Surgery",
-        "Partners"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "Injuries matter less in the NFL than you think",
       "link": "https://phys.org/news/2026-10-injuries-nfl.html",
@@ -32599,43 +32639,6 @@
       ],
       "trend_accel": "+71%",
       "heat_level": "SURGING"
-    },
-    {
-      "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-26T02:01:29+00:00",
-      "score": 15,
-      "summary": "An amber wind warning has now expired after severe weather sweeps across the UK.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Storm",
-        "Boelo"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 10,
-      "sources_reporting": [
-        "BBC",
-        "Bloomberg",
-        "NHK",
-        "Reuters"
-      ],
-      "trend_accel": "+68%",
-      "heat_level": "HOT"
     }
   ],
   "Sports": [
@@ -36812,7 +36815,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 11,
       "sources_reporting": [
         "BBC",
