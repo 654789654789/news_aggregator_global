@@ -1,6 +1,41 @@
 {
   "Politics": [
     {
+      "title": "ACB, Food Safety and Drug Control teams inspect NIMS amid corruption allegations",
+      "link": "https://www.thehindu.com/news/national/telangana/acb-food-safety-and-drug-control-teams-inspect-nims-amid-corruption-allegations/article71642065.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-10-30T00:37:08+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Food",
+        "Safety",
+        "Drug",
+        "Control",
+        "NIMS"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Aavin to invest proceeds from sale of sweets in welfare of dairy farmers",
       "link": "https://www.thehindu.com/news/cities/chennai/aavin-to-invest-proceeds-from-sale-of-sweets-in-welfare-of-dairy-farmers/article71641131.ece",
       "source": "The Hindu",
@@ -6591,24 +6626,26 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Trump calls alleged Alaska Senate spoiler scheme \u2018voter fraud at the highest level\u2019",
-      "link": "https://thehill.com/homenews/administration/6180002-trump-alaska-senate-voter-fraud/",
-      "source": "The Hill",
-      "timestamp": "2026-10-29T01:30:50+00:00",
-      "score": 12,
-      "summary": "President Trump criticized Senate Democrats and former Rep. Mary Peltola\u2019s (D-Alaska) campaign on Wednesday amid allegations that the two worked together to put a spoiler candidate on the ballot in an effort to boost their party in the Alaska Senate race. \u201cThis is voter fraud ...",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "source": "TechCrunch",
+      "timestamp": "2026-10-29T19:14:36+00:00",
+      "score": 14,
+      "summary": "The app connects to Instagram to build a virtual closet from photos you\u2019ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Alaska",
-        "Senate"
+        "Style",
+        "Sketch"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6617,15 +6654,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hill"
+        "TechCrunch"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
       "link": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
@@ -13144,22 +13179,61 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
+    }
+  ],
+  "World": [
+    {
+      "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-10-29T19:06:00+00:00",
+      "score": 12,
+      "summary": "With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "PalestinianIsraeli"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
     },
     {
-      "title": "r/opensource just banned AI, non-English speakers and more",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "source": "Verge",
-      "timestamp": "2026-10-25T09:25:32-04:00",
-      "score": 14,
-      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today,...",
+      "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
+      "link": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
+      "source": "Guardian",
+      "timestamp": "2026-10-29T19:04:17+00:00",
+      "score": 17,
+      "summary": "Transport is first phase of deal between Trump and Putin \u2013 but there is uncertainty over whether vessels will unloadSeven oil tankers carrying an estimated 288,000 tonnes of Russian diesel are now sailing towards the US, though it is uncertain if the vessels will be able to un...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Russian"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13169,13 +13243,81 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Verge"
+        "Guardian"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "\u2018Arab voice doesn\u2019t count\u2019: Jewish Israeli blocs reject Palestinian support",
+      "link": "https://www.aljazeera.com/news/2026/10/29/arab-voice-doesnt-count-jewish-israeli-blocs-reject-palestinian-support?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-10-29T19:02:33+00:00",
+      "score": 12,
+      "summary": "Palestinian voters could decide Israel\u2019s future, but its political class refuses to accept their mandate",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Jewish",
+        "Israeli",
+        "Palestinian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump rallies in South Carolina as turmoil grows over Alaska campaign investigation \u2013 live",
+      "link": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
+      "source": "Guardian",
+      "timestamp": "2026-10-29T19:01:36+00:00",
+      "score": 14,
+      "summary": "President speaks in Rock Hill, South Carolina; Alaska governor orders inquiry into Mary Peltola campaign amid Republican outcryAlaska governor orders investigation into Peltola\u2019s Senate campaignSign up for the Breaking News US emailWith days until the midterm elections, a new ...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "South",
+        "Carolina",
+        "Alaska"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Wallaby 'incredibly proud' as brother represents Australian Deaf Rugby",
       "link": "https://www.abc.net.au/news/2026-10-30/australian-deaf-rugby-wallabies-jack-charlie-cale/107315626",
@@ -19583,22 +19725,26 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "EU natural gas prices top \u20ac100 for first time since 2022",
-      "link": "https://www.france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022",
-      "source": "France24",
-      "timestamp": "2026-10-28T22:02:12+00:00",
-      "score": 13,
-      "summary": "As winter approaches, the price of European natural gas topped \u20ac100 / megawatt hour, its highest level since 2022. The EU says it's not worried about supplies, although its storage facilities are only 72% full, but warns households of a 'difficult' season to come. Also in the ...",
-      "country": "France",
+      "title": "Some Polymarket user funds stolen by hackers, exchange referring matter to UK authorities",
+      "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-29T19:15:32+00:00",
+      "score": 14,
+      "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
+      "country": "UK",
       "region": "Europe",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Polymarket"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19608,50 +19754,51 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "France24"
+        "CNBC"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
     },
     {
-      "title": "Crash survivors recount chaos in Europe's worst train disaster since 2013",
-      "link": "https://www.abc.net.au/news/2026-10-29/spain-train-crash-urda-village-supports-victims/107321724",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-28T21:47:44+00:00",
-      "score": 17,
-      "summary": "Residents of a rural village in central Spain have rallied into action to help a massive emergency response following the most deadly rail disaster in Europe in more than a decade.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "\u2018The $100 level is ours for awhile\u2019: Oil won\u2019t be getting cheap anytime soon, no matter what happens in the Gulf",
+      "link": "https://www.marketwatch.com/story/the-100-level-is-ours-for-awhile-oil-wont-be-getting-cheap-anytime-soon-no-matter-what-happens-in-the-gulf-99d628bf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-29T19:12:00+00:00",
+      "score": 15,
+      "summary": "The oil market may soon reach a point where the dust finally settles enough to see the true chaos the eight-month-old conflict in the Middle East and its shipping disruptions have wrought upon the global crude sector.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Europes"
+        "Oil",
+        "Gulf"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "MarketWatch"
       ],
-      "trend_accel": "+53%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
-      "title": "High-speed train crash kills at least 68 people in Spain",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "timestamp": "2026-10-28T21:38:54+00:00",
-      "score": 17,
-      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
-      "country": "Spain",
+      "timestamp": "2026-10-29T19:11:10+00:00",
+      "score": 14,
+      "summary": "Poundland's bosses are filing a notice of intention to appoint administrators to the business.",
+      "country": "UK",
       "region": "Europe",
       "source_type": "Broadcaster",
       "trust_score": 9,
@@ -19659,46 +19806,7 @@
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Spain"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 19,
-      "sources_reporting": [
-        "BBC",
-        "Bloomberg",
-        "France24",
-        "Google News",
-        "Guardian",
-        "NHK",
-        "NPR",
-        "NYT",
-        "The Hindu"
-      ],
-      "trend_accel": "+81%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Costa Rica\u2019s mega-prison receives first inmates",
-      "link": "https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-10-28T21:36:16+00:00",
-      "score": 12,
-      "summary": "President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.",
-      "country": "Qatar",
-      "region": "Middle East",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ricas"
+        "Poundland"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19709,13 +19817,48 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Al Jazeera"
+        "BBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as Alphabet, Caterpillar earnings disappoint, but most stocks rise - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTnhRUXZJSkhiOTc5RWpkbF9kOElXRi1Ha2tLMkVUMVZSZGpjQW9MZG42S0RnUEI0TmpJM25VOUY2ODc2b1BpUzdjRFpvbEhMM0h5QTNhbHdwT3oyN2hoVjRFZUkxTzdEWlk3WHNOVG5UdEk4cE5fZG1CaUh6ZHZoQ09lek5FWXhVWjR5c3RBUnJiRVpHWW5Qamw5NUVrVDduaVFfX3VGWVA1WGoweGJLeDNSQU51ZWx2?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-10-29T19:04:46+00:00",
+      "score": 17,
+      "summary": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as Alphabet, Caterpillar earnings disappoint, but most stocks rise MarketWatch[U.S. Stocks] Dow turns lower, down $165; Nasdaq also declines (morning of the 29th) MoomooStocks Struggling as Inflation, Earnings Weigh Schaeffer's ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Market",
+        "Today",
+        "Dow",
+        "Nasdaq",
+        "Alphabet",
+        "Caterpillar",
+        "MarketWatch"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Polymarket reports outage on international exchange, halts trading",
       "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
@@ -26162,144 +26305,67 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "The Federal Reserve Will Release Its Interest Rate Decision Today. Here\u2019s What to Watch.",
-      "link": "https://www.nytimes.com/2026/10/28/business/federal-reserve-interest-rates.html",
-      "source": "NYT",
-      "timestamp": "2026-10-28T16:36:07+00:00",
-      "score": 12,
-      "summary": "The central bank is widely expected to hold interest rates steady on Wednesday, just days before the midterm elections.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Federal",
-        "Reserve",
-        "Will",
-        "Release",
-        "Its",
-        "Interest",
-        "Rate",
-        "Decision",
-        "Today",
-        "Heres",
-        "What",
-        "Watch"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Alphabet set to report Q3 earnings after the bell as shaky AI trade looks for signs of strength",
-      "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-28T16:33:22+00:00",
-      "score": 17,
-      "summary": "Alphabet faces a skeptical Wall Street as it prepares to report quarterly results.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Will I get a \u00a3100 energy payment and when will I get it",
-      "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-28T16:30:53+00:00",
-      "score": 15,
-      "summary": "Here is what you need to know about the payment that millions will receive from January.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "CNBC TEC Summit live updates: How technology executives are navigating enterprise AI adoption",
-      "link": "https://www.cnbc.com/2026/10/28/cnbc-technology-summit-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-28T16:30:31+00:00",
-      "score": 14,
-      "summary": "Follow CNBC's 2026 Technology Executive Council Summit for live updates on AI agents, cybersecurity, AI costs and the future of work.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "TEC",
-        "Summit",
-        "How"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Light reshapes gelatin scaffolds to steer cell growth in three dimensions",
+      "link": "https://phys.org/news/2026-10-reshapes-gelatin-scaffolds-cell-growth.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-29T15:10:07-04:00",
+      "score": 10,
+      "summary": "Soft, flexible hydrogels have enabled significant advancements in engineering biological tissue by mimicking the natural scaffolding that provides structure and support to cells. Existing engineered hydrogels, however, fall short in a significant way. Unlike in nature, they do...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Political information increasingly comes from pop culture",
+      "link": "https://phys.org/news/2026-10-political-culture.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-29T15:10:01-04:00",
+      "score": 10,
+      "summary": "Research on political polarization points to how people's preferred news outlets and social media use create information silos, environments in which people primarily encounter views consistent with their own, further cementing those views.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Experimental study on moths supports the molecular cookie cutter idea proposed for butterflies",
       "link": "https://phys.org/news/2026-10-experimental-moths-molecular-cookie-cutter.html",
@@ -32311,68 +32377,6 @@
       ],
       "trend_accel": "+68%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "Avian influenza threatens vulture populations worldwide",
-      "link": "https://phys.org/news/2026-10-avian-influenza-threatens-vulture-populations.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-27T13:00:01-04:00",
-      "score": 10,
-      "summary": "Vultures are one of the most threatened groups of birds in the world. Currently, at least 16 of the 23 species of vulture are of conservation concern, largely as a result of poisoning and other threats due to human activity.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Mapping the green transition of Asia-Pacific economies",
-      "link": "https://phys.org/news/2026-10-green-transition-asia-pacific-economies.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-27T12:40:10-04:00",
-      "score": 12,
-      "summary": "Countries in the Asia-Pacific can accelerate the shift to clean energy while building competitive local industries as long as policies don't slow access to affordable technologies, a new report has found.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "AsiaPacific"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -35232,6 +35236,50 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Nathan Fielder Addresses Unconventional Doc Techniques in \u2018You Can See Everything\u2019 as Academy Doc Branch Members Weigh In (Exclusive)",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/nathan-fielder-addresses-unconventional-doc-techniques-1236742362/",
+      "source": "THR",
+      "timestamp": "2026-10-29T19:15:26+00:00",
+      "score": 14,
+      "summary": "\"I'm really happy that your film is doing as well as it's doing because I think it pushes the boundaries and we all learn from it,\" Amir Bar-Lev told Fielder, while Chai Vasarhelyi said of the huge box office showing of the doc, \"It was kind of like the most beautiful moment e...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Fielder",
+        "Addresses",
+        "Unconventional",
+        "Doc",
+        "Techniques",
+        "You",
+        "Can",
+        "See",
+        "Everything",
+        "Academy",
+        "Branch",
+        "Members",
+        "Weigh",
+        "Exclusive"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Taylor Sheridan\u2019s \u2018The Last Cowboy\u2019 Sets Season 7 Premiere Date on CMT (EXCLUSIVE)",
       "link": "https://variety.com/2026/tv/news/the-last-cowboy-season-7-release-date-1236933537/",
@@ -43113,49 +43161,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Inaugural West Hollywood Human Rights Film Festival To Showcase Oscar-Contending Documentaries, 20th Anniversary Screening Of \u2018Blood Diamond\u2019",
-      "link": "https://deadline.com/2026/10/inaugural-west-hollywood-human-rights-film-festival-lineup-1237207415/",
-      "source": "Deadline",
-      "timestamp": "2026-10-28T19:43:04+00:00",
-      "score": 15,
-      "summary": "EXCLUSIVE: The inaugural West Hollywood Human Rights Film Festival is set to unfold November 20 and 21, a cinematic showcase of \u201caward-winning documentaries on global human rights, social justice and civil liberties.\u201d In addition to Oscar-contending nonfiction features and sho...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "West",
-        "Hollywood",
-        "Human",
-        "Rights",
-        "Film",
-        "Festival",
-        "Showcase",
-        "OscarContending",
-        "Documentaries",
-        "Anniversary",
-        "Screening",
-        "Blood",
-        "Diamond"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -47539,6 +47544,104 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.5 - 76 km NW of Arctic Village, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlkyrn",
+      "source": "USGS",
+      "timestamp": "2026-10-29T19:12:42.516000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-29 19:10:34 UTC2026-10-29 19:10:34 UTC at epicenterLocation68.688\u00b0N 146.594\u00b0WDepth2.70 km (1.68 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Arctic",
+        "Village",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 31 km SSE of Minto, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vlktut",
+      "source": "USGS",
+      "timestamp": "2026-10-29T19:05:58.255000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-29 19:04:56 UTC2026-10-29 19:04:56 UTC at epicenterLocation64.916\u00b0N 148.993\u00b0WDepth19.60 km (12.18 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Minto",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.0 - 19 km W of Coyanosa, Texas",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026vhyrnd",
+      "source": "USGS",
+      "timestamp": "2026-10-29T19:04:27.712000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-29 18:39:28 UTC2026-10-29 18:39:28 UTC at epicenterLocation31.218\u00b0N 103.266\u00b0WDepth3.08 km (1.91 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Coyanosa",
+        "Texas"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
       "heat_level": "LOW"
     },
     {
@@ -53885,104 +53988,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 8 km NE of Alum Rock, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75458962",
-      "source": "USGS",
-      "timestamp": "2026-10-28T14:43:51.991000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-28 14:42:14 UTC2026-10-28 14:42:14 UTC at epicenterLocation37.418\u00b0N 121.765\u00b0WDepth6.57 km (4.08 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Alum",
-        "Rock"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.1 - 39 km NE of Chase, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vjflhp",
-      "source": "USGS",
-      "timestamp": "2026-10-28T14:28:22.986000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-28 14:25:54 UTC2026-10-28 14:25:54 UTC at epicenterLocation62.722\u00b0N 149.623\u00b0WDepth69.20 km (43.00 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chase",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.3 - 56 km N of Cruz Bay, U.S. Virgin Islands",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71537823",
-      "source": "USGS",
-      "timestamp": "2026-10-28T14:09:46.150000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-28 13:34:33 UTC2026-10-28 13:34:33 UTC at epicenterLocation18.844\u00b0N 64.784\u00b0WDepth14.08 km (8.75 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Cruz",
-        "Bay",
-        "Virgin",
-        "Islands"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
