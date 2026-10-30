@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "Justice Department issues subpoenas to California election workers",
+      "link": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
+      "source": "NPR",
+      "timestamp": "2026-10-29T21:35:54-04:00",
+      "score": 14,
+      "summary": "Grand jury subpoenas sent to election workers in Los Angeles come amid escalating tensions between the Trump administration and California election officials over the state's voter rolls.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Department",
+        "California"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NPR"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Cyclone Arnab LIVE: Cyclone wreaks havoc in Odisha, over 55,000 evacuated across 9 districts",
       "link": "https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece",
       "source": "The Hindu",
@@ -505,14 +537,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 10.4,
+      "source_count": 11,
       "sources_reporting": [
-        "NYT"
+        "Bloomberg",
+        "Guardian",
+        "NPR",
+        "NYT",
+        "PBS",
+        "Reuters"
       ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
+      "trend_accel": "+77%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Republicans seize on controversy in Alaska's closely watched Senate race",
@@ -537,14 +574,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 10.4,
+      "source_count": 14,
       "sources_reporting": [
+        "AP",
+        "Bloomberg",
+        "Guardian",
+        "NPR",
+        "NYT",
         "PBS"
       ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
+      "trend_accel": "+77%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Trump Erupted After Learning of Alina Habba\u2019s $50 Million Deal",
@@ -4808,8 +4850,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "BBC",
@@ -6599,48 +6641,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Alaska Governor Orders Criminal Investigation Into Peltola Campaign",
-      "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html",
-      "source": "NYT",
-      "timestamp": "2026-10-29T07:22:59+00:00",
-      "score": 14,
-      "summary": "President Trump had lashed out at Mary Peltola after The New York Times reported that her campaign and national Democrats helped recruit spoiler candidates to the race. He offered no explanation of what crime may have been committed.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Governor",
-        "Orders",
-        "Criminal",
-        "Investigation",
-        "Into",
-        "Peltola",
-        "Campaign"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 11.2,
-      "source_count": 18,
-      "sources_reporting": [
-        "AP",
-        "Guardian",
-        "NYT",
-        "PBS",
-        "Reuters",
-        "The Hill"
-      ],
-      "trend_accel": "+85%",
-      "heat_level": "CRITICAL"
     }
   ],
   "Tech": [
@@ -13157,6 +13157,38 @@
   ],
   "World": [
     {
+      "title": "Player prepares for World Cup after career reshaped by injury",
+      "link": "https://www.abc.net.au/news/2026-10-30/physical-disability-rugby-league-world-cup-bryce-crane/107318854",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-30T01:31:39+00:00",
+      "score": 12,
+      "summary": "Bryce Crane thought his rugby league career was over after being injured in a tackle, but is instead lining up for Australia in the Physical Disability Rugby League World Cup.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "World",
+        "Cup"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Azmatullah Omarzai scripts history after walking in at 5/4, smashes T20I world record",
       "link": "https://timesofindia.indiatimes.com/sports/cricket/news/azmatullah-omarzai-scripts-history-after-walking-in-at-5/4-smashes-t20i-world-record/articleshow/135337927.cms",
       "source": "Times of India",
@@ -19664,35 +19696,6 @@
         "ABC Australia"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Spain begins mourning period after deadly train crash",
-      "link": "https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash",
-      "source": "Guardian",
-      "timestamp": "2026-10-29T05:31:16+00:00",
-      "score": 12,
-      "summary": "Emergency services combed through the wreckage overnight as Civil Guard sets up clinics for relatives to provide DNA samples and help identify victimsSpain has begun three days of mourning after a high-speed rail collision \u2013 its second this year \u2013 killed 68 people and injured ...",
-      "country": "Spain",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ],
@@ -26269,6 +26272,35 @@
   ],
   "Science": [
     {
+      "title": "Television gains ground in streaming platform era, study shows",
+      "link": "https://phys.org/news/2026-10-television-gains-ground-streaming-platform.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-29T21:40:01-04:00",
+      "score": 12,
+      "summary": "A University of Alicante (UA) study of 325 fiction series released in Spain between 2020 and 2024 has concluded that video-on-demand (VOD) platforms have not replaced traditional television. Instead, the two distribution models are developing new ways of collaborating and shar...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "New X-ray method isolates faint signals from water at material surfaces",
       "link": "https://phys.org/news/2026-10-ray-method-isolates-faint-material.html",
       "source": "Phys.org",
@@ -32329,35 +32361,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "3 out of 4 responses to UK smoke-free generation consultation were AI bot-generated",
-      "link": "https://phys.org/news/2026-10-responses-uk-free-generation-ai.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-27T18:30:01-04:00",
-      "score": 17,
-      "summary": "Three-quarters of all the responses to the U.K.'s public consultation in 2023 on creating a smoke-free generation and restricting disposable vape sales were generated by AI bots, finds an analysis of publicly available data and freedom of information requests, published online...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -35280,6 +35283,122 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Poorna Jagannathan Joins Hulu\u2019s \u2018Young Americans\u2019 Pilot, Natalia Leite To Direct",
+      "link": "https://deadline.com/2026/10/poorna-jagannathan-cast-hulu-young-americans-pilot-1237209103/",
+      "source": "Deadline",
+      "timestamp": "2026-10-30T01:43:16+00:00",
+      "score": 12,
+      "summary": "Poorna Jagannathan (Deli Boys, Lanterns) has been cast as a series regular in Hulu\u2019s Young Americans pilot. She joins the previously announced Scott Foley, Billie Boullet, Sam Rechner, Mia Isaac, Oscar Winter, and Lauren Mei. The Handmaid\u2018s Tale helmer Natalia Leite has been t...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Jagannathan",
+        "Joins",
+        "Hulus",
+        "Young",
+        "Americans",
+        "Pilot",
+        "Natalia",
+        "Leite",
+        "Direct"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Golden Bachelor\u2019s Mel Owens Subtly Addresses Peg Munson Breakup",
+      "link": "https://www.eonline.com/news/1437653/golden-bachelor-mel-owens-speaks-on-peg-munson-breakup?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-10-30T01:41:35+00:00",
+      "score": 12,
+      "summary": "Mel Owens is focusing on his golden moments. One week after Peg Munson announced the two had broken up after finding love on season two of The Golden Bachelor, Owens shared what he is focusing on...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bachelors",
+        "Mel",
+        "Owens",
+        "Subtly",
+        "Addresses",
+        "Peg",
+        "Munson",
+        "Breakup"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Ian McKellen Pays Tribute To Patrick Stewart: \u201cHe Wore His Heart On His Sleeve\u201d",
+      "link": "https://deadline.com/2026/10/ian-mckellen-pays-tribute-patrick-stewart-1237209210/",
+      "source": "Deadline",
+      "timestamp": "2026-10-30T01:36:13+00:00",
+      "score": 12,
+      "summary": "As the world mourns Sir Patrick Stewart\u2019s death at age 86, a longtime friend and collaborator is paying tribute to his legacy. Sir Ian McKellen, who starred as Magneto opposite Stewart\u2019s Professor X in the X-Men films, explained what made the late actor \u201ca man to rely on, to a...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "McKellen",
+        "Pays",
+        "Tribute",
+        "Patrick",
+        "Stewart",
+        "Wore",
+        "His",
+        "Heart",
+        "Sleeve"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Beef\u2019 Actor Justin H. Min\u2019s \u2018Journey There,\u2019 Hong Sangsoo\u2019s Locarno Winner \u2018Nowhere to Lay My Eyes\u2019 Rack Up International Sales for Finecut",
       "link": "https://variety.com/2026/film/news/beef-actor-justin-h-min-journey-there-hong-sangsoo-film-sales-1236934722/",
@@ -43059,138 +43178,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "James Gunn Calls Batman, Superman and Wonder Woman the DCU\u2019s \u2018Diamond Characters,\u2019 Says Krypto, John Stewart and Peacemaker Could \u2018Turn Into Diamonds\u2019",
-      "link": "https://variety.com/2026/film/news/james-gunn-batman-superman-wonder-woman-dcu-1236933827/",
-      "source": "Variety",
-      "timestamp": "2026-10-29T03:53:49+00:00",
-      "score": 12,
-      "summary": "James Gunn has once again taken to Threads in defense of his DC universe, and this time, is clarifying his previously proposed eight- to 10-year roadmap for the fictional world and making it clearer where each character stands within it. \u201cYou can look at my quotes from January...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gunn",
-        "Calls",
-        "Batman",
-        "Superman",
-        "Wonder",
-        "Woman",
-        "DCUs",
-        "Diamond",
-        "Characters",
-        "Says",
-        "Krypto",
-        "John",
-        "Stewart",
-        "Peacemaker",
-        "Could",
-        "Turn",
-        "Into",
-        "Diamonds"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "South Carolina Police Close Hayden Panettiere Death Investigation",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/hayden-panettiere-death-investigation-closed-police-1236742368/",
-      "source": "THR",
-      "timestamp": "2026-10-29T03:28:48+00:00",
-      "score": 12,
-      "summary": "A coroner\u2019s report last month said her death was from an accidental overdose.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Carolina",
-        "Police",
-        "Close",
-        "Hayden",
-        "Panettiere",
-        "Death",
-        "Investigation"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 17,
-      "sources_reporting": [
-        "Bloomberg",
-        "Deadline",
-        "E! News",
-        "Guardian",
-        "Reuters",
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+83%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "\u2018Tonight Show\u2019: Jimmy Fallon & Jamie Lee Curtis Channel Fielder & Holmes In Cold Open",
-      "link": "https://deadline.com/2026/10/tonight-show-jimmy-fallon-jamie-lee-curtis-fielder-holmes-1237207815/",
-      "source": "Deadline",
-      "timestamp": "2026-10-29T03:13:31+00:00",
-      "score": 12,
-      "summary": "As Jimmy Fallon gears up for Halloween, he and his latest talk show guest nailed their take on You Can See Everything. On Wednesday\u2019s episode of The Tonight Show, the 6x Emmy-winning host channeled his inner Nathan Fielder to grill Jamie Lee Curtis as Elizabeth Holmes during t...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Show",
-        "Jimmy",
-        "Fallon",
-        "Jamie",
-        "Lee",
-        "Curtis",
-        "Channel",
-        "Fielder",
-        "Holmes",
-        "Cold",
-        "Open"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -47669,6 +47656,100 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 0.7 - 7 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459612",
+      "source": "USGS",
+      "timestamp": "2026-10-30T01:40:20.470000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-30 01:38:43 UTC2026-10-30 01:38:43 UTC at epicenterLocation38.827\u00b0N 122.815\u00b0WDepth2.17 km (1.35 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+63%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Malawi",
+      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033322",
+      "source": "GDACS",
+      "timestamp": "2026-10-30T01:39:00+00:00",
+      "score": 12,
+      "summary": "On 15/10/2026, a forest fire started in Malawi, until 29/10/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Malawi"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Zambia, Zimbabwe",
+      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033298",
+      "source": "GDACS",
+      "timestamp": "2026-10-30T01:32:41+00:00",
+      "score": 12,
+      "summary": "On 15/10/2026, a forest fire started in Zambia, Zimbabwe, until 28/10/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Zambia",
+        "Zimbabwe"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.9 - 11 km ENE of P\u0101hala, Hawaii",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75065781",
@@ -54043,103 +54124,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 32 km SSE of Mina, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926375",
-      "source": "USGS",
-      "timestamp": "2026-10-28T19:21:20.059000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-28 19:18:43 UTC2026-10-28 19:18:43 UTC at epicenterLocation38.113\u00b0N 117.999\u00b0WDepth1.50 km (0.93 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Mina",
-        "Nevada"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.6 - 11 km SSE of Borrego Springs, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568392",
-      "source": "USGS",
-      "timestamp": "2026-10-28T19:10:36.013000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-28 19:06:57 UTC2026-10-28 19:06:57 UTC at epicenterLocation33.160\u00b0N 116.348\u00b0WDepth-0.70 km (-0.43 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Borrego",
-        "Springs"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 4 km SW of Redlands, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568384",
-      "source": "USGS",
-      "timestamp": "2026-10-28T19:10:32.080000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-28 19:06:19 UTC2026-10-28 19:06:19 UTC at epicenterLocation34.032\u00b0N 117.212\u00b0WDepth3.27 km (2.03 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Redlands"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
       "heat_level": "LOW"
     }
   ]
