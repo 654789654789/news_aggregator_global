@@ -6646,6 +6646,48 @@
   ],
   "Tech": [
     {
+      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+      "link": "https://www.wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems/",
+      "source": "Wired",
+      "timestamp": "2026-10-30T20:38:46+00:00",
+      "score": 14,
+      "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Supply",
+        "Chain",
+        "Attack",
+        "Put",
+        "Malicious",
+        "Anthropic",
+        "Claude",
+        "Extensions",
+        "Thousands",
+        "Devices"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Wired"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "The biggest names in AI are backing a new way to opt out of scraping",
       "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
       "source": "Verge",
@@ -13137,25 +13179,26 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Fujifilm\u2019s Instax Mini Evo 2 adds a touchscreen and video recording",
-      "link": "https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability",
-      "source": "Verge",
-      "timestamp": "2026-10-27T08:31:33-04:00",
+      "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+      "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-10-30T20:37:20+00:00",
       "score": 15,
-      "summary": "Fujifilm is trying to find the right balance of fun and photography with its latest hybrid instant camera. Like its predecessor, the Instax Mini Evo 2 feels less like a retro gimmick, and more like a basic digital camera that just happens to have a built-in printer. It also en...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
+      "summary": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.",
+      "country": "Qatar",
+      "region": "Middle East",
+      "source_type": "Newswire",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Instax",
-        "Mini",
-        "Evo"
+        "Europeans",
+        "Lavrov"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13164,15 +13207,79 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Liberal plan to scrap Treaty risks 'sending us back', Aboriginal leader warns",
+      "link": "https://www.abc.net.au/news/2026-10-31/treaty-scrap-victoria-coalition-vic-election-jess-wilson/107322868",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-30T20:33:16+00:00",
+      "score": 14,
+      "summary": "Victorian Indigenous leaders accuse Opposition Leader Jess Wilson of using Treaty as a \"political football\", warning decades of progress could be lost if the historic agreement is scrapped.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Treaty",
+        "Aboriginal"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "PM-President face-off in Poland: Top court chief suspended, court cries 'coup d'etat'",
+      "link": "https://timesofindia.indiatimes.com/world/europe/pm-president-face-off-in-poland-top-court-chief-suspended-court-cries-coup-detat-as-nawrocki-returns/articleshow/135377285.cms",
+      "source": "Times of India",
+      "timestamp": "2026-10-31T02:01:37+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "Poland",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Poland",
+        "Top"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Verge"
+        "Times of India"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Angry locals near new Sydney metro hit with loud alerts, chimes",
       "link": "https://www.abc.net.au/news/2026-10-31/locals-near-southwest-metro-angry-increase-noise-levels/107328818",
@@ -15558,7 +15665,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.7,
+      "trend_score": 11.6,
       "source_count": 18,
       "sources_reporting": [
         "ABC Australia",
@@ -19597,91 +19704,25 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Pressure grows for Venezuela's authoritarian regime as opposition leader Machado returns",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6019294/pressure-grows-for-venezuelas-authoritarian-regime-as-opposition-leader-machado-returns",
-      "source": "NPR",
-      "timestamp": "2026-10-29T18:50:27-04:00",
-      "score": 12,
-      "summary": "Maria Corina Machado's return to Venezuela presents a fresh challenge for Trump-backed President Delcy Rodr\u00edguez and reignites questions over the prospect of new elections.",
-      "country": "Venezuela",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Venezuelas",
-        "Machado"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NPR"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Permit seeks higher antibiotic dosage for diseased Tasmania salmon",
-      "link": "https://www.abc.net.au/news/2026-10-30/tasmanian-salmon-increased-florfenicol-use-request/107321996",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-29T22:40:09+00:00",
-      "score": 12,
-      "summary": "An animal health company has applied to \"increase the dose rate\" of the controversial antibiotic florfenicol in Tasmanian salmon farms, the federal regulator has confirmed.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tasmania"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Rare White House visit by top US commander puts Trump's Iran strike options in focus",
-      "link": "https://timesofindia.indiatimes.com/world/us/rare-white-house-visit-by-top-us-commander-puts-trumps-iran-strike-options-in-focus/articleshow/135333226.cms",
-      "source": "Times of India",
-      "timestamp": "2026-10-30T03:48:56+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "title": "Reddit\u2019s stock logs its biggest one-day drop ever. It\u2019s not the last of the bad news, analysts say.",
+      "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-30T20:42:00+00:00",
+      "score": 14,
+      "summary": "Reddit\u2019s stock plunged on Friday after the community-discussion forum said its search referral traffic was down significantly in the third quarter.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 7,
+      "source_type": "Financial Publication",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
+      "topic_tags": [],
       "entities": [
-        "White",
-        "House",
-        "Trumps",
-        "Iran"
+        "Its"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19692,13 +19733,79 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Times of India"
+        "MarketWatch"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Tech Stocks See Worst Day Since June, Pressuring Broader Market",
+      "link": "https://www.nytimes.com/2026/10/30/business/stock-market-october-ai.html",
+      "source": "NYT",
+      "timestamp": "2026-10-30T20:40:47+00:00",
+      "score": 14,
+      "summary": "The Nasdaq and the S&P 500 had their worst day since June as investors worried about spending on A.I. infrastructure.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stocks",
+        "See",
+        "Worst",
+        "Day",
+        "Since",
+        "June",
+        "Pressuring",
+        "Broader",
+        "Market"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3d4RHVLejNUQk5KamNvZkpmVm9BT1JQUS0xQXNxaHFVVHYwYTJ4TnRIQ0I4RkUwbmR2aWQ4VXRzaDAwdmI4Q3Q4S1lFZlhqNTBxY1p6WDVGdkFxQjdPa05BYWx4TGdsempHY3YzWllDRDRxN2Z0T2w5M1FtVGcydzNaOUdRWWgzYTdfVFJQTDJZU25NOUE?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-10-30T20:32:30+00:00",
+      "score": 17,
+      "summary": "Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom NBC NewsStock market rocked as investors dump tech shares; Nasdaq suffers worst day since June: Live updates CNBCThe selloff in tech stocks is shifting into overdrive MarketWatchStock market today: ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
       "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
@@ -26199,109 +26306,74 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Florida is voting on whether to slash property taxes. Here\u2019s who it would benefit",
-      "link": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-10-29T15:39:00+00:00",
-      "score": 12,
-      "summary": "Amendment 3\u2019s passage could add momentum to other states\u2019 efforts to slash property taxes",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Heres"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "CNBC Sport: Inside the scramble that moved Thursday's WNBA Finals game to 12:30 p.m. ET",
-      "link": "https://www.cnbc.com/2026/10/29/the-wnbas-scramble-to-move-thursdays-finals-game-6-to-1230-pm-et.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-29T15:28:27+00:00",
-      "score": 15,
-      "summary": "Many different options were considered before the WNBA decided to move Thursday's Game 6 of the WNBA Finals to a midday time slot.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sport",
-        "Inside",
-        "Thursdays",
-        "WNBA",
-        "Finals"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Caterpillar\u2019s stock is sinking. Here\u2019s what that means for the Dow.",
-      "link": "https://www.marketwatch.com/story/caterpillars-stock-heads-for-worst-day-in-7-years-and-what-that-means-for-the-dow-d67f1fb7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-10-29T15:12:00+00:00",
-      "score": 14,
-      "summary": "Caterpillar\u2019s data-center business is fine, but other areas disappointed. The stock was heading for its biggest loss in years.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Heres",
-        "Dow"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Hidden erosion: Study reveals soft mountain rock erodes three times faster than hard rock\u2014with climate implications",
+      "link": "https://phys.org/news/2026-10-hidden-erosion-reveals-soft-mountain.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-30T16:40:01-04:00",
+      "score": 14,
+      "summary": "A University of Massachusetts Amherst-led research team has discovered that weaker rock in mountain landscapes erodes three times faster than harder rock\u2014even on gentler slopes\u2014and is one of the main attributes governing mountain erosion. The finding also challenges our curren...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Study"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "GSLV places next-generation navigation satellite NVS-03 into orbit",
+      "link": "https://www.thehindu.com/sci-tech/science/nvs-03-satellite-launch-successful-isro/article71646807.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-10-31T02:08:44+05:30",
+      "score": 15,
+      "summary": "The NVS-03, with a mission life of 12 years, is expected to restore the functioning of the NavIC constellation; satellite carries an indigenous atomic clock, along with procured atomic clocks",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NVS"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 6.7,
+      "source_count": 11,
+      "sources_reporting": [
+        "Guardian",
+        "NHK",
+        "Reuters",
+        "The Hindu"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Tiny photonic chip links telescopes together to view the universe in 'astonishing' detail",
       "link": "https://phys.org/news/2026-10-tiny-photonic-chip-links-telescopes.html",
@@ -26353,8 +26425,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -26478,7 +26550,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.7,
+      "trend_score": 6.6,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -26486,7 +26558,7 @@
         "PBS",
         "Phys.org"
       ],
-      "trend_accel": "+59%",
+      "trend_accel": "+58%",
       "heat_level": "HOT"
     },
     {
@@ -26538,14 +26610,17 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 6.7,
+      "source_count": 15,
       "sources_reporting": [
+        "AP",
+        "Bloomberg",
+        "PBS",
         "The Hindu"
       ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
+      "trend_accel": "+59%",
+      "heat_level": "HOT"
     },
     {
       "title": "A decade of carbon dioxide data from space gets an upgrade",
@@ -26748,8 +26823,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 6.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "Bloomberg",
@@ -32343,54 +32418,31 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Sports": [
     {
-      "title": "Supersonic waves could explain the strange orbits of hot Jupiters and Neptunes",
-      "link": "https://phys.org/news/2026-10-supersonic-strange-orbits-hot-jupiters.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-28T14:20:06-04:00",
-      "score": 14,
-      "summary": "Using advanced new simulations, a team of astronomers in the U.S. has developed a promising new theory for how giant, gaseous exoplanets migrate into stiflingly close orbits around their host stars. Led by J. J. Zanazzi at The Pennsylvania State University, the team showed how...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
+      "title": "Sun Goddess dazzles in the Breeders' Cup Juvenile Fillies Turf",
+      "link": "https://www.skysports.com/watch/video/13605939/sun-goddess-dazzles-in-the-breeders-cup-juvenile-fillies-turf",
+      "source": "Sky Sports",
+      "timestamp": "2026-10-30T20:38:00+00:00",
+      "score": 12,
+      "summary": "Sun Goddess records a fourth success at the top level with a dominant display in the Breeders' Cup Juvenile Fillies Turf",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Jupiters",
-        "Neptunes"
+        "Goddess",
+        "Breeders",
+        "Cup",
+        "Juvenile",
+        "Fillies",
+        "Turf"
       ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "US adults say craft and sustained commitment, not fame, separate creators from influencers",
-      "link": "https://phys.org/news/2026-10-adults-craft-sustained-commitment-fame.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-28T14:20:03-04:00",
-      "score": 12,
-      "summary": "The creator economy is a growing global industry that Goldman Sachs Research reports could be worth $480 billion by 2027. But what is a creator, and what is the difference between a creator and an influencer, a celebrity or everyone else who posts online?",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -32400,13 +32452,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Phys.org"
+        "Sky Sports"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Sports": [
+    },
     {
       "title": "USA vs England LIVE! Red Roses seek WXV response after two shock defeats",
       "link": "https://www.skysports.com/rugby-union/usa-women-vs-england/live/113218",
@@ -35619,6 +35669,166 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018The Mosquito Bowl\u2019 Star Tom Francis on Singing in the Movie Last Minute and the \u2018Visceral and Intense\u2019 World War II Scenes",
+      "link": "https://variety.com/2026/film/columns/mosquito-bowl-tom-francis-singing-visceral-intense-wwii-1236931824/",
+      "source": "Variety",
+      "timestamp": "2026-10-30T20:44:25+00:00",
+      "score": 12,
+      "summary": "SPOILER ALERT: This story reveals major details about Peter Berg\u2019s new real-life World War II film \u201cThe Mosquito Bowl.\u201d When British actor Tom Francis signed with his U.S. agents at CAA, he made his aspirations very clear. \u201cOne of the first emails I sent to my agents was, \u2018Thi...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mosquito",
+        "Bowl",
+        "Star",
+        "Tom",
+        "Francis",
+        "Singing",
+        "Movie",
+        "Last",
+        "Minute",
+        "Visceral",
+        "Intense",
+        "World",
+        "War",
+        "Scenes"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Jack Antonoff and Margaret Qualley File for Divorce",
+      "link": "https://www.rollingstone.com/music/music-news/jack-antonoff-margaret-qualley-divorce-1235650655/",
+      "source": "Rolling Stone",
+      "timestamp": "2026-10-30T20:41:29+00:00",
+      "score": 12,
+      "summary": "The couple, who started dating in 2021 and married in 2023, split over the summer",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Antonoff",
+        "Margaret",
+        "Qualley",
+        "File",
+        "Divorce"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Rolling Stone"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Santa Barbara Film Fest: Inde Navarrette, Jaafar Jackson Among Eight Tapped for Virtuoso Awards",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/santa-barbara-film-fest-inde-navarrette-virtuoso-awards-1236743864/",
+      "source": "THR",
+      "timestamp": "2026-10-30T20:37:58+00:00",
+      "score": 12,
+      "summary": "Carrie Coon, Mariana di Girolamo, Rosalind Eleazar, Jordan Firstman, Anthony Ippolito and Kate O'Flynn will also be feted at a ceremony on Feb. 7, 2027.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Barbara",
+        "Film",
+        "Fest",
+        "Inde",
+        "Navarrette",
+        "Jaafar",
+        "Jackson",
+        "Among",
+        "Eight",
+        "Tapped",
+        "Virtuoso",
+        "Awards"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nelly Reveals How Much Taylor Swift Paid Him for 2011 Surprise Show",
+      "link": "https://www.eonline.com/news/1437676/taylor-swift-paid-nelly-s50-000-cash-in-mcdonalds-bag-for-2011-performance?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-10-30T20:31:06+00:00",
+      "score": 17,
+      "summary": "It's nice to have a friend in Taylor Swift\u2014just ask Nelly. The \"Ride Wit Me\" rapper detailed his longstanding friendship with the \"Patient Zero\" singer, sharing how she spontaneously asked him for...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Reveals",
+        "How",
+        "Much",
+        "Taylor",
+        "Swift",
+        "Paid",
+        "Him",
+        "Surprise",
+        "Show"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Paramount+ Acquires Rights to Moonbug Series From the \u2018Blippi\u2019 and \u2018CoComelon\u2019 Universes (EXCLUSIVE)",
       "link": "https://variety.com/2026/tv/news/paramount-blippi-cocomelon-moonbug-series-1236935530/",
@@ -43504,165 +43714,6 @@
       ],
       "trend_accel": "+80%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Sophia Bush Shares Update on One Tree Hill Cast Friendships",
-      "link": "https://www.eonline.com/news/1437633/one-tree-hills-sophia-bush-shares-bethany-joy-lenz-friendship-update?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-10-29T19:34:38+00:00",
-      "score": 12,
-      "summary": "Whenever Sophia Bush thinks of her One Tree Hill costars, she still has peace of mind. More than a decade after the actress bid Tree Hill farewell for good, she reflected on her current...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bush",
-        "Shares",
-        "Update",
-        "One",
-        "Tree",
-        "Hill",
-        "Cast",
-        "Friendships"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Nathan Fielder Addresses Unconventional Doc Techniques in \u2018You Can See Everything\u2019 as Academy Doc Branch Members Weigh In (Exclusive)",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/nathan-fielder-addresses-unconventional-doc-techniques-1236742362/",
-      "source": "THR",
-      "timestamp": "2026-10-29T19:15:26+00:00",
-      "score": 14,
-      "summary": "\"I'm really happy that your film is doing as well as it's doing because I think it pushes the boundaries and we all learn from it,\" Amir Bar-Lev told Fielder, while Chai Vasarhelyi said of the huge box office showing of the doc, \"It was kind of like the most beautiful moment e...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fielder",
-        "Addresses",
-        "Unconventional",
-        "Doc",
-        "Techniques",
-        "You",
-        "Can",
-        "See",
-        "Everything",
-        "Academy",
-        "Branch",
-        "Members",
-        "Weigh",
-        "Exclusive"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Taylor Sheridan\u2019s \u2018The Last Cowboy\u2019 Sets Season 7 Premiere Date on CMT (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/the-last-cowboy-season-7-release-date-1236933537/",
-      "source": "Variety",
-      "timestamp": "2026-10-29T19:00:00+00:00",
-      "score": 15,
-      "summary": "Taylor Sheridan\u2019s sports documentary series \u201cThe Last Cowboy\u201d is riding back onto the small screen. Season 7 of the CMT series will premiere on Nov. 6 at 8 p.m. with six episodes. Episodes will be available the next day on CMT VOD, while the first six seasons are available to ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sheridans",
-        "Last",
-        "Cowboy",
-        "Sets",
-        "Season",
-        "Premiere",
-        "Date",
-        "CMT",
-        "EXCLUSIVE"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Kelly Rowland Is Jumpin\u2019 Over Blue Ivy's Performance at Jay-Z Show",
-      "link": "https://www.eonline.com/news/1437629/jay-z-blue-ivy-performance-kelly-rowland-reacts?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-10-29T18:55:00+00:00",
-      "score": 12,
-      "summary": "Kelly Rowland doesn\u2019t have to say her name\u2014Blue Ivy\u2019s talent precedes her. Though the \u201cMotivation\u201d singer joined Destiny\u2019s Child bandmates Michelle Williams and Beyonc\u00e9 to see Jay-Z take the...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rowland",
-        "Jumpin",
-        "Over",
-        "Blue",
-        "Ivys",
-        "Performance",
-        "JayZ",
-        "Show"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -48541,6 +48592,38 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 0.8 - 6 km WNW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75460027",
+      "source": "USGS",
+      "timestamp": "2026-10-30T20:36:12.216000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-30 20:34:35 UTC2026-10-30 20:34:35 UTC at epicenterLocation38.803\u00b0N 122.812\u00b0WDepth2.38 km (1.48 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Green forest fire notification in Central African Republic",
       "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033356",
@@ -54981,38 +55064,6 @@
         "Google News"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 18 km SW of Toms Place, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75459347",
-      "source": "USGS",
-      "timestamp": "2026-10-29T12:00:33.512000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-29 11:58:57 UTC2026-10-29 11:58:57 UTC at epicenterLocation37.448\u00b0N 118.831\u00b0WDepth2.14 km (1.33 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Toms",
-        "Place"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
