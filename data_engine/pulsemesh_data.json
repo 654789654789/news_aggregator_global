@@ -1,6 +1,43 @@
 {
   "Politics": [
     {
+      "title": "Obamacare Dealt Yet Another Blow as Premiums Rise Again",
+      "link": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
+      "source": "NYT",
+      "timestamp": "2026-10-30T20:18:50+00:00",
+      "score": 14,
+      "summary": "Premiums will jump by 13 percent for next year, though much of the price increase will be offset by subsidies. But customers who earn over $64,000 will pay more, on top of this year\u2019s huge increases.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dealt",
+        "Yet",
+        "Another",
+        "Blow",
+        "Premiums",
+        "Rise",
+        "Again"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Appeals court rules against Trump \u2014 again \u2014 on California ballots",
       "link": "https://thehill.com/regulation/court-battles/6185093-trump-administration-california-ballots-ninth-circuit-appeals-court/",
       "source": "The Hill",
@@ -6605,25 +6642,24 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Milk price hike: BJP accuses Karnataka government of placing burden on people to help farmers",
-      "link": "https://www.thehindu.com/news/national/karnataka/hike-to-help-farmers-says-cm-ashok-accuses-govt-of-placing-burden-on-people/article71641665.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-10-30T09:02:28+05:30",
-      "score": 12,
-      "summary": "Chief Minister D.K. Shivakumar highlighted that all MLAs had demanded a milk price hike across party lines in both the Legislative Assembly and the Legislative Council, cutting across partylines",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "Verge",
+      "timestamp": "2026-10-30T16:26:10-04:00",
+      "score": 14,
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI comp...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "BJP",
-        "Karnataka"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6631,15 +6667,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
       "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
@@ -13136,23 +13170,25 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Sterling Anderson doesn\u2019t think humanoid robots should be building cars",
-      "link": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-      "source": "Verge",
-      "timestamp": "2026-10-27T07:00:00-04:00",
+      "title": "Angry locals near new Sydney metro hit with loud alerts, chimes",
+      "link": "https://www.abc.net.au/news/2026-10-31/locals-near-southwest-metro-angry-increase-noise-levels/107328818",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-30T20:27:50+00:00",
       "score": 12,
-      "summary": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already knew the automaker was develo...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "More than 37,000 commuters were expected to use the new Southwest Metro line by 6pm on Friday, but for local residents the service has come at a cost.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Anderson"
+        "Sydney"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13161,15 +13197,82 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Verge"
+        "ABC Australia"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Carney Commits Canada to Becoming European Union\u2019s First \u2018Associate Member\u2019",
+      "link": "https://www.nytimes.com/2026/10/30/world/canada/carney-canada-european-union.html",
+      "source": "NYT",
+      "timestamp": "2026-10-30T20:26:08+00:00",
+      "score": 12,
+      "summary": "The move is part of the Canadian prime minister\u2019s effort to reduce American influence over Canada and expand trade to other parts of the world.",
+      "country": "Canada",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Commits",
+        "Canada",
+        "Becoming",
+        "European",
+        "Unions",
+        "First",
+        "Associate",
+        "Member"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Victoria's chief health officer warns of thunderstorm asthma risk",
+      "link": "https://www.abc.net.au/news/2026-10-31/victoria-on-thunderstorm-asthma-alert/107329910",
+      "source": "ABC Australia",
+      "timestamp": "2026-10-30T20:21:18+00:00",
+      "score": 10,
+      "summary": "Large parts of eastern and northern Victoria are being warned of heightened thunderstorm asthma conditions today.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Rahul Gandhi vs Nirmala Sitharaman round 2, this time over IDBI Bank stake sale",
       "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-vs-nirmala-sitharaman-round-2-this-time-over-idbi-bank-stake-sale/articleshow/135377041.cms",
@@ -19593,53 +19696,28 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Erin Patterson appeal live updates: mushroom murderer to learn fate in retrial bid",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb",
-      "source": "Guardian",
-      "timestamp": "2026-10-29T22:18:27+00:00",
+      "title": "Criminal investigation of Alaska Senate race is 'ongoing,' U.S. Attorney says",
+      "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-30T20:29:44+00:00",
       "score": 12,
-      "summary": "Court of appeal is set to rule on the two appeals from 10am in the high profile Australian mushroom triple-murder caseErin Patterson to learn if she could face retrial or longer jail termA note on the proceedings today \u2026The court of appeal is due to make its decision at 10am t...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Patterson"
+        "Alaska",
+        "Senate",
+        "Attorney"
       ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Australia sitting on unused goldmine of old gigantic tyres",
-      "link": "https://www.abc.net.au/news/2026-10-30/buried-mining-tyres-going-to-waste-amid-global-rubber-shortfall/107322306",
-      "source": "ABC Australia",
-      "timestamp": "2026-10-29T22:02:31+00:00",
-      "score": 10,
-      "summary": "With global rubber consumption set to exceed production this year, recyclers say the 110,000 tonnes of mining tyres buried each year represent millions in potential revenue.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19649,28 +19727,63 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
     },
     {
-      "title": "Hegseth reportedly fires high-ranking army strategist over alleged leaks",
-      "link": "https://www.theguardian.com/us-news/2026/oct/29/hegseth-fires-general-leak-inquiry-pentagon",
-      "source": "Guardian",
-      "timestamp": "2026-10-29T22:01:56+00:00",
-      "score": 10,
-      "summary": "Pentagon says it has referred leak case to justice department for criminal investigationThe US defense secretary, Pete Hegseth, has reportedly dismissed Lt Gen Brett Sylvia, a high-ranking army strategist serving on the Pentagon\u2019s joint staff, following allegations that he dis...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "Midterms, Apple earnings, jobs report. Wall Street faces a big week ahead just as investors dump tech",
+      "link": "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html",
+      "source": "CNBC",
+      "timestamp": "2026-10-30T20:25:58+00:00",
+      "score": 14,
+      "summary": "Next week is shaping up to be a potentially shaky one amid rumblings in the artificial intelligence trade.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
+      "topic_tags": [],
+      "entities": [
+        "Apple",
+        "Wall",
+        "Street"
       ],
-      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Bilt simplifies its rewards program and eases Bilt Cash restrictions. Here\u2019s what to know",
+      "link": "https://www.cnbc.com/select/bilt-rewards-program-changes-2027/",
+      "source": "CNBC",
+      "timestamp": "2026-10-30T20:24:51+00:00",
+      "score": 12,
+      "summary": "Bilt announced some changes to its program starting in 2027, but users can opt out of some of the coming modifications.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bilt",
+        "Cash",
+        "Heres"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19680,13 +19793,42 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Guardian"
+        "CNBC"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "After Intel\u2019s historic stock drop, analysts say there\u2019s no reason to buy the dip",
+      "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-10-30T20:23:00+00:00",
+      "score": 14,
+      "summary": "\u201cA cheaper stock does not necessarily offer better value,\u201d one expert says.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Intels"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June: Live updates",
       "link": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
@@ -26157,19 +26299,21 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Consumer spending flattens out after U.S. inflation surge",
-      "link": "https://www.marketwatch.com/story/consumer-spending-flattens-out-after-inflation-surge-e7761d25?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-10-29T15:04:00+00:00",
-      "score": 14,
-      "summary": "Consumer spending rose sharply in September, but it largely reflected households spending more on gas and transportation after an increase in energy costs.",
+      "title": "Tiny photonic chip links telescopes together to view the universe in 'astonishing' detail",
+      "link": "https://phys.org/news/2026-10-tiny-photonic-chip-links-telescopes.html",
+      "source": "Phys.org",
+      "timestamp": "2026-10-30T16:20:06-04:00",
+      "score": 12,
+      "summary": "A tiny glass chip developed by researchers at Heriot-Watt University has linked two telescopes together to enable them to act as a single powerful instrument, marking an important step toward a new generation of astronomical technology.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26182,107 +26326,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Faisal Islam: The 10-year plan will have to fill the gaps from this 'micro Budget'",
-      "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-29T14:58:04+00:00",
-      "score": 17,
-      "summary": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Islam",
-        "Budget"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "ServiceNow shares plunge 24% after earnings revive AI disruption fears",
-      "link": "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
-      "source": "CNBC",
-      "timestamp": "2026-10-29T14:58:03+00:00",
-      "score": 17,
-      "summary": "ServiceNow's stock headed its worst day ever on underwhelming third-quarter results.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
     },
-    {
-      "title": "The South West reacts to Budget announcements",
-      "link": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-29T14:52:12+00:00",
-      "score": 12,
-      "summary": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "South",
-        "West",
-        "Budget"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "Four new frog species reveal more of Peru's biodiversity",
       "link": "https://phys.org/news/2026-10-frog-species-reveal-peru-biodiversity.html",
@@ -32356,39 +32404,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Climate change amplified 2024 European floods more than rainfall, models show",
-      "link": "https://phys.org/news/2026-10-climate-amplified-european-rainfall.html",
-      "source": "Phys.org",
-      "timestamp": "2026-10-28T14:00:08-04:00",
-      "score": 17,
-      "summary": "In September 2024, Storm Boris brought extreme precipitation and severe flooding to large parts of Central and Eastern Europe. Poland, Czechia and Austria were particularly affected. In some areas, several hundred millimeters of rain fell within a few days, and numerous rivers...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "European"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -35604,6 +35619,157 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Paramount+ Acquires Rights to Moonbug Series From the \u2018Blippi\u2019 and \u2018CoComelon\u2019 Universes (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/news/paramount-blippi-cocomelon-moonbug-series-1236935530/",
+      "source": "Variety",
+      "timestamp": "2026-10-30T20:30:00+00:00",
+      "score": 12,
+      "summary": "Paramount+ has acquired non-exclusive rights to several kids franchises from Moonbug Entertainment, including series from the \u201cCoComelon\u201d and \u201cBlippi\u201d universes. Under the new deal, some Moonbug series will begin appearing on Paramount+ starting Nov. 1. Paramount+ will acquire...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Acquires",
+        "Rights",
+        "Moonbug",
+        "Series",
+        "Blippi",
+        "CoComelon",
+        "Universes",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "American Idol Runner-Up Bo Bice Debuts Major Hair, Body Transformation",
+      "link": "https://www.eonline.com/news/1437679/american-idols-bo-bice-debuts-major-haircut-body-transformation?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-10-30T20:25:32+00:00",
+      "score": 14,
+      "summary": "Bo Bice has been rocking out with an entirely new look. The American Idol alum, who was the runner-up to Carrie Underwood on season four, revealed his long hair is firmly a \u2018do of the past,...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Idol",
+        "RunnerUp",
+        "Bice",
+        "Debuts",
+        "Major",
+        "Hair",
+        "Body",
+        "Transformation"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Untangling Stevie Wonder's Huge Family: 9 Kids, 3 Marriages & More",
+      "link": "https://www.eonline.com/news/1437624/stevie-wonder-family-guide-who-are-the-mothers-of-his-9-kids?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-10-30T20:20:38+00:00",
+      "score": 15,
+      "summary": "When Stevie Wonder starts calling his kids to say he loves them, he may be on the phone for a while. Since welcoming daughter Aisha Morris with girlfriend Yolanda Simmons in 1975, the blessed...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stevie",
+        "Wonders",
+        "Huge",
+        "Family",
+        "Kids",
+        "Marriages",
+        "More"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "HBO\u2019s \u2018Big Little Lies\u2019 Kicks Off Production On Season 3, Sort Of",
+      "link": "https://deadline.com/2026/10/hbo-big-little-lies-production-season-3-1237209893/",
+      "source": "Deadline",
+      "timestamp": "2026-10-30T20:19:20+00:00",
+      "score": 15,
+      "summary": "HBO has been feverishly working to align the schedules of the main stars of Big Little Lies to start full production on season three of the thriller series. But before that, the show shot one day of production, featuring Merrin Dungey, in order to keep its California tax credi...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Big",
+        "Little",
+        "Lies",
+        "Kicks",
+        "Off",
+        "Production",
+        "Season",
+        "Sort"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Criminal Minds: Evolution\u2019 To End With Season 20 On Paramount+",
       "link": "https://deadline.com/2026/10/criminal-minds-evolution-canceled-final-season-20-paramount-1237209750/",
@@ -43497,158 +43663,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "NewFilmmakers Los Angeles Sets Partnership with Mar del Plata International Film Festival",
-      "link": "https://deadline.com/2026/10/newfilmmakers-los-angeles-partnership-mar-del-plata-1237208520/",
-      "source": "Deadline",
-      "timestamp": "2026-10-29T18:51:34+00:00",
-      "score": 12,
-      "summary": "EXCLUSIVE: NewFilmmakers Los Angeles (NFMLA) has announced an inaugural partnership with the Mar del Plata International Film Festival in Argentina. Under the collaboration, NFMLA will bring a selection of eight short films by its alumni to the festival in November, and partic...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Los",
-        "Angeles",
-        "Sets",
-        "Partnership",
-        "Mar",
-        "Plata",
-        "International",
-        "Film",
-        "Festival"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Young Storytellers Nonprofit Launches Jamie Tarses Fund in Tribute to the Influential TV Executive",
-      "link": "https://variety.com/2026/biz/news/jamie-tarses-young-storytellers-fund-matt-1236934308/",
-      "source": "Variety",
-      "timestamp": "2026-10-29T18:48:15+00:00",
-      "score": 12,
-      "summary": "Young Storytellers, the nonprofit that supports writing development programs in Los Angeles public schools, has established the Jamie Tarses Fund to pay tribute to the late ABC and NBC executive and help support the organization\u2019s work. Young Storytellers recruits volunteers f...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Storytellers",
-        "Nonprofit",
-        "Launches",
-        "Jamie",
-        "Tarses",
-        "Fund",
-        "Tribute",
-        "Influential",
-        "Executive"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Inside Brittany Mahomes, Patrick Mahomes Pumpkin Patch Visit With Kids",
-      "link": "https://www.eonline.com/news/1437630/brittany-mahomes-shares-photos-of-family-pumpkin-patch-outing?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-10-29T18:40:44+00:00",
-      "score": 12,
-      "summary": "The Mahomes are letting the gourd times roll. Patrick Mahomes and his wife Brittany Mahomes celebrated the Halloween season by having a spook-tacular outing with their kids Sterling, 5, Bronze, 3,...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Brittany",
-        "Mahomes",
-        "Patrick",
-        "Pumpkin",
-        "Patch",
-        "Visit",
-        "Kids"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "People Inc. Cuts 195 Staffers Over \u201cRapid Changes\u201d In Media",
-      "link": "https://www.hollywoodreporter.com/business/business-news/people-inc-layoffs-1236742806/",
-      "source": "THR",
-      "timestamp": "2026-10-29T18:39:34+00:00",
-      "score": 15,
-      "summary": "Mogul Barry Diller had been looking for an \"AI proof\" investment in MGM Resorts but had dropped the takeover bid.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Inc",
-        "Cuts",
-        "Staffers",
-        "Over",
-        "Rapid",
-        "Changes",
-        "Media"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -44788,7 +44802,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.4,
+      "trend_score": 8.3,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -44797,7 +44811,7 @@
         "Guardian",
         "Vogue"
       ],
-      "trend_accel": "+69%",
+      "trend_accel": "+68%",
       "heat_level": "SURGING"
     },
     {
@@ -48527,6 +48541,103 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "Green forest fire notification in Central African Republic",
+      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033356",
+      "source": "GDACS",
+      "timestamp": "2026-10-30T20:23:10+00:00",
+      "score": 12,
+      "summary": "On 22/10/2026, a forest fire started in Central African Republic, until 30/10/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Central",
+        "African",
+        "Republic"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.8 - 56 km NNW of Petersville, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vnjdai",
+      "source": "USGS",
+      "timestamp": "2026-10-30T20:18:33.294000+00:00",
+      "score": 15,
+      "summary": "Time2026-10-30 20:14:53 UTC2026-10-30 20:14:53 UTC at epicenterLocation62.990\u00b0N 151.046\u00b0WDepth130.60 km (81.15 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Petersville",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Tanzania",
+      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033336",
+      "source": "GDACS",
+      "timestamp": "2026-10-30T20:17:33+00:00",
+      "score": 12,
+      "summary": "On 23/10/2026, a forest fire started in Tanzania, until 30/10/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tanzania"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Green forest fire notification in Niger",
       "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033345",
@@ -54902,100 +55013,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Spanish rescuers search for victims as train crash death toll rises to 69",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYm9UODU2NnZwekhXd0lSNnVsalJxQmNPbllDOEJBdllTdUwyTFFwY2NIb0F5YXBfWWgzVmxLUUNIV2JnTXgyY2tZNEZGUy1pVTRxT2ozdGFJMXFSck40ZFhKNC1LRXBMQ0ZXd2NHbWg0bk1FT1IwM3oyNHVMbTZJTnB0SjBaeTFwLW1ncFVzUElyWFpVeG5BQ0E4b3g5Sk5wY1BiME5FUGVHN0ZPNWpZQ3lRWGVwUQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-10-29T11:37:45+00:00",
-      "score": 15,
-      "summary": "Spanish rescuers search for victims as train crash death toll rises to 69 Reuters",
-      "country": "Spain",
-      "region": "Europe",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.4 - 48 km SSE of McGrath, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vkvroo",
-      "source": "USGS",
-      "timestamp": "2026-10-29T11:34:01.834000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-29 11:32:09 UTC2026-10-29 11:32:09 UTC at epicenterLocation62.563\u00b0N 155.176\u00b0WDepth3.90 km (2.42 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "McGrath",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.5 - 17 km E of Little Lake, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41568776",
-      "source": "USGS",
-      "timestamp": "2026-10-29T11:28:48.802000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-29 11:25:19 UTC2026-10-29 11:25:19 UTC at epicenterLocation35.949\u00b0N 117.724\u00b0WDepth3.87 km (2.40 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Little",
-        "Lake"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
       "heat_level": "LOW"
     }
   ]
