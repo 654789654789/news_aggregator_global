@@ -1,6 +1,42 @@
 {
   "Politics": [
     {
+      "title": "Newsom on possible Democrat \u2018tsunami\u2019 on Election Day: \u2018That\u2019s a word I haven\u2019t used lightly\u2019",
+      "link": "https://thehill.com/homenews/campaign/6187619-gavin-newsom-predicts-democrat-tsunami-election-day/",
+      "source": "The Hill",
+      "timestamp": "2026-11-02T02:09:34+00:00",
+      "score": 14,
+      "summary": "California Gov. Gavin Newsom (D) on Sunday said there\u2019s a chance that there could be a massive Democratic victory, or a \u201cblue tsunami,\u201d on Election Day, and that there is momentum behind the party to reclaim one or both chambers of Congress. \u201cIt could be that blue tsunami, but...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Seismic"
+      ],
+      "entities": [
+        "Democrat",
+        "Election",
+        "Day",
+        "Thats"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Democrats blast Stevens over Michigan \u2018betrayal\u2019",
       "link": "https://thehill.com/homenews/campaign/6187640-democrats-blast-stevens-rogers-endorsement-michigan/",
       "source": "The Hill",
@@ -933,7 +969,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.7,
+      "trend_score": 10.6,
       "source_count": 15,
       "sources_reporting": [
         "AP",
@@ -6642,37 +6678,6 @@
         "The Hill"
       ],
       "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "American tourist among three persons injured in road accident in Tiruvannamalai",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/american-tourist-among-three-persons-injured-in-road-accident-in-tiruvannamalai/article71649174.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-01T00:27:51+05:30",
-      "score": 14,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tiruvannamalai"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ],
@@ -13225,6 +13230,71 @@
   ],
   "World": [
     {
+      "title": "Ukraine's air raid alert app has been hacked",
+      "link": "https://www.abc.net.au/news/2026-11-02/ukraine-air-force-pubic-air-raid-alert-app-hacked-false-warnings/107336062",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-02T02:05:47+00:00",
+      "score": 12,
+      "summary": "The app has sent Ukrainians false warnings that some areas of the country were subject to nuclear and chemical threats.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": true,
+      "trend_score": 11.4,
+      "source_count": 17,
+      "sources_reporting": [
+        "ABC Australia",
+        "BBC",
+        "BBC",
+        "France24",
+        "Guardian",
+        "NHK"
+      ],
+      "trend_accel": "+88%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "Police use facial recognition to scan one million faces in WA trial leading to 122 arrests",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial",
+      "source": "Guardian",
+      "timestamp": "2026-11-02T02:02:34+00:00",
+      "score": 15,
+      "summary": "Deployments of surveillance vans over five months result in nine false alerts and led officers to engage with 146 registered sex offendersGet our breaking news email, free app or daily news podcastMore than a million people have had their faces scanned in a trial of real-time ...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump makes final pitch to restive voters in midterms campaign",
       "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
       "source": "FT",
@@ -13306,14 +13376,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 11.3,
+      "source_count": 13,
       "sources_reporting": [
-        "France24"
+        "ABC Australia",
+        "BBC",
+        "Bloomberg",
+        "France24",
+        "Guardian",
+        "NHK"
       ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
+      "trend_accel": "+89%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
@@ -14215,8 +14290,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.0,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "ABC Australia",
@@ -15719,8 +15794,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "ABC Australia",
@@ -19615,24 +19690,32 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Disquiet grows in Albanese\u2019s back yard as Grayndler artists unite against \u2018insane\u2019 AI proposal",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
-      "source": "Guardian",
-      "timestamp": "2026-10-31T19:00:52+00:00",
-      "score": 14,
-      "summary": "Inner west Sydney seat has long been safely held by the PM \u2013 but potential changes to copyright laws are angering its large creative communityGet our daily political email, free app or daily news podcastThe prime minister is facing growing discontent within his own electorate ...",
-      "country": "UK",
-      "region": "Europe",
+      "title": "Top stocks to watch today: Reliance Industries, Jio Platforms, NTPC, ITC shares in focus on Monday, 2 Nov",
+      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-reliance-industries-jio-platforms-ntpc-itc-shares-in-focus-on-monday-2-nov-full-list-11793583063816.html",
+      "source": "Livemint",
+      "timestamp": "2026-11-02T07:32:08+05:30",
+      "score": 17,
+      "summary": "Top stocks to watch today: Reliance Industries, Jio Platforms, ITC, Marico, NTPC, CSDL, SJVN among shares in focus on Monday, 2 November.",
+      "country": "India",
+      "region": "South Asia",
       "source_type": "Newspaper",
-      "trust_score": 9,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Albaneses",
-        "Grayndler"
+        "Reliance",
+        "Industries",
+        "Jio",
+        "Platforms",
+        "NTPC",
+        "ITC",
+        "Monday",
+        "Nov"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19641,49 +19724,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "Guardian"
+        "Livemint"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Evacuees of Russian-occupied Oleshky reunited with families",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-10-31T18:32:20+00:00",
-      "score": 12,
-      "summary": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Russianoccupied",
-        "Oleshky"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Al Jazeera"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "China Reportedly Discusses Ways to Support Stocks With Banks",
       "link": "https://www.livemint.com/market/china-reportedly-discusses-ways-to-support-stocks-with-banks-11793583684982.html",
@@ -25109,8 +25156,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
+      "trending": true,
+      "trend_score": 10.3,
       "source_count": 18,
       "sources_reporting": [
         "CNBC",
@@ -26144,8 +26191,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -26247,35 +26294,6 @@
         "CNBC"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Binance says crypto worth $6.3bn impacted in suspected hack",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-10-30T03:12:53+00:00",
-      "score": 13,
-      "summary": "The firm said roughly $3bn in assets have been frozen and that it will 'cover all losses'.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ],
@@ -36355,6 +36373,48 @@
   ],
   "Entertainment": [
     {
+      "title": "Marty Erlichman Dies: Barbra Streisand\u2019s Longtime Manager Was 97",
+      "link": "https://deadline.com/2026/11/marty-erlichman-dead-barbra-streisand-manager-1237211001/",
+      "source": "Deadline",
+      "timestamp": "2026-11-02T02:06:33+00:00",
+      "score": 15,
+      "summary": "Marty Erlichman, who discovered Barbra Streisand and in over 60 years as her manager helped shape and guide her career, has died. He was 97. Erlichman first saw Streisand when he went to see an old friend, comedian Phil Leeds, perform. In 1991, he recalled that night. \u201cOut wal...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Erlichman",
+        "Dies",
+        "Barbra",
+        "Streisands",
+        "Longtime",
+        "Manager",
+        "Was"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.4,
+      "source_count": 17,
+      "sources_reporting": [
+        "Bloomberg",
+        "Deadline",
+        "Guardian",
+        "PBS",
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+84%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Shahrbanoo Sadat and Jelena Maksimovi\u0107 Hit Back at Discrimination in Film Funding at Tokyo Festival Talk",
       "link": "https://variety.com/2026/film/festivals/shahrbanoo-sadat-hits-back-film-funding-discrimination-1236937057/",
       "source": "Variety",
@@ -36620,15 +36680,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 10,
+      "trending": true,
+      "trend_score": 11.4,
+      "source_count": 13,
       "sources_reporting": [
+        "BBC",
+        "Deadline",
+        "NHK",
+        "NPR",
         "THR",
         "Variety"
       ],
-      "trend_accel": "+64%",
-      "heat_level": "HOT"
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Marty Erlichman, Barbra Streisand\u2019s Longtime Manager, Dies at 97",
@@ -36657,14 +36721,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 11.4,
+      "source_count": 16,
       "sources_reporting": [
-        "THR"
+        "AP",
+        "BBC",
+        "Deadline",
+        "NPR",
+        "THR",
+        "Variety"
       ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
+      "trend_accel": "+82%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "From \u2018The Devil Wears Prada\u2019 to \u2018The Invite,\u2019 Costume Designers Shatter the Myth Behind Dressing Contemporary Characters: \u2018It\u2019s Very Difficult\u2019",
@@ -36826,8 +36895,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "Bloomberg",
@@ -40127,8 +40196,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.0,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "BBC",
@@ -41748,8 +41817,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.8,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -44395,47 +44464,6 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Brittany O\u2019Grady To Star In Thriller \u2018State Of Emergency\u2019 For \u2018House Of The Dragon\u2019 Director Greg Yaitanes & FilmNation",
-      "link": "https://deadline.com/2026/10/brittany-ogrady-cast-state-emergency-house-dragon-director-1237209613/",
-      "source": "Deadline",
-      "timestamp": "2026-10-30T21:02:13+00:00",
-      "score": 14,
-      "summary": "EXCLUSIVE: FilmNation Entertainment will launch AFM sales on thriller State Of Emergency under its genre production label Infrared Pictures. Starring Brittany O\u2019Grady (The White Lotus), Golden Globe and Emmy-winning director Greg Yaitanes, known for his work on hit series incl...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "OGrady",
-        "Star",
-        "Thriller",
-        "State",
-        "Emergency",
-        "House",
-        "Dragon",
-        "Director",
-        "Greg",
-        "Yaitanes",
-        "FilmNation"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 5,
@@ -49130,6 +49158,39 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 4.5 - 288 km SSE of Muroto-misakicho, Japan",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tuta",
+      "source": "USGS",
+      "timestamp": "2026-11-02T02:12:33.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-02 01:54:55 UTC2026-11-02 01:54:55 UTC at epicenterLocation30.841\u00b0N 135.199\u00b0EDepth510.07 km (316.94 mi)",
+      "country": "Japan",
+      "region": "East Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Murotomisakicho",
+        "Japan"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.7 - 2 km W of Cabo Rojo, Puerto Rico",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538308",
@@ -55599,39 +55660,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 10 km SSW of Borrego Springs, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41570544",
-      "source": "USGS",
-      "timestamp": "2026-10-31T21:56:23.950000+00:00",
-      "score": 15,
-      "summary": "Time2026-10-31 21:52:57 UTC2026-10-31 21:52:57 UTC at epicenterLocation33.171\u00b0N 116.407\u00b0WDepth10.36 km (6.44 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Borrego",
-        "Springs"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
