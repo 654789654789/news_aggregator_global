@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "Democrats accuse Musk\u2019s X of favoring Polymarket",
+      "link": "https://thehill.com/policy/technology/6190741-democrats-accuse-x-polymarket-bias/",
+      "source": "The Hill",
+      "timestamp": "2026-11-03T01:05:20+00:00",
+      "score": 14,
+      "summary": "A group of Senate Democrats accused Elon Musk\u2019s social media platform X of giving the prediction market Polymarket \u201cpreferential treatment\u201d on its timeline. In a letter to X leadership Friday, Sens. Catherine Cortez Masto (D-Nev.), Jacky Rosen (D-Nev.), Adam Schiff (D-Calif.) ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Musks",
+        "Polymarket"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Democrats Head Into Election Day Feeling Hopeful About the Midterms",
       "link": "https://www.nytimes.com/2026/11/02/us/politics/democrats-election-day-midterms.html",
       "source": "NYT",
@@ -6614,44 +6646,42 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Rain begins in north Andhra ahead of Cyclone Murasu; red-alert districts still dry",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/rain-begins-in-north-andhra-ahead-of-cyclone-murasu-red-alert-districts-still-dry/article71655510.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-02T13:41:39+05:30",
+      "title": "Ukraine\u2019s new pocket-sized gadget turns Russian drones\u2019 cameras against them",
+      "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-03T01:12:55+00:00",
       "score": 14,
-      "summary": "Kakinada (Rural) mandal records 51.75 mm by noon; the storm is likely to cross the coast near Ongole tonight",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "A Kyiv startup\u2019s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [
-        "Climatic"
+        "Geopolitics"
       ],
       "entities": [
-        "Andhra",
-        "Cyclone",
-        "Murasu"
+        "Russian"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Y Combinator\u2019s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
       "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
@@ -13124,22 +13154,26 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-28T19:19:58+00:00",
-      "score": 14,
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Animal welfare advocates criticise greyhound racing's return to NSW track",
+      "link": "https://www.abc.net.au/news/2026-11-03/greyhound-racing-returns-to-lithgow-but-welfare-groups-unhappy/107335922",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-03T01:12:10+00:00",
+      "score": 12,
+      "summary": "Greyhound racing has returned to Lithgow after a multi-million-dollar redevelopment of the track, but animal welfare groups say the upgrade will not stop dogs dying at the circuit.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "NSW"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13147,15 +13181,80 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Man and boy arrested after One Nation volunteer allegedly attacked with baseball bat in Victoria",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb",
+      "source": "Guardian",
+      "timestamp": "2026-11-03T01:09:34+00:00",
+      "score": 12,
+      "summary": "Police confirm arrest of 37-year-old and 14-year-old boy over alleged assault outside Torquay home on Sunday nightA man and boy have been arrested after a One Nation volunteer was allegedly attacked with a baseball bat outside his home on Victoria\u2019s Surf Coast.Police on Tuesda...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "One",
+        "Nation",
+        "Victoria"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-11-03T01:01:16+00:00",
+      "score": 12,
+      "summary": "US President Donald Trump urged supporters to turn out ahead of Election Day",
+      "country": "Qatar",
+      "region": "Middle East",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lincoln",
+        "Memorial",
+        "Reflecting",
+        "Pool"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
       "link": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
@@ -19474,102 +19573,6 @@
         "Al Jazeera"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Inquest hears drowning more likely than murder in case of vanishing naked man",
-      "link": "https://www.abc.net.au/news/2026-11-02/steven-fenwick-inquest-hears-drowning-more-likely-than-murder/107336678",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-02T04:17:33+00:00",
-      "score": 10,
-      "summary": "An inquest has been told drowning and possible shark intervention are more likely than murder in the case of Steven Fenwick, who was last seen naked on Stockton Beach in 2019.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies",
-      "link": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-11-02T04:08:54+00:00",
-      "score": 14,
-      "summary": "Trump attacks Muslim politicians Abdul El-Sayed and Ilhan Omar in his two last rallies on the campaign trail.",
-      "country": "Qatar",
-      "region": "Middle East",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Islamophobia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Al Jazeera"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Gill turns up the volume at Eden Park; Kohli opts for gym, Rohit stays indoors",
-      "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-vs-new-zealand-shubman-gill-turns-up-the-volume-at-eden-park-virat-kohli-opts-for-gym-rohit-sharma-stays-indoors/articleshow/135444620.cms",
-      "source": "Times of India",
-      "timestamp": "2026-11-02T09:37:52+05:30",
-      "score": 12,
-      "summary": "Shubman Gill put in a nearly three-hour workoutat Eden Park, combining an extended batting session with intensive fielding drills, while KLRahul was the only other designated batter tohit the nets. Virat Kohli opted for a gym session,with Rohit Sharma and Ruturaj Gaikwad also ...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Eden",
-        "Park",
-        "Kohli",
-        "Rohit"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+45%",
       "heat_level": "LOW"
     }
   ],
@@ -36312,6 +36315,83 @@
   ],
   "Entertainment": [
     {
+      "title": "\u2018Red Before Dawn\u2019 Review: A Road Movie Revisits the Indonesian Revolution in Ways More Didactic Than Climactic",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/red-before-dawn-review-indonesian-film-1236746350/",
+      "source": "THR",
+      "timestamp": "2026-11-03T01:15:23+00:00",
+      "score": 12,
+      "summary": "Garin Nugroho\u2019s wartime drama follows a group of disparate characters dangerously making their way across Indonesia as the fight for independence rages on.",
+      "country": "Indonesia",
+      "region": "Southeast Asia",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Before",
+        "Dawn",
+        "Review",
+        "Road",
+        "Movie",
+        "Revisits",
+        "Indonesian",
+        "Revolution",
+        "Ways",
+        "More",
+        "Didactic",
+        "Than",
+        "Climactic"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Neve Campbell Confirms Return for \u2018Scream 8\u2019",
+      "link": "https://variety.com/2026/film/news/neve-campbell-scream-8-sidney-prescott-1236938043/",
+      "source": "Variety",
+      "timestamp": "2026-11-03T01:09:49+00:00",
+      "score": 15,
+      "summary": "Sidney Prescott will return for \u201cScream 8.\u201d Neve Campbell confirmed that she will reprise her role as the ultimate final girl after Sidney survived her latest run-in with the Ghostface-masked killers in \u201cScream 7.\u201d The 2025 movie was a major box office success, tallying the 30...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Campbell",
+        "Confirms",
+        "Return",
+        "Scream"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Disney Night Returns on \u2018Dancing With the Stars\u2019 With a Broadway Twist: See the Scores, Who Went Home (Updating Live)",
       "link": "https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-disney-week-8-recap-scores-elimination-1236746352/",
       "source": "THR",
@@ -44339,82 +44419,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Gintama: Yoshiwara in Flames\u2019 Director and Producer Discuss Bringing the Cult Anime to the Big Screen",
-      "link": "https://variety.com/2026/film/asia/gintama-yoshiwara-in-flames-lucca-comics-and-games-1236936938/",
-      "source": "Variety",
-      "timestamp": "2026-11-01T21:42:25+00:00",
-      "score": 12,
-      "summary": "\u201cGintama: Yoshiwara in Flames\u201d \u2013 the latest iteration of the \u201cGintama\u201d story \u2013 previewed this week at Lucca Comics and Games, Europe\u2019s largest Comic-Con, prior to a theatrical release in Italy. Variety spoke with director Naoya And\u00f4 and producer Ryo Nakamuray about their conti...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Yoshiwara",
-        "Flames",
-        "Director",
-        "Producer",
-        "Discuss",
-        "Bringing",
-        "Cult",
-        "Anime",
-        "Big",
-        "Screen"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "My Chemical Romance Tops the Billboard 200 With 20-Year-Old Album",
-      "link": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-billboard-200-number-one-1235650097/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-11-01T21:08:58+00:00",
-      "score": 15,
-      "summary": "The rock band's The Black Parade reached the top slot with its 20th anniversary reissue, beating out Olivia Rodrigo",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chemical",
-        "Romance",
-        "Tops",
-        "Billboard",
-        "YearOld",
-        "Album"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49262,6 +49266,41 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.2 - 168 km ENE of Nagqu, China",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tv1v",
+      "source": "USGS",
+      "timestamp": "2026-11-03T01:08:59.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-03 00:27:08 UTC2026-11-03 00:27:08 UTC at epicenterLocation32.292\u00b0N 93.562\u00b0EDepth10.00 km (6.21 mi)",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "ENE",
+        "Nagqu",
+        "China"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
       "heat_level": "LOW"
     },
     {
@@ -55647,38 +55686,6 @@
         "Pilot",
         "Point",
         "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 4 km ENE of Pinnacles, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75461042",
-      "source": "USGS",
-      "timestamp": "2026-11-01T22:57:30.019000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-01 22:55:56 UTC2026-11-01 22:55:56 UTC at epicenterLocation36.548\u00b0N 121.107\u00b0WDepth5.30 km (3.29 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Pinnacles"
       ],
       "severity_score": 3,
       "alert_level": "low",
