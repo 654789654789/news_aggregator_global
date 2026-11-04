@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "Israel's president takes first steps on building new government after accepting election results",
+      "link": "https://www.pbs.org/newshour/world/israels-president-takes-first-steps-on-building-new-government-after-accepting-election-results",
+      "source": "PBS",
+      "timestamp": "2026-11-04T16:16:26-05:00",
+      "score": 12,
+      "summary": "Israeli President Isaac Herzog on Wednesday accepted the certified results of last week's parliamentary elections as legally binding and began consultations with party representatives on forming a new government.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Democrats flip legislatures, clinch trifectas in key states",
       "link": "https://thehill.com/homenews/state-watch/6199163-democrats-state-legislature-wins-trifectas/",
       "source": "The Hill",
@@ -6634,26 +6665,24 @@
       ],
       "trend_accel": "+82%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "In Karnataka seat where \u2018vote chori\u2019 claims first surfaced, over 800 voter IDs linked to 397 names after SIR",
-      "link": "https://www.thehindu.com/news/cities/bangalore/in-karnataka-seat-where-vote-chori-claims-first-surfaced-over-800-voter-ids-linked-to-397-names-after-sir/article71661304.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-04T11:40:45+05:30",
-      "score": 17,
-      "summary": "In the Mahadevapura Assembly constituency, some voters were found listed in the final rolls with the same EPIC number in two different constituencies; in some other cases, voters were issued multiple EPIC IDs",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-04T21:25:44+00:00",
+      "score": 15,
+      "summary": "OpenAI\u2019s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant\u2019s own business interests.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Karnataka",
-        "IDs",
-        "SIR"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6661,15 +6690,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Meta acquires AI coding startup Conductor",
       "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
@@ -13147,22 +13174,59 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
+    }
+  ],
+  "World": [
+    {
+      "title": "Netanyahu claims 'serious concerns' of foreign spending to sway Israeli election",
+      "link": "https://www.france24.com/en/middle-east/20261104-netanyahu-claims-serious-concerns-of-foreign-spending-to-sway-israeli-election",
+      "source": "France24",
+      "timestamp": "2026-11-04T21:26:53+00:00",
+      "score": 14,
+      "summary": "Israeli Prime Minister Benjamin Netanyahu on Wednesday cited \"serious suspicions\" around foreign interference in Israel's recent parliamentary elections. He claims foreign countries spent large amounts of money to influence the results, while the largest Arab-Israeli bloc call...",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Israeli"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "France24"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
     },
     {
-      "title": "Zest\u2019s new AI agent finds restaurants and books reservations over text",
-      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-30T17:47:12+00:00",
+      "title": "South Africans vote in key municipal elections",
+      "link": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections",
+      "source": "France24",
+      "timestamp": "2026-11-04T21:26:13+00:00",
       "score": 14,
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "summary": "In tonight's edition, a crucial test for South Africa's ruling ANC as millions vote to elect municipal governments. Also, Ethiopia has expelled six Sudanese diplomats amid accusations it's allowing the paramilitary RSF to launch drone strikes from its territory. And a deepenin...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Africans"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13172,13 +13236,76 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "TechCrunch"
+        "France24"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Social media reacts to Democrats\u2019 takeover of US Congress",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-11-04T21:21:58+00:00",
+      "score": 12,
+      "summary": "Social media is awash with reactions to Democrats\u2019 sweeping midterm gains.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Democrats",
+        "Congress"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Al Jazeera"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Israel President urges compromise after divisive election",
+      "link": "https://www.thehindu.com/news/international/israel-president-urges-compromise-after-divisive-election/article71667417.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-05T02:49:20+05:30",
+      "score": 14,
+      "summary": "President Isaac Herzog began meeting party leaders to decide whether to give Prime Minister Benjamin Netanyahu or his rival Gadi Eisenkot the first chance to form a government in the deeply polarised country",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "President"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Menindee Lakes locals fear more fish kills as hot summer forecast",
       "link": "https://www.abc.net.au/news/2026-11-05/menindee-lakes-review-locals-view-fish-kills/107255566",
@@ -19650,133 +19777,26 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Midterms live: Texas, Ohio, North and South Carolina... Democrats have already flipped 4 Senate seats",
-      "link": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
-      "source": "France24",
-      "timestamp": "2026-11-04T04:18:53+00:00",
+      "title": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress",
+      "link": "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-11-04T21:29:00+00:00",
       "score": 15,
-      "summary": "Strategic intelligence signal ingested from France24.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Texas",
-        "Ohio",
-        "North",
-        "South",
-        "Carolina",
-        "Democrats",
-        "Senate"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "US midterm elections 2026 live updates: Democrats flip key Senate seats and edge toward control of Congress",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
-      "source": "Guardian",
-      "timestamp": "2026-11-04T04:17:56+00:00",
-      "score": 17,
-      "summary": "James Talarico defeats Trump loyalist Ken Paxton; Sherrod Brown defeats incumbent John Husted; Trump says he will accept results in a dire night for RepublicansTrack live results from all 50 statesSenate full report: Democrats aim to retake chamberHouse full report: Democrats ...",
+      "summary": "Stocks surged, oil prices plunged and bond yields fell Wednesday on optimism around a quicker end to the Iran war now that Democrats have clinched control of Congress.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "source_type": "Financial Publication",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
         "Democrats",
-        "Senate",
         "Congress"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "China Southern Airlines suspends direct Darwin to China route after one year",
-      "link": "https://www.abc.net.au/news/2026-11-04/china-southern-airline-backs-out-of-darwin-after-one-year/107345298",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-04T04:17:49+00:00",
-      "score": 14,
-      "summary": "China Southern Airlines will suspend its direct flights between Darwin and Guangzhou, China after just one year operating in the NT. The airline's final scheduled flight to China will be on December 3.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Southern",
-        "Airlines",
-        "Darwin",
-        "China"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Democrat Rob Sand wins Iowa\u2019s gubernatorial race as party plans rebuild",
-      "link": "https://www.theguardian.com/us-news/2026/nov/03/rob-sand-wins-iowa-governor-election",
-      "source": "Guardian",
-      "timestamp": "2026-11-04T04:17:31+00:00",
-      "score": 12,
-      "summary": "Sand, auditor for state with strong Trump support, defeats Maha-backed Republican Zach Lahn as Democrats win bigUS midterms 2026 live \u2013 latest updatesTrack live results from all 50 statesDemocrat Rob Sand has been elected governor of Iowa, the Associated Press projects, a mile...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Rob",
-        "Sand",
-        "Iowas"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19787,13 +19807,104 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Guardian"
+        "MarketWatch"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "The economy brought Trump back to power. Now it's his downfall",
+      "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-04T21:24:22+00:00",
+      "score": 14,
+      "summary": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump",
+        "Now"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Qualcomm stock drops 5% on weak earnings forecast as memory shortage weighs on smartphone sales",
+      "link": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-04T21:16:30+00:00",
+      "score": 15,
+      "summary": "Qualcomm delivered better-than-expected results but issued a weak earnings forecast.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "A nationwide backlash against data centers erupts at the polls - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1dtLXh4bkZMU0R3X1ZqXzVKNXBjRE1JbkNuQUg5R3o2VEE4SUVEM3lqUFZZOHlKTVkyN2tYUEZIdXJTOWZuVWRlQXY1dl9vVkdTVHZFWkpuajdIX2U5UEtjQ2wwQkx4MnM1SnhpeVZCVU96cXc3U1pBekJXWlAya05CN1Q5QTNmQ2Zyc0Y4WDFLWndvQS1tdHM2eHA5R3pUdW9RUU9UcG5mSk13dUhTQ2t2V1JMWmdLU3c?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-11-04T21:16:29+00:00",
+      "score": 14,
+      "summary": "A nationwide backlash against data centers erupts at the polls The Washington PostAI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown CNBCBig Tech claims voters\u2019 AI backlash is \u201canti-Trump\u201d not \u201canti-tech\u201d Ars TechnicaSilicon Val...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Washington",
+        "Post"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Dow soars 1,500 points for best day since April 2025 on clear-cut Democratic win, falling oil: Live updates",
       "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
@@ -26211,114 +26322,21 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "The Soaring Cost of Diesel Is Bankrupting Small Trucking Companies",
-      "link": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
-      "source": "NYT",
-      "timestamp": "2026-11-03T16:09:07+00:00",
-      "score": 12,
-      "summary": "For small trucking firms operating with little margin for error, high fuel costs can make the difference between survival and bankruptcy.",
+      "title": "Bio-based smart coating combines fire protection, early warning and upcyclability",
+      "link": "https://phys.org/news/2026-11-bio-based-smart-coating-combines.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-04T16:20:24-05:00",
+      "score": 10,
+      "summary": "Researchers have developed a multifunctional fire-protective coating that not only shields materials from extreme heat but also provides an early warning of fire and can be recycled into new flame-retardant materials at the end of its life. The work, published in Polymer Degra...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Science Publication",
       "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Soaring",
-        "Cost",
-        "Diesel",
-        "Bankrupting",
-        "Small",
-        "Trucking",
-        "Companies"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The most bearish post-midterm scenario that could take the S&P 500 down 10%",
-      "link": "https://www.cnbc.com/2026/11/03/the-most-bearish-post-midterm-scenario-that-could-take-the-sp-500-down-10percent.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-03T16:00:08+00:00",
-      "score": 15,
-      "summary": "The S&P 500 could wipe out its entire 2026 gain if this particular midterm election result happens.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Shopify falls 7% after Q3 revenue and merchandise volume miss estimates",
-      "link": "https://www.cnbc.com/2026/11/03/shopify-q3-2026-earnings-gmv.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-03T15:58:54+00:00",
-      "score": 15,
-      "summary": "Shopify stock fell after the e-commerce platform's Q3 revenue and gross merchandise volume missed estimates, despite an adjusted earnings beat.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Palantir sinks 3% after earnings as analysts point to slowdown in total contract value",
-      "link": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-03T15:52:44+00:00",
-      "score": 13,
-      "summary": "The software giant's stock fell after earnings failed to impress investors.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26331,13 +26349,40 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "New research uncovers chiral topological phases in metals without structural order",
+      "link": "https://phys.org/news/2026-11-uncovers-chiral-topological-phases-metals.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-04T16:20:21-05:00",
+      "score": 10,
+      "summary": "Fermions are among the most important particles in physics and include both everyday electrons and more exotic variants. Chiral fermions, like gloves, come in left- and right-handed versions and were proposed over a century ago. While high-energy neutrinos\u2014the leading candidat...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "A cosmic 'leaf blower': Light-propelled winds help explain early universe's bright galaxies",
       "link": "https://phys.org/news/2026-11-cosmic-leaf-blower-propelled-early.html",
@@ -32389,64 +32434,6 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Experiment supports theoretical foundation for potentially more error-resistant quantum computing",
-      "link": "https://phys.org/news/2026-11-theoretical-foundation-potentially-error-resistant.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-02T13:30:01-05:00",
-      "score": 10,
-      "summary": "One approach to making information storage in quantum computing less prone to errors is known as topological quantum computing. It relies on special quantum states that are expected to be more resistant to local disturbances.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Wishing upon even star political candidates can be dangerous",
-      "link": "https://phys.org/news/2026-11-star-political-candidates-dangerous.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-02T13:20:08-05:00",
-      "score": 10,
-      "summary": "Wishing really hard for something won't necessarily make it come true, but a new study from a UConn researcher indicates up to 90% of voters expect their side to win an election, a percentage that's significantly increased over the last 15 years.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -36584,6 +36571,134 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Kate Mara, Leslie Mann, Ashton Kutcher & Billy Eichner Set For Dark Comedy \u2018Home Shopper\u2019; Architect & CAA Launch For AFM",
+      "link": "https://deadline.com/2026/11/kate-mara-leslie-mann-ashton-kutcher-cast-home-shopper-1237213534/",
+      "source": "Deadline",
+      "timestamp": "2026-11-04T21:31:14+00:00",
+      "score": 12,
+      "summary": "EXCLUSIVE: Kate Mara (The Martian), Leslie Mann (Knocked Up), Ashton Kutcher (Your Place or Mine) and Billy Eichner (Bros) are set to star in Home Shopper, a dark comedy from director Tilman Singer (Cuckoo). Based on the Dev Patel-directed 2018 Sundance short of the same name,...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mara",
+        "Leslie",
+        "Mann",
+        "Ashton",
+        "Kutcher",
+        "Billy",
+        "Eichner",
+        "Set",
+        "Dark",
+        "Comedy",
+        "Home",
+        "Shopper",
+        "Architect",
+        "CAA",
+        "Launch",
+        "AFM"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Dune 3\u2019 Cast Says the Movie Takes \u2018Departures\u2019 From the Books, but \u2018You\u2019re Crazy If You\u2019re Going to Pick Fault\u2019 With It",
+      "link": "https://variety.com/2026/film/news/dune-3-changes-books-cast-1236939217/",
+      "source": "Variety",
+      "timestamp": "2026-11-04T21:22:34+00:00",
+      "score": 15,
+      "summary": "The cast of Denis Villeneuve\u2019s \u201cDune 3\u201d is getting the word out early: There will be major \u201cdepartures\u201d form Frank Herbert\u2019s literary franchise in the upcoming film, which is set to pull heavily from Herbert\u2019s 1969 sequel novel \u201cDune Messiah.\u201d \u201cThere\u2019s a lot in this film that ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cast",
+        "Says",
+        "Movie",
+        "Takes",
+        "Departures",
+        "Books",
+        "Youre",
+        "Crazy",
+        "Going",
+        "Pick",
+        "Fault"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Daisy Ridley, Sosie Bacon & Simon Rex Set For \u2018Get Rid of It\u2019 Horror From Director Ry Russo-Young",
+      "link": "https://deadline.com/2026/11/daisy-ridley-sosie-bacon-simon-rex-get-rid-of-it-horror-1237213519/",
+      "source": "Deadline",
+      "timestamp": "2026-11-04T21:18:28+00:00",
+      "score": 14,
+      "summary": "Before I Fall (2017) director Ry Russo-Young is hitting the road for her next feature, the Gemma Holdway-penned horror Get Rid of It. Daisy Ridley (Ebenezer, Star Wars), Sosie Bacon (Smile, Scarpetta) and Simon Rex (Red Rocket, Blink Twice) have been cast in the film from Osca...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ridley",
+        "Sosie",
+        "Bacon",
+        "Simon",
+        "Rex",
+        "Set",
+        "Get",
+        "Rid",
+        "Horror",
+        "Director",
+        "RussoYoung"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "TKO Raises Guidance Again As UFC Powers Q3 Earnings",
       "link": "https://www.hollywoodreporter.com/business/business-news/tko-raises-guidance-as-ufc-powers-q3-earnings-1236747819/",
@@ -44490,118 +44605,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Jimmy Akingbola Signs With Paradigm",
-      "link": "https://deadline.com/2026/11/jimmy-akingbola-bel-air-paradigm-1237211811/",
-      "source": "Deadline",
-      "timestamp": "2026-11-03T19:58:10+00:00",
-      "score": 12,
-      "summary": "EXCLUSIVE: Jimmy Akingbola, known best for the fan-favorite role of Geoffrey on Bel-Air, has signed with Paradigm for representation. Akingbola played the Banks family house manager Geoffrey Thompson in 38 episodes of Bel-Air, the reimagining of the classic 1990s sitcom The Fr...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Akingbola",
-        "Signs",
-        "Paradigm"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "A Fresh Look at Exes Will Smith and Sheree Zampino's Co-Parenting Bond",
-      "link": "https://www.eonline.com/news/1437780/what-will-smith-sheree-zampino-said-about-marriage-divorce-co-parenting?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-11-03T19:52:20+00:00",
-      "score": 12,
-      "summary": "Now this is a story all about how Will Smith and Sheree Zampino\u2019s life got flipped, turned upside down. And we'd like to take a minute, just sit right there, to tell you how The Fresh Prince of...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fresh",
-        "Look",
-        "Exes",
-        "Will",
-        "Smith",
-        "Sheree",
-        "Zampinos",
-        "CoParenting",
-        "Bond"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Chanel Pysnik Departing As Head Of Nonfiction For Prince Harry & Meghan Markle\u2019s Archewell Prods.",
-      "link": "https://deadline.com/2026/11/chanel-pysnik-exits-head-nonfiction-harry-meghan-archewell-1237212368/",
-      "source": "Deadline",
-      "timestamp": "2026-11-03T19:44:15+00:00",
-      "score": 12,
-      "summary": "EXCLUSIVE: Chanel Pysnik is leaving Prince Harry and Meghan Markle\u2019s Archewell Productions where she served as Head of Nonfiction, Film & TV for the past five and a half years. No immediate replacement has been named for Pysnik who joined Archewell Productions in May 2021, les...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pysnik",
-        "Departing",
-        "Head",
-        "Nonfiction",
-        "Prince",
-        "Harry",
-        "Meghan",
-        "Markles",
-        "Archewell",
-        "Prods"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -46957,7 +46960,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.6,
+      "trend_score": 8.5,
       "source_count": 12,
       "sources_reporting": [
         "BBC",
@@ -46966,7 +46969,7 @@
         "NPR",
         "Vogue"
       ],
-      "trend_accel": "+75%",
+      "trend_accel": "+74%",
       "heat_level": "SURGING"
     },
     {
@@ -49528,6 +49531,39 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 2.1 - 11 km S of Jauca, Puerto Rico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538488",
+      "source": "USGS",
+      "timestamp": "2026-11-04T21:17:50.310000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-04 20:48:45 UTC2026-11-04 20:48:45 UTC at epicenterLocation17.863\u00b0N 66.348\u00b0WDepth9.28 km (5.77 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Jauca",
+        "Puerto",
+        "Rico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 2.2 - 3 km NW of Skokomish, Washington",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714134971",
@@ -56013,39 +56049,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 1 km NW of Forest Meadows, California",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926575",
-      "source": "USGS",
-      "timestamp": "2026-11-03T09:12:12.326000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-03 09:09:38 UTC2026-11-03 09:09:38 UTC at epicenterLocation38.178\u00b0N 120.419\u00b0WDepth0.00 km (0.00 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Forest",
-        "Meadows",
-        "California"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ]
