@@ -6650,6 +6650,35 @@
   ],
   "Tech": [
     {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-05T01:26:22+00:00",
+      "score": 14,
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "After the midterms, a bigger clash over data centers could be coming",
       "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
       "source": "TechCrunch",
@@ -13121,23 +13150,70 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-      "source": "TechCrunch",
-      "timestamp": "2026-10-30T21:26:59+00:00",
-      "score": 14,
-      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
+      "title": "U.S. midterm elections 2026 highlights: Trump says 'largely true' Iran war caused election loss",
+      "link": "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-lossers-live-updates-trump-republicans-democrats-news/article71660811.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-05T06:52:02+05:30",
+      "score": 17,
+      "summary": "Democrats won full control of the U.S. Congress in a sweeping midterm rout with a landslide of upsets that delivered a crushing rebuke of President Donald Trump and his Republican Party",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Halloween"
+        "Trump",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": true,
+      "trend_score": 11.5,
+      "source_count": 12,
+      "sources_reporting": [
+        "AP",
+        "CBC News",
+        "Guardian",
+        "Guardian",
+        "NPR",
+        "The Hindu"
+      ],
+      "trend_accel": "+89%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "U.S. midterm elections 2026 LIVE: Republican U.S. House Speaker to step down; Zelenskyy hopes Democrat gains will bring more help for Ukraine",
+      "link": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-05T06:50:49+05:30",
+      "score": 17,
+      "summary": "President Trump says Defence Secretary Pete Hegseth doing 'a very good job' as questions swirl about his future",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "LIVE",
+        "Republican",
+        "House",
+        "Speaker",
+        "Zelenskyy",
+        "Democrat",
+        "Ukraine"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13148,13 +13224,45 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "TechCrunch"
+        "The Hindu"
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "After Republicans routed, Trump devotes first post-midterm event to White House ballroom",
+      "link": "https://www.thehindu.com/news/international/trump-says-republicans-harmed-byiran-war-inability-to-transfer-the-love-for-him/article71667372.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-05T06:46:25+05:30",
+      "score": 12,
+      "summary": "Donald Trump said the war has been worth it to stop Tehran from \u201chaving \u200ca nuclear weapon\u201d",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Republicans",
+        "Trump",
+        "White",
+        "House"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Brazil soccer match sets world record for most red cards after mass brawl",
       "link": "https://www.abc.net.au/news/2026-11-05/brazil-soccer-match-sets-world-record-for-most-red-cards/107349416",
@@ -14985,14 +15093,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 11.5,
+      "source_count": 14,
       "sources_reporting": [
+        "Bloomberg",
+        "CBC News",
+        "Guardian",
+        "NHK",
+        "Reuters",
         "The Hindu"
       ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
+      "trend_accel": "+82%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Trump says Republicans harmed by Iran war, inability to \u2018transfer the love\u2019 for him",
@@ -18672,8 +18785,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "ABC Australia",
@@ -19624,115 +19737,45 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "US midterm election results 2026: List of Indian-origin winners",
-      "link": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-list-of-indian-origin-winners-american/article71664310.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-04T12:13:54+05:30",
-      "score": 17,
-      "summary": "Indian-Americans Suhas Subramanyam and Pia Dandiya won their seats in the US House of Representatives, while Vivek \u200cRamaswamy\u200c was defeated in \u2060the \u2060race to become Ohio\u2019s \u200cnext governor",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "List",
-        "Indianorigin"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "U.S. midterm elections 2026 LIVE: Donald Trump congratulates Democrats on victory, says Iran played role",
-      "link": "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-lossers-live-updates-trump-republicans-democrats-news/article71660811.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-04T12:11:33+05:30",
-      "score": 17,
-      "summary": "The Democrats' midterm election win puts Hakeem Jeffries in line to become the first Black speaker of the U.S. House of Representatives",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "LIVE",
-        "Donald",
-        "Trump",
-        "Democrats",
-        "Iran"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "US midterm elections 2026 live updates: Democrats win control of Congress as voters reject Donald Trump\u2019s agenda",
-      "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
-      "source": "Guardian",
-      "timestamp": "2026-11-04T06:39:10+00:00",
-      "score": 17,
-      "summary": "Democrats flip Senate seats in Texas, Iowa, Kansas, North Carolina, South Carolina and Ohio; voters reject Trump\u2019s agenda in \u2018blue wave\u2019 electionTrack live results from all 50 statesDemocrats win control of Senate Democrats retake House in \u2018blue wave\u2019 As we bring you the lates...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Democrats",
-        "Congress",
-        "Donald",
-        "Trumps"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 11.1,
-      "source_count": 17,
-      "sources_reporting": [
-        "ABC Australia",
-        "Bloomberg",
-        "Guardian",
-        "PBS",
-        "Reuters",
-        "The Hindu"
-      ],
-      "trend_accel": "+84%",
-      "heat_level": "CRITICAL"
     }
   ],
   "Business": [
+    {
+      "title": "Korea to Introduce Cornerstone Lockups to Curb Post-IPO Selloffs",
+      "link": "https://www.livemint.com/market/korea-to-introduce-cornerstone-lockups-to-curb-post-ipo-selloffs-11793841623449.html",
+      "source": "Livemint",
+      "timestamp": "2026-11-05T06:50:23+05:30",
+      "score": 12,
+      "summary": "South Korea\u2019s top financial regulator will introduce a system for cornerstone investors in initial public offerings to curb sharp price drops after listings.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Introduce",
+        "Cornerstone",
+        "Lockups",
+        "Curb",
+        "PostIPO",
+        "Selloffs"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
       "link": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
@@ -26239,19 +26282,21 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Eaton's strong quarter should mark a bottom for shares of the AI buildout winner",
-      "link": "https://www.cnbc.com/investingclub/2026/11/03/eatons-strong-quarter-should-mark-a-bottom-for-shares-of-the-ai-buildout-winner.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-03T20:46:59+00:00",
-      "score": 14,
-      "summary": "The stock has struggled in recent months.",
+      "title": "A new route to calculating gluon production in proton\u2013nucleus collisions",
+      "link": "https://phys.org/news/2026-11-route-gluon-production-protonnucleus-collisions.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-04T20:20:01-05:00",
+      "score": 10,
+      "summary": "In the theoretical study of proton-nucleus collisions, the colliding projectiles can be described as streams of color charges moving along their respective trajectories. These color charges couple to gluons, which then produce the particles that are observed in the final state...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26264,13 +26309,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Earth atmosphere emulators could enable faster and more accurate weather predictions",
       "link": "https://phys.org/news/2026-11-earth-atmosphere-emulators-enable-faster.html",
@@ -27057,7 +27100,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.7,
+      "trend_score": 6.6,
       "source_count": 10,
       "sources_reporting": [
         "Guardian",
@@ -27065,7 +27108,7 @@
         "Phys.org",
         "Reuters"
       ],
-      "trend_accel": "+65%",
+      "trend_accel": "+64%",
       "heat_level": "HOT"
     },
     {
@@ -32370,35 +32413,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Exactly solvable model reveals how trapped light can create magnetic order in one-dimensional spin chains",
-      "link": "https://phys.org/news/2026-11-solvable-reveals-magnetic-dimensional-chains.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-02T17:00:13-05:00",
-      "score": 12,
-      "summary": "A research team wanted to better understand how the forces between particles inside a material change. They discovered that by confining one-dimensional classical spin chains inside a mirror box cavity with light, they could force these magnetic particles to organize and under...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -36464,6 +36478,91 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Scrubs\u2019 Star Sarah Chalke On J.D. & Elliot\u2019s Big Reveal & Surprise Twist, Sean & Charlie\u2019s Quick Exit, Ollie\u2019s Arrival & What Comes Next",
+      "link": "https://deadline.com/2026/11/scrubs-sarah-chalke-j-d-elliot-sean-charlie-interview-1237211745/",
+      "source": "Deadline",
+      "timestamp": "2026-11-05T01:31:00+00:00",
+      "score": 12,
+      "summary": "SPOILER ALERT: The story includes details about Episode 207 of ABC\u2019s Scrubs \u201cMy Story.\u201d Episode 207 of ABC\u2019s Scrubs revival gave fans answers about what led to J.D. (Zach Braff) and Elliot\u2019s (Sarah Chalke) shocking divorce, it gave them a glimpse at what a romantic reconciliat...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Star",
+        "Sarah",
+        "Chalke",
+        "Elliots",
+        "Big",
+        "Reveal",
+        "Surprise",
+        "Twist",
+        "Sean",
+        "Charlies",
+        "Quick",
+        "Exit",
+        "Ollies",
+        "Arrival",
+        "What",
+        "Comes",
+        "Next"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "John Constantine Movie From \u2018Evil Dead Wrath\u2019s Francis Galluppi In Development At DC",
+      "link": "https://deadline.com/2026/11/john-constantine-movie-francis-galluppi-in-works-1237213853/",
+      "source": "Deadline",
+      "timestamp": "2026-11-05T01:21:01+00:00",
+      "score": 12,
+      "summary": "EXCLUSIVE: With Clayface still shapeshifting his way through theaters \u2014 to over $90M worldwide, so far \u2014 DC Studios has set Francis Galluppi to pen a John Constantine movie for the studio, sources tell Deadline. Reps for DC declined to comment. We understand the project is in ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Constantine",
+        "Movie",
+        "Evil",
+        "Dead",
+        "Wraths",
+        "Francis",
+        "Galluppi",
+        "Development"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Milcho Manchevski\u2019s \u2018Sister Brother Manhole Cover\u2019 Wins Top Prize at Tokyo Film Fest",
       "link": "https://www.hollywoodreporter.com/movies/movie-news/sister-brother-manhole-tokyo-film-fest-milcho-manchevski-1236748138/",
@@ -44378,87 +44477,6 @@
       ],
       "trend_accel": "+61%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "Park Hoon-jung\u2019s Assassin Noir \u2018Tristes Tropiques\u2019 Sells to North America, France, Spain",
-      "link": "https://variety.com/2026/film/news/park-hoon-jung-assassin-noir-tristes-tropiques-sales-1236938950/",
-      "source": "Variety",
-      "timestamp": "2026-11-04T01:00:00+00:00",
-      "score": 14,
-      "summary": "\u201cTristes Tropiques,\u201d the latest genre outing from \u201cNew World\u201d and \u201cThe Witch\u201d director Park Hoon-jung, has been picked up for North America by Well Go USA as Finecut, which is carrying the film in its AFM line-up, closes a fresh round of deals ahead of the film\u2019s Nov. 25 theat...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hoonjungs",
-        "Assassin",
-        "Noir",
-        "Tristes",
-        "Tropiques",
-        "Sells",
-        "North",
-        "America",
-        "France",
-        "Spain"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 9,
-      "sources_reporting": [
-        "Deadline",
-        "Variety"
-      ],
-      "trend_accel": "+60%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Midterm Elections: Jon Ossoff Wins Reelection To Georgia U.S. Senate Seat, Networks Project",
-      "link": "https://deadline.com/2026/11/election-2026-latest-1237212469/",
-      "source": "Deadline",
-      "timestamp": "2026-11-04T00:56:00+00:00",
-      "score": 14,
-      "summary": "Refresh for latest\u2026 Networks made their first major race projection: Jon Ossoff, winning reelection to another U.S. Senate term in Georgia. NBC News made the call in the 4 p.m. PT/7 p.m. ET hour, and was followed by CBS News and CNN. AP called the race around 5 p.m. PT/8 p.m. ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Elections",
-        "Jon",
-        "Ossoff",
-        "Wins",
-        "Reelection",
-        "Georgia",
-        "Senate",
-        "Seat",
-        "Networks",
-        "Project"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
