@@ -1,6 +1,40 @@
 {
   "Politics": [
     {
+      "title": "Just one local terrorist active in Kashmir, but terror threat remains: IGP Sujit Kumar",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/just-one-local-terrorist-active-in-kashmir-but-terror-threat-remains-igp-sujit-kumar/article71670876.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-06T05:32:03+05:30",
+      "score": 14,
+      "summary": "The police identified Lateef Ahmad, 21, a resident of south Kashmir\u2019s Kulgam, as the terrorist behind the Anantnag attack, which left one policeman dead in Anantnag\u2019s Lal Chowk",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kashmir",
+        "IGP",
+        "Sujit",
+        "Kumar"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "A look at the midterm races that remain undecided",
       "link": "https://www.pbs.org/newshour/show/a-look-at-the-midterm-races-that-remain-undecided",
       "source": "PBS",
@@ -6620,27 +6654,62 @@
       ],
       "trend_accel": "+67%",
       "heat_level": "SURGING"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Supreme Court asks Allahabad HC to give Azam Khan priority hearing",
-      "link": "https://www.thehindu.com/news/national/sc-asks-allahabad-hc-to-give-azam-khan-priority-hearing/article71669069.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-05T13:38:33+05:30",
-      "score": 12,
-      "summary": "The Supreme Court has asked the High Court to hear the case on November 16; Azam Khan alleges \u201cseries of politically motivated cases\u201d",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-06T00:07:18+00:00",
+      "score": 15,
+      "summary": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Court",
-        "Allahabad",
-        "Azam",
-        "Khan"
+        "New",
+        "York",
+        "Times",
+        "Letterboxd"
       ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 9.4,
+      "source_count": 12,
+      "sources_reporting": [
+        "AP",
+        "BBC",
+        "Reuters",
+        "TechCrunch",
+        "Verge"
+      ],
+      "trend_accel": "+77%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "Airbnb is working on an AI travel agent",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "source": "Verge",
+      "timestamp": "2026-11-05T19:06:12-05:00",
+      "score": 14,
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or s...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6650,13 +6719,44 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-06T00:01:38+00:00",
+      "score": 12,
+      "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Google",
+        "TikTok",
+        "California"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
       "link": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
@@ -6682,14 +6782,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 9.4,
+      "source_count": 11,
       "sources_reporting": [
+        "AP",
+        "NHK",
+        "Reuters",
+        "TechCrunch",
         "Verge"
       ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
+      "trend_accel": "+78%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "T-Mobile owner on Elon Musk launching a wireless carrier: \u2018Welcome to the party\u2019",
@@ -7763,8 +7867,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 18,
       "sources_reporting": [
         "BBC",
@@ -8650,8 +8754,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 8.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "Bloomberg",
@@ -13046,22 +13150,91 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Squarespace is laying off 19 percent of employees",
-      "link": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
-      "source": "Verge",
-      "timestamp": "2026-11-02T11:50:47-05:00",
-      "score": 13,
-      "summary": "The website-building platform Squarespace is laying off 19 percent of its employees as it works to \"simplify\" its operations, Squarespace spokesperson Jeff Seedman says in a statement to The Verge. The job cuts will affect around 300 of Squarespace's 1,800 employees. \"The chan...",
+      "title": "Russell Brand latest: Comedian could face lengthy jail term after rape and sexual assault convictions",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVkyQWlidWRkWXM0T0haSm5xWTVrXzh1VGozbEFLbUZxdElBU1UwbHNoWmJwOW5UY0tINHJicXdVUzFZRHU3NDc0SGExRzg3ZnFlUVJtX0JjUFlDS2lMaFg5bDNIcnJyUm5ZQnhjdEE5YlEyUHUyV2dPVDRrYlNHcUZMMzFjaTUxWFJxR1Z6Z3pBZVZyZTFMSVdB?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-11-06T00:08:09+00:00",
+      "score": 14,
+      "summary": "Russell Brand latest: Comedian could face lengthy jail term after rape and sexual assault convictions Sky NewsComedian Russell Brand found guilty by UK court of rape and sexual assaults ReutersFlashbulbs, lies and victim blaming: how Russell Brand\u2019s trial unfolded The Guardian...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
+      "source_type": "Aggregator",
       "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Brand",
+        "Comedian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Police offer $250k reward to find offshore crime boss",
+      "link": "https://www.abc.net.au/news/2026-11-06/anthony-pele-250k-reward-coconut-cartel/107354784",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-06T00:05:46+00:00",
+      "score": 13,
+      "summary": "Police describe Anthony Pele as one of their highest-priority fugitives, offering $250,000 to associates willing to turn the alleged gang leader over to authorities.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Policing faces inevitable decline unless number of forces in England and Wales is slashed \u2013 Met chief",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
+      "source": "Guardian",
+      "timestamp": "2026-11-06T00:04:37+00:00",
+      "score": 12,
+      "summary": "Sir Mark Rowley calls for \u2018third greatest revolution in policing\u2019 as major review is expected to propose creation of regional \u2018super forces\u2019Police are heading for failure unless the number of forces in England and Wales is slashed, with their ability to catch criminals collaps...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "England",
+        "Wales",
+        "Met"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13071,77 +13244,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Verge"
+        "Guardian"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
-    {
-      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
-      "link": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-02T16:44:48+00:00",
-      "score": 12,
-      "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Boost",
-        "Mobile",
-        "ATT",
-        "TMobile",
-        "Verizon"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
-      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-02T16:30:00+00:00",
-      "score": 15,
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    }
-  ],
-  "World": [
     {
       "title": "Breaking: Teenager found guilty of raping woman during home invasion",
       "link": "https://www.abc.net.au/news/2026-11-06/teenager-found-guilty-of-raping-woman-cairns/107340772",
@@ -15558,15 +15665,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 21,
+      "trending": true,
+      "trend_score": 11.2,
+      "source_count": 14,
       "sources_reporting": [
+        "BBC",
+        "Bloomberg",
         "France24",
         "Google News",
-        "Guardian"
+        "Guardian",
+        "Reuters",
+        "The Hindu"
       ],
-      "trend_accel": "+83%",
+      "trend_accel": "+89%",
       "heat_level": "CRITICAL"
     },
     {
@@ -17887,14 +17998,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 11.3,
+      "source_count": 19,
       "sources_reporting": [
-        "Guardian"
+        "BBC",
+        "France24",
+        "Google News",
+        "Guardian",
+        "NHK",
+        "PBS"
       ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
+      "trend_accel": "+84%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Met settles claim brought by Palestine activist \u2018treated like a criminal\u2019 during arrest",
@@ -19169,8 +19285,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 20,
       "sources_reporting": [
         "Al Jazeera",
@@ -19536,67 +19652,29 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
-      "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
-      "source": "Guardian",
-      "timestamp": "2026-11-05T04:04:49+00:00",
-      "score": 15,
-      "summary": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security lawHong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to \u201cforeign collusion\u201d, his second conviction under ...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "Stock futures fall after Nasdaq slips into correction; South Korea's Kospi plunges 8%: Live updates",
+      "link": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-06T00:14:04+00:00",
+      "score": 17,
+      "summary": "A bout of hard selling took hold of the market on Thursday, dragging the three major averages down to their worst session since April 2025.",
+      "country": "South Korea",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Kong",
-        "Joshua",
-        "Wong"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 23,
-      "sources_reporting": [
-        "ABC Australia",
-        "AP",
-        "Al Jazeera",
-        "BBC",
-        "CBC News",
-        "France24",
-        "Guardian",
-        "NYT",
-        "PBS",
-        "Reuters",
-        "The Hindu"
-      ],
-      "trend_accel": "+90%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Virat Kohli's 38th birthday, 38 stats: The King, the records and a legacy like no other",
-      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/virat-kohlis-38th-birthday-38-stats-the-king-the-records-and-a-legacy-like-no-other/articleshow/135556372.cms",
-      "source": "Times of India",
-      "timestamp": "2026-11-05T09:31:09+05:30",
-      "score": 15,
-      "summary": "Virat Kohli, one of cricket's greatest players, celebrates his 38th birthday today and reflects on his journey. He has achieved numerous records and is aiming for more milestones in his career. Kohli's contributions to India include a 2011 World Cup title and an expected focus...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kohlis",
-        "King"
+        "Nasdaq",
+        "South",
+        "Koreas",
+        "Kospi",
+        "Live"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19607,54 +19685,71 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Times of India"
+        "CNBC"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
     },
     {
-      "title": "Prominent Hong Kong activist Joshua Wong sentenced to 10 years in 2nd national security case",
-      "link": "https://www.cbc.ca/news/world/joshua-wong-second-sentence-9.7410128?cmp=rss",
-      "source": "CBC News",
-      "timestamp": "2026-11-04T22:53:54-05:00",
-      "score": 15,
-      "summary": "Prominent Hong Kong activist Joshua Wong was sentenced to 10 years in prison Thursday for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
-      "country": "Canada",
-      "region": "Americas",
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-06T00:06:06+00:00",
+      "score": 10,
+      "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-06T00:02:52+00:00",
+      "score": 12,
+      "summary": "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work",
+      "country": "UK",
+      "region": "Europe",
       "source_type": "Broadcaster",
       "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Hong",
-        "Kong",
-        "Joshua",
-        "Wong"
+        "Your"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.3,
-      "source_count": 16,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
       "sources_reporting": [
-        "Al Jazeera",
-        "BBC",
-        "CBC News",
-        "Guardian",
-        "NPR",
-        "PBS",
-        "Reuters",
-        "The Hindu"
+        "BBC"
       ],
-      "trend_accel": "+84%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Business": [
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Hedge Fund VARA Plunges 33% in Brutal October for AI Stocks",
       "link": "https://www.livemint.com/market/hedge-fund-vara-plunges-33-in-brutal-october-for-ai-stocks-11793923146546.html",
@@ -26133,19 +26228,21 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "4 market-moving issues investors should watch now that the midterms are over",
-      "link": "https://www.marketwatch.com/story/4-market-moving-issues-investors-should-watch-now-that-the-midterms-are-over-9a77b3de?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-11-04T19:12:00+00:00",
-      "score": 15,
-      "summary": "The Democrats\u2019 election sweep on Tuesday could have far-reaching consequences for markets and the economy.",
+      "title": "Societies could lose ability to respond to climate change",
+      "link": "https://phys.org/news/2026-11-societies-ability-climate.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-05T19:10:02-05:00",
+      "score": 10,
+      "summary": "Human societies could lose the ability to respond to worsening climate change, scientists have warned.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26156,87 +26253,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Seeking Fast Cars and Fat Wallets: A California Racetrack Looks to Grow",
-      "link": "https://www.nytimes.com/2026/11/02/business/willow-springs-racetrack-country-club.html",
-      "source": "NYT",
-      "timestamp": "2026-11-04T19:10:00+00:00",
-      "score": 12,
-      "summary": "New owners at Willow Springs in California have major plans for the once spartan track, hoping to lure expensive supercars and their wealthy drivers.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fast",
-        "Cars",
-        "Fat",
-        "Wallets",
-        "California",
-        "Racetrack",
-        "Looks",
-        "Grow"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump talks ballroom plans as Vance blames Iran war for GOP disaster: Live updates",
-      "link": "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-04T19:09:36+00:00",
-      "score": 12,
-      "summary": "Follow day two of 2026 midterm elections live updates as Democrats flip Congress in blue wave.",
-      "country": "Iran",
-      "region": "Middle East",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Vance",
-        "Iran",
-        "GOP",
-        "Live"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+58%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Laser-plasma accelerator could generate bright X-rays for biological imaging, simulations show",
       "link": "https://phys.org/news/2026-11-laser-plasma-generate-bright-rays.html",
@@ -32331,35 +32354,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Oil-producing yeast reveals two stages of fat accumulation under nitrogen limitation",
-      "link": "https://phys.org/news/2026-11-oil-yeast-reveals-stages-fat.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-03T14:20:10-05:00",
-      "score": 10,
-      "summary": "A research team led by professors Xu Guowang and Liu Xinyu from the Dalian Institute of Chemical Physics (DICP) of the Chinese Academy of Sciences (CAS), in collaboration with researchers from Dalian University of Technology, has developed a high-coverage lipidomics workflow a...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -36613,6 +36607,92 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Gay Influencer Famed for Dancing in High Heels Faces Middle Age in Nine-Year Taiwan Creative Content Fest Documentary \u2018My Silly Flirty Boys\u2019",
+      "link": "https://variety.com/2026/film/markets-festivals/high-heeled-gay-influencer-doc-taiwan-creative-content-fest-1236940913/",
+      "source": "Variety",
+      "timestamp": "2026-11-06T00:11:59+00:00",
+      "score": 14,
+      "summary": "A gay influencer in Taiwan who became famous dancing in high heels, and the filmmaker who trained his camera on him for nine years, both stare down middle age in \u201cMy Silly Flirty Boys.\u201d The documentary from Taiwan-based Hong Kong filmmaker Frankie Sin is at the Taiwan Creative...",
+      "country": "Taiwan",
+      "region": "East Asia",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Influencer",
+        "Famed",
+        "Dancing",
+        "High",
+        "Heels",
+        "Faces",
+        "Middle",
+        "Age",
+        "NineYear",
+        "Taiwan",
+        "Creative",
+        "Content",
+        "Fest",
+        "Documentary",
+        "Silly",
+        "Flirty",
+        "Boys"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Lucien Smith, Art-World Star, Died From Accidental Drug Overdose",
+      "link": "https://www.nytimes.com/2026/11/05/arts/design/artist-lucien-smith-cause-of-death.html",
+      "source": "NYT",
+      "timestamp": "2026-11-06T00:05:21+00:00",
+      "score": 12,
+      "summary": "Shortly before Mr. Smith died, he created a series of new \u201cRain Paintings\u201d that are now on display in a show at the Tripoli Gallery in Wainscott, N.Y.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Smith",
+        "ArtWorld",
+        "Star",
+        "Died",
+        "Accidental",
+        "Drug",
+        "Overdose"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Salon, Digital News Trailblazer, Folds After 31 Years",
       "link": "https://www.hollywoodreporter.com/business/business-news/salon-digital-news-trailblazer-folds-after-31-years-1236748974/",
@@ -44496,87 +44576,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Logan\u2019 Star Dafne Keen Says She Was \u201cGetting Offered Coke at Wrap Parties\u201d at 11 Years Old",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/logan-dafne-keen-getting-offered-coke-11-years-old-1236748110/",
-      "source": "THR",
-      "timestamp": "2026-11-04T23:59:46+00:00",
-      "score": 15,
-      "summary": "Of working alongside Hugh Jackman, the actress said, \"He made sure that no one was abusing my hours, that I was having fun on set, that I wasn\u2019t aware of any tensions that would\u2019ve been happening behind the scenes.\"",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Star",
-        "Dafne",
-        "Keen",
-        "Says",
-        "She",
-        "Was",
-        "Getting",
-        "Offered",
-        "Coke",
-        "Wrap",
-        "Parties",
-        "Years",
-        "Old"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "SLOMW's Whitney Leavitt Is Starring Her Own Reality Show on Hulu",
-      "link": "https://www.eonline.com/news/1437842/mormon-wives-whitney-leavitt-to-star-in-own-hulu-reality-show?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-11-04T23:50:13+00:00",
-      "score": 12,
-      "summary": "Whitney Leavitt\u2019s next move isn\u2019t a secret anymore. The Secret Lives of Mormon Wives alum is set to return to the small screen in a new Hulu reality series that follows her life with husband...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Whitney",
-        "Leavitt",
-        "Starring",
-        "Her",
-        "Own",
-        "Reality",
-        "Show",
-        "Hulu"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49359,6 +49358,102 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Zambia, Zimbabwe",
+      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033530",
+      "source": "GDACS",
+      "timestamp": "2026-11-06T00:11:12+00:00",
+      "score": 12,
+      "summary": "On 01/11/2026, a forest fire started in Zambia, Zimbabwe, until 05/11/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Zambia",
+        "Zimbabwe"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Central African Republic",
+      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033522",
+      "source": "GDACS",
+      "timestamp": "2026-11-06T00:09:51+00:00",
+      "score": 12,
+      "summary": "On 03/11/2026, a forest fire started in Central African Republic, until 05/11/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Central",
+        "African",
+        "Republic"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Botswana",
+      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033514",
+      "source": "GDACS",
+      "timestamp": "2026-11-06T00:04:53+00:00",
+      "score": 12,
+      "summary": "On 04/11/2026, a forest fire started in Botswana, until 05/11/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Botswana"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+55%",
       "heat_level": "LOW"
     },
     {
@@ -55715,109 +55810,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 84 km NNW of Karluk, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwjysa",
-      "source": "USGS",
-      "timestamp": "2026-11-04T17:39:26.748000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-04 17:36:42 UTC2026-11-04 17:36:42 UTC at epicenterLocation58.282\u00b0N 154.949\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Karluk",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.5 - 19 km SSW of Denali National Park, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vwjrrv",
-      "source": "USGS",
-      "timestamp": "2026-11-04T17:30:11.212000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-04 17:28:36 UTC2026-11-04 17:28:36 UTC at epicenterLocation63.368\u00b0N 151.802\u00b0WDepth1.00 km (0.62 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Denali",
-        "National",
-        "Park",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.0 - 77 km NNE of Punta Cana, Dominican Republic",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tvyl",
-      "source": "USGS",
-      "timestamp": "2026-11-04T17:15:01.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-04 16:59:21 UTC2026-11-04 16:59:21 UTC at epicenterLocation19.226\u00b0N 68.120\u00b0WDepth20.85 km (12.95 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNE",
-        "Punta",
-        "Cana",
-        "Dominican",
-        "Republic"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ]
