@@ -6615,6 +6615,42 @@
   ],
   "Tech": [
     {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-07T21:17:08+00:00",
+      "score": 12,
+      "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nvidia",
+        "CEO"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 8.4,
+      "source_count": 15,
+      "sources_reporting": [
+        "AP",
+        "NHK",
+        "NPR",
+        "TechCrunch",
+        "Verge"
+      ],
+      "trend_accel": "+75%",
+      "heat_level": "SURGING"
+    },
+    {
       "title": "Parents want safer phones for kids. These companies are answering the call.",
       "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
       "source": "TechCrunch",
@@ -7122,8 +7158,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 15,
       "sources_reporting": [
         "AP",
@@ -13099,40 +13135,43 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Moft\u2019s new origami case adds a kickstand and grip to the iPhone Duo",
-      "link": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
-      "source": "Verge",
-      "timestamp": "2026-11-03T12:27:52-05:00",
+      "title": "Police clash with protesters as anti-government rallies sweep France",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-11-07T21:24:10+00:00",
       "score": 12,
-      "summary": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or recon...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
+      "summary": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Newswire",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
       "entities": [
-        "Duo"
+        "France"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "Verge"
+        "Al Jazeera"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Wet-weather chaos in qualifying for Brazilian Grand Prix",
       "link": "https://www.abc.net.au/news/2026-11-08/f1-s%C3%A3o-paulo-brazil-grand-prix-qualifying/106998738",
@@ -19661,35 +19700,6 @@
         "Guardian"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Prince, the pope, and autumn 2026: purple is hot this season",
-      "link": "https://www.theguardian.com/fashion/2026/nov/06/prince-pope-autumn-2026-purple-hot-this-season",
-      "source": "Guardian",
-      "timestamp": "2026-11-06T17:51:37+00:00",
-      "score": 13,
-      "summary": "Spotted on Balenciaga, Celine and Valentino catwalks, purple is having a moment. If you really want to stand out, wear it with redThe colour purple has links to royalty, the Catholic church, Prince, Gordon Brown\u2019s ties and Barney the dinosaur andit now has a new association \u2013 ...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+45%",
       "heat_level": "LOW"
     }
   ],
@@ -26567,7 +26577,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.1,
+      "trend_score": 7.0,
       "source_count": 17,
       "sources_reporting": [
         "Bloomberg",
@@ -49401,6 +49411,70 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 1.3 - 6 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463667",
+      "source": "USGS",
+      "timestamp": "2026-11-07T21:24:51.100000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-07 21:19:44 UTC2026-11-07 21:19:44 UTC at epicenterLocation38.822\u00b0N 122.801\u00b0WDepth2.71 km (1.68 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.7 - 43 km ESE of Ambon, Indonesia",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000twu1",
+      "source": "USGS",
+      "timestamp": "2026-11-07T21:19:02.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-07 20:55:38 UTC2026-11-07 20:55:38 UTC at epicenterLocation3.905\u00b0S 128.512\u00b0EDepth136.66 km (84.91 mi)",
+      "country": "Indonesia",
+      "region": "Southeast Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Ambon",
+        "Indonesia"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.8 - 13 km W of Kalifornsky, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wcfago",
       "source": "USGS",
@@ -55851,72 +55925,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.3 - 42 km ESE of Pedro Bay, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vzspzy",
-      "source": "USGS",
-      "timestamp": "2026-11-06T12:59:16.517000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-06 12:55:29 UTC2026-11-06 12:55:29 UTC at epicenterLocation59.662\u00b0N 153.400\u00b0WDepth121.70 km (75.62 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Pedro",
-        "Bay",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 8 km NW of Houston, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026vzseio",
-      "source": "USGS",
-      "timestamp": "2026-11-06T12:43:46.286000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-06 12:42:03 UTC2026-11-06 12:42:03 UTC at epicenterLocation61.686\u00b0N 149.926\u00b0WDepth42.90 km (26.66 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Houston",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
