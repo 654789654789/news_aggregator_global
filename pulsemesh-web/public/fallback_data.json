@@ -1,6 +1,77 @@
 {
   "Politics": [
     {
+      "title": "WATCH: Trump says FBI is looking into Nvidia CEO Jensen Huang's affair with alleged Chinese agent",
+      "link": "https://www.pbs.org/newshour/politics/watch-trump-says-fbi-is-looking-into-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-agent",
+      "source": "PBS",
+      "timestamp": "2026-11-09T18:04:24-05:00",
+      "score": 14,
+      "summary": "President Donald Trump said Monday that Nvidia CEO Jensen Huang should not worry about the FBI looking into his affair with a woman alleged to be a Chinese government agent.",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump",
+        "FBI",
+        "Nvidia",
+        "CEO",
+        "Jensen",
+        "Huangs",
+        "Chinese"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Erika Kirk on Tyler Robinson\u2019s murder trial date: \u2018Disappointing\u2019",
+      "link": "https://thehill.com/regulation/court-battles/6209326-charlie-kirk-murder-trial-delayed/",
+      "source": "The Hill",
+      "timestamp": "2026-11-09T23:01:36+00:00",
+      "score": 12,
+      "summary": "The family of slain conservative activist Charlie Kirk said Monday it was \u201cdeeply disturbing\u201d that the murder trial of his accused killer, Tyler Robinson, will not begin until summer of 2028 \u2014 nearly three years after Kirk\u2019s death. A Utah judge ruled Monday that the murder tri...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kirk",
+        "Tyler",
+        "Robinsons",
+        "Disappointing"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Dana White takes podium at White House press briefing",
       "link": "https://thehill.com/homenews/administration/6209270-dana-white-press-briefing-trump/",
       "source": "The Hill",
@@ -2834,7 +2905,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.9,
+      "trend_score": 10.8,
       "source_count": 16,
       "sources_reporting": [
         "Guardian",
@@ -2903,7 +2974,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.0,
+      "trend_score": 10.9,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -2913,7 +2984,7 @@
         "PBS",
         "The Hill"
       ],
-      "trend_accel": "+84%",
+      "trend_accel": "+83%",
       "heat_level": "CRITICAL"
     },
     {
@@ -6504,24 +6575,28 @@
       ],
       "trend_accel": "+81%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Rep.-elect says Democratic majority is an \u2018opportunity\u2019 for Trump",
-      "link": "https://thehill.com/homenews/house/6207130-ojeda-urges-trump-cooperation/",
-      "source": "The Hill",
-      "timestamp": "2026-11-09T00:16:15+00:00",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "Verge",
+      "timestamp": "2026-11-09T18:07:59-05:00",
       "score": 12,
-      "summary": "Rep.-elect Richard Ojeda (D-N.C.) said Sunday that the Democrats\u2019 upcoming majority in Congress provides a chance for President Trump to work with the party to improve Americans\u2019 lives. \u201cBut make no mistake about it, if we don\u2019t get to Washington, D.C., and we don\u2019t start push...",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice H...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Democratic",
-        "Trump"
+        "Nvidia",
+        "CEO",
+        "Jensen",
+        "Huang"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6530,30 +6605,29 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "The Hill"
+        "Verge"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
     },
     {
-      "title": "Teaching GCSE topics younger risks turning schools into \u2018early exam factories\u2019, Powell warns",
-      "link": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
-      "source": "Guardian",
-      "timestamp": "2026-11-09T00:01:05+00:00",
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-09T23:03:46+00:00",
       "score": 12,
-      "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England\u2019s national curriculum Pushing GCSE subjects on younger pupils risks turning England\u2019s secondary schools into \u201cearly exam factories\u201d, the education secretary has said, warning that it ...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "GCSE",
-        "Powell"
+        "Wyndham"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6564,13 +6638,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Guardian"
+        "TechCrunch"
       ],
-      "trend_accel": "+56%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn\u2019t Work",
       "link": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
@@ -13053,63 +13125,26 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "source": "MIT Tech",
-      "timestamp": "2026-11-04T18:50:55+00:00",
-      "score": 14,
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech\u2019s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won th...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
+      "title": "Live: Beau Lamarre-Condon faces grilling in cross-examination",
+      "link": "https://www.abc.net.au/news/2026-11-10/beau-lamarre-condon-trial-live-blog-cross-examination-tuesday/107367164",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-09T23:05:32+00:00",
+      "score": 12,
+      "summary": "Beau Lamarre-Condon is back being cross-examined by the prosecution in his double murder trial.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
       "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "That"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "MIT Tech"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The Lawyer Holding Big Tech Accountable by \u2018Beating the Tar Out of Them\u2019 in Court",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-mark-lanier/",
-      "source": "Wired",
-      "timestamp": "2026-11-04T18:21:26+00:00",
-      "score": 14,
-      "summary": "Mark Lanier led the first social media addiction case to go to trial, winning a verdict against Meta and Google in March. It\u2019s just the beginning.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lawyer",
-        "Holding",
-        "Big",
-        "Tech",
-        "Accountable",
-        "Beating",
-        "Tar",
-        "Out",
-        "Them",
-        "Court"
+        "Beau",
+        "LamarreCondon"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13120,13 +13155,75 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Wired"
+        "ABC Australia"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+55%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Police hopeful of finding teen missing in dense bushland since Friday",
+      "link": "https://www.abc.net.au/news/2026-11-10/search-for-missing-teen-walhalla-east-continues/107366952",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-09T23:02:06+00:00",
+      "score": 12,
+      "summary": "William, whose surname has not been released by authorities, was camping with a friend at Walhalla East, near Cowwarr in Gippsland, when he disappeared on Friday.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Friday"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-09T23:01:32+00:00",
+      "score": 14,
+      "summary": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "FBI",
+        "Nvidia",
+        "Chinese"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Pentagon chief Hegseth expected to face House impeachment vote this week",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMWxSRW95b2hyeC00X2Q5VmF0alVielFMcVhtMVFhdFBfRUNmQlAyM3IwUkthb3JDYldrNmhuX1dVXzRRS21LMWNxX2Q2VHN3WGdOSHRyVkVBSVc1UHpIYmVFYjRvUFlIS292a3VPMkljcW5HWVBYVkdpX1ZKSE1qRWs2T21JRm9pcjZVMzRSR0FVZk1fMUs5QlhCTnBFVXpUczJIbW1n?oc=5",
@@ -19561,112 +19658,40 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Trump now says he was 'only kidding' about wanting UFC's Dana White as press secretary",
-      "link": "https://www.cbc.ca/news/world/trump-dana-white-press-secretary-9.7414466?cmp=rss",
-      "source": "CBC News",
-      "timestamp": "2026-11-08T18:56:01-05:00",
-      "score": 12,
-      "summary": "U.S. President Donald Trump on Sunday said he \u200cwas \"only kidding\" when he suggested UFC CEO Dana White could become his next White House press secretary, after a social media post a \u200bday earlier stirred speculation about recruiting his \u200bfeisty ally and signalled a combative ap...",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "UFCs",
-        "Dana",
-        "White"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CBC News"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Breaking: Trump says he was 'kidding' about offering Dana White press secretary job",
-      "link": "https://www.abc.net.au/news/2026-11-09/donald-trump-says-he-was-kidding-about-dana-white-job-offer/107362886",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-08T23:49:39+00:00",
-      "score": 12,
-      "summary": "The US president backtracks on his announcement offering Ultimate Fighting Championship CEO Dana White the vacant White House press secretary role.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Trump",
-        "Dana",
-        "White"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 14,
-      "sources_reporting": [
-        "ABC Australia",
-        "BBC",
-        "BBC",
-        "CBC News",
-        "NHK",
-        "NPR"
-      ],
-      "trend_accel": "+80%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Live: Beau Lamarre-Condon cross-examined in double murder trial",
-      "link": "https://www.abc.net.au/news/2026-11-09/beau-lamarre-condon-trial-live-blog-cross-examination/107362572",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-08T23:46:44+00:00",
-      "score": 12,
-      "summary": "Beau Lamarre-Condon is being cross-examined after giving evidence in his double murder trial.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Beau",
-        "LamarreCondon"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
+    {
+      "title": "Stock futures are little changed as traders brace for crucial consumer inflation report: Live updates",
+      "link": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-09T23:06:52+00:00",
+      "score": 14,
+      "summary": "Traders awaited the October consumer price index reading, due Tuesday morning.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Live"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
       "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
@@ -26428,23 +26453,25 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Three warship manufacturing stocks to watch in India",
-      "link": "https://www.livemint.com/market/stock-market-news/three-warship-manufacturing-stocks-to-watch-in-india-11793980065116.html",
-      "source": "Livemint",
-      "timestamp": "2026-11-07T07:01:05+05:30",
-      "score": 14,
-      "summary": "Considering stocks with a focus on warship manufacturing. Here are 3 such stocks with a solid track record in warship manufacturing.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Tree-rich landscapes help birds and bats nearly double cacao yields in Peru",
+      "link": "https://phys.org/news/2026-11-tree-rich-landscapes-birds-cacao.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-09T18:10:02-05:00",
+      "score": 12,
+      "summary": "Tropical farmers are often expected to choose between high crop yields and protecting wildlife. However, an international team of researchers led by the University of Vienna, in collaboration with the universities of G\u00f6ttingen and W\u00fcrzburg in Germany and Bioversity Internation...",
+      "country": "Peru",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "India"
+        "Peru"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26453,15 +26480,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "The ELT can probe ultra-diffuse galaxies and their dark matter mysteries",
       "link": "https://phys.org/news/2026-11-elt-probe-ultra-diffuse-galaxies.html",
@@ -32574,37 +32599,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "As Antarctic blue whales advance along the road to recovery, continued oversight is key",
-      "link": "https://phys.org/news/2026-11-antarctic-blue-whales-advance-road.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-05T16:00:13-05:00",
-      "score": 12,
-      "summary": "Antarctic blue whales appear to be creeping back from the brink of extinction after 50 years of protection. A new study estimates the total population at 4,018, up from 418 after the last reported whale catch in 1973.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Antarctic"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32805,7 +32799,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.5,
+      "trend_score": 6.4,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -32814,7 +32808,7 @@
         "Sky Sports"
       ],
       "trend_accel": "+59%",
-      "heat_level": "HOT"
+      "heat_level": "LOW"
     },
     {
       "title": "'In hindsight, it's a good thing' - seaming conditions could be a blessing in disguise",
@@ -35983,6 +35977,88 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Bong Joon Ho on Restoring \u2018The Host\u2019 and Why It Still Resonates 20 Years On: \u2018We Are Repeating Our Mistakes\u2019",
+      "link": "https://variety.com/2026/film/news/bong-joon-ho-the-host-restoration-20-years-1236943560/",
+      "source": "Variety",
+      "timestamp": "2026-11-09T23:08:26+00:00",
+      "score": 15,
+      "summary": "Bong Joon Ho has revisited \u201cThe Host\u201d for a 20th-anniversary 4K restoration, and the Oscar-winning director says the 2006 monster movie\u2019s satire of official misinformation feels newly pertinent. Magnolia Pictures will return the remastered film to theaters nationwide on Nov. 2...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Joon",
+        "Restoring",
+        "Host",
+        "Why",
+        "Still",
+        "Resonates",
+        "Years",
+        "Are",
+        "Repeating",
+        "Our",
+        "Mistakes"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Sean Penn, Ava DuVernay and Laura Poitras Turn Out For San Francisco\u2019s Doc Stories",
+      "link": "https://variety.com/2026/film/news/sean-penn-ava-duvernay-laura-poitras-doc-stories-1236943431/",
+      "source": "Variety",
+      "timestamp": "2026-11-09T23:02:06+00:00",
+      "score": 12,
+      "summary": "Sean Penn isn\u2019t exactly a fixture on the regional documentary festival circuit. But SFFILM\u2019s Doc Stories has a way of attracting high-profile supporters. On Saturday, Penn was at the fest\u2019s Vogue Theatre in San Francisco to introduce James Marcus Haney\u2019s \u201cBlack Sunflowers,\u201d a ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Penn",
+        "Ava",
+        "DuVernay",
+        "Laura",
+        "Poitras",
+        "Turn",
+        "Out",
+        "San",
+        "Franciscos",
+        "Doc",
+        "Stories"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M. John Harrison Wins The 2026 Booker Prize With \u2018The End Of Everything\u2019",
       "link": "https://deadline.com/2026/11/m-john-harrison-wins-the-booker-prize-the-end-of-everything-1237217813/",
@@ -44004,93 +44080,6 @@
       ],
       "trend_accel": "+55%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Godzilla Minus Zero\u2019 Is King Of The Global Weekend Box Office With $63M, Towers Over \u2018Ramayana\u2019s $55M+ WW Opening",
-      "link": "https://deadline.com/2026/11/box-office-global-godzilla-minus-zero-ramayana-rise-of-a-legend-1237216698/",
-      "source": "Deadline",
-      "timestamp": "2026-11-08T16:37:33+00:00",
-      "score": 15,
-      "summary": "Refresh for more\u2026Toho\u2019s lizard had no plans to be undone by a Hindu diety in a fight at the global box office as Godzilla Minus Zero roared $63M WW over Prime Focus Studio and Sony\u2019s Ramayana: Rise of a Legend\u2018s $55.7M global, the bulk of that gross in India. Ramayana had good...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Minus",
-        "Zero",
-        "King",
-        "Global",
-        "Weekend",
-        "Box",
-        "Office",
-        "Towers",
-        "Over",
-        "Ramayanas",
-        "Opening"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018SNL\u2019 Makes Grok Do An \u201cEpic Vulgar Roast\u201d Of Elon Musk On \u2018Weekend Update\u2019: \u201cThe Worst Thing South Africa Has Ever Done\u201d",
-      "link": "https://deadline.com/2026/11/snl-grok-epic-vulgar-roast-elon-musk-weekend-update-1237216693/",
-      "source": "Deadline",
-      "timestamp": "2026-11-08T16:35:37+00:00",
-      "score": 12,
-      "summary": "Elon Musk has returned to Saturday Night Live, through Jeremy Culhane\u2019s hilarious impression, to give a postmortem of the midterm elections. As \u201cWeekend Update\u201d co-anchor Colin Jost noted, Musk has been in the news after he wasted half a billion dollars on backing candidates w...",
-      "country": "South Africa",
-      "region": "Africa",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Makes",
-        "Grok",
-        "Epic",
-        "Vulgar",
-        "Roast",
-        "Elon",
-        "Musk",
-        "Weekend",
-        "Update",
-        "Worst",
-        "Thing",
-        "South",
-        "Africa",
-        "Has",
-        "Ever",
-        "Done"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49042,47 +49031,73 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "9 Best Scalp Shampoos for Your Scalp to Help Dryness, Flakiness, and Sensitivity",
-      "link": "https://www.vogue.com/article/best-scalp-shampoo",
-      "source": "Vogue",
-      "timestamp": "2026-11-02T23:08:40+00:00",
+      "title": "M 2.8 - 21 km W of Preston, Nevada",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926833",
+      "source": "USGS",
+      "timestamp": "2026-11-09T23:13:09.179000+00:00",
       "score": 15,
-      "summary": "The best shampoos for your scalp give a thorough cleanse without adding more irritation. Here, experts break down their favorite scalp shampoos by Aveeno, Nizoral, Briogeo, and more.",
+      "summary": "Time2026-11-09 22:56:58 UTC2026-11-09 22:56:58 UTC at epicenterLocation38.932\u00b0N 115.310\u00b0WDepth3.86 km (2.40 mi)",
       "country": "US",
       "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Best",
-        "Scalp",
-        "Shampoos",
-        "Your",
-        "Help",
-        "Dryness",
-        "Flakiness",
-        "Sensitivity"
+        "Preston",
+        "Nevada"
       ],
-      "severity_score": 0,
+      "severity_score": 3,
       "alert_level": "low",
-      "mode": "normal",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Vogue"
+        "USGS"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+57%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
+    {
+      "title": "M 1.0 - 86 km NW of Karluk, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wgbdtk",
+      "source": "USGS",
+      "timestamp": "2026-11-09T23:09:52.529000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-09 23:09:06 UTC2026-11-09 23:09:06 UTC at epicenterLocation58.190\u00b0N 155.334\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Karluk",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 3.0 - 29 km NW of Preston, Nevada",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926833",
@@ -55551,72 +55566,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "With Stephen Miller at the helm, Trump charts a course for conflict",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0hzOUNLZUw4VklCNFBfZ0lyaU1WWTVXaFJUT0NNd3J4VUloem9VdDRfbW96WXh6MWQwLURSbC1LN3d5N2h5VGhteVRyWlB6RXI0bTBpdTBXVkVFbmQyRjZqLWlvVUl5R2g4QU13QzFlbzRKVmMwSmRCdEtyaHZQbGdBSmZvY2ZqRmFWMFJDQm5YVGVQNnRKYW03STJMVTI2RkhDLVh6N2dyX01JaWc?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-11-08T17:01:45+00:00",
-      "score": 12,
-      "summary": "With Stephen Miller at the helm, Trump charts a course for conflict Reuters",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Stephen",
-        "Miller",
-        "Trump"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 22 km SSE of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068572",
-      "source": "USGS",
-      "timestamp": "2026-11-08T16:55:08.670000+00:00",
-      "score": 17,
-      "summary": "Time2026-11-08 16:51:37 UTC2026-11-08 16:51:37 UTC at epicenterLocation19.026\u00b0N 155.366\u00b0WDepth31.01 km (19.27 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ]
