@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "Live updates: Massie reads articles of impeachment against Hegseth as Congress returns to DC",
+      "link": "https://thehill.com/homenews/administration/6207029-live-updates-trump-congress-lame-duck/",
+      "source": "The Hill",
+      "timestamp": "2026-11-09T19:21:46+00:00",
+      "score": 14,
+      "summary": "Congress returns to Washington after weeks away and a stunning reversal of fortune for Republicans in last week\u2019s midterm election. Senate Republicans, in particular, are furious with President Trump, whom they blame for the loss of both chambers of Congress. And the to-do lis...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Massie",
+        "Hegseth",
+        "Congress"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "In memoir, Biden says Trump should carry the weight of Jan. 6 riots 'to his grave'",
       "link": "https://www.pbs.org/newshour/arts/in-memoir-biden-says-trump-should-carry-the-weight-of-jan-6-riots-to-his-grave",
       "source": "PBS",
@@ -6534,24 +6567,62 @@
       ],
       "trend_accel": "+69%",
       "heat_level": "SURGING"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Hamilton says many people in Kansas view Schumer as \u2018polarizing\u2019",
-      "link": "https://thehill.com/homenews/senate/6206570-hamilton-calls-schumer-polarizing/",
-      "source": "The Hill",
-      "timestamp": "2026-11-08T16:48:46+00:00",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-09T19:24:51+00:00",
       "score": 12,
-      "summary": "Sen.-elect Adam Hamilton (D-Kans.) on Sunday said that many people in Kansas view Senate Minority Leader Chuck Schumer (D-N.Y.) as \u201cpolarizing.\u201d \u201cMeet the Press\u201d host Kristen Welker asked Hamilton on NBC News about why the top Senate Democrat, who Hamilton has been critical of...",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Kansas",
-        "Schumer"
+        "Mythos",
+        "Fable",
+        "RSI"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 8.7,
+      "source_count": 11,
+      "sources_reporting": [
+        "Bloomberg",
+        "NPR",
+        "PBS",
+        "TechCrunch",
+        "Verge"
+      ],
+      "trend_accel": "+75%",
+      "heat_level": "SURGING"
+    },
+    {
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-09T19:21:46+00:00",
+      "score": 17,
+      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nominal"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6560,15 +6631,44 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hill"
+        "TechCrunch"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-09T19:19:24+00:00",
+      "score": 12,
+      "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Apple\u2019s $50 Intelligence Usage Packs extend access to some AI features",
       "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
@@ -6695,8 +6795,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -13012,56 +13112,29 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "God of War Laufey delayed until May",
-      "link": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
-      "source": "Verge",
-      "timestamp": "2026-11-04T12:10:31-05:00",
+      "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
+      "link": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
+      "source": "NYT",
+      "timestamp": "2026-11-09T19:29:39+00:00",
       "score": 12,
-      "summary": "God of War Laufey's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today. It was previously set to launch on PS5 on February 16th. Here is Santa Monica Studio's full message about the delay: Since the reveal of God of War Laufey in Jun...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "summary": "The French foreign minister said he had summoned the Iranian ambassador to France after a cyberattack on hundreds of supermarkets last month. Iran did not immediately respond.",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "War",
-        "Laufey",
-        "May"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Nintendo is losing a Switch cartridge supplier",
-      "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
-      "source": "Verge",
-      "timestamp": "2026-11-04T12:03:32-05:00",
-      "score": 12,
-      "summary": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Tim...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Switch"
+        "Blames",
+        "Iran",
+        "Cyberattack",
+        "Refrigeration",
+        "Systems"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13072,30 +13145,91 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Verge"
+        "NYT"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "France opens probe into Iranian cyber unit over fridge attacks",
+      "link": "https://www.france24.com/en/france-opens-probe-into-iranian-cyber-unit-over-fridge-attacks",
+      "source": "France24",
+      "timestamp": "2026-11-09T19:24:54+00:00",
+      "score": 12,
+      "summary": "France on Monday said Iran's Revolutionary Guards were behind \"unprecedented\" cyberattacks on supermarket fridges in the country last month, vowing sanctions on a European level against Tehran. Swathes of French supermarkets were hit in the October 11 and 12 cyberattacks, whic...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Iranian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "France24"
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
     },
     {
-      "title": "I tried Apple\u2019s Siri Recaps. They\u2019re surprisingly useful \u2014 and a little unsettling",
-      "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-04T16:51:35+00:00",
+      "title": "New attempt to impeach Hegseth introduced in US Congress",
+      "link": "https://www.abc.net.au/news/2026-11-10/us-defence-secretary-pete-hegseth-subject-of-new-impeachment-bid/107366698",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-09T19:24:06+00:00",
       "score": 12,
-      "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+      "summary": "Question marks hang over Pete Hegseth's tenure as US defence secretary after a fresh attempt to impeach him was launched in Congress amid growing bipartisan calls for him to resign.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Apples",
-        "Siri",
-        "Recaps",
-        "Theyre"
+        "Hegseth",
+        "Congress"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Republican lawmaker pushes Hegseth impeachment, Pentagon chief says 'not worried'",
+      "link": "https://timesofindia.indiatimes.com/world/us/republican-lawmaker-pushes-hegseth-impeachment-pentagon-chief-says-not-worried/articleshow/135692172.cms",
+      "source": "Times of India",
+      "timestamp": "2026-11-10T00:51:16+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hegseth",
+        "Pentagon"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13106,13 +13240,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "Times of India"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Air pollution soars as fog traps emissions in England\u2019s urban areas",
       "link": "https://www.theguardian.com/environment/2026/nov/09/air-pollution-soars-fog-traps-emissions-england-urban-areas",
@@ -19527,87 +19659,21 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-      "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
-      "source": "NPR",
-      "timestamp": "2026-11-08T14:25:30-05:00",
-      "score": 14,
-      "summary": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
-      "country": "Ukraine",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "USbrokered",
-        "Ukraine",
-        "Abu",
-        "Dhabi",
-        "Kremlin"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NPR"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "More than seven dead and 110 injured in train collision in Egypt",
-      "link": "https://www.abc.net.au/news/2026-11-09/train-collision-egypt-giza/107361794",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-08T19:20:50+00:00",
-      "score": 17,
-      "summary": "The collision on the edge of Cairo killed at least seven people and injured more than 110.",
-      "country": "Egypt",
-      "region": "Africa",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Egypt"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Traditional owners and uni students work together to unearth history",
-      "link": "https://www.abc.net.au/news/2026-11-09/archaeology-students-traditional-owners-pilot-program/107359186",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-08T19:01:27+00:00",
+      "title": "Trump administration proposes stricter work-search rules for unemployment benefits",
+      "link": "https://www.cnbc.com/2026/11/09/trump-unemployment-work-search-rule.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-09T19:19:28+00:00",
       "score": 10,
-      "summary": "Deep within Ityamaiitpinna Yarta Glenthorne National Park, traditional owners from across Australia work alongside a group of Flinders University archaeology students to unearth history.",
-      "country": "Australia",
-      "region": "Oceania",
+      "summary": "A Labor Department proposal would require unemployment claimants to report at least five qualifying work-search activities each week.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -19618,44 +19684,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Firms using telemarketers to spruik super switches could lose licences",
-      "link": "https://www.abc.net.au/news/2026-11-09/asic-warns-firms-using-lead-generators-to-push-super-switching/107356376",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-08T19:01:22+00:00",
-      "score": 12,
-      "summary": "Unqualified and unlicensed telemarketers are targeting Australians to switch their superannuation savings into riskier schemes. This has prompted the corporate regulator to threaten the licences of financial advice firms that use these \"lead generators\".",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "The facial recognition technology stopping shoplifters",
       "link": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
@@ -26412,19 +26447,21 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "DraftKings\u2019 expensive bet on prediction markets is crushing its stock",
-      "link": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-11-06T17:51:00+00:00",
+      "title": "Long-lived mineral grains can be invaluable for reconstructing impact events, but the stories are complex",
+      "link": "https://phys.org/news/2026-11-mineral-grains-invaluable-reconstructing-impact.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-09T14:20:23-05:00",
       "score": 12,
-      "summary": "Shares of the online betting platform slid more than 26% on Friday, as analysts worry about regulation and competition.",
+      "summary": "Reconstructing impact events on Earth and other planetary bodies, including the moon, is crucial for understanding how the solar system evolved and how planets develop.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26435,15 +26472,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "MarketWatch"
+        "Phys.org"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Chemical fingerprints reveal ancient Pueblo blue mineral sources",
       "link": "https://phys.org/news/2026-11-chemical-fingerprints-reveal-ancient-pueblo.html",
@@ -32576,35 +32611,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Research supports communitywide efforts to fight bedbug infestations, expert explains",
-      "link": "https://phys.org/news/2026-11-communitywide-efforts-bedbug-infestations-expert.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-05T11:40:13-05:00",
-      "score": 12,
-      "summary": "Rather than being a poverty problem, bedbugs are actually everyone's problem.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32703,7 +32709,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.6,
+      "trend_score": 6.5,
       "source_count": 16,
       "sources_reporting": [
         "Bloomberg",
@@ -36126,6 +36132,43 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "The Beach Boys Cancel Final Remaining 2026 Concert Date",
+      "link": "https://www.rollingstone.com/music/music-news/beach-boys-cancel-remaining-2026-date-1235649836/",
+      "source": "Rolling Stone",
+      "timestamp": "2026-11-09T19:26:25+00:00",
+      "score": 17,
+      "summary": "Troubled run was supposed to wrap in Bristol, Virginia, but was cancelled like many before it",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Beach",
+        "Boys",
+        "Cancel",
+        "Final",
+        "Remaining",
+        "Concert",
+        "Date"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Rolling Stone"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Son Lux Says Its \u2018Your Mother Your Mother Your Mother\u2019 Score Reflected The Islamic Faith \u2013 Sound & Screen Film",
       "link": "https://deadline.com/2026/11/son-lux-your-mother-your-mother-your-mother-music-interview-1237216126/",
@@ -44244,48 +44287,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Pokemon\u2019 Anime Studio OLM Trains AI Coloring Tool on Just Three Frames in Japan Government-Backed Project",
-      "link": "https://variety.com/2026/tv/markets-festivals/pokemon-anime-studio-olm-ai-coloring-tool-three-frames-1236942198/",
-      "source": "Variety",
-      "timestamp": "2026-11-07T23:43:25+00:00",
-      "score": 14,
-      "summary": "OLM, the Japanese animation group behind the \u201cPokemon\u201d anime series and films, has developed an AI coloring tool that picks up a show\u2019s look from just three hand-painted frames, OLM Digital board director Yotsukura Tatsuo said at the Taiwan Creative Content Fest (TCCF) in Taip...",
-      "country": "Japan",
-      "region": "East Asia",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Anime",
-        "Studio",
-        "OLM",
-        "Trains",
-        "Coloring",
-        "Tool",
-        "Just",
-        "Three",
-        "Frames",
-        "Japan",
-        "GovernmentBacked",
-        "Project"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49352,6 +49353,99 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 4.6 - south of the Fiji Islands",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx6l",
+      "source": "USGS",
+      "timestamp": "2026-11-09T19:26:54.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-09 19:09:47 UTC2026-11-09 19:09:47 UTC at epicenterLocation23.675\u00b0S 179.961\u00b0WDepth519.94 km (323.08 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Fiji",
+        "Islands"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.3 - 44 km WSW of Olancha, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360327",
+      "source": "USGS",
+      "timestamp": "2026-11-09T19:24:10.829000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-09 19:20:49 UTC2026-11-09 19:20:49 UTC at epicenterLocation36.180\u00b0N 118.474\u00b0WDepth-0.15 km (-0.09 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Olancha"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Boeing to cut 5% of commercial jet workforce amid production struggles",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVdQLTVQc2wtZzFUaDBNM3phQnpkZ0dfUlBXY2N3Z1BYcnZ3ajlMVjByY0gtcXExaWx5Qmx6T2M5LS1TMVhKb21teGtmZ082TmdoRGhGZkQwMTlqQzhncDFZaDhhNW9Rbml4VVZRSTZlTGRGb29JYW1pVUsxNUt4amNpdTlVTmRxZmdTMk0zNW55UXRLSHE5a0ZpZDFJenQwd2hPWjZ0UFZ2NzhiYl9meWphV0YzR1REZWNSOGRuMDZHTl9qdE1odw?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-11-09T19:18:40+00:00",
+      "score": 13,
+      "summary": "Boeing to cut 5% of commercial jet workforce amid production struggles Reuters",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 4.6 - 206 km E of Kirakira, Solomon Islands",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx6j",
@@ -55764,105 +55858,6 @@
         "USGS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 27 km ESE of Naalehu, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068517",
-      "source": "USGS",
-      "timestamp": "2026-11-08T13:18:18.350000+00:00",
-      "score": 17,
-      "summary": "Time2026-11-08 13:14:48 UTC2026-11-08 13:14:48 UTC at epicenterLocation18.965\u00b0N 155.342\u00b0WDepth36.74 km (22.83 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Naalehu",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.6 - 5 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75463962",
-      "source": "USGS",
-      "timestamp": "2026-11-08T13:17:59.246000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-08 13:16:24 UTC2026-11-08 13:16:24 UTC at epicenterLocation38.812\u00b0N 122.801\u00b0WDepth0.52 km (0.32 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.4 - 126 km NNW of Charlotte Amalie, U.S. Virgin Islands",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71538818",
-      "source": "USGS",
-      "timestamp": "2026-11-08T13:17:42.370000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-08 12:37:22 UTC2026-11-08 12:37:22 UTC at epicenterLocation19.459\u00b0N 65.191\u00b0WDepth46.62 km (28.97 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Charlotte",
-        "Amalie",
-        "Virgin",
-        "Islands"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
