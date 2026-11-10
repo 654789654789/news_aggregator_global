@@ -1,6 +1,107 @@
 {
   "Politics": [
     {
+      "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+      "link": "https://www.pbs.org/newshour/world/russia-and-ukraine-hold-nearly-4-hours-of-u-s-mediated-talks-in-abu-dhabi",
+      "source": "PBS",
+      "timestamp": "2026-11-10T13:09:38-05:00",
+      "score": 17,
+      "summary": "Russia and Ukraine on Tuesday held their first U.S.-mediated talks in nine months on ending their war, with U.S. Secretary of State Marco Rubio calling the meeting \"very productive\" and Ukrainian President Volodymyr Zelenskyy saying the session was \"constructive and quite subs...",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Ukraine",
+        "USmediated",
+        "Abu",
+        "Dhabi"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Govardhan puja, Gau puja celebrated at Hare Krishna Vaikuntham",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/govardhan-puja-gau-puja-held-at-hare-krishna-vaikuntham/article71686734.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-10T23:36:25+05:30",
+      "score": 14,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Gau",
+        "Hare",
+        "Krishna",
+        "Vaikuntham"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Woman, son die after being found injured at home in Mattannur",
+      "link": "https://www.thehindu.com/news/national/kerala/woman-son-die-after-being-found-injured-at-home-in-mattannur/article71686225.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-10T23:34:56+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mattannur"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Suspension of senior IPS officer extended to March 2027",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/suspension-of-senior-ips-officer-extended-to-march-2027/article71687242.ece",
       "source": "The Hindu",
@@ -439,14 +540,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 8.7,
+      "source_count": 13,
       "sources_reporting": [
-        "NYT"
+        "BBC",
+        "Bloomberg",
+        "NHK",
+        "NYT",
+        "The Hill"
       ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
+      "trend_accel": "+70%",
+      "heat_level": "SURGING"
     },
     {
       "title": "JD Vance is right: Foreign policy lost the election",
@@ -3348,19 +3453,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 12,
+      "trending": true,
+      "trend_score": 8.6,
+      "source_count": 11,
       "sources_reporting": [
         "NHK",
         "NYT",
         "PBS",
-        "PBS",
         "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+83%",
-      "heat_level": "CRITICAL"
+      "trend_accel": "+73%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Mumbai AQI Rises From 131 to 278 on Diwali",
@@ -5520,8 +5624,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -6496,118 +6600,6 @@
         "The Hill"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Supreme Court Allows Construction of Trump\u2019s Border Wall in Big Bend",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
-      "source": "NYT",
-      "timestamp": "2026-11-09T20:12:14+00:00",
-      "score": 12,
-      "summary": "The administration had asked the court to permit construction of a border wall in southwestern Texas, including areas within a national park.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Court",
-        "Allows",
-        "Construction",
-        "Trumps",
-        "Border",
-        "Wall",
-        "Big",
-        "Bend"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 8.9,
-      "source_count": 17,
-      "sources_reporting": [
-        "AP",
-        "BBC",
-        "Bloomberg",
-        "NYT",
-        "PBS"
-      ],
-      "trend_accel": "+76%",
-      "heat_level": "SURGING"
-    },
-    {
-      "title": "Bacon \u2018torn\u2019 over whether to back Hegseth impeachment",
-      "link": "https://thehill.com/policy/defense/6208830-bacon-conflicted-hegseth-impeachment/",
-      "source": "The Hill",
-      "timestamp": "2026-11-09T20:10:37+00:00",
-      "score": 12,
-      "summary": "Rep. Don Bacon (R-Neb.), a centrist Republican retiring from the Congress who has criticized President Trump on foreign policy and other matters, on Monday said he is conflicted about the effort to impeach Defense Secretary Pete Hegseth being led by a fellow GOP lawmaker. \u201cThe...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hegseth"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hill"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Democrats Demand Answers on Trump\u2019s A.I. Policy Amid Spy Plot",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html",
-      "source": "NYT",
-      "timestamp": "2026-11-09T19:51:37+00:00",
-      "score": 14,
-      "summary": "Congressional leaders raise concerns in a letter as Nvidia investigates its chief executive\u2019s affair with a suspected Chinese spy.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Demand",
-        "Answers",
-        "Trumps",
-        "Policy",
-        "Amid",
-        "Spy",
-        "Plot"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -13164,6 +13156,73 @@
   ],
   "World": [
     {
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-10T18:04:18+00:00",
+      "score": 12,
+      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trinidad",
+        "Tobago"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Taunts, heckling and fiery Netanyahu speech as Israel's Knesset sworn in",
+      "link": "https://www.abc.net.au/news/2026-11-11/knesset-sworn-in-taunts-heckling/107371226",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-10T18:04:14+00:00",
+      "score": 12,
+      "summary": "Benjamin Netanyahu uses a speech traditionally used as a toast to rail against Arab-Israeli members of the Knesset, three weeks after a deadlocked election result.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Netanyahu",
+        "Israels",
+        "Knesset"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "The Lights Go Out at Novaya Gazeta, Russia\u2019s Bravest Newspaper",
       "link": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
       "source": "NYT",
@@ -19597,26 +19656,25 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "U.K. writer M. John Harrison wins Booker for AI-tinged apocalyptic novel",
-      "link": "https://www.thehindu.com/books/books-authors/uk-author-m-john-harrison-wins-booker-prize-for-the-end-of-everything/article71684119.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-10T03:53:57+05:30",
-      "score": 14,
-      "summary": "M. John Harrison, 81, became the oldest winner of the award, which comes with a \u00a350,000 ($67,000) prize",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Alphabet shares appear to have bottomed. How to play it for a quick rebound",
+      "link": "https://www.cnbc.com/2026/11/10/alphabet-shares-appear-to-have-bottomed-how-to-play-it-for-a-quick-rebound.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-10T18:15:24+00:00",
+      "score": 12,
+      "summary": "After a brutal sell-off, Alphabet appears to be showing signs of a floor. Here's how to trade it with options",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "John",
-        "Harrison",
-        "Booker",
-        "AItinged"
+        "How"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19625,28 +19683,32 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "CNBC"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
-      "title": "Animal welfare campaigner dobbed into council for having five rescue cats",
-      "link": "https://www.abc.net.au/news/2026-11-10/cat-activist-threatened-with-fines-over-five-cats/107365046",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-09T22:08:57+00:00",
-      "score": 12,
-      "summary": "Lisa Roberts-Daintree receives a compliance notice from Redland City Council after a neighbour reported her for exceeding Redland's two-cat maximum rule.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
+      "link": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-10T18:08:40+00:00",
+      "score": 15,
+      "summary": "As high prices continue to strain household budgets, many consumers have turned to credit cards to help make ends meet.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "New",
+        "York",
+        "Fed"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19654,15 +19716,45 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "There's a trade developing in energy stocks you should 'attack' now, says Jay Woods",
+      "link": "https://www.cnbc.com/2026/11/10/theres-a-trade-developing-in-energy-stocks-you-should-attack-now-says-jay-woods.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-10T18:01:41+00:00",
+      "score": 14,
+      "summary": "As brent crude drops below $90 and energy stocks pull back, there's a trade developing in the space that you should \"attack right now,\" says investor Jay Woods.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Jay",
+        "Woods"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
       "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
@@ -24908,7 +25000,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.0,
+      "trend_score": 10.9,
       "source_count": 19,
       "sources_reporting": [
         "AP",
@@ -24920,7 +25012,7 @@
         "NYT",
         "PBS"
       ],
-      "trend_accel": "+81%",
+      "trend_accel": "+80%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26185,106 +26277,6 @@
         "MarketWatch"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Shoppers to Use Black Friday Sales to Stock Up on Essentials",
-      "link": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
-      "source": "NYT",
-      "timestamp": "2026-11-09T10:02:30+00:00",
-      "score": 14,
-      "summary": "Shoppers strained by high costs of living are expected to put a priority on value this season, whether they\u2019re buying gifts or everyday items for themselves.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Use",
-        "Black",
-        "Friday",
-        "Sales",
-        "Stock",
-        "Essentials"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Brewers star Christian Yelich is selling his hillside Malibu mansion for $30 million",
-      "link": "https://www.marketwatch.com/story/brewers-star-christian-yelich-is-selling-his-hillside-malibu-mansion-for-30-million-92bee567?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-11-09T10:02:00+00:00",
-      "score": 15,
-      "summary": "World Series champion Christian Yelich is looking to shed the contemporary Malibu mansion he bought for $5.5 million six years ago.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Christian",
-        "Yelich",
-        "Malibu"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "IREDA shares jump 7% despite 20% fall in one year on high trading volume | Check target, stop loss, stock performance",
-      "link": "https://www.livemint.com/market/stock-market-news/ireda-shares-jump-7-despite-20-fall-in-one-year-on-high-trading-volume-check-target-stop-loss-stock-performance-11794214570839.html",
-      "source": "Livemint",
-      "timestamp": "2026-11-09T15:04:49+05:30",
-      "score": 17,
-      "summary": "IREDA shares opened at \u20b9111.62 apiece on the NSE, against their previous close of \u20b9111.46, and climbed to an intraday high of \u20b9119.58, marking a gain of around 7.3% from the previous closing price.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Check"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ],
@@ -32492,7 +32484,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.5,
+      "trend_score": 6.4,
       "source_count": 14,
       "sources_reporting": [
         "AP",
@@ -32501,7 +32493,7 @@
         "Sky Sports"
       ],
       "trend_accel": "+61%",
-      "heat_level": "HOT"
+      "heat_level": "LOW"
     },
     {
       "title": "'It has been very difficult' - Suryakumar on losing T20I captaincy and his place in Indian team",
@@ -35818,6 +35810,166 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "The Black List Names 2026 Projects Lab Filmmakers",
+      "link": "https://deadline.com/2026/11/the-black-list-2026-projects-lab-filmmakers-1237217772/",
+      "source": "Deadline",
+      "timestamp": "2026-11-10T18:15:00+00:00",
+      "score": 15,
+      "summary": "EXCLUSIVE: The Black List has named the six filmmakers for its 2026 Projects Lab. They are Mike Ambs (Falling Forward), Sierra Falconer (Cry For Me, Baby), Georgia Fu (Approximate Joy), Seth Kelman (Vessels), Megan Spatz (North) and Brandon Tyson (Ta Ta Dear). Now in its third...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Black",
+        "List",
+        "Names",
+        "Projects",
+        "Lab",
+        "Filmmakers"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Efrain Miron Joins Skydance\u2019s Product & Technology Team As Chief Commercial Officer After DTC Exit",
+      "link": "https://deadline.com/2026/11/efrain-miron-skydance-product-team-chief-commercial-officer-1237218678/",
+      "source": "Deadline",
+      "timestamp": "2026-11-10T18:06:54+00:00",
+      "score": 14,
+      "summary": "The new opportunity within Skydance for Efrain Miron, former EVP and head of content strategy and licensing for Paramount DTC, has been revealed. Miron, who stepped from his DTC post in the recent restructuring unveiled by JB Perrette, Co-Chair & Chief Business Officer of Skyd...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Miron",
+        "Joins",
+        "Skydances",
+        "Product",
+        "Technology",
+        "Team",
+        "Chief",
+        "Commercial",
+        "Officer",
+        "After",
+        "DTC",
+        "Exit"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "AFM: First Look at Highland Film Group Thriller \u2018The Black Demon: Atlantis\u2019 Starring Jack Kesy (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/news/afm-first-look-highland-film-group-black-demon-atlantis-1236943610/",
+      "source": "Variety",
+      "timestamp": "2026-11-10T18:05:00+00:00",
+      "score": 12,
+      "summary": "Highland Film Group has released the first look image of thriller \u201cThe Black Demon: Atlantis.\u201d The shark survival actioner stars Jack Kesy, pictured above, in a sequel to \u201cThe Black Demon.\u201d Kesy plays undercover DEA agent Jerry, who arrives at offshore fortress prison Atlantis...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "First",
+        "Look",
+        "Highland",
+        "Film",
+        "Group",
+        "Thriller",
+        "Black",
+        "Demon",
+        "Atlantis",
+        "Starring",
+        "Jack",
+        "Kesy",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Netflix Developing Wedding-Themed Romantic Dramedy Series From \u2018Hart Of Dixie\u2019s Leila Gerstein",
+      "link": "https://deadline.com/2026/11/leila-gerstein-wedding-pitch-sold-netflix-1237218711/",
+      "source": "Deadline",
+      "timestamp": "2026-11-10T18:04:44+00:00",
+      "score": 12,
+      "summary": "EXCLUSIVE: Leila Gerstein has sold Netflix the pitch for a new romantic dramedy that she\u2019ll write and executive produce, sources tell Deadline. We\u2019re told the show follows the citizens of a small New England community whose lives are upended when their town becomes the unexpec...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Developing",
+        "WeddingThemed",
+        "Romantic",
+        "Dramedy",
+        "Series",
+        "Hart",
+        "Dixies",
+        "Leila",
+        "Gerstein"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018PAW Patrol\u2019 Spinoff Series \u2018Skye\u2019s Pup Squad\u2019 Set for 2027 Release",
       "link": "https://variety.com/2026/tv/news/paw-patrol-spinoff-series-skyes-pup-squad-release-date-1236943216/",
@@ -43685,168 +43837,6 @@
         "Variety"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Divorce, Near-Death, and Drugs: Darius Rucker Will Look Back in New Documentary",
-      "link": "https://www.rollingstone.com/music/music-news/darius-rucker-documentary-release-date-1235654600/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-11-09T16:51:28+00:00",
-      "score": 12,
-      "summary": "They Called Me Hootie arrives Nov. 16 on Hulu/Disney+ and examines Hootie and the Blowfish singer\u2019s rise to country-rock stardom",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NearDeath",
-        "Drugs",
-        "Darius",
-        "Rucker",
-        "Will",
-        "Look",
-        "Back",
-        "New",
-        "Documentary"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Kanye West Breaks His Own Record for Biggest Rap Concert in U.S. History \u2014 Again \u2014 With 83,132 Fans",
-      "link": "https://variety.com/2026/music/news/kanye-west-biggest-rap-concert-1236943088/",
-      "source": "Variety",
-      "timestamp": "2026-11-09T16:49:24+00:00",
-      "score": 17,
-      "summary": "Kanye West broke his own record this past Saturday as his show at Dallas\u2019 AT&T Stadium became the most-attended hip-hop concert in U.S. history, with 83,132 fans, and the fifth-highest-grossing concert in U.S. history, with more than $18 million in reported gross revenue gener...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "West",
-        "Breaks",
-        "His",
-        "Own",
-        "Record",
-        "Biggest",
-        "Rap",
-        "Concert",
-        "History",
-        "Again",
-        "Fans"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Project Hail Mary\u2019 Composer Daniel Pemberton Built \u201cA Language From The Ground Up\u201d Using New Instruments \u2013 Sound & Screen Film",
-      "link": "https://deadline.com/2026/11/project-hail-mary-composer-daniel-pemberton-interview-1237217010/",
-      "source": "Deadline",
-      "timestamp": "2026-11-09T16:45:00+00:00",
-      "score": 14,
-      "summary": "In Project Hail Mary, amateur astronaut Ryland Grace (Ryan Gosling) learns to communicate with an alien he meets on a desperate mission in space. For the film\u2019s score, composer Daniel Pemberton aimed to create a new musical language, sharing at Deadline\u2019s Sound & Screen Film h...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hail",
-        "Mary",
-        "Composer",
-        "Daniel",
-        "Pemberton",
-        "Built",
-        "Language",
-        "Ground",
-        "Using",
-        "New",
-        "Instruments",
-        "Sound",
-        "Screen",
-        "Film"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Phil Collins Contemplating Possible Comeback Tour: \u2018I Never Say Exactly Never\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/phil-collins-contemplating-comeback-tour-1235654574/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-11-09T16:42:06+00:00",
-      "score": 12,
-      "summary": "Days before his induction into the Rock and Roll Hall of Fame as a solo artist, Phil Collins revealed that his touring days might not be forever behind him",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Collins",
-        "Contemplating",
-        "Possible",
-        "Comeback",
-        "Tour",
-        "Never",
-        "Say",
-        "Exactly"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
