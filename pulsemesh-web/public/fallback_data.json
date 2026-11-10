@@ -1,6 +1,67 @@
 {
   "Politics": [
     {
+      "title": "Family unsure where 8-year-old Haitian boy is being held after ICE detention",
+      "link": "https://thehill.com/homenews/state-watch/6211050-haitian-boy-detained-california/",
+      "source": "The Hill",
+      "timestamp": "2026-11-10T17:26:46+00:00",
+      "score": 17,
+      "summary": "An 8-year-old Haitian boy was taken by federal immigration officers during a routine immigration appointment in California last week, prompting lawmakers to question the boy\u2019s whereabouts. The boy, who is a third grader at Fay Elementary School in San Diego, Calif., lost his T...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Haitian",
+        "ICE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Cheating case accused alleges custodial torture, OU police deny allegations",
+      "link": "https://www.thehindu.com/news/national/telangana/cheating-case-accused-alleges-custodial-torture-ou-police-deny-allegations/article71687238.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-10T22:49:49+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Ladakh announces hill council elections, but fails to assuage protesting civil society groups",
       "link": "https://www.thehindu.com/news/national/ladakh/schedule-for-eight-ladakh-hill-council-elections-announced-polling-on-december-4/article71685727.ece",
       "source": "The Hindu",
@@ -6556,71 +6617,26 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
-      "link": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
-      "source": "NYT",
-      "timestamp": "2026-11-09T18:38:40+00:00",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-10T17:30:00+00:00",
       "score": 12,
-      "summary": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials.",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Commerce",
-        "Dept",
-        "Inquiry",
-        "Into",
-        "Megaspeed",
-        "Was",
-        "Halted",
-        "After",
-        "Nvidia",
-        "Intervention"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump Veers Back Into Claims of Rigged Election, Questioning Midterm Results",
-      "link": "https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html",
-      "source": "NYT",
-      "timestamp": "2026-11-09T18:37:11+00:00",
-      "score": 14,
-      "summary": "President Trump, who initially said he would accept the midterm results, renewed his unsubstantiated claims that voting was manipulated.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Veers",
-        "Back",
-        "Into",
-        "Claims",
-        "Rigged",
-        "Election",
-        "Questioning",
-        "Midterm",
-        "Results"
+        "Claude",
+        "Meetings"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6631,13 +6647,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "NYT"
+        "TechCrunch"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
       "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
@@ -13154,22 +13168,92 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "NASA\u2019s new experimental X-70 plane will be used to test next-gen aviation technologies",
-      "link": "https://www.theverge.com/tech/1027426/nasa-experimental-x-70-fractal-aircraft",
-      "source": "Verge",
-      "timestamp": "2026-11-05T09:10:12-05:00",
-      "score": 17,
-      "summary": "Yesterday NASA announced the latest addition to its X-series of experimental aircraft that have included the Bell X-1 that first broke the sound barrier nearly 80 years ago, and the more recent X-59 quiet supersonic demonstrator. The new X-70 Fractal is designed to be a \"high-...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-10T17:29:36+00:00",
+      "score": 14,
+      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Ukraine",
+        "Zelensky"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Russian naval aggression prompts new defensive initiative with \u2018beer-drinking nations\u2019",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations",
+      "source": "Guardian",
+      "timestamp": "2026-11-10T17:26:59+00:00",
+      "score": 10,
+      "summary": "New alliance with the Netherlands and Baltic and Nordic countries comes in response to 41% increase in Russian naval activity around UKRussian naval activity around the UK has increased by 41% in the first nine months of the year, a British defence minister said, as the Royal ...",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Planned Tory welfare cuts \u2018a charter for human misery,\u2019 says Labour \u2013 as it happened",
+      "link": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+      "source": "Guardian",
+      "timestamp": "2026-11-10T17:23:02+00:00",
+      "score": 12,
+      "summary": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of \u00a336bnBadenoch and Whately are now taking questions.Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the ...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tory",
+        "Labour"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13179,13 +13263,43 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Verge"
+        "Guardian"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Higher-than-expected October inflation sparks Treasury sell-off",
+      "link": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6=1",
+      "source": "FT",
+      "timestamp": "2026-11-10T17:19:05+00:00",
+      "score": 14,
+      "summary": "Monthly figure of 0.4% prompts traders to increase bets on Federal Reserve rate before year end",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "October",
+        "Treasury"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "FT"
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Trump puts his chips on Huang as China spy storm gathers force",
       "link": "https://timesofindia.indiatimes.com/world/us/trump-puts-his-chips-on-huang-as-china-spy-storm-gathers-force/articleshow/135717035.cms",
@@ -19538,14 +19652,45 @@
       ],
       "trend_accel": "+56%",
       "heat_level": "LOW"
+    }
+  ],
+  "Business": [
+    {
+      "title": "Trump administration moves to cut food stamps for 6.3 million people",
+      "link": "https://www.cnbc.com/2026/11/10/trump-administration-moves-to-cut-food-stamps-for-6point3-million-people.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-10T17:27:51+00:00",
+      "score": 13,
+      "summary": "Under the USDA's proposed change, nearly 18% of SNAP recipients would lose benefits, according to an agency analysis included in the proposed rule.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
     },
     {
-      "title": "US citizen shot by ICE officer near children\u2019s bus stop sues government for $25m",
-      "link": "https://www.theguardian.com/us-news/2026/nov/09/citizen-shot-ice-officer-lawsuit-california",
-      "source": "Guardian",
-      "timestamp": "2026-11-09T21:27:41+00:00",
-      "score": 15,
-      "summary": "Lawsuit also alleges agents followed Carlos Jimenez to a hospital and \u2018interfered\u2019 in his care, with bullet fragments still lodged near lungA US citizen who was shot by an immigration officer in southern California has filed a $25m lawsuit against the federal government, alleg...",
+      "title": "Data Show Households Still Managing to Meet Their Monthly Debts",
+      "link": "https://www.nytimes.com/2026/11/10/business/economy/household-debt-real-estate-home-equity.html",
+      "source": "NYT",
+      "timestamp": "2026-11-10T17:25:51+00:00",
+      "score": 12,
+      "summary": "The New York Fed detailed general steadiness in debt payments for autos, student loans and mortgages.",
       "country": "US",
       "region": "Americas",
       "source_type": "Newspaper",
@@ -19554,7 +19699,80 @@
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "ICE"
+        "Show",
+        "Households",
+        "Still",
+        "Managing",
+        "Meet",
+        "Their",
+        "Monthly",
+        "Debts"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Boeing jet deliveries drop 14% in October",
+      "link": "https://www.cnbc.com/2026/11/10/boeing-jet-deliveries-drop-14percent-in-october.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-10T17:21:53+00:00",
+      "score": 15,
+      "summary": "Boeing said on Tuesday it delivered 49 jets in October, down from 57 the previous month and 53 a year earlier.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "October"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Wall Street\u2019s only Nvidia bear says forcing out CEO Jensen Huang \u2018would be a mistake for everyone\u2019",
+      "link": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-11-10T17:19:00+00:00",
+      "score": 12,
+      "summary": "Nvidia\u2019s board is investigating CEO Jensen Huang over his relationship with an alleged spy.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Streets",
+        "Nvidia",
+        "CEO",
+        "Jensen",
+        "Huang"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19565,110 +19783,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Guardian"
+        "MarketWatch"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
     },
-    {
-      "title": "EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam51ejNqNThjR0wtTnFjaTNObkVoS25CUzUySnBhRVc5bWlIZnhpM0ZleDhuSnJ2Z19xcWd3Q1Z3bnJkQmo1NmlJZGZnYUhEQ3ZCNHF6Y1hKM3BHZlpYOUZGTDA4WjhyaEZXcVU1NzM3YUxsUWJvRl9tYS1YSU1WSEpCN3h0eWx5SU1ReU1pRUlzaFNJd2N1YS1PNDFsbndESXV1ODJTaUE4YldYVzFicWln?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-11-09T21:22:03+00:00",
-      "score": 12,
-      "summary": "EXCLUSIVE: French officials blame Iran for refrigerator hacks, vow retaliation Reuters",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "French",
-        "Iran"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Anthropic unveils faster, cheaper Claude AI models as it gears up for mega IPO",
-      "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-unveils-faster-cheaper-claude-ai-models-as-it-gears-up-for-mega-ipo/articleshow/135693103.cms",
-      "source": "Times of India",
-      "timestamp": "2026-11-10T02:48:55+05:30",
-      "score": 14,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Claude",
-        "IPO"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tyler Robinson, man accused of shooting Charlie Kirk, to face trial in 2028",
-      "link": "https://www.cbc.ca/news/world/tyler-robinson-trial-date-utah-9.7415504?cmp=rss",
-      "source": "CBC News",
-      "timestamp": "2026-11-09T16:16:47-05:00",
-      "score": 15,
-      "summary": "A \u200bUtah judge on Monday set a June 2028 trial date for Tyler Robinson, the man accused of murdering prominent right-wing activist Charlie Kirk last year.",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Robinson",
-        "Charlie",
-        "Kirk"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CBC News"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Our Nvidia downgrade \u2014 plus, Cramer is looking to add to this position",
       "link": "https://www.cnbc.com/investingclub/2026/11/10/our-nvidia-downgrade-plus-cramer-is-looking-to-add-to-this-position.html",
@@ -26168,142 +26287,74 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
-      "link": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-09T08:59:16+00:00",
-      "score": 14,
-      "summary": "Cyberattacks on fridges in supermarkets and a wave of bomb threats are testing Europe\u2019s ability to withstand disruption to crucial infrastructure.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Europes"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "European Power Prices Shoot Above \u20ac600 as Wind Generation Slumps",
-      "link": "https://www.livemint.com/market/european-power-prices-shoot-above-600-as-wind-generation-slumps-11794214647817.html",
-      "source": "Livemint",
-      "timestamp": "2026-11-09T14:27:27+05:30",
-      "score": 15,
-      "summary": "European power prices surged above \u20ac600 a megawatt-hour for peak evening periods on Monday due to a collapse in wind generation, showing how tight electricity markets can become when renewable output is weak.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Power",
-        "Prices",
-        "Shoot",
-        "Above",
-        "Wind",
-        "Generation",
-        "Slumps"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "From family offices to affluent individuals, SIFs widen their appeal",
-      "link": "https://www.livemint.com/market/stock-market-news/specialized-investment-funds-sifs-individual-investors-11794198309627.html",
-      "source": "Livemint",
-      "timestamp": "2026-11-09T14:23:03+05:30",
-      "score": 12,
-      "summary": "Once seen largely as products for corporate treasuries and family offices, specialized investment funds have crossed \u20b940,000 crore in industry assets, as a \u20b910 lakh entry threshold draws a growing pool of affluent individual investors.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SIFs"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Aarti Drugs shares defy weak market sentiment; skyrocket 11% today | Here's why; stock returns, performance",
-      "link": "https://www.livemint.com/market/stock-market-news/aarti-drugs-shares-defy-weak-market-sentiment-skyrocket-11-today-heres-why-stock-returns-performance-11794210277705.html",
-      "source": "Livemint",
-      "timestamp": "2026-11-09T14:22:02+05:30",
-      "score": 17,
-      "summary": "The pharma stock opened at \u20b9457 apiece on the BSE and surged to an intraday high of \u20b9513, registering strong buying interest during the session.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Drugs",
-        "Heres"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Cool adaptations: How fish survive in the Antarctic Ocean",
+      "link": "https://phys.org/news/2026-11-cool-fish-survive-antarctic-ocean.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-10T12:20:13-05:00",
+      "score": 12,
+      "summary": "With water temperatures as low as -1.9\u00b0C (28.6\u00b0F), the Southern Ocean is a place of extreme living conditions. A new study led by Senckenberg researchers shows how fish have adapted to Antarctic temperatures. The researchers used the Antarctic spiny plunderfish (Harpagifer ant...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "How",
+        "Antarctic",
+        "Ocean"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Q&A: Exploring generative AI's impact on student thinking during programming and debugging",
+      "link": "https://phys.org/news/2026-11-qa-exploring-generative-ai-impact.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-10T12:20:09-05:00",
+      "score": 14,
+      "summary": "The doctoral dissertation of Yazid Albadarin, MSc, entitled \"Capturing the impact of generative AI on higher-order thinking, creativity, and cognitive dynamics during debugging\" will be examined at the Faculty of Science, Forestry and Technology, Joensuu campus.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Exploring",
+        "AIs"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Laser-driven magnetic state defies equilibrium rules",
       "link": "https://phys.org/news/2026-11-laser-driven-magnetic-state-defies.html",
@@ -32362,67 +32413,42 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "World-first successful wild release of endangered broad-headed snake",
-      "link": "https://phys.org/news/2026-11-world-successful-wild-endangered-broad.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-06T11:00:01-05:00",
-      "score": 10,
-      "summary": "The broad-headed snake (Hoplocephalus bungaroides), one of Australia's most endangered snakes, has been given a lifeline, with at least four of six captive-bred juveniles surviving the critical first few months after their release into the wild.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Tiny biodegradable particles poke openings in skin to boost topical drug delivery",
-      "link": "https://phys.org/news/2026-11-tiny-biodegradable-particles-skin-boost.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-06T10:40:19-05:00",
-      "score": 10,
-      "summary": "Skin is remarkably good at keeping things out of the body. Typically, that's a positive. It becomes an issue when medicine needs to get in. Swallow a pill to treat a skin condition, and the medicine enters your stomach, moves into your bloodstream and travels throughout your b...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
+    {
+      "title": "Sky pledges backing for Equal Sport Project",
+      "link": "https://www.skysports.com/football/news/12040/13610700/sky-backs-equal-sport-projects-pledges-to-improve-equality-through-five-shared-ambitions-across-industry",
+      "source": "Sky Sports",
+      "timestamp": "2026-11-10T17:24:00+00:00",
+      "score": 12,
+      "summary": "Sky Sports is proud to support Equal Sport Project, which aims to accelerate progress towards equality across sport through five shared ambitions.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Equal",
+        "Sport",
+        "Project"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Sky Sports"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Reynolds: Fearless Love can lead Packers to Super Bowl",
       "link": "https://www.skysports.com/nfl/news/12040/13610682/jordan-love-green-bay-packers-quarterback-is-fearless-and-can-lead-matt-lafleurs-team-to-super-bowl-says-neil-reynolds",
@@ -35777,6 +35803,174 @@
   ],
   "Entertainment": [
     {
+      "title": "Taye Diggs to Star in Fox\u2019s \u2018The Chosen: The Three Kings\u2019 Christmas Special, Which Gets Premiere Date and First Look (EXCLUSIVE)",
+      "link": "https://variety.com/2026/tv/news/taye-diggs-the-chosen-the-three-kings-christmas-special-fox-1236943728/",
+      "source": "Variety",
+      "timestamp": "2026-11-10T17:30:00+00:00",
+      "score": 12,
+      "summary": "Taye Diggs has joined the cast of Fox\u2019s upcoming \u201cThe Chosen\u201d Christmas special, Variety has exclusively learned. Diggs will play Balthasar on \u201cThe Chosen: The Three Kings,\u201d which is set to air Monday, Dec. 14 at 8 p.m. ET on Fox (and stream the next day on Hulu). Diggs stars ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Diggs",
+        "Star",
+        "Foxs",
+        "Chosen",
+        "Three",
+        "Kings",
+        "Christmas",
+        "Special",
+        "Which",
+        "Gets",
+        "Premiere",
+        "Date",
+        "First",
+        "Look",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "The \u2018Air Bud Returns\u2019 Team Hits AFM With Reenergized International Sales and More Family-Friendly Canine Adventures (EXCLUSIVE)",
+      "link": "https://variety.com/2026/film/markets-festivals/air-bud-returns-afm-international-sales-slate-1236943572/",
+      "source": "Variety",
+      "timestamp": "2026-11-10T17:30:00+00:00",
+      "score": 14,
+      "summary": "Family friendly franchise \u201cAir Bud\u201d returns to theaters in January with \u201cAir Bud Returns,\u201d while the team behind the hit canine adventures is bringing international sales and licensing back in-house after 15 years of major studio partnerships across more than 22 films and four...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Air",
+        "Bud",
+        "Returns",
+        "Team",
+        "Hits",
+        "AFM",
+        "Reenergized",
+        "International",
+        "Sales",
+        "More",
+        "FamilyFriendly",
+        "Canine",
+        "Adventures",
+        "EXCLUSIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Netflix Launches New Brand Advertising Campaign In Engagement Push",
+      "link": "https://www.hollywoodreporter.com/business/digital/netflix-launches-new-advertising-campaign-find-thing-1236751618/",
+      "source": "THR",
+      "timestamp": "2026-11-10T17:29:03+00:00",
+      "score": 14,
+      "summary": "The streaming giant launched the campaign, 'Find The Thing You Never Knew You Needed,' in the U.S., Canada, Brazil and Spain.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Launches",
+        "New",
+        "Brand",
+        "Advertising",
+        "Campaign",
+        "Engagement",
+        "Push"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Romer\u00eda\u2019 Director Carla Sim\u00f3n Would \u2018Love\u2019 to Collaborate With Rosal\u00eda Following Latin Grammy Nomination for \u2018Flamenco\u2019",
+      "link": "https://variety.com/2026/film/global/romeria-carla-simon-rosalia-flamenco-latin-grammy-nom-1236943871/",
+      "source": "Variety",
+      "timestamp": "2026-11-10T17:28:17+00:00",
+      "score": 12,
+      "summary": "In May, as part of a banner year for Spanish cinema at the Cannes Film Festival that also included Los Javis\u2019 award-tipped \u201cLa Bola Negra\u201d and Rodrigo Sorogoyen\u2019s \u201cThe Beloved,\u201d Audiovisual From Spain presented three short films as part of their Where Talent Ignites campaign t...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Director",
+        "Carla",
+        "Simn",
+        "Would",
+        "Love",
+        "Collaborate",
+        "Rosala",
+        "Following",
+        "Latin",
+        "Grammy",
+        "Nomination",
+        "Flamenco"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Designers Find Inspiration in Folklore, Symbols and Rituals",
       "link": "https://www.nytimes.com/2026/11/10/arts/design/design-magic.html",
       "source": "NYT",
@@ -38742,7 +38936,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.7,
+      "trend_score": 10.6,
       "source_count": 13,
       "sources_reporting": [
         "Bloomberg",
@@ -43633,158 +43827,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Al Munteanu\u2019s German Outfit BriskPace Confirms Leadership Team",
-      "link": "https://deadline.com/2026/11/al-munteanu-briskpace-studios-confirms-leadership-team-1237217301/",
-      "source": "Deadline",
-      "timestamp": "2026-11-09T16:02:46+00:00",
-      "score": 12,
-      "summary": "EXCLUSIVE: Former SquareOne boss Al Munteanu\u2019s film and TV production company BriskPace Studios has set its leadership team. Longtime Telepool exec Andr\u00e9 Druskeit will be Chief Financial Officer, with former Millenium exec Rob Van Norden as Head of Production, and former RTL a...",
-      "country": "Germany",
-      "region": "Europe",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Munteanus",
-        "German",
-        "Outfit",
-        "BriskPace",
-        "Confirms",
-        "Leadership",
-        "Team"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "WETA And DC/DOX Partner On New $250,000 Fund To Support Documentary Filmmaking In DC Area",
-      "link": "https://deadline.com/2026/11/weta-dc-dox-film-fund-announcement-1237217107/",
-      "source": "Deadline",
-      "timestamp": "2026-11-09T16:00:00+00:00",
-      "score": 15,
-      "summary": "EXCLUSIVE: Nonfiction filmmaking in the Washington DC region is getting a major boost. WETA, the flagship public broadcasting station in the nation\u2019s capital, and the DC/DOX film festival announced a new initiative Monday that will provide $250,000 in grants \u201csupporting docume...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "DCDOX",
-        "Partner",
-        "New",
-        "Fund",
-        "Support",
-        "Documentary",
-        "Filmmaking",
-        "Area"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Prime Video Unveils Trailer for Final Season of \u2018Maxton Hall\u2018",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/maxton-hall-season-three-trailer-prime-video-1236750849/",
-      "source": "THR",
-      "timestamp": "2026-11-09T15:57:48+00:00",
-      "score": 14,
-      "summary": "School is back in session for one last time as Harriet Herbig-Matten and Damian Hardung\u2018s Ruby and James fight for justice and love in the conclusion of the hit series.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Video",
-        "Unveils",
-        "Trailer",
-        "Final",
-        "Season",
-        "Maxton",
-        "Hall"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Travis Scott, Cardi B, and Justice Lead One-Off \u2018Grand Theft Auto 6\u2019 Music Festival",
-      "link": "https://www.rollingstone.com/music/music-news/grand-theft-auto-6-music-festival-1235654527/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-11-09T15:51:37+00:00",
-      "score": 15,
-      "summary": "Taking place on Nov. 21 in Miami, the lineup also boasts performances from Florida artists Kodak Black and DJ Nick Le\u00f3n",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Scott",
-        "Cardi",
-        "Justice",
-        "Lead",
-        "OneOff",
-        "Grand",
-        "Theft",
-        "Auto",
-        "Music",
-        "Festival"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -48352,46 +48394,72 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "16 Best Automatic Watches for Men 2026, According to GQ Watch Nerds",
-      "link": "https://www.gq.com/story/best-automatic-watches-for-men",
-      "source": "GQ",
-      "timestamp": "2026-11-03T17:19:29+00:00",
+      "title": "M 2.0 - 4 km WSW of Cupertino, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75464882",
+      "source": "USGS",
+      "timestamp": "2026-11-10T17:30:08.915000+00:00",
       "score": 15,
-      "summary": "Batteries? Where we're going, we don't need batteries.",
+      "summary": "DYFI? - IITime2026-11-10 17:23:39 UTC2026-11-10 17:23:39 UTC at epicenterLocation37.309\u00b0N 122.076\u00b0WDepth6.26 km (3.89 mi)",
       "country": "US",
       "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Best",
-        "Automatic",
-        "Watches",
-        "Men",
-        "According",
-        "Watch",
-        "Nerds"
+        "WSW",
+        "Cupertino"
       ],
-      "severity_score": 0,
+      "severity_score": 3,
       "alert_level": "low",
-      "mode": "normal",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "More than 12 US military aircraft leave second UK base",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rWUFlai05cVBxWHl3RGF0NWJoWTJ0U0NHV191NXBqMHQyU0pneVFzNkNINjVsRi1MbjVHUlFiX3lDV2VUb2E3eGxUSG4wQVBoTEZpckJIQ3VDbVE?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-11-10T17:22:14+00:00",
+      "score": 17,
+      "summary": "More than 12 US military aircraft leave second UK base BBC",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "GQ"
+        "Google News"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
     {
       "title": "M 1.7 - 12 km NE of P\u0101hala, Hawaii",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75069152",
@@ -54870,73 +54938,6 @@
         "GDACS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 21 km E of Point Possession, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wewozw",
-      "source": "USGS",
-      "timestamp": "2026-11-09T07:55:45.403000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-09 07:52:30 UTC2026-11-09 07:52:30 UTC at epicenterLocation60.906\u00b0N 150.285\u00b0WDepth57.00 km (35.42 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Point",
-        "Possession",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+62%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.6 - 54 km S of Klyuchi, Russia",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx2g",
-      "source": "USGS",
-      "timestamp": "2026-11-09T07:25:53.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-09 07:04:13 UTC2026-11-09 07:04:13 UTC at epicenterLocation55.834\u00b0N 160.975\u00b0EDepth154.99 km (96.31 mi)",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Klyuchi",
-        "Russia"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ]
