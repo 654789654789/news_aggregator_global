@@ -1,6 +1,70 @@
 {
   "Politics": [
     {
+      "title": "Five held for kidnapping, assaulting youth in Keralam\u2019s Tirur",
+      "link": "https://www.thehindu.com/news/national/kerala/five-held-for-kidnapping-assaulting-youth-in-keralams-tirur/article71694235.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-13T02:03:42+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Keralams",
+        "Tirur"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Three of Malappuram family killed in Fujairah road crash",
+      "link": "https://www.thehindu.com/news/national/kerala/three-of-malappuram-family-killed-in-fujairah-road-crash/article71694144.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-13T02:01:19+05:30",
+      "score": 14,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Malappuram",
+        "Fujairah"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump urges Senate leadership to move $350B reconciliation bill",
       "link": "https://thehill.com/homenews/senate/6217053-donald-trump-senate-leadership-350b-reconciliation-bill/",
       "source": "The Hill",
@@ -4868,14 +4932,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 9.4,
+      "source_count": 10,
       "sources_reporting": [
-        "BBC"
+        "BBC",
+        "Bloomberg",
+        "Guardian",
+        "NHK",
+        "PBS"
       ],
-      "trend_accel": "+60%",
-      "heat_level": "LOW"
+      "trend_accel": "+79%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Kerala HC Division Bench allows State\u2019s appeal against Single Judge order quashing police association rejig",
@@ -6322,8 +6390,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -6502,14 +6570,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 9.2,
+      "source_count": 12,
       "sources_reporting": [
-        "BBC"
+        "BBC",
+        "Guardian",
+        "NHK",
+        "NPR",
+        "Reuters"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
+      "trend_accel": "+79%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Colom builds on slim lead over Hyde-Smith in Mississippi Senate contest",
@@ -6543,29 +6615,35 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
-      "link": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
-      "source": "NYT",
-      "timestamp": "2026-11-11T23:05:52+00:00",
-      "score": 12,
-      "summary": "Eleven Democrats were absent, helping Republicans shelve the charges against the defense secretary. It drew sharp criticism a week after the party\u2019s sweeping election victories.",
+      "title": "Jensen Huang Didn\u2019t Name His Own Replacement as One of Tech\u2019s Most Powerful Women",
+      "link": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+      "source": "Wired",
+      "timestamp": "2026-11-12T20:35:11+00:00",
+      "score": 14,
+      "summary": "A recent WIRED investigation explored the complicated definition of \u201cpower\u201d for women in the industry. Jensen Huang\u2019s answers now appear to show his blind spots.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Face",
-        "Backlash",
-        "After",
-        "Missing",
-        "Hegseth",
-        "Impeachment",
-        "Vote"
+        "Huang",
+        "Didnt",
+        "Name",
+        "His",
+        "Own",
+        "Replacement",
+        "One",
+        "Techs",
+        "Most",
+        "Powerful",
+        "Women"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6576,52 +6654,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "NYT"
+        "Wired"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Democrat Scott Colom wins Mississippi Senate race",
-      "link": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
-      "source": "NPR",
-      "timestamp": "2026-11-11T18:04:51-05:00",
-      "score": 12,
-      "summary": "Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Scott",
-        "Colom",
-        "Mississippi",
-        "Senate"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": true,
-      "trend_score": 10.7,
-      "source_count": 15,
-      "sources_reporting": [
-        "AP",
-        "Bloomberg",
-        "Guardian",
-        "NPR",
-        "PBS",
-        "The Hill"
-      ],
-      "trend_accel": "+85%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Tech": [
     {
       "title": "Jensen Huang was having a third affair, Reuters reports",
       "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
@@ -13144,24 +13181,83 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
+    }
+  ],
+  "World": [
+    {
+      "title": "Victorian farmers spared emergency services levy hike",
+      "link": "https://www.abc.net.au/news/2026-11-13/victorian-farmers-spared-emergency-services-levy-hike/107379618",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-12T20:41:47+00:00",
+      "score": 10,
+      "summary": "Victorian Labor has promised to permanently freeze the emergency services tax rate for farmers, while the Coalition and One Nation have committed to scrapping it altogether.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
     },
     {
-      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-      "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-08T17:02:00+00:00",
-      "score": 14,
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Victorian woman aims to grow 300,000 snails for restaurants",
+      "link": "https://www.abc.net.au/news/2026-11-13/snail-farm-otways-french-lean-protein-restaurant-supply/107353084",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-12T20:32:36+00:00",
+      "score": 15,
+      "summary": "French expat Coralie Schaff aims to house 300,000 snails at her Otways property to supply restaurants.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Live: Microsoft 'aggressively pursuing' solution to major outage",
+      "link": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affects-users-worldwide/107381050",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-12T20:31:31+00:00",
+      "score": 12,
+      "summary": "A widespread outage has hit Microsoft platforms, including Outlook, preventing users from accessing emails. Follow live.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Mobility",
-        "Cybertruck"
+        "Microsoft"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13172,13 +13268,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Live: ASX to fall as Nvidia shares tumble following CEO exit",
       "link": "https://www.abc.net.au/news/2026-11-13/asx-markets-business-news-live-updates-nov-13/107337368",
@@ -19731,105 +19825,6 @@
         "Al Jazeera"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Clashes erupt in Barcelona as thousands join Spain general strike",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-11-11T20:52:52+00:00",
-      "score": 14,
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "country": "Spain",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Barcelona",
-        "Spain"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Thousands remain without power in Qld with more storms on the way",
-      "link": "https://www.abc.net.au/news/2026-11-12/qld-more-storms-forecast-as-clean-up-underway/107375980",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-11T20:52:36+00:00",
-      "score": 14,
-      "summary": "The weather bureau says regions from the Gold Coast to Bundaberg could be in the firing line for more severe weather.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Qld"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'America did not start this': Trump defends war with Iran",
-      "link": "https://timesofindia.indiatimes.com/world/us/america-did-not-start-this-trump-defends-war-with-iran/articleshow/135748401.cms",
-      "source": "Times of India",
-      "timestamp": "2026-11-12T02:17:41+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Trump",
-        "Iran"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+46%",
       "heat_level": "LOW"
     }
   ],
@@ -26511,6 +26506,67 @@
   ],
   "Science": [
     {
+      "title": "Toxic Salton Sea dust may trigger lung inflammation and reduce gut microbial diversity",
+      "link": "https://phys.org/news/2026-11-toxic-salton-sea-trigger-lung.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-12T15:40:10-05:00",
+      "score": 12,
+      "summary": "Though it may not always feel like it, we are a part of nature, and our health depends on the quality of our environmental surroundings. A new study published in Scientific Reports explores a surprising new connection between climate change, pollution and the negative health i...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Salton",
+        "Sea"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Despite falling enrollment, public schools haven't downsized",
+      "link": "https://phys.org/news/2026-11-falling-enrollment-schools-havent-downsized.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-12T15:40:02-05:00",
+      "score": 10,
+      "summary": "The number of students in U.S. public schools has dropped dramatically in recent years, with enrollment falling by more than a million students nationwide since the start of the COVID-19 pandemic. That steep decline has intensified the financial strain on many districts, trigg...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Sound without physical force creates a sense of resistance to hand movement",
       "link": "https://phys.org/news/2026-11-physical-resistance-movement.html",
       "source": "Phys.org",
@@ -32545,74 +32601,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Southern hairy-nosed wombat found to deliver key environmental benefits",
-      "link": "https://phys.org/news/2026-11-southern-hairy-nosed-wombat-key.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-10T13:00:01-05:00",
-      "score": 12,
-      "summary": "The southern hairy-nosed wombat, a species long persecuted by farmers in South Australia, has been found to deliver key environmental benefits, and researcher Dr. Ruth Norris believes it warrants urgent protection.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "America\u2019s Measles Problem Has Reached Endemic Level",
-      "link": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
-      "source": "NYT",
-      "timestamp": "2026-11-10T17:56:29+00:00",
-      "score": 12,
-      "summary": "A panel of scientific experts will convene on Tuesday to evaluate the United States\u2019 measles elimination status. But genetic data already shows the virus is once again endemic.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Measles",
-        "Problem",
-        "Has",
-        "Reached",
-        "Endemic",
-        "Level"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 14,
-      "sources_reporting": [
-        "NHK",
-        "NPR",
-        "NYT",
-        "PBS"
-      ],
-      "trend_accel": "+65%",
-      "heat_level": "HOT"
     }
   ],
   "Sports": [
@@ -35601,6 +35589,94 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Alanis Morissette Slams Ben Affleck for \u2018Asking Why I Didn\u2019t Lead With My Sexuality,\u2019 Then Plays Video at Concert of His Head Exploding",
+      "link": "https://variety.com/2026/music/news/alanis-morissette-slams-ben-affleck-sexuality-1236946485/",
+      "source": "Variety",
+      "timestamp": "2026-11-12T20:37:42+00:00",
+      "score": 12,
+      "summary": "Alanis Morissette did not hold back when recalling the words of her \u201cDogma\u201d co-star, Ben Affleck. During the Nov. 11 date of her \u201cButterfly With a Machete\u201d residency at the YouTube Theater in Inglewood, Calif., the singer spoke pointedly about Affleck during a monologue about ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Morissette",
+        "Slams",
+        "Ben",
+        "Affleck",
+        "Asking",
+        "Why",
+        "Didnt",
+        "Lead",
+        "Sexuality",
+        "Then",
+        "Plays",
+        "Video",
+        "Concert",
+        "His",
+        "Head",
+        "Exploding"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Unlike Anything Else\u2019: As \u2018GTA 6\u2019 Approaches, the Gaming Industry Braces the World for Its Pop Culture Takeover",
+      "link": "https://variety.com/2026/gaming/news/gta-6-release-gaming-industry-takeover-1236945197/",
+      "source": "Variety",
+      "timestamp": "2026-11-12T20:36:14+00:00",
+      "score": 15,
+      "summary": "There\u2019s only so many times that gaming industry analysts can say \u201cGrand Theft Auto VI\u201d will be the biggest entertainment release of all time before the phrase seemingly loses all meaning to those who have never played a \u201cGTA\u201d game before. With just one week left until the Nov....",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Anything",
+        "Else",
+        "GTA",
+        "Approaches",
+        "Gaming",
+        "Industry",
+        "Braces",
+        "World",
+        "Its",
+        "Pop",
+        "Culture",
+        "Takeover"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
     {
       "title": "David Walliams Adaptation \u2018Fing!\u2019 Pulled by Doha Film Festival Following Sexual Harassment Allegations",
       "link": "https://variety.com/2026/film/global/david-walliams-fling-doha-film-festival-sexual-allegations-1236946389/",
@@ -40229,7 +40305,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 18,
       "sources_reporting": [
         "Deadline",
@@ -43553,79 +43629,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Usher and Chris Brown Cancel Additional Shows on R&B Tour",
-      "link": "https://www.rollingstone.com/music/music-news/usher-chris-brown-cancel-additional-shows-rb-tour-1235656008/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-11-11T19:31:57+00:00",
-      "score": 12,
-      "summary": "Last month, a string of performances in Baltimore, Cincinnati, Indianapolis, and Columbia, South Carolina, on the R&B tour were also canceled",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chris",
-        "Brown",
-        "Cancel",
-        "Additional",
-        "Shows",
-        "Tour"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "FX Gives Gen Z Comedy \u2018Adults\u2019 Third Season Renewal",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/adults-fx-comedy-adults-third-season-renewed-1236753149/",
-      "source": "THR",
-      "timestamp": "2026-11-11T19:25:37+00:00",
-      "score": 12,
-      "summary": "The comedy\u2019s creators Ben Kronengold and Rebecca Shaw have also inked a new overall deal with FX Productions.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Gives",
-        "Gen",
-        "Comedy",
-        "Adults",
-        "Third",
-        "Season",
-        "Renewal"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -44245,7 +44248,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.2,
+      "trend_score": 7.1,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -44253,7 +44256,7 @@
         "NHK",
         "Vogue"
       ],
-      "trend_accel": "+67%",
+      "trend_accel": "+66%",
       "heat_level": "HOT"
     },
     {
@@ -47882,6 +47885,107 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.6 - 41 km WNW of Clam Gulch, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wlkahp",
+      "source": "USGS",
+      "timestamp": "2026-11-12T20:37:12.393000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-12 20:33:12 UTC2026-11-12 20:33:12 UTC at epicenterLocation60.406\u00b0N 152.048\u00b0WDepth84.10 km (52.26 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Clam",
+        "Gulch",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.4 - 32 km WNW of Happy Valley, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wlkcgn",
+      "source": "USGS",
+      "timestamp": "2026-11-12T20:36:46.151000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-12 20:35:26 UTC2026-11-12 20:35:26 UTC at epicenterLocation60.012\u00b0N 152.293\u00b0WDepth73.00 km (45.36 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Happy",
+        "Valley",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.6 - 67 km WNW of Beluga, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wljyfk",
+      "source": "USGS",
+      "timestamp": "2026-11-12T20:35:15.613000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-12 20:32:23 UTC2026-11-12 20:32:23 UTC at epicenterLocation61.352\u00b0N 152.269\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Beluga",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.3 - 10 km SE of Ocotillo Wells, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361479",
@@ -54345,107 +54449,6 @@
         "USGS"
       ],
       "trend_accel": "+60%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.1 - 82 km W of Panguna, Papua New Guinea",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txm8",
-      "source": "USGS",
-      "timestamp": "2026-11-11T17:58:04.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-11 17:38:23 UTC2026-11-11 17:38:23 UTC at epicenterLocation6.302\u00b0S 154.737\u00b0EDepth71.55 km (44.46 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Panguna",
-        "Papua",
-        "New",
-        "Guinea"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.8 - 64 km ENE of Pedro Bay, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjibyh",
-      "source": "USGS",
-      "timestamp": "2026-11-11T17:38:15.884000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-11 17:36:27 UTC2026-11-11 17:36:27 UTC at epicenterLocation59.974\u00b0N 153.012\u00b0WDepth120.80 km (75.06 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Pedro",
-        "Bay",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.3 - 27 km WNW of Petersville, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjhxjv",
-      "source": "USGS",
-      "timestamp": "2026-11-11T17:32:35.974000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-11 17:30:35 UTC2026-11-11 17:30:35 UTC at epicenterLocation62.613\u00b0N 151.240\u00b0WDepth85.70 km (53.25 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Petersville",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
