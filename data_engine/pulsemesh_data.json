@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "Military base asylum plans granted planning approval",
+      "link": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-12T22:16:34+00:00",
+      "score": 10,
+      "summary": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "After emotional return, Pope Leo denounces 'machismo' in Peru and demands respect for women",
       "link": "https://www.pbs.org/newshour/world/after-emotional-return-pope-leo-denounces-machismo-in-peru-and-demands-respect-for-women",
       "source": "PBS",
@@ -6577,24 +6608,24 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Environmental, social costs of Vizhinjam port railway tunnel to be higher than anticipated",
-      "link": "https://www.thehindu.com/news/national/kerala/environmental-social-costs-of-vizhinjam-port-railway-tunnel-to-be-higher-than-anticipated/article71688975.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-12T07:31:12+05:30",
-      "score": 14,
-      "summary": "The proposed tunnel between Balaramapuram and Vizhinjam to provide rail connectivity to Vizhinjam International Seaport has triggered serious environmental and land stability concerns in the region",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Muse can now place calls to U.S. businesses \u2014 if you pay",
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-12T22:22:28+00:00",
+      "score": 12,
+      "summary": "Muse's AI can now place outbound calls to US businesses \u2014 but it's not free.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Vizhinjam"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6602,15 +6633,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Google\u2019s new Gemini model is better at understanding complicated questions",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
@@ -13138,23 +13167,30 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Coordinated disturbances haunt grids worldwide. Here\u2019s how researchers solved the mystery.",
-      "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-08T20:30:00+00:00",
+      "title": "Israeli strike on Gaza\u2019s Nasser Hospital kills at least six people, officials say",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUdEakxtMWZpbTJoLTBTOGRoNElEcDFodXFDNzcyUEtVS2dJMU92anJoQWFpdjEwT042d3lRVExOcHpFdDdrZ3lNTWZ2dlp1dzdoVjN3YU5TdUJkb1NWTWZBNHhqOTlBVWNYTkRoS2tpUWRrMTVMVFlLMDN1NHB6blRvV3dkbERhZWJHSFM1enVSaGlsaHUzRVk2cTBSREp3aENrYVBCbTlteEpMMzd2U05n?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-11-12T22:22:13+00:00",
       "score": 12,
-      "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
+      "summary": "Israeli strike on Gaza\u2019s Nasser Hospital kills at least six people, officials say NBC NewsIsraeli Strikes on Gaza Hospital Kill 6 and Injure Dozens, Health Officials Say The New York TimesIsrael airstrike on Gaza hospital kills 6 people, Hamas-run health ministry says ABC7 Los...",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Aggregator",
       "trust_score": 8,
-      "source_bias": "Low",
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
       "entities": [
-        "Heres"
+        "Gazas",
+        "Nasser",
+        "Hospital"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13163,15 +13199,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "Google News"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "The Man Who Helped the C.I.A. Secretly Operate in Mexico",
       "link": "https://www.nytimes.com/2026/11/10/world/americas/mexico-chihuahua-cia.html",
@@ -19638,12 +19672,11 @@
       "breaking": false,
       "trending": true,
       "trend_score": 11.3,
-      "source_count": 20,
+      "source_count": 19,
       "sources_reporting": [
         "BBC",
         "FT",
         "France24",
-        "Google News",
         "Guardian",
         "NPR",
         "PBS"
@@ -19783,25 +19816,29 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Democrat Colom wins tight Senate race in Mississippi",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTRFXzVMOVNIM2JnNFFkTzlrSmVYYnV5NTJlNDVVY1FhTXVBR1QybjdUd3JoVWpvZ3NRdFVGY0FkNlRmcW96d2VTR0tYei15dnp4eEhibFF4cGhwUnJnX3gwSHU0TEU4MUx2dE40V1BBSTZQYXVqOV9Nd0pkNXk0T3JQeFJ5emx3azFxMm5kLU5FLTJVcDJ5cmhURG9RYjBMVE1vbVJ6aEJiM3otQVFtVk5Cdw?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-11-11T23:07:55+00:00",
-      "score": 12,
-      "summary": "Democrat Colom wins tight Senate race in Mississippi Reuters",
+      "title": "Stocks making the biggest moves Thursday: Cerebras, Cisco, Applied Materials & more",
+      "link": "https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-12T22:28:42+00:00",
+      "score": 14,
+      "summary": "Follow along and CNBC highlights the biggest stock market moves of the day.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Aggregator",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Colom",
-        "Senate",
-        "Mississippi"
+        "Thursday",
+        "Cerebras",
+        "Cisco",
+        "Applied",
+        "Materials"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19810,16 +19847,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 9,
+      "source_count": 4,
       "sources_reporting": [
-        "Al Jazeera",
-        "Google News"
+        "CNBC"
       ],
-      "trend_accel": "+63%",
-      "heat_level": "HOT"
-    }
-  ],
-  "Business": [
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Yen Falls to Cusp of 160 Level, Fanning Intervention Risk",
       "link": "https://www.livemint.com/market/yen-falls-to-cusp-of-160-level-fanning-intervention-risk-11794521542082.html",
@@ -26485,32 +26519,54 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
-      "link": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
-      "source": "NYT",
-      "timestamp": "2026-11-11T16:23:11+00:00",
-      "score": 14,
-      "summary": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed.",
+      "title": "Mapping oxygen in graphene oxide could unlock better materials",
+      "link": "https://phys.org/news/2026-11-oxygen-graphene-oxide-materials.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-12T17:30:01-05:00",
+      "score": 10,
+      "summary": "Just one atom thick, graphene is the thinnest and strongest material ever measured. It can also conduct electricity and heat extremely well. These remarkable properties have generated interest in using graphene in everything from solar cells and batteries to water filters and ...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Science Publication",
       "trust_score": 9,
-      "source_bias": "Moderate",
+      "source_bias": "None",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
       ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Engineering team creates 3D-printed raptor puppets to help wildlife rehabilitation",
+      "link": "https://phys.org/news/2026-11-team-3d-raptor-puppets-wildlife.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-12T17:20:19-05:00",
+      "score": 13,
+      "summary": "Four new feeding puppets at Salthaven Wildlife Rehabilitation and Education Centre will help caregivers feed young raptors while reducing their contact with people when baby season returns next year.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
       "entities": [
-        "Officials",
-        "Clashed",
-        "Over",
-        "Megaspeed",
-        "Firm",
-        "Heart",
-        "Nvidia",
-        "Affair"
+        "Dprinted"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26521,13 +26577,40 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "NYT"
+        "Phys.org"
       ],
-      "trend_accel": "+53%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "Uncovering the hidden origins of the placenta",
+      "link": "https://phys.org/news/2026-11-uncovering-hidden-placenta.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-12T17:20:01-05:00",
+      "score": 10,
+      "summary": "When an embryo attaches to the wall of the uterus roughly six days after fertilization, it begins to build the body and placenta. Called implantation, this is the stage of life scientists know least about. It is also the stage when most pregnancies are lost.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Catalyst regeneration enables durable hydrogen production from ammonia",
       "link": "https://phys.org/news/2026-11-catalyst-regeneration-enables-durable-hydrogen.html",
@@ -32537,93 +32620,6 @@
       ],
       "trend_accel": "+58%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "Gravitational waves hint at black holes born from failed supernovae",
-      "link": "https://phys.org/news/2026-11-gravitational-hint-black-holes-born.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-10T15:10:01-05:00",
-      "score": 12,
-      "summary": "When the most massive stars in the universe die, they often detonate in fiery supernovae, dramatically blasting most of their matter into space. The remaining stellar cores collapse into neutron stars and, sometimes, black holes. However, theories suggest that some massive sta...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Repeatable laser measurements reveal 'forbidden' vibrations in single molecules without destroying them",
-      "link": "https://phys.org/news/2026-11-laser-reveal-forbidden-vibrations-molecules.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-10T15:00:01-05:00",
-      "score": 10,
-      "summary": "The possibility of controlling \"forbidden\" excitations of vibrations in molecules could form the basis of extremely accurate clocks, quantum bits and precise tests of the fundamental laws of physics. Researchers at the University of Basel have now identified and controlled suc...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Airborne imaging explores a mosaic of thawing permafrost",
-      "link": "https://phys.org/news/2026-11-airborne-imaging-explores-mosaic-permafrost.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-10T14:40:09-05:00",
-      "score": 12,
-      "summary": "Permafrost in many of Earth's northern regions is thawing, a process that unlocks greenhouse gases, threatens infrastructure, and could alter landscapes and ecosystems. The Arctic and subarctic are vast, and gaining a comprehensive picture of permafrost distribution is difficu...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -35612,6 +35608,171 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Ray Nicholson Was \u201cScared\u201d to Tell His Dad Jack Nicholson He Wanted to Pursue Acting",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/ray-nicholson-scared-tell-dad-jack-nicholson-acting-1236754341/",
+      "source": "THR",
+      "timestamp": "2026-11-12T22:31:12+00:00",
+      "score": 12,
+      "summary": "\"My education really taught me that dad isn\u2019t God. He\u2019s not the only thing in this film industry. He\u2019s a beautiful part of it, but a very small part,\" the actor said in a new Interview magazine conversation.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nicholson",
+        "Was",
+        "Scared",
+        "Tell",
+        "His",
+        "Dad",
+        "Jack",
+        "Wanted",
+        "Pursue",
+        "Acting"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Microsoft Goes Down, and the Media Business Takes Off Early",
+      "link": "https://www.hollywoodreporter.com/business/business-news/microsoft-down-offices-take-off-early-1236754346/",
+      "source": "THR",
+      "timestamp": "2026-11-12T22:31:04+00:00",
+      "score": 12,
+      "summary": "A global outage of Microsoft systems has the entertainment business (and frankly all of corporate America) reeling, and employees cutting out early.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Goes",
+        "Down",
+        "Media",
+        "Business",
+        "Takes",
+        "Off",
+        "Early"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Michael John Roberts Dies: \u2018TripTank\u2019, \u2018BoJack Horseman\u2019 Animator, Director & Producer Was 48",
+      "link": "https://deadline.com/2026/11/michael-john-roberts-dead-1237222107/",
+      "source": "Deadline",
+      "timestamp": "2026-11-12T22:18:11+00:00",
+      "score": 15,
+      "summary": "Michael John Roberts, an animator and director of such series as Comedy Central\u2019s TripTank and Netflix\u2019s BoJack Horseman, died of glioblastoma Wednesday, November 11, in Los Angeles. He was 48. His death was announced by his family, including his wife, the One Life to Live and...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "John",
+        "Roberts",
+        "Dies",
+        "TripTank",
+        "BoJack",
+        "Horseman",
+        "Animator",
+        "Director",
+        "Producer",
+        "Was"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 10,
+      "sources_reporting": [
+        "Deadline",
+        "THR"
+      ],
+      "trend_accel": "+62%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "\u2018La Bola Negra\u2019s\u2019 Creatives Faced a Ticking Clock to Finish the Film for Cannes, But Waiting for Snow Almost Kept the Ending From Being Shot",
+      "link": "https://variety.com/2026/film/news/la-bola-negra-editor-raced-to-finish-snow-1236946562/",
+      "source": "Variety",
+      "timestamp": "2026-11-12T22:17:50+00:00",
+      "score": 14,
+      "summary": "\u201cLa Bola Negra\u201d editor Alberto Guti\u00e9rrez knew he was up against time \u2014 the plan was that they wanted to take the film to the Cannes Film Festival, and the deadline was March. Filming began in November, and Guti\u00e9rrez was editing the movie. But there was one problem. The film di...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bola",
+        "Negras",
+        "Creatives",
+        "Faced",
+        "Ticking",
+        "Clock",
+        "Finish",
+        "Film",
+        "Cannes",
+        "But",
+        "Waiting",
+        "Snow",
+        "Almost",
+        "Kept",
+        "Ending",
+        "Being",
+        "Shot"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Avatar: Seven Havens\u2019 Sets Book 2 Release Date At Paramount+",
       "link": "https://deadline.com/2026/11/avatar-seven-havens-book-2-release-date-paramount-plus-1237221752/",
@@ -43491,164 +43652,6 @@
       ],
       "trend_accel": "+68%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "Jessica Chastain Returning to Broadway in New Play \u2018Lost Lear\u2019",
-      "link": "https://variety.com/2026/legit/news/jessica-chastain-broadway-play-lost-lear-1236945570/",
-      "source": "Variety",
-      "timestamp": "2026-11-11T22:15:00+00:00",
-      "score": 14,
-      "summary": "Jessica Chastain is returning to Broadway in \u201cLost Lear,\u201d a play that puts a meta spin on \u201cKing Lear.\u201d Chastain was last on Broadway in \u201cA Doll\u2019s House,\u201d an acclaimed 2023 revival of the Henrik Ibsen drama; this is her first time appearing in a new show. In \u201cLost Lear,\u201d she wi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chastain",
-        "Returning",
-        "Broadway",
-        "New",
-        "Play",
-        "Lost",
-        "Lear"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 18,
-      "sources_reporting": [
-        "Deadline",
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+78%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Mary Hager, Senior Executive Producer Of \u2018Face the Nation,\u2019 Plans To Depart CBS News After 35 Years",
-      "link": "https://deadline.com/2026/11/mary-hager-departs-cbs-news-face-the-nation-1237220920/",
-      "source": "Deadline",
-      "timestamp": "2026-11-11T22:08:29+00:00",
-      "score": 15,
-      "summary": "Mary Hager, who has led Face the Nation for the past 15 years, will depart CBS News in January, according to a source familiar with her plans. Hager has been senior executive producer of Face the Nation and CBS News\u2019 executive editor of politics. She previously was executive p...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hager",
-        "Senior",
-        "Executive",
-        "Producer",
-        "Face",
-        "Nation",
-        "Plans",
-        "Depart",
-        "CBS",
-        "News",
-        "After",
-        "Years"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Austin\u2019s Moontower Comedy Festival Taking Year Off In 2027 Amid Paramount Theatre Restoration",
-      "link": "https://deadline.com/2026/11/moontower-comedy-festival-sets-2027-hiatus-1237220943/",
-      "source": "Deadline",
-      "timestamp": "2026-11-11T22:00:32+00:00",
-      "score": 15,
-      "summary": "The Moontower Comedy Festival, one of North America\u2019s preeminent comedy festivals, is going on hiatus next year amid a major restoration to Austin, TX\u2019s Paramount Theatre. The festival is officially set to return April 19-22, 2028. While the festival is on pause, Moontower Com...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Moontower",
-        "Comedy",
-        "Festival",
-        "Taking",
-        "Year",
-        "Off",
-        "Amid",
-        "Paramount",
-        "Theatre",
-        "Restoration"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Sun Valley Film Festival Sets Honorees And Lineup For 2026 Edition",
-      "link": "https://deadline.com/2026/11/sun-valley-film-festival-honorees-lineup-1237220789/",
-      "source": "Deadline",
-      "timestamp": "2026-11-11T22:00:00+00:00",
-      "score": 15,
-      "summary": "Bill Pullman, Seth Rogen and Lauren Miller Rogen, Peter Farrelly, Luke Davies and Stephen Beresford will join Jessica Lange as honorees set for this year\u2019s Sun Valley Film Festival, which runs December 2-6 The fest revealed its kudos list as well as its lineup Wednesday, with ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Valley",
-        "Film",
-        "Festival",
-        "Sets",
-        "Honorees",
-        "Lineup",
-        "Edition"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -47894,6 +47897,106 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.6 - 123 km S of McCarthy, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wlnuck",
+      "source": "USGS",
+      "timestamp": "2026-11-12T22:29:05.727000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-12 22:26:00 UTC2026-11-12 22:26:00 UTC at epicenterLocation60.338\u00b0N 143.257\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "McCarthy",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 5.8 - 148 km NW of Kavieng, Papua New Guinea",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txwp",
+      "source": "USGS",
+      "timestamp": "2026-11-12T22:28:45.655000+00:00",
+      "score": 15,
+      "summary": "PAGER - GREEN ShakeMap - VIITime2026-11-12 22:04:06 UTC2026-11-12 22:04:06 UTC at epicenterLocation1.588\u00b0S 149.888\u00b0EDepth10.00 km (6.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kavieng",
+        "Papua",
+        "New",
+        "Guinea"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.2 - 64 km ENE of Pedro Bay, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wlnkhr",
+      "source": "USGS",
+      "timestamp": "2026-11-12T22:16:35.989000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-12 22:14:42 UTC2026-11-12 22:14:42 UTC at epicenterLocation60.038\u00b0N 153.061\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Pedro",
+        "Bay",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 0.4 - 54 km NE of Pedro Bay, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wlmotr",
@@ -54365,105 +54468,6 @@
         "USGS"
       ],
       "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 62 km ENE of Pedro Bay, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wjmdrz",
-      "source": "USGS",
-      "timestamp": "2026-11-11T19:40:35.598000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-11 19:37:49 UTC2026-11-11 19:37:49 UTC at epicenterLocation60.014\u00b0N 153.078\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Pedro",
-        "Bay",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 2 km S of Pastos, Puerto Rico",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539078",
-      "source": "USGS",
-      "timestamp": "2026-11-11T19:37:01.680000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-11 19:18:47 UTC2026-11-11 19:18:47 UTC at epicenterLocation18.097\u00b0N 66.255\u00b0WDepth55.46 km (34.46 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pastos",
-        "Puerto",
-        "Rico"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.0 - 48 km NW of Ancud, Chile",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txmq",
-      "source": "USGS",
-      "timestamp": "2026-11-11T19:36:42.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-11 19:21:17 UTC2026-11-11 19:21:17 UTC at epicenterLocation41.523\u00b0S 74.176\u00b0WDepth34.89 km (21.68 mi)",
-      "country": "Chile",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ancud",
-        "Chile"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
