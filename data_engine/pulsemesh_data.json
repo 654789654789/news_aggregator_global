@@ -392,7 +392,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.0,
+      "trend_score": 10.9,
       "source_count": 11,
       "sources_reporting": [
         "Bloomberg",
@@ -402,7 +402,7 @@
         "Reuters",
         "The Hill"
       ],
-      "trend_accel": "+85%",
+      "trend_accel": "+84%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13181,6 +13181,40 @@
   ],
   "World": [
     {
+      "title": "Breaking: Teen injured in train fall on Sydney Harbour Bridge",
+      "link": "https://www.abc.net.au/news/2026-11-12/nsw-train-fall-incident-milsons-point/107377826",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-12T02:20:51+00:00",
+      "score": 14,
+      "summary": "A teenage boy has been rushed to hospital after falling from a train and onto the tracks on the Sydney Harbour Bridge.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Teen",
+        "Sydney",
+        "Harbour",
+        "Bridge"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Natalie spent more than $200k on IVF and didn't get her baby",
       "link": "https://www.abc.net.au/news/2026-11-12/the-true-cost-of-ivf-financially-emotionally/107339748",
       "source": "ABC Australia",
@@ -19697,42 +19731,49 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Ukraine\u2019s Zelenskyy says he is pleased with messages from U.S. envoys on diplomatic efforts to end war",
-      "link": "https://www.thehindu.com/news/international/ukraines-zelenskyy-says-he-is-pleased-with-messages-from-us-envoys-on-diplomatic-efforts-to-end-war/article71687545.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-11T08:24:53+05:30",
+      "title": "Nvidia\u2019s Stock Price Plummets as Board Is Said to Consider Jensen Huang, CEO\u2019s, Future",
+      "link": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
+      "source": "NYT",
+      "timestamp": "2026-11-12T02:20:09+00:00",
       "score": 14,
-      "summary": "\u201cI see changes. I am very happy about what I hear,\u201d Mr. Zelenskyy said when asked about the recent messages by U.S. presidential \u200cenvoys \u2060Jared Kushner and Steve Witkoff",
-      "country": "Ukraine",
-      "region": "Europe",
+      "summary": "News of the board\u2019s deliberations about Jensen Huang\u2019s job drove Nvidia\u2019s stock down more than 8 percent in after-hours trading.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Newspaper",
-      "trust_score": 8,
+      "trust_score": 9,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Zelenskyy"
+        "Stock",
+        "Price",
+        "Plummets",
+        "Board",
+        "Said",
+        "Consider",
+        "Jensen",
+        "Huang",
+        "CEOs",
+        "Future"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "NYT"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Top stocks to watch today: Tata Power, Bajaj Finance, HAL, IRCTC shares in focus on Thursday, 12 November",
       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-power-bajaj-finance-hal-irctc-shares-in-focus-on-thursday-12-november-full-list-11794447178928.html",
@@ -26310,24 +26351,25 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "S&P 500 falls after hot CPI ignites inflation concerns: Live updates",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VWk50RzlXYlZaV1pUOVFBLXNSUjFaOVhYSUpvQ25CVm5UWE1EMkE3bjRYSWNqVVRKUC16T3pId3BLLTQzcW9KRTJOUHVseDZJT3JwQ195cnZjX0IyODU3MHZNeVBtYVd3V2dxMlR5ZEphWnhBeERj?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-11-10T16:07:00+00:00",
-      "score": 17,
-      "summary": "S&P 500 falls after hot CPI ignites inflation concerns: Live updates CNBCStock market today: Dow, S&P 500, Nasdaq slip after CPI data raises Fed rate-hike bets Yahoo FinanceUS stocks stumble after a discouraging update on inflation KSL NewsWall Street pares losses, but mood ca...",
+      "title": "Only half of England's young workers outside higher education secure permanent contracts, down from 81%",
+      "link": "https://phys.org/news/2026-11-england-young-workers-higher-permanent.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-11T21:20:01-05:00",
+      "score": 15,
+      "summary": "The study of young people in England found that among those who did not progress to higher education, only 16% secured apprenticeships and just 23% had secured stable work by ages 19\u201320. Of those in work, only half had a permanent contract, down from 81% in a similar study six...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "CPI",
-        "Live"
+        "Englands"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26336,15 +26378,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "Google News"
+        "Phys.org"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Retired ocean liner to become largest artificial reef in the world",
       "link": "https://phys.org/news/2026-11-ocean-liner-largest-artificial-reef.html",
@@ -32397,39 +32437,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Subaru Telescope reveals the shape and temperature of Comet Encke's nucleus",
-      "link": "https://phys.org/news/2026-11-subaru-telescope-reveals-temperature-comet.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-09T17:10:04-05:00",
-      "score": 12,
-      "summary": "Mid-infrared observations with the Subaru Telescope have revealed the shape and surface temperature of the nucleus of Comet 2P/Encke. By analyzing how the nucleus's thermal emission changed as it rotated, the researchers found that the nucleus is elongated, with a long axis of...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Telescope",
-        "Comet",
-        "Enckes"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -35562,6 +35569,118 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Our Top 29 Holiday Gifts of 2026",
+      "link": "https://www.hollywoodreporter.com/lifestyle/shopping/best-christmas-gifts-2026-holiday-presents-buy-online-1236752104/",
+      "source": "THR",
+      "timestamp": "2026-11-12T02:25:21+00:00",
+      "score": 15,
+      "summary": "From the year's trendiest drops to annual mainstays that just don't miss, win the holiday season with our shopping editors' top present picks.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Top",
+        "Holiday",
+        "Gifts"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Movie Marketing Veteran Gerry Rich on Opening \u2018Iron Man,\u2019 Grappling With AI and Maintaining the Human Touch",
+      "link": "https://variety.com/2026/film/news/gerry-rich-iron-man-movie-marketing-strictly-business-1236945785/",
+      "source": "Variety",
+      "timestamp": "2026-11-12T02:18:44+00:00",
+      "score": 14,
+      "summary": "On today\u2019s episode of Variety\u2018s \u201cStrictly Business\u201d podcast, movie marketing veteran Gerry Rich details his new memoir \u201cChasing Hollywood: A Marketing Chief\u2019s Lessons on Breaking Through.\u201d Rich has worked for most of Hollywood\u2019s major studios, including Paramount, Columbia Pic...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Marketing",
+        "Veteran",
+        "Gerry",
+        "Rich",
+        "Opening",
+        "Iron",
+        "Man",
+        "Grappling",
+        "Maintaining",
+        "Human",
+        "Touch"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Anthony Clark, \u2018Yes, Dear\u2019 Star and Comedian, Dies at 62",
+      "link": "https://variety.com/2026/tv/people-news/anthony-clark-dead-yes-dear-1236945796/",
+      "source": "Variety",
+      "timestamp": "2026-11-12T02:16:45+00:00",
+      "score": 15,
+      "summary": "Anthony Clark, an actor and comedian best known for starring in six seasons of \u201cYes, Dear,\u201d died Tuesday. He was 62. Clark\u2019s death was announced by his \u201cYes, Dear\u201d co-star Mike O\u2019Malley, who shared the news on Wednesday in a statement posted to X. \u201cAnthony Clark died yesterday...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Clark",
+        "Yes",
+        "Dear",
+        "Star",
+        "Comedian",
+        "Dies"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 16,
+      "sources_reporting": [
+        "Deadline",
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+79%",
+      "heat_level": "CRITICAL"
+    },
     {
       "title": "Lily Tomlin Reveals Dolly Parton\u2019s Surprising 9 to 5 Preparation",
       "link": "https://www.eonline.com/news/1438041/lily-tomlin-reveals-dolly-partons-surprising-9-to-5-preparation-exclusive?cmpid=rss-syndicate-genericrss-us-top_stories",
@@ -43441,140 +43560,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Jinkx Monsoon and BenDeLaCreme on Taking Their Holiday Show on the Road and Paying Tribute to \u2018Queer Icons\u2019 Tim Curry and Dolly Parton",
-      "link": "https://variety.com/2026/artisans/news/jinkx-monsoon-bendela-creme-holiday-tim-curry-dolly-parton-1236944277/",
-      "source": "Variety",
-      "timestamp": "2026-11-10T23:04:48+00:00",
-      "score": 12,
-      "summary": "Yes, there are the Rockettes at Radio City Music Hall, but actors, writers, comedians and drag queens Jinkx Monsoon and BenDelaCreme are back to slay with one of the greatest and funniest winter shows \u2014 The Jinkx and Dela Holiday Show! This year, Monsoon and Dela celebrate the...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Monsoon",
-        "BenDeLaCreme",
-        "Taking",
-        "Their",
-        "Holiday",
-        "Show",
-        "Road",
-        "Paying",
-        "Tribute",
-        "Queer",
-        "Icons",
-        "Tim",
-        "Curry",
-        "Dolly",
-        "Parton"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Leah McKendrick To Follow \u2018Voicemails For Isabelle\u2019 With \u201cFerociously Female\u201d Thriller \u2018Delulu\u2019 Starring Maddie Ziegler; XYZ & Temple Hill Produce",
-      "link": "https://deadline.com/2026/11/leah-mckendrick-and-maddie-ziegler-star-in-delulu-thriller-1237219314/",
-      "source": "Deadline",
-      "timestamp": "2026-11-10T22:30:58+00:00",
-      "score": 14,
-      "summary": "EXCLUSIVE: Leah McKendrick, fresh off her Netflix smash Voicemails For Isabelle, is next set to direct and star in thriller Delulu alongside West Side Story and Pretty Lethal star Maddie Ziegler. McKendrick has also written and will serve as an executive producer on the projec...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "McKendrick",
-        "Follow",
-        "Voicemails",
-        "Isabelle",
-        "Ferociously",
-        "Female",
-        "Thriller",
-        "Delulu",
-        "Starring",
-        "Maddie",
-        "Ziegler",
-        "XYZ",
-        "Temple",
-        "Hill",
-        "Produce"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018DWTS\u2019 Grammy Night Taps Sheryl Crow, Maren Morris, Brandy and Monica: Where to Watch Online",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-dancing-with-the-stars-grammy-night-2026-free-stream-1236752242/",
-      "source": "THR",
-      "timestamp": "2026-11-10T22:30:09+00:00",
-      "score": 12,
-      "summary": "The season's long-awaited dance-offs will feature live performances by each of the Grammy-winning artists.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Grammy",
-        "Night",
-        "Taps",
-        "Sheryl",
-        "Crow",
-        "Maren",
-        "Morris",
-        "Brandy",
-        "Monica",
-        "Where",
-        "Watch",
-        "Online"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -47725,6 +47710,38 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 5 km NNW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465567",
+      "source": "USGS",
+      "timestamp": "2026-11-12T02:28:58.992000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-12 02:27:24 UTC2026-11-12 02:27:24 UTC at epicenterLocation38.816\u00b0N 122.788\u00b0WDepth1.33 km (0.83 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
       "heat_level": "LOW"
     },
     {
@@ -54194,37 +54211,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 12 km NE of Cabazon, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360695",
-      "source": "USGS",
-      "timestamp": "2026-11-10T20:28:30.582000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-10 20:25:00 UTC2026-11-10 20:25:00 UTC at epicenterLocation33.994\u00b0N 116.699\u00b0WDepth14.72 km (9.15 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Cabazon"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
