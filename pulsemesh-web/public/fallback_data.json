@@ -8690,7 +8690,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.4,
+      "trend_score": 10.3,
       "source_count": 13,
       "sources_reporting": [
         "Ars",
@@ -8700,7 +8700,7 @@
         "TechCrunch",
         "Verge"
       ],
-      "trend_accel": "+79%",
+      "trend_accel": "+78%",
       "heat_level": "CRITICAL"
     },
     {
@@ -13181,6 +13181,46 @@
     }
   ],
   "World": [
+    {
+      "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
+      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
+      "source": "NYT",
+      "timestamp": "2026-11-12T03:26:06+00:00",
+      "score": 15,
+      "summary": "Nasser Hospital in Khan Younis was attacked despite the 2025 cease-fire. A surgeon, an official and a disabled patient were among the victims, a witness said.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "Gaza",
+        "Hospital",
+        "Kills",
+        "Least",
+        "Injures",
+        "Rescuers",
+        "Say"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Community preschools in NSW oppose move towards more children, fewer staff",
       "link": "https://www.abc.net.au/news/2026-11-12/nsw-community-preschool-funding-fears/107355938",
@@ -19716,23 +19756,28 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Three polio workers abducted during vaccination campaign in northwestern Pakistan",
-      "link": "https://www.thehindu.com/news/international/three-polio-workers-abducted-during-vaccination-campaign-in-northwestern-pakistan/article71685191.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-11T10:24:04+05:30",
-      "score": 14,
-      "summary": "The gunmen took the three workers from Khyber Pakhtunkhwa\u2019s Tank district to an undisclosed location after abducting them. The abducted workers were identified as Mir Janan, Ikram and Khanzala, says police",
-      "country": "Pakistan",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
+      "link": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-12T03:25:05+00:00",
+      "score": 12,
+      "summary": "The post on X comes amid reports that Nvidia's board is preparing to oust Huang.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Pakistan"
+        "Musk",
+        "Nvidias",
+        "Jensen",
+        "Huang"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19741,15 +19786,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "CNBC"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Nasdaq-100 futures slide, dragged lower as Nvidia sell-off resumes: Live updates",
       "link": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
@@ -20374,7 +20417,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.6,
+      "trend_score": 11.5,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -20384,7 +20427,7 @@
         "NYT",
         "Reuters"
       ],
-      "trend_accel": "+83%",
+      "trend_accel": "+82%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26337,37 +26380,6 @@
         "NYT"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "U.S. gas prices fall below $4 for the first time since July",
-      "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-10T16:29:09+00:00",
-      "score": 15,
-      "summary": "Americans may finally find some relief at the pump.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "July"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+45%",
       "heat_level": "LOW"
     }
   ],
@@ -35590,6 +35602,90 @@
   ],
   "Entertainment": [
     {
+      "title": "Jamie Dornan Reveals Reaction to Aragorn Casting in \u2018Lord of the Rings: Hunt for Gollum\u2019: \u201cI Cried\u201d",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/jamie-dornan-cried-aragorn-lord-of-the-rings-hunt-for-gollum-1236753600/",
+      "source": "THR",
+      "timestamp": "2026-11-12T03:24:46+00:00",
+      "score": 12,
+      "summary": "The actor is taking over the role originated by Viggo Mortensen for the new film directed by Andy Serkis.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dornan",
+        "Reveals",
+        "Reaction",
+        "Aragorn",
+        "Casting",
+        "Lord",
+        "Rings",
+        "Hunt",
+        "Gollum",
+        "Cried"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Keanu Reeves\u2019 \u2018Constantine 2\u2019 Gets \u2018Renewed Hope\u2019 After James Gunn\u2019s DC Exit, Says Director: \u2018People at DC Were an Impediment to Us\u2019",
+      "link": "https://variety.com/2026/film/news/keanu-reeves-constantine-2-james-gunns-dc-exit-1236945816/",
+      "source": "Variety",
+      "timestamp": "2026-11-12T03:20:00+00:00",
+      "score": 15,
+      "summary": "Following the news that James Gunn and Peter Safran are out as co-studio heads at DC, \u201cConstantine\u201d director Francis Lawrence is feeling a \u201crenewed hope\u201d about his long-awaited sequel to the \u201cHellblazer\u201d-inspired 2005 action-horror. \u201cNot that I want anybody to lose their jobs,...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Reeves",
+        "Constantine",
+        "Gets",
+        "Renewed",
+        "Hope",
+        "After",
+        "James",
+        "Gunns",
+        "Exit",
+        "Says",
+        "Director",
+        "People",
+        "Were",
+        "Impediment"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Lionsgate Acquires Alma Har\u2019el\u2019s \u2018Wet\u2019 Starring Connor Storrie, Rebecca Ferguson, Odessa A\u2019zion, Rosal\u00eda & Lukas Haas",
       "link": "https://deadline.com/2026/11/connor-storrie-rosalia-wet-lionsgate-1237221317/",
       "source": "Deadline",
@@ -43500,85 +43596,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Norwegian Oscar Entry \u2018Growth of the Soil\u2019 Sells to North America, U.K., Germany, Spain and More",
-      "link": "https://variety.com/2026/film/global/growth-of-the-soil-major-sales-1236944535/",
-      "source": "Variety",
-      "timestamp": "2026-11-10T23:28:13+00:00",
-      "score": 14,
-      "summary": "Beta Cinema has closed a raft of major deals on Hans Petter Moland\u2019s epic love story \u201cGrowth of the Soil,\u201d Norway\u2019s entry for best international feature film at the 99th Academy Awards. The deals follow the film\u2019s world premiere in Toronto and its European premiere at San Seba...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Oscar",
-        "Entry",
-        "Growth",
-        "Soil",
-        "Sells",
-        "North",
-        "America",
-        "Germany",
-        "Spain",
-        "More"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Megan Thee Stallion and Daniel Radcliffe Reunite for Season Two of \u2018Reggie Dinkins\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/megan-thee-stallion-daniel-radcliffe-reunite-reggie-dinkins-1235655555/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-11-10T23:27:50+00:00",
-      "score": 12,
-      "summary": "The rapper will reprise her role as a divorced mom who strikes up a flirtation with Radcliffe's character on The Fall and Rise of Reggie Dinkins",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Thee",
-        "Stallion",
-        "Daniel",
-        "Radcliffe",
-        "Reunite",
-        "Season",
-        "Two",
-        "Reggie",
-        "Dinkins"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -47729,6 +47746,71 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.1 - 110 km SSE of McCarthy, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkbtox",
+      "source": "USGS",
+      "timestamp": "2026-11-12T03:29:05.747000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-12 03:25:56 UTC2026-11-12 03:25:56 UTC at epicenterLocation60.540\u00b0N 142.044\u00b0WDepth11.60 km (7.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "McCarthy",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.2 - 15 km E of Sterling, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wkbomt",
+      "source": "USGS",
+      "timestamp": "2026-11-12T03:21:25.491000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-12 03:20:04 UTC2026-11-12 03:20:04 UTC at epicenterLocation60.535\u00b0N 150.478\u00b0WDepth58.30 km (36.23 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sterling",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
       "heat_level": "LOW"
     },
     {
@@ -54154,70 +54236,6 @@
       "entities": [
         "Lake",
         "Henshaw"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.1 - 1 km W of P\u0101hala, Hawaii",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75069212",
-      "source": "USGS",
-      "timestamp": "2026-11-10T21:14:13.430000+00:00",
-      "score": 17,
-      "summary": "Time2026-11-10 21:10:49 UTC2026-11-10 21:10:49 UTC at epicenterLocation19.204\u00b0N 155.490\u00b0WDepth27.79 km (17.27 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phala",
-        "Hawaii"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 11 km S of Shelton, Washington",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714137321",
-      "source": "USGS",
-      "timestamp": "2026-11-10T21:13:47.900000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-10 21:00:31 UTC2026-11-10 21:00:31 UTC at epicenterLocation47.117\u00b0N 123.077\u00b0WDepth-0.06 km (-0.04 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Shelton",
-        "Washington"
       ],
       "severity_score": 3,
       "alert_level": "low",
