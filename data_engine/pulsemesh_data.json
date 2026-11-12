@@ -13195,6 +13195,35 @@
   ],
   "World": [
     {
+      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-12T08:26:50+00:00",
+      "score": 10,
+      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "country": "Indonesia",
+      "region": "Southeast Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Surgeon among six killed in Israeli air strike on Gaza hospital",
       "link": "https://www.abc.net.au/news/2026-11-12/deadly-israeli-air-strike-nasser-hospital-gaza/107379926",
       "source": "ABC Australia",
@@ -15672,7 +15701,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.6,
+      "trend_score": 11.5,
       "source_count": 19,
       "sources_reporting": [
         "AP",
@@ -15684,7 +15713,7 @@
         "Guardian",
         "NPR"
       ],
-      "trend_accel": "+86%",
+      "trend_accel": "+85%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19798,22 +19827,26 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Boy raised by aunt after father killed mother; court awards her sole custody",
-      "link": "https://timesofindia.indiatimes.com/world/us/a-west-virginia-boy-was-raised-by-his-aunt-after-his-father-killed-his-mother-a-lower-court-ordered-shared-custody-with-paternal-grandparents-but-the-state-supreme-court-directed-that-the-aunt-receive-sole-custody/articleshow/135729526.cms",
-      "source": "Times of India",
-      "timestamp": "2026-11-11T15:07:09+05:30",
-      "score": 12,
-      "summary": "A pivotal custody battle in West Virginia culminated at the Supreme Court, centered on a young boy who lost his mother and whose father's rights were terminated. Raised by his maternal aunt, the court prioritized the child's emotional security, awarding her sole custody. Altho...",
+      "title": "NSE shares hit fresh highs, rise over 2%; Nuvama sees 14% upside, calls the stock exchange a \u2018compelling buy\u2019",
+      "link": "https://www.livemint.com/market/stock-market-news/nse-shares-hit-fresh-highs-rise-over-2-nuvama-sees-14-upside-calls-the-stock-exchange-a-compelling-buy-11794468560614.html",
+      "source": "Livemint",
+      "timestamp": "2026-11-12T13:46:54+05:30",
+      "score": 17,
+      "summary": "NSE shares rose more than 2% to a record \u20b91,994.50 after Nuvama initiated coverage with a buy rating and a \u20b92,220 target. The brokerage cited NSE\u2019s dominant market share, liquidity advantage, technology investments and growth prospects.",
       "country": "India",
       "region": "South Asia",
       "source_type": "Newspaper",
-      "trust_score": 7,
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Nuvama"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19823,13 +19856,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Times of India"
+        "Livemint"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+43%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Treasury yields edge higher as investors await fresh inflation and housing data",
       "link": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
@@ -26406,38 +26437,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Microsoft shares drop after Anthropic unveils tools that could compete with Office",
-      "link": "https://www.cnbc.com/2026/11/10/stock-market-movers-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-10T17:55:23+00:00",
-      "score": 12,
-      "summary": "Follow below as CNBC breaks down the biggest stock market moves of the day.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Anthropic",
-        "Office"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -32564,7 +32563,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 6.5,
+      "trend_score": 6.4,
       "source_count": 10,
       "sources_reporting": [
         "Guardian",
@@ -32573,7 +32572,7 @@
         "Sky Sports"
       ],
       "trend_accel": "+59%",
-      "heat_level": "HOT"
+      "heat_level": "LOW"
     },
     {
       "title": "World Test Championship expansion to be debated at ICC meeting",
@@ -35643,6 +35642,93 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Russell Brand Documentary From \u2018Jimmy Savile: A British Horror Story\u2019 Producers Set at Netflix Days After Rape Sentencing",
+      "link": "https://variety.com/2026/tv/news/russell-brand-documentary-jimmy-savile-producers-netflix-1236945930/",
+      "source": "Variety",
+      "timestamp": "2026-11-12T08:28:19+00:00",
+      "score": 12,
+      "summary": "Netflix has unveiled a documentary on Russell Brand, days after the comedian and former actor received a prison term of 10 years and six months for rape and sexual assault. \u201cRussell Brand: Open Secret\u201d is directed by Olivia Isaacs and produced by Fremantle-owned 72 Films, the ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Brand",
+        "Documentary",
+        "Jimmy",
+        "Savile",
+        "British",
+        "Horror",
+        "Story",
+        "Producers",
+        "Set",
+        "Netflix",
+        "Days",
+        "After",
+        "Rape",
+        "Sentencing"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018I Play Rocky\u2019 Opens 50th Anniversary Edition of Cairo Film Festival as Chief Hussein Fahmy Looks to the Future",
+      "link": "https://variety.com/2026/film/global/cairo-film-festival-2026-lineup-hussein-fahmy-1236945920/",
+      "source": "Variety",
+      "timestamp": "2026-11-12T08:27:16+00:00",
+      "score": 17,
+      "summary": "As the Cairo Intl. Film Festival celebrates 50 years since its founding, president Hussein Fahmy wants younger Egyptians to rediscover their country\u2019s rich cinematic heritage. For the veteran actor, introducing new audiences to the films that established Egypt as the Arab worl...",
+      "country": "Egypt",
+      "region": "Africa",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Play",
+        "Rocky",
+        "Opens",
+        "Anniversary",
+        "Edition",
+        "Cairo",
+        "Film",
+        "Festival",
+        "Chief",
+        "Hussein",
+        "Fahmy",
+        "Looks",
+        "Future"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u201812 12 12\u2019 Review: Anthony Mackie and Jamie Dornan Can\u2019t Save an Apple TV Heist Drama That Lurches From Promising to Disappointing",
       "link": "https://www.hollywoodreporter.com/tv/tv-reviews/12-12-12-review-anthony-mackie-jamie-dornan-apple-tv-1236753364/",
@@ -43553,87 +43639,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Judge Declines To Dismiss Donald Trump\u2019s Defamation Claim Against BBC",
-      "link": "https://deadline.com/2026/11/trump-bbc-lawsuit-judge-1237219938/",
-      "source": "Deadline",
-      "timestamp": "2026-11-11T02:06:50+00:00",
-      "score": 14,
-      "summary": "A federal judge on Tuesday declined to dismiss Donald Trump\u2019s defamation claim against the BBC over edits made to a documentary about January 6th that aired in advance of the 2024 election. U.S. District Judge Jeffrey Kuntz rejected the BBC\u2019s efforts to toss the case by conten...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Declines",
-        "Dismiss",
-        "Donald",
-        "Trumps",
-        "Defamation",
-        "Claim",
-        "Against",
-        "BBC"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Amanda Seyfried Says \u2018You Can See Everything\u2019 Role \u201cScares\u201d Her, \u201cFeels Good\u201d Taking On Doc",
-      "link": "https://deadline.com/2026/11/amanda-seyfried-you-can-see-everything-role-scares-her-1237219685/",
-      "source": "Deadline",
-      "timestamp": "2026-11-11T01:21:18+00:00",
-      "score": 12,
-      "summary": "While reprising one of her most talked about roles, Amanda Seyfried conquered some artistic fears. The You Can See Everything star, who appears in the A24 doc after her Emmy and Golden Globe-winning performance as its subject Elizabeth Holmes in Hulu\u2019s The Dropout (2022), rece...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Seyfried",
-        "Says",
-        "You",
-        "Can",
-        "See",
-        "Everything",
-        "Role",
-        "Scares",
-        "Her",
-        "Feels",
-        "Good",
-        "Taking",
-        "Doc"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -47758,6 +47763,69 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 3.1 - 11 km W of Hammond, Oregon",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714138021",
+      "source": "USGS",
+      "timestamp": "2026-11-12T08:29:58.589000+00:00",
+      "score": 15,
+      "summary": "ShakeMap - II DYFI? - ITime2026-11-12 08:18:29 UTC2026-11-12 08:18:29 UTC at epicenterLocation46.208\u00b0N 124.104\u00b0WDepth8.04 km (5.00 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hammond",
+        "Oregon"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.5 - off the coast of Oregon",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txrk",
+      "source": "USGS",
+      "timestamp": "2026-11-12T08:29:03.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-12 08:17:28 UTC2026-11-12 08:17:28 UTC at epicenterLocation44.454\u00b0N 129.621\u00b0WDepth10.00 km (6.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Oregon"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+49%",
       "heat_level": "LOW"
     },
     {
@@ -54173,71 +54241,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.2 - 14 km NNW of Borrego Springs, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360871",
-      "source": "USGS",
-      "timestamp": "2026-11-11T03:24:02.325000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-11 03:20:40 UTC2026-11-11 03:20:40 UTC at epicenterLocation33.380\u00b0N 116.413\u00b0WDepth11.40 km (7.08 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NNW",
-        "Borrego",
-        "Springs"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 4 km SE of Lake Henshaw, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41360863",
-      "source": "USGS",
-      "timestamp": "2026-11-11T03:18:45.465000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-11 03:15:22 UTC2026-11-11 03:15:22 UTC at epicenterLocation33.219\u00b0N 116.730\u00b0WDepth10.74 km (6.67 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lake",
-        "Henshaw"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
