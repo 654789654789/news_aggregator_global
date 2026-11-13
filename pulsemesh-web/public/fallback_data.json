@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "Over 43,000 students in the Nilgiris receive cakes, greeting cards ahead of Children\u2019s Day",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/over-43000-students-in-the-nilgiris-receive-cakes-greeting-cards-ahead-of-childrens-day/article71697309.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-13T18:32:57+05:30",
+      "score": 15,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nilgiris",
+        "Childrens",
+        "Day"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Microsoft \u2018seeing encouraging recovery progress\u2019 in global Outlook, Teams outage",
       "link": "https://thehill.com/policy/technology/6218199-microsoft-outage-recovery-process/",
       "source": "The Hill",
@@ -6577,24 +6610,24 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Light showers likely on Nov. 13 and 14 in A.P.",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/light-showers-likely-on-nov-13-and-14-in-ap/article71694405.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-12T20:56:13+05:30",
-      "score": 15,
-      "summary": "Experts say a few models indicate further intensification of the system, beyond depression",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Microsoft\u2019s latest email outage turned into a full blown global cloud crisis",
+      "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-13T13:15:20+00:00",
+      "score": 12,
+      "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Nov"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6604,13 +6637,43 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+53%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
+    {
+      "title": "The not-so-mysterious disappearance of the lunch break - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMERTc1lZZ0ZXcjVRQ093aXZSZkQweWNDR3pMWmpHaUstdV9ETFBOYS1naWoySmtGMlJIUmVyb1RXdW1SUG1GdkstbEdXaS0tNWNoWFZKYzRPYmxCMGxZbW1UTzF3MVBweTB3VkctZzJjWDRjdlFFdWhfdnZTWmk0ZEZuSDcyTGJuaTZKS1dLamZtR1NHcXdzM01qRQ?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-11-13T13:07:16+00:00",
+      "score": 12,
+      "summary": "The not-so-mysterious disappearance of the lunch break The Washington Post",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Washington",
+        "Post"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Apple should have made the MacBook logo RGB",
       "link": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors",
@@ -8623,7 +8686,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.3,
+      "trend_score": 10.2,
       "source_count": 16,
       "sources_reporting": [
         "Ars",
@@ -13120,71 +13183,44 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Jonathan Kanter is using AI to take on Big Tech",
-      "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-      "source": "Verge",
-      "timestamp": "2026-11-09T09:30:00-05:00",
-      "score": 14,
-      "summary": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside form...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kanter",
-        "Big",
-        "Tech"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Pomera\u2019s sleek distraction-free writing machine is just too small",
-      "link": "https://www.theverge.com/gadgets/1029603/pomeras-dm25us-distraction-free-writing-review",
-      "source": "Verge",
-      "timestamp": "2026-11-09T09:00:00-05:00",
-      "score": 10,
-      "summary": "Pomera's digital typewriters are a cult hit with those craving a distraction-free writing experience. Dedicated word processor devices never caught on in the US the way they did in Japan. And the ones available in the US, like the AlphaSmart Neo, just weren't as sleek and port...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "World": [
+    {
+      "title": "Women drivers, solar power: What makes Pune Metro's Pink Line special",
+      "link": "https://timesofindia.indiatimes.com/india/women-at-the-controls-solar-power-on-the-rooftops-what-makes-pune-metros-pink-line-special/articleshow/135791310.cms",
+      "source": "Times of India",
+      "timestamp": "2026-11-13T18:33:38+05:30",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from Times of India.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "What",
+        "Pune",
+        "Metros",
+        "Pink",
+        "Line"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+42%",
+      "heat_level": "LOW"
+    },
     {
       "title": "You haven\u2019t got mail: Global Microsoft outage disrupts services",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-sv-microsoft-global-outage?traffic_source=rss",
@@ -19749,24 +19785,132 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Thousands of schools evacuated in Italy as bomb threats spread across Europe",
-      "link": "https://www.france24.com/en/video/20261112-thousands-of-schools-evacuated-in-italy-as-bomb-threats-spread-across-europe",
-      "source": "France24",
-      "timestamp": "2026-11-12T11:08:54+00:00",
+      "title": "Outlook outage continues as Microsoft flags 'encouraging recovery signals'",
+      "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-13T13:11:35+00:00",
       "score": 12,
-      "summary": "Schools were evacuated across Italy on Wednesday following a series of hoax bomb threats, but Italian Prime Minister Giorgia Meloni said there was no \"concrete danger\". The threats come after a series of hoax bomb alerts across Europe in recent weeks, which have prompted growi...",
-      "country": "Italy",
-      "region": "Europe",
+      "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Italy",
-        "Europe"
+        "Microsoft"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Deckers, Broadcom, CoreWeave, Palo Alto Networks & more",
+      "link": "https://www.cnbc.com/2026/11/13/top-friday-wall-street-analyst-calls-like-nvidia.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-13T13:11:29+00:00",
+      "score": 12,
+      "summary": "Here are the biggest calls on Wall Street on Friday.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Fridays",
+        "Nvidia",
+        "SpaceX",
+        "Deckers",
+        "Broadcom",
+        "CoreWeave",
+        "Palo",
+        "Alto",
+        "Networks"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump says he wants to \u2018get Cuba done\u2019 before leaving office, would consider military force",
+      "link": "https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-13T13:04:00+00:00",
+      "score": 12,
+      "summary": "It comes as the U.S. continues to enforce a comprehensive economic embargo against Cuba.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Cuba"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Most top Fed officials blame AI for fueling inflation. Not Trump\u2019s Fed chief. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYWx2S1gybU5lYjJCbEl5OXkyekl3YXdnd2RuWnJPQU9VODlSSnpLM1ZDeGVfT19LdEF4OThPMGZQM1NDNXloMzFGcjdmZDE4ZU90dDBuX2xsX2lUZTJjLU5HNEZCNnJJRFJQT0tmR2FwZVBXT1Q3cURtZHFTYTJtUDVOVHZESnNfWlBkZXdoT1pQXzNkYldpWklrdEZiRWxiVjJRaHNxOXpMVXhPOFR1ZERmc09uWXJEcWR1dUdKblUzQjdkTkM0?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-11-13T13:02:24+00:00",
+      "score": 14,
+      "summary": "Most top Fed officials blame AI for fueling inflation. Not Trump\u2019s Fed chief. The Washington PostFed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes CNBCFed\u2019s Goolsbee Warns AI Data Center Boom Is Starting to Look Like \u2018Demand Overhe...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Fed",
+        "Not",
+        "Trumps",
+        "Washington",
+        "Post"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19777,13 +19921,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "France24"
+        "Google News"
       ],
-      "trend_accel": "+54%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
       "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
@@ -26320,155 +26462,6 @@
         "Livemint"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
-      "link": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-12T01:14:21+00:00",
-      "score": 14,
-      "summary": "Jim Cramer said Wednesday night that he was saddened by a news report that indicated Nvidia's board of directors is preparing to fire Huang.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nvidias",
-        "CEO",
-        "Jensen",
-        "Huang"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-      "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-11-12T01:12:00+00:00",
-      "score": 15,
-      "summary": "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nvidia",
-        "Huang"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-11-12T01:04:51+00:00",
-      "score": 14,
-      "summary": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him The New York TimesNvidia shares plunge in after-hours trading on concerns about CEO Jensen Huang South China Morning PostNvidia reportedly preparing to oust CEO Huang after alleged affairs with...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Huang",
-        "Said",
-        "Have",
-        "Had",
-        "Relationship",
-        "Nvidia",
-        "Executive",
-        "Who",
-        "Reports",
-        "Him",
-        "New",
-        "York",
-        "Times"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 6,
-      "sources_reporting": [
-        "Google News",
-        "NYT"
-      ],
-      "trend_accel": "+62%",
-      "heat_level": "HOT"
-    },
-    {
-      "title": "Nvidia Shares Plummet as Board Is Said to Consider C.E.O.\u2019s Future",
-      "link": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
-      "source": "NYT",
-      "timestamp": "2026-11-12T00:53:16+00:00",
-      "score": 14,
-      "summary": "News of the board\u2019s deliberations about Jensen Huang\u2019s job drove Nvidia\u2019s stock down more than 8 percent in after-hours trading.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Shares",
-        "Plummet",
-        "Board",
-        "Said",
-        "Consider",
-        "CEOs",
-        "Future"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -35891,6 +35884,48 @@
   ],
   "Entertainment": [
     {
+      "title": "Pearl Jam\u2019s Mike McCready Debuts \u2018Farewell to Seasons\u2019 Title Track, an Ode to Seattle\u2019s Music Scene",
+      "link": "https://www.rollingstone.com/music/music-news/pearl-jam-mike-mccready-farewell-to-seasons-title-track-1235657381/",
+      "source": "Rolling Stone",
+      "timestamp": "2026-11-13T13:03:44+00:00",
+      "score": 12,
+      "summary": "The musician released the single alongside an animated music video directed by Cyrus Entezam",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Jams",
+        "Mike",
+        "McCready",
+        "Debuts",
+        "Farewell",
+        "Seasons",
+        "Title",
+        "Track",
+        "Ode",
+        "Seattles",
+        "Music",
+        "Scene"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Rolling Stone"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "\u2018One Sweet Hour\u2019: One Aging Elvis Impersonator. One Monk. Two Estranged Irish Brothers Facing Trauma.",
       "link": "https://www.hollywoodreporter.com/movies/movie-news/one-sweet-hour-irish-film-elvis-impersonator-monk-brothers-1236751654/",
       "source": "THR",
@@ -43846,39 +43881,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Masterpieces From Paris Go Town to Town in a Semi-Truck",
-      "link": "https://www.nytimes.com/2026/11/12/arts/design/musee-d-orsay-art-truck-mumo.html",
-      "source": "NYT",
-      "timestamp": "2026-11-12T10:56:40+00:00",
-      "score": 12,
-      "summary": "Culture funding in France heavily favors the country\u2019s capital. So a traveling outpost of the Mus\u00e9e d\u2019Orsay is bringing art to rural communities that have long felt left behind.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Paris",
-        "Town",
-        "SemiTruck"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -48243,74 +48245,106 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Diwali 2026: Karan Torani\u2019s idea of home is anything but minimalist",
-      "link": "https://www.thehindu.com/life-and-style/homes-and-gardens/diwali-2026-karan-toranis-idea-of-home-is-anything-but-minimalist/article71606658.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-06T18:41:16+05:30",
-      "score": 15,
-      "summary": "The designer\u2019s debut home linen collection is a tribute to his grandmother\u2019s home in Bhopal. It also embraces the \u201ctechnicolour fever dream\u201d that is Delhi",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Karan",
-        "Toranis"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Diwali 2026: Rajesh Pratap Singh wants to dress your home",
-      "link": "https://www.thehindu.com/life-and-style/homes-and-gardens/diwali-2026-rajesh-pratap-singh-wants-to-dress-your-home/article71664390.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-06T18:40:47+05:30",
-      "score": 15,
-      "summary": "The Delhi-based fashion designer introduces a new grammar of living by launching home furnishings that include bed linen, tableware and tiles",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rajesh",
-        "Pratap",
-        "Singh"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.1 - 64 km ENE of Pedro Bay, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wmrjoh",
+      "source": "USGS",
+      "timestamp": "2026-11-13T13:14:03.826000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-13 13:13:26 UTC2026-11-13 13:13:26 UTC at epicenterLocation60.052\u00b0N 153.086\u00b0WDepth1.60 km (0.99 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Pedro",
+        "Bay",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 59 km W of Cantwell, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wmrewt",
+      "source": "USGS",
+      "timestamp": "2026-11-13T13:10:07.271000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-13 13:08:02 UTC2026-11-13 13:08:02 UTC at epicenterLocation63.483\u00b0N 150.121\u00b0WDepth137.70 km (85.56 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cantwell",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Australia",
+      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033669",
+      "source": "GDACS",
+      "timestamp": "2026-11-13T13:08:49+00:00",
+      "score": 12,
+      "summary": "On 31/10/2026, a forest fire started in Australia, until 09/11/2026.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Australia"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 4.4 - 12 km ESE of Baculin, Philippines",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty0g",
@@ -54794,105 +54828,6 @@
         "Google News"
       ],
       "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.1 - 17 km SE of Silver Springs, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926912",
-      "source": "USGS",
-      "timestamp": "2026-11-12T09:27:50.380000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-12 09:25:46 UTC2026-11-12 09:25:46 UTC at epicenterLocation39.305\u00b0N 119.073\u00b0WDepth8.67 km (5.39 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Silver",
-        "Springs",
-        "Nevada"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.0 - 14 km SSE of Moore, Texas",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txrs",
-      "source": "USGS",
-      "timestamp": "2026-11-12T09:25:00.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-12 09:20:21 UTC2026-11-12 09:20:21 UTC at epicenterLocation28.937\u00b0N 98.948\u00b0WDepth10.29 km (6.40 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Moore",
-        "Texas"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.1 - 1 km SSE of Yorba Linda, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361295",
-      "source": "USGS",
-      "timestamp": "2026-11-12T09:10:07.886000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-12 09:06:34 UTC2026-11-12 09:06:34 UTC at epicenterLocation33.877\u00b0N 117.806\u00b0WDepth15.37 km (9.55 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Yorba",
-        "Linda"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
