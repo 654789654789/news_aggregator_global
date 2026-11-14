@@ -1,6 +1,41 @@
 {
   "Politics": [
     {
+      "title": "Bessent accuses Lutnick of failing to prevent China from obtaining Nvidia chips",
+      "link": "https://www.pbs.org/newshour/show/bessent-accuses-lutnick-of-failing-to-prevent-china-from-obtaining-nvidia-chips",
+      "source": "PBS",
+      "timestamp": "2026-11-13T18:50:51-05:00",
+      "score": 14,
+      "summary": "The fallout of Jensen Huang's downfall expanded into a public fight between two of President Trump's top advisers. Treasury Secretary Scott Bessent accused Commerce Secretary Howard Lutnick of failing to prevent China from obtaining Nvidia's most advanced chips. Nick Schifrin ...",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Lutnick",
+        "China",
+        "Nvidia"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "House Democrat calls FAA stop \u2018quite disturbing\u2019",
       "link": "https://thehill.com/policy/transportation/6220064-garcia-calls-faa-ground-stop-disturbing/",
       "source": "The Hill",
@@ -6654,26 +6689,24 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Calcutta HC reserves order on Abhishek Banerjee's plea against security cover downgrade from Z-plus to X category",
-      "link": "https://www.thehindu.com/news/national/west-bengal/calcutta-hc-reserves-order-on-abhishek-banerjees-plea-against-security-cover-downgrade/article71696615.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-13T11:01:37+05:30",
-      "score": 14,
-      "summary": "Justice Krishna Rao sought to know why the State had not convened a fresh security review committee meeting after Mamata All India Trinamool Congress leader reported a series of incidents and sought enhancement of protection",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Amazon has a plan to index the world\u2019s online shopping data",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "Verge",
+      "timestamp": "2026-11-13T18:49:11-05:00",
+      "score": 10,
+      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less l...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Abhishek",
-        "Banerjees",
-        "Zplus"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6681,15 +6714,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "FAA orders third nationwide ground stop in its history",
       "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
@@ -7467,7 +7498,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.3,
+      "trend_score": 10.2,
       "source_count": 14,
       "sources_reporting": [
         "Ars",
@@ -13201,32 +13232,26 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn\u2019t Work",
-      "link": "https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/",
-      "source": "Wired",
-      "timestamp": "2026-11-09T22:40:10+00:00",
-      "score": 14,
-      "summary": "Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-14T00:01:01+00:00",
+      "score": 12,
+      "summary": "Elon Musk\u2019s company aborted an attempted catch of the rocket\u2019s booster - instead it came down in the ocean.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Said",
-        "Fixed",
-        "Its",
-        "School",
-        "Bus",
-        "Problem",
-        "Government",
-        "Says",
-        "Didnt",
-        "Work"
+        "SpaceX",
+        "Starship"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13235,15 +13260,44 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "Wired"
+        "BBC"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Man dies after house fire in Geelong",
+      "link": "https://www.abc.net.au/news/2026-11-14/man-dead-armstrong-creek-house-fire-geelong/107385832",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-13T23:52:23+00:00",
+      "score": 12,
+      "summary": "A man has been found dead after a house fire in Armstrong Creek, about 100 kilometres south-west of Melbourne.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geelong"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Australian cricket urged to stop 'eating itself' as Sandpapergate rolls on",
       "link": "https://www.abc.net.au/news/2026-11-14/feuding-sandpapergate-cricketers-told-to-move-on-greg-chappel/107385674",
@@ -19716,19 +19770,21 @@
       ],
       "trend_accel": "+54%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Skyrocketing regional airfares hurting patients needing specialist care",
-      "link": "https://www.abc.net.au/news/2026-11-13/high-regional-airfares-hurting-country-patients-wa/107379642",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-12T22:01:04+00:00",
-      "score": 12,
-      "summary": "Residents and medical professionals say WA's reliance on FIFO doctors leaves regional residents vulnerable to rising flight prices.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
+      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-11-13T23:54:00+00:00",
+      "score": 13,
+      "summary": "Agency cites \u201cextraordinary circumstances,\u201d while Homeland Security Secretary Mullin says no indication of attack.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -19739,56 +19795,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Mexican Prosecutor Who Helped C.I.A. Secretly Operate in His State Flees to the U.S.",
-      "link": "https://www.nytimes.com/2026/11/12/world/americas/mexico-prosecutor-cia-us.html",
-      "source": "NYT",
-      "timestamp": "2026-11-12T22:00:29+00:00",
-      "score": 12,
-      "summary": "The prosecutor, who faces arrest in Mexico after allowing C.I.A. officers into Chihuahua state, is under the protection of the U.S. government, according to U.S. and Mexican officials.",
-      "country": "Mexico",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Prosecutor",
-        "Who",
-        "Helped",
-        "CIA",
-        "Secretly",
-        "Operate",
-        "His",
-        "State",
-        "Flees"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "NYT"
+        "MarketWatch"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+54%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5",
@@ -26411,38 +26424,6 @@
         "Google News"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-11-12T16:02:10+00:00",
-      "score": 14,
-      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Jensen",
-        "Huang"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ],
@@ -36004,42 +35985,6 @@
       "source_count": 4,
       "sources_reporting": [
         "Cricinfo"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Irish Illustrated Preview: No. 1 Miami (8-0) @ No. 11 Notre Dame (7-1) - 247Sports",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYVBRdE5UbzlSc2dOTXN6Tm5xU1NydWxiV184Sl9EV1kwRmk0RGZ4bC1yQ1pKVmt3WjVnaDIzQ25uX1NoTEtYU0xhYmVoSjJQOWdvQmFXSHNaSzBUX1BTZXNmUk1KWWVSeE14OW1rNGtLMzBNcEY1Q3pCZmptSDZCWWpVZDNUY0Rkd1pxbmNOdmVtM29MaXZLS2NBM3RsTjh4QlBpbUEtUmx0VDNrQ1RHOWNOWWt0aFZhVlFwMFhYWXZpOWM0VWQ5eG11TjdudXhIT3JmaHJmM0VGMzlPdTZSVENNM2I2c1pMelJF?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-11-06T23:57:29+00:00",
-      "score": 15,
-      "summary": "Irish Illustrated Preview: No. 1 Miami (8-0) @ No. 11 Notre Dame (7-1) 247SportsTop 25 betting lines: No. 4 Notre Dame favored over No. 1 Miami ESPNMiami is ranked No. 1, but still a touchdown underdog at No. 4 Notre Dame. And this is a rarity Yahoo Sports\u2018This is a hate-hate ...",
-      "country": "Ireland",
-      "region": "Europe",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Illustrated",
-        "Preview",
-        "Miami",
-        "Notre",
-        "Dame",
-        "Sports"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Google News"
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
@@ -48476,6 +48421,106 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.7 - 11 km SSE of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75070152",
+      "source": "USGS",
+      "timestamp": "2026-11-13T23:58:42.380000+00:00",
+      "score": 17,
+      "summary": "Time2026-11-13 23:55:18 UTC2026-11-13 23:55:18 UTC at epicenterLocation19.105\u00b0N 155.443\u00b0WDepth26.09 km (16.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.1 - 98 km ENE of Ouzinkie, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wnlsfa",
+      "source": "USGS",
+      "timestamp": "2026-11-13T23:53:23.709000+00:00",
+      "score": 15,
+      "summary": "ShakeMap - IIITime2026-11-13 23:26:19 UTC2026-11-13 23:26:19 UTC at epicenterLocation58.365\u00b0N 151.055\u00b0WDepth28.20 km (17.52 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Ouzinkie",
+        "Alaska"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 5.1 - 153 km NW of Kavieng, Papua New Guinea",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ty56",
+      "source": "USGS",
+      "timestamp": "2026-11-13T23:50:28.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-13 23:30:38 UTC2026-11-13 23:30:38 UTC at epicenterLocation1.504\u00b0S 149.920\u00b0EDepth10.00 km (6.21 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Kavieng",
+        "Papua",
+        "New",
+        "Guinea"
+      ],
+      "severity_score": 7,
+      "alert_level": "high",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 4.1 - 99 km ENE of Ouzinkie, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wnlsfa",
       "source": "USGS",
@@ -54877,104 +54922,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.0 - 10 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465807",
-      "source": "USGS",
-      "timestamp": "2026-11-12T17:13:42.579000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-12 17:12:04 UTC2026-11-12 17:12:04 UTC at epicenterLocation38.824\u00b0N 122.854\u00b0WDepth2.25 km (1.40 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.3 - 59 km ENE of Pedro Bay, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wldgom",
-      "source": "USGS",
-      "timestamp": "2026-11-12T17:13:16+00:00",
-      "score": 15,
-      "summary": "Time2026-11-12 17:10:31 UTC2026-11-12 17:10:31 UTC at epicenterLocation60.015\u00b0N 153.135\u00b0WDepth8.90 km (5.53 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Pedro",
-        "Bay",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.3 - 10 km WNW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75465797",
-      "source": "USGS",
-      "timestamp": "2026-11-12T17:07:02.505000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-12 17:05:26 UTC2026-11-12 17:05:26 UTC at epicenterLocation38.822\u00b0N 122.854\u00b0WDepth2.76 km (1.71 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+61%",
       "heat_level": "LOW"
     }
   ]
