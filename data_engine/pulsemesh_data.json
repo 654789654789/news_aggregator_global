@@ -432,7 +432,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.9,
+      "trend_score": 7.8,
       "source_count": 12,
       "sources_reporting": [
         "BBC",
@@ -13086,6 +13086,40 @@
   ],
   "World": [
     {
+      "title": "Israel kills a top Hamas commander in Gaza",
+      "link": "https://www.abc.net.au/news/2026-11-15/israel-kills-top-hamas-commander/107388044",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-15T10:33:50+00:00",
+      "score": 12,
+      "summary": "An Israeli air strike has killed a senior Hamas military commander in Khan Younis in southern Gaza, Israel says.",
+      "country": "Israel",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Hamas",
+        "Gaza"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Fifth soldier dies after grass fire sweeps through Canadian military base",
       "link": "https://timesofindia.indiatimes.com/world/rest-of-world/fifth-soldier-dies-after-grass-fire-sweeps-through-canadian-military-base-during-training-exercise/articleshow/135853012.cms",
       "source": "Times of India",
@@ -19552,24 +19586,24 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Australian cricket urged to stop 'eating itself' as Sandpapergate rolls on",
-      "link": "https://www.abc.net.au/news/2026-11-14/feuding-sandpapergate-cricketers-told-to-move-on-greg-chappel/107385674",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-13T23:41:21+00:00",
-      "score": 12,
-      "summary": "The ball-tampering scandal doesn't look like it's going away any time soon, with Greg Chappell fearing Australian cricket could \"eat itself\".",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "Sebi to issue AI guidelines for capital markets soon, focus on investor protection and human oversight",
+      "link": "https://www.livemint.com/market/stock-market-news/sebi-to-issue-ai-guidelines-for-capital-markets-soon-focus-on-investor-protection-and-human-oversight-11794737481977.html",
+      "source": "Livemint",
+      "timestamp": "2026-11-15T16:10:04+05:30",
+      "score": 14,
+      "summary": "The regulator plans safeguards on AI disclosures, accountability and decision-making; cybersecurity framework also under review",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Sandpapergate"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19579,13 +19613,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "Livemint"
       ],
-      "trend_accel": "+53%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "PSU dividend this week Nov 16-20: Cochin Shipyard, Power Finance Corp, SCI to Oil India - Check record dates and returns",
       "link": "https://www.livemint.com/market/stock-market-news/psu-dividend-this-week-nov-16-20-cochin-shipyard-power-finance-corp-sci-to-oil-india-check-record-dates-and-returns-11794735494353.html",
@@ -26194,41 +26226,6 @@
         "Google News"
       ],
       "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-      "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-13T04:07:44+00:00",
-      "score": 12,
-      "summary": "The retention of Wachtell, Lipton for the Nvidia probe comes on the heels of the law firm's investigation for the NBA into the Los Angeles Clippers.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Exprosecutor",
-        "Joon",
-        "Kim",
-        "Wachtell",
-        "Lipton"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+43%",
       "heat_level": "LOW"
     }
   ],
@@ -45833,7 +45830,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.8,
+      "trend_score": 7.7,
       "source_count": 12,
       "sources_reporting": [
         "GQ",
@@ -45842,8 +45839,8 @@
         "Reuters",
         "Vogue"
       ],
-      "trend_accel": "+72%",
-      "heat_level": "SURGING"
+      "trend_accel": "+71%",
+      "heat_level": "HOT"
     },
     {
       "title": "Restaurant Booths Are Back\u2014and Better Than Ever",
@@ -49550,6 +49547,39 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.9 - 17 km SE of Silver Springs, Nevada",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00926997",
+      "source": "USGS",
+      "timestamp": "2026-11-15T10:39:56.024000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-15 10:37:55 UTC2026-11-15 10:37:55 UTC at epicenterLocation39.319\u00b0N 119.059\u00b0WDepth5.96 km (3.71 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Silver",
+        "Springs",
+        "Nevada"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.7 - 9 km WSW of Manley Hot Springs, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wqdvlo",
@@ -56074,38 +56104,6 @@
         "USGS"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 3 km SSE of Redlands, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41361863",
-      "source": "USGS",
-      "timestamp": "2026-11-14T04:38:55.980000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-14 04:28:16 UTC2026-11-14 04:28:16 UTC at epicenterLocation34.026\u00b0N 117.172\u00b0WDepth13.87 km (8.62 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Redlands"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
