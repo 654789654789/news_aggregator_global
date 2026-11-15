@@ -1,6 +1,42 @@
 {
   "Politics": [
     {
+      "title": "Live updates: Trump cabinet talks Nvidia, FAA scandals; Van Hollen discusses Senate majority elections",
+      "link": "https://thehill.com/homenews/administration/6221144-live-trump-cabinet-faa-nvidia-alaska/",
+      "source": "The Hill",
+      "timestamp": "2026-11-15T18:28:06+00:00",
+      "score": 14,
+      "summary": "Treasury Secretary Sean Duffy on Sunday pinned Friday\u2019s nationwide ground stop on Congress\u2019s lack of funding. He appeared on CNN\u2019s \u201cState of the Union,\u201d Fox News\u2019s \u201cFox News Sunday,\u201d NBC News\u2019s \u201cMeet the Press,\u201d and CBS News\u2019s \u201cFace the Nation\u201d to discuss the cause of the grou...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump",
+        "Nvidia",
+        "FAA",
+        "Van",
+        "Hollen",
+        "Senate"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Bahrain intercepts Iranian strikes on US airbase",
       "link": "https://thehill.com/policy/international/6221436-iran-drone-attack-bahrain/",
       "source": "The Hill",
@@ -6495,27 +6531,26 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Quad Summit likely to be held in Manila on November 17, sources say",
-      "link": "https://www.thehindu.com/news/international/quad-summit-likely-to-be-held-in-manila-on-november-17-sources-say/article71702178.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-14T19:51:31+05:30",
-      "score": 17,
-      "summary": "The Summit between leaders of India, U.S., Australia, and Japan is being held in a non-Quad country for the first time, expected to address critical minerals and energy supply chains and safety of seafarers",
-      "country": "Philippines",
-      "region": "Southeast Asia",
-      "source_type": "Newspaper",
+      "title": "Flaming Hydra\u2019s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-15T18:29:14+00:00",
+      "score": 14,
+      "summary": "A new Kickstarter campaign aims to usher in the \u201creturn of the human internet.\u201d",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Summit",
-        "Manila",
-        "November"
+        "Hydras",
+        "Kickstarter"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6524,15 +6559,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+53%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "TechCrunch Mobility: The Nvidia backup plan for China\u2019s self-driving industry",
       "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
@@ -13003,23 +13036,25 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Hands-on with Ring\u2019s new AI drone camera for your home",
-      "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-      "source": "Verge",
-      "timestamp": "2026-11-10T08:30:00-05:00",
-      "score": 14,
-      "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six year...",
-      "country": "US",
+      "title": "Carney pledges $560M to Brazil-led fund to protect rainforests",
+      "link": "https://www.cbc.ca/news/politics/carney-pledge-brazil-led-tropical-forest-fund-9.7422859?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-11-15T13:20:10-05:00",
+      "score": 17,
+      "summary": "Canada has pledged up to $560 million over four years \u200bto protect rainforests as part of a project co-led by Brazil and Norway.",
+      "country": "Brazil",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Rings"
+        "Brazilled"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13030,13 +13065,40 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "Verge"
+        "CBC News"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Nari told adults she was being groomed but then she was shut out",
+      "link": "https://www.abc.net.au/news/2026-11-16/sexual-abuse-victim-survivors-shut-out/107322456",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-15T18:17:59+00:00",
+      "score": 10,
+      "summary": "Nari was a teenager when she was groomed online by a family acquaintance who was living overseas. Once she reported it, she was shut out of further discussions.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
@@ -13451,7 +13513,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.7,
+      "trend_score": 10.6,
       "source_count": 15,
       "sources_reporting": [
         "AP",
@@ -19509,55 +19571,26 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "\u2018Bhool gaya\u2019: Sooryavanshi\u2019s hilarious response at toss on captaincy debut",
-      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/bhool-gaya-moment-vaibhav-sooryavanshis-hilarious-response-at-toss-on-record-breaking-captaincy-debut-watch/articleshow/135828568.cms",
-      "source": "Times of India",
-      "timestamp": "2026-11-14T14:58:27+05:30",
-      "score": 14,
-      "summary": "Vaibhav Sooryavanshi made his captaincy debut for Bihar at just 15 years old. After winning the toss, he humorously forgot his team's playing XI moments later. Although he scored 18 runs, Bihar lost the match to Saurashtra by five wickets. Sooryavanshi has shown remarkable tal...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Sooryavanshis"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "South Sudan postpones first national elections until February",
-      "link": "https://www.thehindu.com/news/international/south-sudan-postpones-first-national-elections-until-february/article71701304.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-14T14:40:07+05:30",
-      "score": 14,
-      "summary": "The legislative and presidential elections had been scheduled for December 22, after already being delayed several times. The United Nations had warned that a vote could set off widespread conflict",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
+      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-15T18:22:23+00:00",
+      "score": 12,
+      "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Sudan",
-        "February"
+        "Flight",
+        "Monday"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19566,15 +19599,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "CNBC"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
       "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
@@ -26194,37 +26225,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Nvidia\u2019s turmoil is prompting a rotation across chip stocks. Here's what we know",
-      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-13T08:07:52+00:00",
-      "score": 14,
-      "summary": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Heres"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -32358,6 +32358,40 @@
   ],
   "Sports": [
     {
+      "title": "College Football Playoff top 12 projection: Flawed Texas finding a way",
+      "link": "https://www.espn.com/college-football/story/_/id/50480953/projecting-2026-playoff-top-12-week-11-cfp",
+      "source": "ESPN",
+      "timestamp": "2026-11-15T13:20:23-05:00",
+      "score": 15,
+      "summary": "We assess how the selection committee could stack the top teams in the country after Week 11.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Football",
+        "Playoff",
+        "Flawed",
+        "Texas"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ESPN"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "On-ice 'Gladiator' tribute from Oilers' Levi draws Russell Crowe shoutout",
       "link": "https://www.espn.com/nhl/story/_/id/50490672/devon-levi-inspired-gladiator-earns-crowe-praise",
       "source": "ESPN",
@@ -37492,6 +37526,45 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Mormon Wives' Salom\u00e9 Andrea Claps Back at Rumors Her Husband Cheated",
+      "link": "https://www.eonline.com/news/1438136/mormon-wives-salome-andrea-shuts-down-aaron-brimhall-cheating-rumors?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-11-15T18:20:00+00:00",
+      "score": 12,
+      "summary": "Salom\u00e9 Andrea is setting the record straight. After the Secret Lives of Mormon Wives: Orange County star shared insight into her marital issues with husband Aaron Brimhall on the Hulu series, she...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Wives",
+        "Salom",
+        "Andrea",
+        "Claps",
+        "Back",
+        "Rumors",
+        "Her",
+        "Husband",
+        "Cheated"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018KPop Demon Hunters\u2019 Criterion Collection Blu-ray On Sale for 50% Off on Heels of New Tour Announcement",
       "link": "https://variety.com/2026/shopping/news/kpop-demon-criterion-blu-ray-buy-online-1236759288/",
@@ -45578,41 +45651,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Logan Lerman Latest To Join Searchlight\u2019s \u2018Playmates\u2019",
-      "link": "https://deadline.com/2026/11/logan-lerman-joins-playmates-searchlight-1237223249/",
-      "source": "Deadline",
-      "timestamp": "2026-11-13T19:55:54+00:00",
-      "score": 12,
-      "summary": "EXCLUSIVE: Logan Lerman is another new addition to Searchlight\u2019s Playmates, the film inspired by Lorraine Nicholson\u2019s experiences growing up at the Playboy Mansion, sources tell Deadline. Reps for the studio declined comment. We hear Lerman will play a character named Mr. Wick...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Lerman",
-        "Latest",
-        "Join",
-        "Searchlights",
-        "Playmates"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -49894,6 +49932,38 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 2.6 - 155 km SE of Chignik, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wqtvhn",
+      "source": "USGS",
+      "timestamp": "2026-11-15T18:27:15.823000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-15 18:25:32 UTC2026-11-15 18:25:32 UTC at epicenterLocation55.483\u00b0N 156.382\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Chignik",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 5.0 - 74 km N of P\u0101r\u016bn, Afghanistan",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh",
@@ -56423,40 +56493,6 @@
         "USGS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.8 - 60 km WNW of Happy Valley, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026womcpg",
-      "source": "USGS",
-      "timestamp": "2026-11-14T12:35:27.145000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-14 12:34:46 UTC2026-11-14 12:34:46 UTC at epicenterLocation60.151\u00b0N 152.734\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Happy",
-        "Valley",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
