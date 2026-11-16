@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "Nvidia\u2019s board not considering return of Huang as CEO",
+      "link": "https://thehill.com/policy/technology/6223454-nvidia-board-rejects-huang-return/",
+      "source": "The Hill",
+      "timestamp": "2026-11-16T20:50:05+00:00",
+      "score": 12,
+      "summary": "Nvidia\u2019s Board of Directors is not weighing Jensen Huang\u2019s return as CEO, a source familiar confirmed to The Hill. Within days of Huang stepping down as Nvidia\u2019s longtime CEO amid a national security scandal, petitions circulated calling for his return, while President Trump s...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Huang",
+        "CEO"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "G7 economic optimism drops to Great Recession levels: Survey",
       "link": "https://thehill.com/business/6223512-g7-economic-optimism-lowest-point/",
       "source": "The Hill",
@@ -1586,16 +1618,17 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.4,
-      "source_count": 17,
+      "trend_score": 11.4,
+      "source_count": 18,
       "sources_reporting": [
         "Bloomberg",
         "Google News",
         "NHK",
         "NYT",
-        "Reuters"
+        "Reuters",
+        "The Hill"
       ],
-      "trend_accel": "+79%",
+      "trend_accel": "+89%",
       "heat_level": "CRITICAL"
     },
     {
@@ -6612,19 +6645,52 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
+    }
+  ],
+  "Tech": [
+    {
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "link": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-16T21:01:02+00:00",
+      "score": 14,
+      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mac"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
     },
     {
-      "title": "Sabarimala sets target of 75 pilgrims a minute on holy steps",
-      "link": "https://www.thehindu.com/news/national/kerala/sabarimala-sets-target-of-75-pilgrims-a-minute-on-holy-steps/article71704902.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-15T22:48:23+05:30",
-      "score": 13,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Hyperscale data centers use 2% of US electricity",
+      "link": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+      "source": "Ars",
+      "timestamp": "2026-11-16T20:52:10+00:00",
+      "score": 15,
+      "summary": "Study attempts to tally hyperscalers\u2019 energy use and emissions.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -6633,17 +6699,20 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 10.6,
+      "source_count": 18,
       "sources_reporting": [
-        "The Hindu"
+        "Ars",
+        "BBC",
+        "NHK",
+        "PBS",
+        "Verge",
+        "Wired"
       ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+      "trend_accel": "+84%",
+      "heat_level": "CRITICAL"
+    },
     {
       "title": "Sam Altman says he wants everyone \u2018to have a lot of RAM\u2019",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
@@ -6761,14 +6830,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 10.6,
+      "source_count": 16,
       "sources_reporting": [
-        "Verge"
+        "AP",
+        "Ars",
+        "NHK",
+        "PBS",
+        "Verge",
+        "Wired"
       ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
+      "trend_accel": "+81%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Comcast falsely advertises cable Internet as \"fiber-powered,\" AT&T lawsuit says",
@@ -7210,8 +7284,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -7247,8 +7321,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.5,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -13124,79 +13198,110 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Toyota\u2019s Scion is back, starting with an American-made, 25-mph kei truck",
-      "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
-      "source": "Verge",
-      "timestamp": "2026-11-11T12:09:58-05:00",
-      "score": 15,
-      "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Scion",
-        "Americanmade"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
-      "link": "https://www.wired.com/story/best-black-friday-deals-11-11-2026/",
-      "source": "Wired",
-      "timestamp": "2026-11-11T17:08:14+00:00",
-      "score": 17,
-      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Best",
-        "Early",
-        "Black",
-        "Friday",
-        "Deals",
-        "Our",
-        "Ultimate",
-        "Picks"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Wired"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
     }
   ],
   "World": [
+    {
+      "title": "10 Numbers That Might Change How You See Asia",
+      "link": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
+      "source": "NYT",
+      "timestamp": "2026-11-16T21:00:05+00:00",
+      "score": 15,
+      "summary": "From semiconductor dominance to new power grids, defense deals and K-pop, the region \u2014 beyond China \u2014 is becoming increasingly interconnected and self-reliant.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Numbers",
+        "That",
+        "Might",
+        "Change",
+        "How",
+        "You",
+        "See",
+        "Asia"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "November 17 blackout hoax: How a conspiracy theory went viral around the world",
+      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261116-november-17-blackout-hoax-how-a-conspiracy-theory-went-viral-around-the-world",
+      "source": "France24",
+      "timestamp": "2026-11-16T20:50:29+00:00",
+      "score": 15,
+      "summary": "A conspiracy theory claiming a worldwide \u201cblackout\u201d will hit on November 17 has spread across social media, cutting electricity, internet and banking services. The rumour stems from a routine US FEMA emergency alert test, but was amplified by cryptocurrency accounts, misleadin...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "How"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "France24"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Pope concludes South America homecoming, reassures faithful after cancer scare",
+      "link": "https://www.france24.com/en/americas/20261116-pope-concludes-south-america-homecoming-reassures-faithful-after-cancer-scare",
+      "source": "France24",
+      "timestamp": "2026-11-16T20:50:05+00:00",
+      "score": 14,
+      "summary": "Pope Leo XIV finished Monday his 12-day tour of Uruguay, Argentina and Peru reiterating his advocacy for social justice, environmental protection and the importance of community. Just a month after undergoing lung cancer surgery, the 71-year-old pontiff drew millions of faithf...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "South",
+        "America"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "France24"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Luxury apartment owners fight Brisbane council over noisy aircon",
       "link": "https://www.abc.net.au/news/2026-11-17/fish-lane-takes-brisbane-city-council-to-ombudsman/107286848",
@@ -19654,24 +19759,32 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Live: Stalking laws in focus, days from early voting in Victorian election",
-      "link": "https://www.abc.net.au/news/2026-11-16/vic-election-live-stalking-laws-nov-16/107388914",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-15T23:20:13+00:00",
-      "score": 14,
-      "summary": "The Liberals pledge to create anti-stalking laws in the name of murdered Melbourne woman Celeste Manno and Labor talks up its plan to tackle the elective surgery wait list, days from early voting in Victoria's election. Follow live.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "Goldman Forecasts Gold to Take Two Years to Recapture All-Time Highs",
+      "link": "https://www.livemint.com/market/goldman-forecasts-gold-to-take-two-years-to-recapture-all-time-highs-11794862583269.html",
+      "source": "Livemint",
+      "timestamp": "2026-11-17T02:26:22+05:30",
+      "score": 12,
+      "summary": "It took gold just one month to climb more than 30% to a record, but its likely to take another two years before the precious metal takes out a new peak, according to Goldman Sachs.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Stalking",
-        "Victorian"
+        "Forecasts",
+        "Gold",
+        "Take",
+        "Two",
+        "Years",
+        "Recapture",
+        "AllTime",
+        "Highs"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19680,25 +19793,25 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "Livemint"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
     },
     {
-      "title": "Steering issue caused tanker to crash into cruise boat, U.S. officials say",
-      "link": "https://www.cbc.ca/news/world/tanker-cruise-ship-steering-problem-issue-mississippi-river-new-orleans-9.7423018?cmp=rss",
-      "source": "CBC News",
-      "timestamp": "2026-11-15T18:10:20-05:00",
-      "score": 12,
-      "summary": "The asphalt tanker vessel that struck a docked paddlewheel cruise boat in the Mississippi River at \u200cNew Orleans on Friday experienced a steering problem in which its rudder was stuck in one position, U.S. transportation safety officials \u200bsaid on Sunday.",
-      "country": "Canada",
+      "title": "Nvidia investors will be clamoring for answers to these questions during the company\u2019s hotly anticipated earnings call",
+      "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-11-16T20:55:00+00:00",
+      "score": 10,
+      "summary": "There\u2019s a lot that Nvidia investors want to know about the post-Jensen Huang era \u2014 although management is likely to be tight-lipped on the topic of succession.",
+      "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -19706,32 +19819,32 @@
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "CBC News"
+        "MarketWatch"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
     },
     {
-      "title": "Jury hung in murder trial exploring dark chapter of Sydney's criminal history",
-      "link": "https://www.abc.net.au/news/2026-11-16/bilal-hamze-murder-trial-verdict-samuel-rokomaqisa/107336682",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-15T23:09:47+00:00",
-      "score": 12,
-      "summary": "Now that the case of Bilal Hamze's accused killer has concluded, the disturbing act his alleged murderers did after his death and the dinner date who denied setting him up can be revealed.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "Rare-earth stocks sink deeper into the red. Here\u2019s the latest catalyst.",
+      "link": "https://www.marketwatch.com/story/rare-earth-stocks-sinks-deeper-into-the-red-heres-the-latest-catalyst-3033c8d0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-11-16T20:49:00+00:00",
+      "score": 14,
+      "summary": "Shares of Trump-backed USA Rare Earth slides 10% as analysts push out their sales estimates.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Sydneys"
+        "Heres"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19740,15 +19853,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "ABC Australia"
+        "MarketWatch"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+55%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "The FDA declined to approve one of biotech\u2019s most closely watched cancer drugs. The company\u2019s stock tumbled.",
       "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
@@ -26302,33 +26413,25 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1F1U1pLV0V3dTVlT1RnSGF1dlJERU1sbkN5X2pMUmlPSFVoZkZaTmlRM3plQmZJQTBBaXdMQnZpbm1PV2NfajFvclpsUWE2VlhwZ3ZlcjVkNG1CbUVxMW9jempQY3VtVlNSUU11c3hGLU9GYk82N0cxT1BBQTZkbWs4VQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-11-14T01:41:00+00:00",
-      "score": 12,
-      "summary": "Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights The New York TimesLive updates: Ground stop lifted after hourslong halt to US departures snarls air travel nationwide CNNFAA Lifts Ground Stop, Allowing Flights to Resume After Outage BloombergFAA ground stop di...",
+      "title": "Catching AI's mistakes is a mental burden\u2014and a drag on productivity",
+      "link": "https://phys.org/news/2026-11-ai-mental-burden-productivity.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-16T16:00:07-05:00",
+      "score": 14,
+      "summary": "By now, almost everyone has asked an AI agent a question, only to realize that the answer seems not quite right. Something might be missing or wrong or out of date. An executive assistant told me she uses AI tools for drafting itineraries and briefings, but she's caught enough...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Updates",
-        "FAA",
-        "Declares",
-        "Rare",
-        "Nationwide",
-        "Ground",
-        "Stop",
-        "Flights",
-        "New",
-        "York",
-        "Times"
+        "AIs"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26339,26 +26442,28 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Google News"
+        "Phys.org"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
-      "title": "Three fast-growing water infra stocks",
-      "link": "https://www.livemint.com/market/stock-market-news/three-fast-growing-water-infra-stocks-11794577248207.html",
-      "source": "Livemint",
-      "timestamp": "2026-11-14T07:00:14+05:30",
+      "title": "Chiral electronics: Researchers discover a disruptive interlayer in a promising material system",
+      "link": "https://phys.org/news/2026-11-chiral-electronics-disruptive-interlayer-material.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-16T16:00:01-05:00",
       "score": 12,
-      "summary": "India's growing demand for water treatment and wastewater management is creating opportunities for infrastructure companies. Here are three stocks to watch and the factors driving their growth.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "summary": "Antiferromagnets are regarded as important materials for next-generation electronics. It is difficult, however, to accurately measure some of their properties. A new study by a team of researchers from Martin Luther University Halle-Wittenberg (MLU) and the Max Planck Institut...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Researchers"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26366,44 +26471,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 3,
       "sources_reporting": [
-        "Livemint"
+        "Phys.org"
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
     },
-    {
-      "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed or canceled",
-      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-11-14T01:28:00+00:00",
-      "score": 13,
-      "summary": "Agency cites \u201cextraordinary circumstances,\u201d while Homeland Security Secretary Mullin says no indication of attack. Reduced flights amid fuel-cost surge may curtail rebooking options.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Science": [
     {
       "title": "Two transcription factors reproduce the beneficial side of a 'Jekyll and Hyde' viral protein",
       "link": "https://phys.org/news/2026-11-transcription-factors-beneficial-side-jekyll.html",
@@ -32469,66 +32543,6 @@
         "Phys.org"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "eDNA study reveals drivers of dramatic restructuring of marine food web",
-      "link": "https://phys.org/news/2026-11-edna-reveals-drivers-marine-food.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-12T15:20:08-05:00",
-      "score": 10,
-      "summary": "A new study from Plymouth Marine Laboratory (PML) has combined decades of microscope records with cutting-edge environmental DNA (eDNA) data to uncover the drivers of a major shift at the base of the marine food web in UK waters. The work is published in the journal Communicat...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Two hot zones near Earth's core may fuel volcanoes beneath oceans",
-      "link": "https://phys.org/news/2026-11-hot-zones-earth-core-fuel.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-12T15:00:12-05:00",
-      "score": 12,
-      "summary": "The ocean covers around 70% of the Earth's surface, but large parts of the seafloor remain largely unexplored.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Earths"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ],
@@ -39327,6 +39341,89 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Reasonable Doubt\u2019 Gets Early Season 5 Renewal As Season 4 Becomes Hulu Series\u2019 Most Watched",
+      "link": "https://deadline.com/2026/11/reasonable-doubt-renewed-season-5-season-4-ratings-hulu-1237225565/",
+      "source": "Deadline",
+      "timestamp": "2026-11-16T21:00:26+00:00",
+      "score": 15,
+      "summary": "EXCLUSIVE: Flying largely under the radar early on, Reasonable Doubt has become a major Hulu success story, leading to a Season 5 renewal ahead of the legal drama\u2019s Season 4 finale on Nov. 24. The early pickup comes as Season 4 has become the series\u2019 most-watched installment t...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Doubt",
+        "Gets",
+        "Early",
+        "Season",
+        "Renewal",
+        "Becomes",
+        "Hulu",
+        "Series",
+        "Most",
+        "Watched"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "The Brit List: Coming-of-Age Drama and Cornwall Crime Series Top 2026 Lineup of Best Unproduced Scripts",
+      "link": "https://variety.com/2026/film/global/the-brit-list-2026-lineup-best-unproduced-film-tv-scripts-1236949412/",
+      "source": "Variety",
+      "timestamp": "2026-11-16T20:47:17+00:00",
+      "score": 15,
+      "summary": "The Brit List, the annual list of unproduced British film and TV screenplays, has revealed its 2026 lineup. Compiled from recommendations by the British industry, 13 projects \u2014 each requiring a minimum of 10 recommendations \u2014 made it onto this year\u2019s list. Leading the pack wer...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Brit",
+        "List",
+        "ComingofAge",
+        "Drama",
+        "Cornwall",
+        "Crime",
+        "Series",
+        "Top",
+        "Lineup",
+        "Best",
+        "Unproduced",
+        "Scripts"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 8,
+      "sources_reporting": [
+        "THR",
+        "Variety"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "HOT"
+    },
     {
       "title": "Fourth \u2018Terminal List\u2019 Show in the Works at Prime Video",
       "link": "https://www.hollywoodreporter.com/tv/tv-news/fourth-terminal-list-show-development-prime-video-1236756502/",
@@ -47283,81 +47380,6 @@
       "source_count": 3,
       "sources_reporting": [
         "NYT"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Literary Agents Have Something New to Sell: Themselves",
-      "link": "https://www.nytimes.com/2026/11/15/books/literary-agents-books-substack.html",
-      "source": "NYT",
-      "timestamp": "2026-11-15T10:00:07+00:00",
-      "score": 12,
-      "summary": "On Substack and TikTok, and with podcasts and books, agents are demystifying publishing while building their personal brands.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Agents",
-        "Have",
-        "Something",
-        "New",
-        "Sell",
-        "Themselves"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Dhurandhar,\u2019 \u2018Kantara: A Legend \u2013 Chapter 1\u2019 Among Indian Panorama Lineup at IFFI Goa",
-      "link": "https://variety.com/2026/film/festivals/dhurandhar-kantara-chapter-1-iffi-indian-panorama-2026-1236947982/",
-      "source": "Variety",
-      "timestamp": "2026-11-15T08:17:29+00:00",
-      "score": 15,
-      "summary": "Aditya Dhar\u2019s Hindi-language \u201cDhurandhar\u201d will open the Indian Panorama section of the 57th International Film Festival of India (IFFI) in Goa. Rishab Shetty\u2019s Kannada-language \u201cKantara: A Legend \u2013 Chapter 1\u201d is also in the lineup. Leena Yadav\u2019s \u201cBecoming,\u201d in Ladakhi, will ki...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kantara",
-        "Legend",
-        "Chapter",
-        "Among",
-        "Indian",
-        "Panorama",
-        "Lineup",
-        "IFFI",
-        "Goa"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
