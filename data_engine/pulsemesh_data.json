@@ -1,6 +1,77 @@
 {
   "Politics": [
     {
+      "title": "Trump Administration Says It Will Not Use Ships to Deport Migrants",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/boat-deport-golden-bear.html",
+      "source": "NYT",
+      "timestamp": "2026-11-17T22:40:32+00:00",
+      "score": 12,
+      "summary": "The Homeland Security Department told Congress of the decision after The New York Times reported last month that it was considering deportations by sea.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Administration",
+        "Says",
+        "Will",
+        "Not",
+        "Use",
+        "Ships",
+        "Deport",
+        "Migrants"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nvidia chair says board does not intend to reinstate Jensen Huang as CEO",
+      "link": "https://www.pbs.org/newshour/nation/nvidia-chair-says-board-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+      "source": "PBS",
+      "timestamp": "2026-11-17T17:31:31-05:00",
+      "score": 14,
+      "summary": "The announcement followed Huang's statement earlier in the day that he would come back to lead the chipmaker if the board invited him.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Jensen",
+        "Huang",
+        "CEO"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Apple joins the list of recent tech breakdowns after an update goes awry",
       "link": "https://www.pbs.org/newshour/nation/apple-joins-the-list-of-recent-tech-breakdowns-after-an-update-goes-awry",
       "source": "PBS",
@@ -6503,25 +6574,65 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Gas leak at ONGC well in Andhra\u2019s Konaseema; residents within 1 km alerted, road closed",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/gas-leak-at-ongc-well-in-andhras-konaseema-residents-within-1-km-alerted-road-closed/article71710340.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-17T12:05:53+05:30",
-      "score": 15,
-      "summary": "There is no blowout or fire so far, officials say; experts are on their way to plug the leak",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Nvidia says it doesn\u2019t plan to reappoint Jensen Huang as CEO",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-17T22:42:27+00:00",
+      "score": 12,
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "ONGC",
-        "Andhras",
-        "Konaseema"
+        "Jensen",
+        "Huang",
+        "CEO"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 10.7,
+      "source_count": 18,
+      "sources_reporting": [
+        "Guardian",
+        "NHK",
+        "Reuters",
+        "TechCrunch",
+        "Verge",
+        "Wired"
+      ],
+      "trend_accel": "+83%",
+      "heat_level": "CRITICAL"
+    },
+    {
+      "title": "Jeff Bezos says he was \u2018heavily involved\u2019 in picking the new James Bond",
+      "link": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+      "source": "Verge",
+      "timestamp": "2026-11-17T17:38:41-05:00",
+      "score": 12,
+      "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too. ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bezos",
+        "James",
+        "Bond"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6532,29 +6643,60 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
     },
     {
-      "title": "Telangana CM to meet Chhattisgarh CM in Raipur on November 17",
-      "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-to-meet-chhattisgarh-cm-in-raipur-on-november-17/article71710558.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-17T11:54:10+05:30",
-      "score": 17,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Read everything that Nvidia\u2019s board chair had to say about Jensen Huang",
+      "link": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+      "source": "Verge",
+      "timestamp": "2026-11-17T17:32:50-05:00",
+      "score": 14,
+      "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Chhattisgarh",
-        "Raipur",
-        "November"
+        "Nvidias",
+        "Jensen",
+        "Huang"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Verge"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Malicious code delivered through Optimizely hits visitors to hundreds of sites",
+      "link": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "source": "Ars",
+      "timestamp": "2026-11-17T22:32:16+00:00",
+      "score": 12,
+      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Optimizely"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6565,13 +6707,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "Ars"
       ],
-      "trend_accel": "+53%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
       "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
@@ -7593,8 +7733,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 10.7,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 16,
       "sources_reporting": [
         "Ars",
@@ -12927,31 +13067,61 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Bitcoin Slips Below $69,000 as Institutional Selling and Weak Liquidity Pressure Crypto Market",
-      "link": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-slips-below-usd-69000-as-institutional-selling-and-weak-liquidity-pressure-crypto-market-crypto-prices-ethereum-btc-eth-12321329",
-      "source": "Gadgets 360",
-      "timestamp": "2026-11-13T13:36:48+05:30",
-      "score": 17,
-      "summary": "Bitcoin declined below its 200-day moving average as institutional withdrawals, tighter crypto liquidity and expectations of a December Federal Reserve rate hike pressured the market. Ethereum and other major cryptocurrencies also faced weakness, while analysts identified $70,...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Trump brushes off NSA internal network outage: \u2018it\u2019s like that when you\u2019re big and powerful\u2019 \u2013 live",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+      "source": "Guardian",
+      "timestamp": "2026-11-17T22:40:05+00:00",
+      "score": 12,
+      "summary": "President\u2019s words could be seen to run counter to NSA\u2019s claim of \u2018scheduled routine maintenance\u2019 causing temporary issueSign up for US Breaking News emailAbdul El-Sayed, the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump admini...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Slips",
-        "Below",
-        "Institutional",
-        "Selling",
-        "Weak",
-        "Liquidity",
-        "Pressure",
-        "Crypto",
-        "Market"
+        "NSA"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Russian military transport plane crashes in Siberia, killing 19: Defence Ministry",
+      "link": "https://www.thehindu.com/news/international/several-dead-after-russian-military-transport-plane-crashes-in-siberia/article71713626.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-18T04:09:31+05:30",
+      "score": 15,
+      "summary": "The An-12 aircraft went down in an unpopulated area near the city of Kemerovo, about 3,000 kilometres (about 1,860 miles) east of Moscow",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military",
+        "Geopolitics"
+      ],
+      "entities": [
+        "Siberia",
+        "Defence",
+        "Ministry"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -12962,119 +13132,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "Gadgets 360"
+        "The Hindu"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+55%",
       "heat_level": "LOW"
     },
-    {
-      "title": "\u2018Bring Back THE Boss\u2019: Nvidia Employees Petition for Jensen Huang\u2019s Return",
-      "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-      "source": "Wired",
-      "timestamp": "2026-11-13T01:17:49+00:00",
-      "score": 12,
-      "summary": "An internal post urging the board to consider employee sentiment about Nvidia\u2019s former CEO has drawn more than 1,600 comments, the majority in full support of reinstalling him.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Back",
-        "THE",
-        "Boss",
-        "Nvidia",
-        "Employees",
-        "Petition",
-        "Jensen",
-        "Huangs",
-        "Return"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Wired"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Roborock Robot Vacuum Early Black Friday Deals (2026)",
-      "link": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
-      "source": "Wired",
-      "timestamp": "2026-11-12T23:54:58+00:00",
-      "score": 17,
-      "summary": "The brand\u2019s official Black Friday sales start next week, but some of its best vacuums are already discounted.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Robot",
-        "Vacuum",
-        "Early",
-        "Black",
-        "Friday",
-        "Deals"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Wired"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Whoop launched a social network where every user has a \u2018verified heartbeat\u2019",
-      "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-      "source": "Verge",
-      "timestamp": "2026-11-12T18:43:22-05:00",
-      "score": 10,
-      "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add comment...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    }
-  ],
-  "World": [
     {
       "title": "ICE agents pepper spray pregnant US citizen in California, video shows",
       "link": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
@@ -16122,7 +16184,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.2,
+      "trend_score": 11.1,
       "source_count": 15,
       "sources_reporting": [
         "ABC Australia",
@@ -16132,7 +16194,7 @@
         "Reuters",
         "The Hindu"
       ],
-      "trend_accel": "+86%",
+      "trend_accel": "+85%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19632,56 +19694,27 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Breaking: Bunnings to make 230 jobs redundant and offshore some tech services",
-      "link": "https://www.abc.net.au/news/2026-11-17/bunnings-layoffs-and-offshoring/107394860",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-17T03:23:03+00:00",
-      "score": 17,
-      "summary": "Hardware giant Bunnings will cut 230 jobs as it looks to offshore a section of its technology department.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Nvidia interim CEO Kress says it\u2019s \u2018business as usual\u2019 at company: Live updates",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-17T22:41:13+00:00",
+      "score": 12,
+      "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, with its earnings call scheduled for 5 p.m. ET.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Bunnings"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Japan lodges 'very stern protest' after Russian aircraft enter its airspace",
-      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/completely-unacceptable-japan-lodges-very-stern-protest-after-russian-aircraft-enter-its-airspace/articleshow/135907668.cms",
-      "source": "Times of India",
-      "timestamp": "2026-11-17T08:51:19+05:30",
-      "score": 14,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "Japan",
-      "region": "East Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Russian"
+        "CEO",
+        "Kress",
+        "Live"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19692,13 +19725,76 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Times of India"
+        "CNBC"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Stocks making the biggest moves Tuesday: Nvidia, CoreWeave, Nebius & more",
+      "link": "https://www.cnbc.com/2026/11/17/stocks-moving-the-most-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-17T22:37:12+00:00",
+      "score": 14,
+      "summary": "Nvidia rose in extended trading on Tuesday after the embattled chip giant posted beats on the top and bottom lines.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tuesday",
+        "Nvidia",
+        "CoreWeave",
+        "Nebius"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-17T22:34:41+00:00",
+      "score": 12,
+      "summary": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Huang"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "BBC"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Jensen Huang\u2019s daughter, a close ally, remains in a senior role at Nvidia.",
       "link": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/jensen-huangs-daughter-a-close-ally-remains-in-a-senior-role-at-nvidia",
@@ -26224,52 +26320,21 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Dow falls 450 points, Nasdaq loses 2% as Nvidia leads AI stocks lower: Live updates",
-      "link": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-16T17:59:34+00:00",
-      "score": 17,
-      "summary": "The Dow, S&P 500 and Nasdaq posted their biggest weekly gains since August, rising more than 2% each.",
+      "title": "Lasers near physical limits of miniaturization open possibilities for tracking life at the nanoscale",
+      "link": "https://phys.org/news/2026-11-lasers-physical-limits-miniaturization-possibilities.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-17T17:40:08-05:00",
+      "score": 10,
+      "summary": "From tracking how cancer develops to exploring how the brain works, scientists need ways to observe biological processes at increasingly smaller scales. Beyond tracking how cells move and interact, researchers need to understand how tiny structures within cells, including orga...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nasdaq",
-        "Nvidia",
-        "Live"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
-      "link": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-16T17:52:38+00:00",
-      "score": 13,
-      "summary": "Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26282,30 +26347,27 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
     },
     {
-      "title": "Altimeter's Brad Gerstner investing $5 billion in Anthropic IPO",
-      "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-16T17:50:45+00:00",
-      "score": 15,
-      "summary": "Gerstner told CNBC that he's putting five time as much money into Anthropic as he's ever put into a prior IPO.",
-      "country": "US",
+      "title": "New model identifies priority areas for large-scale ecological restoration in Chile",
+      "link": "https://phys.org/news/2026-11-priority-areas-large-scale-ecological.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-17T17:40:01-05:00",
+      "score": 12,
+      "summary": "Researchers from Chile's Institute of Ecology and Biodiversity (IEB) have developed a multiobjective model to identify priority areas for large-scale ecological restoration in Chile, South America. The tool integrates four ecological objectives: reducing species extinction ris...",
+      "country": "Chile",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Brad",
-        "Gerstner",
-        "Anthropic",
-        "IPO"
+        "Chile"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26316,13 +26378,40 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "Fears toxic lagoon fire led to cancer and miscarriages",
+      "link": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-17T22:39:23+00:00",
+      "score": 10,
+      "summary": "The incident took place in Llwyneinion in August 1980.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "New daisy genus named after botanist",
       "link": "https://phys.org/news/2026-11-daisy-genus-botanist.html",
@@ -32367,103 +32456,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Hidden 'master switch' allows bacteria to breach the body's defenses",
-      "link": "https://phys.org/news/2026-11-hidden-master-bacteria-breach-body.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-13T17:40:01-05:00",
-      "score": 10,
-      "summary": "Researchers at Penn Dental Medicine have uncovered a previously unknown molecular mechanism by which bacteria rapidly compromise the body's protective barriers, a finding that could reshape how scientists approach a wide range of serious diseases.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "SpaceX Aims for Starship Launch on Friday. Here\u2019s What to Know.",
-      "link": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
-      "source": "NYT",
-      "timestamp": "2026-11-13T22:35:41+00:00",
-      "score": 14,
-      "summary": "The audacious maneuver planned for Friday is a key step toward the company\u2019s goal of making rockets fully reusable.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Aims",
-        "Starship",
-        "Launch",
-        "Friday",
-        "Heres",
-        "What",
-        "Know"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'Planimal' cells retain nearly entire algal genome after experimental cell fusion",
-      "link": "https://phys.org/news/2026-11-planimal-cells-retain-entire-algal.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-13T17:20:01-05:00",
-      "score": 12,
-      "summary": "Most DNA in an organism is inherited from its parent or parents. This form of genetic inheritance is referred to as vertical inheritance because genes are passed down from generation to generation.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -34293,7 +34285,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.7,
+      "trend_score": 7.6,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -39129,6 +39121,158 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018Dancing With the Stars\u2019: All 34 Winners",
+      "link": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-winners-list/",
+      "source": "THR",
+      "timestamp": "2026-11-17T22:44:43+00:00",
+      "score": 15,
+      "summary": "A Tony winner, several Olympians, Super Bowl champions, Bachelorettes and the Irwin siblings are just a few of the stars who have won the coveted mirrorball trophy throughout the show\u2019s 20-year history.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stars",
+        "All",
+        "Winners"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "British TV Host Announces She's Pregnant at 59 During Live Broadcast",
+      "link": "https://www.eonline.com/news/1438193/british-tv-host-renee-hoenderkamp-pregnant-with-baby-girl-at-59?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-11-17T22:37:19+00:00",
+      "score": 15,
+      "summary": "This just in: Dr. Ren\u00e9e Hoenderkamp is pregnant at 59. The British talk show anchor of GB News broke the news during a live broadcast that left her co-hosts stunned into silence. As Hoenderkamp...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Host",
+        "Announces",
+        "Shes",
+        "Pregnant",
+        "During",
+        "Live",
+        "Broadcast"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Leading Cyber Expert: \u201cWe Are Entering the Flickers\u201d",
+      "link": "https://www.hollywoodreporter.com/business/digital/hack-cybersecurity-outages-flights-what-should-i-do-1236757846/",
+      "source": "THR",
+      "timestamp": "2026-11-17T22:36:17+00:00",
+      "score": 12,
+      "summary": "Former Defense Department Cyber Czar Brett J. Goldstein says Hollywood and media are about to get pummeled along with everyone else.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Cyber",
+        "Expert",
+        "Are",
+        "Entering",
+        "Flickers"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Much Ado About Nothing\u2019 With Tom Hiddleston & Hayley Atwell Takes Hefty $2.4M; Billy Crystal\u2019s \u2018860\u2019 Breaks House Record \u2013 Broadway Box Office",
+      "link": "https://deadline.com/2026/11/broadway-box-office-much-ado-about-nothing-billy-crystal-1237226593/",
+      "source": "Deadline",
+      "timestamp": "2026-11-17T22:33:50+00:00",
+      "score": 15,
+      "summary": "Broadway got an early jump on the usual holiday business boost, with star-driven productions like Much Ado About Nothing, Billy Crystal\u2019s 860 and Other Desert Cities with Julia Louis-Dreyfuss doing excellent box office last week. In fact, Much Ado, the Jamie Lloyd staging star...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ado",
+        "About",
+        "Nothing",
+        "Tom",
+        "Hiddleston",
+        "Hayley",
+        "Atwell",
+        "Takes",
+        "Hefty",
+        "Billy",
+        "Crystals",
+        "Breaks",
+        "House",
+        "Record",
+        "Broadway",
+        "Box",
+        "Office"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Shutters Opens Doors to Annual Membership Club",
       "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/shutters-on-the-beach-santa-monica-annual-membership-club-1236757829/",
@@ -46928,177 +47072,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "James Bond Fans Already Complaining About Robert Pattinson: \u201cNot Alpha Male\u201d",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/james-bond-robert-pattinson-fan-reaction-1236756578/",
-      "source": "THR",
-      "timestamp": "2026-11-16T22:29:40+00:00",
-      "score": 14,
-      "summary": "As is the ritual, the new Bond choice is getting gripes from franchise fans: \"I've seen sexier potatoes.\"",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bond",
-        "Fans",
-        "Already",
-        "Complaining",
-        "About",
-        "Robert",
-        "Pattinson",
-        "Not",
-        "Alpha",
-        "Male"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Priscilla Presley Scores Partial Win Over Fraud Suit, But Claims About Lisa Marie\u2019s Death Can Stand",
-      "link": "https://www.rollingstone.com/music/music-news/priscilla-presley-fraud-lawsuit-lisa-marie-death-1235659137/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-11-16T22:18:58+00:00",
-      "score": 14,
-      "summary": "A judge tossed four claims from a memorabilia dealer\u2019s fraud lawsuit against Priscilla Presley on Monday, but said allegations the court called \u201cgratuitous and mean-spirited\u201d can remain",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Presley",
-        "Scores",
-        "Partial",
-        "Win",
-        "Over",
-        "Fraud",
-        "Suit",
-        "But",
-        "Claims",
-        "About",
-        "Lisa",
-        "Maries",
-        "Death",
-        "Can",
-        "Stand"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "John Summit Is Extremely Mad Online About the Grammys",
-      "link": "https://www.rollingstone.com/music/music-news/john-summit-grammys-dance-category-snubs-1235659248/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-11-16T22:12:54+00:00",
-      "score": 14,
-      "summary": "After being snubbed, the DJ-producer proclaimed the dance and electronic categories were filled with \"music industry fueled pop stars\"",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Summit",
-        "Extremely",
-        "Mad",
-        "Online",
-        "About",
-        "Grammys"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "John Patrick Shanley On His New Off Broadway Play \u2018Mountain Girl\u2019, Industry Upheaval And Why He \u201cDeeply Opposed\u201d WGA Strikes",
-      "link": "https://deadline.com/2026/11/john-patrick-shanley-off-broadway-mountain-girl-hollywood-wga-strike-1237221944/",
-      "source": "Deadline",
-      "timestamp": "2026-11-16T22:06:39+00:00",
-      "score": 14,
-      "summary": "John Patrick Shanley is a connoisseur of contradiction. When the New York Public Library\u2019s main branch on Fifth Avenue comes up in conversation, the Bronx native takes note of the role of the robber barons in creating the library and other foundational parts of the city. Atten...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Patrick",
-        "Shanley",
-        "His",
-        "New",
-        "Off",
-        "Broadway",
-        "Play",
-        "Mountain",
-        "Girl",
-        "Industry",
-        "Upheaval",
-        "Why",
-        "Deeply",
-        "Opposed",
-        "WGA",
-        "Strikes"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -51882,6 +51855,39 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.1 - 4 km WNW of Palomar Observatory, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41363119",
+      "source": "USGS",
+      "timestamp": "2026-11-17T22:44:52.890000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-17 22:34:42 UTC2026-11-17 22:34:42 UTC at epicenterLocation33.371\u00b0N 116.897\u00b0WDepth17.06 km (10.60 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Palomar",
+        "Observatory"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.3 - 5 km NNW of Lake Elsinore, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41363111",
@@ -58403,39 +58409,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.8 - 39 km ESE of Yakutat, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wsdusl",
-      "source": "USGS",
-      "timestamp": "2026-11-16T12:25:55.038000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-16 12:24:19 UTC2026-11-16 12:24:19 UTC at epicenterLocation59.474\u00b0N 139.042\u00b0WDepth14.30 km (8.89 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ESE",
-        "Yakutat",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
       "heat_level": "LOW"
     }
   ]
