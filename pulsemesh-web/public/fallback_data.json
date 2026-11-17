@@ -13173,6 +13173,38 @@
   ],
   "World": [
     {
+      "title": "Breaking: Sam Wood's lawyers to argue most recent bail denial was 'plainly unjust'",
+      "link": "https://www.abc.net.au/news/2026-11-17/sam-wood-court-of-appeal-bail/107390248",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-17T00:41:39+00:00",
+      "score": 14,
+      "summary": "The fitness influencer is charged with assaulting and strangling his wife on the Sunshine Coast in October.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sam",
+        "Woods"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Dusty the dog's days as Hobart's 'deputy mayor' could be numbered",
       "link": "https://www.abc.net.au/news/2026-11-17/hobart-city-council-elect-john-kelly-as-deputy-lord-mayoral/107388800",
       "source": "ABC Australia",
@@ -19677,38 +19709,40 @@
       ],
       "trend_accel": "+82%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-11-16T03:09:49+00:00",
-      "score": 12,
-      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Tuesday's big stock stories: What\u2019s likely to move the market in the next trading session",
+      "link": "https://www.cnbc.com/2026/11/16/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-17T00:32:44+00:00",
+      "score": 14,
+      "summary": "The Nasdaq Composite extended its decline to a third day as Nvidia sold off once more on Monday.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [],
+      "entities": [
+        "Whats"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "BBC"
+        "CNBC"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "China\u2019s Buyback Push Struggles to Put a Floor Under Stocks",
       "link": "https://www.livemint.com/market/chinas-buyback-push-struggles-to-put-a-floor-under-stocks-11794875338891.html",
@@ -20078,7 +20112,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.1,
+      "trend_score": 11.0,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -26336,19 +26370,21 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "Retailers are turning to entertainment to win shoppers\u2019 attention",
-      "link": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-14T13:00:01+00:00",
+      "title": "AI could help speed up research ethics approvals",
+      "link": "https://phys.org/news/2026-11-ai-ethics.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-16T19:40:04-05:00",
       "score": 12,
-      "summary": "Retailers are increasingly investing in and building out entertainment studios as the race for audience attention speeds up.",
+      "summary": "Artificial intelligence programs could be used to improve efficiency for professionals dealing with research ethics reviews, enabling humans to focus on the ethical decision-making.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -26359,15 +26395,44 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "Flip side: Upside-down atomic layers could steer heat in stacked computer chips",
+      "link": "https://phys.org/news/2026-11-flip-side-upside-atomic-layers.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-16T19:40:01-05:00",
+      "score": 12,
+      "summary": "Stacking chips on top of one another could keep computers getting faster, but it creates a heating problem. Now, researchers from Japan have found that simply flipping atom-thin layers upside down could help steer that heat where it needs to go.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Upsidedown"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Major banking outage linked to Chase, impacted Wells Fargo and BofA",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbE1uWkpadldKMlExOEdaVWtQRm5TREQzUXlEMWNOQnBlanVHblYyV1lnRUlmc2NZMVNFTnMtN0tNVXZyOUJRRzVuYy00R29WYTdxd0hPNzZWVk5JcmxPcGpmampQVEhBRldteFdtRkNocUhFTzlyZEpINTJENmR3aGJoVW1LZFRQRDZkS0x5MTQxdk9PaXFXcF9OQjNEdnpCemc?oc=5",
@@ -32441,64 +32506,6 @@
         "Phys.org"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "2021 heat dome a 'near miss' as study suggests overlooked historic heat wave could offer valuable lessons",
-      "link": "https://phys.org/news/2026-11-dome-overlooked-historic-valuable-lessons.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-12T18:00:16-05:00",
-      "score": 13,
-      "summary": "A new study suggests that the impacts of the 2021 heat dome could have been much worse for British Columbians, despite its widespread devastation, when compared to a previously overlooked heat wave during World War II.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Matter\u2013antimatter asymmetry still provides no evidence of new physics",
-      "link": "https://phys.org/news/2026-11-matterantimatter-asymmetry-evidence-physics.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-12T18:00:09-05:00",
-      "score": 10,
-      "summary": "The universe's dominance by ordinary matter is compelling evidence that matter and antimatter are not perfect reflections of each other. However, known differences do not explain the scale of this imbalance, leaving open the possibility that unknown physics is responsible. A n...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
@@ -39281,6 +39288,47 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Jennifer Lawrence Reunites With \u2018Hunger Games\u2019 Co-Star Josh Hutcherson at \u2018Sunrise on the Reaping\u2019 World Premiere",
+      "link": "https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/",
+      "source": "Variety",
+      "timestamp": "2026-11-17T00:32:42+00:00",
+      "score": 12,
+      "summary": "Jennifer Lawrence staged a \u201cHunger Games\u201d reunion with co-star Josh Hutcherson at the world premiere of \u201cSunrise on the Reaping\u201d in New York City. The two original stars of \u201cThe Hunger Games\u201d franchise walked the red carpet and posed for photos more than a decade after the pre...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lawrence",
+        "Reunites",
+        "Hunger",
+        "Games",
+        "CoStar",
+        "Josh",
+        "Hutcherson",
+        "Sunrise",
+        "Reaping",
+        "World",
+        "Premiere"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Richard Sterban, the Bass Singer for the Oak Ridge Boys, Dies at 83",
       "link": "https://www.nytimes.com/2026/11/14/obituaries/richard-sterban-dead.html",
@@ -47267,27 +47315,35 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Lifestyle": [
     {
-      "title": "Pitch Perfect: The 20 Best Music Schools in the World",
-      "link": "https://www.hollywoodreporter.com/music/music-features/best-music-schools-world-1236752338/",
-      "source": "THR",
-      "timestamp": "2026-11-15T18:00:00+00:00",
-      "score": 15,
-      "summary": "From Juilliard and USC to Berklee and Eastman, these are the programs and conservatories training the next generation of Hollywood composers.",
+      "title": "Jennifer Lawrence Gets Her Flowers at the New York Premiere of \u2018The Hunger Games: Sunrise on the Reaping\u2019",
+      "link": "https://www.vogue.com/article/last-looks-jennifer-lawerence",
+      "source": "Vogue",
+      "timestamp": "2026-11-17T00:36:31+00:00",
+      "score": 12,
+      "summary": "Sure, she may not be method dressing, but can you blame Jennifer Lawrence for loving a theme?",
       "country": "US",
       "region": "Americas",
-      "source_type": "Entertainment",
+      "source_type": "Lifestyle",
       "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Perfect",
-        "Best",
-        "Music",
-        "Schools",
-        "World"
+        "Lawrence",
+        "Gets",
+        "Her",
+        "Flowers",
+        "New",
+        "York",
+        "Premiere",
+        "Hunger",
+        "Games",
+        "Sunrise",
+        "Reaping"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -47298,13 +47354,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "THR"
+        "Vogue"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Lifestyle": [
+    },
     {
       "title": "A Quick and Dirty History of Honey Traps, From Mata Hari to Mozhno Girls",
       "link": "https://www.vogue.com/article/a-quick-and-dirty-history-of-the-honey-trap",
@@ -47781,7 +47835,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.4,
+      "trend_score": 8.3,
       "source_count": 17,
       "sources_reporting": [
         "GQ",
@@ -47790,7 +47844,7 @@
         "PBS",
         "Vogue"
       ],
-      "trend_accel": "+75%",
+      "trend_accel": "+74%",
       "heat_level": "SURGING"
     },
     {
@@ -51918,6 +51972,38 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.8 - 11 km NE of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75071232",
+      "source": "USGS",
+      "timestamp": "2026-11-17T00:31:50.910000+00:00",
+      "score": 17,
+      "summary": "Time2026-11-17 00:28:21 UTC2026-11-17 00:28:21 UTC at epicenterLocation19.261\u00b0N 155.393\u00b0WDepth29.27 km (18.19 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Phala",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
       "heat_level": "LOW"
     },
     {
@@ -58435,40 +58521,6 @@
         "GDACS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.0 - 101 km NE of Punta Cana, Dominican Republic",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyf6",
-      "source": "USGS",
-      "timestamp": "2026-11-15T16:02:52.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-15 15:52:42 UTC2026-11-15 15:52:42 UTC at epicenterLocation19.309\u00b0N 67.824\u00b0WDepth10.00 km (6.21 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Punta",
-        "Cana",
-        "Dominican",
-        "Republic"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ]
