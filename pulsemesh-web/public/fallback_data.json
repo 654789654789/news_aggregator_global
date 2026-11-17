@@ -13178,6 +13178,70 @@
   ],
   "World": [
     {
+      "title": "Macron visits Malaysia as France seeks closer defence and rare earths ties",
+      "link": "https://www.france24.com/en/asia-pacific/20261117-macron-malaysia-france-defence-rare-earths-trade-energy",
+      "source": "France24",
+      "timestamp": "2026-11-17T03:40:31+00:00",
+      "score": 12,
+      "summary": "French President Emmanuel Macron will meet Malaysian Prime Minister Anwar Ibrahim in Kuala Lumpur on Tuesday to discuss strengthening defence, trade, energy and critical minerals co-operation. Macron's two-day visit, his first since 2017, comes ahead of the countries' 70th ann...",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Malaysia",
+        "France"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "France24"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "India faces 'acute' aircraft shortage, needs more than 1,000 planes: Piyush Goyal",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/india-faces-acute-aircraft-shortage-needs-more-than-1000-planes-piyush-goyal/articleshow/135908619.cms",
+      "source": "Times of India",
+      "timestamp": "2026-11-17T09:05:20+05:30",
+      "score": 17,
+      "summary": "In an effort to address soaring air traffic demands, India plans to procure an extra 1,000 civilian aircraft. The government has underscored the importance of expedited delivery from credible manufacturers to increase the fleet size. This expansion is set to enhance air connec...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Piyush",
+        "Goyal"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Breaking: Bunnings to make 230 jobs redundant and offshore some tech services",
       "link": "https://www.abc.net.au/news/2026-11-17/bunnings-layoffs-and-offshoring/107394860",
       "source": "ABC Australia",
@@ -15893,14 +15957,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 10.4,
+      "source_count": 19,
       "sources_reporting": [
+        "AP",
+        "BBC",
+        "FT",
+        "PBS",
+        "Reuters",
         "The Hindu"
       ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
+      "trend_accel": "+81%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
@@ -16356,15 +16425,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 8,
+      "trending": true,
+      "trend_score": 10.9,
+      "source_count": 15,
       "sources_reporting": [
         "BBC",
-        "FT"
+        "FT",
+        "NHK",
+        "PBS",
+        "Reuters",
+        "The Hindu"
       ],
-      "trend_accel": "+62%",
-      "heat_level": "HOT"
+      "trend_accel": "+81%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Trump\u2019s Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting",
@@ -16560,14 +16633,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 10.9,
+      "source_count": 14,
       "sources_reporting": [
-        "FT"
+        "AP",
+        "BBC",
+        "Bloomberg",
+        "FT",
+        "PBS",
+        "The Hindu"
       ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
+      "trend_accel": "+85%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Two charged after man was run over by van after flags incident in Midlands",
@@ -16889,8 +16967,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 11.1,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 19,
       "sources_reporting": [
         "BBC",
@@ -17692,8 +17770,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 11.2,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "BBC",
@@ -19636,24 +19714,28 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Report into Serpentine Jarrahdale council details dysfunction",
-      "link": "https://www.abc.net.au/news/2026-11-16/report-into-outer-perth-council-details-internal-trouble/107390368",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-16T05:52:15+00:00",
-      "score": 14,
-      "summary": "A report produced by an independent monitor assigned to work with the Shire of Serpentine Jarrahdale has revealed concerns about councillor behaviour and psychosocial safety.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "title": "SML Mahindra Rights Issue:  \u20b91,450 crore offer opens December 1; check price, record date, ratio and key details",
+      "link": "https://www.livemint.com/market/stock-market-news/sml-mahindra-rights-issue-rs-1-450-crore-offer-opens-december-1-check-price-record-date-ratio-and-key-details-11794884978209.html",
+      "source": "Livemint",
+      "timestamp": "2026-11-17T09:07:07+05:30",
+      "score": 17,
+      "summary": "SML Mahindra has fixed its rights issue price at \u20b93,506 per share, with eligible shareholders entitled to two shares for every seven held. The proceeds will primarily fund its acquisition of Mahindra's truck and bus business and support expansion plans.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Serpentine",
-        "Jarrahdale"
+        "Mahindra",
+        "Rights",
+        "Issue",
+        "December"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19662,53 +19744,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "Livemint"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Estonia to close Russian border crossings after attempted arson attack",
-      "link": "https://www.thehindu.com/news/international/estonia-to-close-russian-border-crossings-after-attempted-arson-attack/article71706831.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-16T11:22:02+05:30",
-      "score": 12,
-      "summary": "Estonian authorities detained \u200ceight people overnight on suspicion of an attempted arson attack on \u200cdrone maker Threod Systems that they \u200csaid \u2060had been ordered by Russia\u2019s \u2060GRU military intelligence service",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Russian"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": true,
-      "trend_score": 11.0,
-      "source_count": 15,
-      "sources_reporting": [
-        "AP",
-        "BBC",
-        "BBC",
-        "France24",
-        "NPR",
-        "The Hindu"
-      ],
-      "trend_accel": "+82%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Business": [
     {
       "title": "Top stocks to watch today: Senco Gold, Adani Enterprises, BSE, Cipla shares in focus on Tuesday, 17 November",
       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-senco-gold-adani-enterprises-bse-cipla-shares-in-focus-on-tuesday-17-november-full-list-11794879685406.html",
@@ -26349,35 +26391,6 @@
       ],
       "trend_accel": "+77%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
-      "link": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-14T14:02:39+00:00",
-      "score": 13,
-      "summary": "Berkshire Hathaway's red-hot shares are ending a strong week with four consecutive fresh record high closes.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -32530,6 +32543,102 @@
     }
   ],
   "Sports": [
+    {
+      "title": "Poch offers Pep advice on USMNT job, calls it 'perfect moment to arrive'",
+      "link": "https://www.espn.com/soccer/story/_/id/50504817/poch-pep-advice-usmnt-job",
+      "source": "ESPN",
+      "timestamp": "2026-11-16T22:39:18-05:00",
+      "score": 12,
+      "summary": "On the eve of his final game as coach of the United States, Mauricio Pochettino said that if Pep Guardiola asked him about the USMNT job, he'd recommend taking it if given the chance.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pep",
+        "USMNT"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ESPN"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Rivers on NC State: 'There was no other college job that was coming for me'",
+      "link": "https://www.espn.com/college-football/story/_/id/50504530/rivers-says-nc-state-only-college-job-taken",
+      "source": "ESPN",
+      "timestamp": "2026-11-16T22:39:18-05:00",
+      "score": 12,
+      "summary": "New coach Philip Rivers said NC State was the only college job he would have taken.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "State",
+        "There"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ESPN"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Heat star Adebayo exits win over Rockets early with hip tightness",
+      "link": "https://www.espn.com/nba/story/_/id/50507278/heat-star-bam-adebayo-exits-win-early-hip-tightness",
+      "source": "ESPN",
+      "timestamp": "2026-11-16T22:39:18-05:00",
+      "score": 12,
+      "summary": "Heat star Bam Adebayo was ruled out of Monday's win over the Rockets after 16 first-half minutes due to hip tightness.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Adebayo",
+        "Rockets"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ESPN"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Arizona lands 5-star senior Diggs, top shooting guard in 2027 class",
       "link": "https://www.espn.com/mens-college-basketball/story/_/id/50506767/five-star-guard-adan-diggs-commits-arizona-wildcats-men-basketball",
@@ -39197,109 +39306,6 @@
         "NPR"
       ],
       "trend_accel": "+63%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Sky pledges backing for Equal Sport Project",
-      "link": "https://www.skysports.com/football/news/12040/13610700/sky-backs-equal-sport-projects-pledges-to-improve-equality-through-five-shared-ambitions-across-industry",
-      "source": "Sky Sports",
-      "timestamp": "2026-11-10T17:24:00+00:00",
-      "score": 12,
-      "summary": "Sky Sports is proud to support Equal Sport Project, which aims to accelerate progress towards equality across sport through five shared ambitions.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Sports Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Equal",
-        "Sport",
-        "Project"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Sky Sports"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Reynolds: Fearless Love can lead Packers to Super Bowl",
-      "link": "https://www.skysports.com/nfl/news/12040/13610682/jordan-love-green-bay-packers-quarterback-is-fearless-and-can-lead-matt-lafleurs-team-to-super-bowl-says-neil-reynolds",
-      "source": "Sky Sports",
-      "timestamp": "2026-11-10T17:00:00+00:00",
-      "score": 12,
-      "summary": "I'm well aware that we've only reached the halfway point of the 2026 season and so much can change in the NFL, especially at the back end of the year.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Sports Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fearless",
-        "Love",
-        "Packers",
-        "Super",
-        "Bowl"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 14,
-      "sources_reporting": [
-        "AP",
-        "NHK",
-        "PBS",
-        "Sky Sports"
-      ],
-      "trend_accel": "+61%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "'It has been very difficult' - Suryakumar on losing T20I captaincy and his place in Indian team",
-      "link": "https://www.cricinfo.com/ci/content/story/1562147.html?ex_cid=OTC-RSS",
-      "source": "Cricinfo",
-      "timestamp": "2026-11-10T15:42:57+00:00",
-      "score": 17,
-      "summary": "The former captain is looking to play with the same \"love and passion\" that started his dream of representing Mumbai as a teenager",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Custom Feed",
-      "trust_score": 7,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Suryakumar",
-        "Indian"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Cricinfo"
-      ],
-      "trend_accel": "+45%",
       "heat_level": "LOW"
     }
   ],
@@ -51944,6 +51950,72 @@
       "heat_level": "LOW"
     },
     {
+      "title": "M 1.0 - 76 km W of Salamatof, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wtigqw",
+      "source": "USGS",
+      "timestamp": "2026-11-17T03:40:36.509000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-17 03:37:44 UTC2026-11-17 03:37:44 UTC at epicenterLocation60.560\u00b0N 152.716\u00b0WDepth26.80 km (16.65 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Salamatof",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.8 - 14 km SSE of Fern Forest, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75071282",
+      "source": "USGS",
+      "timestamp": "2026-11-17T03:40:23.110000+00:00",
+      "score": 17,
+      "summary": "Time2026-11-17 03:36:17 UTC2026-11-17 03:36:17 UTC at epicenterLocation19.358\u00b0N 155.061\u00b0WDepth1.06 km (0.66 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSE",
+        "Fern",
+        "Forest",
+        "Hawaii"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.0 - 12 km SW of Searles Valley, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41362911",
       "source": "USGS",
@@ -58428,71 +58500,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 5.0 - 74 km N of P\u0101r\u016bn, Afghanistan",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyfh",
-      "source": "USGS",
-      "timestamp": "2026-11-15T18:08:18.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-15 17:48:36 UTC2026-11-15 17:48:36 UTC at epicenterLocation36.095\u00b0N 70.950\u00b0EDepth100.73 km (62.59 mi)",
-      "country": "Afghanistan",
-      "region": "South Asia",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Prn",
-        "Afghanistan"
-      ],
-      "severity_score": 7,
-      "alert_level": "high",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 16 km SE of Silver Springs, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00927018",
-      "source": "USGS",
-      "timestamp": "2026-11-15T18:06:10.950000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-15 18:03:56 UTC2026-11-15 18:03:56 UTC at epicenterLocation39.322\u00b0N 119.076\u00b0WDepth3.98 km (2.47 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Silver",
-        "Springs",
-        "Nevada"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
