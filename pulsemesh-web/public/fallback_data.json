@@ -13102,6 +13102,43 @@
   ],
   "World": [
     {
+      "title": "Trump Briefly Met an Old Friend in Manila: Imelda Marcos",
+      "link": "https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html",
+      "source": "NYT",
+      "timestamp": "2026-11-18T09:52:56+00:00",
+      "score": 12,
+      "summary": "President Trump and the former first lady of the Philippines know each other well, her son, the country\u2019s leader, has said.",
+      "country": "Philippines",
+      "region": "Southeast Asia",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Briefly",
+        "Met",
+        "Old",
+        "Friend",
+        "Manila",
+        "Imelda",
+        "Marcos"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in \u2018humiliating decline\u2019 in speech",
       "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
       "source": "Guardian",
@@ -19637,42 +19674,74 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Jensen Huang\u2019s departure as Nvidia CEO becomes a political proxy war",
-      "link": "https://www.theguardian.com/global/2026/nov/16/jensen-huang-nvidia-ceo-china",
-      "source": "Guardian",
-      "timestamp": "2026-11-17T14:50:24+00:00",
-      "score": 12,
-      "summary": "Huang\u2019s exit sharpens debate over US stance towards Beijing; and as outages increase, do you get the feeling nothing works?This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here.Hello, and welcome to TechScape...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "Nvidia stock up nearly 4% as earnings beat expectations. Neoclouds surge",
+      "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-18T10:00:17+00:00",
+      "score": 17,
+      "summary": "The chip giant's earnings come at a tumultuous time for the company.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Huangs",
-        "Nvidia",
-        "CEO"
+        "Neoclouds"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "Guardian"
+        "CNBC"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+60%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "\u2018New Girl\u2019 star Jake Johnson sells Pasadena home in just 2 weeks for $530K over asking price",
+      "link": "https://www.marketwatch.com/story/new-girl-star-jake-johnson-sells-pasadena-home-in-just-2-weeks-for-530k-over-asking-price-bc4d04c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-11-18T09:59:00+00:00",
+      "score": 15,
+      "summary": "\u201cNew Girl\u201d star Jake Johnson has offloaded his private Pasadena, Calif., retreat for $3.8 million\u2014$530,000 over his asking price of $3.3 million.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Financial Publication",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Girl",
+        "Jake",
+        "Johnson",
+        "Pasadena"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "MarketWatch"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Treasury yields hold steady as investors look ahead to Fed minutes",
       "link": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html",
@@ -26276,58 +26345,24 @@
       ],
       "trend_accel": "+83%",
       "heat_level": "CRITICAL"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "California sues OpenAI over Hugging Face attack",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-11-16T23:12:24+00:00",
-      "score": 14,
-      "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "OpenAI",
-        "Hugging",
-        "Face"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "United Airlines suffers system outage amid lingering FAA ground-stop delays",
-      "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-11-16T23:10:00+00:00",
-      "score": 14,
-      "summary": "United Airlines reported a system outage Monday evening, as the airline industry is still recovering from disruptions caused by a nationwide ground stop ordered by the Federal Aviation Administration last week.",
+      "title": "Sudden heat spikes harm honey bees more than sustained heat, study finds",
+      "link": "https://phys.org/news/2026-11-sudden-spikes-honey-bees-sustained.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-18T05:00:13-05:00",
+      "score": 12,
+      "summary": "A sudden heat shock can be harmful to honey bees, but as a heat wave goes on, bees adapt and the high temperatures are less destructive.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Airlines",
-        "FAA"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26335,15 +26370,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "MarketWatch"
+        "Phys.org"
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Eagles preying on human-sized baboons upend existing evolutionary defense theory",
       "link": "https://phys.org/news/2026-11-eagles-preying-human-sized-baboons.html",
@@ -32426,38 +32459,6 @@
         "NYT"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Starship will play a big role in Artemis III.",
-      "link": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/how-starship-will-play-a-big-role-in-artemis-iii",
-      "source": "NYT",
-      "timestamp": "2026-11-14T21:03:26+00:00",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from NYT.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Artemis",
-        "III"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ],
@@ -39119,6 +39120,80 @@
   ],
   "Entertainment": [
     {
+      "title": "Jean-Pierre & Luc Dardenne Set For European Film Academy Lifetime Achievement Award",
+      "link": "https://deadline.com/2026/11/jean-pierre-luc-dardenne-european-film-academy-honor-1237227768/",
+      "source": "Deadline",
+      "timestamp": "2026-11-18T10:00:00+00:00",
+      "score": 12,
+      "summary": "The European Film Academy will honor multi-award-winning Belgian directorial duo Jean-Pierre and Luc Dardenne with a Lifetime Achievement Award at its 39th European Film Awards in January 2027. Among the most internationally acclaimed filmmakers to emerge from Belgium and Euro...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Luc",
+        "Dardenne",
+        "Set",
+        "European",
+        "Film",
+        "Academy",
+        "Lifetime",
+        "Achievement",
+        "Award"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "European Lifetime Achievement Award for the Dardenne Brothers",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/dardenne-brothers-european-film-award-lifetime-achievement-1236757154/",
+      "source": "THR",
+      "timestamp": "2026-11-18T10:00:00+00:00",
+      "score": 12,
+      "summary": "The Belgian filmmakers Jean-Pierre and Luc Dardenne, two-time Palme d'Or winners, will be honored at the 2027 European Film Awards in January.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lifetime",
+        "Achievement",
+        "Award",
+        "Dardenne",
+        "Brothers"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Harry Styles, Billie Eilish and Sam Fender Set to Headline Glastonbury 2027",
       "link": "https://www.hollywoodreporter.com/music/music-news/harry-styles-glastonbury-billie-eilish-fender-headliners-1236758327/",
       "source": "THR",
@@ -39478,7 +39553,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.5,
+      "trend_score": 11.4,
       "source_count": 15,
       "sources_reporting": [
         "Bloomberg",
@@ -47065,89 +47140,6 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Do No Harm\u2019: Polly Findlay\u2019s Next Feature Is A Healthcare Chamber Piece \u2014 Brit List 2026",
-      "link": "https://deadline.com/2026/11/do-no-harm-polly-findlay-mk2-bbc-film-brit-list-2026-1237224455/",
-      "source": "Deadline",
-      "timestamp": "2026-11-17T11:05:05+00:00",
-      "score": 15,
-      "summary": "Deadline has partnered with The Brit List to profile some of the emerging writers who have made this year\u2019s ranking of the best unproduced UK film and TV projects. Launched in 2007, The Brit List has previously featured projects including The King\u2019s Speech and Responsible Chil...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Harm",
-        "Polly",
-        "Findlays",
-        "Next",
-        "Feature",
-        "Healthcare",
-        "Chamber",
-        "Piece",
-        "Brit",
-        "List"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018A Passage To India\u2019: Ali Fazal, Fiona Shaw & Tom Mison Leading BBC & CBC\u2019s TV Reboot",
-      "link": "https://deadline.com/2026/11/passage-to-india-bbc-cast-ali-fazal-fiona-shaw-tom-mison-1237226368/",
-      "source": "Deadline",
-      "timestamp": "2026-11-17T11:00:00+00:00",
-      "score": 12,
-      "summary": "The BBC and Canada\u2019s CBC have confirmed their adaptation of E.M. Forster\u2019s A Passage to India, casting Ali Fazal, Fiona Shaw and Tom Mison as leads. The beloved book just turned 100. Set against the backdrop of the British Raj and directed by Emmy-winner Richie Mehta (Delhi Cr...",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Passage",
-        "India",
-        "Ali",
-        "Fazal",
-        "Fiona",
-        "Shaw",
-        "Tom",
-        "Mison",
-        "Leading",
-        "BBC",
-        "CBCs",
-        "Reboot"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 9,
-      "sources_reporting": [
-        "Deadline",
-        "Variety"
-      ],
-      "trend_accel": "+63%",
-      "heat_level": "HOT"
     }
   ],
   "Lifestyle": [
@@ -48375,7 +48367,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.9,
+      "trend_score": 7.8,
       "source_count": 17,
       "sources_reporting": [
         "GQ",
@@ -51780,48 +51772,42 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "CrisisWatch": [
     {
-      "title": "Zo\u00eb Kravitz Is Back on the Red Carpet, Going for Gold, And Baring Her Abs",
-      "link": "https://www.vogue.com/article/zoe-kravitz-how-to-rob-a-bank-new-york-premiere-look",
-      "source": "Vogue",
-      "timestamp": "2026-11-11T10:01:19+00:00",
-      "score": 12,
-      "summary": "Stepping out for the \u201cHow To Rob A Bank\u201d premiere in New York City, Zo\u00eb Kravitz made a return to form care of Saint Laurent.",
+      "title": "M 2.3 - 5 km SSW of P\u0101hala, Hawaii",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75071792",
+      "source": "USGS",
+      "timestamp": "2026-11-18T09:48:15.310000+00:00",
+      "score": 17,
+      "summary": "Time2026-11-18 09:44:45 UTC2026-11-18 09:44:45 UTC at epicenterLocation19.161\u00b0N 155.503\u00b0WDepth29.64 km (18.42 mi)",
       "country": "US",
       "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Kravitz",
-        "Back",
-        "Red",
-        "Carpet",
-        "Going",
-        "Gold",
-        "Baring",
-        "Her",
-        "Abs"
+        "SSW",
+        "Phala",
+        "Hawaii"
       ],
-      "severity_score": 0,
+      "severity_score": 3,
       "alert_level": "low",
-      "mode": "normal",
+      "mode": "strategic",
       "language": "en",
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "Vogue"
+        "USGS"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+58%",
       "heat_level": "LOW"
-    }
-  ],
-  "CrisisWatch": [
+    },
     {
       "title": "DR Congo: Compte rendu de la r\u00e9union mensuelle du mois d'octobre 2026",
       "link": "https://reliefweb.int/report/democratic-republic-congo/compte-rendu-de-la-reunion-mensuelle-du-mois-doctobre-2026",
@@ -58393,39 +58379,6 @@
         "USGS"
       ],
       "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.6 - 13 km WSW of Akhiok, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wtkxeh",
-      "source": "USGS",
-      "timestamp": "2026-11-17T04:59:35.941000+00:00",
-      "score": 15,
-      "summary": "ShakeMap - IIITime2026-11-17 04:56:50 UTC2026-11-17 04:56:50 UTC at epicenterLocation56.920\u00b0N 154.392\u00b0WDepth53.40 km (33.18 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Akhiok",
-        "Alaska"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ]
