@@ -1,6 +1,43 @@
 {
   "Politics": [
     {
+      "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+      "link": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
+      "source": "NYT",
+      "timestamp": "2026-11-18T00:17:51+00:00",
+      "score": 12,
+      "summary": "The digital outages that began on Thursday may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Days",
+        "Digital",
+        "Outages",
+        "Americans",
+        "Wonder",
+        "Country",
+        "Breaking"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Republicans Recoil as Duffy Outlines $50 Billion Request for Air Traffic Improvements",
       "link": "https://www.nytimes.com/2026/11/17/us/politics/duffy-hill-ground-stop-faa.html",
       "source": "NYT",
@@ -6560,46 +6597,70 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Cyclone Akvan: Andhra Home Minister Anitha puts coastal districts on high alert, warns fishermen",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-andhra-home-minister-anitha-puts-coastal-districts-on-high-alert-warns-fishermen/article71710830.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-17T13:35:33+05:30",
+      "title": "Microsoft calls Copilot \"the new OS for work\" at Ignite keynote",
+      "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "source": "Ars",
+      "timestamp": "2026-11-18T00:27:29+00:00",
       "score": 12,
-      "summary": "Andhra Pradesh Home Minister Vangalapudi Anitha asks people to stay alert over the next four days and the Agriculture Department to help farmers protect crops ready for harvest",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Akvan",
-        "Andhra",
-        "Home",
-        "Minister",
-        "Anitha"
+        "Copilot",
+        "Ignite"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Ars"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nvidia promises that revenue will keep soaring",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-18T00:16:50+00:00",
+      "score": 10,
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Satya Nadella says he\u2019s AGI-pilled now",
       "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
@@ -13019,76 +13080,104 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Microsoft\u2019s massive Outlook outage continues",
-      "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-      "source": "Verge",
-      "timestamp": "2026-11-13T07:48:03-05:00",
-      "score": 12,
-      "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are reporting that a...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Outlook"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "3 Best Walking Pad Treadmills for Homes and Offices (2026)",
-      "link": "https://www.wired.com/story/best-walking-pads/",
-      "source": "Wired",
-      "timestamp": "2026-11-13T12:34:00+00:00",
-      "score": 15,
-      "summary": "Our team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Best",
-        "Walking",
-        "Pad",
-        "Treadmills",
-        "Homes",
-        "Offices"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Wired"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "World": [
+    {
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-18T00:28:01+00:00",
+      "score": 12,
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Huang"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Netanyahu ally ousted as speaker of Israeli parliament",
+      "link": "https://www.abc.net.au/news/2026-11-18/eisenkot-bloc-replaces-netanyahu-ally-as-knesset-speaker/107397646",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-18T00:25:07+00:00",
+      "score": 12,
+      "summary": "The appointment could give Benjamin Netanyahu's main rival, Gadi Eisenkot, and his allies significant power to start winding back the previous government's policies.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Israeli"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+      "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+      "source": "Guardian",
+      "timestamp": "2026-11-18T00:21:33+00:00",
+      "score": 15,
+      "summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani deathA Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing of Revolutionary Gu...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Trump"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Death of woman and toddler at Melbourne lake to be probed by coroner",
       "link": "https://www.abc.net.au/news/2026-11-18/death-of-woman-and-toddler-at-craigieburn-lake-not-being-treated/107397972",
@@ -19616,67 +19705,29 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "They\u2019re Young, Frustrated and Want France to Change. They Disagree on How.",
-      "link": "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html",
-      "source": "NYT",
-      "timestamp": "2026-11-17T05:01:06+00:00",
+      "title": "Nvidia\u2019s Kress tells CNBC's Jim Cramer that 'customers continue to be with us\u2019 \u2014 Live updates",
+      "link": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-18T00:28:27+00:00",
       "score": 12,
-      "summary": "One is a left-wing student leader, the other a young far-right activist. Together, Soumaya Sarr\u00e9 and Louise Montangon reflect the polarization of France, where more protests were set for Tuesday.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "summary": "Nvidia released fiscal third-quarter 2027 results on Tuesday, followed by its first earnings call since Huang's departure.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Young",
-        "Frustrated",
-        "Want",
-        "France",
-        "Change",
-        "They",
-        "Disagree",
-        "How"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Trump Will Miss Most of the ASEAN Summit",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
-      "source": "NYT",
-      "timestamp": "2026-11-17T05:00:14+00:00",
-      "score": 14,
-      "summary": "President Trump will arrive in Manila as the meeting is wrapping up, a sign of how U.S. policy has left the region balancing between Washington and Beijing.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Will",
-        "Miss",
-        "Most",
-        "ASEAN",
-        "Summit"
+        "Kress",
+        "CNBCs",
+        "Jim",
+        "Cramer",
+        "Live"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19687,50 +19738,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "NYT"
+        "CNBC"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
-      "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
-      "source": "NYT",
-      "timestamp": "2026-11-17T05:00:07+00:00",
-      "score": 12,
-      "summary": "The debt load of developing countries jumped to $9.4 trillion as high interest rates and other global shocks batter their economies.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Problems",
-        "Richest",
-        "Countries",
-        "Are",
-        "Trickling",
-        "Down",
-        "Poorest"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5",
@@ -26333,35 +26345,6 @@
         "CNBC"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Canadian dollar hits 19-month low on tame inflation report",
-      "link": "https://www.livemint.com/market/canadian-dollar-hits-19-month-low-on-tame-inflation-report-11794855720637.html",
-      "source": "Livemint",
-      "timestamp": "2026-11-17T00:32:00+05:30",
-      "score": 15,
-      "summary": "CANADA-FOREX/:CANADA FX DEBT-Canadian dollar hits 19-month low on 'tame' inflation report",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ],
@@ -39160,6 +39143,45 @@
   ],
   "Entertainment": [
     {
+      "title": "Blake Shelton Shares Best Part of Being Stepdad to Gwen Stefani\u2019s Kids",
+      "link": "https://www.eonline.com/news/1438197/blake-shelton-details-favorite-part-of-being-stepdad-to-gwen-stefanis-kids?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-11-18T00:16:30+00:00",
+      "score": 12,
+      "summary": "Blake Shelton has taken to fatherhood like a honey bee to a honeysuckle. The \u201cGod\u2019s Country\u201d singer shared what one of his favorite parts of parenthood is after becoming stepdad to wife Gwen...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Shelton",
+        "Shares",
+        "Best",
+        "Part",
+        "Being",
+        "Stepdad",
+        "Gwen",
+        "Stefanis",
+        "Kids"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Jeff Bezos Describes How Amazon Decided On Robert Pattinson As The Next James Bond",
       "link": "https://deadline.com/2026/11/jeff-bezos-chose-robert-pattinson-james-bond-1237227282/",
       "source": "Deadline",
@@ -47121,43 +47143,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Jennifer Love Hewitt Says Marriage With Brian Hallisay Is a \u201cChoice\u201d",
-      "link": "https://www.eonline.com/news/1438167/jennifer-love-hewitt-husband-brian-hallisays-marriage-advice-is-a-choice?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-11-17T01:05:53+00:00",
-      "score": 12,
-      "summary": "Jennifer Love Hewitt is a fan of putting her middle name into practice. More than a decade into her marriage with Brian Hallisay, the 9-1-1 actress shared why her \u201cheart still flutters\u201d when she...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Love",
-        "Hewitt",
-        "Says",
-        "Marriage",
-        "Brian",
-        "Hallisay",
-        "Choice"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -51939,6 +51924,103 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 2.8 - 29 km S of Glacier View, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wuxxhs",
+      "source": "USGS",
+      "timestamp": "2026-11-18T00:29:24.917000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-18 00:26:22 UTC2026-11-18 00:26:22 UTC at epicenterLocation61.548\u00b0N 147.620\u00b0WDepth11.40 km (7.08 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Glacier",
+        "View",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.0 - 23 km WSW of Tyonek, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wuxnrk",
+      "source": "USGS",
+      "timestamp": "2026-11-18T00:16:49.945000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-18 00:15:17 UTC2026-11-18 00:15:17 UTC at epicenterLocation60.982\u00b0N 151.530\u00b0WDepth70.40 km (43.74 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WSW",
+        "Tyonek",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.4 - 7 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75467812",
+      "source": "USGS",
+      "timestamp": "2026-11-18T00:16:43.511000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-18 00:15:07 UTC2026-11-18 00:15:07 UTC at epicenterLocation38.829\u00b0N 122.808\u00b0WDepth1.13 km (0.70 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Green forest fire notification in Ghana, Burkina Faso",
       "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033926",
@@ -58376,104 +58458,6 @@
         "GDACS"
       ],
       "trend_accel": "+61%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.9 - 18 km E of Little Lake, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41362759",
-      "source": "USGS",
-      "timestamp": "2026-11-16T15:57:08.470000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-16 15:53:45 UTC2026-11-16 15:53:45 UTC at epicenterLocation35.953\u00b0N 117.704\u00b0WDepth4.66 km (2.90 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Little",
-        "Lake"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.8 - 11 km SSE of Stonewall Gap, Colorado",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tykc",
-      "source": "USGS",
-      "timestamp": "2026-11-16T15:48:29.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-16 15:41:50 UTC2026-11-16 15:41:50 UTC at epicenterLocation37.061\u00b0N 104.979\u00b0WDepth5.00 km (3.11 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Stonewall",
-        "Gap",
-        "Colorado"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.2 - 47 km NE of Chase, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wsjvjc",
-      "source": "USGS",
-      "timestamp": "2026-11-16T15:27:45.661000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-16 15:25:30 UTC2026-11-16 15:25:30 UTC at epicenterLocation62.753\u00b0N 149.446\u00b0WDepth78.10 km (48.53 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Chase",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
