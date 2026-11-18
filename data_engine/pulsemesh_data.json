@@ -1,6 +1,68 @@
 {
   "Politics": [
     {
+      "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
+      "source": "Guardian",
+      "timestamp": "2026-11-18T20:32:58+00:00",
+      "score": 10,
+      "summary": "High court judge issues order against Raise the Colours over flags on council-owned street furnitureThe campaign group Raise the Colours has been temporarily banned from placing union jacks on lamp-posts and roundabouts in Birmingham after a legal challenge by the local counci...",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Guardian"
+      ],
+      "trend_accel": "+53%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Live updates: Dems pick Jeffries as Speaker",
+      "link": "https://thehill.com/policy/transportation/6226963-live-donald-trump-china-tech-outages-faa-modernization-alaska-senate-race/",
+      "source": "The Hill",
+      "timestamp": "2026-11-18T20:31:38+00:00",
+      "score": 12,
+      "summary": "House Democrats threw their weight behind Minority Leader Hakeem Jeffries (D-N.Y.) to serve as Speaker next term. The nomination will still require a full House vote when the 120th Congress begins in January. They also elected Rep. Ted Lieu (D-Calif.) to be the caucus chairman...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Dems",
+        "Jeffries",
+        "Speaker"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Muslims are projected to outnumber Christians by 2035 as the world's largest religion",
       "link": "https://www.pbs.org/newshour/world/muslims-are-projected-to-outnumber-christians-by-2035-as-the-worlds-largest-religion",
       "source": "PBS",
@@ -1531,8 +1593,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.0,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "Google News",
@@ -2456,14 +2518,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
+      "trending": true,
+      "trend_score": 10.8,
+      "source_count": 16,
       "sources_reporting": [
-        "NYT"
+        "AP",
+        "Guardian",
+        "NYT",
+        "PBS",
+        "PBS",
+        "The Hill"
       ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
+      "trend_accel": "+81%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "MoD signs \u20b91,976-crore contract with Israel to upgrade Barak missile system",
@@ -6568,25 +6635,61 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
+    }
+  ],
+  "Tech": [
+    {
+      "title": "Windows Server 2028 public preview bets on a security-first approach",
+      "link": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "source": "Ars",
+      "timestamp": "2026-11-18T20:41:12+00:00",
+      "score": 15,
+      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Server"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Ars"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
     },
     {
-      "title": "Congress expels DCC member Suhail Shajahan from primary membership after arrest in extortion case",
-      "link": "https://www.thehindu.com/news/national/kerala/congress-expels-dcc-member-suhail-shajahan-from-primary-membership-after-arrest-in-extortion-case/article71714501.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-18T10:25:07+05:30",
-      "score": 14,
-      "summary": "Thiruvananthapuram DCC member Shajahan was arrested by Pettah police after allegedly demanding \u20b910 lakh from the complainant, Dr. Sabine Sivadasan, owner of a private hospital, in exchange for not circulating a fabricated defamatory content on WhatsApp groups and YouTube channels",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "PlayStation down live: Outage hits PlayStation hours before Grand Theft Auto 6's release - The Mirror",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHBXUXZBWWgxUHktYUlCa2psNDhaeURwNUc1UE5RdFF5Z2FMc1BlR1JuWHJUQ0l6WHZjOWplNkRqTlpfd0xnYVFKNF9CQ2hpMko3ZVNxOEFFd1haOTVoLTlLYmNCYURWTVpHUk5EQllMem12TnFLSlA5dkpLN0w2MklZRGlqaXU4YVc0?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-11-18T20:37:54+00:00",
+      "score": 15,
+      "summary": "PlayStation down live: Outage hits PlayStation hours before Grand Theft Auto 6's release The MirrorPlayStation suffers major outage hours before \"GTA VI\" launch AxiosPlayStation suffers widespread network problems hours before release of GTA VI The GuardianThis simple trick le...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "DCC",
-        "Suhail",
-        "Shajahan"
+        "Outage",
+        "PlayStation",
+        "Grand",
+        "Theft",
+        "Auto",
+        "Mirror"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6597,42 +6700,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "Google News"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
     },
-    {
-      "title": "\u092b\u093e\u0902\u0938\u0940 \u0915\u0940 \u0938\u091c\u093e \u092a\u0930 \u0930\u0938\u094d\u0938\u093e\u0915\u0936\u0940 : \u092e\u0943\u0924\u094d\u092f\u0941\u0926\u0902\u0921 \u092a\u0930 \u0930\u094b\u0915 \u0915\u0947 \u0916\u093f\u0932\u093e\u092b \u092d\u093e\u0930\u0924 \u0915\u093e \u092e\u0924\u0926\u093e\u0928",
-      "link": "https://www.thehindu.com/opinion/editorial/%E0%A4%AB%E0%A4%B8-%E0%A4%95-%E0%A4%B8%E0%A4%9C-%E0%A4%AA%E0%A4%B0-%E0%A4%B0%E0%A4%B8%E0%A4%B8%E0%A4%95%E0%A4%B6-%E0%A4%AE%E0%A4%A4%E0%A4%AF%E0%A4%A6%E0%A4%A1-%E0%A4%AA%E0%A4%B0-%E0%A4%B0%E0%A4%95-%E0%A4%95-%E0%A4%96%E0%A4%B2/article71714518.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-18T10:12:44+05:30",
-      "score": 10,
-      "summary": "\u092e\u0943\u0924\u094d\u092f\u0941\u0926\u0902\u0921 \u0915\u0947 \u0932\u093f\u090f \u090f\u0915 \u0910\u0938\u0940 \u0906\u092a\u0930\u093e\u0927\u093f\u0915 \u0928\u094d\u092f\u093e\u092f \u092a\u094d\u0930\u0923\u093e\u0932\u0940 \u0915\u0940 \u091c\u0930\u0942\u0930\u0924 \u0939\u094b\u0924\u0940 \u0939\u0948 \u091c\u093f\u0938\u092e\u0947\u0902 \u0917\u0932\u0924\u0940 \u0915\u0940 \u0917\u0941\u0902\u091c\u093e\u0907\u0936 \u0928 \u0915\u0947 \u092c\u0930\u093e\u092c\u0930 \u0939\u094b",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
     {
       "title": "Sam Altman says his life is so weird that he\u2019s unphased by Andrew Garfield portraying him in upcoming movie",
       "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unphased-by-andrew-garfield-portraying-him-in-upcoming-movie/",
@@ -13127,72 +13199,109 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "source": "Verge",
-      "timestamp": "2026-11-15T14:15:43-05:00",
-      "score": 14,
-      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rul...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nvidia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Flaming Hydra\u2019s new Kickstarter campaign rethinks e-book ownership and digital lending",
-      "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-15T18:29:14+00:00",
-      "score": 14,
-      "summary": "A new Kickstarter campaign aims to usher in the \u201creturn of the human internet.\u201d",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Hydras",
-        "Kickstarter"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "TechCrunch"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "World": [
+    {
+      "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
+      "link": "https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1",
+      "source": "FT",
+      "timestamp": "2026-11-18T20:40:19+00:00",
+      "score": 12,
+      "summary": "Colette Kress addresses all-hands meeting on Wednesday as departed founder Jensen Huang manoeuvres for a return to the chip giant",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "CEO"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "FT"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "U.S., Venezuela sign deal to re-establish military ties: Hegseth",
+      "link": "https://www.thehindu.com/news/international/us-venezuela-sign-deal-to-re-establish-military-ties-hegseth/article71717506.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-19T02:03:29+05:30",
+      "score": 14,
+      "summary": "The U.S. Defence Secretary said that following the January capture of Nicolas Maduro by the U.S. military, the country \u201chas gone from our most aggressive regional threat to a compliant security partner\u201d",
+      "country": "Venezuela",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Venezuela",
+        "Hegseth"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Live: ASX to open lower as Wall Street braces for Anthropic IPO",
+      "link": "https://www.abc.net.au/news/2026-11-19/asx-markets-business-news-live-updates-thursday-19-november/107401802",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-18T20:31:18+00:00",
+      "score": 12,
+      "summary": "The Aussie share market is set to open lower as Anthropic prepares to trade on the Nasdaq stock exchange. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ASX",
+        "Wall",
+        "Street",
+        "Anthropic",
+        "IPO"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Hegseth boasts about Maduro\u2019s capture while vowing to deepen US military cooperation with Venezuela",
       "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
@@ -19762,95 +19871,24 @@
       ],
       "trend_accel": "+58%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Oil prices today: Crude falls as US inventories rise; Iran tensions limit losses",
-      "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-falls-as-us-inventories-rise-iran-tensions-limit-losses/articleshow/135946781.cms",
-      "source": "Times of India",
-      "timestamp": "2026-11-18T08:34:32+05:30",
-      "score": 12,
-      "summary": "Oil prices declined on Wednesday as US crude stocks increased significantly, adding pressure to the market. Tensions between the United States and Iran, however, continue to limit the drop in prices. Recent hostilities, including drone attacks and interception efforts, have ra...",
+      "title": "Google turns to a volcano and rock-melting technology in a wild new bid to power AI",
+      "link": "https://www.marketwatch.com/story/google-turns-to-a-volcano-and-rock-melting-technology-in-a-wild-new-bid-to-power-ai-fbbe57ef?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "timestamp": "2026-11-18T20:39:00+00:00",
+      "score": 14,
+      "summary": "Google\u2019s agreement with Quaise is \u201ca bet on a first-of-a-kind technology,\u201d according to a Bernstein analyst.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Crude",
-        "Iran"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Israeli Parliament elects new Knesset Speaker backed by Netanyahu's opponents",
-      "link": "https://www.thehindu.com/news/international/israeli-parliament-elects-new-knesset-speaker-backed-by-netanyahus-opponents/article71714379.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-18T08:18:57+05:30",
-      "score": 12,
-      "summary": "The newly-elected Speaker is Matan Kahana, an ally of Gadi Eisenkot, the party leader currently working to form the next government and replace Mr. Netanyahu",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
+      "source_type": "Financial Publication",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Parliament",
-        "Knesset",
-        "Speaker",
-        "Netanyahus"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Haitians rally behind Bukele as Salvadoran troops battle gangs",
-      "link": "https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
-      "source": "France24",
-      "timestamp": "2026-11-18T02:42:21+00:00",
-      "score": 14,
-      "summary": "Thousands of Haitians took to the streets on Tuesday to urge El Salvador's President Nayib Bukele to keep fighting gangs, as his troops bolster security forces in the Caribbean nation. But experts warn that growing public support could turn to anger without a long-term plan to...",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Bukele",
-        "Salvadoran"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -19860,13 +19898,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "France24"
+        "MarketWatch"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Anthropic Leveraged ETF Race Heats Up Even Before Stock\u2019s Debut",
       "link": "https://www.livemint.com/market/anthropic-leveraged-etf-race-heats-up-even-before-stock-s-debut-11795033161402.html",
@@ -26485,24 +26521,24 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "7 smart reasons to sell a stock\u2014and my \u2018golden rule\u2019 for offloading shares, says hedge fund CEO",
-      "link": "https://www.cnbc.com/2026/11/17/when-to-sell-a-stock.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-17T17:33:05+00:00",
-      "score": 17,
-      "summary": "\"You need a clear, disciplined plan for when to sell,\" says Karen Finerman. Here are seven smart reasons to sell \u2014 and when not to sell.",
+      "title": "Insects on these sub\u2011Antarctic islands are bouncing back after invasive rats and mice were eradicated",
+      "link": "https://phys.org/news/2026-11-insects-subantarctic-islands-invasive-rats.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-18T15:40:14-05:00",
+      "score": 10,
+      "summary": "Island species typically evolve in isolation\u2014and often without many predators. As a result, islands are home to high numbers of unique species.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "CEO"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26510,15 +26546,42 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "Learning science one virtual escape room at a time",
+      "link": "https://phys.org/news/2026-11-science-virtual-room.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-18T15:40:03-05:00",
+      "score": 10,
+      "summary": "Albert Einstein's ghost is trapped inside a science laboratory, and he needs help escaping. Fortunately, a group of seventh graders is up to the challenge.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "In Antarctica's ice\u2011free areas, even footprints can damage rare microscopic ecosystems",
       "link": "https://phys.org/news/2026-11-antarctica-icefree-areas-footprints-rare.html",
@@ -32598,68 +32661,6 @@
         "Phys.org"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "From 400 miles above Earth, AI tracks invasive leafy spurge",
-      "link": "https://phys.org/news/2026-11-miles-earth-ai-tracks-invasive.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-16T13:20:15-05:00",
-      "score": 17,
-      "summary": "Harnessing satellite imagery, AI deep-learning models and community science data, scientists from the University of Minnesota have tracked the spread of leafy spurge over a 20-year period.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Earth"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Ancient tree rings and ice cores help pin down when Babylonia fell",
-      "link": "https://phys.org/news/2026-11-ancient-tree-ice-cores-pin.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-16T13:20:12-05:00",
-      "score": 12,
-      "summary": "We know quite a lot about ancient Mesopotamia, the historical region spanning modern-day Iraq and parts of Syria and Turkey, such as who ruled and the order in which kings succeeded one another. But pinning down exact calendar dates for historical events has been trickier.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Babylonia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+44%",
       "heat_level": "LOW"
     }
   ],
@@ -39334,6 +39335,82 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "\u2018D\u00ecdi\u2019s Sean Wang To Direct \u2018How To Rule The World\u2019 For Warner Bros.",
+      "link": "https://deadline.com/2026/11/sean-wang-to-direct-how-to-rule-the-world-warner-bros-1237228369/",
+      "source": "Deadline",
+      "timestamp": "2026-11-18T20:45:00+00:00",
+      "score": 12,
+      "summary": "EXCLUSIVE: In 2023, Warner Bros. and Amy Pascal snatched up rights to a Theo Baker bestseller, How to Rule the World: An Education in Power at Stanford University, in a competitive auction. We broke that story, and now, we can tell you that the project has a director in Sean W...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sean",
+        "Wang",
+        "Direct",
+        "How",
+        "Rule",
+        "World",
+        "Warner",
+        "Bros"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "The Good List: 6 Things to Bring Some Delight to Your Day",
+      "link": "https://www.nytimes.com/2026/11/18/briefing/the-good-list-leonids-travel-capote.html",
+      "source": "NYT",
+      "timestamp": "2026-11-18T20:41:41+00:00",
+      "score": 15,
+      "summary": "Making friends on airplanes, anticipation music and Truman Capote\u2019s effects.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Good",
+        "List",
+        "Things",
+        "Bring",
+        "Some",
+        "Delight",
+        "Your",
+        "Day"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Skydance Chief Marketing Officer Rebecca Mall Sets Leadership Team, WBD\u2019s Meg Maro To Depart",
       "link": "https://deadline.com/2026/11/skydance-chief-marketing-officer-rebecca-mall-leam-meg-maro-1237228359/",
@@ -47258,94 +47335,50 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Kids Competition Series \u2018Shrunk\u2019 Set at Amazon Kids+, CBC, ITV From Insight, Dark Slope, Irad Eyal (EXCLUSIVE)",
-      "link": "https://variety.com/2026/tv/news/kids-competition-series-shrunk-amazon-kids-cbc-itv-1236950683/",
-      "source": "Variety",
-      "timestamp": "2026-11-17T21:00:00+00:00",
-      "score": 12,
-      "summary": "The kids competition series \u201cShrunk\u201d has been greenlit at Amazon Kids+, CBC, and ITV, Variety has learned exclusively. The first season will consist of six 30-minute episodes. The format hails from Insight Productions, Dark Slope, and Irad Eyal (\u201cFloor Is Lava\u201d). Pre-productio...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Competition",
-        "Series",
-        "Shrunk",
-        "Set",
-        "Amazon",
-        "Kids",
-        "CBC",
-        "ITV",
-        "Insight",
-        "Dark",
-        "Slope",
-        "Irad",
-        "Eyal",
-        "EXCLUSIVE"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Diane Keaton\u2019s \u2018Memory Is Honored in Everything\u2018 in \u2018Family Stone\u2019 Sequel, Says Star Dermot Mulroney",
-      "link": "https://variety.com/2026/film/news/dermot-mulroney-diane-keaton-family-stone-sequel-1236950731/",
-      "source": "Variety",
-      "timestamp": "2026-11-17T20:48:43+00:00",
-      "score": 12,
-      "summary": "The Stone family is reuniting more than two decades later to honor Diane Keaton in the sequel to \u201cThe Family Stone.\u201d Dermot Mulroney, who starred as Everett Stone in the 2005 holiday film, returns alongside original stars Sarah Jessica Parker and Rachel McAdams. Despite their ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Keatons",
-        "Memory",
-        "Honored",
-        "Everything",
-        "Family",
-        "Stone",
-        "Sequel",
-        "Says",
-        "Star",
-        "Dermot",
-        "Mulroney"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Variety"
-      ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
+    {
+      "title": "A Sound Recipe: Ina Garten Was Honored at the New York Public Radio Gala",
+      "link": "https://www.vogue.com/slideshow/ina-garten-new-york-public-radio-gala-2026",
+      "source": "Vogue",
+      "timestamp": "2026-11-18T20:38:14+00:00",
+      "score": 12,
+      "summary": "New York Public Radio turned up the volume at The Glasshouse on Tuesday night, welcoming more than 500 guests for its annual gala honoring the organization behind some of the city\u2019s best-known media outlets, including WNYC, WQXR, and Gothamist.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Sound",
+        "Recipe",
+        "Ina",
+        "Garten",
+        "Was",
+        "Honored",
+        "New",
+        "York",
+        "Public",
+        "Radio",
+        "Gala"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Vogue"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Hailey Bieber Wore One of Carolyn Bessette-Kennedy\u2019s Most Iconic Looks",
       "link": "https://www.vogue.com/article/hailey-bieber-carolyn-bessette-kennedy-jacket-2026-11-18",
@@ -52037,6 +52070,39 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 0.9 - 73 km WNW of Beluga, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wwmhbf",
+      "source": "USGS",
+      "timestamp": "2026-11-18T20:39:54.769000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-18 20:37:04 UTC2026-11-18 20:37:04 UTC at epicenterLocation61.412\u00b0N 152.326\u00b0WDepth21.10 km (13.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Beluga",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Green forest fire notification in India",
       "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033944",
@@ -58613,37 +58679,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 14 km SW of Westmorland, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41363015",
-      "source": "USGS",
-      "timestamp": "2026-11-17T15:41:32.467000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-17 15:27:25 UTC2026-11-17 15:27:25 UTC at epicenterLocation32.953\u00b0N 115.727\u00b0WDepth11.23 km (6.98 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Westmorland"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
