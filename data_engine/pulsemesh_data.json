@@ -295,7 +295,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.8,
+      "trend_score": 8.7,
       "source_count": 13,
       "sources_reporting": [
         "AP",
@@ -304,7 +304,7 @@
         "NYT",
         "The Hill"
       ],
-      "trend_accel": "+75%",
+      "trend_accel": "+74%",
       "heat_level": "SURGING"
     },
     {
@@ -13101,6 +13101,80 @@
   ],
   "World": [
     {
+      "title": "Live Updates: Trump Meets Philippine Leader Before Flying to China",
+      "link": "https://www.nytimes.com/live/2026/11/17/world/trump-asean-summit",
+      "source": "NYT",
+      "timestamp": "2026-11-18T03:14:40+00:00",
+      "score": 12,
+      "summary": "The next stop on President Trump\u2019s whirlwind Asia trip is the city of Shenzhen, where he is expected to meet with Xi Jinping of China and President Vladimir V. Putin of Russia.",
+      "country": "China",
+      "region": "East Asia",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Updates",
+        "Trump",
+        "Meets",
+        "Philippine",
+        "Leader",
+        "Before",
+        "Flying",
+        "China"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Oil prices today: Crude falls as US inventories rise; Iran tensions limit losses",
+      "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-falls-as-us-inventories-rise-iran-tensions-limit-losses/articleshow/135946781.cms",
+      "source": "Times of India",
+      "timestamp": "2026-11-18T08:34:32+05:30",
+      "score": 12,
+      "summary": "Oil prices declined on Wednesday as US crude stocks increased significantly, adding pressure to the market. Tensions between the United States and Iran, however, continue to limit the drop in prices. Recent hostilities, including drone attacks and interception efforts, have ra...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Crude",
+        "Iran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Israeli Parliament elects new Knesset Speaker backed by Netanyahu's opponents",
       "link": "https://www.thehindu.com/news/international/israeli-parliament-elects-new-knesset-speaker-backed-by-netanyahus-opponents/article71714379.ece",
       "source": "The Hindu",
@@ -19690,25 +19764,26 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Portugal coach Jorge Jesus responds to criticism from Ronaldo\u2019s mother",
-      "link": "https://www.aljazeera.com/sports/2026/11/17/cristiano-ronaldo-mother-portugal-coach-jorge-jesus?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-11-17T07:21:25+00:00",
+      "title": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2g0R1N2YjdZbGhhdmduT1VCa2RmZ0pScWhETjVaYTRUOUszXzRuYnM3SldxSWVuX0VnVG56TW5MVDdWM3ZQUEVDb3RKazJHVFBMYjMzWnhFdXFHRm5hSWpvRDdBYmF2aEhjNFNnZ2t2NjFsSk5RbnVYVEFldEg4RURQRDJpbnd5OVUteklQUGdaQi0tNEkzWV9vMzJoQ2hUQzY3SUJ6Qm9EcFkxdjZueW93a1ZzWndRUHBTNkJn?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-11-18T03:10:05+00:00",
       "score": 12,
-      "summary": "Ronaldo's mother said she was glad to see Jesus suffer his first defeat after he had 'deceived' her son.",
-      "country": "Portugal",
-      "region": "Europe",
-      "source_type": "Newswire",
+      "summary": "Leukemia vaccine passes key trial, adding to breakthrough year for cancer drugs The Washington PostVaccine Improves Survival in People with Acute Myeloid Leukemia (AML) Memorial Sloan Kettering Cancer CenterSellas marks 9-month survival benefit in late-stage leukemia vaccine s...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Jorge",
-        "Jesus",
-        "Ronaldos"
+        "Washington",
+        "Post"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19717,53 +19792,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "Al Jazeera"
+        "Google News"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Japan\u2019s Suica Penguin Mascot Is Retiring. Fans Are Taking It Hard.",
-      "link": "https://www.nytimes.com/2026/11/17/world/asia/japan-penguin-suica-card.html",
-      "source": "NYT",
-      "timestamp": "2026-11-17T07:18:56+00:00",
-      "score": 12,
-      "summary": "The Suica penguin has been a familiar presence on prepaid transit cards for more than 20 years. Its imminent retirement has prompted a wave of nostalgia.",
-      "country": "Japan",
-      "region": "East Asia",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Suica",
-        "Penguin",
-        "Mascot",
-        "Retiring",
-        "Fans",
-        "Are",
-        "Taking",
-        "Hard"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Business": [
     {
       "title": "JPMorgan is working on AI agent transactions that don\u2019t involve humans",
       "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
@@ -26411,35 +26446,6 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Nvidia investors will be clamoring for these answers during a historic earnings call",
-      "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-11-16T21:05:00+00:00",
-      "score": 10,
-      "summary": "There\u2019s a lot that Nvidia investors want to know about the post-Jensen Huang era \u2014 although management is likely to be tight-lipped on the topic of succession.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -32572,6 +32578,73 @@
     }
   ],
   "Sports": [
+    {
+      "title": "Scorecard: Australia vs England, series-deciding ODI, Hobart",
+      "link": "https://www.skysports.com/cricket/australia-v-england/scorecard/d90559a0-4f81-5681-aaff-f734570105a2",
+      "source": "Sky Sports",
+      "timestamp": "2026-11-18T03:15:00+00:00",
+      "score": 12,
+      "summary": "Latest score from the series-deciding third one-day international between Australia and England at Ninja Stadium in Hobart.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Australia",
+        "England",
+        "ODI",
+        "Hobart"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Sky Sports"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "England meet Australia in series-deciding third ODI LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13612700/australia-vs-england-third-odi-live-latest-cricket-score-and-updates-as-harry-brooks-side-face-mitch-marshs-team-in-series-decider-at-hobart",
+      "source": "Sky Sports",
+      "timestamp": "2026-11-18T03:10:00+00:00",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from Sky Sports.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Australia",
+        "ODI",
+        "LIVE"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Sky Sports"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Federal prosecutors: Clase told bettor to send money to Dominican Republic",
       "link": "https://www.espn.com/espn/betting/story/_/id/50515571/emmanuel-clase-told-bettor-send-money-dominican-republic-federal-prosecutors-show",
@@ -39165,71 +39238,6 @@
         "ESPN"
       ],
       "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Donovan Mitchell still believes in the Cavaliers, even if you don't",
-      "link": "https://www.espn.com/nba/story/_/id/50463020/donovan-mitchell-cleveland-cavaliers-extension",
-      "source": "ESPN",
-      "timestamp": "2026-11-13T16:22:33-05:00",
-      "score": 12,
-      "summary": "Mitchell made two commitments this summer: his marriage and his extension with the Cavs. Now it's up to him to keep pushing Cleveland forward.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Sports Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mitchell",
-        "Cavaliers"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ESPN"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The Pirates are open-minded about improving, but they have zeroed in on one clear need - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZGVjNlprSDdTVDI1UWdYS3duRWp1TWxxbk55UDBEWERGWnk5ZFNVeVVJcFpMc3RqT21UVm5ONGw3LVhieTlUQXpJZVR0elR6dWFFMG1jUEVyWWo5VktKT3lGN0ppTG8wS25YMjgxNkFBbmdKRWpZZ3lCQjVMTUcya2xKdUs2am1PcmMxT2xtZUFtckFYWFI5OVZnU1RHTzVqaTllT2h0NzRvMVd0NEs5VGM5NEhQQQ?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-11-13T21:01:42+00:00",
-      "score": 12,
-      "summary": "The Pirates are open-minded about improving, but they have zeroed in on one clear need Pittsburgh Post-GazettePirates GM Has Revealing Comments on Offseason Plans Yahoo SportsKevin Gorman\u2019s Take 5: For Pirates GM, 2026 \u2018wasn\u2019t good enough,\u2019 seeks to grab more wins TribLIVE.com...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pirates",
-        "Pittsburgh",
-        "PostGazette"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ],
@@ -48492,7 +48500,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.0,
+      "trend_score": 7.9,
       "source_count": 17,
       "sources_reporting": [
         "GQ",
@@ -48501,7 +48509,7 @@
         "PBS",
         "Vogue"
       ],
-      "trend_accel": "+73%",
+      "trend_accel": "+72%",
       "heat_level": "SURGING"
     },
     {
@@ -52046,6 +52054,74 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 4.4 - 69 km S of Boca de Yuma, Dominican Republic",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tywm",
+      "source": "USGS",
+      "timestamp": "2026-11-18T03:12:53.341000+00:00",
+      "score": 15,
+      "summary": "DYFI? - IIITime2026-11-18 02:46:17 UTC2026-11-18 02:46:17 UTC at epicenterLocation17.753\u00b0N 68.550\u00b0WDepth43.17 km (26.83 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Boca",
+        "Yuma",
+        "Dominican",
+        "Republic"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.5 - 58 km ENE of Pedro Bay, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026wvdeui",
+      "source": "USGS",
+      "timestamp": "2026-11-18T03:07:54.111000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-18 03:04:55 UTC2026-11-18 03:04:55 UTC at epicenterLocation59.990\u00b0N 153.141\u00b0WDepth10.40 km (6.46 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Pedro",
+        "Bay",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+59%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 2.0 - 10 km NE of P\u0101hala, Hawaii",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75071667",
@@ -58506,70 +58582,6 @@
       "topic_tags": [],
       "entities": [
         "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.7 - 6 km WSW of Gilroy, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75467152",
-      "source": "USGS",
-      "timestamp": "2026-11-16T18:55:50.048000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-16 18:54:12 UTC2026-11-16 18:54:12 UTC at epicenterLocation36.982\u00b0N 121.631\u00b0WDepth4.95 km (3.08 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Gilroy"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 41 km S of Goldfield, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00927055",
-      "source": "USGS",
-      "timestamp": "2026-11-16T18:54:10.285000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-16 18:51:42 UTC2026-11-16 18:51:42 UTC at epicenterLocation37.336\u00b0N 117.265\u00b0WDepth4.03 km (2.51 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Goldfield",
-        "Nevada"
       ],
       "severity_score": 3,
       "alert_level": "low",
