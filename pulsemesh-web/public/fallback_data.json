@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "Food and Drug Administration seizes 20,085 litres of oil in Pune over violations of standards",
+      "link": "https://www.thehindu.com/news/national/maharashtra/food-and-drug-administration-seizes-20085-litres-of-oil-in-pune-over-violations-of-standards/article71718512.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-19T07:08:03+05:30",
+      "score": 15,
+      "summary": "Officers conducted the operation at a facility of Avenue Supermarts Limited located in Ambi village and took possession of the stock at the warehouse over a breach of the rules that govern the food sector",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Drug",
+        "Administration",
+        "Pune"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Obama Tells Incoming House Democrats to Keep Up Outreach in Red Areas",
       "link": "https://www.nytimes.com/2026/11/18/us/politics/barack-obama-house-democrats.html",
       "source": "NYT",
@@ -2502,7 +2535,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.1,
+      "trend_score": 9.0,
       "source_count": 14,
       "sources_reporting": [
         "Bloomberg",
@@ -3808,7 +3841,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.8,
+      "trend_score": 10.7,
       "source_count": 16,
       "sources_reporting": [
         "AP",
@@ -3818,7 +3851,7 @@
         "PBS",
         "The Hill"
       ],
-      "trend_accel": "+81%",
+      "trend_accel": "+80%",
       "heat_level": "CRITICAL"
     },
     {
@@ -6616,24 +6649,29 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Annamalai flays TVK-led govt. over delay in appointing Cauvery technical cell vice-chairman",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/annamalai-flays-tvk-led-govt-over-delay-in-appointing-cauvery-technical-cell-vice-chairman/article71715094.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-18T15:03:37+05:30",
+      "title": "Elon Musk tries to explain what\u2019s going on with Ukraine and Starlink",
+      "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "source": "Verge",
+      "timestamp": "2026-11-18T20:39:45-05:00",
       "score": 14,
-      "summary": "The delay in filling such a crucial position raises questions about the government\u2019s administrative efficiency and sense of responsibility, he says",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBook Summit on Wednesday as h...",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "TVKled",
-        "Cauvery"
+        "Musk",
+        "Ukraine",
+        "Starlink"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6642,15 +6680,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
@@ -13184,24 +13220,28 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
-      "link": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-16T13:00:00+00:00",
-      "score": 17,
-      "summary": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
+      "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit \u2013 live",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "source": "Guardian",
+      "timestamp": "2026-11-19T01:39:21+00:00",
+      "score": 14,
+      "summary": "Asked by Fox News about China\u2019s alleged spying operation, president says: \u2018We spy on them too. I think we spy better than they do.\u2019Sign up for US breaking News emailLinked to that, the White House held a briefing call with several reporters today about the wave of tech outages...",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [],
+      "topic_tags": [
+        "Geopolitics"
+      ],
       "entities": [
-        "Energy",
-        "AIenabled"
+        "Nvidia",
+        "China"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13210,15 +13250,78 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "Guardian"
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Gukesh asked to distance himself from 'what people are saying' ahead of World Championship",
+      "link": "https://timesofindia.indiatimes.com/sports/chess/in-the-land-of-frankenstein-gukesh-asked-to-distance-himself-from-what-people-are-saying-ahead-of-world-chess-championship/articleshow/135974914.cms",
+      "source": "Times of India",
+      "timestamp": "2026-11-19T07:01:43+05:30",
+      "score": 12,
+      "summary": "Set against Cologny\u2019s literary history, where Frankenstein and The Vampyre were conceived, the 2026 World Chess Championship pits reigning champion D Gukesh against Uzbekistan\u2019s Javokhir Sindarov. Former challenger Peter Leko believes Gukesh must distance himself from expectat...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "World",
+        "Championship"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump, Xi and Putin to hold high-stakes trilateral summit",
+      "link": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
+      "source": "FT",
+      "timestamp": "2026-11-19T01:31:05+00:00",
+      "score": 14,
+      "summary": "Historic event in southern Chinese city of Shenzhen is culmination of a week of high-stakes diplomacy",
+      "country": "Russia",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Putin"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "FT"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Muslims to outnumber Christians by 2035 worldwide: Pew research",
       "link": "https://www.thehindu.com/news/international/muslims-to-outnumber-christians-by-2035-worldwide-pew-research/article71718507.ece",
@@ -19765,99 +19868,6 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Family First disendorses election candidate over 'unacceptable' posts",
-      "link": "https://www.abc.net.au/news/2026-11-18/family-first-candidate-bendigo-west-disendorsed/107400960",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-18T07:57:30+00:00",
-      "score": 14,
-      "summary": "Family First says it regrets not picking up the online material during vetting.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "First"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Royal commission quizzes bikie on $165k bill for mystery work",
-      "link": "https://www.abc.net.au/news/2026-11-18/big-build-royal-commission-bikie-invoices-labour-hire/107399292",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-18T07:54:33+00:00",
-      "score": 13,
-      "summary": "Victoria's Big Build royal commission has told a Bandidos patched member he was \"nothing more than a bikie heavy\" that took \"full advantage of the CFMEU's power\" while working on public projects.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-11-18T07:48:18+00:00",
-      "score": 12,
-      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-      "country": "Philippines",
-      "region": "Southeast Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Thomas",
-        "Markle"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 7,
-      "sources_reporting": [
-        "ABC Australia",
-        "BBC"
-      ],
-      "trend_accel": "+65%",
-      "heat_level": "SURGING"
     }
   ],
   "Business": [
@@ -26564,6 +26574,35 @@
   ],
   "Science": [
     {
+      "title": "New mixing benchmark could help industry reduce energy use in stirred tanks",
+      "link": "https://phys.org/news/2026-11-benchmark-industry-energy-tanks.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-18T20:40:01-05:00",
+      "score": 10,
+      "summary": "Solid\u2013liquid mixing, where particles are dispersed in a liquid, is essential in many industrial processes such as slurry preparation, crystallization, precipitation, adsorption and dissolution. In such cases, effective mixing is critical for contact between particles and liqui...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Researchers trace how gut microbes transform dietary plant sterols into circulating sulfated metabolites",
       "link": "https://phys.org/news/2026-11-gut-microbes-dietary-sterols-circulating.html",
       "source": "Phys.org",
@@ -32688,35 +32727,6 @@
         "Phys.org"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "AI tool counts mosquito eggs in smartphone photos to aid surveillance",
-      "link": "https://phys.org/news/2026-11-ai-tool-mosquito-eggs-smartphone.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-16T18:00:06-05:00",
-      "score": 12,
-      "summary": "Your mission, should you choose to accept it: Track down and identify thousands of nearly microscopic mosquito eggs hiding in plain sight. Your only weapon? A smartphone armed with artificial intelligence.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -39391,6 +39401,80 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Pierce Brosnan Bonds With Robert Pattinson Over 007 Role",
+      "link": "https://deadline.com/2026/11/pierce-brosnan-robert-pattinson-james-bond-advice-1237228669/",
+      "source": "Deadline",
+      "timestamp": "2026-11-19T01:35:26+00:00",
+      "score": 15,
+      "summary": "Former James Bond actor George Lazenby the other day called it \u201cthe most exclusive club in the world.\u201d Today, another of the three other people in that club who are still alive greeted Robert Pattinson\u2019s entry into the double-o ranks. \u201cDear Robert, Welcome to the world of Bond...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Brosnan",
+        "Bonds",
+        "Robert",
+        "Pattinson",
+        "Over",
+        "Role"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Lainey Wilson Looks So Different Without Signature Bell Bottoms & Hat",
+      "link": "https://www.eonline.com/news/1438238/cmas-2026-lainey-wilson-looks-different-without-bell-bottoms-cowgirl-hat?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-11-19T01:35:17+00:00",
+      "score": 14,
+      "summary": "Lainey Wilson is stepping away from bell bottom country. The \u201cHeart Like a Truck\u201d singer ditched her signature flare pants and Western hat for a classic Oscar de la Renta gown at the 2026 CMA...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Wilson",
+        "Looks",
+        "Different",
+        "Without",
+        "Signature",
+        "Bell",
+        "Bottoms",
+        "Hat"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "CMA Awards 2026: The Complete List of Winners (Updating)",
       "link": "https://variety.com/2026/music/news/cma-awards-winners-2026-complete-list-1236952628/",
@@ -47257,94 +47341,6 @@
         "E! News"
       ],
       "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Noah Kahan Address Grammy Snub in the Most Noah Kahan Way: \u2018Let\u2019s Move on Together\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/noah-kahan-grammys-snub-addresses-1235660017/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-11-18T01:05:12+00:00",
-      "score": 12,
-      "summary": "\"I'm happy that I feel shitty because it means that I cared about something,\" said Kahan during his London stop",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Kahan",
-        "Address",
-        "Grammy",
-        "Snub",
-        "Most",
-        "Noah",
-        "Way",
-        "Lets",
-        "Move",
-        "Together"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Dancing With the Stars\u2019 Couples Perform Double Dances in Semi-Finals for a Shot at Season 35 Finale: See the Scores, Who Went Home (Updating Live)",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-semi-finals-week-10-recap-scores-elimination-1236757850/",
-      "source": "THR",
-      "timestamp": "2026-11-18T00:58:00+00:00",
-      "score": 15,
-      "summary": "Contestants will perform a ballroom dance, and a second performance in the Latin style in Tuesday's semi-finals.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Stars",
-        "Couples",
-        "Perform",
-        "Double",
-        "Dances",
-        "SemiFinals",
-        "Shot",
-        "Season",
-        "Finale",
-        "See",
-        "Scores",
-        "Who",
-        "Went",
-        "Home",
-        "Updating",
-        "Live"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
