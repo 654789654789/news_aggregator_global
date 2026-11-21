@@ -6596,6 +6596,35 @@
   ],
   "Tech": [
     {
+      "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-21T21:37:10+00:00",
+      "score": 14,
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "TechCrunch"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "The UN fails to agree on rules regulating \u2018killer robots\u2019",
       "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
       "source": "Verge",
@@ -7374,8 +7403,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 9.9,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 14,
       "sources_reporting": [
         "Guardian",
@@ -8642,15 +8671,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 9,
+      "trending": true,
+      "trend_score": 8.3,
+      "source_count": 17,
       "sources_reporting": [
+        "AP",
+        "Guardian",
+        "NPR",
         "TechCrunch",
         "Verge"
       ],
-      "trend_accel": "+68%",
-      "heat_level": "HOT"
+      "trend_accel": "+74%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
@@ -13127,25 +13159,25 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Read everything that Nvidia\u2019s board chair had to say about Jensen Huang",
-      "link": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-      "source": "Verge",
-      "timestamp": "2026-11-17T17:32:50-05:00",
-      "score": 14,
-      "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Human health should factor in antibiotic decision, AMA says",
+      "link": "https://www.abc.net.au/news/2026-11-22/ama-florfenicol-apmva-decision-salmon-farming/107409898",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-21T21:34:51+00:00",
+      "score": 12,
+      "summary": "With the Tasmanian salmon industry seeking to again use an antibiotic to combat disease, the nation's peak doctors' group has urged the federal regulator to consider the human health and environmental risks before approving the request.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Nvidias",
-        "Jensen",
-        "Huang"
+        "AMA"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13154,15 +13186,106 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Drivers warn shouting for a taxi may become a catchcry of the past",
+      "link": "https://www.abc.net.au/news/2026-11-22/regional-taxis-struggling-to-stay-afloat-amid-rising-costs/107398456",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-21T21:33:53+00:00",
+      "score": 10,
+      "summary": "Regional taxi companies say they are under pressure, with rising fuel costs and being forced to pay up to 10 times more than rideshare drivers for their compulsory third-party insurance.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Tasmania Police officer shot on Flinders Island",
+      "link": "https://www.abc.net.au/news/2026-11-22/tasmania-police-officer-shot-flinders-island/107413692",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-21T21:31:19+00:00",
+      "score": 12,
+      "summary": "Tasmania Police says the male officer is in a serious-but-stable condition as investigations continue.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Police",
+        "Flinders",
+        "Island"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Bahrain says Iranian attack causes fire at industrial facility",
+      "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "timestamp": "2026-11-21T21:31:03+00:00",
+      "score": 14,
+      "summary": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newswire",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Iranian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Verge"
+        "Al Jazeera"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Intervention not jail: youth crime plea ahead of Victorian election",
       "link": "https://www.abc.net.au/news/2026-11-22/victoria-youth-crime-intervention-not-jail-state-election/107408732",
@@ -14777,8 +14900,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -15052,14 +15175,19 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 10.8,
+      "source_count": 16,
       "sources_reporting": [
-        "France24"
+        "BBC",
+        "France24",
+        "Guardian",
+        "NPR",
+        "PBS",
+        "The Hindu"
       ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
+      "trend_accel": "+81%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Turkey\u2019s Van Cats Contend With Rising Temperatures",
@@ -19566,141 +19694,6 @@
         "Guardian"
       ],
       "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
-      "link": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
-      "source": "Guardian",
-      "timestamp": "2026-11-20T18:22:50+00:00",
-      "score": 12,
-      "summary": "PM challenges rivals to rebuff plan he says could add 0.5% annual growth to economy and offer young people hopeSeveral sentences in to a slightly convoluted answer about where UK-EU relations might go next, Andy Burnham abruptly changed tack. \u201cThe important point is that Brita...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Burnham",
-        "Tories",
-        "Reform"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+53%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Denmark to expel Russian diplomat over attempt to kill US-Ukrainian rapper",
-      "link": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-      "source": "Guardian",
-      "timestamp": "2026-11-20T18:16:12+00:00",
-      "score": 14,
-      "summary": "Moscow suspected of being behind plan to kill Kyivstoner before a performance in DenmarkDenmark\u2019s foreign minister has said Russia\u2019s defence attach\u00e9 in Copenhagen would be expelled after Moscow was suspected of being behind an attempted killing of a US-Ukrainian rapper.\u201cWe hav...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Russian",
-        "USUkrainian"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 19,
-      "sources_reporting": [
-        "AP",
-        "BBC",
-        "Bloomberg",
-        "France24",
-        "Guardian",
-        "NPR"
-      ],
-      "trend_accel": "+86%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
-      "source": "Guardian",
-      "timestamp": "2026-11-20T18:06:52+00:00",
-      "score": 12,
-      "summary": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacksA secret government cybersecurity operation recently warded off the risk of a cyber-attack on fridges and freezers in UK supermarkets, warehouses, restaurants, petrol stations ...",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Guardian"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Mamdani unveils plan to close New York\u2019s Rikers Island by 2032",
-      "link": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
-      "source": "Al Jazeera",
-      "timestamp": "2026-11-20T17:54:55+00:00",
-      "score": 15,
-      "summary": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.",
-      "country": "Qatar",
-      "region": "Middle East",
-      "source_type": "Newswire",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "New",
-        "Yorks",
-        "Rikers",
-        "Island"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Al Jazeera"
-      ],
-      "trend_accel": "+45%",
       "heat_level": "LOW"
     }
   ],
@@ -32428,6 +32421,38 @@
   ],
   "Sports": [
     {
+      "title": "Ipswich latest: O'Neil reflects on 'tough afternoon' after Spurs loss",
+      "link": "https://www.skysports.com/football/live-blog/12040/13279317/ipswich-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "source": "Sky Sports",
+      "timestamp": "2026-11-21T21:31:00+00:00",
+      "score": 12,
+      "summary": "Strategic intelligence signal ingested from Sky Sports.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Sports Publication",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ONeil",
+        "Spurs"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Sky Sports"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Pelissero: Baker Mayfield has plantar fascia injury - NBC Sports",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRWJyeldZWnNjQzgwX0hGSlJtbkNFalFhcnp4UmlzZFcxMUU1R29jWWQ3cmUyV1d4UWNpSkIxNmlvbzdEX0lLakxZTWNLN1l2TTNqR3c1S3NORzVEcjZwSW1KVEVzcGZubGxhaXBvUVhKUUpFSnc5aTllbzVmTXVJaWdpOFZCUTdGMGcxZjFPRHEyWUZfY0R1c2hpQlN1NHYzSmpsdjZja2t0bEFMSF9rVVdOUHFTWFk?oc=5",
       "source": "Google News",
@@ -39010,24 +39035,30 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Entertainment": [
     {
-      "title": "Week 10 winners and losers: Gibbs dominates, Mahomes has biggest game in 5 years",
-      "link": "https://www.espn.com/fantasy/football/story/_/page/FFSundayHighLows-50494331/nfl-week-10-fantasy-football-winners-losers-injuries-rankings-more",
-      "source": "ESPN",
-      "timestamp": "2026-11-15T18:57:02-05:00",
+      "title": "Donal Lunny, Pillar of the Irish Trad Revival, Dies at 79",
+      "link": "https://www.nytimes.com/2026/11/21/arts/music/donal-lunny-dead.html",
+      "source": "NYT",
+      "timestamp": "2026-11-21T21:33:25+00:00",
       "score": 15,
-      "summary": "Jahmyr Gibbs, Patrick Mahomes and Emmett Johnson put fantasy teams on their back in Week 10, while Jonathan Taylor and the Packers and Panthers' passing games had quiet days.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Sports Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "summary": "His work with luminaries like Christy Moore and Andy Irvine expanded the sonic boundaries of traditional Irish music while preserving its roots.",
+      "country": "Ireland",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Gibbs",
-        "Mahomes"
+        "Lunny",
+        "Pillar",
+        "Irish",
+        "Trad",
+        "Revival",
+        "Dies"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -39036,15 +39067,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "ESPN"
+        "NYT"
       ],
-      "trend_accel": "+48%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
-    }
-  ],
-  "Entertainment": [
+    },
     {
       "title": "Miley Cyrus, Maxx Morando Host Rehearsal Dinner Ahead of Wedding",
       "link": "https://www.eonline.com/news/1438314/miley-cyrus-maxx-morando-host-rehearsal-dinner-ahead-of-rumored-wedding?cmpid=rss-syndicate-genericrss-us-top_stories",
@@ -47110,50 +47139,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Doha Film Festival Lifts Off As Gulf States Remain On High Alert Amid Iran Strikes",
-      "link": "https://deadline.com/2026/11/doha-film-festival-opens-gulf-states-high-alert-iran-1237229957/",
-      "source": "Deadline",
-      "timestamp": "2026-11-20T09:49:37+00:00",
-      "score": 14,
-      "summary": "Qatar\u2019s The Doha Film Festival got off to an emotional start on Thursday evening after a nerve-wracking lead-up for its organizers amid regional geopolitical tensions sparked by the U.S.-Israeli war on Iran. Sara Ishaq\u2019s timely female-focused Yemen-set drama The Station opened...",
-      "country": "Qatar",
-      "region": "Middle East",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Military"
-      ],
-      "entities": [
-        "Film",
-        "Festival",
-        "Lifts",
-        "Off",
-        "Gulf",
-        "States",
-        "Remain",
-        "High",
-        "Alert",
-        "Amid",
-        "Iran",
-        "Strikes"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -51503,44 +51488,6 @@
       ],
       "trend_accel": "+61%",
       "heat_level": "HOT"
-    },
-    {
-      "title": "E.T., Phone Chanel! How Fashion\u2019s Labels Got Personal Again",
-      "link": "https://www.vogue.com/article/how-fashions-labels-got-personal-again",
-      "source": "Vogue",
-      "timestamp": "2026-11-14T21:39:45+00:00",
-      "score": 14,
-      "summary": "From Steven Spielberg\u2019s secret Chanel embroidery to love letters, playful logos, and little lambs, fashion is finding new ways to wear its heart on its sleeve\u2014or, rather, inside its lining.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Phone",
-        "Chanel",
-        "How",
-        "Fashions",
-        "Labels",
-        "Got",
-        "Personal",
-        "Again"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -51573,6 +51520,39 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.9 - 14 km NNE of Ashford, Washington",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714140802",
+      "source": "USGS",
+      "timestamp": "2026-11-21T21:38:50.840000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-21 21:36:04 UTC2026-11-21 21:36:04 UTC at epicenterLocation46.878\u00b0N 121.971\u00b0WDepth7.36 km (4.57 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNE",
+        "Ashford",
+        "Washington"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
       "heat_level": "LOW"
     },
     {
@@ -58009,37 +57989,6 @@
         "USGS"
       ],
       "trend_accel": "+60%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.6 - 8 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75469322",
-      "source": "USGS",
-      "timestamp": "2026-11-20T20:13:09.228000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-20 20:11:32 UTC2026-11-20 20:11:32 UTC at epicenterLocation38.832\u00b0N 122.817\u00b0WDepth1.95 km (1.21 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
