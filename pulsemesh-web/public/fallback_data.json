@@ -18654,7 +18654,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 16,
       "sources_reporting": [
         "BBC",
@@ -18664,7 +18664,7 @@
         "PBS",
         "Reuters"
       ],
-      "trend_accel": "+82%",
+      "trend_accel": "+81%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19116,7 +19116,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.6,
+      "trend_score": 10.5,
       "source_count": 15,
       "sources_reporting": [
         "FT",
@@ -19126,7 +19126,7 @@
         "NPR",
         "Reuters"
       ],
-      "trend_accel": "+79%",
+      "trend_accel": "+78%",
       "heat_level": "CRITICAL"
     },
     {
@@ -51358,6 +51358,70 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 2.0 - 18 km ENE of Little Lake, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364375",
+      "source": "USGS",
+      "timestamp": "2026-11-21T04:58:33.538000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-21 04:54:57 UTC2026-11-21 04:54:57 UTC at epicenterLocation36.008\u00b0N 117.723\u00b0WDepth1.60 km (0.99 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Little",
+        "Lake"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.6 - 7 km NW of Pinnacles, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75469587",
+      "source": "USGS",
+      "timestamp": "2026-11-21T04:53:14.146000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-21 04:51:39 UTC2026-11-21 04:51:39 UTC at epicenterLocation36.576\u00b0N 121.195\u00b0WDepth6.27 km (3.90 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pinnacles"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 1.0 - 70 km E of Port Alsworth, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xauoqp",
       "source": "USGS",
@@ -57767,68 +57831,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 10 km S of Idyllwild, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41363983",
-      "source": "USGS",
-      "timestamp": "2026-11-20T06:00:09.182000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-20 05:56:42 UTC2026-11-20 05:56:42 UTC at epicenterLocation33.648\u00b0N 116.740\u00b0WDepth13.58 km (8.44 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Idyllwild"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 8 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468667",
-      "source": "USGS",
-      "timestamp": "2026-11-20T05:57:07.948000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-20 05:55:29 UTC2026-11-20 05:55:29 UTC at epicenterLocation38.834\u00b0N 122.818\u00b0WDepth1.91 km (1.19 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+60%",
       "heat_level": "LOW"
     }
   ]
