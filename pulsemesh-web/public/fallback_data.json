@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "Democrats secure largest House majority in election in three decades",
+      "link": "https://thehill.com/homenews/house/6236301-democrats-secure-house-majority/",
+      "source": "The Hill",
+      "timestamp": "2026-11-22T21:33:52+00:00",
+      "score": 14,
+      "summary": "Democrats have secured the largest House majority in a regular election in decades, following their notable 2026 midterm election victories in regions where they have historically struggled. According to Decision Desk HQ, Democrats are projected to lock down 258 seats in the H...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "House"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "El-Sayed would pass Medicare for All as \u2018TrumpCare\u2019: \u2018I don\u2019t really care what it\u2019s called",
       "link": "https://thehill.com/homenews/senate/6235945-abdul-el-sayed-trumpcare-medicare-all/",
       "source": "The Hill",
@@ -6161,7 +6192,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.5,
+      "trend_score": 7.4,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -6501,26 +6532,27 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Cotton claims Lutnick ignored his \u2018many letters\u2019 warning of chip sales to China",
-      "link": "https://thehill.com/policy/technology/6235143-senator-warned-commerce-lutnick-nvidia-chips/",
-      "source": "The Hill",
-      "timestamp": "2026-11-21T14:51:28+00:00",
-      "score": 14,
-      "summary": "Sen. Tom Cotton (R-Ark.) said Commerce Secretary Howard Lutnick repeatedly ignored his warnings about U.S. AI chips being smuggled into China, long before reports surfaced about former Nvidia CEO Jensen Huang\u2019s extramarital affair with an alleged Chinese spy. \u201cIf Howard Lutnic...",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Newspaper",
+      "title": "\u2018You Can See Everything\u2019 has made more than $100M worldwide",
+      "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-22T21:42:48+00:00",
+      "score": 15,
+      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
+      "topic_tags": [],
       "entities": [
-        "Lutnick",
-        "China"
+        "Can",
+        "See",
+        "Everything"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6529,15 +6561,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "The Hill"
+        "TechCrunch"
       ],
-      "trend_accel": "+43%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
       "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
@@ -13037,40 +13067,43 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "China dominates battery graphite, but this startup could break the monopoly",
-      "link": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-18T11:00:00+00:00",
-      "score": 10,
-      "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+      "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "source": "Guardian",
+      "timestamp": "2026-11-22T21:33:44+00:00",
+      "score": 14,
+      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to RussiaA Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-ti...",
+      "country": "Ukraine",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [
         "Geopolitics"
       ],
-      "entities": [],
+      "entities": [
+        "Benghazi",
+        "Ukrainian"
+      ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": false,
+      "breaking": true,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "Guardian"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+56%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Israel\u2019s Eisenkot slams \u2018Jewish terrorism\u2019 after attacks by settlers in West Bank",
       "link": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
@@ -19548,38 +19581,6 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Nepal PM to reach Delhi on Sunday for first foreign bilateral trip - what's on agenda",
-      "link": "https://timesofindia.indiatimes.com/india/nepal-pm-balendra-shah-to-reach-delhi-on-sunday-for-his-first-foreign-bilateral-trip-whats-on-agenda/articleshow/136057927.cms",
-      "source": "Times of India",
-      "timestamp": "2026-11-21T21:19:23+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from Times of India.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Delhi",
-        "Sunday"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Times of India"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -23718,7 +23719,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.2,
+      "trend_score": 10.1,
       "source_count": 19,
       "sources_reporting": [
         "AP",
@@ -23728,7 +23729,7 @@
         "Google News",
         "MarketWatch"
       ],
-      "trend_accel": "+79%",
+      "trend_accel": "+78%",
       "heat_level": "CRITICAL"
     },
     {
@@ -26180,6 +26181,35 @@
     }
   ],
   "Science": [
+    {
+      "title": "Common medications may secretly rewire your gut, with effects lasting for years",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
+      "source": "SciDaily",
+      "timestamp": "2026-11-22T16:35:19-05:00",
+      "score": 10,
+      "summary": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments, can leave microbi...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "SciDaily"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Silver briefly forms a rare crystal structure seen in radioactive polonium",
       "link": "https://phys.org/news/2026-11-silver-briefly-rare-crystal-radioactive.html",
@@ -32286,41 +32316,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Cincinnati Zoo trying to shake loose Fiona the hippo after she swallowed a hat",
-      "link": "https://phys.org/news/2026-11-cincinnati-zoo-loose-fiona-hippo.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-19T05:20:06-05:00",
-      "score": 12,
-      "summary": "Fiona, the Cincinnati Zoo's famed hippo, underwent a colonoscopy this week, and now veterinarians are trying a new way to help her pass a knit cap that she swallowed after it slipped into her enclosure.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Zoo",
-        "Fiona"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 15,
-      "sources_reporting": [
-        "Bloomberg",
-        "Guardian",
-        "NPR",
-        "Phys.org"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "HOT"
     }
   ],
   "Sports": [
@@ -38952,6 +38947,93 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Mahershala Ali Says \u201cThere Are Not Roles for Me\u201d in \u201cVast Majority of Projects,\u201d Despite Winning 2 Oscars",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/mahershala-ali-no-roles-majority-projects-despite-oscar-wins-1236760722/",
+      "source": "THR",
+      "timestamp": "2026-11-22T21:41:46+00:00",
+      "score": 15,
+      "summary": "The actor previously took home Academy Awards for best supporting actor for 2016\u2019s 'Moonlight' and 2018's 'Green Book.'",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ali",
+        "Says",
+        "There",
+        "Are",
+        "Not",
+        "Roles",
+        "Vast",
+        "Majority",
+        "Projects",
+        "Despite",
+        "Winning",
+        "Oscars"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Glee\u2019 Star Chris Colfer Says He Forgot Kurt Hummel \u2018Meant So Much to People\u2019 Because of the \u2018Homophobia and Hatred\u2019 He Experienced on the Show",
+      "link": "https://variety.com/2026/tv/news/glee-chris-colfer-kurt-homophobia-1236955465/",
+      "source": "Variety",
+      "timestamp": "2026-11-22T21:31:30+00:00",
+      "score": 12,
+      "summary": "Chris Colfer is opening up about what it meant to play his now-beloved \u201cGlee\u201d character, Kurt Hummel, a month after reuniting on stage with his on-screen love interest and co-star, Darren Criss. Criss (who played Blaine Anderson on the hit show) and Colfer surprised audiences ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Star",
+        "Chris",
+        "Colfer",
+        "Says",
+        "Forgot",
+        "Kurt",
+        "Hummel",
+        "Meant",
+        "Much",
+        "People",
+        "Because",
+        "Homophobia",
+        "Hatred",
+        "Experienced",
+        "Show"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "\u2018Cameron Winter\u2019 Shines In Vibrant Indie Weekend, \u2018Elsinore\u2019 Opens Strong \u2014 Specialty Box Office",
       "link": "https://deadline.com/2026/11/indie-film-box-office-elisnore-cameron-winter-at-carnegie-hall-1237231210/",
@@ -46991,89 +47073,6 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Hunger Games: Sunrise on the Reaping\u2019 Hunts Down $21M in Box Office Previews",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-previews-1236760000/",
-      "source": "THR",
-      "timestamp": "2026-11-20T17:12:26+00:00",
-      "score": 15,
-      "summary": "Joseph Zada leads the cast for the sixth film in the Lionsgate franchise that last hit theaters with 2023 prequel 'The Ballad of Songbirds & Snakes.'",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Games",
-        "Sunrise",
-        "Reaping",
-        "Hunts",
-        "Down",
-        "Box",
-        "Office",
-        "Previews"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 17,
-      "sources_reporting": [
-        "Bloomberg",
-        "Deadline",
-        "Guardian",
-        "NPR",
-        "THR",
-        "Variety"
-      ],
-      "trend_accel": "+77%",
-      "heat_level": "CRITICAL"
-    },
-    {
-      "title": "Milana Vayntrub Joins Daisy Ridley, Catherine Zeta-Jones In Tate Taylor Thriller \u2018Cupid\u2019",
-      "link": "https://deadline.com/2026/11/milana-vayntrub-cupid-1237230124/",
-      "source": "Deadline",
-      "timestamp": "2026-11-20T17:06:52+00:00",
-      "score": 14,
-      "summary": "EXCLUSIVE: The Project Hail Mary star and AT&T spokeswoman, Milana Vayntrub, is boarding Tate Taylor\u2019s marriage counselor thriller which we first told you about, Cupid. Vayntrub will star opposite previously announced Daisy Ridley, Catherine Zeta-Jones, Judy Greer, Travis Fimm...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Vayntrub",
-        "Joins",
-        "Daisy",
-        "Ridley",
-        "Catherine",
-        "ZetaJones",
-        "Tate",
-        "Taylor",
-        "Thriller",
-        "Cupid"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Deadline"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -51492,6 +51491,102 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.0 - 8 km NW of Pinnacles, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75470757",
+      "source": "USGS",
+      "timestamp": "2026-11-22T21:43:52.380000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-22 21:40:23 UTC2026-11-22 21:40:23 UTC at epicenterLocation36.583\u00b0N 121.212\u00b0WDepth5.79 km (3.60 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pinnacles"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.2 - 46 km NNW of Valdez, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xdykot",
+      "source": "USGS",
+      "timestamp": "2026-11-22T21:40:34.575000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-22 21:38:29 UTC2026-11-22 21:38:29 UTC at epicenterLocation61.499\u00b0N 146.740\u00b0WDepth19.80 km (12.30 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "NNW",
+        "Valdez",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.5 - south of the Fiji Islands",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucu8",
+      "source": "USGS",
+      "timestamp": "2026-11-22T21:36:25.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-22 20:59:41 UTC2026-11-22 20:59:41 UTC at epicenterLocation22.078\u00b0S 178.177\u00b0WDepth381.83 km (237.26 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Fiji",
+        "Islands"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
       "heat_level": "LOW"
     },
     {
@@ -57848,101 +57943,6 @@
         "USGS"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.6 - 7 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75469902",
-      "source": "USGS",
-      "timestamp": "2026-11-21T15:19:09.965000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-21 15:17:34 UTC2026-11-21 15:17:34 UTC at epicenterLocation38.823\u00b0N 122.811\u00b0WDepth2.76 km (1.71 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+62%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 12 km E of Healy, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xbplml",
-      "source": "USGS",
-      "timestamp": "2026-11-21T15:11:24.485000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-21 15:10:22 UTC2026-11-21 15:10:22 UTC at epicenterLocation63.857\u00b0N 148.704\u00b0WDepth0.40 km (0.25 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Healy",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.2 - 99 km NW of Yakutat, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xbpiof",
-      "source": "USGS",
-      "timestamp": "2026-11-21T15:08:15.563000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-21 15:06:59 UTC2026-11-21 15:06:59 UTC at epicenterLocation60.148\u00b0N 141.036\u00b0WDepth20.60 km (12.80 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Yakutat",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+53%",
       "heat_level": "LOW"
     }
   ]
