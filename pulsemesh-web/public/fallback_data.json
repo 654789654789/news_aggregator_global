@@ -1,6 +1,109 @@
 {
   "Politics": [
     {
+      "title": "Gas up 56 cents from last year ahead of Thanksgiving: AAA",
+      "link": "https://thehill.com/business/6241030-gas-prices-up-thanksgiving/",
+      "source": "The Hill",
+      "timestamp": "2026-11-24T21:09:41+00:00",
+      "score": 15,
+      "summary": "Gas is up $0.56 from a year ago as people travel for Thanksgiving later this week, according to AAA. The average price of a regular gallon of gas in the U.S. was at about $3.61 on Tuesday afternoon, according to AAA. In comparison, the price of that same gallon was at about $3...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Thanksgiving",
+        "AAA"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+      "source": "NPR",
+      "timestamp": "2026-11-24T16:04:50-05:00",
+      "score": 15,
+      "summary": "Strategic intelligence signal ingested from NPR.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Iranian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NPR"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Trump Awards Rudy Giuliani Presidential Medal of Freedom",
+      "link": "https://www.nytimes.com/2026/11/24/us/politics/trump-rudy-giuliani-presidential-medal-of-freedom.html",
+      "source": "NYT",
+      "timestamp": "2026-11-24T21:01:40+00:00",
+      "score": 12,
+      "summary": "The award honored a Trump ally who was once known as \u201cAmerica\u2019s mayor\u201d but whose reputation was tarnished by his efforts to overturn the 2020 election on behalf of the president.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Awards",
+        "Rudy",
+        "Giuliani",
+        "Presidential",
+        "Medal",
+        "Freedom"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 8.7,
+      "source_count": 15,
+      "sources_reporting": [
+        "BBC",
+        "Guardian",
+        "NPR",
+        "NYT",
+        "The Hill"
+      ],
+      "trend_accel": "+74%",
+      "heat_level": "SURGING"
+    },
+    {
       "title": "Iran says 3 oil tankers hit underwater mines despite US naval escort",
       "link": "https://thehill.com/policy/international/6240781-irgc-oil-tankers-underwater-mines/",
       "source": "The Hill",
@@ -2036,14 +2139,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 8.5,
+      "source_count": 18,
       "sources_reporting": [
+        "AP",
+        "BBC",
+        "NYT",
+        "PBS",
         "The Hill"
       ],
-      "trend_accel": "+43%",
-      "heat_level": "LOW"
+      "trend_accel": "+67%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Gold, silver price fall boosts retail sales but raises concerns among jewellers in Bengaluru",
@@ -3912,8 +4019,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 7.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 10,
       "sources_reporting": [
         "AP",
@@ -5691,8 +5798,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 7.6,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -6501,58 +6608,25 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Court rejects PG operator\u2019s bail in Satya Niketan collapse case",
-      "link": "https://www.thehindu.com/news/cities/Delhi/court-rejects-pg-operators-bail-in-satya-niketan-collapse-case/article71737209.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-24T10:22:13+05:30",
-      "score": 14,
-      "summary": "\u2018The accused persons, who are responsible for the loss of seven valuable lives, are not entitled to the benefit of discretion and such incidents must be dealt with by the courts of law with an iron hand,\u2019 the judge said",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "The Verge\u2019s 2026 holiday gift guide for moms",
+      "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+      "source": "Verge",
+      "timestamp": "2026-11-24T16:09:59-05:00",
+      "score": 15,
+      "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Satya",
-        "Niketan"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Australian politics live: Government lacks \u2018moral authority\u2019 on decarbonisation, Monique Ryan says; eight teens arrested over alleged schoolies assault - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTnNhT1lEaXVpTGNhbW50c1M1bnc0eUZJX1U3c0JuNVBzTWs3X2hxM19CbnE5QUhodll4VUQ0X0pDMjJ6eUU5NmxsQmtMRG9BY0NEYmFFY1hPdm5Fb0VUZnVlRk9DQ0FYck1IdHdMN1JLSDFNUEhNOW1rWFFLbjR1SmJxclk5d0dPVnJYWXhFN1E0dzdfcVFic1NQb0tBNGxvcUhteUpuT1FXUzFjOU1YbXlEbHZnQ3JhVWxfZ3lCd1NkUWxhQXNV?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-11-24T04:50:00+00:00",
-      "score": 12,
-      "summary": "Australian politics live: Government lacks \u2018moral authority\u2019 on decarbonisation, Monique Ryan says; eight teens arrested over alleged schoolies assault The GuardianSee more headlines & perspectives on Google News",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Government",
-        "Monique",
-        "Ryan",
-        "Guardian"
+        "Verges"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6563,28 +6637,26 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "Google News"
+        "Verge"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+58%",
       "heat_level": "LOW"
     },
     {
-      "title": "RSP expresses discontent over absence of UDF meetings, delay in board appointments",
-      "link": "https://www.thehindu.com/news/national/kerala/rsp-expresses-discontent-over-absence-of-udf-meetings-delay-in-board-appointments/article71735376.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-24T10:09:19+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-24T21:09:04+00:00",
+      "score": 10,
+      "summary": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "UDF"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6594,13 +6666,11 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Jensen Huang reportedly tells Nvidia staff it\u2019s \u2018not true\u2019 Trump got him rehired",
       "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
@@ -13072,25 +13142,26 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
-      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-19T17:00:00+00:00",
-      "score": 17,
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "US court convicts Huawei for deceiving banks about Iran dealings",
+      "link": "https://www.abc.net.au/news/2026-11-25/huawei-convicted-us-trial-deception-trade-secrets/107423640",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-24T21:09:13+00:00",
+      "score": 14,
+      "summary": "US authorities have long claimed the Chinese tech giant poses national security risks.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Alibaba",
-        "Everful",
-        "Chinese"
+        "Huawei",
+        "Iran"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13099,30 +13170,31 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 3,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
-      "title": "Anthropic hits NASDAQ exchanges at $110, $27 above IPO price",
-      "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-19T16:59:23+00:00",
-      "score": 15,
-      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "Dalai Lama, office allotted bungalow in Lutyens' Delhi",
+      "link": "https://timesofindia.indiatimes.com/india/dalai-lama-office-allotted-bungalow-in-lutyens-delhi/articleshow/136141864.cms",
+      "source": "Times of India",
+      "timestamp": "2026-11-25T02:35:16+05:30",
+      "score": 14,
+      "summary": "The Centre has assigned a government bungalow in Lutyens' Delhi to Tibetan spiritual leader the Dalai Lama. This official accommodation aims to facilitate his visits to the national capital and provide comfort. Members of the Tibetan parliament-in-exile have welcomed this arra...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "NASDAQ",
-        "IPO"
+        "Lama",
+        "Lutyens",
+        "Delhi"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13133,13 +13205,76 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "TechCrunch"
+        "Times of India"
       ],
-      "trend_accel": "+53%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "\u2018Saturday Night Live\u2019 Is Coming to France",
+      "link": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
+      "source": "NYT",
+      "timestamp": "2026-11-24T21:02:37+00:00",
+      "score": 12,
+      "summary": "A French adaptation of the American sketch comedy institution will premiere next month on the premium channel Canal+. It comes as a British version is hitting a stride.",
+      "country": "France",
+      "region": "Europe",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Night",
+        "Live",
+        "Coming",
+        "France"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Golf course proposal risks Aboriginal heritage, traditional owners say",
+      "link": "https://www.abc.net.au/news/2026-11-25/nora-creina-golf-course-development-limestone-coast-sa/107420614",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-24T21:01:29+00:00",
+      "score": 12,
+      "summary": "Consultation is underway for two 18-hole golf courses near Robe in south-eastern South Australia that traditional owners say will damage or disturb Aboriginal heritage.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Aboriginal"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
       "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
@@ -16023,7 +16158,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.5,
+      "trend_score": 10.4,
       "source_count": 15,
       "sources_reporting": [
         "AP",
@@ -19511,64 +19646,25 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Breaking: Hobart's Macquarie Point stadium cost rises to $1.23b",
-      "link": "https://www.abc.net.au/news/2026-11-24/cost-of-hobart-macquarie-point-stadium-rises/107417074",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-23T21:31:14+00:00",
+      "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
+      "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-24T21:15:23+00:00",
       "score": 15,
-      "summary": "The estimated cost of the Macquarie Point Stadium has risen $100 million to $1.23 billion, the Tasmanian government reveals.",
-      "country": "Australia",
-      "region": "Oceania",
+      "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Hobarts",
-        "Macquarie",
-        "Point"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The Woman Who Took Canada to Court Over Genocide",
-      "link": "https://www.nytimes.com/2026/11/23/world/canada/nakuset-montreal.html",
-      "source": "NYT",
-      "timestamp": "2026-11-23T21:21:53+00:00",
-      "score": 12,
-      "summary": "Na\u2019kuset is a longtime champion for Indigenous communities across Canada using her experiences to fuel her advocacy.",
-      "country": "Canada",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Bio-Security"
-      ],
-      "entities": [
-        "Woman",
-        "Who",
-        "Took",
-        "Canada",
-        "Court",
-        "Over",
-        "Genocide"
+        "Huang"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19579,35 +19675,30 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "NYT"
+        "CNBC"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+57%",
       "heat_level": "LOW"
     },
     {
-      "title": "Phumzile Mlambo-Ngcuka, South Africa\u2019s First Female Deputy President, Has Died",
-      "link": "https://www.nytimes.com/2026/11/23/world/africa/phumzile-mlambo-ngcuka-dead.html",
-      "source": "NYT",
-      "timestamp": "2026-11-23T21:12:03+00:00",
-      "score": 12,
-      "summary": "A champion of women\u2019s rights and education, she led the U.N.\u2019s gender equality and empowerment organization after leaving political office. She died at 71.",
-      "country": "South Africa",
-      "region": "Africa",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+      "link": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-24T21:12:12+00:00",
+      "score": 15,
+      "summary": "U.S. stocks fell on Tuesday, giving back some of the sharp gains from the previous session that were sparked by Jensen Huang's return as Nvidia CEO.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "MlamboNgcuka",
-        "South",
-        "Africas",
-        "First",
-        "Female",
-        "Deputy",
-        "President",
-        "Has",
-        "Died"
+        "Nvidia",
+        "Anthropic",
+        "IPO",
+        "Live"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19618,27 +19709,27 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "NYT"
+        "CNBC"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+46%",
       "heat_level": "LOW"
     },
     {
-      "title": "Turkish heiress paid former prince Andrew paid \u00a3750k bribe, UK court told",
-      "link": "https://www.abc.net.au/news/2026-11-24/ex-prince-andrew-took-bribe-to-help-turkish-heiress-court-told/107419512",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-23T21:07:17+00:00",
-      "score": 17,
-      "summary": "A lawyer for the Turkish heiress's former adviser says the payment to Andrew Mountbatten-Windsor \"was a bribe, either for assistance with her passport or her UK residency\".",
-      "country": "UK",
-      "region": "Europe",
+      "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-24T21:04:03+00:00",
+      "score": 15,
+      "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Andrew"
+        "IPO"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19647,15 +19738,50 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 3,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Bitcoin Surrenders Most Gains Amid Sustained ETF Outflows",
+      "link": "https://www.livemint.com/market/bitcoin-surrenders-most-gains-amid-sustained-etf-outflows-11795554238437.html",
+      "source": "Livemint",
+      "timestamp": "2026-11-25T02:33:57+05:30",
+      "score": 14,
+      "summary": "Bitcoin pared just about all of the gains posted earlier when Jensen Huang was reinstated as chief executive officer of Nvidia Corp., with investors continuing to exit the digital-asset sector following weeks of heavy selling.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Surrenders",
+        "Most",
+        "Gains",
+        "Amid",
+        "Sustained",
+        "ETF",
+        "Outflows"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Livemint"
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Grocery stores have \u2018staggering deals\u2019 for Thanksgiving \u2014 but don\u2019t get used to these lower prices",
       "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
@@ -26281,105 +26407,55 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Science": [
     {
-      "title": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
-      "link": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-11-23T13:35:00+00:00",
-      "score": 14,
-      "summary": "The health insurers are facing scrutiny over their business practices and potential changes to the private Medicare program.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Humana",
-        "CVS",
-        "Medicare",
-        "Advantage"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "US Stock Futures Bounce After AI-Driven Correction: Markets Wrap - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-11-23T13:33:04+00:00",
-      "score": 14,
-      "summary": "US Stock Futures Bounce After AI-Driven Correction: Markets Wrap Bloomberg.comWall Street Set to Bounce Back After Tech Sell-Off The New York TimesStocks set for rebound after AI-driven sell-off pushed major indexes into correction NBC NewsNasdaq 100 futures rebound sharply to...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Stock",
-        "Futures",
-        "Bounce",
-        "After",
-        "AIDriven",
-        "Correction",
-        "Markets",
-        "Wrap",
-        "Bloombergcom"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Google News"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Here are Monday's biggest analyst calls: Anthropic, SpaceX, Apple, Nvidia, Dollar General, Evercore ISI & more",
-      "link": "https://www.cnbc.com/2026/11/23/big-monday-wall-street-calls-like-anthropic.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-23T13:19:45+00:00",
+      "title": "A common language for pistachio growth: Researchers develop a crop-monitoring scale",
+      "link": "https://phys.org/news/2026-11-common-language-pistachio-growth-crop.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-24T16:10:04-05:00",
       "score": 12,
-      "summary": "Here are Monday's biggest calls on Wall Street.",
+      "summary": "The pistachio BBCH scale, created by the University of C\u00f3rdoba, standardizes phenological monitoring of the crop, enabling researchers and farmers to identify its growth stage quickly and easily.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Mondays",
-        "Anthropic",
-        "SpaceX",
-        "Apple",
-        "Nvidia",
-        "Dollar",
-        "General",
-        "Evercore",
-        "ISI"
+        "Researchers"
       ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Flexible simulations model how dark matter collisions may leave their fingerprints on the universe",
+      "link": "https://phys.org/news/2026-11-flexible-simulations-dark-collisions-fingerprints.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-24T16:10:02-05:00",
+      "score": 10,
+      "summary": "We cannot see or measure dark matter directly. Yet scientists are convinced that it exists and that it accounts for around 85% of all matter in the universe, including the matter that everything here on Earth is made of, from earthworms and mountains to seawater and washing ma...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -26389,45 +26465,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Worst COP ever\u2019: Climate talks collapse after draft deal fails to include fossil fuels",
-      "link": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-23T13:16:38+00:00",
-      "score": 14,
-      "summary": "Governments and campaigners rejected the \"cover decision\" drafted at the U.N.'s climate summit, COP31, on Sunday.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "COP",
-        "Climate"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
+        "Phys.org"
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
     {
       "title": "Evolution keeps returning to simple leaves",
       "link": "https://phys.org/news/2026-11-evolution-simple.html",
@@ -32486,67 +32528,6 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "New sources of neurotoxin linked to algal blooms uncovered in Florida and Kansas",
-      "link": "https://phys.org/news/2026-11-sources-neurotoxin-linked-algal-blooms.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-20T13:40:01-05:00",
-      "score": 12,
-      "summary": "Researchers have identified two previously unreported strains of freshwater cyanobacteria capable of producing a potent neurotoxin that poses risks to people, pets, wildlife and water resources and that some scientists suspect may have contributed to previous animal deaths.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Florida",
-        "Kansas"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Bumblebees challenge long-held beliefs about brain size and intelligence",
-      "link": "https://phys.org/news/2026-11-bumblebees-held-beliefs-brain-size.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-20T13:30:05-05:00",
-      "score": 12,
-      "summary": "Bigger brains mean greater intelligence, or so conventional wisdom goes. After all, humans have much larger brains than most other animals and are generally considered the planet's most intelligent species.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -33807,7 +33788,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.9,
+      "trend_score": 7.8,
       "source_count": 17,
       "sources_reporting": [
         "Bloomberg",
@@ -38935,6 +38916,129 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Roz Chast: Always a Turkey Dinner for My Birthday",
+      "link": "https://www.nytimes.com/2026/11/24/arts/roz-chast-thanksgiving-birthday.html",
+      "source": "NYT",
+      "timestamp": "2026-11-24T21:12:39+00:00",
+      "score": 12,
+      "summary": "In our family, Thanksgiving dinner ends with cake and candles.",
+      "country": "Turkey",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Chast",
+        "Always",
+        "Turkey",
+        "Dinner",
+        "Birthday"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Steven Hack, Broadway Star and American Horror Story Actor, Dead at 68",
+      "link": "https://www.eonline.com/news/1438384/steven-hack-dead-at-68-from-atherosclerotic-cardiovascular-disease?cmpid=rss-syndicate-genericrss-us-top_stories",
+      "source": "E! News",
+      "timestamp": "2026-11-24T21:08:41+00:00",
+      "score": 15,
+      "summary": "A bright light in Hollywood has gone dim. Broadway star Steven Hack, who also had minor roles in American Horror Story and Seinfeld, has died after suffering a medical emergency, Los Angeles\u2019...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Hack",
+        "Broadway",
+        "Star",
+        "American",
+        "Horror",
+        "Story",
+        "Actor",
+        "Dead"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "E! News"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "\u2018Paper Tiger\u2019 Director James Gray Calls Out \u2018Dumb, Ethically, Morally Bankrupt\u2019 Festival Competitions and Quips That He\u2019s Giving Up on Cannes: \u2018I\u2019ve Learned My Lesson\u2019",
+      "link": "https://variety.com/2026/film/global/paper-tiger-director-james-gray-festival-competition-cannes-1236957123/",
+      "source": "Variety",
+      "timestamp": "2026-11-24T21:05:40+00:00",
+      "score": 12,
+      "summary": "\u201cPaper Tiger\u201d director James Gray has launched six of his nine feature films from the starry heights of the Cannes Film Festival, most recently contending for the Palme d\u2019Or this year with his New York-set crime drama. Just don\u2019t expect to see him back on the Croisette anytime...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Tiger",
+        "Director",
+        "James",
+        "Gray",
+        "Calls",
+        "Out",
+        "Dumb",
+        "Ethically",
+        "Morally",
+        "Bankrupt",
+        "Festival",
+        "Competitions",
+        "Quips",
+        "That",
+        "Hes",
+        "Giving",
+        "Cannes",
+        "Ive",
+        "Learned",
+        "Lesson"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Thelma Golden to Step Down as Head of Studio Museum in Harlem",
       "link": "https://www.nytimes.com/2026/11/24/arts/design/thelma-golden-steps-down-studio-museum-harlem.html",
@@ -46955,125 +47059,6 @@
       ],
       "trend_accel": "+42%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Bowen Yang Apologizes to Regina Spektor for Calling Her an Antisemitic Slur on His Podcast",
-      "link": "https://www.nytimes.com/2026/11/20/arts/music/bowen-yang-apology-antisemitic-slur-regina-spektor.html",
-      "source": "NYT",
-      "timestamp": "2026-11-23T19:55:43+00:00",
-      "score": 12,
-      "summary": "The former \u201cSaturday Night Live\u201d star used the slur when talking about the musician Regina Spektor in a recent episode of his \u201cLas Culturistas\u201d podcast.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Yang",
-        "Apologizes",
-        "Regina",
-        "Spektor",
-        "Calling",
-        "Her",
-        "Antisemitic",
-        "Slur",
-        "His",
-        "Podcast"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Germany to Return Archive Documenting Nazi Abuses to Jehovah\u2019s Witnesses",
-      "link": "https://www.nytimes.com/2026/11/23/arts/design/kusserow-archive-nazi-abuses-jehovahs-witnesses.html",
-      "source": "NYT",
-      "timestamp": "2026-11-23T19:53:52+00:00",
-      "score": 12,
-      "summary": "The announcement follows a lawsuit in which the religious group had sought to reclaim the archive, which is held by a German museum.",
-      "country": "Germany",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Return",
-        "Archive",
-        "Documenting",
-        "Nazi",
-        "Abuses",
-        "Jehovahs",
-        "Witnesses"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u2018Percy Jackson and the Olympians\u2019: How Season 3 Brings Epic Moments to Life and Deals With Annabeth\u2019s Absence in the Books",
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/percy-jackson-and-the-olympians-season-3-annabeth-thalia-1236746256/",
-      "source": "THR",
-      "timestamp": "2026-11-23T19:43:28+00:00",
-      "score": 17,
-      "summary": "The cast and creatives sat down with THR to talk about adapting the third book in the bestselling series.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Jackson",
-        "Olympians",
-        "How",
-        "Season",
-        "Brings",
-        "Epic",
-        "Moments",
-        "Life",
-        "Deals",
-        "Annabeths",
-        "Absence",
-        "Books"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -51194,6 +51179,41 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.0 - 3 km ESE of Maria Antonia, Puerto Rico",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/pr71539918",
+      "source": "USGS",
+      "timestamp": "2026-11-24T21:09:46.450000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-24 20:58:17 UTC2026-11-24 20:58:17 UTC at epicenterLocation17.971\u00b0N 66.862\u00b0WDepth17.96 km (11.16 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ESE",
+        "Maria",
+        "Antonia",
+        "Puerto",
+        "Rico"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
       "heat_level": "LOW"
     },
     {
@@ -57781,37 +57801,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Green forest fire notification in Benin",
-      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034045",
-      "source": "GDACS",
-      "timestamp": "2026-11-23T20:05:32+00:00",
-      "score": 12,
-      "summary": "On 16/11/2026, a forest fire started in Benin, until 23/11/2026.",
-      "country": "EU",
-      "region": "Europe",
-      "source_type": "International Monitoring",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Benin"
-      ],
-      "severity_score": 4,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "GDACS"
-      ],
-      "trend_accel": "+59%",
       "heat_level": "LOW"
     }
   ]
