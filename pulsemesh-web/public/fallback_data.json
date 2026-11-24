@@ -1,6 +1,35 @@
 {
   "Politics": [
     {
+      "title": "Pennsylvania confirms 9th measles-related death",
+      "link": "https://thehill.com/policy/healthcare/6238800-pennsylvania-confirms-ninth-measles-death/",
+      "source": "The Hill",
+      "timestamp": "2026-11-24T00:01:44+00:00",
+      "score": 13,
+      "summary": "Pennsylvania health officials on Monday confirmed the state\u2019s ninth measles-releated death this year, less than a week after the U.S. lost its measles elimination status after more than 25 years. The Pennsylvania Department of Health said an unvaccinated Centre County resident...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Experts weigh national security implications of Huang's return to Nvidia",
       "link": "https://www.pbs.org/newshour/show/experts-weigh-national-security-implications-of-huangs-return-to-nvidia",
       "source": "PBS",
@@ -6615,29 +6644,25 @@
       ],
       "trend_accel": "+62%",
       "heat_level": "HOT"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "In 12 states, NGO Pratham\u2019s Second Chance Programme is helping women school dropouts appear for their Class X Board exams",
-      "link": "https://www.thehindu.com/news/national/in-12-states-ngo-prathams-second-chance-programme-is-helping-women-school-dropouts-appear-for-their-class-x-board-exams/article71733510.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-23T11:39:26+05:30",
-      "score": 15,
-      "summary": "As a significant percentage of older girls and women in India have not completed secondary education, this 14-year-old initiative focuses on helping them restart their educational journey and direct it towards earning a livelihood",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Google alternative Kagi launches an email service",
+      "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "source": "Verge",
+      "timestamp": "2026-11-23T19:02:52-05:00",
+      "score": 14,
+      "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance, no ads, open standards, a...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "NGO",
-        "Prathams",
-        "Second",
-        "Chance",
-        "Programme",
-        "Class",
-        "Board"
+        "Kagi"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6646,15 +6671,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "The Verge\u2019s 2026 holiday gift guide",
       "link": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
@@ -13163,23 +13186,26 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
-      "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-18T22:11:15+00:00",
+      "title": "22 lakh pleas to include names in West Bengal rolls top priority: SC to EC",
+      "link": "https://timesofindia.indiatimes.com/india/22-lakh-pleas-to-include-names-in-west-bengal-rolls-top-priority-sc-to-ec/articleshow/136116537.cms",
+      "source": "Times of India",
+      "timestamp": "2026-11-24T05:35:33+05:30",
       "score": 15,
-      "summary": "Anthropic has reportedly priced its long-awaited IPO at $83 per share, above its initial range of $70 to $78, signaling strong investor appetite for one of the companies at the center of the AI boom, despite market jitters following the departure of Nvidia CEO Jensen Huang, wh...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "summary": "'38L Appeals Pending, Need More Tribunals'",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "IPO"
+        "West",
+        "Bengal"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13188,15 +13214,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "TechCrunch"
+        "Times of India"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+43%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Chinese neuroscientist at Princeton is held by ICE after detention at Washington airport",
       "link": "https://www.thehindu.com/news/international/chinese-neuroscientist-at-princeton-is-held-by-ice-after-detention-at-washington-airport/article71736987.ece",
@@ -19751,16 +19775,55 @@
       ],
       "trend_accel": "+42%",
       "heat_level": "LOW"
+    }
+  ],
+  "Business": [
+    {
+      "title": "Jensen Huang Returns to Nvidia After President Trump Intervenes",
+      "link": "https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html",
+      "source": "NYT",
+      "timestamp": "2026-11-24T00:13:24+00:00",
+      "score": 12,
+      "summary": "Mr. Trump, a close ally of Mr. Huang, led a campaign to assure the chip company\u2019s board that the longtime chief executive did not present a national security risk.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Huang",
+        "Returns",
+        "Nvidia",
+        "After",
+        "President",
+        "Trump",
+        "Intervenes"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "NYT"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
     },
     {
-      "title": "WA government promises to make coercive control criminal offence",
-      "link": "https://www.abc.net.au/news/2026-11-23/wa-government-promises-to-make-coercive-control-criminal-offence/107415816",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-23T02:03:35+00:00",
-      "score": 10,
-      "summary": "Premier Roger Cook announces a commitment to introduce legislation making coercive control a criminal offence next year, as part of efforts to tackle family and domestic violence.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "I pay \u00a3250 a month for someone else to do my life admin - it's worth it",
+      "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-24T00:01:04+00:00",
+      "score": 13,
+      "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+      "country": "UK",
+      "region": "Europe",
       "source_type": "Broadcaster",
       "trust_score": 9,
       "source_bias": "Low",
@@ -19774,15 +19837,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "ABC Australia"
+        "BBC"
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
       "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
@@ -26503,77 +26564,6 @@
         "Livemint"
       ],
       "trend_accel": "+43%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "PBOC Anchors Yuan With Stable Fix as Volatility Jumps After APEC",
-      "link": "https://www.livemint.com/market/pboc-anchors-yuan-with-stable-fix-as-volatility-jumps-after-apec-11795338291477.html",
-      "source": "Livemint",
-      "timestamp": "2026-11-22T14:34:50+05:30",
-      "score": 12,
-      "summary": "China\u2019s central bank signaled it wants to curb sharp moves in the yuan with a largely steady fixing Friday, after the currency posted its biggest drop since March following a trilateral leaders\u2019 meeting.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Anchors",
-        "Yuan",
-        "Stable",
-        "Fix",
-        "Volatility",
-        "Jumps",
-        "After",
-        "APEC"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Mint Explainer| How Sebi\u2019s margin tweaks may boost agri commodities",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-agricultural-commodity-trading-margins-liquidity-11795330448989.html",
-      "source": "Livemint",
-      "timestamp": "2026-11-22T14:06:01+05:30",
-      "score": 14,
-      "summary": "Lower margin requirements can improve capital efficiency for traders and brokers, potentially encouraging greater participation in commodity derivatives.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Explainer",
-        "How",
-        "Sebis"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+47%",
       "heat_level": "LOW"
     }
   ],
@@ -39353,6 +39343,50 @@
   ],
   "Entertainment": [
     {
+      "title": "Bela Bajaria Calls Time at Netflix a \u201cFun Chapter\u201d as She Teases Rest and \u201cConversations\u201d in First Remarks Since Exit",
+      "link": "https://www.hollywoodreporter.com/business/business-news/bela-bajaria-speaks-netflix-exit-1236761441/",
+      "source": "THR",
+      "timestamp": "2026-11-24T00:02:56+00:00",
+      "score": 12,
+      "summary": "The former chief content officer at the streaming service was ousted last month, with Peter Rice taking over her role.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bajaria",
+        "Calls",
+        "Time",
+        "Netflix",
+        "Fun",
+        "Chapter",
+        "She",
+        "Teases",
+        "Rest",
+        "Conversations",
+        "First",
+        "Remarks",
+        "Since",
+        "Exit"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "\u2018GTA 6\u2019 Boss Strauss Zelnick Among First Raft of SXSW London 2027 Speakers",
       "link": "https://www.hollywoodreporter.com/business/business-news/gta-6-strauss-zelnick-take-two-speakers-sxsw-london-2027-1236759919/",
       "source": "THR",
@@ -47390,47 +47424,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Boy George on His Israel Trip: \u2018I Wasn\u2019t Able to Not Say Something\u2019",
-      "link": "https://www.rollingstone.com/music/music-news/boy-george-israel-trip-we-will-dance-again-interview-1235662143/",
-      "source": "Rolling Stone",
-      "timestamp": "2026-11-22T15:28:36+00:00",
-      "score": 12,
-      "summary": "After performing in Tel Aviv and meeting survivors of the Oct. 7 attack, the Culture Club frontman reflects on the backlash to his song, rising antisemitism, and why he felt compelled to speak out",
-      "country": "Israel",
-      "region": "Middle East",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "George",
-        "His",
-        "Israel",
-        "Trip",
-        "Wasnt",
-        "Able",
-        "Not",
-        "Say",
-        "Something"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Rolling Stone"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -51843,6 +51836,71 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "Green forest fire notification in Nigeria, Cameroon",
+      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034018",
+      "source": "GDACS",
+      "timestamp": "2026-11-24T00:14:04+00:00",
+      "score": 12,
+      "summary": "On 12/11/2026, a forest fire started in Nigeria, Cameroon, until 22/11/2026.",
+      "country": "Nigeria",
+      "region": "Africa",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Nigeria",
+        "Cameroon"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Ghana, Burkina Faso",
+      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034013",
+      "source": "GDACS",
+      "timestamp": "2026-11-24T00:02:24+00:00",
+      "score": 12,
+      "summary": "On 19/11/2026, a forest fire started in Ghana, Burkina Faso, until 22/11/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ghana",
+        "Burkina",
+        "Faso"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+57%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.3 - 6 km ENE of Fox, Alaska",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xfzdkr",
@@ -58366,72 +58424,6 @@
         "USGS"
       ],
       "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 69 km WNW of Tyonek, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xdxpql",
-      "source": "USGS",
-      "timestamp": "2026-11-22T21:17:14.089000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-22 21:14:21 UTC2026-11-22 21:14:21 UTC at epicenterLocation61.260\u00b0N 152.358\u00b0WDepth9.70 km (6.03 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WNW",
-        "Tyonek",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 4.7 - 25 km WSW of Isangel, Vanuatu",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucu7",
-      "source": "USGS",
-      "timestamp": "2026-11-22T21:08:40.040000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-22 20:54:52 UTC2026-11-22 20:54:52 UTC at epicenterLocation19.642\u00b0S 169.059\u00b0EDepth115.37 km (71.69 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Isangel",
-        "Vanuatu"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
