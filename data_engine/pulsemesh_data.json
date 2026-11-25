@@ -1,6 +1,105 @@
 {
   "Politics": [
     {
+      "title": "Farage helps launch new campaign against the UK rejoining the EU",
+      "link": "https://www.bbc.co.uk/news/articles/cmewv071817po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-25T18:42:44+00:00",
+      "score": 14,
+      "summary": "The Reform UK leader reunites with businessman Arron Banks in support of the Keep Britain Out campaign.",
+      "country": "UK",
+      "region": "Europe",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+52%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Higher Education Minister gives away certificates to 700 graduands in New College Convocation",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/higher-education-minister-gives-away-certificates-to-700-graduands-in-new-college-convocation/article71743655.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-26T00:09:06+05:30",
+      "score": 15,
+      "summary": "Strategic intelligence signal ingested from The Hindu.",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Education",
+        "Minister",
+        "New",
+        "College",
+        "Convocation"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+43%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Jackson, progressive Maine senator-elect, backs Van Hollen for leader",
+      "link": "https://thehill.com/homenews/senate/6243237-troy-jackson-chris-van-hollen-support-senate-leadership-race/",
+      "source": "The Hill",
+      "timestamp": "2026-11-25T18:38:58+00:00",
+      "score": 14,
+      "summary": "Troy Jackson, the progressive senator-elect from Maine who defeated Sen. Susan Collins (R-Maine), announced Wednesday that he will support Sen. Chris Van Hollen (D-Md.) to become the next Senate majority leader. \u201cI\u2019ve talked with Mainers about what they need from the Senate, a...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Geopolitics"
+      ],
+      "entities": [
+        "Maine",
+        "Van",
+        "Hollen"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Duffy says Thanksgiving flight delays mostly due to weather so far",
       "link": "https://thehill.com/policy/transportation/6243181-duffy-thanksgiving-flight-delays-storms/",
       "source": "The Hill",
@@ -6544,24 +6643,24 @@
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Reform's attempt to remove presiding officer fails after its Senedd boycott ends",
-      "link": "https://www.bbc.co.uk/news/articles/cmqj5ql7r2ljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-11-24T20:12:46+00:00",
-      "score": 14,
-      "summary": "Senedd members voted to reject Reform's motion to oust Huw Irranca Davies by 55 to 29.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "link": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "source": "Ars",
+      "timestamp": "2026-11-25T18:38:29+00:00",
+      "score": 12,
+      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
+      "trust_score": 8,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Senedd"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6571,29 +6670,35 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "BBC"
+        "Ars"
       ],
-      "trend_accel": "+55%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
     {
-      "title": "Consumer sentiment surged in November: Conference Board",
-      "link": "https://thehill.com/business/6240686-consumer-confidence-spiked-november/",
-      "source": "The Hill",
-      "timestamp": "2026-11-24T20:04:19+00:00",
+      "title": "The Iowa Lead Detonation Happened. Now the Real Work Begins to Study It",
+      "link": "https://www.wired.com/story/iowa-lead-detonation-real-monitoring-work-begins/",
+      "source": "Wired",
+      "timestamp": "2026-11-25T18:38:12+00:00",
       "score": 12,
-      "summary": "Consumer confidence spiked upward in November, the Conference Board reported Tuesday. The board\u2019s Consumer Confidence Index rose from 91.9 in October to 103.3 this month, a jump of 11.4 points that exceeded experts\u2019 expectations. Economists told The Wall Street Journal they ex...",
+      "summary": "Early results indicate minimal signs of lead in the environment, though it will take days for more rigorous testing.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Newspaper",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "November",
-        "Conference",
-        "Board"
+        "Iowa",
+        "Lead",
+        "Detonation",
+        "Happened",
+        "Now",
+        "Real",
+        "Work",
+        "Begins",
+        "Study"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6604,47 +6709,11 @@
       "trend_score": 0.0,
       "source_count": 2,
       "sources_reporting": [
-        "The Hill"
+        "Wired"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+49%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Mohan B. Mate assumes charge as Kochi Refinery CGM",
-      "link": "https://www.thehindu.com/news/national/kerala/mohan-b-mate-assumes-charge-as-kochi-refinery-cgm/article71739453.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-25T01:31:33+05:30",
-      "score": 12,
-      "summary": "Strategic intelligence signal ingested from The Hindu.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Mate",
-        "Kochi",
-        "Refinery",
-        "CGM"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
     {
       "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
       "link": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
@@ -13139,73 +13208,40 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
-      "link": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
-      "source": "Verge",
-      "timestamp": "2026-11-20T11:22:15-05:00",
-      "score": 15,
-      "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Reznor and Atticus Ross, but ...",
-      "country": "Italy",
-      "region": "Europe",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Noize",
-        "Italian",
-        "LLVSION"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants \u2014 not executives",
-      "link": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
-      "source": "Verge",
-      "timestamp": "2026-11-20T11:00:00-05:00",
-      "score": 12,
-      "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwithstanding. For Galina, carryi...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Zvyagintsev"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Verge"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "World": [
+    {
+      "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+      "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "timestamp": "2026-11-25T18:41:33+00:00",
+      "score": 15,
+      "summary": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
+      "country": "Colombia",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "BBC"
+      ],
+      "trend_accel": "+61%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Red flags exhibited by Beau Lamarre-Condon in lead-up to double murder",
       "link": "https://www.abc.net.au/news/2026-11-26/beau-lamarre-condon-domestic-violence-red-flags-double-murder/107329010",
@@ -19049,7 +19085,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.2,
+      "trend_score": 11.1,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -19059,7 +19095,7 @@
         "NPR",
         "The Hindu"
       ],
-      "trend_accel": "+83%",
+      "trend_accel": "+82%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19678,26 +19714,85 @@
       ],
       "trend_accel": "+51%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "\u2018Saturday Night Live\u2019 Is Coming to France",
-      "link": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
-      "source": "NYT",
-      "timestamp": "2026-11-24T21:02:37+00:00",
-      "score": 12,
-      "summary": "A French adaptation of the American sketch comedy institution will premiere next month on the premium channel Canal+. It comes as a British version is hitting a stride.",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
+      "title": "Anthropic teeters at $1 trillion market cap. Why it may stabilize from here",
+      "link": "https://www.cnbc.com/2026/11/25/anthropic-stock-ipo-analyst-outlook.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-25T18:36:39+00:00",
+      "score": 17,
+      "summary": "Anthropic's post-IPO slide tests the AI trade as analysts defend its enterprise edge.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Night",
-        "Live",
-        "Coming",
-        "France"
+        "Why"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
+      "link": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-25T18:35:39+00:00",
+      "score": 14,
+      "summary": "Gold fell to its lowest level in more \u200cthan a year after strong U.S. inflation data failed to assuage concerns surrounding the Federal Reserve's rate-hike path.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+      "link": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-25T18:33:39+00:00",
+      "score": 14,
+      "summary": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Huang"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19708,13 +19803,44 @@
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "NYT"
+        "CNBC"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+45%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
+    {
+      "title": "Sale of Stefanik family\u2019s D.C. home deemed \u2018unusual,\u2019 city records show - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3lXeXRiYVR4NXNIamVPYWFvbk5pSzdUOU1vSWd3MkMxcTh5Z2d1M0pFSzhuZHhFa3c1eDFVcVUwMkI3TGt3bFRVb0w3dUJaMHlIOFowSmFUamt4TWpQUEU2UGFkRmFZRXZPdktBUHlTbUE2YkhWTEdBUHhQR1BUbWhwOUU4V3Q5WmxieUZfWGRLeWNUZFpHRE9YSkkxSjNRcTVYNXFxbUxKb21PNERFZ0FTN3U?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-11-25T18:31:48+00:00",
+      "score": 12,
+      "summary": "Sale of Stefanik family\u2019s D.C. home deemed \u2018unusual,\u2019 city records show The Washington PostReport: Sale of Stefanik's DC townhouse to mystery buyer raises questions NCPR: North Country Public RadioElise Stefanik\u2019s Mystery Property Windfall Drama Takes Bombshell Twist YahooIt\u2019s...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Stefanik",
+        "Washington",
+        "Post"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Stocks making the biggest moves Wednesday: HP Inc, Ambarella, Nvidia, Sandisk & more",
       "link": "https://www.cnbc.com/2026/11/25/stocks-moving-the-most-today-live-updates.html",
@@ -26166,138 +26292,42 @@
       ],
       "trend_accel": "+53%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Zendaya and Tom Holland buy a home on 1 acre in London for $10 million",
-      "link": "https://www.marketwatch.com/story/zendaya-and-tom-holland-buy-a-home-on-1-acre-in-london-for-10-million-a433e7cd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-11-24T10:01:00+00:00",
-      "score": 15,
-      "summary": "Tom Holland and Zendaya may make London their primary residence after splashing out $10 million on a palatial pad across the pond.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Tom",
-        "Holland",
-        "London"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+46%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "The bull and bear surprises that could ambush investors next year, according to Bank of America",
-      "link": "https://www.marketwatch.com/story/the-bull-and-bear-surprises-that-could-ambush-investors-next-year-according-to-bank-of-america-1cf7dc26?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-11-24T09:58:00+00:00",
-      "score": 12,
-      "summary": "Michael Hartnett\u2019s tactical masterplan is to stay risk off until global rate hikes start to dry up next spring. Thereafter, modest earnings growth and the chance of looser financial conditions in the second half favor owning cyclicals and adding more risk.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Bank",
-        "America"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Here\u2019s your chance to bid on Alex Trebek\u2019s former $6.45 million California ranch and winery",
-      "link": "https://www.marketwatch.com/story/heres-your-chance-to-bid-on-alex-trebeks-former-6-45-million-california-ranch-and-winery-0f0cd4f5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-11-24T09:58:00+00:00",
-      "score": 15,
-      "summary": "A sprawling California ranch where Alex Trebek helped run a winery is heading to auction, giving buyers a chance to purchase nearly 578 acres of the Central Coast once owned by the longtime \u201cJeopardy!\u201d host.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Alex",
-        "Trebeks",
-        "California"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "MarketWatch"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Nvidia shares fall 4% in premarket after Huang comeback rally",
-      "link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-24T09:41:02+00:00",
-      "score": 17,
-      "summary": "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Huang"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
+    {
+      "title": "Ancient Cahokia transformed amid droughts and flooding\u2014climate change is reshaping modern communities in similar ways",
+      "link": "https://phys.org/news/2026-11-ancient-cahokia-droughts-climate-reshaping.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-25T13:40:03-05:00",
+      "score": 12,
+      "summary": "More than 800 years ago, a combination of environmental and societal challenges led some Mississippian people to leave Cahokia, a massive archaeological site that was once home to 20,000 people near modern-day St. Louis. Just south of Cahokia, another archaeological site is ta...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Cahokia"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Only one in five of Kazakhstan's endemic plants has data for initial range screening",
       "link": "https://phys.org/news/2026-11-kazakhstan-endemic-range-screening.html",
@@ -32376,40 +32406,6 @@
         "Phys.org"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Reduce, resharpen, reuse: Ancient stone tools reveal a regional pattern in southwest China",
-      "link": "https://phys.org/news/2026-11-resharpen-reuse-ancient-stone-tools.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-23T08:00:02-05:00",
-      "score": 12,
-      "summary": "The value of a stone tool can long outlast its first sharp edge. Across 27 locations in southwest China, archaeologists have found evidence of a toolmaking approach that preserved enough stone to allow repeated sharpening\u2014and sometimes the same piece was used as both a tool an...",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Ancient",
-        "China"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -38830,6 +38826,42 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Bowen Yang, Mark Ruffalo and the Rise of Antisemitism in Hollywood",
+      "link": "https://www.hollywoodreporter.com/news/general-news/bowen-yang-mark-ruffalo-antisemitism-hollywood-1236763143/",
+      "source": "THR",
+      "timestamp": "2026-11-25T18:34:06+00:00",
+      "score": 12,
+      "summary": "Recent comments from the SNL veteran and the progressive Marvel star reveal the extent to which celebrities' criticism of Israel have merged with hoary old prejudices against Jews.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Yang",
+        "Mark",
+        "Ruffalo",
+        "Rise",
+        "Antisemitism",
+        "Hollywood"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "THR"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Dropout\u2019s \u2018Very Important People\u2019 Reveals Season 4 Release Date; Adds Ben Schwartz, Kirby Howell-Baptiste and More Guests",
       "link": "https://variety.com/2026/tv/news/dropout-very-important-people-season-4-release-ben-schwartz-1236958190/",
@@ -46874,49 +46906,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Top MS NOW Hosts Sign Letter Urging Versant to Ink Deal With Writers Guild East Members (Exclusive)",
-      "link": "https://www.hollywoodreporter.com/business/business-news/maddow-psaki-ms-now-open-letter-wga-east-deal-versant-1236762030/",
-      "source": "THR",
-      "timestamp": "2026-11-24T16:00:00+00:00",
-      "score": 14,
-      "summary": "Rachel Maddow, Chris Hayes, Jen Psaki and Lawrence O'Donnell are among the hosts that have signed the letter, which calls on the company to cut a deal 'without division or delay.'",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "NOW",
-        "Hosts",
-        "Sign",
-        "Letter",
-        "Urging",
-        "Versant",
-        "Ink",
-        "Deal",
-        "Writers",
-        "Guild",
-        "East",
-        "Members",
-        "Exclusive"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -51001,6 +50990,72 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.8 - 24 km ENE of Beluga, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xjgqgx",
+      "source": "USGS",
+      "timestamp": "2026-11-25T18:44:29.794000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-25 18:43:10 UTC2026-11-25 18:43:10 UTC at epicenterLocation61.238\u00b0N 150.684\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Beluga",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 69 km WNW of Ninilchik, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xjgixc",
+      "source": "USGS",
+      "timestamp": "2026-11-25T18:37:25.194000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-25 18:34:39 UTC2026-11-25 18:34:39 UTC at epicenterLocation60.307\u00b0N 152.801\u00b0WDepth7.10 km (4.41 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Ninilchik",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
     {
       "title": "M 1.1 - 8 km ESE of Cloverdale, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75469241",
@@ -57560,69 +57615,6 @@
         "USGS"
       ],
       "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.5 - 7 km SSW of Kelseyville, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75471662",
-      "source": "USGS",
-      "timestamp": "2026-11-24T13:49:45.131000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-24 13:48:07 UTC2026-11-24 13:48:07 UTC at epicenterLocation38.923\u00b0N 122.882\u00b0WDepth4.86 km (3.02 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSW",
-        "Kelseyville"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.3 - 6 km NW of Pinnacles, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75471657",
-      "source": "USGS",
-      "timestamp": "2026-11-24T13:42:15.243000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-24 13:40:37 UTC2026-11-24 13:40:37 UTC at epicenterLocation36.565\u00b0N 121.193\u00b0WDepth4.70 km (2.92 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Pinnacles"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
       "heat_level": "LOW"
     }
   ]
