@@ -1,6 +1,37 @@
 {
   "Politics": [
     {
+      "title": "Cabinet clears construction of new airport at Silchar for \u20b92,014 crore",
+      "link": "https://www.thehindu.com/news/national/cabinet-clears-construction-of-new-airport-at-silchar-for-2014-crore/article71741967.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-25T16:01:29+05:30",
+      "score": 17,
+      "summary": "The existing Silchar airport, owned by the Indian Air Force and the Airports Authority of India (AAI), operates a civil enclave spread over 70 acres",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Silchar"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Udhayanidhi Stalin submits petition to Tamil Nadu DGP demanding arrest of Kallakurichi and Thuraiyur TVK MLAs",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/udhayanidhi-stalin-submits-petition-to-tamil-nadu-dgp-demanding-arrest-of-kallakurichi-and-thuraiyur-tvk-mlas/article71741706.ece",
       "source": "The Hindu",
@@ -6594,23 +6625,30 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "AIDSO leads protest against magnet school scheme, ADB agreement",
-      "link": "https://www.thehindu.com/news/national/karnataka/aidso-leads-protest-against-magnet-school-scheme-adb-agreement/article71738009.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-24T19:09:26+05:30",
-      "score": 14,
-      "summary": "Villagers, parents and students of Kanavirayankudi demand withdrawal of the plan to close down 45,326 government schools in the State",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Shop Small: Our Favorite Gifts From Independent Businesses (2026)",
+      "link": "https://www.wired.com/story/shop-small-gift-guide-2026/",
+      "source": "Wired",
+      "timestamp": "2026-11-25T10:32:00+00:00",
+      "score": 15,
+      "summary": "Here are 11 independent stores WIRED editors love and the gifts we\u2019d order from them on Shop.com.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "ADB"
+        "Small",
+        "Our",
+        "Favorite",
+        "Gifts",
+        "Independent",
+        "Businesses"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6621,13 +6659,11 @@
       "trend_score": 0.0,
       "source_count": 3,
       "sources_reporting": [
-        "The Hindu"
+        "Wired"
       ],
-      "trend_accel": "+46%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "The 6 Best Latte Machines for Automatic Espresso Drinks (2026)",
       "link": "https://www.wired.com/story/best-latte-and-cappuccino-machines/",
@@ -7058,7 +7094,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.5,
+      "trend_score": 10.4,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -13159,31 +13195,33 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
-      "link": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
-      "source": "Wired",
-      "timestamp": "2026-11-19T20:34:17+00:00",
-      "score": 12,
-      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia\u2019s former CEO. Others stand by him. \u201cIt\u2019s not as if he killed someone or set something on fire,\u201d says one shop owner.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "title": "3 Dead and Many More Trapped in Indonesian Mine After Heavy Rainfall",
+      "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
+      "source": "NYT",
+      "timestamp": "2026-11-25T10:37:10+00:00",
+      "score": 17,
+      "summary": "At least 23 workers are believed to have been stuck inside the illegal mine since Monday, after its narrow shaft flooded.",
+      "country": "Indonesia",
+      "region": "Southeast Asia",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Jensen",
-        "Huang",
-        "Blast",
-        "Radius",
-        "Has",
-        "Hit",
-        "His",
-        "Favorite",
-        "Restaurants"
+        "Dead",
+        "Many",
+        "More",
+        "Trapped",
+        "Indonesian",
+        "Mine",
+        "After",
+        "Heavy",
+        "Rainfall"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13192,15 +13230,75 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 2,
       "sources_reporting": [
-        "Wired"
+        "NYT"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "Police confirm no sign of kitesurfer missing off WA's north west coast",
+      "link": "https://www.abc.net.au/news/2026-11-25/search-for-missing-kitesurfer-near-coral-bay-to-resume-thursday/107425278",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-25T10:33:09+00:00",
+      "score": 12,
+      "summary": "Authorities are searching for a missing man who had been kitesurfing at Five Finger Reef near the popular tourist town of Coral Bay.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WAs"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Man sells property to son-in-law, faces Rs 20.94 lakh penalty; why ITAT gave relief",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/elderly-man-sells-property-to-son-in-law-and-faces-rs-20-94-lakh-tax-penalty-for-alleged-cash-transaction-itat-finds-no-proof-of-cash-receipt-and-cancels-penalty-also-deletes-additions-over-farm-income-and-loan/articleshow/136153800.cms",
+      "source": "Times of India",
+      "timestamp": "2026-11-25T16:01:00+05:30",
+      "score": 15,
+      "summary": "The dispute centred on the sale of an immovable property. The AO concluded that the taxpayer had received Rs 20.94 lakh in cash in connection with the transfer, thereby breaching Section 269SS of the Income Tax Act. A penalty equivalent to the disputed amount was then imposed ...",
+      "country": "India",
+      "region": "South Asia",
+      "source_type": "Newspaper",
+      "trust_score": 7,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ITAT"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Times of India"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Bisleri row: FSSAI launches pan-India water quality checks; results within 1-2 months",
       "link": "https://timesofindia.indiatimes.com/india/bisleri-row-fssai-launches-pan-india-water-quality-checks-results-within-1-2-months/articleshow/136157196.cms",
@@ -15616,7 +15714,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 10.9,
+      "trend_score": 10.8,
       "source_count": 12,
       "sources_reporting": [
         "ABC Australia",
@@ -17324,7 +17422,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.4,
+      "trend_score": 11.3,
       "source_count": 12,
       "sources_reporting": [
         "BBC",
@@ -17335,7 +17433,7 @@
         "PBS",
         "The Hindu"
       ],
-      "trend_accel": "+86%",
+      "trend_accel": "+85%",
       "heat_level": "CRITICAL"
     },
     {
@@ -19560,57 +19658,27 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "China announces shock corruption probe into Politburo member",
-      "link": "https://www.thehindu.com/news/international/china-announces-shock-corruption-probe-into-politburo-member/article71738737.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-24T19:21:57+05:30",
+      "title": "NSE shares hit record high after ICICI Securities initiates coverage with Buy; check target price and key triggers",
+      "link": "https://www.livemint.com/market/stock-market-news/nse-shares-hit-record-high-after-icici-securities-initiates-coverage-with-buy-check-target-price-and-key-triggers-11795600817257.html",
+      "source": "Livemint",
+      "timestamp": "2026-11-25T16:02:49+05:30",
       "score": 12,
-      "summary": "Shanghai Party Secretary Chen Jining was earlier expected to assume a top leadership role in 2027",
-      "country": "China",
-      "region": "East Asia",
+      "summary": "NSE shares rose 5% to a record \u20b92,324 after ICICI Securities initiated coverage with a Buy rating and a \u20b92,650 target. The brokerage cited market leadership, rising retail participation and new growth areas, and forecast strong revenue and profit growth through FY29.",
+      "country": "India",
+      "region": "South Asia",
       "source_type": "Newspaper",
       "trust_score": 8,
       "source_bias": "Moderate",
       "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Politburo"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "The Hindu"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Iraq moves to control Kurdish oilfields; Erbil calls the move \u2018unacceptable\u2019",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/iraq-moves-to-control-kurdish-oilfields-erbil-calls-the-move-unacceptable/articleshow/136132682.cms",
-      "source": "Times of India",
-      "timestamp": "2026-11-24T19:18:36+05:30",
-      "score": 12,
-      "summary": "In a move that heightens friction with Kurdish leaders, Iraqi Prime Minister Ali al-Zaidi has called for federal oversight of border crossings in Kurdistan. This comes amid accusations of oil smuggling. In response, Masrour Barzani, the Prime Minister of the Kurdistan Region, ...",
-      "country": "Iraq",
-      "region": "Middle East",
-      "source_type": "Newspaper",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Kurdish",
-        "Erbil"
+        "ICICI",
+        "Securities",
+        "Buy"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19619,52 +19687,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "Times of India"
+        "Livemint"
       ],
-      "trend_accel": "+52%",
+      "trend_accel": "+50%",
       "heat_level": "LOW"
     },
-    {
-      "title": "Trump's role in Huang's Nvidia return under scrutiny",
-      "link": "https://www.france24.com/en/video/20261124-trump-s-role-in-huang-s-nvidia-return-under-scrutiny",
-      "source": "France24",
-      "timestamp": "2026-11-24T13:48:17+00:00",
-      "score": 12,
-      "summary": "Jensen Huang's return as CEO of Nvidia was greeted with triumph by US President Donald Trump, and the AI chipmaker's stock price was sent soaring. But the national security implications of Huang's extra-marital affair with an alleged Chinese spy, as well as Trump's interventio...",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Huangs",
-        "Nvidia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 16,
-      "sources_reporting": [
-        "AP",
-        "Al Jazeera",
-        "Bloomberg",
-        "France24",
-        "PBS",
-        "Times of India"
-      ],
-      "trend_accel": "+85%",
-      "heat_level": "CRITICAL"
-    }
-  ],
-  "Business": [
     {
       "title": "Budget carrier Norse Atlantic falls 81% after warning its finances are \u2018critical\u2019 amid soaring fuel costs",
       "link": "https://www.cnbc.com/2026/11/25/norse-atlantic-financial-warning-fuel-costs.html",
@@ -26360,38 +26389,6 @@
       ],
       "trend_accel": "+83%",
       "heat_level": "CRITICAL"
-    },
-    {
-      "title": "DNI Jay Clayton tapped as acting national cyber director",
-      "link": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-23T19:12:49+00:00",
-      "score": 12,
-      "summary": "President Donald Trump last week said he decided to replace Sean Cairncross as national cyber director \"because I didn't think that person was good enough.\"",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Jay",
-        "Clayton"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Science": [
@@ -46864,6 +46861,45 @@
   ],
   "Lifestyle": [
     {
+      "title": "A Look Back at Legendary Kennedy Family Parties, on JFK Jr.\u2019s Birthday",
+      "link": "https://www.vogue.com/slideshow/john-f-kennedy-jr-birthday-party-marilyn-monroe-inline",
+      "source": "Vogue",
+      "timestamp": "2026-11-25T10:35:40+00:00",
+      "score": 12,
+      "summary": "On what would have been the 66th birthday of John F. Kennedy Jr., a look back at some of the family\u2019s high-society celebrations over the years.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Look",
+        "Back",
+        "Legendary",
+        "Kennedy",
+        "Family",
+        "Parties",
+        "JFK",
+        "Jrs",
+        "Birthday"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "Vogue"
+      ],
+      "trend_accel": "+44%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "'Dancing with the Stars' crowns new winner in finale",
       "link": "https://www.npr.org/2026/11/25/nx-s1-6052435/dancing-with-the-stars-crowns-new-winner-in-finale",
       "source": "NPR",
@@ -51112,6 +51148,71 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.0 - 2 km N of Silver Lake, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41580120",
+      "source": "USGS",
+      "timestamp": "2026-11-25T10:43:27.775000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-25 10:40:00 UTC2026-11-25 10:40:00 UTC at epicenterLocation34.111\u00b0N 118.266\u00b0WDepth11.33 km (7.04 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Silver",
+        "Lake"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 4.3 - 18 km SSW of Yonakuni, Japan",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udew",
+      "source": "USGS",
+      "timestamp": "2026-11-25T10:33:14.040000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-25 10:18:45 UTC2026-11-25 10:18:45 UTC at epicenterLocation24.301\u00b0N 122.962\u00b0EDepth46.91 km (29.15 mi)",
+      "country": "Japan",
+      "region": "East Asia",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SSW",
+        "Yonakuni",
+        "Japan"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
@@ -57665,69 +57766,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.3 - 25 km W of Egegik, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xgnlvg",
-      "source": "USGS",
-      "timestamp": "2026-11-24T07:10:19.388000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-24 07:09:03 UTC2026-11-24 07:09:03 UTC at epicenterLocation58.177\u00b0N 157.800\u00b0WDepth17.90 km (11.12 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Egegik",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+58%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.7 - 10 km NW of The Geysers, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75471522",
-      "source": "USGS",
-      "timestamp": "2026-11-24T07:07:04.067000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-24 07:05:29 UTC2026-11-24 07:05:29 UTC at epicenterLocation38.830\u00b0N 122.852\u00b0WDepth1.69 km (1.05 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Geysers"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
       "heat_level": "LOW"
     }
   ]
