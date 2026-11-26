@@ -1,6 +1,38 @@
 {
   "Politics": [
     {
+      "title": "Musk pledges 2 SpaceX shares per American child",
+      "link": "https://thehill.com/policy/technology/6244857-elon-musk-pledges-spacex-shares-to-american-children/",
+      "source": "The Hill",
+      "timestamp": "2026-11-26T20:01:29+00:00",
+      "score": 15,
+      "summary": "SpaceX and its CEO Elon Musk announced Wednesday that they would each donate a share of the aerospace company\u2019s stock to every American child with an active \u201cTrump Account,\u201d doubling a pledge the billionaire made last month. The company said in a statement it would issue new s...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SpaceX",
+        "American"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "The Hill"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Trump unloads on critics in wide-ranging Thanksgiving Day rant",
       "link": "https://thehill.com/homenews/administration/6244831-trump-thanksgiving-message-critics-gdp-somali-community/",
       "source": "The Hill",
@@ -4406,7 +4438,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 7.8,
+      "trend_score": 7.7,
       "source_count": 9,
       "sources_reporting": [
         "BBC",
@@ -4414,8 +4446,8 @@
         "NPR",
         "PBS"
       ],
-      "trend_accel": "+69%",
-      "heat_level": "SURGING"
+      "trend_accel": "+68%",
+      "heat_level": "HOT"
     },
     {
       "title": "Udhayanidhi Stalin meets Tamil Nadu Governor, seeks CBI inquiry against Kallakurichi MLA",
@@ -6520,23 +6552,26 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "G.O. issued on CAS for teachers of aided arts and science colleges",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/go-issued-on-cas-for-teachers-of-aided-arts-and-science-colleges/article71743611.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-26T00:52:41+05:30",
-      "score": 14,
-      "summary": "The eligibility criteria and procedures to be followed for CAS will be implemented \u2018in strict adherence\u2019 to guidelines issued through a G.O. of January 11, 2021.",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "timestamp": "2026-11-26T20:03:54+00:00",
+      "score": 12,
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "CAS"
+        "Southeast",
+        "Asia"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6547,13 +6582,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "TechCrunch"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "Legend of Zelda Switch 2 restocks expected this week, here's all the latest updates live as they happen - GamesRadar+",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVnZuWm9VZjY3cjVHNFBrZzEwNGhyczMwVms4QllMV1Jpem5vQV9FSXp0TUp4eVhYN2o4RDFVbUFyZnVwSkpIOE01cGpHMFUxTW9xSXBHXzFqVVdUOVQ5aFF4YTB5dUIxWFgzUkRhUEdLU1RLWF9ycW10QnFtWFlNdmpmRnY4TkZuOUM4UXJBVlBVbkRReDd3?oc=5",
@@ -13160,28 +13193,68 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
+    }
+  ],
+  "World": [
+    {
+      "title": "Two Italians killed in Iranian strike on Kuwait",
+      "link": "https://www.ft.com/content/e5f3128d-5f8b-416c-90d1-2549175cb091?syn-25a6b1a6=1",
+      "source": "FT",
+      "timestamp": "2026-11-26T20:03:23+00:00",
+      "score": 14,
+      "summary": "Workers are the first reported deaths from Iranian attacks since Washington and Tehran restarted exchanging fire this month",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Italians",
+        "Iranian",
+        "Kuwait"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 11.7,
+      "source_count": 16,
+      "sources_reporting": [
+        "ABC Australia",
+        "AP",
+        "Al Jazeera",
+        "BBC",
+        "BBC",
+        "CBC News",
+        "FT",
+        "Guardian",
+        "NYT"
+      ],
+      "trend_accel": "+90%",
+      "heat_level": "CRITICAL"
     },
     {
-      "title": "Black Friday Nintendo Switch deals LIVE: grab games, consoles, accessories and more from just $14 - Tom's Guide",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPblYwQTlITzFaTWpMM1A0eXdpbEcwT0ZXUUFYT2x1b29ULV9KWXNheG45dGdtSTdLNnlwVFBKMXgwQkQyemhZQVpSZm5weFluaVhhTXJaVi12dzUycEo2bzR2cFZ5YTlQTUNscjZnT0twcm1kMHE5dEt1ekhmYnZOYjdZU2hwaE5STEZPRmFqdTl2RF8xcTV6Q2Zn?oc=5",
-      "source": "Google News",
-      "timestamp": "2026-11-22T11:08:54+00:00",
-      "score": 17,
-      "summary": "Black Friday Nintendo Switch deals LIVE: grab games, consoles, accessories and more from just $14 Tom's GuideAdventure Awaits: Save on a daring selection of digital games NintendoSave on Digital Switch 2 Games Like Zelda: Ocarina of Time and More IGNEA hosting Black Friday 202...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Aggregator",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Live: Architect of WA gas reservation scheme says national version '20 years too late'",
+      "link": "https://www.abc.net.au/news/2026-11-27/federal-politics-live-blog-november-27/107431796",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-26T20:03:09+00:00",
+      "score": 15,
+      "summary": "Former Western Australian premier Alan Carpenter says a national gas reservation scheme is long overdue. Follow live.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Friday",
-        "Nintendo",
-        "Switch",
-        "LIVE",
-        "Toms",
-        "Guide"
+        "Architect"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13190,15 +13263,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 2,
       "sources_reporting": [
-        "Google News"
+        "ABC Australia"
       ],
-      "trend_accel": "+44%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Taj Mahal marble slab taken by East India Company officer to be auctioned in London",
       "link": "https://timesofindia.indiatimes.com/world/uk/marble-slab-taken-from-taj-mahal-by-east-india-company-officer-to-go-under-hammer-in-london/articleshow/136202554.cms",
@@ -14015,19 +14086,20 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.2,
-      "source_count": 16,
+      "trend_score": 11.4,
+      "source_count": 17,
       "sources_reporting": [
         "ABC Australia",
         "Al Jazeera",
         "BBC",
         "CBC News",
+        "FT",
         "Guardian",
         "NHK",
         "NYT",
         "Reuters"
       ],
-      "trend_accel": "+82%",
+      "trend_accel": "+83%",
       "heat_level": "CRITICAL"
     },
     {
@@ -14423,14 +14495,22 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
+      "trending": true,
+      "trend_score": 11.6,
+      "source_count": 14,
       "sources_reporting": [
-        "ABC Australia"
+        "ABC Australia",
+        "Al Jazeera",
+        "BBC",
+        "BBC",
+        "CBC News",
+        "FT",
+        "NPR",
+        "NYT",
+        "PBS"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
+      "trend_accel": "+91%",
+      "heat_level": "CRITICAL"
     },
     {
       "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
@@ -18841,8 +18921,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 11.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 19,
       "sources_reporting": [
         "ABC Australia",
@@ -19446,8 +19526,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": true,
-      "trending": true,
-      "trend_score": 11.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 13,
       "sources_reporting": [
         "ABC Australia",
@@ -19662,66 +19742,6 @@
         "CBC News"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "18yo bailed following alleged home invasions, thefts and police pursuit",
-      "link": "https://www.abc.net.au/news/2026-11-26/18-year-old-man-bailed-following-alleged-incidents-mildura/107421218",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-25T21:06:41+00:00",
-      "score": 15,
-      "summary": "An 18-year-old man allegedly involved in 17 criminal incidents in north-west Victoria has been released on bail.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Star quarterback Rodgers released after stunning tirade against coach",
-      "link": "https://www.abc.net.au/news/2026-11-26/nfl-aaron-rodgers-released-after-mike-mccarthy-tirade/107428264",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-25T21:05:37+00:00",
-      "score": 14,
-      "summary": "Steelers quarterback Aaron Rodgers is cut after launching a stunning tirade against his coach on the Pat McAfee Show.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Rodgers"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -27175,7 +27195,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.3,
+      "trend_score": 8.2,
       "source_count": 14,
       "sources_reporting": [
         "BBC",
@@ -32442,6 +32462,40 @@
     }
   ],
   "Sports": [
+    {
+      "title": "Lions vs. Bears live updates: Detroit turns tied game into 19-10 halftime advantage - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeTdNaUdEem9KLTdFU2hnQkZEalp5MTF6TFRNam1CR1NKaS1jekxNN0Qtb1NrMDVDWnMxVlN4Z2RkRTZfYUhSeFFkdHAwcVVRWUdlRF9JVFJqSm45TlM2dklscnhvVmRlV1F5Q3A2MVZtempNdXNtWU9SOWh0dmQ0NVJtWmllX1lxQUhVTER3?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-11-26T20:11:21+00:00",
+      "score": 15,
+      "summary": "Lions vs. Bears live updates: Detroit turns tied game into 19-10 halftime advantage CBS SportsLions vs. Bears: How to watch, listen and follow Detroit LionsCaleb Williams\u2019 disaster leads to wild play in Bears-Lions Thanksgiving Day NFL game Yahoo SportsBears-Lions Thanksgiving...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bears",
+        "Detroit",
+        "CBS",
+        "Sports"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Bears vs. Lions live updates, score: Colston Loveland carted to locker room with apparent lower-body injury - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWTJEWV83ZnlKOXp2cnd6dHk1Vi1CdmswLUcwQ2N0Tnd4M2U0dWdJNnVPTU5hVEtPNDJjT2ZzekZaWFpMV2t1UHdPLTlwTGtrajNKa2hfQVB0R2NlQVhIcE1tX2Fud0Fkbmt4azhtR3VtdzJQbl9kekZLRmtoUHB1S2QwalUydHBEbnI1dG1Qc2l3VXFWSUZIQ1c2STM0YUNDUEFmY21adk8zcWpPenFrY3ZjUmRaS0NLLWFKWGl0N3VySk90OXFiczN2Y3FNTDNMOFN4d08zRnBydw?oc=5",
@@ -38837,6 +38891,50 @@
     }
   ],
   "Entertainment": [
+    {
+      "title": "Jessy Moussallem\u2019s \u2018Faux Bijoux,\u2019 Laila Abbas\u2019 \u2018America Is Behind the Door\u2019 Take Top Prizes at Marrakech\u2019s Atlas Workshops",
+      "link": "https://variety.com/2026/film/global/faux-bijoux-america-is-behind-the-door-prizes-atlas-workshops-1236959077/",
+      "source": "Variety",
+      "timestamp": "2026-11-26T20:13:14+00:00",
+      "score": 14,
+      "summary": "Jessy Moussallem\u2019s \u201cFaux Bijoux\u201d and Laila Abbas\u2019 \u201cAmerica Is Behind the Door\u201d claimed the top post-production and development prizes, respectively, at this year\u2019s Atlas Workshops, the industry strand running Nov. 22 \u2013 26 as part of the Marrakech Film Festival. The winner of a...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Moussallems",
+        "Faux",
+        "Bijoux",
+        "Laila",
+        "Abbas",
+        "America",
+        "Behind",
+        "Door",
+        "Take",
+        "Top",
+        "Prizes",
+        "Marrakechs",
+        "Atlas",
+        "Workshops"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Variety"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
     {
       "title": "New Book Alleges Former Disney Chief Bob Iger Impregnated Employee Leading To \u201cTraumatic Termination Procedure\u201d",
       "link": "https://deadline.com/2026/11/bob-iger-house-of-mouse-book-robbie-whelan-1237234125/",
@@ -46912,44 +47010,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Ezra Frech Reacts to Prosthetic Falling Off Mid-Dance During DWTS",
-      "link": "https://www.eonline.com/news/1438397/dwts-winner-ezra-frech-reacts-to-prosthetic-falling-off-mid-dance?cmpid=rss-syndicate-genericrss-us-top_stories",
-      "source": "E! News",
-      "timestamp": "2026-11-25T13:17:50+00:00",
-      "score": 12,
-      "summary": "There was a moment Ezra Frech didn\u2019t have a leg to stand on\u2014but he had a ballroom supporting him. After the Paralympian\u2019s prosthetic leg came off during his freestyle dance alongside partner...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 7,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Frech",
-        "Reacts",
-        "Prosthetic",
-        "Falling",
-        "Off",
-        "MidDance",
-        "During",
-        "DWTS"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "E! News"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -48689,7 +48749,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.2,
+      "trend_score": 8.1,
       "source_count": 11,
       "sources_reporting": [
         "Bloomberg",
@@ -48698,7 +48758,7 @@
         "PBS",
         "Vogue"
       ],
-      "trend_accel": "+72%",
+      "trend_accel": "+71%",
       "heat_level": "SURGING"
     },
     {
@@ -48729,7 +48789,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.2,
+      "trend_score": 8.1,
       "source_count": 13,
       "sources_reporting": [
         "BBC",
@@ -48738,7 +48798,7 @@
         "Reuters",
         "Vogue"
       ],
-      "trend_accel": "+67%",
+      "trend_accel": "+66%",
       "heat_level": "SURGING"
     },
     {
@@ -51398,6 +51458,102 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.9 - 59 km NW of Ninilchik, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xlfmew",
+      "source": "USGS",
+      "timestamp": "2026-11-26T20:09:57.817000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-26 20:07:45 UTC2026-11-26 20:07:45 UTC at epicenterLocation60.372\u00b0N 152.533\u00b0WDepth110.50 km (68.66 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Ninilchik",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.6 - 72 km WNW of Tyonek, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xlfhpu",
+      "source": "USGS",
+      "timestamp": "2026-11-26T20:05:24.133000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-26 20:02:41 UTC2026-11-26 20:02:41 UTC at epicenterLocation61.265\u00b0N 152.426\u00b0WDepth5.00 km (3.11 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "WNW",
+        "Tyonek",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Green forest fire notification in Mali",
+      "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034096",
+      "source": "GDACS",
+      "timestamp": "2026-11-26T20:01:17+00:00",
+      "score": 12,
+      "summary": "On 24/11/2026, a forest fire started in Mali, until 26/11/2026.",
+      "country": "EU",
+      "region": "Europe",
+      "source_type": "International Monitoring",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Mali"
+      ],
+      "severity_score": 4,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "GDACS"
+      ],
+      "trend_accel": "+52%",
       "heat_level": "LOW"
     },
     {
@@ -57881,103 +58037,6 @@
         "USGS"
       ],
       "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 0.6 - 71 km NW of Ninilchik, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xjemzl",
-      "source": "USGS",
-      "timestamp": "2026-11-25T17:40:13.152000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-25 17:39:26 UTC2026-11-25 17:39:26 UTC at epicenterLocation60.472\u00b0N 152.645\u00b0WDepth16.80 km (10.44 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ninilchik",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.0 - 5 km SE of Foster, Oklahoma",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2026xcph",
-      "source": "USGS",
-      "timestamp": "2026-11-25T17:22:25.898000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-25 17:18:59 UTC2026-11-25 17:18:59 UTC at epicenterLocation34.579\u00b0N 97.458\u00b0WDepth7.95 km (4.94 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Foster",
-        "Oklahoma"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.3 - 75 km ENE of Tonopah, Nevada",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00927431",
-      "source": "USGS",
-      "timestamp": "2026-11-25T17:20:54.772000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-25 16:57:16 UTC2026-11-25 16:57:16 UTC at epicenterLocation38.435\u00b0N 116.509\u00b0WDepth0.04 km (0.03 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "ENE",
-        "Tonopah",
-        "Nevada"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+54%",
       "heat_level": "LOW"
     }
   ]
