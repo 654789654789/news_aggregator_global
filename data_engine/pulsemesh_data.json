@@ -2724,7 +2724,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 9.1,
+      "trend_score": 9.0,
       "source_count": 17,
       "sources_reporting": [
         "AP",
@@ -13167,6 +13167,68 @@
   ],
   "World": [
     {
+      "title": "Man swam to defence land and stole military explosives, police say",
+      "link": "https://www.abc.net.au/news/2026-11-26/townsville-man-swam-to-steal-military-weapons/107429592",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-26T03:10:33+00:00",
+      "score": 10,
+      "summary": "Queensland Police allege a man used a boat and then swam to defence land, where he stole military weapons.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "US authorizes SpaceX to launch up to one million satellites for orbital data centers",
+      "link": "https://www.france24.com/en/technology/20261126-us-authorizes-spacex-to-launch-up-to-one-million-satellites-for-orbital-data-centers",
+      "source": "France24",
+      "timestamp": "2026-11-26T03:02:37+00:00",
+      "score": 12,
+      "summary": "The US Federal Communications Commission has approved SpaceX's plan to deploy up to one million satellites to build data centers in orbit, giving Elon Musk's company a major foothold in the industry. The authorization runs through 2040, as tech firms race to move computing inf...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "SpaceX"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "France24"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "NRL scraps All Stars game for 2027 preseason",
       "link": "https://www.abc.net.au/news/2026-11-26/nrl-scraps-all-stars-game-for-2027-preseason/107430180",
       "source": "ABC Australia",
@@ -19630,24 +19692,29 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Mandatory lead testing of childcare centres in Broken Hill",
-      "link": "https://www.abc.net.au/news/2026-11-25/broken-hill-lead-testing-to-be-mandatory-at-childcare-centres/107424288",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-25T05:31:01+00:00",
-      "score": 12,
-      "summary": "The NSW government announces mandatory testing and a new multi-agency committee to tackle high blood lead levels in children in Broken Hill.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "\u2018Your booth is waiting\u2019: Denny\u2019s welcomes Jensen Huang back as Nvidia CEO",
+      "link": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-26T03:13:43+00:00",
+      "score": 14,
+      "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Broken",
-        "Hill"
+        "Dennys",
+        "Jensen",
+        "Huang",
+        "Nvidia",
+        "CEO"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -19656,47 +19723,111 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
     },
     {
-      "title": "Breaking: Luke Gosling's lawyer flags 'unequivocal evidence' of 'political interference'",
-      "link": "https://www.abc.net.au/news/2026-11-25/luke-gosling-lawyer-flags-political-interence-in-assault-case/107424350",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-25T05:22:52+00:00",
-      "score": 12,
-      "summary": "NT federal Labor member Luke Gosling's lawyer says they have \"unequivocal evidence\" of \"political interference\" leading up to the prosecution of their client.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Indian shares set to extend gains on strong foreign flows; US tariffs in focus",
+      "link": "https://www.livemint.com/market/indian-shares-set-to-extend-gains-on-strong-foreign-flows-us-tariffs-in-focus-11795662523778.html",
+      "source": "Livemint",
+      "timestamp": "2026-11-26T08:40:01+05:30",
+      "score": 14,
+      "summary": "US tariffs will also be in focus after the Trump administration proposed levies on imports from 14 trading partners, including India, to combat what it calls structural excess industrial capacity.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Livemint"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+      "link": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-26T03:09:47+00:00",
+      "score": 14,
+      "summary": "South Korean beauty stocks rose as K-beauty brands dominated Amazon's skincare rankings ahead of Black Friday.",
+      "country": "South Korea",
+      "region": "East Asia",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Luke",
-        "Goslings"
+        "Korean",
+        "Amazon",
+        "Black",
+        "Friday"
       ],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
       "language": "en",
-      "breaking": true,
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "CNBC"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDJ0UmNqUTc2UWNoaVh0STB6ZHRZTnV6WGVPX2Q0VDhmRWU4Wk5hV2lZMTZOZUV4ZEwzOVBnVmVtbnB0eXlpekIyMVF5cG91WmVxLTNIeWx1MzhLN3czOHFLbFRuVTdYRUIwdk4zMTlfcEtLb2J3Y1lQM0l1OTREU2p5UzBxaXI5aExoOGlyUVctZlJZcllacVRzTU9zVXlNaVVMNThZRE85NWdlaEo2WUJKd3FtTVBRZ00xU0l0V2tMLTRiLUE?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-11-26T03:05:57+00:00",
+      "score": 12,
+      "summary": "Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO The Washington PostThe Frantic White House Push to Get Jensen Huang Back WSJ\u2018Jensanity\u2019 erupts in Taiwan and China on Nvidia founder\u2019s comeback Financial TimesWhy Nvidia is the quintessential Trump s...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pentagon",
+        "Nvidia",
+        "CEO",
+        "Washington",
+        "Post"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
       "trending": false,
       "trend_score": 0.0,
       "source_count": 5,
       "sources_reporting": [
-        "ABC Australia"
+        "Google News"
       ],
-      "trend_accel": "+47%",
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Top stocks to watch today: Bharti Airtel, HDFC Bank, LG Electronics, Lupin, Alembic Pharma, KSB and 7 others in focus",
       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-bharti-airtel-hdfc-bank-lg-electronics-lupin-alembic-pharma-ksb-and-7-others-in-focus-11795659069403.html",
@@ -26167,139 +26298,6 @@
         "Livemint"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Stocks making the biggest moves midday: Dick's Sporting Goods, Analog Devices, Nvidia, Pinterest & more",
-      "link": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-24T17:01:03+00:00",
-      "score": 14,
-      "summary": "Follow along as CNBC highlights the biggest stock moves of the day.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Dicks",
-        "Sporting",
-        "Goods",
-        "Analog",
-        "Devices",
-        "Nvidia",
-        "Pinterest"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
-      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
-      "source": "CNBC",
-      "timestamp": "2026-11-24T16:42:57+00:00",
-      "score": 12,
-      "summary": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Broadcaster",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Huang",
-        "Nvidia",
-        "GTC"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "CNBC"
-      ],
-      "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Four generations of a family working in one factory",
-      "link": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "timestamp": "2026-11-24T16:42:46+00:00",
-      "score": 10,
-      "summary": "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury.",
-      "country": "UK",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "BBC"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Beware! Fraudsters impersonating as Sebi-registered intermediaries: How can investors avoid traps - Experts explain",
-      "link": "https://www.livemint.com/market/stock-market-news/beware-fraudsters-impersonating-as-sebi-registered-intermediaries-how-can-investors-avoid-traps-experts-explain-11795535116795.html",
-      "source": "Livemint",
-      "timestamp": "2026-11-24T22:09:36+05:30",
-      "score": 14,
-      "summary": "Fraudsters impersonating Sebi-registered intermediaries are luring investors into unauthorised trading platforms and siphoning off money; regulator advises investors to verify intermediaries, avoid assured-return schemes and report cyber frauds on helpline 1930",
-      "country": "India",
-      "region": "South Asia",
-      "source_type": "Newspaper",
-      "trust_score": 8,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fraudsters",
-        "Sebiregistered",
-        "How",
-        "Experts"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Livemint"
-      ],
-      "trend_accel": "+49%",
       "heat_level": "LOW"
     }
   ],
@@ -38967,6 +38965,52 @@
   ],
   "Entertainment": [
     {
+      "title": "Bono Bowl Review: U2 Delivers Halftime Goods & Hits On Netflix & NFL\u2019s First Thanksgiving Eve Game, With A Little Help From Dolly Parton",
+      "link": "https://deadline.com/2026/11/u2-halftime-show-performance-review-thanksgiving-eve-1237233462/",
+      "source": "Deadline",
+      "timestamp": "2026-11-26T03:06:42+00:00",
+      "score": 15,
+      "summary": "No matter how many hits and tricks U2 pulled out of the hat at L.A.\u2019s SoFi Stadium, today\u2019s Bono Bowl on Netflix was always going to live in the shadow of the streamer\u2019s square dancing filled Beyonc\u00e9 Bowl from Christmas Day 2024. Accepting the inevitable, the elder statesmen o...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Entertainment",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Bowl",
+        "Review",
+        "Delivers",
+        "Halftime",
+        "Goods",
+        "Hits",
+        "Netflix",
+        "NFLs",
+        "First",
+        "Thanksgiving",
+        "Eve",
+        "Game",
+        "Little",
+        "Help",
+        "Dolly",
+        "Parton"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Deadline"
+      ],
+      "trend_accel": "+49%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Microdrama Revenues Hit $20B, But Profits Outside China Still Weak \u2013 MPA Report",
       "link": "https://deadline.com/2026/11/microdrama-revenues-boom-profits-outside-china-weak-report-1237233205/",
       "source": "Deadline",
@@ -47040,48 +47084,6 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Alfonso Ribeiro on the \u201cWild\u201d Ride of \u2018DWTS\u2019 Season 35, Reuniting With Tatyana Ali and Why He Won\u2019t Compete in an All-Winners Season",
-      "link": "https://www.hollywoodreporter.com/tv/tv-features/alfonso-ribeiro-dwts-season-35-tatyana-fan-discourse-all-stars-1236762413/",
-      "source": "THR",
-      "timestamp": "2026-11-24T21:46:52+00:00",
-      "score": 15,
-      "summary": "To commemorate the finale of \u2018DWTS,\u2019 Ribeiro chats with THR about the ups-and-downs of season 35, his favorite part about hosting the show and why he can\u2019t predict who will join him in the winners circle on Tuesday night.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Entertainment",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Ribeiro",
-        "Wild",
-        "Ride",
-        "DWTS",
-        "Season",
-        "Reuniting",
-        "Tatyana",
-        "Ali",
-        "Why",
-        "Wont",
-        "Compete",
-        "AllWinners"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "THR"
-      ],
-      "trend_accel": "+44%",
-      "heat_level": "LOW"
     }
   ],
   "Lifestyle": [
@@ -51350,6 +51352,69 @@
     }
   ],
   "CrisisWatch": [
+    {
+      "title": "M 1.0 - 6 km N of Lake Henshaw, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41580328",
+      "source": "USGS",
+      "timestamp": "2026-11-26T03:13:36.370000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-26 03:10:08 UTC2026-11-26 03:10:08 UTC at epicenterLocation33.299\u00b0N 116.773\u00b0WDepth9.97 km (6.20 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lake",
+        "Henshaw"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+58%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "World: Water as a superconnector: UN country coordination and integration",
+      "link": "https://reliefweb.int/report/world/water-superconnector-un-country-coordination-and-integration",
+      "source": "ReliefWeb",
+      "timestamp": "2026-11-26T03:02:45+00:00",
+      "score": 12,
+      "summary": "Country: World Source: UN Water Please refer to the attached files. Water connects nearly every aspect of sustainable development \u2013 from food and energy security to health, climate resilience, biodiversity, economic development and peace. But how can the United Nations better ...",
+      "country": "UN",
+      "region": "Global",
+      "source_type": "International Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Water"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "ReliefWeb"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Somalia - Estimated Malnutrition Situation (GAM) - Projection Update: October - December 2026",
       "link": "https://reliefweb.int/map/somalia/somalia-estimated-malnutrition-situation-gam-projection-update-october-december-2026",
@@ -57899,72 +57964,6 @@
         "Google News"
       ],
       "trend_accel": "+44%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 41 km SSE of Whittier, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhqzom",
-      "source": "USGS",
-      "timestamp": "2026-11-24T21:55:33.594000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-24 21:54:27 UTC2026-11-24 21:54:27 UTC at epicenterLocation60.410\u00b0N 148.509\u00b0WDepth3.20 km (1.99 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Whittier",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+55%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 3.3 - 7 km SW of Fox River, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhqjlg",
-      "source": "USGS",
-      "timestamp": "2026-11-24T21:42:18.641000+00:00",
-      "score": 15,
-      "summary": "ShakeMap - IV DYFI? - IITime2026-11-24 21:35:49 UTC2026-11-24 21:35:49 UTC at epicenterLocation59.808\u00b0N 151.049\u00b0WDepth8.50 km (5.28 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Fox",
-        "River",
-        "Alaska"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ]
