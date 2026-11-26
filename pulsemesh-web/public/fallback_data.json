@@ -1,6 +1,41 @@
 {
   "Politics": [
     {
+      "title": "WATCH: Vance defends Iowa lead azide detonation as he visits Air Force troops in Ohio",
+      "link": "https://www.pbs.org/newshour/politics/watch-vance-defends-iowa-lead-azide-detonation-as-he-visits-air-force-troops-in-ohio",
+      "source": "PBS",
+      "timestamp": "2026-11-25T18:51:49-05:00",
+      "score": 14,
+      "summary": "Vice President JD Vance, second lady Usha Vance and their four children visited Wright-Patterson Air Force Base in Ohio on Wednesday, serving a Thanksgiving meal to troops and joining them for lunch.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Vance",
+        "Iowa",
+        "Air",
+        "Force",
+        "Ohio"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+51%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Kushner calls Putin \u2018grandmaster of politics\u2019",
       "link": "https://thehill.com/policy/international/6244109-kushner-calls-putin-grandmaster/",
       "source": "The Hill",
@@ -6585,31 +6620,24 @@
       ],
       "trend_accel": "+44%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Japan\u2019s Sales Tax Cut Plans Could Stall On No-Confidence Motion",
-      "link": "https://www.livemint.com/politics/japans-sales-tax-cut-plans-could-stall-on-no-confidence-motion-11795572020298.html",
-      "source": "Livemint",
-      "timestamp": "2026-11-25T07:30:19+05:30",
-      "score": 12,
-      "summary": "Japan\u2019s opposition parties plan to submit a motion of no confidence against Prime Minister Sanae Takaichi\u2019s education minister, complicating her efforts to push a sales tax cut bill through parliament in time for it to take effect as planned in April.",
-      "country": "Japan",
-      "region": "East Asia",
-      "source_type": "Newspaper",
+      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "source": "Verge",
+      "timestamp": "2026-11-25T18:56:44-05:00",
+      "score": 10,
+      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Sales",
-        "Tax",
-        "Cut",
-        "Plans",
-        "Could",
-        "Stall",
-        "NoConfidence",
-        "Motion"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -6617,15 +6645,13 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 5,
+      "source_count": 2,
       "sources_reporting": [
-        "Livemint"
+        "Verge"
       ],
-      "trend_accel": "+45%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "S&P considers Nvidia credit downgrade over governance and \u2018key man\u2019 risks",
       "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
@@ -13143,23 +13169,33 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-      "source": "Ars",
-      "timestamp": "2026-11-20T19:52:59+00:00",
+      "title": "Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis",
+      "link": "https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html",
+      "source": "NYT",
+      "timestamp": "2026-11-25T23:59:49+00:00",
       "score": 12,
-      "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
+      "summary": "Scrutiny has fallen on Dr. Jean Kaseya, the director general of the Africa Centers for Disease Control and Prevention, after reports of staff intimidation and mismanagement of funds.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "CTIA"
+        "CDC",
+        "Chief",
+        "Faces",
+        "Turmoil",
+        "Over",
+        "Management",
+        "Amid",
+        "Ebola",
+        "Crisis"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13168,15 +13204,42 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 4,
+      "source_count": 5,
       "sources_reporting": [
-        "Ars"
+        "NYT"
       ],
-      "trend_accel": "+50%",
+      "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "The first person to live 1 year with a pig kidney says she's feeling great",
+      "link": "https://www.cbc.ca/radio/asithappens/pig-kidney-transplant-one-year-9.7436372?cmp=rss",
+      "source": "CBC News",
+      "timestamp": "2026-11-25T18:50:00-05:00",
+      "score": 13,
+      "summary": "It's been more than a year since Molly Falco underwent experimental surgery to receive a kidney harvested from a genetically modified pig, and she says she has no regrets.",
+      "country": "Canada",
+      "region": "Americas",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "CBC News"
+      ],
+      "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
     {
       "title": "The reason why North Melbourne dominates the AFLW landscape",
       "link": "https://www.abc.net.au/news/2026-11-26/aflw-premiership-north-melbourne-in-sight/107427680",
@@ -19663,48 +19726,21 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Business": [
     {
-      "title": "Consistent friendship groups linked to longer lives in dolphin populations",
-      "link": "https://www.abc.net.au/news/2026-11-25/queensland-dolphin-friendships-new-research/107421030",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-25T02:17:29+00:00",
-      "score": 10,
-      "summary": "Researchers analysed 40 years of data on a population of around 400 wild Indo-Pacific bottlenose dolphins living in the eastern gulf of Shark Bay.",
-      "country": "Australia",
-      "region": "Oceania",
+      "title": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
+      "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "source": "CNBC",
+      "timestamp": "2026-11-26T00:01:07+00:00",
+      "score": 14,
+      "summary": "Asia-Pacific markets were set to open higher Thursday, after Wall Street staged a dramatic recovery from session lows overnight.",
+      "country": "US",
+      "region": "Americas",
       "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Assistance dog discrimination being fuelled by inconsistent laws, report finds",
-      "link": "https://www.abc.net.au/news/2026-11-25/national-assistance-dog-definition-standards-report/107417544",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-25T02:09:05+00:00",
-      "score": 10,
-      "summary": "A new report has found the absence of a national definition for what constitutes an assistance dog is fuelling discrimination and undermining their legitimacy.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
+      "trust_score": 8,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [],
@@ -19717,13 +19753,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "ABC Australia"
+        "CNBC"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "Business": [
+    },
     {
       "title": "Empowered Democrats Aim at Weakened Regulation and Corporate Corruption",
       "link": "https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html",
@@ -26295,23 +26329,54 @@
       ],
       "trend_accel": "+52%",
       "heat_level": "LOW"
+    }
+  ],
+  "Science": [
+    {
+      "title": "Sweden tops global media freedom support rankings as international funding declines",
+      "link": "https://phys.org/news/2026-11-sweden-tops-global-media-freedom.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-25T19:00:13-05:00",
+      "score": 10,
+      "summary": "Sweden has been ranked the world's leading supporter of international media freedom, according to a new index. The index also highlights a decline in funding from 30 leading donor countries, despite growing threats to independent journalism worldwide.",
+      "country": "Sweden",
+      "region": "Europe",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
     },
     {
-      "title": "Anthropic\u2019s stock just broke below its IPO price for the first time",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "timestamp": "2026-11-24T14:55:00+00:00",
-      "score": 14,
-      "summary": "Shares traded below their IPO price of $83 on Tuesday morning, less than a week after they first started trading on the Nasdaq.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Financial Publication",
-      "trust_score": 8,
-      "source_bias": "Moderate",
+      "title": "Giant deer bones may push human arrival in Ireland back by 1,000 years",
+      "link": "https://phys.org/news/2026-11-giant-deer-bones-human-ireland.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-25T19:00:06-05:00",
+      "score": 15,
+      "summary": "A team of archaeologists and scientists has uncovered tantalizing new evidence that Late Upper Paleolithic hunter-gatherers may have lived in southern Ireland around 13,500 years ago\u2014nearly a millennium earlier than currently confirmed.",
+      "country": "Ireland",
+      "region": "Europe",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "IPO"
+        "Ireland"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -26320,15 +26385,45 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 2,
+      "source_count": 4,
       "sources_reporting": [
-        "MarketWatch"
+        "Phys.org"
       ],
       "trend_accel": "+47%",
       "heat_level": "LOW"
-    }
-  ],
-  "Science": [
+    },
+    {
+      "title": "Fermented milk may have held ritual power in Neolithic Denmark",
+      "link": "https://phys.org/news/2026-11-fermented-held-ritual-power-neolithic.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-25T19:00:02-05:00",
+      "score": 12,
+      "summary": "Experimental archaeology sheds light on the substances fermented in Neolithic Scandinavian pottery and deposited in tombs, suggesting fermented dairy products held symbolic significance in prehistoric funerary rituals.",
+      "country": "Denmark",
+      "region": "Europe",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Neolithic",
+        "Denmark"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Images from Earth's asteroid defence test reveal new crater",
       "link": "https://www.bbc.co.uk/news/videos/cmjwjnxp2jgno?at_medium=RSS&at_campaign=rss",
@@ -32337,102 +32432,6 @@
       ],
       "trend_accel": "+49%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Study reveals surge-detachment sequence at Dehdal Glacier in Pamir Mountains",
-      "link": "https://phys.org/news/2026-11-reveals-surge-detachment-sequence-dehdal.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-23T13:20:01-05:00",
-      "score": 14,
-      "summary": "Researchers have reconstructed a surge\u2013detachment sequence at Dehdal Glacier in the Pamir Mountains of Tajikistan, revealing how a period of rapid glacier acceleration culminated in two successive large-scale ice-detachment events.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Dehdal",
-        "Glacier",
-        "Pamir",
-        "Mountains"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Engineering study reshapes understanding of remotely triggered earthquakes",
-      "link": "https://phys.org/news/2026-11-reshapes-remotely-triggered-earthquakes.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-23T13:00:08-05:00",
-      "score": 10,
-      "summary": "Understanding earthquake mechanisms and mitigating earthquake hazards remain a critical global challenge. For decades, seismologists have observed that seismic waves of large earthquakes can trigger seismic activity at distances of thousands of kilometers\u2014a phenomenon known as...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Seismic"
-      ],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "On Yelp, actions speak louder than words, study reveals",
-      "link": "https://phys.org/news/2026-11-yelp-actions-louder-words-reveals.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-23T12:50:05-05:00",
-      "score": 12,
-      "summary": "As artificial intelligence makes it easier to pump out convincing reviews for restaurants and travel accommodations, a new study from the University of Massachusetts Amherst suggests a better clue to uncovering suspect reviews isn't the writing\u2014it's the posting habits.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Yelp"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+48%",
-      "heat_level": "LOW"
     }
   ],
   "Sports": [
@@ -32631,7 +32630,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.5,
+      "trend_score": 8.4,
       "source_count": 17,
       "sources_reporting": [
         "BBC",
@@ -51261,6 +51260,75 @@
   ],
   "CrisisWatch": [
     {
+      "title": "Panama: Earthquake in Azuero & Veraguas - Situation Report No. 10 (as of 25 November 2026, 12:00)",
+      "link": "https://reliefweb.int/report/panama/panama-earthquake-azuero-veraguas-situation-report-no-10-25-november-2026-1200",
+      "source": "ReliefWeb",
+      "timestamp": "2026-11-25T23:53:33+00:00",
+      "score": 15,
+      "summary": "Country: Panama Sources: UN Country Team in Panama, UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. KEY POINTS Shelters continue to close gradually as home reconstruction moves forward in affected areas. A total of 54 schools have resu...",
+      "country": "UN",
+      "region": "Global",
+      "source_type": "International Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Seismic"
+      ],
+      "entities": [
+        "Earthquake",
+        "Azuero",
+        "Veraguas",
+        "Situation",
+        "Report",
+        "November"
+      ],
+      "severity_score": 5,
+      "alert_level": "elevated",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ReliefWeb"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.7 - 11 km NW of Pinnacles, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75469331",
+      "source": "USGS",
+      "timestamp": "2026-11-25T23:47:29.755000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-25 23:45:55 UTC2026-11-25 23:45:55 UTC at epicenterLocation36.604\u00b0N 121.228\u00b0WDepth6.02 km (3.74 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Pinnacles"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+60%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Panama: Panam\u00e1: Terremoto en Azuero y Veraguas - Informe de Situaci\u00f3n No. 10 (al 25 de noviembre 2026, 12:00pm)",
       "link": "https://reliefweb.int/report/panama/panama-terremoto-en-azuero-y-veraguas-informe-de-situacion-no-10-al-25-de-noviembre-2026-1200pm",
       "source": "ReliefWeb",
@@ -57770,71 +57838,6 @@
         "USGS"
       ],
       "trend_accel": "+56%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.4 - 40 km W of Nanwalek, Alaska",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhjlso",
-      "source": "USGS",
-      "timestamp": "2026-11-24T18:11:55.296000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-24 18:08:37 UTC2026-11-24 18:08:37 UTC at epicenterLocation59.417\u00b0N 152.629\u00b0WDepth73.60 km (45.73 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Nanwalek",
-        "Alaska"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.9 - 17 km WSW of Toms Place, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468816",
-      "source": "USGS",
-      "timestamp": "2026-11-24T17:56:20.383000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-24 17:54:44 UTC2026-11-24 17:54:44 UTC at epicenterLocation37.484\u00b0N 118.847\u00b0WDepth-0.57 km (-0.35 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "WSW",
-        "Toms",
-        "Place"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+51%",
       "heat_level": "LOW"
     }
   ]
