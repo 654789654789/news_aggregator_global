@@ -2092,7 +2092,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.0,
+      "trend_score": 7.9,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -2100,7 +2100,7 @@
         "Reuters",
         "The Hindu"
       ],
-      "trend_accel": "+65%",
+      "trend_accel": "+64%",
       "heat_level": "SURGING"
     },
     {
@@ -6548,6 +6548,39 @@
     }
   ],
   "Tech": [
+    {
+      "title": "\u2018GTA VI\u2019 release has swept PlayStation 5 off the shelves worldwide - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFBJSlcySmFjbUdaNDJpYXUtX1N1ZXNtSFFWaEFpUkdIUms0ME1QSm8wV2Z0YWRoM0lYb2hITnpuTXMyMDVXVDVRQVd2RVhlYmljdWRGTVlpNTUzZmlGZHF6V2RVZ3E3ZkM0aV9vUldabDJJcDRxZ2dHcWRIVThpUG9KekI0bXFqWlpLVUNnVU8xaS1QYWtaSFRQRDdzVFFGTmRzYXh6Wl9NaHRpNFE?oc=5",
+      "source": "Google News",
+      "timestamp": "2026-11-27T23:23:11+00:00",
+      "score": 15,
+      "summary": "\u2018GTA VI\u2019 release has swept PlayStation 5 off the shelves worldwide The Washington PostJust How Big Was the Grand Theft Auto VI Launch? The New York Times\u201cGrand Theft Auto\u201d Is the \u201cMona Lisa\u201d of Video Games The NationSony says 'GTA 6' players logged nearly 78,000 years of PlayS...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Aggregator",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "PlayStation",
+        "Washington",
+        "Post"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Google News"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
     {
       "title": "The new iPad Mini is getting its first major discount for Black Friday",
       "link": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
@@ -13291,26 +13324,32 @@
       ],
       "trend_accel": "+45%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "Google Search\u2019s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source": "TechCrunch",
-      "timestamp": "2026-11-23T19:14:46+00:00",
-      "score": 14,
-      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "title": "Police Link Release of Substance at Don Toliver Concert to Robbery Attempts",
+      "link": "https://www.nytimes.com/2026/11/27/world/europe/don-toliver-manchester-substance-robberies.html",
+      "source": "NYT",
+      "timestamp": "2026-11-27T23:24:27+00:00",
+      "score": 12,
+      "summary": "The police in Manchester, England, said they believed \u201corganized criminals targeted people in the crowd to commit a series of robberies\u201d during the concert on Sunday night.",
       "country": "US",
       "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
-      "source_bias": "Low",
+      "source_type": "Newspaper",
+      "trust_score": 9,
+      "source_bias": "Moderate",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Searchs",
-        "Mode",
-        "Drive",
-        "Wallet"
+        "Link",
+        "Release",
+        "Substance",
+        "Don",
+        "Toliver",
+        "Concert",
+        "Robbery",
+        "Attempts"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -13319,15 +13358,48 @@
       "breaking": false,
       "trending": false,
       "trend_score": 0.0,
-      "source_count": 3,
+      "source_count": 7,
       "sources_reporting": [
-        "TechCrunch"
+        "ABC Australia",
+        "NYT"
       ],
-      "trend_accel": "+51%",
+      "trend_accel": "+67%",
+      "heat_level": "HOT"
+    },
+    {
+      "title": "Emergency warning after landslide on the Mornington Peninsula",
+      "link": "https://www.abc.net.au/news/2026-11-28/landslide-mccrae-mornington-peninsula-warning/107437814",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-27T23:17:29+00:00",
+      "score": 12,
+      "summary": "People are being warned to stay away from the landslide as authorities assess its impact, which is believed to include damage to a house.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Climatic"
+      ],
+      "entities": [
+        "Mornington",
+        "Peninsula"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": true,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+48%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
     {
       "title": "Police link substance release at concert to robbery attempts",
       "link": "https://www.abc.net.au/news/2026-11-28/don-toliver-manchester-concert-substance-robbery-attempt-police/107437726",
@@ -19726,76 +19798,6 @@
       ],
       "trend_accel": "+46%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Australia gets its 'holy grail', but China still plotting in the Pacific",
-      "link": "https://www.abc.net.au/news/2026-11-27/china-solomon-islands-security-pact-ends/107429200",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-26T18:56:00+00:00",
-      "score": 14,
-      "summary": "With Australia and Solomon Islands signing a treaty this week, the country's controversial deal with China is officially over. But is this the end of the tug-of-war over the Pacific?",
-      "country": "China",
-      "region": "East Asia",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "China",
-        "Pacific"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Reporters Without Borders demands suspension of controversial French TV channel CNews",
-      "link": "https://www.france24.com/en/france/20261126-reporters-without-borders-demands-suspension-controversial-french-tv-channel-cnews",
-      "source": "France24",
-      "timestamp": "2026-11-26T18:48:41+00:00",
-      "score": 12,
-      "summary": "Paris-based international press freedom group Reporters Without Borders (RSF) on Thursday called on France's media regulator Arcom to suspend right-wing channel CNews for one month over its failure to uphold pluralism. The news channel owned by conservative billionaire Vincent...",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "Without",
-        "Borders",
-        "French",
-        "CNews"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+51%",
-      "heat_level": "LOW"
     }
   ],
   "Business": [
@@ -23966,7 +23968,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.8,
+      "trend_score": 8.7,
       "source_count": 10,
       "sources_reporting": [
         "CNBC",
@@ -23975,7 +23977,7 @@
         "NYT",
         "Reuters"
       ],
-      "trend_accel": "+77%",
+      "trend_accel": "+76%",
       "heat_level": "SURGING"
     },
     {
@@ -26483,6 +26485,66 @@
     }
   ],
   "Science": [
+    {
+      "title": "Rocks under the lens: A simple microscope opens new possibilities for quantitative rock analysis",
+      "link": "https://phys.org/news/2026-11-lens-simple-microscope-possibilities-quantitative.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-27T18:20:10-05:00",
+      "score": 12,
+      "summary": "Rocks hold a wealth of information about Earth's history. The size, shape and orientation of the mineral grains that make them up can reveal how rocks formed, deformed and changed deep beneath the surface. However, collecting this information has traditionally required special...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "Lab experiments suggest bat RSV can enter human cells, but existing antibodies block it",
+      "link": "https://phys.org/news/2026-11-lab-rsv-human-cells-antibodies.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-27T18:20:01-05:00",
+      "score": 12,
+      "summary": "Respiratory syncytial virus (RSV) causes severe respiratory disease and is responsible for numerous deaths each year. A research team led by DZIF scientist Dr. Wendy K. Jo and DZIF scientist Dr. Jan Felix Drexler at Charit\u00e9\u2014University Medicine Berlin, as well as DZIF board mem...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "RSV"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Battery-free implant harvests ultrasound energy and glows to reveal its condition",
       "link": "https://phys.org/news/2026-11-battery-free-implant-harvests-ultrasound.html",
@@ -29484,7 +29546,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.2,
+      "trend_score": 8.1,
       "source_count": 11,
       "sources_reporting": [
         "AP",
@@ -29493,7 +29555,7 @@
         "NPR",
         "Phys.org"
       ],
-      "trend_accel": "+68%",
+      "trend_accel": "+67%",
       "heat_level": "SURGING"
     },
     {
@@ -32575,69 +32637,6 @@
         "Phys.org"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Mindfulness training may bring out the worst in some employees",
-      "link": "https://phys.org/news/2026-11-mindfulness-worst-employees.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-24T16:50:01-05:00",
-      "score": 12,
-      "summary": "Contrary to popular belief, mindfulness training in the workplace can make some employees angrier and more likely to treat coworkers with disrespect.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Researchers reveal inner-core structural evolution of Typhoon Bavi using multisensor satellite observations",
-      "link": "https://phys.org/news/2026-11-reveal-core-evolution-typhoon-bavi.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-24T16:40:09-05:00",
-      "score": 12,
-      "summary": "Tropical cyclones frequently undergo rapid, complex structural changes within their inner cores, such as eyewall replacement and wind-field expansion, that strongly influence typhoon intensity and coastal hazards. However, capturing these multilayered transformations continuou...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Climatic"
-      ],
-      "entities": [
-        "Typhoon",
-        "Bavi"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ],
@@ -42812,7 +42811,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.2,
+      "trend_score": 11.1,
       "source_count": 17,
       "sources_reporting": [
         "Deadline",
@@ -42822,7 +42821,7 @@
         "THR",
         "Variety"
       ],
-      "trend_accel": "+81%",
+      "trend_accel": "+80%",
       "heat_level": "CRITICAL"
     },
     {
