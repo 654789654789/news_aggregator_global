@@ -1,6 +1,39 @@
 {
   "Politics": [
     {
+      "title": "U.S. military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+      "link": "https://www.pbs.org/newshour/world/u-s-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports",
+      "source": "PBS",
+      "timestamp": "2026-11-27T14:39:21-05:00",
+      "score": 12,
+      "summary": "A military aircraft fired \"precision munitions\" at the stern of the Palau-flagged M/V Pacific Archer on Thursday, and the \"ship's propulsion was ultimately disabled and the civilian crew was unharmed,\" U.S. Central Command said in a statement.",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [
+        "Military"
+      ],
+      "entities": [
+        "Iranian"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "PBS"
+      ],
+      "trend_accel": "+50%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
       "link": "https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece",
       "source": "The Hindu",
@@ -733,7 +766,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 8.1,
+      "trend_score": 8.0,
       "source_count": 10,
       "sources_reporting": [
         "BBC",
@@ -6498,25 +6531,26 @@
       ],
       "trend_accel": "+43%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "Tech": [
     {
-      "title": "Karnataka Industries Minister holds talks with four Japanese companies",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-industries-minister-holds-talks-with-four-japanese-companies/article71747908.ece",
-      "source": "The Hindu",
-      "timestamp": "2026-11-27T02:22:06+05:30",
+      "title": "You might lose your Oura health data if you\u2019re still using an old Android phone",
+      "link": "https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11",
+      "source": "Verge",
+      "timestamp": "2026-11-27T14:44:19-05:00",
       "score": 12,
-      "summary": "Large and Medium Industries Minister M.B. Patil held discussions with four Japanese companies, the fourth day of his visit to Japan, focusing on their existing operations in Karnataka and expansion plans",
-      "country": "Japan",
-      "region": "East Asia",
-      "source_type": "Newspaper",
+      "summary": "Oura will be dropping support for Android 11 on December 8th, 2026, and users may not have access to all of their data if they don't upgrade to Android 12 or higher before the deadline. The support page now reads: Oura will drop support for Android 11 on December 8, 2026. If y...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Tech Publication",
       "trust_score": 8,
-      "source_bias": "Moderate",
+      "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
       "entities": [
-        "Industries",
-        "Minister",
-        "Japanese"
+        "Oura",
+        "Android"
       ],
       "severity_score": 0,
       "alert_level": "low",
@@ -6527,13 +6561,11 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "The Hindu"
+        "Verge"
       ],
-      "trend_accel": "+49%",
+      "trend_accel": "+51%",
       "heat_level": "LOW"
-    }
-  ],
-  "Tech": [
+    },
     {
       "title": "The best Black Friday deals on smart home gear",
       "link": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
@@ -13276,25 +13308,24 @@
       ],
       "trend_accel": "+50%",
       "heat_level": "LOW"
-    },
+    }
+  ],
+  "World": [
     {
-      "title": "The best Black Friday deals we\u2019ve already found",
-      "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-      "source": "Verge",
-      "timestamp": "2026-11-23T12:14:20-05:00",
-      "score": 14,
-      "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn\u2019t officially until Friday, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a ...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Tech Publication",
-      "trust_score": 8,
+      "title": "Australia selling more wine than it is making but huge glut persists",
+      "link": "https://www.abc.net.au/news/2026-11-28/australian-wine-glut-continues-despite-sales-production/107425900",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-27T19:40:41+00:00",
+      "score": 10,
+      "summary": "Sales of Australian wine have overtaken previous production volumes, but a glut of millions of litres persists.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
       "source_bias": "Low",
       "headline_quality": 10.0,
       "topic_tags": [],
-      "entities": [
-        "Black",
-        "Friday"
-      ],
+      "entities": [],
       "severity_score": 0,
       "alert_level": "low",
       "mode": "normal",
@@ -13304,13 +13335,74 @@
       "trend_score": 0.0,
       "source_count": 4,
       "sources_reporting": [
-        "Verge"
+        "ABC Australia"
       ],
-      "trend_accel": "+56%",
+      "trend_accel": "+44%",
       "heat_level": "LOW"
-    }
-  ],
-  "World": [
+    },
+    {
+      "title": "MotoGP world champion Marquez announces shock retirement",
+      "link": "https://www.abc.net.au/news/2026-11-28/motogp-world-champion-marc-marquez-announces-shock-retirement/107437638",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-27T19:38:11+00:00",
+      "score": 12,
+      "summary": "Marc Marquez will take his final bow in Valencia after the eight-time MotoGP champion announced on Friday that he would retire following the 2026 season finale, ending one of motorcycle racing's greatest careers.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Marquez"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "U.S. disables ship trying to leave Iran, as Tehran vows to confront blockade",
+      "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-commercial-ship-trying-to-run-iran-blockade/article71752214.ece",
+      "source": "The Hindu",
+      "timestamp": "2026-11-28T01:05:02+05:30",
+      "score": 12,
+      "summary": "Mohammad Mokhber, an adviser to \u2060Iran\u2019s Supreme Leader Ayatollah Mojtaba Khamenei, said: \u201cNeither will the Strait of Hormuz be \u200creopened, nor will we allow the blockade to remain in place,\u201d Iranian state media reported",
+      "country": "Iran",
+      "region": "Middle East",
+      "source_type": "Newspaper",
+      "trust_score": 8,
+      "source_bias": "Moderate",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Iran",
+        "Tehran"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "The Hindu"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Live: Wallabies seeking revenge against Ireland in Nations Championship",
       "link": "https://www.abc.net.au/news/2026-11-28/wallabies-vs-ireland-nations-championship-live-blog-updates/107437612",
@@ -19715,118 +19807,6 @@
         "France24"
       ],
       "trend_accel": "+49%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "G\u00e9rard Depardieu Is Ordered to Stand Trial Over Rape Accusation",
-      "link": "https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html",
-      "source": "NYT",
-      "timestamp": "2026-11-26T14:17:40+00:00",
-      "score": 12,
-      "summary": "The actress Charlotte Arnould has accused the French movie star of raping her in 2018. He has denied any wrongdoing in the case.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Depardieu",
-        "Ordered",
-        "Stand",
-        "Trial",
-        "Over",
-        "Rape",
-        "Accusation"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "\u00c9milie K\u00f6nig, 'the muse of the Islamic State group' goes on trial in France",
-      "link": "https://www.france24.com/en/video/20261126-%C3%A9milie-k%C3%B6nig-the-muse-of-the-islamic-state-group-goes-on-trial-in-france",
-      "source": "France24",
-      "timestamp": "2026-11-26T14:17:30+00:00",
-      "score": 12,
-      "summary": "French anti-terrorism prosecutors once dubbed her \"the muse of the Islamic State group\". On Thursday, \u00c9milie K\u00f6nig appears before a special criminal court in Paris, seeking to convince judges that she has been deradicalised. Originally from western France, K\u00f6nig spent a decade...",
-      "country": "France",
-      "region": "Europe",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Knig",
-        "Islamic",
-        "State",
-        "France"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "France24"
-      ],
-      "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
-      "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
-      "source": "NYT",
-      "timestamp": "2026-11-26T14:01:45+00:00",
-      "score": 12,
-      "summary": "Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.",
-      "country": "Russia",
-      "region": "Europe",
-      "source_type": "Newspaper",
-      "trust_score": 9,
-      "source_bias": "Moderate",
-      "headline_quality": 10.0,
-      "topic_tags": [
-        "Geopolitics"
-      ],
-      "entities": [
-        "High",
-        "Salaries",
-        "Some",
-        "Brazilians",
-        "Were",
-        "Duped",
-        "Into",
-        "Fighting",
-        "Russia"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "NYT"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -26508,6 +26488,64 @@
   ],
   "Science": [
     {
+      "title": "Antarctic sea ice extent hits new low",
+      "link": "https://phys.org/news/2026-11-antarctic-sea-ice-extent.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-27T14:40:06-05:00",
+      "score": 10,
+      "summary": "Satellite observations show Antarctic sea ice coverage dipped to record daily lows in October 2026, surpassing even the extremely low extent observed in October 2023\u2014the year poor sea ice conditions led to the deaths of thousands of emperor penguin chicks in Antarctica.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+46%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "European oil and gas firms likely downplayed energy crisis profits, study finds",
+      "link": "https://phys.org/news/2026-11-european-oil-gas-firms-downplayed.html",
+      "source": "Phys.org",
+      "timestamp": "2026-11-27T14:40:01-05:00",
+      "score": 10,
+      "summary": "Following the Russian attack on Ukraine in February 2022, energy costs rose sharply and many households and businesses felt the financial burden immediately. Oil and gas companies, however, were making extraordinary profits during this time. As public criticism of high energy ...",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Science Publication",
+      "trust_score": 9,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "Phys.org"
+      ],
+      "trend_accel": "+47%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "Study shows path to more resilient future for Canada's forests",
       "link": "https://phys.org/news/2026-11-path-resilient-future-canada-forests.html",
       "source": "Phys.org",
@@ -32582,64 +32620,6 @@
         "Phys.org"
       ],
       "trend_accel": "+45%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Iron nanoparticles help light-based therapy destroy missed cancer cells",
-      "link": "https://phys.org/news/2026-11-iron-nanoparticles-based-therapy-destroy.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-24T13:40:01-05:00",
-      "score": 10,
-      "summary": "Some cancer cells slip past even the most precise treatments and then grow back. Researchers at Nagoya University in Japan may have found a way to reach them. The team improved a light-based cancer treatment by adding tiny iron particles. In mice, their therapy shrank tumors m...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+47%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Selective logging can better preserve subtropical forest adaptive capacity than clear-cutting",
-      "link": "https://phys.org/news/2026-11-subtropical-forest-capacity.html",
-      "source": "Phys.org",
-      "timestamp": "2026-11-24T13:30:01-05:00",
-      "score": 10,
-      "summary": "Adaptive capacity\u2014the ability to cope with disturbances and environmental change\u2014offers a useful perspective for sustainable forest management. However, applying this concept to logging remains challenging, and a key question is how different logging practices affect forest ad...",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Science Publication",
-      "trust_score": 9,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "Phys.org"
-      ],
-      "trend_accel": "+50%",
       "heat_level": "LOW"
     }
   ],
@@ -47331,6 +47311,48 @@
   ],
   "Lifestyle": [
     {
+      "title": "The Best Amazon Black Friday Deals to Shop Right Now",
+      "link": "https://www.gq.com/story/amazon-cyber-monday-deals-11-27-2026",
+      "source": "GQ",
+      "timestamp": "2026-11-27T19:33:23+00:00",
+      "score": 14,
+      "summary": "If you're looking for Everything Store deals that don't suck, you've come to the right place.",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Lifestyle",
+      "trust_score": 8,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Best",
+        "Amazon",
+        "Black",
+        "Friday",
+        "Deals",
+        "Shop",
+        "Right",
+        "Now"
+      ],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": true,
+      "trend_score": 9.4,
+      "source_count": 16,
+      "sources_reporting": [
+        "GQ",
+        "Guardian",
+        "NHK",
+        "NPR",
+        "Vogue"
+      ],
+      "trend_accel": "+72%",
+      "heat_level": "CRITICAL"
+    },
+    {
       "title": "Bogner\u2019s 2026 Black Friday Sale Will Have You Covered on the Slopes",
       "link": "https://www.gq.com/gallery/bogner-black-friday-sale-11-27-2026",
       "source": "GQ",
@@ -47547,8 +47569,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 12,
       "sources_reporting": [
         "AP",
@@ -47760,14 +47782,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
+      "trending": true,
+      "trend_score": 8.6,
+      "source_count": 13,
       "sources_reporting": [
+        "BBC",
+        "GQ",
+        "Guardian",
+        "PBS",
         "Vogue"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
+      "trend_accel": "+72%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Best Black Friday Clothing Deals 2026\u2014Net-a-Porter, Nordstrom & More",
@@ -47797,8 +47823,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.4,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 15,
       "sources_reporting": [
         "BBC",
@@ -47838,14 +47864,18 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
+      "trending": true,
+      "trend_score": 8.6,
+      "source_count": 16,
       "sources_reporting": [
+        "GQ",
+        "Guardian",
+        "NHK",
+        "NPR",
         "Vogue"
       ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
+      "trend_accel": "+72%",
+      "heat_level": "SURGING"
     },
     {
       "title": "Fashion label 11.11\u2019s new line is inspired by Kutch\u2019s Kadiya Dhro landscape",
@@ -47943,8 +47973,8 @@
       "mode": "normal",
       "language": "en",
       "breaking": false,
-      "trending": true,
-      "trend_score": 8.3,
+      "trending": false,
+      "trend_score": 0.0,
       "source_count": 11,
       "sources_reporting": [
         "BBC",
@@ -51529,41 +51559,6 @@
       ],
       "trend_accel": "+48%",
       "heat_level": "LOW"
-    },
-    {
-      "title": "Shop Our Favorite Celebrity Looks of the Week",
-      "link": "https://www.vogue.com/article/best-celebrity-outfits",
-      "source": "Vogue",
-      "timestamp": "2026-11-20T19:37:31+00:00",
-      "score": 12,
-      "summary": "Shop the best celebrity street style looks of the week, perfect for the season ahead\u2014just a few simple clicks away.",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Lifestyle",
-      "trust_score": 8,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Our",
-        "Favorite",
-        "Celebrity",
-        "Looks",
-        "Week"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 3,
-      "sources_reporting": [
-        "Vogue"
-      ],
-      "trend_accel": "+52%",
-      "heat_level": "LOW"
     }
   ],
   "CrisisWatch": [
@@ -51596,6 +51591,70 @@
         "NHC"
       ],
       "trend_accel": "+48%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 0.8 - 19 km NE of Thermal, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41580840",
+      "source": "USGS",
+      "timestamp": "2026-11-27T19:43:17.104000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-27 19:39:52 UTC2026-11-27 19:39:52 UTC at epicenterLocation33.753\u00b0N 115.990\u00b0WDepth1.52 km (0.94 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Thermal"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+56%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 2.3 - 67 km ENE of Ouzinkie, Alaska",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xnaiuh",
+      "source": "USGS",
+      "timestamp": "2026-11-27T19:34:34.994000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-27 19:33:06 UTC2026-11-27 19:33:06 UTC at epicenterLocation58.230\u00b0N 151.518\u00b0WDepth17.40 km (10.81 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "ENE",
+        "Ouzinkie",
+        "Alaska"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 4,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+53%",
       "heat_level": "LOW"
     },
     {
@@ -58086,70 +58145,6 @@
         "USGS"
       ],
       "trend_accel": "+52%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 2.1 - 12 km SSE of Livermore, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75469611",
-      "source": "USGS",
-      "timestamp": "2026-11-26T15:14:20.940000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-26 15:10:09 UTC2026-11-26 15:10:09 UTC at epicenterLocation37.583\u00b0N 121.710\u00b0WDepth4.30 km (2.67 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "SSE",
-        "Livermore"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "M 1.4 - 6 km NW of Glen Avon, CA",
-      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41580528",
-      "source": "USGS",
-      "timestamp": "2026-11-26T15:11:14.960000+00:00",
-      "score": 15,
-      "summary": "Time2026-11-26 15:07:54 UTC2026-11-26 15:07:54 UTC at epicenterLocation34.054\u00b0N 117.524\u00b0WDepth5.56 km (3.45 mi)",
-      "country": "US",
-      "region": "Americas",
-      "source_type": "Government Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Glen",
-        "Avon"
-      ],
-      "severity_score": 3,
-      "alert_level": "low",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "USGS"
-      ],
-      "trend_accel": "+57%",
       "heat_level": "LOW"
     }
   ]
