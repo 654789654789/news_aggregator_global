@@ -8807,7 +8807,7 @@
       "language": "en",
       "breaking": false,
       "trending": true,
-      "trend_score": 11.1,
+      "trend_score": 11.0,
       "source_count": 15,
       "sources_reporting": [
         "Google News",
@@ -13379,6 +13379,35 @@
     }
   ],
   "World": [
+    {
+      "title": "School camp staffer fired after reports of inappropriate touching",
+      "link": "https://www.abc.net.au/news/2026-11-28/aussie-bush-camp-police/107438418",
+      "source": "ABC Australia",
+      "timestamp": "2026-11-28T09:52:31+00:00",
+      "score": 10,
+      "summary": "Police will attend a primary school on Monday to investigate a report of an adult inappropriately touching students at a popular school camp, north of Newcastle.",
+      "country": "Australia",
+      "region": "Oceania",
+      "source_type": "Broadcaster",
+      "trust_score": 9,
+      "source_bias": "Low",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [],
+      "severity_score": 0,
+      "alert_level": "low",
+      "mode": "normal",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 5,
+      "sources_reporting": [
+        "ABC Australia"
+      ],
+      "trend_accel": "+45%",
+      "heat_level": "LOW"
+    },
     {
       "title": "Election day rescue of hikers trapped in floodwaters at Lerderderg Gorge",
       "link": "https://www.abc.net.au/news/2026-11-28/hikers-rescued-lerderderg-gorge-bacchus-marsh/107438542",
@@ -19806,39 +19835,6 @@
         "The Hindu"
       ],
       "trend_accel": "+50%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "Breaking: Parts of stolen Melbourne Cups found by detectives",
-      "link": "https://www.abc.net.au/news/2026-11-27/parts-of-stolen-melbourne-cups-found-by-victoria-police/107434604",
-      "source": "ABC Australia",
-      "timestamp": "2026-11-27T01:18:45+00:00",
-      "score": 12,
-      "summary": "The top part of a 2003 Melbourne Cup has been seized from a property in Elsternwick along with approximately 2 kilograms of melted gold, police say.",
-      "country": "Australia",
-      "region": "Oceania",
-      "source_type": "Broadcaster",
-      "trust_score": 9,
-      "source_bias": "Low",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Parts",
-        "Melbourne",
-        "Cups"
-      ],
-      "severity_score": 0,
-      "alert_level": "low",
-      "mode": "normal",
-      "language": "en",
-      "breaking": true,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ABC Australia"
-      ],
-      "trend_accel": "+48%",
       "heat_level": "LOW"
     }
   ],
@@ -51852,6 +51848,99 @@
   ],
   "CrisisWatch": [
     {
+      "title": "M 1.0 - 15 km SW of Olancha, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41581024",
+      "source": "USGS",
+      "timestamp": "2026-11-28T09:58:58.486000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-28 09:55:32 UTC2026-11-28 09:55:32 UTC at epicenterLocation36.176\u00b0N 118.107\u00b0WDepth9.11 km (5.66 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Olancha"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.9 - 17 km SW of Lamont, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41581016",
+      "source": "USGS",
+      "timestamp": "2026-11-28T09:54:00.921000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-28 09:50:22 UTC2026-11-28 09:50:22 UTC at epicenterLocation35.171\u00b0N 119.064\u00b0WDepth13.13 km (8.16 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Lamont"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 2,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+54%",
+      "heat_level": "LOW"
+    },
+    {
+      "title": "M 1.1 - 6 km NW of The Geysers, CA",
+      "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75470671",
+      "source": "USGS",
+      "timestamp": "2026-11-28T09:50:15.693000+00:00",
+      "score": 15,
+      "summary": "Time2026-11-28 09:48:37 UTC2026-11-28 09:48:37 UTC at epicenterLocation38.822\u00b0N 122.797\u00b0WDepth1.09 km (0.68 mi)",
+      "country": "US",
+      "region": "Americas",
+      "source_type": "Government Agency",
+      "trust_score": 10,
+      "source_bias": "None",
+      "headline_quality": 10.0,
+      "topic_tags": [],
+      "entities": [
+        "Geysers"
+      ],
+      "severity_score": 3,
+      "alert_level": "low",
+      "mode": "strategic",
+      "language": "en",
+      "breaking": false,
+      "trending": false,
+      "trend_score": 0.0,
+      "source_count": 3,
+      "sources_reporting": [
+        "USGS"
+      ],
+      "trend_accel": "+55%",
+      "heat_level": "LOW"
+    },
+    {
       "title": "M 0.8 - 2 km NW of The Geysers, CA",
       "link": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75470666",
       "source": "USGS",
@@ -58358,107 +58447,6 @@
         "USGS"
       ],
       "trend_accel": "+57%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "UNHCR Albania Fact Sheet, September 2026",
-      "link": "https://reliefweb.int/report/albania/unhcr-albania-fact-sheet-september-2026",
-      "source": "ReliefWeb",
-      "timestamp": "2026-11-27T08:30:25+00:00",
-      "score": 15,
-      "summary": "Countries: Albania, Serbia, Syrian Arab Republic, Ukraine Source: UN High Commissioner for Refugees Please refer to the attached file. UNHCR advocates for a strengthened national asylum system and contributes to further developing the capacity of government authorities to alig...",
-      "country": "UN",
-      "region": "Global",
-      "source_type": "International Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Albania",
-        "Fact",
-        "Sheet",
-        "September"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 2,
-      "sources_reporting": [
-        "ReliefWeb"
-      ],
-      "trend_accel": "+59%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "UNHCR Romania Fact Sheet, September 2026",
-      "link": "https://reliefweb.int/report/romania/unhcr-romania-fact-sheet-september-2026",
-      "source": "ReliefWeb",
-      "timestamp": "2026-11-27T08:23:13+00:00",
-      "score": 15,
-      "summary": "Countries: Romania, Afghanistan, Syrian Arab Republic, Ukraine Source: UN High Commissioner for Refugees Please refer to the attached file. UNHCR supports the government\u2019s response to protect and include refugees in Romania through initiatives fostering inclusion and self-reli...",
-      "country": "UN",
-      "region": "Global",
-      "source_type": "International Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Romania",
-        "Fact",
-        "Sheet",
-        "September"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 5,
-      "sources_reporting": [
-        "ReliefWeb"
-      ],
-      "trend_accel": "+54%",
-      "heat_level": "LOW"
-    },
-    {
-      "title": "UNHCR Belarus Factsheet, September 2026",
-      "link": "https://reliefweb.int/report/belarus/unhcr-belarus-factsheet-september-2026",
-      "source": "ReliefWeb",
-      "timestamp": "2026-11-27T08:20:13+00:00",
-      "score": 15,
-      "summary": "Countries: Belarus, Afghanistan, Georgia, Ukraine Source: UN High Commissioner for Refugees Please refer to the attached file. Access to asylum: UNHCR works towards enhancing the asylum space and standardization of the state Refugee Status Determination Procedure (SRSDP) throu...",
-      "country": "UN",
-      "region": "Global",
-      "source_type": "International Agency",
-      "trust_score": 10,
-      "source_bias": "None",
-      "headline_quality": 10.0,
-      "topic_tags": [],
-      "entities": [
-        "Belarus",
-        "Factsheet",
-        "September"
-      ],
-      "severity_score": 5,
-      "alert_level": "elevated",
-      "mode": "strategic",
-      "language": "en",
-      "breaking": false,
-      "trending": false,
-      "trend_score": 0.0,
-      "source_count": 4,
-      "sources_reporting": [
-        "ReliefWeb"
-      ],
-      "trend_accel": "+52%",
       "heat_level": "LOW"
     }
   ]
